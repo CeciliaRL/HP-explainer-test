@@ -1,0 +1,58 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Karl_Broadmoore.png]]
+|name = Karl Broadmoor
+|born = c. [[1941]] or earlier<ref>If he started playing for the Falmouth Falcons in 1958, he must have been at least 17 at that time.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Dark
+|eyes = 
+|skin = White
+|family = *[[Kevin Broadmoor]] (brother)
+*[[Broadmoor family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[Falmouth Falcons]]
+|house = 
+|loyalty = *[[Broadmoor family]]
+*[[Falmouth Falcons]]
+}}
+'''Karl Broadmoor''', along with his brother, [[Kevin Broadmoor|Kevin]], was a [[Wizardkind|wizard]] and [[Beater]] for the [[Falmouth Falcons]] from [[1958]] to [[1969]]. Karl and Kevin earned no less than fourteen suspensions for their violent play and constant rule-breaking.<ref>{{QTA|R}}</ref>
+
+==Etymology==
+"Karl" is a German and Scandinavian form of ''Charles''. This was the name of seven emperors of Austria. Other famous bearers include Karl Marx (1818-1883), the German philosopher and revolutionary who laid the foundations for communism, and Karl Jaspers (1883-1969), a German existentialist philosopher.
+
+==Appearances==
+*{{QTA|R}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Broadmoor, Karl}}
+[[de:Karl Broadmoor]]
+[[es:Karl Broadmoor]]
+[[fr:Karl Broadmoor]]
+[[it:Karl Broadmoor]]
+[[pl:Karl Broadmoor]]
+[[ru:Карл Бродмур]]
+[[pt-br:Carlos Broadmoor]]
+[[Category:Beaters]]
+[[Category:British individuals]]
+[[Category:Broadmoor family]]
+[[Category:Males]]
+[[Category:Wizards]]

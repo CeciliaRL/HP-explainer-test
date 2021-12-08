@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = daily-prophet
+|image = 
+|name = E. Limus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Author<ref name="book"/>
+*Reporter<ref name="PA/f 11">{{POA|F}} - Chapter 11 (''Boggart in the Wardrobe'') (see [[:File:SiriusSightedDailyProphet.jpg|this image]])</ref> and columnist for the ''[[Daily Prophet]]''
+|house = 
+|loyalty = ''[[Daily Prophet]]''
+}}
+'''E. Limus''' was a [[Wizardkind|witch or wizard]] who worked as a reporter and columnist for the ''[[Daily Prophet]]''. In [[1993]], Limus wrote an article on how [[Sirius Black]], then believed to be a fugitive mass-murderer, had been sighted near [[Dufftown]].<ref name="PA/f 11"/> By [[1995]], Limus had a column on page five of the paper, presumably dedicated to advice or opinion.<ref name="OOTPF20">{{OOTP|F}} - Chapter 20 (see [[:File:E. Limus.JPG|this image]])</ref> In mid-[[1997]], his column moved to page six.<ref name="DHF1">{{DH|F1}}</ref>
+
+Limus also wrote the book ''[[Olde and Forgotten Bewitchments and Charmes]]''.<ref name="book">[[:File:Olde & Forgotten Bewitchments and Charmes.jpg|Book cover]] shown in ''Harry Potter Film Wizardry''</ref>
+
+==Behind the scenes==
+*This character was named after [[Eduardo Lima]], a graphic artist who has worked on every [[Harry Potter films|''Harry Potter'' film]] since ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]''.
+
+==Appearances==
+*{{POA|F}} {{1st Mention}}
+*{{OOTP|F}} {{Mention}}
+*{{DH|F1}} {{Mention}}
+*{{HPFW}} {{Mention}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+
+==Notes and references==
+{{Reflist}}
+{{Daily Prophet employees}}
+{{DEFAULTSORT:Limus, E.}}
+[[es:E. Limus]]
+[[fr:E. Limus]]
+[[pl:E. Limus]]
+[[pt-br:E. Limus]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Daily Prophet staff]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Journalists]]
+[[Category:Limus family|E.]]
+[[Category:Wizards]]

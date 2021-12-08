@@ -1,0 +1,34 @@
+{{Individual infobox
+|image = [[File:JacquelineLejeune.png|250px]]
+|name = Jacqueline Lejeune
+|born = before [[1977]], [[France]] (possibly)
+|nationality = [[France|French]]<ref name="QWC"/>
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|hair = Brown<ref name="QWC"/>
+|eyes = Brown<ref name="QWC"/>
+|skin = White<ref name="QWC"/>
+|job = [[Quidditch]] commentator<ref name="QWC"/>
+|theme = wizard
+}}'''Jacqueline Lejeune'''<ref>[http://www.nedergamen.nl/games/hpwkz ''Harry Potter: WK Zwerkbal'' credits list] (in Dutch)</ref> was a [[France|French]] [[Wizardkind|witch]] and [[Quidditch Commentator]] during the [[Quidditch World Cup]] matches.<ref name="QWC">{{QWC}}</ref>
+
+==Physical appearance==
+Jacqueline had fair, smooth-looking skin and wide brown eyes. She wore a brown lace hat atop her brown hair, and had very white teeth.<ref name="QWC"/>
+
+==Etymology==
+"''Lejeune''" is most likely derived from French "''le''", meaning "''the''" and "''jeune''", meaning "''young''" - essentially, her name is "Jacqueline the Young".
+
+==Appearances==
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Lejeune, Jacqueline}}
+[[de:Jacqueline Lejeune]]
+[[fr:Jacqueline Lejeune]]
+[[pl:Jacqueline Lejeune]]
+[[ru:Жаклин Лежен]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Quidditch commentators]]
+[[Category:Wizards]]

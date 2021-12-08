@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = slytherin
+|image = Slytherin Captains Plaque 2.jpg
+|name = Mark Overcliff
+|born = c. [[1740s]]-[[1750s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+**[[Slytherin Quidditch team]]
+}}
+'''Mark Overcliff''' was a [[Slytherin]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1760s]]. He was [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin]] [[Quidditch]] [[Slytherin Quidditch team|team]] beginning in [[1760]].<ref>{{HPPS}}, p. 349 {{see image|File:Slytherin Captains Plaque 2.jpg}}</ref>
+
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[David Makehay]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]]
+|years=[[1760]]—?
+|successor=Unknown, eventually [[Winky Crockett (Slytherin)|Winky Crockett]]
+}}
+{{End box}}
+
+{{DEFAULTSORT:Overcliff, Mark}}
+
+[[pl:Mark Overcliff]]
+[[pt-br:Mark Overcliff]]
+[[ru:Марк Оверклифф]]
+[[fr:Mark Overcliff]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1750s]]
+[[Category:Wizards]]

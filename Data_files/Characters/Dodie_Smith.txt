@@ -1,0 +1,50 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Dodie Smith
+|born = [[3 May]], [[1896]]
+|died = [[24 November]], [[1990]] (aged 94)
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author
+|house = 
+|loyalty = 
+}}
+'''Dodie Smith''' ([[3 May]], [[1896]] - [[24 November]], [[1990]]) was a [[Non-magic people|Muggle]] author who wrote ''[[I Capture the Castle]]''.<ref name="JKRS">{{JKRS}}</ref>
+
+==Behind the scenes==
+The real-life [[Wikipedia:Dodie Smith|Dodie Smith]] was the author of ''I Capture the Castle'', but is perhaps most well-known for her title ''{{wplink|The Hundred and One Dalmatians}}'', which was also adapted as a popular Disney animated film in 1961, and again as a live-action film in 1998.
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Smith, Dodie}}
+
+
+[[pl:Dodie Smith]]
+[[Category:1896 births]]
+[[Category:1990 deaths]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggles]]

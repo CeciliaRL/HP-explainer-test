@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = muggle
+|image = Megan Scott - FBC.png
+|name = Megan Scott
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = *Green
+*Ginger (formerly)
+|eyes = Green
+|skin = Light
+|family = [[Catherine Tyler]] (grandmother) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Megan Scott''' was a [[Great Britain|British]] [[Non-magic people|Muggle]] that lived in [[Yorkshire]].
+
+==Biography==
+She was found unconscious in a [[Yorkshire]] graveyard by [[Mathilda Grimblehawk]] and [[Mathilda Grimblehawk's partner|her partner]] after she was attacked.<ref name="FBC9-1">{{FBC|9|1}}</ref> [[Healer]] [[Omar Abasi]] was able to mend her wounds and she explained that [[Catherine Tyler|her grandmother]], who was recently deceased, had given her a map of the area and told to 'seek her past' and that '[[Horatio Cloke|Cloke]] knows the truth'.<ref name="FBC9-1"/>
+
+[[Jacturus Cloke III]] later attacked her and cast the [[Incarcerous Spell]], tying her up. However, Cloke was then driven off by a protective [[Unicorn]]. <ref name="FBC9-3">{{FBC|9|3}}</ref> It was later revealed that he had been hunting the unicorn, attempting to gather valuable [[Unicorn hair|hair]], [[Unicorn horn|horn]], and [[Unicorn blood|blood]] from it to restore his family's lost fortune.<ref name="FBC9-4" />
+
+Mathilda Grimblehawk and her partner were able to set her free, but because of everything she had seen, they ultimately had to [[Memory Charm|Obliviate]] her. They gave her a chest full of gold and jewels that [[Horatio Cloke]] had stashed away when planning to elope with her grandmother, hence her cryptic statement.<ref name="FBC9-4">{{FBC|9|4}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Scott, Megan}}
+[[fr:Megan Scott]]
+[[pl:Megan Scott]]
+[[ru:Меган Скотт]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Muggles]]

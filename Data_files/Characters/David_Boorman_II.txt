@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = David Boorman
+|born = Before [[1985]] or earlier<ref name="age">He was at least in his first year at [[Hogwarts School of Witchcraft and Wizardry]] in [[1996]]</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[David Boorman I|David Boorman (I)]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+}}
+'''David Boorman''' was a [[Wizardkind|wizard]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He competed in the school [[Gobstones]] tournament during the [[1996–1997 school year]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Etymology==
+"David" is from the Hebrew name דָּוִד (''Dawid''), which was probably derived from Hebrew דוד (''dwd'') meaning "beloved". [[Goliath's slayer|David]] was the second and greatest of the kings of Israel, ruling in the 10th century BC. Several stories about him are told in the Old Testament, including his defeat of [[Goliath]], a [[giant]] [[Wikipedia:Philistines|Philistine]]. This name has been used in Britain since the Middle Ages. It has been especially popular in Wales, where it is used in honour of the 5th-century patron saint of Wales (also called Dewi), as well as in Scotland, where it was borne by two kings.
+
+==Appearances==
+*{{HBP|G}} {{1st}} {{C|Nintendo DS version only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts Gobstones}}
+{{DEFAULTSORT:Boorman, David}}
+[[fr:David Boorman]]
+[[pl:David Boorman (II)]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gobstones players]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

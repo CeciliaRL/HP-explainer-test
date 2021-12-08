@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Silvanus Kettleburn's father
+|born = 
+|died = 
+|blood = 
+|marital = Married
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PPH"/>
+|gender = Male<ref name="PPH"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Silvanus Kettleburn]] (son)
+*[[Silvanus Kettleburn's mother|Mrs Kettleburn]] (wife)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Kettleburn family]]<ref name="PPH"/>
+}}
+'''Mr Kettleburn''' was a [[wizardkind|wizard]] and the father of [[Silvanus Kettleburn]], former [[Care of Magical Creatures]] [[Professor]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PPH">{{PP|H}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{PP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[pl:Pan Kettleburn]]{{DEFAULTSORT:Kettleburn, Silvanus father}}
+[[Category:British individuals]]
+[[Category:Kettleburn family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

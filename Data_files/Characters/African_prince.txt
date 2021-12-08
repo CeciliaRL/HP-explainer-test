@@ -1,0 +1,46 @@
+{{Conjecture}} 
+{{Individual infobox
+|theme = individual
+|image = 
+|name = African prince
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Prince<ref name="PS8" />
+|signature = 
+|species = [[Human]]<ref name="PS8" />
+|gender = Male<ref name="PS8" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|[[Quirinus Quirrell|His]] [[Quirinus Quirrell's turban|turban]], he told them, had been given to him by an African prince as a thank-you for getting rid of a troublesome [[zombie]], but they weren't sure they believed this story.|Alleged African prince|Harry Potter and the Philosopher's Stone}}
+An '''[[Africa]]n [[prince]]''' allegedly gifted [[Quirinus Quirrell]] with a [[Quirinus Quirrell's turban|turban]] as a token of his gratitude after the [[professor]] had rid him of a bothersome [[zombie]]. However, Quirrell's [[first year]] [[Defence Against the Dark Arts]] students in the [[1991–1992 school year]] were unsure if they believed his story or not.<ref name="PS8">{{PS|B|8}}</ref>
+
+==Behind the scenes==
+*Although [[Quirinus Quirrell]] claimed to have received his turban from this individual,<ref name="PS8" /> Quirrell used the turban to hide the face of [[Tom Riddle|Lord Voldemort]] on the back of his head.<ref name="PS17">{{PS|B|17}}</ref> Therefore, it is possible that this individual does not exist, particularly as there are no [[Wizardkind|wizarding]] princes,<ref name="HBP16">{{HBP|B|16}}</ref> and it would be odd if a [[Non-magic people|Muggle]] prince knew about a zombie. Additionally, zombies are known to be native to the [[United States of America]],<ref name="PM">{{PM}}</ref> as opposed to the continent of [[Africa]].
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Prince africain]]
+[[Category:African individuals]]
+[[Category:Males]]
+[[Category:Royalty]]
+[[Category:Unidentified individuals]]

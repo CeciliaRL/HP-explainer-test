@@ -1,0 +1,34 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Antioch's enemy.jpg|250px]]
+|name = Antioch Peverell's enemy
+|died = Between [[12 July]], [[1214]] and [[18 May]], [[1291]]
+|species = [[Human]]<ref name="TBB"/>
+|gender = Male<ref name="TBB"/>
+|wand = Unknown length, wood and core<ref name="TBB"/>
+|theme = wizard
+}}
+{{Quote|The first brother travelled on for a week or more, and reaching a distant village, he sought out a fellow wizard with whom he had a quarrel. Naturally, with the Elder Wand as his weapon, he could not fail to win the duel that followed. Leaving his enemy dead upon the floor, the oldest brother proceeded to an inn, where he boasted loudly of the powerful wand he had snatched from Death himself, and of how it made him invincible.|[[Beedle the Bard]], ''[[The Tale of the Three Brothers]]''|The Tales of Beedle the Bard (real)}}
+This '''man''' (fl. [[13th century]]) was a [[Wizardkind|wizard]] with whom [[Antioch Peverell]] had a quarrel.<ref name="TBB">{{TBB|R}}</ref>
+
+[[File:Antioch kills.jpg|200px|thumb|left|[[Antioch Peverell|Antioch]] killing this wizard in a [[Duelling|duel]]]]
+When Antioch obtained his [[Elder Wand|unbeatable wand]], he killed this wizard in a [[Duel between Antioch Peverell and his enemy|duel]] and later went into an inn, where he boasted about his powerful wand. [[Antioch Peverell|Peverell]], while sleeping "wine-sodden", had his wand stolen and his throat slit by a [[Antioch Peverell's killer|thief]].<ref name="TBB"/>
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{DH|F1}} {{1st}} {{Flashback}}
+*{{DH|G1}} {{Flashback}}
+*{{TBB|R}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:Enemigo de Antioch Peverell]]
+[[pl:Wróg Antiocha Peverella]]
+[[Category:13th century deaths|Peverell's enemy]]
+[[Category:Historical figures]]
+[[Category:Males|Peverell's enemy]]
+[[Category:Murder victims|Peverell's enemy]]
+[[Category:The Tales of Beedle the Bard]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards|Peverell's enemy]]

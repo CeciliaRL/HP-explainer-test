@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Mervyn Wynch
+|hideb=
+|born=Between [[1 September]] [[1975]] and [[31 August]] [[1978]]<ref>To have been a Prefect in the 1993-1994 school year, he would have had to have been in his fifth year or up by that point, thus putting his possible range of birth dates between [[1 September]], [[1975]] and [[31 August]], [[1978]].</ref>,<br/>[[Great Britain]] or [[Ireland]]<ref>[http://www.accio-quote.org/articles/2000/0700-swns-alfie.htm World Exclusive Interview with J K Rowling]</ref>
+|died=
+|blood=
+|alias=
+|title=[[Prefect]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=*Wynch family
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Mervyn Wynch''' was a student who began attending [[Hogwarts School of Witchcraft and Wizardry]] between [[1987]] and [[1989]].
+
+==Biography==
+By the [[1993-1994 school year]], he had been made a [[Prefect]], and was tasked with patrolling areas of the school off limits to students.
+
+May be related to Wynch of [[Wynch & Tugg Movers]] fame.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}} 
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Wynch, Mervyn}}
+
+[[es:Mervyn Wynch]]
+[[pl:Mervyn Wynch]]
+[[Category:1970s births]]
+[[Category:British individuals]]
+[[Category:Hogwarts prefects]]
+[[Category:Males]]
+[[Category:Sorted in the 1980s]]
+[[Category:Wizards]]

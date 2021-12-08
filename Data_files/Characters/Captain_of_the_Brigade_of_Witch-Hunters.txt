@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Captain of the Brigade of Witch-Hunters
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = Captain
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Captain of the [[Brigade of Witch-Hunters]]
+|house = 
+|loyalty = [[Brigade of Witch-Hunters]]
+}}
+{{Quote|Your Majesty, this very morning, Sabre died of eating a poisonous toadstool! Bring him back to life, Your Majesty, with your wand!|The Captain|The Tales of Beedle the Bard (real)}}
+
+The '''Captain''' of the [[Brigade of Witch-Hunters]] was a character in popular wizarding tale ''[[Babbitty Rabbitty and her Cackling Stump]]'', by [[Beedle the Bard]].
+
+==History==
+{{Quote| ''[The King]'' commanded the head of his army to form a Brigade of Witch-Hunters, and issued them with a pack of ferocious black hounds|[[Beedle the Bard]], ''[[Babbitty Rabbitty and her Cackling Stump]]''.|The Tales of Beedle the Bard (real)}}
+According to the tale, the [[Brigade of Witch-Hunters]] was created a long time ago by a [[Non-magic people|Muggle]] [[King (Babbitty Rabbitty and her Cackling Stump)|King]] of a very far away land who wanted to keep all the magic in the world for himself. In order to do so, he needed to gather all the [[Wizardkind|wizards and witches]] in the world, so he formed the Brigade and ordered this man its captain.<ref name="Babbitty Rabbitty">{{TBB|R}} - Chapter 4 (''Babbitty Rabbitty and her Cackling Stump'')</ref>
+
+Later in the tale, the Captain requested the King to bring [[Sabre]], a hound from the Brigade, back to life with his "wand" (actually a twig with no magical powers whatsoever sold to him by a [[Charlatan]]). When the King's court mocked him for having no magical powers, he ordered the charlatan to be killed, however, the charlatan told him that [[Babbitty Rabbity|Babbitty]], a witch and the King's washerwoman, was blocking his spells. When Babbitty denounced the charlatan for the fraud he was, she proposed the Captain to cut him in half, a deed the Captain was eager to do.<ref name="Babbitty Rabbitty"/>
+
+==Appearances==
+*{{TBB|R}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Tales of Beedle}}
+
+[[es:Capitán de la Brigada de Cazadores de Brujas]]
+[[Category:Fictional characters]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:The Tales of Beedle the Bard]]

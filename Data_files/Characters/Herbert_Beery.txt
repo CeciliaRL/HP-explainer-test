@@ -1,0 +1,82 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Herbert Beery
+|born = No later than between [[1948]] and [[1954]]<ref name="born">Beery left Hogwarts before Dumbledore became Headmaster, an event which occurred between 1965 and 1971. As he was teaching at Hogwarts, he had to have turned 17 sometime before either of those dates - this places his ''latest'' date of birth between 1948 and 1954 inclusive, depending on his time of leaving Hogwarts to teach at W.A.D.A.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="TBB" />
+|signature = 
+|species = [[Human]]<ref name="TBB" />
+|gender = Male<ref name="TBB" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Professor]] of [[Herbology]] (? - before [[1965]]-[[1971]])<ref>As [[Albus Dumbledore]] was [[Headmaster]] at this time, and Beery left during [[Armando Dippet]]'s tenure.</ref>
+*Professor at the [[Wizarding Academy of Dramatic Arts]] (before [[1965]]-[[1971]] - ?)<ref name="TBB" />
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="TBB" />
+*[[Wizarding Academy of Dramatic Arts]]<ref name="TBB" />
+}}
+'''Professor Herbert Beery''' was a [[Wizardkind|wizard]], who was a [[professor]] of [[Herbology]] at [[Hogwarts School of Witchcraft and Wizardry]] when [[Armando Dippet]] was Headmaster. An enthusiastic devotee of amateur dramatics, Beery later left Hogwarts, sometime before Dippet left the post between [[1965]] and [[1971]], to teach at the [[Wizarding Academy of Dramatic Arts]] (W.A.D.A).<ref name="TBB" />   
+
+==Biography==
+===Early life===
+
+Herbert Beery probably attended a [[wizarding school]] (possibly [[Hogwarts School of Witchcraft and Wizardry]]), in his youth, and likely achieved a very high graded [[Ordinary Wizarding Level|O.W.L.]] and [[Nastily Exhausting Wizarding Test|N.E.W.T.]] in [[Herbology]], as he later went on to teach the subject.<ref name="TBB">{{TBB|F}}</ref>  
+
+===Career at Hogwarts===
+At some point, Beery was employed at [[Hogwarts School of Witchcraft and Wizardry]], and became [[Professor]] of [[Herbology]]. Later, ''[[The Fountain of Fair Fortune]]'' fable was adapted into a pantomime by Professor Beery during the Yuletide for the students at Hogwarts. It resulted in a fire caused by an [[Engorgement Charm|Engorged]] [[Ashwinder]], and a [[Duelling|duel]] involving the two lead actresses—one of whom had been romantically involved with the lead actor until shortly before the curtain rose, and had been spurned in favour of the other.<ref name="TBB" />  
+
+Beery was caught in the crossfire of the duel and spent the next few months with a disproportionately-sized head. He later confessed to Dumbledore that this confrontation caused his later productions to become as unlucky as the first. Soon after, he no longer wished to mount the performances due to the supposed bad luck which accompanied them and was replaced by [[Pomona Sprout]]. Beery soon left Hogwarts, sometime before Dippet left in the years [[1965]] to [[1971]], to teach at the [[Wizarding Academy of Dramatic Arts]] (W.A.D.A).<ref name="TBB" />   
+
+==Magical abilities and skills==
+*'''[[Herbology]]''': Being the Professor of this subject at Hogwarts, Beery would have been highly accomplished and knowledgeable in this field, the study of [[magic]]al and mundane plants and fungi.<ref name="TBB" />   
+*'''Theatre''': After having left Hogwarts, Beery went on to teach at the Wizarding Academy of Dramatic Arts, showing he was also very proficient in the performing arts as well.<ref name="TBB" />   
+
+==Etymology==
+"Herbert" is derived from the Germanic elements hari "army" and beraht "bright". The Normans introduced this name to [[England]], where it replaced an Old English cognate Herebeorht. In the course of the [[Middle Ages]] it became rare, but it was revived in the 19th century. The name "Herbert" may be a reference to the English word herb, referencing the subject he teaches.
+
+==Appearances==
+*{{TBB|R}} {{1st Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=[[Herbology]] Professor at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=before 1965/1971
+|successor=[[Pomona Sprout]]
+}}
+{{End box}}
+{{Staff}}
+{{Herbology}}
+
+{{DEFAULTSORT:Beery, Herbert}}
+
+[[de:Herbert Beery]]
+[[fr:Herbert Beery]]
+[[ru:Герберт Бири]]
+[[pl:Herbert Beery]]
+[[Category:Actors]]
+[[Category:British or Irish individuals]]
+[[Category:Directors]]
+[[Category:Herbology Professors at Hogwarts]]
+[[Category:Males]]
+[[Category:Playwrights]]
+[[Category:Wizards]]

@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = death-eater
+|image = [[File:Unidentified Death Eater killed by Kingsley Shacklebolt.png|250px]]
+|name = Unidentified Death Eater duelled by Kingsley Shacklebolt
+|born = 
+|died = [[2 May]], [[1998]],<br /> [[Hogwarts Castle]], [[The Quad]] {{C|possibly}}
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF2"/>
+|gender = Male<ref name="DHF2"/>
+|height = 
+|weight = 
+|hair = Dark (mostly bald)<ref name="DHF2"/>
+|eyes = 
+|skin = White<ref name="DHF2"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|job = 
+|house = 
+|loyalty = *[[Death Eaters]]<ref name="DHF2"/>
+**[[Tom Riddle|Lord Voldemort]]<ref name="DHF2"/>
+}}
+This '''individual''' was a [[Dark Wizard]] and [[Death Eaters|Death Eater]] who fought at the [[Battle of Hogwarts]] in [[1998]].<ref name="DHF2"/>
+
+==Biography==
+Upon procuring a [[wand]] and learning the [[Dark Arts]], this wizard joined the [[Death Eaters]] and became a loyal follower and servant of [[Tom Riddle|Lord Voldemort]]. On [[2 May]] [[1998]], he was called upon to fight in the [[Battle of Hogwarts]], along with all his fellow Death Eaters. After the protective enchantments around the castle were broken, he came smashing in through a window in [[The Quad]] [[The Quad battlements|battlements]] to attack the defenders within via [[Unsupported flight|flight]]. Before he could harm anybody, he was hit by [[Momentum-reversing spell]] used by [[Kingsley Shacklebolt]], which halted him right in his tracks then sent him flying back out the window, likely [[Death|killing]] him in the subsequent fall.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*This Death Eater was portrayed by stuntman [[Matt Da Silva]] in {{DH|F2}}.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowany śmierciożerca zabity przez Kingsleya Shacklebolta]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Death Eaters]]

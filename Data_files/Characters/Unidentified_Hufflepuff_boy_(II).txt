@@ -1,0 +1,51 @@
+{{conjecture}}
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Unidentified Hufflepuff boy
+|born = on or before [[31 August]] [[1984]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFF"/>
+|gender = Male<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="GOFF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOFF"/>
+**[[Hufflepuff]]<ref name="GOFF"/>
+}}
+{{Quote|Diggory!|The boy|Harry Potter and the Goblet of Fire (film)}}
+This '''[[Wizardkind|wizard]]''' was a [[Hufflepuff]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="GOFF"/>
+
+==Biography==
+{{Quote|He's a cheat|The boy blames [[Harry Potter]]|Harry Potter and the Goblet of Fire (film)}}He was a great supporter of [[Cedric Diggory]] and yelled his surname when Cedric was chosen as champion in the [[Triwizard Tournament]] in [[1994]]. Along with [[Hogwarts student that blames Harry Potter|another student]] he blamed [[Harry Potter]] for being chosen as the fourth champion and for being a cheat.<ref name="GOFF">{{GOF|F}}</ref>
+
+==Behind the scenes==
+*In the original version, it is almost impossible to hear him when he congratulates Cedric. This is fixed in the Danish version.
+==Appearances==
+*{{GOF|F}} {{Comment|Briefly seen {{Comment|Possibly}}}} {{Comment|Heard only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hufflepuff boy}}
+
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Hufflepuffs]]
+[[Category:Wizards]]

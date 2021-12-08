@@ -1,0 +1,71 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Professor Jakub Gorski MA.png]]
+|name = Jakub Gorski
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Professor]]<ref name="MA">{{MA|2}}</ref>
+|signature = 
+|species = [[Human]]<ref name="MA"/>
+|gender = Male<ref name="MA"/>
+|height = 
+|weight = 
+|hair = White<ref name="MA"/>
+|eyes = Brown<ref name="MA"/>
+|skin = Pale<ref name="MA"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="MA"/>
+|patronus = 
+|job = [[Professor]] of [[History of Magic]]<ref name="MA"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="MA"/>
+}}
+{{Quote|What is history? This is history. To [[Cassandra Vole|you]], this might be a boring old rock, but to me, it's part of the delicate tapestry of events that saved Hogwarts. Let me tell you where this rock has been!|Professor Gorski introducing his subject to students|Harry Potter: Magic Awakened}}
+'''[[Professor]] Jakub Gorski''' was a [[Wizardkind|wizard]] who was the visiting [[History of Magic]] [[Professor]] during the [[2009–2010 school year]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="MA"/>{{MATimeRef}}<ref>Although the player can attend his class even if they are in the first year, the story of the second year suggests he only starts teaching in that year.</ref>
+
+==Biography==
+{{Quote|History is everywhere. You just need to know how to find it. I've been all over the world, from the highest mountains to the deepest seas, looking for treasure... Ummm... I mean history... wherever I can find it. I'm your visiting Professor Jakub Gorski.|Professor Gorski to his students regarding his travels and love of history|Harry Potter: Magic Awakened}}
+Before the [[2009–2010 school year]] at Hogwarts, the [[Dark Wizard]] [[Bly]], in search of the [[Turner family]]'s heirloom, bewitched Gorski with the [[Imperius Curse]], and then [[Human Transfiguration|transformed]] into his [[lemur]] [[Animagus]] form, disgusing himself as Gorski's animal assistant.<ref name="MA"/>
+
+Professor Gorski began his first lesson with [[Second year|second-year]] students with a short speech and introduced himself to them. He talked about historical artefacts and assigned the students the homework of identifying a rare object or uncovering a mystery. Throughout the school year, possibly under the instruction of Bly, he met a group of students (including [[Lottie Turner]]) several times in the castle and checked out their progress of the assignment. He also visited the [[Hog's Head Inn]] in [[Hogsmeade]] and traded with a [[Dark Wizard]], which was noticed by the students.<ref name="MA" />
+
+Gorski was later confronted by the students in the [[History of Magic Classroom]] and acted very suspiciously. He tried to explain but couldn't give up Bly's name, and [[Charm|enchanted]] the [[Suit of armour|suits of armour]] in the classroom to attack the students under Bly's control. When Bly fled, Gorski fell down to the floor. [[Minerva McGonagall|Professor McGonagall]] soon came and instructed the students to return to the dormitories, before which Gorski gave them a warning not to let Bly find the artefact first.<ref name="MA" />
+
+After Bly was defeated by the students, Gorski handed Lottie a [[portrait]] of [[Lottie Turner's father|her father]] inside the container of the family heirloom, allowing the father and daughter to reunite.<ref name="MA" />
+
+==Magical abilities and skills==
+*'''[[History of Magic]]''': As a Hogwarts [[professor]] of this [[Hogwarts subjects|subject]], Professor Gorski was very knowledgeable in the field of [[Wizarding world|wizarding]] history.<ref name="MA"/>
+*'''[[Charm]]s''': Professor Gorski was capable of casting the [[General Counter-Spell]] effortlessly, showing he was skilled with charms.<ref name="MA"/>
+*'''[[Nonverbal spell|Nonverbal magic]]''': Professor Gorski could cast [[spell]]s by simply waving his [[wand]] without saying an [[incantation]], showing he was skilled with nonverbal magic,<ref name="MA"/> which was known to be difficult.
+
+==Appearances==
+{{Imagecat|Images of Jakub Gorski}}
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Gorski, Jakub}}
+{{Start box}}
+{{Succession box
+|predecessor = [[Cuthbert Binns]]
+|position = Professor of [[History of Magic]]
+|years = 2009–?
+|successor = Unknown
+}}
+{{End box}}
+
+{{Staff}}
+[[es:Jacob Gorski]]
+[[Category:Brown-eyed individuals]]
+[[Category:History of Magic Professors at Hogwarts]]
+[[Category:Imperius Curse victims]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,43 @@
+{{Youmay|an indiviual rat engorged on Rat Tonic|[[Giant Rat (species)|the species of oversize rats]]}}
+{{Individual_infobox
+|image=[[File:Giant_Rat.jpg|thumb]]
+|name=Giant rat
+|theme=individual
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Rat]]
+|gender=
+|height=
+|hair=Grey
+|eyes=Red
+|skin=Pink
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=}}
+
+The '''giant rat''' was a [[rat]] that lived in the cellar of the [[Leaky Cauldron]]. Once a normal rat, during the summer of [[1993]], it consumed a large quantity of [[rat tonic]] from [[Tom]]'s stores. This over-consumption caused it to grow to an immense size.<ref>{{POA|G}} - Game Boy Advance version</ref>
+
+==Behind the scenes==
+*In the Game Boy Advance version of [[Harry Potter and the Prisoner of Azkaban (video game)|the video game adaptation]] of {{POA}}, [[Harry Potter]] battles the giant rat while searching the Leaky Cauldron's cellar for rat tonic to give to [[Ronald Weasley]].
+
+==Appearances==
+*{{POA|G}} {{C|Game Boy Advance version only}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Rats]]
+[[Category:Red-eyed individuals]]

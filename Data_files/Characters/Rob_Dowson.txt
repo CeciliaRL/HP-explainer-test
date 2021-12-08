@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Rob Dowson
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Ellie Dowson]] (unknown)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Dowson family]]
+}}
+'''Rob Dowson'''<ref>Closed captions on the DVD/Blu-ray of {{DH|F1}}</ref> was a [[Wizardkind|wizard]] reported missing along with his relative, [[Ellie Dowson|Ellie]], on the ''[[Potterwatch]]'' radio programme in [[1997]]. His disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.
+__NOTOC__
+==Etymology==
+The name "Robert" is from the Germanic name ''Hrodebert'' meaning "bright fame", derived from the Germanic elements ''hrod'' "fame" and ''beraht'' "bright". The Normans introduced this name to Britain, where it replaced the Old English cognate Hreodbeorht. It has been a very common English name since that time.
+
+==Behind the scenes==
+*This character is presumably a tribute to a relative of [[Mike Dowson]], a sound mixer who worked on the final three [[Harry Potter films|''Harry Potter'' films]].<ref>[http://www.imdb.com/name/nm0236236 Mike Dowson's profile on IMDb]</ref>
+
+==Appearances==
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Dowson, Rob}}
+
+[[fr:Rob Dowson]]
+[[pl:Rob Dowson]]
+[[Category:British individuals]]
+[[Category:Dowson family]]
+[[Category:Males]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

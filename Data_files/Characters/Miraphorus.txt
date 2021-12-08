@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Miraphorus
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Female<ref>The [[:File:MiraphorusMagicSet2.jpg|package art]] for the [[Miraphorus Magic Set]] depicts a head and and a pair of hands that bear several hallmarks of traditionally feminine fashion: a bob hairstyle, lipstick, and long gloves.</ref>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+'''Miraphorus''' was a [[Wizardkind|witch]] after whom the [[Miraphorus Magic Set]], a [[Weasleys' Wizard Wheezes]] product, was named. Every set included a replica pair of the distinctive red gloves she wore.<ref name="hpfilmwiz">{{HPFW}}, page 136 booklet {{see image|File:MiraphorusMagicSet2.jpg}}</ref>
+
+==Behind the scenes==
+*The name of this character is presumably a tribute to [[Miraphora Mina]], a graphic artist who has worked on every ''Harry Potter'' [[Harry Potter (film series)|film]], and who helped to design all the Weasleys' Wizard Wheezes props along with [[Eduardo Lima]], [[Nicholas Saunders]], and [[Lauren Wakefield]].
+
+==Appearances==
+*{{HBP|F}} {{Comment|Name seen on label}}
+*{{HPFW}} {{Comment|Name seen on label}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Wizards]]

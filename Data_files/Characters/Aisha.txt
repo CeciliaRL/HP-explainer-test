@@ -1,0 +1,41 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = individual
+|name = Aisha
+|image = 
+|born = 
+|died = 
+|nationality = 
+|alias = 
+|signature = 
+|blood = 
+|marital = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Female<ref name="WU"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = [[Aisha's mother|Mother]]<ref name="WU"/>
+|romances = [[Mathilda Grimblehawk]]<ref name="WU"/>
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Aisha''' was a [[human]] woman who was the [[Love|romantic]] partner of [[Mathilda Grimblehawk]], in at least the early [[2020s]].<ref name="WU">{{WU}} - [[Brilliant Event: Unforgivable Truth]]</ref>
+
+Mathilda secretly disliked her [[Aisha's mother|mother]], and she imagined Aisha would be very upset to become aware of this.<ref name="WU"/>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+[[Category:Females]]
+[[Category:Humans]]

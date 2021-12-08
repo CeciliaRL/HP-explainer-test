@@ -1,0 +1,61 @@
+{{Youmay|the aunt of Albus Dumbledore|[[Honoria Nutcombe]]}}
+{{Individual infobox
+|theme = wizard
+|image = Aunt Honoria.png
+|name = Honoria
+|born = 
+|died = 
+|blood = 
+|marital = Single<ref name="TBB"/>
+|nationality = [[Great Britain|British]]<ref name="TBB"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="TBB"/>
+|gender = Female<ref name="TBB"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Light<ref name="TBB"/>
+|family = *[[Albus Dumbledore]] (nephew) †<ref name="TBB"/>
+*[[Aberforth Dumbledore]] (nephew)<ref name="TBB"/>
+*[[Ariana Dumbledore]] (niece) †<ref name="TBB"/>
+*[[Percival Dumbledore]] (brother or brother-in-law) †
+*[[Kendra Dumbledore]] (sister or sister-in-law) †
+|romances = [[Honoria's fiancé|Fiancé]] (formerly)<ref name="TBB"/>
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="TBB"/>
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Dumbledore family]]<ref name="TBB"/>
+}}
+'''Honoria''' was a [[Great Britain|British]] [[Wizardkind|witch]] and the spinster aunt of [[Albus Dumbledore]]. She was once engaged to a [[Honoria's fiancé|wizard]] who worked in the [[Improper Use of Magic Office]], but broke off her engagement to him, claiming that he had a "[[Hairy Heart|hairy heart]]" (a [[Wizarding world|wizarding]] expression for a person who is unfeeling). Rumour had it that her real reason for ending the engagement was catching her fiancé fondling some [[Horklump]]s.<ref name="TBB">{{TBB|H}}</ref>
+
+==Etymology==
+''Honoria'' is a feminine form of the late Roman name ''Honorius'', meaning "honour". Some early saints and popes and one king held this name.
+
+==Behind the scenes==
+*It is unknown whether Honoria was the sister of [[Percival Dumbledore]] or his wife [[Kendra Dumbledore|Kendra]]. In the simplified [[Chinese]] translation of {{TBB|R}}, the translation of "aunt" used (姑妈) refers to the father's elder sister,<ref>{{Wtlink|姑妈}}</ref> but this remains unconfirmed by [[J. K. Rowling]].<ref>[[:zh:霍诺利亚]]</ref>
+*It is possible that Honoria is [[Credence Barebone's aunt]] which would confirm that [[Credence Barebone|Credence]] is indeed Aurelius Dumbledore.
+
+==Appearances==
+*{{TBB|R}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Tante Honoria]]
+[[es:Honoria Dumbledore]]
+[[fi:Honoria]]
+[[fr:Honoria]]
+[[no:Honoria]]
+[[pl:Honoria]]
+[[ru:Гонория]]
+[[zh:霍诺利亚]]
+[[Category:British individuals]]
+[[Category:Dumbledore family]]
+[[Category:Females]]
+[[Category:Unmarried individuals]]
+[[Category:Wizards]]

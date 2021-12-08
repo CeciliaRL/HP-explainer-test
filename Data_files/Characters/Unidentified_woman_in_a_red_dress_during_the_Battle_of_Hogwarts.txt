@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:HPDH2-1259.jpg|250px]]
+|name=Unidentified woman in a red dress during the Battle of Hogwarts
+|hideb=b
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DHF2"/>
+|gender=Female<ref name="DHF2"/>
+|height=
+|hair=Brown<ref name="DHF2"/>
+|eyes=
+|skin=Light<ref name="DHF2"/>
+|hidef=f
+|family=
+|hidem=m
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+}}
+This '''individual''' was a [[Wizardkind|witch]] who fought during the [[Battle of Hogwarts]] with a group of students on the [[First-floor corridor]]. She survived the battle.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*This character may be [[Septima Vector]], [[Irma Pince]], [[Bathsheda Babbling]] or another as yet unidentified professor. Alternatively, she may be the teacher of [[Advanced Arithmancy Studies]], [[Ancient Studies]], [[Music]], [[Muggle Music]], [[Art]], [[Muggle Art]] or [[Ghoul Studies]]. Similarly she could be one of the members of the [[Order of the Phoenix]].
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowana czarodziejka w czerwonej sukience]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

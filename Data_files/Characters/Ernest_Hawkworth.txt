@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = mom
+|image = [[File:Ernest Hawkworth - FB-C.png|250px]]
+|name = Ernest Hawkworth
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = The Drip
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = Brown
+|skin = White
+|family = *[[Errol  Hawkworth]] (father)
+*[[Emmett Hawkworth]] (grandfather)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Member of the [[Wizengamot]]
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Wizengamot]]
+}}
+'''Ernest Hawkworth''' was a [[Great Britain|British]] [[wizardkind|wizard]] who worked for the [[British Ministry of Magic]] as a member of the [[Wizengamot]]. He was involved with the trial of [[Lydia Scarlett]], whom he knew from decades ago.<ref>{{FBC|8|1}}</ref>
+
+==Appearances==
+*{{FBC}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Hawkworth, Ernest}}
+
+[[de2:Ernest Hawkworth]]
+[[pl:Ernest Hawkworth]]
+[[fr:Ernest Hawkworth]]
+[[ru:Эрнест Хоукворт]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Hawkworth family|Ernest]]
+[[Category:Males]]
+[[Category:Wizards]]
+[[Category:Wizengamot members]]

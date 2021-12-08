@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = spirit
+|image = [[File:Unidghost.jpg|250px]]
+|name = Ghost
+|born = 
+|died = Before [[1993]]<ref name="POAF"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = *[[Human]] (formerly)<ref name="POAF"/>
+*[[Ghost]]<ref name="POAF"/>
+|gender = Male<ref name="POAF"/>
+|height = 
+|weight = 
+|hair = White<ref name="POAF"/>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAF"/>
+}}
+This '''individual''' was a [[wizardkind|wizard]] in his lifetime, having died of hanging. After his death he returned as a [[ghost]] and resided at [[Hogwarts School of Witchcraft and Wizardry]]. In [[1993]], he was seen in the [[Gryffindor Tower]], floating through the arriving students. When he walked through [[Dean Thomas]], he reacted as if he had just walked through [[cobweb]]s.<ref name="POAF">{{POA|F}}</ref>
+
+==Behind the scenes==
+*He may be [[Edgar Cloggs]], [[Amrose Swott|Ambrose Swott]] or a recast of the [[Fat Friar]].
+
+==Appearances==
+*{{POA|F}} {{1st}} {{Ghost}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Deaths by hanging]]
+[[Category:Males]]
+[[Category:Unidentified ghosts]]
+[[Category:Wizards]]

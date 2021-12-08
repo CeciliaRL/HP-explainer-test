@@ -1,0 +1,40 @@
+{{Individual infobox
+|theme=individual
+|image=[[File:George Savill.jpg|250px]]
+|name=George Savill
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+'''George Savill''' was a man whose name was printed in gold letters on the side of a box seen at [[Borgin and Burkes]] in the summer of [[1992]].<ref>{{COS|F}} - Disc 2 (''Additional Scenes'')</ref> It is unknown whether his name being on the box indicates he was its original owner or founded the company that manufactured it.
+
+==Appearances==
+*{{COS|F}} {{Comment|Name seen on a box}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Savill, George}}
+[[Category:Humans]]
+[[Category:Males]]

@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:FemaleEeylopsEmployee.jpg|250px]]
+|name = Eeylops Owl Emporium employee
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="LEGOY1"/>
+|gender = Female<ref name="LEGOY1"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="LEGOY1"/>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employee at [[Eeylops Owl Emporium]]<ref name="LEGOY1"/>
+|house = 
+|loyalty = [[Eeylops Owl Emporium]]<ref name="LEGOY1"/>
+}}
+This '''individual''' was a [[Wizardkind|witch]] who worked at [[Eeylops Owl Emporium]] during the early [[1990s]]. She could be found on the shop's ground floor, helping customers.<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+
+==Behind the scenes==
+*It is unknown if this individual owned the shop or simply worked there. If the former is correct, her name may be Eeylops.
+
+==Appearances==
+*{{LEGO|Y1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Diagon Alley North Side}}
+[[es:Empleada no identificada del Emporio de la Lechuza]]
+[[Category:British individuals|Eeylops Owl Emporium employee]]
+[[Category:Females|Eeylops Owl Emporium employee]]
+[[Category:Unidentified individuals|Eeylops Owl Emporium employee]]
+[[Category:Wizards|Eeylops Owl Emporium employee]]

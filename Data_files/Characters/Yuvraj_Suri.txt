@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Yuvraj Suri
+|born = [[31 August]] [[1982]] or earlier<ref name="age">He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Gryffindor]]<ref name="HBPG"/>
+}}
+'''Yuvraj Suri''' was a [[Wizardkind|wizard]] and [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+During the [[1996–1997 school year]], he could usually be found in the [[Exterior Walkway]], and traded various objects ([[Gobstones]], chess pieces and [[Butterbeer]]) for [[Chocolate Frog Card]]s.<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+{{w|Yuvraj}} is an Indian title for "Crown Prince." It is a popular name for Sikh and Hindu men in India. {{w|Suri (name)|Suri}} is a name which in Persian means "red rose", although it is also used in India.
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|console versions]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Suri, Yuvraj}}
+
+[[pl:Yuvraj Suri]]
+[[fr:Yuvraj Suri]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

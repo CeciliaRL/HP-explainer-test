@@ -1,0 +1,53 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Naasz
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Female<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Magizoologist]]<ref name="WU"/>
+|house = 
+|loyalty = *[[Statute of Secrecy Task Force]]<ref name="WU"/>
+*Naaszacademy of Magizoology<ref name="WU"/>
+}}
+{{Quote|You journey to India with the one-named Celebrity Magizoologist Naasz to find a Phoenix in the wild. Your patience is tested by endless interviews and relentless ego.|Description|Harry Potter: Wizards Unite}}
+'''Naasz''' was a [[Wizardkind|witch]] and celebrity [[Magizoologist]], noted for her relentless ego. She always wanted to be a headmistress and so she opened the unaccredited Naaszcademy of Magizoology in Brussels.<ref name="WU">{{WU}} ([https://www.youtube.com/watch?v=hCIfSWgMX-c see video])</ref>
+
+==Biography==
+In the [[2010s]], Naasz took members of the [[Statute of Secrecy Task Force]] who pursued a [[Magizoologist]] profession on a journey to [[India]] to find a wild [[Phoenix]] in its natural habitat. The experience of it, however, ended up being a test of patience due to the endless interviews they agreed to give, and her egotistical demeanour.<ref name="WU"/>
+
+Naasz once tricked a [[Calamity Investigator]] into transporting her store of personally-designed (and almost completely useless) magical artefacts to the Ministry of Magic for safekeeping. At one point she created or obtained a trinket described as a "green-dyed Hippogriff feather with tiny baubles hanging equidistantly around the spine." It was sent to a member of the Statute of Secrecy Task Force, who thought it looked like a rather cheap souvenir. Naasz insisted that it was a valuable artefact, and carrying it seemed to increase the Task Force volunteer's chances of keeping a Magizoological Trace in their sights.<ref name="WU" />
+
+In America, Naasz performed a one-woman, wordless stage play titled '''The Calamitous Calamity''<nowiki/>'. It was emotionally stirring. She also hosted a relentless and sophomoric lecture about theoretical magic regarding harmonic attuning and energy.<ref name="WU" />
+
+Naasz once attempted to sell her own blend of tea, but the taste was revolting. She was convinced to sell it as a solvent instead, to the relief of teashop owners.<ref name="WU" />
+
+She once released a long-winded 21-page pamphlet detailing techniques for handling creatures commonly deployed by the Calamity as Confoundables, but only four things within were actually useful. Naasz also opened a school in Brussels on a whim, desiring the position of headmistress. It had no faculty or staff.<ref name="WU" />
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Magizoologists]]
+[[Category:Wizards]]

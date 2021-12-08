@@ -1,0 +1,45 @@
+{{Individual infobox
+|image=
+|name=Dirgah Hagrid
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Rubeus Hagrid]] (alledged twin brother)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|Somebody told me that Hagrid's evil twin, Dirgah, is hiding in the forbidden corridor and Dumbledore doesn't know how to get rid of him.|[[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] student in [[1991]]|Harry Potter and the Philosopher's Stone (video game)}}
+
+'''Dirgah Hagrid''' was supposedly [[Rubeus Hagrid]]'s evil twin brother. In [[1991]] there was rumour among the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] student body that the [[Third-floor corridor|Forbidden Corridor]] housed Dirgah because [[Albus Dumbledore|Headmaster Dumbledore]] did not know how to get rid of him.<ref>{{PS|G}} - GBA version</ref> This proved false, as the contents of the Forbidden Corridor were a [[Philosopher's Stone Chambers|series of obstacles]] to protect the [[Philosopher's Stone]].
+
+==Behind the scenes==
+*"Dirgah" is "Hagrid" spelt backwards. Therefore, "Dirgah Hagrid" spelt backwards is "Dirgah Hagrid" as well. Thus his full name is a palindrome.
+
+==Appearances==
+*{{PS|G}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Hagrid, Dirgah}}
+[[Category:Fictional characters|Hagrid, Dirgah]]
+[[Category:Hagrid family]]
+[[Category:Males]]

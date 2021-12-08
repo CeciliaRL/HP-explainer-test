@@ -1,0 +1,43 @@
+{{Transcribed image|File:MaudM.jpg}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:MaudM.jpg]]
+|name=Maud M.
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Maud Montagu''' was a [[Wizardkind|witch]] whose name was carved into wood panelling on a wall of [[Sybill Trelawney|Professor Trelawney]]'s [[Divination]] classroom.<ref>{{POA|F}} - Chapter 21 (''Professor Trelawney's Prediction'') {{See image|File:MaudM.jpg}}</ref><ref name="HPLE">{{HPLE|G}} {{see image|File:DivinationGraffitiWall.jpg}}</ref>
+
+==Appearances==
+*{{POA|F}} {{C|Name seen on wood panelling}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Stub}}
+
+{{DEFAULTSORT:Montagu, Maud}}
+[[Category:Females]]
+[[Category:Wizards]]

@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Godric's Hollow Boy
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''Muggle boy''' was living in [[Godric's Hollow]] in the [[1980s]].
+
+==Biography==
+{{Quote|Nice costume, Mister!|[[Non-magic people|Muggle]] boy residing in [[Godric's Hollow]] to [[Tom Riddle|Lord Voldemort]]|Harry Potter and the Deathly Hallows}}
+
+The boy was presumably born in the [[Non-magic people|Muggle]] part of [[Godric's Hollow]]. On [[Hallowe'en]] in [[1981]], the boy came across [[Tom Riddle|Lord Voldemort]]. Thinking that the Dark Lord was a [[Non-magic people|Muggle]] in a [[Hallowe'en]] disguise, he made a cheerful comment. Upon seeing Voldemort's face, however, he fled in terror. Voldemort considered killing him, but decided it was "unnecessary", as he had [[Attack at Godric's Hollow (1981)|more important matters]] to attend to.<ref>{{DH}}</ref>
+
+==Appearances==
+*{{DH}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:Niño Muggle del Valle de Godric]]
+[[Category:British individuals]]
+[[Category:Godric's Hollow residents]]
+[[Category:Males]]
+
+[[Category:Unidentified Muggles‎]]

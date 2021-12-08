@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Diane Launier
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Reporter for a [[French]]-language Unidentified French wizarding newspaper|wizarding newspaper
+|house=
+|loyalty=[[Unidentified French wizarding newspaper]]
+}}
+'''Diane Launier''' was a reporter for an unidentified [[French]]-language [[Unidentified French wizarding newspaper|wizarding newspaper]] in the [[1920s]].<ref name="fb-paper">"[http://mashable.com/2016/12/02/fantastic-beasts-opening-harry-potter-easter-eggs All the 'Harry Potter' Easter eggs you missed in the 'Fantastic Beasts' opening]" from Mashable {{see image|File:FrenchNewspaper.jpg}}</ref>
+
+She wrote a report on the search for escaped [[Dark Wizard|dark wizard]] [[Gellert Grindelwald]] that was published in a [[1926]] issue of the newspaper.<ref name="fb-paper" />
+
+==Appearances==
+*{{FB|F}} {{comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Launier, Diane}}
+[[Category:European individuals]]
+[[Category:Females]]
+[[Category:Journalists]]
+[[Category:Wizards]]

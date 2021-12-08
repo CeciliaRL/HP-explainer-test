@@ -1,0 +1,40 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = BuriedVault-HungarianHorntail.jpg
+|name = Buried Vault Hungarian Horntail
+|born = Pre [[1981]]
+|died = 
+|alias = 
+|title = 
+|species = [[Hungarian Horntail]]<ref name="HM530"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = Yellow<ref name="HM530"/>
+|skin = Black and yellow<ref name="HM530"/>
+|family = 
+|loyalty = 
+}}
+This '''unidentified [[Hungarian Horntail]]''' guarded the inner chamber of the [[Buried Vault]].<ref name="HM530">{{HM|5|30}}</ref>
+
+==Biography==
+At some point before or during the early [[1980s]], this Hungarian Horntail encountered [[Jacob (Hogwarts student)|Jacob]], [[Patricia Rakepick]] and [[Peter Pettigrew]] who [[Infiltration of the Buried Vault (I)|attempted to break into]] the [[Buried Vault]]. Pettigrew fled at first sight of the Horntail, and though the other two fought intensely, they were unable to defeat it. The Horntail was then trapped once again in a portrait.<ref name="HM530"/>
+
+At some point near the end of the [[1988–1989 school year]], Rakepick [[Infiltration of the Buried Vault (1989)|arrived]] outside of the Buried Vault once more, this time accompanied by [[Jacob's sibling]] and several of their friends. The Horntail initially appeared in one of the vault's [[portrait]]s, but then stepped out and attacked them causing the ceiling to partly collapse. 
+
+While Rakepick cast the [[Slowing Charm]] on the falling rocks, Jacob's sibling used the [[Conjunctivitis Curse]] on it, interrupting its attack and giving the student an advantage. Jacob's sibling [[Duelling|duelled]] the dragon and defeated it, rendering it unconscious.<ref name="HM530" />
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Creature-stub}}
+[[Category:Cursed Vaults]]
+[[Category:Individual dragons]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Paintings of creatures]]
+[[Category:Security guards]]
+[[Category:Yellow-eyed individuals]]

@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Lara Sigg
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Magical affairs correspondent for a [[German]]-language [[Unidentified German wizarding newspaper|wizarding newspaper]]
+|house=
+|loyalty=[[Unidentified German wizarding newspaper]]
+}}
+'''Lara Sigg''' was a [[magic]]al affairs correspondent for an unidentified [[German]]-language [[Unidentified German wizarding newspaper|wizarding newspaper]] in the [[1920s]].<ref name="fb-paper">"[http://mashable.com/2016/12/02/fantastic-beasts-opening-harry-potter-easter-eggs All the 'Harry Potter' Easter eggs you missed in the 'Fantastic Beasts' opening]" from Mashable {{see image|File:GermanWizardingNewspaper.jpg}}</ref>
+
+==Biography==
+She wrote an article about how a [[wizardkind|wizarding]] family was left stranded when a pretzel serving as a [[Portkey]] was accidentally eaten that was published in a [[1926]] issue of the newspaper.<ref name="fb-paper" />
+
+==Appearances==
+*{{FB|F}} {{comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Sigg, Lara}}
+[[Category:European individuals]]
+[[Category:Females]]
+[[Category:Journalists]]
+[[Category:Wizards]]

@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Rachael Codnor
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her first year at Hogwarts during the [[1993-1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+'''Rachael Codnor''' was a [[Gryffindor]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+During the [[1996–1997 school year]], she was usually seen in the [[The Quad|Paved Courtyard]], challenging other students to games of [[Wizard Skittles]].
+
+==Etymology==
+"Rachael" is from the Hebrew name רָחֵל (''Rachel'') meaning "ewe".
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|PlayStation 2 version]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Codnor, Rachael}}
+[[pl:Rachel Codnor]]
+[[fr:Rachael Codnor]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizard Skittles Players]]
+[[Category:Wizards]]

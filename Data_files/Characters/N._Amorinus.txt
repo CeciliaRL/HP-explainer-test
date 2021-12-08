@@ -1,0 +1,47 @@
+{{transcribed image|File:The New York Ghost - 6 Dec 1926 - Sunrise Early Edition.png}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=N. Amorinus
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Danielle Amorinus]] (possibly)
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Reporter for ''[[The New York Ghost]]''
+|house=
+|loyalty=''[[The New York Ghost]]''
+}}
+'''N. Amorinus''' was a reporter for ''[[The New York Ghost]]'' in the [[1920s]].<ref name="dec6sunrise">{{FB|F}} {{See image|File:The New York Ghost - 6 Dec 1926 - Sunrise Early Edition.png}}</ref>
+
+==Biography==
+They wrote an article about an ancient manuscript that was causing doubt among experts about "[[wandlore]] dates" that was published in the paper's [[6 December]] [[1926]] morning edition.<ref name="dec6sunrise" />
+
+==Appearances==
+*{{FB|F}} {{comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Amorinus, N.}}
+[[Category:American individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Journalists]]
+[[Category:The New York Ghost staff]]
+[[Category:Wizards]]

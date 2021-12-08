@@ -1,0 +1,52 @@
+{{Youmay|the Hogwarts student|[[Alice Tolipan (Muggle)|the Muggle musician]], or [[Alice (disambiguation)|other Alices]]}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Alice Tolipan
+|born = In or prior to [[1984]]<ref name="Blood">She must have at least been in her first year in [[1995]].</ref> 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = [[File:Alice Tolipan sig.svg|150px]]
+|species = [[Human]]<ref name="Pensieve"/>
+|gender = Female<ref name="Pensieve"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]], [[Hufflepuff]], or [[Ravenclaw]]<ref name="House">In the [[Harry Potter and the Order of the Phoenix (film)|film adptation]] of {{OOTP}}, she partcipated at D.A. meetings, meaning she was not in [[Slytherin]], as no members from that house joined the group.</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="Pensieve"/>
+**[[Dumbledore's Army]]<ref name="Pensieve"/>
+}}
+'''Alice Tolipan''' was a British [[Wizardkind|witch]] and a student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. In [[1995]] she joined [[Dumbledore's Army]], an organisation taught and led by [[Harry Potter]] and was one of the people to sign their name on its [[Dumbledore's Army parchment|parchment]].<ref name="Pensieve">[http://thepensieve.org/HPMuseumEX/HPexhibition1.html ''Harry Potter: The Exhibition'' report] from ThePensieve.org</ref>
+
+==Appearances==
+*{{OOTP|F}} {{1st Mention}} {{Comment|Name appears on list}}
+
+==Notes and references==
+{{Reflist}}
+{{Dumbledore's Army}}
+[[de:Alice Tolipan]]
+[[de2:Alice Tolipan (Hexe)]]
+[[es:Alice Tolipan (bruja)]]
+[[pl:Alice Tolipan (czarodziejka)]]
+[[vi:Alice Tolipan (Phù thủy)]]
+{{DEFAULTSORT:Tolipan, Alice}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Dumbledore's Army]]
+[[Category:Females]]
+[[Category:Sorted in the 20th century]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

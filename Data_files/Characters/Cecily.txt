@@ -1,0 +1,50 @@
+{{Individual infobox
+|image = 
+|name = Cecily
+|born = 
+|died =
+|blood = 
+|signature = 
+|marital = 
+|nationality = [[United States of America|American]]<ref name="fb68" />
+|title = 
+|alias = 
+|species = [[Human]]<ref name="fb68" />
+|gender = Female<ref name="fb68" />
+|eyes = 
+|skin = 
+|hair = 
+|weight = 
+|height = 
+|family = 
+|romances = [[Sam (Obliviator)|Sam]]<ref name="fb68" />
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|house = 
+|job = 
+|loyalty = 
+|theme = wizard
+}}
+'''Cecily''' was an [[United States of America|American]] [[wizardkind|witch]] in the [[1920s]].<ref name="fb68">{{FB|S|68}}</ref>
+
+==Biography==
+In [[1926]], Cecily was in a relationship with [[Magical Congress of the United States of America|MACUSA]] employee [[Sam (Obliviator)|Sam]], who worked as an [[Obliviator]]. Unbeknownst to her, however, Sam was also romantically involved with his co-worker [[Ruby (witch)|Ruby]].<ref name="fb68" /> [[Queenie Goldstein]], a [[Legilimency|Legilimens]], uncovered Sam's infidelity by [[Legilimency|reading his mind]], and bargained with him that she would not reveal his secret if he did not [[Memory Charm|wipe the memory]] of the [[Muggle|No-Maj]] [[Jacob Kowalski]].<ref name="fb68" />
+
+==Appearances==
+*{{FB|S}} {{1st Mention}}
+*{{FB|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Cecily]]
+[[de2:Cecily]]
+[[es:Cecily]]
+[[fr:Cecily]]
+[[pl:Cecylia]]
+[[ru:Сесили]]
+[[zh:塞西莉]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Wizards]]

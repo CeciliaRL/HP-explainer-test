@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|born = 
+|died = 
+|blood =
+|nationality = [[Armenia]]n<ref name="COS16"/>
+|title = [[Warlock]]<ref name="COS16"/>
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="COS16"/>
+|gender = Male<ref name="COS16"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|No one wants to read about some ugly old Armenian warlock, even if he did save a village from werewolves. He'd look dreadful on the front cover. No dress sense at all.|Gilderoy Lockhart|Harry Potter and the Chamber of Secrets}}
+An '''Armenian warlock''' was a [[Wizardkind|wizard]] who saved an entire village from a group of [[Werewolf|werewolves]], including possibly the [[Wagga Wagga Werewolf]]. [[Gilderoy Lockhart]] took credit for it and wrote a book, titled ''[[Wanderings with Werewolves]]'', in which he claimed to have saved the village himself. Lockhart erased this [[warlock]]'s memory with a [[Memory Charm]] to prevent him from ''"blabbing"''. Lockhart described him as "ugly" and "old" with "no dress sense".<ref name="COS16">{{COS|B|16}}</ref>
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Armeński czarownik]]
+[[ru:Армянский колдун]]
+[[Category:Armenian individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Warlocks]]
+[[Category:Wizards]]

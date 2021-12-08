@@ -1,0 +1,29 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:Rosmerta's dog.jpg|250px]]
+|name = Rosmerta's dog
+|born = Pre [[1993]]
+|died = 
+|alias = 
+|title = 
+|species = [[Dog]]<ref name="POAF"/>
+|gender = 
+|height = 
+|hair = Brown and white<ref name="POAF"/>
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = *[[Rosmerta|Madam Rosmerta]] (owner)<ref name="POAF"/>
+*[[Three Broomsticks Inn|The Three Broomsticks]] (home)<ref name="POAF"/>
+}}
+This '''[[dog]]''' belonged to [[Rosmerta|Madam Rosmerta]]. It was seen listening to [[Minerva McGonagall]]'s and [[Cornelius Fudge]]'s explanation about [[Sirius Black]] and [[Peter Pettigrew]] in [[1993]] inside the [[Three Broomsticks Inn|Three Broomsticks]].<ref name="POAF">{{POA|F}}</ref>
+
+==Appearances==
+*{{POA|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Perro de Rosmerta]]
+[[pl:Pies Rosmerty]]
+[[Category:Individual dogs]][[Category:Individuals of unknown or undetermined gender]][[Category:Rosmerta's possessions]]

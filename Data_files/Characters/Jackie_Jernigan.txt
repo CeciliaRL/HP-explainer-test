@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Jackie Jernigan
+|born = After [[1976]]<ref>Viktor Krum, born 1976, was the oldest player in the 2014 Quidditch World Cup.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Welsh National Quidditch team]]
+|house = 
+|loyalty = [[Welsh National Quidditch team]]
+}}
+'''Jackie Jernigan''' was a Welsh witch and a [[Chaser]] for the [[2014]] [[Welsh National Quidditch team]]. On the first match of the quarter-finals of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], [[Brazilian National Quidditch team|Brazil]] versus Wales, on [[4 June]], [[2014]], Jernigan scored one of the tournament's most stunning goals from a distance of fifty yards from the [[goalpost]]s.<ref name="PM">{{PM}} - [[BRAZIL VERSUS WALES|BRAZIL_VERSUS_WALES]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Jernigan, Jackie}}
+
+[[fr:Jackie Jernigan]]
+[[de:Jackie Jernigan]]
+[[pl:Jackie Jernigan]]
+[[Category:Chasers]]
+[[Category:Females]]
+
+[[Category:Welsh individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:GoogleFlange.JPG|250px]]
+|name = Google Flange
+|born = 
+|died = In or before [[1991]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2014 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, Flange must have died sometime in or before [[1991]], given his portrait's appearance in in {{PS|FA}}.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Honorific#Sir|Sir]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Sir''' '''Google Flange''' was a [[wizardkind|wizard]] who lived during the [[17th century]].<ref name="wwhp">{{WWHP}} {{See image|File:GoogleFlange.JPG}}</ref>
+
+==Biography==
+Google Flange lived during the early [[17th century]].<ref name="wwhp" /> At some point in his lifetime, he was [[knight]]ed, thus earning the title "Sir."<ref name="wwhp" />
+
+He died in or before [[1991]].<ref name="DOD" /> A [[portrait]] of him, dated [[1600]] and featuring the word "abracadabra" written in the shape of triangle, was hung at [[Hogwarts Castle]] sometime after his death.<ref name="wwhp" /><ref name="PSf16">{{PS|F|16 (''The Three-Headed Sentinel'')}} {{See image|File:Google Flange PS.jpg}}</ref> In the [[1990s]], it was hanging in the [[Grand Staircase]], near the [[Third-floor corridor]].<ref name="PSf16" />
+
+==Behind the scenes==
+*The portrait of Google Flange was based on a [http://upload.wikimedia.org/wikipedia/commons/5/52/King_Charles_I_by_Gerrit_van_Honthorst_sm.jpg 1628 portrait] of [[Wikipedia:Charles I of England|Charles I of England]] by [[Wikipedia:Gerard van Honthorst|Gerard van Honthorst]].
+*Writing the word "abracadabra" repeatedly to form a triangle, as it appears in the portrait, is an ancient mystical practise.<ref name="abrawiki">"{{Wikilink|Abracadabra}}" on Wikipedia</ref> [[wikipedia:Quintus Serenus Sammonicus|Quintus Serenus Sammonicus]], a [[First millennium A.D.|third century A.D.]] [[wikipedia:Ancient Rome|Roman]] physician, advised people afflicted with [[wikipedia:malaria|malaria]] to wear amulets bearing such an inscription, claiming it warded off disease.<ref name="abrawiki" />
+*At {{MHP}}, the portrait of [[Poderick Crookshank]] was erroneously put in a frame inscribed "Sir Google Flange," but Crookshank was correctly identified in ''[[The Paintings of Hogwarts: Masterpieces from the School of Witchcraft and Wizardry Sets]].
+
+==Appearances==
+*{{PS|F}}<ref name="PSf16" />
+*{{WWHP}}<ref name="WWHP">{{WWHP}} {{See image|File:GoogleFlangeWWHP.jpg}}</ref> {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts third floor}}
+{{DEFAULTSORT:Flange, Sir Google}}
+[[es:Google Flange]]
+[[fr:Google Flange]]
+[[pl:Google Flange]]
+[[Category:British individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Nobility]]
+[[Category:Portraits]]
+[[Category:Wizards]]

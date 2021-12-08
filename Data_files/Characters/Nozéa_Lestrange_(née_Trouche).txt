@@ -1,0 +1,47 @@
+{{youmay|the witch married into the [[Lestrange family]] with the maiden name Trouche|[[Nozéa Lestrange]], the daughter of Quintilla Lestrange and Fulcran Lestrange}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Nozéa Lestrange 
+|born=[[1754]]<ref name="Archive">{{AM}}</ref>
+|died=[[1799]]<ref name="Archive" /> (aged 45)
+|marital=Married
+|nationality=[[France|French]]
+|alias=
+|title=
+|signature=
+|species=Human
+|gender=Female<ref name="Archive" />
+|height=
+|hair=
+|eyes=
+|skin=
+|family=*[[Trouche family]]<ref name="Archive" />
+*[[Lestrange family]]<ref name="Archive" />
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=*[[Trouche family]]<ref name="Archive" />
+*[[Lestrange family]]<ref name="Archive" />
+}}
+'''Nozéa Lestrange''' (née '''Trouche''') was a [[France|French]] [[Wizardkind|witch]] born in [[1754]] who married into the [[pure-blood]] [[Lestrange family]]. She died in [[1799]] and was laid to rest in the [[Lestrange Mausoleum|Lestrange family Mausoleum]] in [[Cimetière du Père-Lachaise]], [[Paris]], France.<ref name="Archive" />
+
+==Appearances==
+*{{AM}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Lestrange, Nozéa}}
+[[pl:Nozéa Lestrange (zd. Trouche)]]
+[[Category:1754 births]]
+[[Category:1799 deaths]]
+[[Category:Buried at Cimetière du Père-Lachaise]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Lestrange family]]
+[[Category:Married individuals]]
+[[Category:Trouche family]]
+[[Category:Wizards]]

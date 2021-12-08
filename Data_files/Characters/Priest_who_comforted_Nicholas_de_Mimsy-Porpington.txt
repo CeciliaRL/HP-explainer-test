@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Priest who comforted Nicholas de Mimsy-Porpington
+|born = Before [[1492]]
+|died = After [[1492]]
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Priest
+|house = 
+|loyalty = 
+}}
+{{Quote|You can come just like that, no, you won't need a hat.|The priest|J. K. Rowling's official site}}
+This '''individual''' (fl. [[1492]]) was a priest and the man who comforted [[Nicholas de Mimsy-Porpington|Sir Nicholas de Mimsy-Porpington]] just before his execution on the dawn of [[1492]]. Upon denying Sir Nicholas of wearing a hat (extravagant plumed hats were somewhat of a passion of his), the [[wizardkind|wizard]] knew his end was nigh.<ref name="background">[http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=11 Extra Stuff - "Nearly Headless Nick"] on [[J. K. Rowling's official site]]</ref>
+
+==Behind the scenes==
+*This individual is only mentioned on a [[The Ballad of Nearly Headless Nick|self-penned ballad]] relaying the story of [[Nicholas de Mimsy-Porpington]]'s death, that was supposed to make an appearance in the earlier drafts of {{COS}}.
+
+==Appearances==
+*{{COS}} {{Comment|Mentioned in early drafts}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Kapłan, który spowiadał Nicholasa de Mimsy-Porpingtona]]
+[[Category:Articles derived from cut content]]
+[[Category:British individuals]]
+[[Category:Clergy]]
+[[Category:Males]]
+[[Category:Muggles]]

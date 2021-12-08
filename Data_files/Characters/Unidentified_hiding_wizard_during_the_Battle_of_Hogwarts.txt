@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:746px-HP72-FP-00274.jpg|250px]]
+|name=Unidentified wizard
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DHF2"/>
+|gender=Male<ref name="DHF2"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who fought during the [[Battle of Hogwarts]] in [[1998]]. He was hiding behind some stones at the [[Viaduct Courtyard]] [[Viaduct Courtyard Gatehouses|checkpoint towers]] when it exploded. It is possible that he was waiting for some Death Eater to pass by there, hoping to kill him from cover and without the risk of counter-attack. Another option is that he could be injured. It's unknown if he survived the battle.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*He was seen wearing a beret, possibly like the Hogwarts' art teacher.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

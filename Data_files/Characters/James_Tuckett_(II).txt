@@ -1,0 +1,53 @@
+{{Youmay|a Hufflepuff student|another student with the same name, [[James Tuckett (I)]]}}
+{{Imageless}}
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = James Tuckett
+|born = between [[1 September]] [[1984]] and [[31 August]] [[1985]]<ref name="age">Several student NPCs in the ''Half-Blood Prince'' video game for Nintendo DS refer to James as a first year, indicating that he started at Hogwarts in 1996, as the game is set during the 1996-1997 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[James Tuckett (I)]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Hufflepuff]]<ref name="HBPG"/>
+}}
+'''James Tuckett''' (born c. [[1984]]-[[1985]])<ref name="age" /> was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1996]]<ref name="age" /> and was [[Sorting ceremony|sorted]] into [[Hufflepuff|Hufflepuff House]].
+
+==Biography==
+In his [[1996-1997 school year|first year]], he caught [[Draco Malfoy]] trying to steal the [[Birds on the Seventh Floor|birds]] in the [[seventh-floor corridor]], but was too frightened to tell anyone about it due to being intimidated by Draco and his [[Draco Malfoy's gang|friends]]. [[Harry Potter]] gave him some [[Cauldron Cake]]s and afterwards he felt good enough to tell Harry what he knew. James also played informal [[Quidditch]] matches with other students during his [[first year]].<ref name="HBPG">{{HBP|G}} - NDS version</ref>
+
+==Etymology==
+The name "James" is the English form of the Late Latin name Iacobus which was derived from Ιακωβος (Iakobos), the New Testament Greek form of the Hebrew name Ya'aqov.
+
+==Appearances==
+*{{HBP|G}} {{1st}} {{C|Nintendo DS version only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Tuckett, James}}
+[[pl:James Tuckett (II)]]
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Sorted in 1996]]
+[[Category:Wizards]]

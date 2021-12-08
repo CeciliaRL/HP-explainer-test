@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = Philip Blagdon.jpg
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Hufflepuff]]
+}}
+'''Philip Blagdon''' was a [[Hufflepuff]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Etymology==
+"Philip" is from the Greek name Φιλιππος (''Philippos'') which means "friend of horses", composed of the elements φιλος (''philos'') "friend/lover" and ‘ιππος (''hippos'') "horse". This was the name of five kings of Macedon, including Philip II the father of Alexander the Great.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Blagdon, Philip}}
+[[pl:Philip Blagdon]]
+[[Category:British or Irish individuals]]
+[[Category:Hufflepuffs|Bladgon, Philip]]
+[[Category:Males|Bladgon, Philip]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards|Bladgon, Philip]]

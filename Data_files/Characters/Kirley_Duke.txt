@@ -1,0 +1,84 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = Kirley Duke.jpg
+|name = Kirley Duke McCormack
+|born = [[1971]]{{fact}}
+|died = 
+|blood = [[Half-blood]] or [[Pure-blood]]<ref name="blood">His [[Catriona McCormack|mother]] was a [[Wizardkind|witch]], so he was not [[Muggle-born]].</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG">{{COS|G}}</ref>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Catriona McCormack]] (mother)<ref name="QTA7">{{QTA|R|7}}</ref>
+*[[Meaghan McCormack]] (sister)<ref name="QTA7"/>
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOHP">{{LEGO|Y1}}</ref>
+|wand = 
+|patronus = Non-corporeal<ref name="LEGOHP"/>
+|job = Lead guitarist for [[Weird Sisters|The Weird Sisters]]<ref name="QTA7"/>
+|house = 
+|loyalty = *[[McCormack family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Weird Sisters]]
+}}
+'''Kirley Duke McCormack'''<ref name="BAHR"/> (b. [[1971]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] and the lead guitarist for the popular band [[Weird Sisters|The Weird Sisters]].
+
+==Biography== 
+Kirley was the son of [[Quidditch]] player [[Catriona McCormack]] and the brother of [[Meaghan McCormack]]. Both women played for the [[Pride of Portree]].<ref name="QTA7"/> Kirley attended [[Hogwarts School of Witchcraft and Wizardry]]<ref name="BAHR"/> from [[1983]].<ref name="HM634">{{HM|6|24}}</ref> He later joined the [[Weird Sisters]], and was one of its first three members.<ref name="BAHR">{{HM|2|Become an Honorary Rocker}}</ref> 
+
+==Personality and traits==
+Kirley appeared to be a man of few words.<ref name="HM638">{{HM|6|38}}</ref>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': Kirley was capable of producing a non-corporeal [[Patronus Charm|Patronus]],<ref name="LEGOHP"/> which is a highly impressive [[magic]]al achievement, given the difficulty of casting the charm.
+
+==Possessions==
+*'''[[Kirley Duke's guitar|Guitar]]''': Kirley owned a guitar, which was confiscated by [[Argus Filch]] in the [[1989–1990 school year]], which was retrieved by [[Jacob's sibling]] and returned to him.<ref name="HM638"/> He used this guitar to play at numerous events, such as the [[Weird Sisters concert at the Great Lake|concert]] at the [[Great Lake]],<ref name="HM638"/> the [[Party at the Three Broomsticks Inn|party]] at the [[Three Broomsticks Inn]]<ref name="HM644">{{HM|6|44}}</ref> and the [[Yule Ball]].<ref name="GOFF19">{{GOF|F}} - Chapter 19 (''The Yule Ball'')</ref>
+
+==Etymology==
+A "Duke" is a nobleman with the highest hereditary rank, especially a man of the highest grade of the peerage in [[Great Britain]].
+
+==Behind the scenes==
+*Kirley Duke was portrayed by [[Jonny Greenwood]] of {{W|Radiohead}} in {{GOF|FA}}.
+*Kirley's appearance as depicted in the video games differs. In his [[Famous Witches and Wizards Cards|Famous Wizard Card]] appearance from the first two video games, he is depicted as blond, but in {{HM}}, he is depicted as dark-haired (which is based on his depiction in the [[Harry Potter and the Goblet of Fire (film)|fourth film]]).
+
+==Appearances==
+{{Imagecat|Images of Kirley Duke}}
+*{{PS|G}} {{FWC}} {{1st}}
+*{{COS|G}} {{FWC}}
+*{{GOF}} {{C|Unnamed}}
+*{{GOF|F}}
+*{{QTA|R}} {{Mention}}
+*{{LEGO|Y1}} {{C|Appears as "Guitarist"}}
+*{{HM}}
+
+==Notes and references==
+{{Reflist}}
+{{Weird Sisters}}
+{{Chocolate Frog Cards}}
+{{Character-stub}}
+{{DEFAULTSORT:Duke, Kirley}}
+[[de:Kirley Duke]]
+[[es:Kirley Duke]]
+[[fr:Kirley Duke]]
+[[pl:Kirley Duke]]
+[[zh:柯利·杜克]]
+[[Category:1971 births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:McCormack family]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Sorted in 1983]]
+[[Category:Unknown House]]
+[[Category:Weird Sisters]]
+[[Category:Wizards]]

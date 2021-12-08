@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:TwoLittleWitches.png|250px]]
+|name = Two little witches
+|born = Before [[1994]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="GOF7"/>
+|gender = Females<ref name="GOF7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *Mother<ref name="GOF7"/>
+*Father<ref name="GOF7"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+The '''two little [[Wizardkind|witches]]''' were toddler-age sisters who attended the [[1994 Quidditch World Cup]] with their parents.<ref name="GOF7"/>
+
+==Biography==
+During the [[1994 Quidditch World Cup]], [[Harry Potter]] spotted them. They looked a little older than [[Kevin]], who was about two, and were both flying around on [[toy broomstick]]s that rose only about two feet off the ground. A [[British Ministry of Magic|Ministry of Magic]] official caught sight of them and went to warn their parents — who he assumed were still in bed — against letting children display [[magic]]al abilities in plain view. It is also possible that the girls' parents were simply unaware of the presence of [[Non-magic people|Muggles]] nearby.<ref name="GOF7">{{GOF|B|7}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1990s births]]
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:Females]]
+[[Category:Underage magic]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

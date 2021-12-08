@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=muggle
+|image=[[File:Bank Guard.jpg]]
+|name=Unidentified bank guard
+|born=
+|died=
+|blood=[[Non-magic people|No-Maj]]<ref name="FB">{{FB|F}}</ref>
+|marital=
+|nationality=[[United States of America|American]]<ref name="FB" />
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="FB" />
+|gender=Male<ref name="FB" />
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=White<ref name="FB" />
+|family=
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=Security Guard at [[Steen National Bank]]<ref name="FB" />
+|house=
+|loyalty=[[Steen National Bank]]<ref name="FB" />
+}}
+This '''individual''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who worked as a guard at the central [[Steen National Bank]] in the early [[20th century]].
+
+==History==
+On [[6 December]], [[1926]], this guard was on duty when [[Newton Scamander]] and [[Jacob Kowalski]] broke into the bank to find the escaped [[Newton Scamander's niffler|niffler]]. The guard attempted to arrest them before they [[Apparition|apparated]].<ref>{{FB|S}}</ref>
+
+==Behind the scenes==
+*The guard was portrayed by [[Jake Samuels]] in the {{FB}}.
+
+==Appearances==
+*{{FB|S}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Security guards]]
+[[Category:Steen National Bank employees]]
+[[Category:Unidentified Muggles]]

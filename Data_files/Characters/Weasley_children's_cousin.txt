@@ -1,0 +1,60 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Weasley children's cousin
+|hideb=
+|born=
+|died=
+|blood=[[Pure-Blood]] or [[Half-Blood]]<ref>Both the [[Weasley family|Weasley]] and [[Prewett family|Prewett]] families are Pure-blood, as such he cannot be [[Muggle-born]]</ref>
+|height=
+|hair=Red<ref>This individual must have had red hair in order for his father to mistake him for Harry Potter in the disguise of a red-haired Muggle child.</ref>
+|eyes=
+|skin=
+|gender=Male
+|species=[[Human]]
+|family=*[[Weasley children's uncle|Father]]
+*[[Arthur Weasley]] (paternal uncle)
+*[[Molly Weasley]] (aunt)
+*[[Arthur Weasley's brothers|Uncle]] (possibly [[Bilius]])
+*[[William Weasley|Bill Weasley]] (cousin)
+*[[Fleur Delacour|Fleur Weasley]] (cousin-in-law)
+*[[Charles Weasley|Charlie Weasley]] (cousin)
+*[[Percy Weasley]] (cousin)
+*[[Fred Weasley]] (cousin) †
+*[[George Weasley]] (cousin)
+*[[Ronald Weasley|Ron Weasley]] (cousin)
+*[[Ginevra Weasley|Ginny Weasley]] (cousin)
+*[[Septimus Weasley]] (possible grandfather)
+*[[Cedrella Black]] (possible grandmother)
+|hidem=hide
+|patronus=
+|boggart=
+|animagus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+{{Quote| ''[...]'' a drunken uncle of Ron's who seemed unsure whether or not Harry was his son ''[...]''.|Description.|Harry Potter and the Deathly Hallows}}
+
+This individual was the '''son''' of an [[Weasley children's uncle|uncle]] of the [[Weasley family|Weasley children]]. His father got drunk and mistook [[Harry Potter]] (who was [[Polyjuice Potion|disguised]] as a redheaded [[Non-magic people|Muggle]] boy from [[Ottery St Catchpole]]) for him at the [[Wedding of William Weasley and Fleur Delacour|wedding]] of [[William Weasley|Bill Weasley]] and [[Fleur Delacour]].<ref>{{DH|B|8}}</ref>
+
+==Behind the scenes==
+*As it is known that [[Arthur Weasley]] had [[Arthur Weasley's brothers|two brothers]] and no sisters,<ref name="JKR">"[http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=7 Extra Stuff: The Weasley Family]" at {{JKRS}}</ref> it is widely assumed that the unnamed "uncle of Ron's" mentioned in {{DH}} is one of Arthur's brothers, and thus a Weasley. However, since it is unknown whether [[Gideon Prewett|Gideon]] and [[Fabian Prewett]] were [[Molly Weasley]]'s only siblings, it is possible the unnamed uncle was another brother of Molly or the husband of an hypothetical sister of Molly's. This means that the unnamed uncle's son could be a Weasley, a [[Prewett family|Prewett]] (if the son of Molly's brother), or a member of another family (if the son of Molly's sister).
+
+==Appearances==
+*{{DH}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Kuzyn dzieci Weasleyów]]
+[[Category:British individuals]]
+[[Category:Disowned members of the House of Black]]
+[[Category:House of Black descendants]]
+[[Category:Males]]
+
+[[Category:Unnamed members of the House of Black]]
+[[Category:Weasley family]]
+[[Category:Wizards]]

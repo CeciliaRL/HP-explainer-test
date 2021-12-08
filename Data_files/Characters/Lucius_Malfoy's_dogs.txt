@@ -1,0 +1,34 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:Dog_Malfoy.jpg|250px]]
+|name = Lucius Malfoy's dogs
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = Either Long-Haired Lurcher or Irish Wolfhound
+|gender = 
+|height = Large
+|hair = Light Brown/Grey
+|feathers = 
+|eyes = Brown/Gold
+|skin = 
+|family = 
+|loyalty = [[Malfoy family]]
+}}
+The [[pure-blood]] [[Wizardkind|wizarding]] [[Malfoy family]] had two '''[[dog]]s''' at their [[Malfoy Manor|Manor]] by [[1995]].<ref>{{OOTP|F}}</ref> It is unknown what happened to them during the [[Second Wizarding War]].
+
+==Behind the scenes==
+*The dogs are not mentioned in the books, but appear in promotional images from {{OOTP|FA}}.
+*The dogs appear to be {{Wplink|Scottish Deerhound}}s.
+
+==Appearances==
+*{{OOTP|F}} {{1st}}
+*{{DH|F1}}
+[[pl:Psy Lucjusza Malfoya]]
+
+==Notes and references==
+{{Reflist}}[[Category:Individual dogs]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Lucius Malfoy's possessions|Dogs]]
+[[Category:Malfoy family pets]]

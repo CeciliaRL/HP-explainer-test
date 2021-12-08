@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified falling man
+|born = Prior to [[1994]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFF"/>
+|gender = Male<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = Black<ref name="GOFF"/>
+|eyes = 
+|skin = Dark<ref name="GOFF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Aaaarrg!|The wizard as he falls|Harry Potter and the Goblet of Fire (film)}}
+This '''man''' was a [[Wizardkind|wizard]] who attended the [[1994 Quidditch World Cup]] in [[August]] of [[1994]].<ref name="GOFF"/>
+
+==Biography==
+Born sometime prior to [[1994]], he attended the [[1994 Quidditch World Cup]], supporting [[Bulgaria]]. He attempted to flee when the [[Death Eaters]] came and began [[Levicorpus|levitating]] people and [[Fire-Making Spell|burning]] [[Charmed Tent|tents]], but was pushed back, falling to the ground and screaming. [[Harry Potter]], [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]] witnessed the man's falling as they emerged from their [[Perkins's tent|tent]], but they did not try to help him. It is unknown what happened to him; he either managed to escape, was trampled by the crowd, or perhaps was [[Killing Curse|killed]] by the [[Death Eaters]].<ref name="GOFF">{{GOF|F}}</ref>
+
+==Appearances==
+*{{GOF|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

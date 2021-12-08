@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Bertrand de Pensées-Profondes
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="TBB"/>
+|gender=Male<ref name="TBB"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=*Philosopher<ref name="TBB"/>
+*[[Author]]<ref name="TBB"/>  
+|house=
+|loyalty=
+|nationality = [[France|French]]<ref name="TBB"/>
+}}
+{{Quote|Give it up. It's never going to happen.|Bertrand de Pensées-Profondes on the possibility of reversing [[death]]|The Tales of Beedle the Bard (real)}}
+
+'''Bertrand de Pensées-Profondes''' was a [[France|French]] [[Wizardkind|wizard]] and a noted and highly-regarded [[Wizarding world|wizarding]] philosopher. He was the author of the celebrated work ''[[A Study into the Possibility of Reversing the Actual and Metaphysical Effects of Natural Death, with Particular Regard to the Reintegration of Essence and Matter]]''. He was sceptical of the concept of restoring the soul to a living body, remarking that it will never happen and people should accept death.<ref name="TBB">{{TBB|B}}</ref>
+
+==Etymology==
+Bertrand is a French form of Bertram, which derives from the Germanic elements ''beraht'', "bright", and ''hramn'', "raven". [[Wikipedia:Bertrand Russell|Bertrand Russell]] was an influential British philosopher. ''Pensées-Profondes'' is French for "deep thoughts".
+
+==Appearances==
+*{{TBB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Pensées-Profondes, Bertrand de}}
+
+[[es:Bertrand de Pensées-Profondes]]
+[[fr:Bertrand de Pensées-Profondes]]
+[[pl:Bertrand de Pensees−Prefondes]]
+[[pt-br:Bertrand de Pensées-Profondes]]
+
+[[Category:Authors]]
+[[Category:French individuals]]
+[[Category:Immortality]]
+[[Category:Males]]
+[[Category:Philosophers]]
+[[Category:Wizards]]

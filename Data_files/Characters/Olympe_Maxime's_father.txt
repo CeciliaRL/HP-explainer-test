@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|image=
+|name=Olympe Maxime's father
+|theme = individual
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|nationality=[[France|French]]<ref name="GOF23"/>
+|species=[[Human]] or [[Giant]]<ref name="GOF23"/>
+|gender=Male<ref name="GOF23"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Olympe Maxime's mother|Wife]]<ref name="GOF23"/>
+*[[Olympe Maxime]] (daughter)<ref name="GOF23"/>
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Maxime family]]<ref name="GOF23"/>
+}}
+{{Dialogue a-b-a|Rubeus Hagrid|I jus' knew… knew you were like me... Was it yer mother or yer father?|Olympe Maxime|I — I don't know what you mean, [[Rubeus Hagrid|'Agrid]]...|It was my [[Fridwulfa|mother]]. She was one o' the las' ones in Britain. 'Course, I can' remember her too well... she left, see.|[[Rubeus Hagrid]] and [[Olympe Maxime]] talk about being [[half-giant]]s.|Harry Potter and the Goblet of Fire}}
+The '''father''' of the [[France|French]] [[half-giant]]ess [[Olympe Maxime]] was either a [[human]] or a [[giant]]. [[Rubeus Hagrid]] inquired about him at the [[Yule Ball]] in [[December]], [[1994]].<ref name="GOF23">{{GOF|B|23}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Maxime, Olympe's father}}
+[[Category:French individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Maxime family]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

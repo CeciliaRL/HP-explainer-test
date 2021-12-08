@@ -1,0 +1,102 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:Ignatia Wildsmith.png|250px]]
+|name = Ignatia Wildsmith
+|born = [[1220s|1227]]
+|died = [[1320s|1320]] (aged 92 -93)
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Black
+|eyes = Green
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Inventor
+|house = [[Ravenclaw]]<ref name="pottermore">{{PM}} introduction for Ravenclaws (transcription available [http://lady-slytherin-forever.tumblr.com/post/9001220525/ravenclaw-spoilers-stop-reading-if-you-dont-want-to here])</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+'''Ignatia Wildsmith''' ([[1220s|1227]]—[[1320s|1320]]) was a [[Wizardkind|witch]] and wizarding inventor, who was famously the creator of [[Floo Powder]]. During her childhood, she attended [[Hogwarts School of Witchcraft and Wizardry]], and was [[Sorting ceremony|sorted]] into [[Ravenclaw]].<ref name="pottermore" />
+
+==Biography==
+===Early life===
+{{Quote|Ravenclaw house has an illustrious history. Most of the greatest wizarding inventors and innovators were in our house, including ''[…]'' Ignatia Wildsmith, the inventor of Floo powder.|[[Robert Hilliard]].|Pottermore}}
+Ignatia Wildsmith was born in [[1227]],<ref name="PSg">{{PS|G}}</ref> somewhere in the [[Great Britain|British Isles]].
+
+In her youth, she attended [[Hogwarts School of Witchcraft and Wizardry]] from around [[1230s|1238]] or [[1230s|1239]] to [[1240s|1245]] or [[1240s|1246]], where she was [[Sorting ceremony|sorted]] into [[Ravenclaw]].<ref name="pottermore"/>
+
+===Adulthood===
+[[File:Ignatia WildsmithGBC.png|200px|thumb|left|A younger Ignatia Wildsmith]]
+After her graduation from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]], Ms. Wildsmith presumably studied further into [[Herbology]], and discovered the [[magic]]al properties of the [[Floo]] plant. From it, she devised a magical powder, [[Floo Powder]], which, when thrown into a [[fire]], could transport [[wizardkind|wizards]] from one fireplace to another via a [[Floo Network|network of fireplaces]].<ref name="PSg"/>
+
+===Death and post-mortem===
+Ms. Wildsmith died in [[1320s|1320]], aged around 93. In her honour, her achievement, the invention of the [[Floo Powder]], was recorded on a [[Chocolate Frog Card]].<ref name="PSg"/>
+
+On [[1 September]], [[1991]], [[Prefect]] [[Robert Hilliard]] welcomed the [[Ravenclaw]] [[first year]]s to [[Ravenclaw Tower]] with a short speech in which he mentioned inventor Ignatia Wildsmith as one of the many notable Hogwarts students who had been [[Sorting ceremony|Sorted]], like them, into [[Ravenclaw]].<ref name="pottermore"/>
+
+==Etymology==
+*"Ignis" is [[Latin]] for "[[fire]]".
+
+==Behind the scenes==
+*On her [[Chocolate Frog Card|Famous Wizard Card]], Ignatia's outfit bears a resemblance to [[w:c:disney:Maleficent|Maleficent]] from Disney's ''[[w:c:disney:Sleeping Beauty|Sleeping Beauty]]''. Throughout the film, Maleficent is associated with green flames, even using them to teleport herself. She also has [[w:c:disney:Diablo|a raven companion]], though this may be coincidental, as Ignatia was not revealed to be a Ravenclaw at the time the card was designed.
+
+==Appearances==
+{{Imagecat|Images of Ignatia Wildsmith}}
+[[File:Ignatia Wildsmith Chocolate Frog Card HM.png|thumb|Ignatia Wildsmith immortalised on a silver [[Chocolate Frog Card]]]]
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*''[[Wizard of the Month]]''
+*{{PM}} {{Mention}}
+*{{HM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Wildsmith, Ignatia}}
+
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Devlin Whitehorn]]
+|position=[[Wizard of the Month]]
+|years=[[December]] [[2004]]
+|successor=[[Derwent Shimpling]]
+}}
+{{End box}}
+{{Chocolate Frog Cards}}
+[[de:Ignatia Wildsmith]]
+[[es:Ignatia Wildsmith]]
+[[ru:Игнатия Уилдсмит]]
+[[pl:Ignatia Wildsmith]]
+[[fr:Ignatia Wildsmith]]
+[[it:Ignatia Wildsmith]]
+[[fi:Ignatia Wildsmith]]
+[[nl:Ignatia Wildsmid]]
+[[sv:Ignatia Wildsmith]]
+[[zh:伊格纳提娅·威尔德史密斯]]
+
+[[Category:1227 births]]
+[[Category:1320 deaths]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Historical figures]]
+[[Category:Inventors]]
+[[Category:Ravenclaws]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Sorted in the 1230s]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

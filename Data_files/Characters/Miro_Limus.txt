@@ -1,0 +1,50 @@
+{{Transcribed image|File:QuidditchTeamsofBritainandIreland.jpg}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Miro Limus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male<ref name="gender">"[http://www.behindthename.com/name/miro Miro]" on Behind the Name</ref>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author
+|house = 
+|loyalty = 
+}}
+'''Miro Limus''' was a [[wizardkind|wizard]]<ref name="gender" /> who wrote the revised edition of ''[[Quidditch Teams of Britain and Ireland|Quidditch Teams of England and Ireland]]''.<ref name="MHP">{{MHP}} {{see image|File:QuidditchTeamsofBritainandIreland.jpg}}</ref>
+
+==Etymology==
+*This character was named after [[Miraphora Mina]] and [[Eduardo Lima]], the graphic artists who produced many of the paper props seen in the [[Harry Potter (film series)|''Harry Potter'' films]].
+
+==Appearances==
+*[[Harry Potter (film series)|''Harry Potter'' films]] {{1st Mention}} {{C|Mentioned on a book cover}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]'' {{C|Mentioned on a book cover}}
+*{{MHP}}} {{C|Mentioned on a book cover}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Limus, Miro}}
+[[fr:Miro Limus]]
+[[pl:Miro Limus]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Limus family|Miro]]
+[[Category:Males]]
+[[Category:Wizards]]

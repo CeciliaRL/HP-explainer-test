@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Arabella Figg's parents
+|born = 
+|died = 
+|blood = One or both of them [[Wizardkind|magical]]<ref name="blood">{{OOTP|B|2}} - Their daughter [[Arabella Figg]] was a [[Squib]], meaning one or both of them were [[Wizardkind|wizard]]s.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="OOTP8"/>
+|gender = Male, Female<ref name="OOTP8"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Arabella Figg]] (daughter)<ref name="OOTP8"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+These '''individuals''' were the parents of the [[Squib]] [[Arabella Figg]].<ref name="OOTP8"/>
+
+==Biography==
+On [[12 August]] [[1995]], during the [[Disciplinary hearing of Harry Potter]], [[Minister for Magic]] [[Cornelius Fudge]] asked Arabella to give information about her parentage to the ministry later after the end of the hearing, asking her to report to [[Percy Weasley]].<ref name="OOTP8">{{OOTP|B|8}}</ref>
+
+==Behind the scenes==
+*As Arabella is a Squib, she must have had wizarding parentage, meaning at least one of them was a [[Wizardkind|wizard]]. It's unknown if Arabella's mother was a witch, her father was a wizard, or if they were both magical.
+*Figg may have been Arabella's married name. It is therefore unknown whether or not it was her parents name as well.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Figg, Arabella parents}}
+[[Category:Females]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

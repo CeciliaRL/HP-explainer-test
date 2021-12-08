@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = mom
+|image = [[File:Guards arresting Barty Crouch Junior GOFF.png|thumb]]
+|name = Council of Magical Law guards
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="GOFF"/>
+|gender = Males<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = Dark (all)<ref name="GOFF"/>
+|eyes = 
+|skin = *Light (three of them)<ref name="GOFF"/>
+*Dark (one of them)<ref name="GOFF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Guards in [[Council of Magical Law]]<ref name="GOFF"/>
+|house = 
+|loyalty = *[[British Ministry of Magic|Ministry of Magic]]<ref name="GOFF"/>
+**[[Council of Magical Law]]<ref name="GOFF"/>
+}}
+{{Dialogue a-b-c|Guard 1|Careful, he's dangerous|Guard 2|Careful. He hits hard, you have to grab his...|Barty Crouch Jnr|Get your filthy hands off me, you pathetic little men!|The guards and Barty Crouch Jnr|Harry Potter and the Goblet of Fire (film)}}
+These '''individuals''' were guards in the [[British Ministry of Magic|Ministry of Magic]] [[Council of Magical Law]].<ref name="GOFF"/>
+
+==Biography==
+In [[1981]], they brought in [[Igor Karkaroff]] for a [[Trial of Igor Karkaroff|hearing]] about ''[[Death Eaters|names]]''. Later, they also brought in [[Bartemius Crouch Junior|Bartemius Crouch Jnr]] and sent him to [[Azkaban]].<ref name="GOFF">{{GOF|F}} - Chapter 24 (''The Pensieve'')</ref>
+
+==Behind the scenes==
+*While not confirmed, given their similar duties, these individuals might be [[Watchwizard|Watchwizards]].
+*These wizards do not appear in {{GOF}}.
+
+==Appearances==
+*{{GOF|F}} {{1st}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}
+[[pt-br:Guardas do Conselho das Leis da Magia]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Wizards]]

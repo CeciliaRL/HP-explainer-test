@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Günther the Violent
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Günther the Violent''' (German: '''Günther der Gewalttätige''') was a [[Germany|German]] [[Wizardkind|wizard]] who played [[Stichstock]]. The painting ''[[Günther der Gewalttätige ist der Gewinner]]'' (''Gunther the Violent is the Winner''), painted in [[1105]], depicts him.<ref>{{QTA|R|2}}</ref>
+
+==Etymology==
+The name Günther is from the Germanic name ''Gundahar'', derived from the elements ''gund'' "war" and ''hari'' "army, warrior". This was the name of a semi-legendary 5th-century Burgundian king. He appears in the Germanic saga the ''Nibelungenlied'' which has him married to the Icelandic queen Brünhild.
+
+==Appearances==
+*{{QTA|R}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Günther der Gewalttätige]]
+[[es:Günther el violento]]
+[[fr:Günther le Violent]]
+[[pl:Gunther Gwałtownik]]
+[[Category:German individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

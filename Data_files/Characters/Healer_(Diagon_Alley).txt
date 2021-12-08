@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:DiagonHealer.png|250px]]
+|name = Healer
+|born = Before [[1974]] (most likely)<ref name="age">As she was working as a professional Healer in 1991, she was most likely of age.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PSG"/><ref name="COSG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSG"/><ref name="COSG"/>
+|gender = Female<ref name="PSG"/><ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Purple<ref name="PSG"/><ref name="COSG"/>
+|eyes = Brown<ref name="PSG"/><ref name="COSG"/>
+|skin = Dark<ref name="PSG"/><ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Proprietor of the, [[Healer Shop]], [[Healer]]<ref name="PSG"/><ref name="COSG"/>
+|house = 
+|loyalty = [[Healer Shop]]<ref name="PSG"/><ref name="COSG"/>
+}}
+{{Dialogue a-b-a|Healer|I can see that you are hurt. Would you like me to heal you?|[[Harry Potter]]|Yes, please. What do you charge?|There is no charge. It is my duty to heal all who ask. There, that should feel better.|The Healer's altruistic personality|Harry Potter and the Chamber of Secrets (GBC)}}
+This '''[[Healer]]''' was a [[Wizardkind|witch]], who was the proprietor of the [[Healer Shop]], a healing station located in [[Diagon Alley]] from at least [[1991]] to [[1992]].<ref name="PSG"/><ref name="COSG"/>
+
+==Biography==
+An altruistic individual, she offered her services free of charge to all injured persons in Diagon Alley, seeing it as her duty. When not attending to customers, the Healer appeared to have a passion for [[Divination]]; she kept what appeared to be a [[crystal ball]] on her desk, and consulted what were possibly [[tarot cards]] in her free time.<ref name="PSG">{{PS|G}} - GBC version}}</ref><ref name="COSG">{{COS|G}} - GBC version</ref>
+
+==Behind the scenes==
+*Interestingly, both the Healer and her shop are correctly have "[[Healer]]" in their names, which was a term that wasn't introduced to the series until the release of {{OOTP}} on 21 June, 2003, even though the game was released on 15 November, 2002. The only term for a healing wizard introduced to the series would've been "[[Mediwizard]]" from {{GOF}}. This is likely just a lucky coincidence that happens to line up with the lore.
+
+==Appearances==
+*{{PS|G}} {{1st}} {{C|GBC version}}
+*{{COS|G}} {{C|GBC version}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley}}
+
+[[pl:Healer]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Healers]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

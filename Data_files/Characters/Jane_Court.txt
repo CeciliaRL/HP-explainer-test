@@ -1,0 +1,82 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = hufflepuff
+|image = Jane Court HM profile.png
+|name = Jane Court
+|born = Between [[1 September]] [[1968]] and [[31 August]] [[1969]]<ref name="age">{{HM|3|Farewell My Prefect}} {{c|info revealed to [[Hufflepuff]] players}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Blonde
+|eyes = Brown
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+}}
+'''Jane Court''' was a [[wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1980]]<ref name="age" /><ref name="graduation">[https://twitter.com/themattlondon/status/1005427171459026945 For wiki clarity: Angelica, Chester, Jane, and Felix all entered Hogwarts Sept 1st 1980 and graduated Spring 1987.] by [https://twitter.com/themattlondon Matt London on Twitter]</ref> and was Sorted into [[Hufflepuff]]. In [[1984]], she had been made a [[Prefect]], and was responsible for watching over the [[first year]]s.<ref name="HM13">{{HM|1|3}} {{c|info revealed to [[Hufflepuff]] players}}</ref> At some point in her life, she served time in [[Azkaban]] for an unknown crime, and was released by [[September]] [[1988]].<ref name="Y5SQ">{{HM|5|Yer a Prefect}}</ref>
+
+==Biography==
+===Hogwarts years {{c|1980-1987}}===
+She started going to Hogwarts in 1980, where she became a good [[Duelling|duellist]] and met [[Jacob's sibling]] in 1984.
+
+During the [[Start-of-Term Feast]] of the [[1985–1986 school year]], Jane told [[Jacob's sibling]] she thought she saw the missing [[Ben Copper]] studying [[Transfiguration]] by the [[Clock Tower]].<ref name="HM21">{{HM|2|1}}</ref>
+
+Jane was still at Hogwarts the following two years and graduated in [[1987]].<ref name="graduation" />
+
+===Later life {{c|1987-}}===
+After Hogwarts, Jane was sentenced to serve time in [[Azkaban]] for an unknown crime. She was released by September [[1988]].<ref name="Y5SQ"/>
+
+In September of 1988 she joined other previous prefects to meet with new prefects in the [[Three Broomsticks Inn]].<ref name="Y5SQ"/>
+
+Later this year, she met [[Jacob's sibling]] in [[Knockturn Alley]] and informed them that [[Mundungus Fletcher]] had been heading to [[Ollivanders]].<ref name="HM510">{{HM|5|10}}</ref>
+
+==Magical abilities and skills==
+*'''[[Duelling]]''': Jane became a proficient duellist during her years at Hogwarts.
+*'''[[Charm]]s''': Jane was adept with the casting of charms, such as the [[Freezing Charm]].<ref name="farewell">{{HM|3|Farewell My Prefect}}</ref>
+*'''[[Potion]]s''': Jane was skilled with the brewing of potions, such as [[Babbling Beverage]].<ref name="farewell"/>
+*'''[[Herbology]]''': Jane was skilled with the handling of [[magic]]al plants, such as [[Snargaluff]].<ref name="farewell"/>
+
+==Appearances==
+{{Imagecat|Images of Jane Court}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=Female [[Prefect#Hufflepuff|prefect of Hufflepuff House]]<br/>(along with two other female Hufflepuffs in different years taking the post)
+|years=[[1984]]–[[1987]]
+|successor=Unknown, eventually<br/>[[Hannah Abbott]]
+}}
+{{End box}}
+{{Head boys and prefects}}
+{{DEFAULTSORT:Court, Jane}}
+[[es:Jane Court]]
+[[fr:Jane Court]]
+[[ru:Джейн Курт]]
+[[Category:1960s births]]
+[[Category:Azkaban convicts]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Hogwarts prefects]]
+[[Category:Hufflepuffs]]
+[[Category:Sorted in 1980]]
+[[Category:Wizards]]

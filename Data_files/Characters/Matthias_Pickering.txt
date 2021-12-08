@@ -1,0 +1,60 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = dark-wizard
+|image = 
+|name = Matthias Pickering
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WU">{{WU}} "[[Brilliant Event: First Year at Hogwarts]]"</ref>
+|alias = Theus
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Male<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Constance Pickering's mother|Daughter in law]]<ref name="WU"/>
+*[[Constance Pickering's older brother|Grandson]]<ref name="WU"/>
+*[[Constance Pickering's sister|Granddaughter]]<ref name="WU"/>
+*[[Constance Pickering]] (granddaughter)<ref name="WU"/>
+*[[Constance Pickering's Squib brother|Grandson]]<ref name="WU"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Pickering family]]<ref name="WU"/>
+*[[The Unforgivable]]<ref name="WUCL"/>
+}}
+{{Quote|My Grandfather loves to tell the story of how, after the Ironbelly dragon was released inside Gringotts, we had to change the family vault location because ours was destroyed by dragon detritus.|[[Constance Pickering]]|Harry Potter: Wizards Unite}}
+'''Matthias Pickering''' was a [[Wizardkind|wizard]] and the grandfather of the [[Pickering family|Pickering]] siblings.<ref name="WU"/> 
+
+==Biography==
+Matthias was a cruel and greedy wizard who would turn violent whenever his granddaughter, [[Constance Pickering|Constance]], angered him, which was often. Despite that, Constance's parents always sided with him. He was wealthy and knew a lot of powerful witches and wizards, so family always did whatever they could to keep him happy.<ref name="WUCL">{{WU}} "[[Brilliant Event: Constance's Lament]]"</ref>
+
+He loved to tell the story of how, after the [[Gringott's Dragon|Ironbelly]] [[dragon]] at [[Gringotts Wizarding Bank|Gringotts]] was released during the [[Break-in of Gringotts Wizarding Bank (1998)|break-in in 1998]], they had to change the location of the family vault because theirs was destroyed by dragon detritus.<ref name="WU"/>
+
+Matthias was a selfish wizard who founded [[The Unforgivable]] to make himself rich and powerful. He recruited only wealthy and influential wizards with the promise of more money and power. They did terrible things to get ahead with no concern for anyone but themselves. The moment Constance discovered The Unforgivable existed, she decided she could put the organisation and their resources to better use. She decided that she could make a difference and help those truly in need. She made Matthias disappear, by hiding him, alive and mostly unharmed, inside the big trunk in her room. She then used [[Polyjuice Potion]] to assume his appearance and then take the place of its leader.<ref name="WUCL"/>
+
+In [[November]] [[2021]], following Constance's arrest, the [[Aurors]] searched her apartment and found Matthias under the effect of a [[Draught of Living Death]], but otherwise unharmed. The [[Ministry]] has taken him into custody.<ref name="WUCL"/>
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pickering, Matthias}}
+[[Category:British individuals]]
+[[Category:Bullies]]
+[[Category:Dark wizards]]
+[[Category:Impersonated individuals]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Pickering family|Matthias]]

@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Intern at the Ministry of Magic
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="GOFF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFF"/>
+|gender = Male<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Summer intern at the [[British Ministry of Magic]] in the [[Department of Mysteries]]<ref name="GOFF"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="GOFF"/>
+**[[Department of Mysteries]]<ref name="GOFF"/>
+}}
+{{Quote|Bartemius! Not trying to lure [[Harry Potter|Potter]] into one of the Ministry's summer internships, are we? The last boy who went into the Department of Mysteries never came out!|[[Bartemius Crouch Junior|Barty Crouch Jnr]] (impersonating [[Alastor Moody]]) to [[Bartemius Crouch Senior|Barty Crouch Snr]]|Harry Potter and the Goblet of Fire (film)}}
+This '''boy''' was a [[Wizardkind|wizard]] and summer intern at the [[British Ministry of Magic|Ministry of Magic]] sometime before early [[1995]] and worked in the [[Department of Mysteries]]. He went missing within the Department and was never found.<ref name="GOFF">{{GOF|F}} - Chapter 23 (''Barty Crouch's death'')</ref>
+
+==Behind the scenes==
+*This is possible that he fell into [[veil]] in [[Death Chamber]] and thus [[Death|died]], which could explain his strange disappearance.
+*It is unclear why the Ministry of Magic would allow summer interns to work in a highly classified department. Perhaps this statement might not be true at all and was only spoken by [[Bartemius Crouch Junior]] to try and insult his father.
+
+==Appearances==
+*{{GOF|F}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 9 employees}}
+[[es:Interno no identificado del Departamento de Misterios]]
+[[Category:British individuals|Department of Mysteries intern]]
+[[Category:Department of Mysteries personnel|Department of Mysteries intern]]
+[[Category:Males|Department of Mysteries intern]]
+[[Category:Missing individuals|Department of Mysteries intern]]
+[[Category:Unidentified individuals|Department of Mysteries intern]]
+[[Category:Wizards|Department of Mysteries intern]]

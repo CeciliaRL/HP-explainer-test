@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Dan Darker
+|born = Between [[1731]] and [[1735]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+**[[Slytherin Quidditch team]]
+}}
+'''Dan Darker''' (b. [[1730s]]) was a [[Slytherin]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1740s]]. He was [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin]] [[Quidditch]] [[Slytherin Quidditch team|team]] from [[1744]] to [[1748]].<ref>{{HPPS}}, p. 349 {{see image|File:Slytherin Captains Plaque 2.jpg}}</ref>
+
+==Appearances==
+[[File:Slytherin Captains Plaque 2.jpg|236x236px|thumb|left|{{PAGENAME}}'s name appearing on a plaque]]
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=[[Russell Lucky]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]]
+|years=[[1744]]—[[1748]]
+|successor=[[Jess Lafington]]
+}}
+{{End box}}
+
+{{DEFAULTSORT:Darker, Dan}}
+
+[[pl:Dan Darker]]
+[[pt-br:Dan Darker]]
+[[ru:Ден Даркер]]
+[[fr:Dan Darker]]
+[[Category:1730s births]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1740s]]
+[[Category:Wizards]]

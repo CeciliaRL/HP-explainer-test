@@ -1,0 +1,38 @@
+{{Real world subject}}
+{{Individual infobox
+|name = Charles Dickens
+|born = [[1812]]
+|died = [[1870]] 
+|blood = [[Non-magic people|Muggle]]
+|nationality = [[England|English]]
+|species = [[Human]]
+|gender = Male
+|job = Author<ref name="JKRS"/>
+|theme = individual
+}}
+'''Charles Dickens''' was an [[England|English]] author who wrote ''[[David Copperfield]]''.<ref name="JKRS">{{JKRS}}</ref>
+
+==Etymology==
+The name "Charles" comes from the Germanic name Karl, which was derived from a Germanic word which meant "man". However, an alternative theory states that it is derived from the common Germanic element hari meaning "army, warrior".
+
+==Behind the scenes==
+*[[Ralph Fiennes]] ([[Tom Riddle|Lord Voldemort]]) portrays Dickens in the 2013 film ''[[wikipedia:The Invisible Woman (2013 film)|The Invisible Woman]]'', which he also directs. [[Michelle Fairley]] ([[Hermione Granger's mother|Mrs Granger]]) also appears as Caroline Graves. 
+*[[:Wikipedia:commons:File:Charles_Dickens_by_Daniel_Maclise.jpg|An 1839 portrait of Charles Dickens by Daniel Maclise]] appears to be the basis of a portrait of [[Podric Batworthy]] used in the [[Harry Potter (film series)|''Harry Potter'' films]].
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+*{{HPV|CH}} {{Mention}}
+
+==External links==
+*[[Wikipedia:Charles Dickens|"Charles Dickens"]] on [[Wikipedia:Main Page|Wikipedia]]
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dickens, Charles}}
+[[pl:Charles Dickens]]
+[[Category:1812 births]]
+[[Category:1870 deaths]]
+[[Category:Authors|Dickens, Charles]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

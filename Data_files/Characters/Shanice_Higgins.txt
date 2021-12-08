@@ -1,0 +1,48 @@
+{{Individual infobox
+|name = Shanice Higgins
+|born = After [[1976]],<ref name="age">[[Viktor Krum]], born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref> [[Jamaica]] (possibly)
+|died =
+|signature =
+|alias =
+|blood =
+|nationality = [[Jamaica]]n<ref name="usa-v-jam"/><ref name="usa-v-jam2"/>
+|title = [[Seeker]]<ref name="usa-v-jam"/><ref name="usa-v-jam2"/>
+|species = [[Human]]<ref name="usa-v-jam"/><ref name="usa-v-jam2"/>
+|gender = Female<ref name="usa-v-jam"/><ref name="usa-v-jam2"/>
+|skin =
+|hair =
+|eyes =
+|height =
+|weight =
+|family = 
+|romances = 
+|animagus =
+|patronus =
+|wand =
+|patronus =
+|house =
+|job = [[Seeker]] for the [[Jamaican National Quidditch team]]<ref name="usa-v-jam"/><ref name="usa-v-jam2"/>
+|loyalty = [[Jamaican National Quidditch team]]<ref name="usa-v-jam"/><ref name="usa-v-jam2"/>
+|theme = quidditch-player
+}}
+{{Quote|​''[…]'' US Seeker Darius Smackhammer caught the Snitch ahead of Jamaican counterpart Shanice Higgins, resulting in a narrow victory for the United States.|[[Ginevra Weasley|Ginny Potter]], "[[USA VERSUS JAMAICA]]" (''[[Daily Prophet]]'', [[16 May]] [[2014]])|Pottermore}} 
+'''Shanice Higgins''' was a [[Jamaica]]n [[Wizardkind|witch]] who played as the [[Seeker]] for the [[2014]] [[Jamaican National Quidditch team]].<ref name="usa-v-jam"/><ref name="usa-v-jam2"/>
+
+==Biography==
+During the fourth match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], [[American National Quidditch team|USA]] versus Jamaica, she was beaten to the [[Golden Snitch|Snitch]] by US Seeker [[Darius Smackhammer]],<ref name="usa-v-jam">{{PM}} - [[USA VERSUS JAMAICA (I)]] (Archived)</ref> resulting in a narrow victory for the United States.<ref name="usa-v-jam2">{{PM}} - [[USA VERSUS JAMAICA (II)]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Higgins, Shanice}}
+[[de:Shanice Higgins]]
+[[pl:Shanice Higgins]]
+[[ru:Шанис Хиггинс]]
+[[fr:Shanice Higgins]]
+[[Category:Females]]
+[[Category:Jamaican individuals]]
+[[Category:Seekers]]
+[[Category:Wizards]]

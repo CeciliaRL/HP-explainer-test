@@ -1,0 +1,47 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|name = John Calvin Coolidge Jr.
+|image = 
+|born = July 4, 1872
+|died = January 5, 1933
+|blood = [[Non-magic people|No-Maj]]
+|marital = Married
+|nationality = [[United States of America|American]]
+|title = President of the United States
+|alias = 
+|species = [[Human]]
+|gender = Male
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = *Grace Coolidge {{C|wife}}
+*John {{C|son}}
+*Calvin Jr. {{C|son}}
+|romances = 
+|boggart = 
+|job = *[[President of the United States of America]]
+*Vice President of the United States of America {{C|formerly}}
+*Governor of Massachusetts {{C|formerly}}
+*Lawyer {{C|formerly}}
+|loyalty = *[[United States of America]]
+*Republican Party
+}}
+'''Calvin Coolidge''' (born '''John Calvin Coolidge Jr.''') was an [[United States of America|American]] [[Non-magic people|No-Maj]] politician.<ref name="wiki">{{Wikilink|Calvin Coolidge}}</ref><ref name="LEGOD">{{LEGO|D}}</ref>
+
+==Behind the scenes==
+*He served as [[President of the United States of America]] during [[Newton Scamander|Newt Scamander's]] [[Fantastic Beasts and Where to Find Them (film)|trip]] to [[New York|New York City]] as well as [[Gellert Grindelwald's escape]] from [[Magical Congress of the United States of America|MACUSA's]] prison the [[1927|following year]]. His term in office (1923-1929) greatly overlapped with [[Seraphina Picquery|Seraphina Picquery's]] term as [[President of the Magical Congress of the United States of America|President of MACUSA]] (1920-1928)
+**As relations between American [[Wizardkind|wizards]] and No-Majs were illegal at the time of his presidency, President Coolidge was unaware of the existence of the [[wizarding world]].
+*President Coolidge served as Governor of [[Massachusetts]] prior to becoming Warren G Harding's vice president. Massachusetts is a prominent location for magical history and buildings in the United States, as it it home to [[Ilvermorny School of Witchcraft and Wizardry]], The [[Salem Witches' Institute]], and was also the location of the [[Salem Witch Trials]] in the [[1690s]].
+
+==Appearances==
+*{{LEGO|D}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Politicians]]

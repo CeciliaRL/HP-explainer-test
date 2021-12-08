@@ -1,0 +1,48 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme=hogwarts-staff
+|image= [[File:Unidentified Sleeping Headmaster with Castle Sketch.png|250px]]
+|name= Unidentified sleeping Headmaster with castle sketch
+|nationality={{GBorIE}}
+|born=
+|died= Before [[1943]]
+|blood=
+|alias=
+|title=*[[Professor]]<ref name="MHP"/>
+*[[Headmaster]]<ref name="MHP"/>
+|hidep=
+|species=[[Human]]<ref name="MHP"/>
+|gender=Male<ref name="MHP"/>
+|height=
+|hair=Grey<ref name="MHP"/>
+|eyes=
+|skin=Light<ref name="MHP"/>
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job= [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]]<ref name="MHP"/>
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="MHP"/>
+}}
+{{Quote|Hogwarts sure has declined since I was Headmaster.|The portrait|Harry Potter: Hogwarts Mystery}}
+This '''[[Wizardkind|wizard]]''' was appointed [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] at some point before [[Armando Dippet|Professor Dippet]]. After his [[death]], his [[portrait]] was hung in the [[Headmaster's office]], in order to give advice to the current head. The large text on his portrait reads ''"TV NE CEDE MALIS SED CONTRA AVDEN-TIOR ITO"'' which may translate as ''"do not give in to evil but proceed ever more boldly against it."''<ref name="MHP">{{MHP}}</ref>
+
+Apparently a disciplinarian, this individual's portrait was critical of the way [[Albus Dumbledore]] ran the school. At the end of their [[fourth year]], when [[Jacob's sibling]] was summoned to the [[Headmaster's Office]] after having discovered the [[Forest Vault]] and breaking the [[sleepwalking curse]], this portrait referred to them as "''a troublemaker''".<ref name="HM">{{HM|4|16}}</ref>
+
+==Appearances==
+*{{MHP}} {{1st}} {{Portrait}}
+*{{HM}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

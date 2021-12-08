@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Primpernelle
+|born = Before [[1981]]<ref name="age">As she owned a business by [[1999]], she must have been 17 or older.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Madam]]<ref name="DP"/>
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Female<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Shop owner<ref name="DP"/>
+|house = 
+|loyalty = [[Madam Primpernelle's Beautifying Potions]]<ref name="DP"/>
+}}
+'''Madam Primpernelle''' was a [[Wizardkind|witch]] who owned a shop called [[Madam Primpernelle's Beautifying Potions]]. It was located at [[275 Diagon Alley]] and appeared in the ''[[Daily Prophet]]''.<ref name="DP">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: ''[[8 February]]'', [[1999]], Page 2</ref>
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley}}
+[[ru:Мадам Примпернель]]
+[[pl:Primpernelle]]
+[[Category:British individuals|Primpernelle]]
+[[Category:Females|Primpernelle]]
+[[Category:Shop owners|Primpernelle]]
+[[Category:Wizards|Primpernelle]]

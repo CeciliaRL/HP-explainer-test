@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = Bhavana Patel.jpg
+|name = Bhavna Patel
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Female<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HBPG"/>
+|eyes = 
+|skin = Fair<ref name="HBPG"/>
+|family = *[[Ashish Patel]] (possible relative)
+*[[Riya Patel]] (possible relative)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Hufflepuff]]<ref name="HBPG"/>
+}}
+'''Bhavana Patel''' was a [[Wizardkind|witch]] and [[Hufflepuff]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Biography==
+She could usually be found walking around the [[Greenhouse Two|second]] [[Hogwarts greenhouses|Herbology greenhouse]] during the [[1996–1997 school year]].<ref name="HBPG"/>
+
+==Etymology==
+Bhavana means ''becoming, cultivating ''or ''producing. ''Patel is an Indian surname, meaning ''headman'' or'' village chief''.
+
+==Behind the scenes==
+*Her surname, Patel, was originally going to be given to the [[Patil family|Patil twins]], [[Parvati Patil|Parvati]] and [[Padma Patil|Padma]].
+*Based on her name, she is presumably of Indian descent.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Patel, Bhavana}}
+[[pl:Bhavana Patel]][[fr:Bhavana Patel]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Patel family]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

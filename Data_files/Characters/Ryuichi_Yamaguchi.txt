@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Ryuichi Yamaguchi
+|hideb=
+|born=After [[1976]]<ref>Viktor Krum, born 1976, was the oldest player in the 2014 Quidditch World Cup.</ref>, [[Japan]]
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Chaser]] for the [[Japanese National Quidditch team]]
+|loyalty=*[[Mahoutokoro]]<ref>{{WW|mahoutokoro}}</ref>
+*[[Japanese National Quidditch team]]
+}}
+'''Ryuichi Yamaguchi''' (龍一山口) was a Japanese [[Wizardkind|wizard]] and a [[Chaser]] for the [[2014]] [[Japanese National Quidditch team]].<ref>[[BULGARIA VERSUS JAPAN]] (Archived from {{PM}})</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Yamaguchi, Ryuichi}}
+
+[[de:Ryuichi Yamaguchi]]
+[[fr:Ryuichi Yamaguchi]]
+[[pl:Ryūichi Yamaguchi]]
+[[ru:Рюити Ямагути]]
+[[Category:20th century births]]
+[[Category:Chasers]]
+[[Category:Japanese individuals]]
+[[Category:Mahoutokoro students]]
+[[Category:Males]]
+[[Category:Wizards]]

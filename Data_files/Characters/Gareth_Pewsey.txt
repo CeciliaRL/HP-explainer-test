@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="house">{{POA|G}} {{C|PS2 version}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Hufflepuff]]
+}}
+'''Gareth Pewsey''' was a [[Hufflepuff]]<ref name="house" /> [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He competed in the school [[Gobstones]] tournament during the [[1996–1997 school year]].
+
+==Etymology==
+The meaning of the name "Gareth" is unknown. It first appears in this form in Thomas Malory's 15th-century compilation of Arthurian legends ''Le Morte d'Arthur'', in which Gareth was a knight of the Round Table, the brother of Sir Gawain. Malory based the name on Gahariet, which was the name of a similar Arthurian character in French sources. It may ultimately have a Welsh origin, possibly related to gwaredd meaning "gentleness".
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|PlayStation 2 version]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts Gobstones}}
+{{DEFAULTSORT:Pewsey, Gareth}}
+[[pl:Gareth Pewsey]]
+[[fr:Gareth Pewsey]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gobstones players]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

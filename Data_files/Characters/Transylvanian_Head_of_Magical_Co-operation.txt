@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=mom
+|image=
+|name=Transylvanian Head of Magical Co-operation
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=Head of Magical Co-operation
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Transylvania]]n [[wizardkind|wizarding community]]
+}}
+{{Quote|Oh I'm sure Mr Crouch will be up and about in no time, but in the meantime, I'm more than willing to take up the slack. Of course, it's not all attending balls — oh no, ''[...]'' we've been trying to persuade the Transylvanians to sign the International Ban on Duelling. I've got a meeting with their Head of Magical Co-operation in the new year —|[[Percy Weasley]] to [[Ludovic Bagman]] during the [[Yule Ball]]|Harry Potter and the Goblet of Fire}}
+This '''individual''' served as the Head of Magical Co-operation in the [[Transylvania]]n wizarding government.
+
+==History==
+[[Percy Weasley]], during the course of his duties as personal assistant to [[Bartemius Crouch Senior|Bartemius Crouch Snr]], Head of the British [[Department of International Magical Co-operation]], had a meeting scheduled with this individual in early [[1995]] to persuade him to sign the [[International Ban on Duelling]].<ref name="GF23">{{GOF|B|23}}</ref>
+
+==Appearances==
+*{{GOF}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:Director del Departamento de Coordinación Mágica Internacional de Transilvania]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Politicians]]
+[[Category:Transylvanian individuals]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

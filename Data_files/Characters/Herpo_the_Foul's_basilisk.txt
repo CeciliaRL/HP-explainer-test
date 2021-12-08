@@ -1,0 +1,39 @@
+{{conjecture}}
+{{Pet individual infobox
+|image = [[File:Herpo the Foul's Basilisk.png|thumb]]
+|name = Herpo the Foul's basilisk
+|born = Ancient [[Greece]]<ref name="FBR"/>
+|died = 
+|alias = 
+|title = 
+|species = [[Basilisk]]<ref name="FBR"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Herpo the Foul]]<ref name="FBR"/>
+}}
+{{Quote|The first recorded Basilisk was bred by Herpo the Foul, a Greek Dark wizard and Parselmouth, who discovered after much experimentation that a chicken egg hatched beneath a toad would produce a gigantic serpent possessed of extraordinarily dangerous powers.|[[Newton Scamander|Newt Scamander]], {{FB}}|Fantastic Beasts and Where to Find Them (real)}}
+'''Herpo the Foul's basilisk''' was the first recorded [[basilisk]] in history. It was bred by [[Herpo the Foul]], an Ancient [[Greece|Greek]] [[Dark Wizard]], who discovered after much experimentation that a [[Chicken (animal)|chicken]] [[egg]] hatched beneath a [[toad]] would produce this gigantic [[Snake|serpent]]. Herpo was able to control the basilisk as he was able to speak [[Parseltongue]]. It is said that this particular basilisk lived to be almost 900 years old.<ref name="FBR">{{FB|R}}</ref>
+
+==Behind the scenes==
+*Ironically, Herpo the Foul was also responsible for creating the first [[Horcrux]] which are known to be vulnerable to [[Basilisk venom]]. It is unknown if there is any further connection.
+
+==Appearances==
+*{{PS|G}} {{1st Mention}} {{FWC mention}}
+*{{COS|G}} {{FWC mention}}
+*{{FB|R}} {{1st}}
+*{{JKRS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Basilisco de Herpo el Loco]]
+[[pl:Bazyliszek Herpona Podłego]]
+[[fr:Basilic de Herpo l'Infâme]]
+[[pt-br:Basilisco de Herpo, o Sujo]]
+[[Category:Basilisks]]
+[[Category:Herpo the Foul's possessions]]
+[[Category:Individuals of unknown or undetermined gender]]

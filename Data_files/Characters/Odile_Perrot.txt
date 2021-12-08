@@ -1,0 +1,40 @@
+{{Individual infobox
+|theme=wizard
+|species=Human
+|blood=[[Pure-blood]] (probably)
+|gender=Female
+|family=*[[Manon Perrot]] (mother)
+*[[Sebastien Perrot]] (father)
+*[[Laurelle Perrot]] (sister)
+*[[Huguette Perrot]] (sister)
+*[[Josette Gage]] (maternal aunt)
+*[[Corvus Lestrange (III)|Corvus Lestrange]] (maternal uncle)
+*[[Reynard Gage]] (maternal uncle by marriage)
+*[[Eglantine Lestrange]] (maternal aunt by marriage)
+*[[Louis Gage]] (cousin)
+*[[Mathis Gage]] (cousin)
+*[[Corvus Lestrange (IV)|Corvus Lestrange]] (cousin)
+*[[Clarisse Lestrange]] (second cousin)
+*[[Falco Tremblay]] (second cousin)
+*[[Corvus Lestrange (III)|Corvus Lestrange]] (maternal grandfather)
+*[[Minette Lestrange]] (maternal grandmother)
+|loyalty = *[[Perrot family]]
+*[[Lestrange family]]
+|image = ODILE PERROT.jpg|name = Odile Perrot}}
+'''Odile Perrot''' was a French [[Wizardkind|witch]] and a member of the [[Perrot family]]. She was the daughter of [[Manon Perrot]] and [[Sebastien Perrot]], and the sister of [[Huguette Perrot|Huguette]] and [[Laurelle Perrot]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref>
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Perrot, Odile}}
+[[fr:Odile Perrot]]
+[[pl:Odile Perrot]]
+[[ru:Одиль Перро]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Perrot family]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

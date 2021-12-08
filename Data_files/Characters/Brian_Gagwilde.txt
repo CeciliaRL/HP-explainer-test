@@ -1,0 +1,62 @@
+{{Youmay|the Hogwarts Headmaster|[[Brian Gagwilde III|Brian Gagwilde III, his descendant]]}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:BrianGagwilde.png|250px]]
+|name = Brian Gagwilde
+|born = 
+|died = In or before [[1992]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, Gagwilde must have died sometime in or before [[1992]], given his portrait's appearance in the [[Headmaster's office]] in {{COS|FA}}.</ref>
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]
+*[[Headmaster]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Brian Gagwilde III]] (descendent)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] (formerly)
+*Author<ref name="PM"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|Artium Magister.|Gagwilde's motto, as inscribed on the portrait depicting him and Professor Aragon playing chess.|Harry Potter Limited Edition}}
+
+'''Professor Brian Gagwilde''' was a [[wizardkind|wizard]] and a [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]].<ref name="HPLE">{{HPLE|PA}}</ref> Professor Gagwilde also wrote ''[[Jiggery Pokery and Hocus Pocus]]''.<ref>"[http://goldenagedames.wordpress.com/2011/06/14/the-dames-hit-hollywood-day-four-warner-brothers-studio/ The Dames Hit Hollywood! Day Four: Warner Brothers Studio]" from An Elegant Obsession blog</ref><ref name="PM">{{PM}}</ref>
+
+His [[portrait]], in which he was depicted as playing a game of [[chess]] with [[Walter Aragon]], was placed in the [[Headmaster's office]], to give advice to the current Head.
+
+==Appearances==
+{{Imagecat|Images of Brian Gagwilde}}
+*{{COS|F}} {{1st}} {{Portrait}}
+*{{POA|F}} {{Mention}}
+*{{GOF|F}} {{Portrait}}
+*{{OOTP|F}} {{Portrait}}
+*{{HBP|F}} {{Portrait}}
+*{{DH|F2}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+*{{PM}} {{C|Mentioned on book cover}}
+
+==Notes and references==
+{{Reflist}}
+{{Staff}}
+{{DEFAULTSORT:Gagwilde, Brian}}
+[[fr:Brian Gagwilde]]
+[[pl:Brian Gagwilde]]
+[[pt-br:Brian Gagwilde]]
+[[Category:Authors]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

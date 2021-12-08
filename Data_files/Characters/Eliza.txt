@@ -1,0 +1,51 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = ravenclaw
+|image = Eliza.jpeg
+|name = Eliza
+|born = between [[1 September]] [[1973]] and [[31 August]] [[1974]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Blonde
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+'''Eliza '''was a [[Wizardkind|witch]] who attended [[Hogwarts School of Witchcraft and Wizardry]] and was a member of [[Ravenclaw]] [[Hogwarts Houses|House]].  
+
+==Biography==
+Eliza was born somewhere in [[Great Britain]] or [[Ireland]] during the early [[1970s]]. She began attending [[Hogwarts School of Witchcraft and Wizardry]] in the [[1985–1986 school year]], where she was [[Sorting ceremony|sorted]] into [[Ravenclaw]]. 
+
+Eliza was revising for her [[Potions (class)|Potions]] exam late one night in the [[Ravenclaw Common Room]], and the next day she could not find her notes. She thought another pupil might have used the [[Severing Charm]] on her bag, which made them fall out. Eliza then searched the common room for the notes, which she eventually found.
+
+==Behind the scenes==
+*The search for Eliza's notes was a specific assignment for Ravenclaw only players in {{HM}}. In the game, [[Rowan Khanna]] tells [[Jacob's sibling]] why Eliza needs their help and they agree to search the room with her. Eliza was very grateful for their help and went to tell [[Filius Flitwick|Professor Flitwick]] about their kindness towards [[first year]] Ravenclaws.<ref>{{HM|2|Take Note}} {{c|info revealed to [[Ravenclaw]] players}}</ref>
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[ru:Элиза]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in 1985]]
+[[Category:Wizards]]

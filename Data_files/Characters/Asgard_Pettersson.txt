@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Nordic.JPG|250px]]
+|name = Asgard Pettersson
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[Nordic National Quidditch team]]
+|house = 
+|loyalty = [[Nordic National Quidditch team]]
+}}
+'''Asgard Pettersson''' was a [[Scandinavia]]n [[Wizardkind|wizard]] who played as a [[Beater]] on the [[Nordic National Quidditch team]].<ref>{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Pettersson's [[Chocolate Frog Card]] could be won by beating [[Ross Gibberd (II)|Ross Gibberd]] at a [[Quidditch]] challenge.<ref>{{HBP|G}} {{c|NDS edition}}</ref>
+
+==Etymology==
+In Norse religion, "Asgard" (Old Norse: Ásgarðr; meaning "Enclosure of the Æsir"[1]) is one of the Nine Worlds and is the country or capital city of the Norse Gods surrounded by an incomplete wall attributed to a Hrimthurs riding the stallion Svadilfari, according to Gylfaginning. Valhalla is located within Asgard. Odin and his wife, Frigg are the rulers of Asgard.
+
+==Appearances==
+*{{QWC}}
+*{{HBP|G}} {{c|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Pettersson, Asgard}}
+
+[[es:Asgard Pettersson]]
+[[fr:Asgard Pettersson]]
+[[pl:Asgard Pettersson]]
+[[ru:Асгард Петерссон]]
+[[Category:20th century births]]
+[[Category:Beaters]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Males]]
+[[Category:Scandinavian individuals]]
+[[Category:Wizards]]

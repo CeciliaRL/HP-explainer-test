@@ -1,0 +1,53 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = death-eater
+|image = 
+|name = Barnaby Lee's mother
+|born = before [[1970s]]
+|died = 
+|blood = 
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Barnaby Lee's grandmother|Mother or mother-in-law]]
+*[[Barnaby Lee's father|Husband]]
+*[[Barnaby Lee]] (son)
+*[[Cecil Lee]] (brother-in-law)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|job = 
+|house = 
+|loyalty = *[[Lee family]]
+*[[Tom Riddle|Lord Voldemort]]
+**[[Death Eaters]]
+}}
+'''Barnaby Lee's mother''' was a [[Dark Wizard|Dark witch]] who was one of [[Tom Riddle|Lord Voldemort]]'s [[Death Eaters]] during the [[First Wizarding War]].<ref>{{HM|3|8}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Death Eaters}}
+{{DEFAULTSORT:Lee, Barnaby's mother}}
+[[es:Madre de Barnaby Lee]]
+[[Category:British individuals]]
+[[Category:Death Eaters]]
+[[Category:Females]]
+[[Category:Lee family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

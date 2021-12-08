@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Bowen Duffield
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+'''Bowen Duffield''' was a [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He was seen walking through the school during the [[1993-1994 school year]].
+
+==Behind the scenes==
+*This student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|PlayStation 2 version]] of {{POA}}.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Duffield, Bowen}}
+[[pl:Bowen Duffield]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

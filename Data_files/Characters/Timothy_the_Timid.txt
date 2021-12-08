@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Timothy the Timid.JPG|250px]]
+|name = Timothy the Timid
+|born = 
+|died = Before [[1995]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown (sparse)
+|eyes = Brown
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Quidditch Captain#Hogwarts Quidditch Captains|Hogwarts Quidditch Captain]]s<ref name="HBP">{{HBP|G}}</ref>
+}}
+'''Timothy the Timid'''<ref name="HBP NDS">{{HBP|G}} - NDS version</ref> was a very shy and nervous [[Wizardkind|wizard]] who had a moustache and very sparse brown hair. He was afraid of many things and disliked people (and other portraits) who stared at him, becoming incredibly paranoid with time. He had a portrait hung at [[Hogwarts Castle]].
+
+==Biography==
+===[[1995–1996 school year]]===
+By 1995, Timothy had two sets of portraits, hiding different shortcuts. One set hid a secret passageway between the fifth-floor corridor and the Herbology Corridor. The password for this shortcut was "''Flaming [[earwig]]s''".<ref name="OotP">{{OOTP|G}}</ref> The other pair of portraits hid a shortcut between the [[Middle Courtyard|Transfiguration Courtyard]] and the fifth floor, and its password was "''Carpe Diem''".<ref name="OotP GBA">{{OOTP|G}} - GBA version</ref> Both sets of portraits were placed next to portraits of a [[Staring Portrait|staring eye]] and Timothy's portrait was very annoyed by it, asking students to "''cover ''him'' up''" and claiming that "''he is one of ''them'' ''" (whatever that means).<ref name="OotP" />
+
+===[[1996–1997 school year]]===
+In the next school year, both sets of portraits were hung on other places. Due to leading close to the Quidditch pitch, the portrait said its password to the [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captains]], asking them to have their teams to keep it down, when they passed next to him. One of the two sets hid a passageway from the [[Grand Staircase]] to a stairway, leading towards the Quidditch Gate, and its password was "''Boiled Beetles''".<ref name="HBP" /> The other pair hid a secret passageway from the Quidditch Gate to the Portrait Room.<ref name="HBP NDS" />
+
+==Behind the scenes==
+*Timothy the Timid may have passed away sometime prior to [[1995]], as many portraits hung at [[Hogwarts Castle]] depict deceased individuals.
+*The portrait of him that can be seen on the fifth floor corridor close to the [[Prefects' bathroom]] was removed in [[1998]] and instead another part of the fifth floor corridor has been added, as it can be seen that [[Tom Riddle|Voldemort]] chased [[Harry Potter]] through this hallway.<ref>{{DH|G2}}</ref>
+
+==Etymology==
+The name "Timothy" comes from the Greek name "Τιμοθεος" ("''Timotheos''"), meaning "honouring God", derived from τιμαω ("''timao''"), "to honour" and θεος ("''theos''"), "god".
+
+==Appearances==
+*{{OOTP|G}} {{1st}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts ground floor}}
+{{Hogwarts fifth floor}}
+
+[[es:Timothy el Tímido]]
+[[pl:Timothy Nieśmiały]]
+[[ru:Тимоти Робкий]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

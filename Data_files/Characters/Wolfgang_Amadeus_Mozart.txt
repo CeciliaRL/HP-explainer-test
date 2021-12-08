@@ -1,0 +1,42 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Wolfgang Amadeus Mozart
+|hideb=
+|born=[[27 January]], [[1756]]<br/>[[Wikipedia:Salzburg|Salzburg]], [[Wikipedia:Habsburg Monarchy|Habsburg Empire]]
+|died=[[5 December]], [[1791]]<br/>[[Wikipedia:Vienna|Vienna]], [[Wikipedia:Habsburg Monarchy|Habsburg Empire]]
+|blood=[[Non-magic people|Muggle]]
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Composer
+|loyalty=
+}}
+'''Wolfgang Amadeus Mozart''' ([[27 January]], [[1756]] — [[5 December]], [[1791]]) was a prolific and influential Austrian composer of the Classical era.
+
+On Sunday, [[7 May]], in a year prior to [[1997]], [[Emanuel Hurwitz]] and his wife, [[Kay Hurwitz|Kay]], a [[violin]]ist and [[viola|violist]] respectively, gave a performance of Mozart's ''[[Mozart's Sinfonia Concertanti|Sinfonia Concertanti]]'' at [[St. Mary's Church Hall]]. The couple were accompanied by the [[Dollis Chamber Ensemble]].<ref name="dhp1">{{DH|F1}} {{see image|File:Emanuel&KayHurwitzConcertPoster.jpg}}</ref> [[Hermione Granger]] had a poster for this concert stuck up on the bulletin board in [[Hermione Granger's bedroom|her bedroom]] in the [[Granger family]]'s [[Grangers' house|house]].<ref name="dhp1" />
+
+==Appearances==
+*{{DH|F1}} {{Mentioned on a poster}}
+*{{HPLE}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1756 births]]
+[[Category:1791 deaths]]
+[[Category:Austrian individuals]]
+[[Category:Composers]]
+[[Category:Males]]
+[[Category:Muggles]]

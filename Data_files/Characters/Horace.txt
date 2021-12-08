@@ -1,0 +1,49 @@
+{{Youmay|the Honeydukes employee|the [[Potions Master]] [[Horace Slughorn]]}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Horace
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Honeydukes]] employee
+|house = 
+|loyalty = [[Honeydukes|Honeydukes Sweetshop]]
+}}
+'''Horace''' was a [[Wizardkind|wizard]] who was employed by the [[Flume family|Flumes]] at [[Honeydukes|Honeydukes Sweetshop]] in the [[1990s]].<ref>[http://www.imsdb.com/scripts/Harry-Potter-and-the-Prisoner-of-Azkaban.html ''Prisoner of Azkaban'' script] on IMSDb</ref>
+
+==Behind the scenes==
+*This individual is mentioned only in the script of {{POA|FA}}.
+
+==Etymology==
+The name "Horace" is the English and French form of Horatius, and the name by which the Roman poet Quintus Horatius Flaccus is commonly known those languages. In the modern era it has been used as a given name since the Renaissance, in honour of the poet.
+
+==Appearances==
+*{{POA|F}} {{1st Mention}} {{C|Name appears on script}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogsmeade}}
+[[es:Horace]]
+[[pl:Horace]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

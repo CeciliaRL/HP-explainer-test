@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Chroniculus Punnet
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Historian<ref name="COSG"/>
+*Author<ref name="COSG"/>
+|house = 
+|loyalty = 
+}}
+'''Chroniculus Punnet''' was a [[magic]]al historian and author.<ref name="COSG">{{COS|G}}</ref>
+
+==Etymology==
+*''Chroniculus'' is a derivation of the English word ''Chronicle'', meaning "a written account of events and when they happened, ordered by time".<ref>[http://en.wiktionary.org/wiki/chronicle ''Chronicle'' on the Wiktionary]</ref> *''Punnet'' is a pun on the English word ''Pun'', meaning "joke or type of wordplay".<ref>[http://en.wiktionary.org/wiki/pun ''Pun'' on the Wiktionary]</ref>
+
+==Behind the scenes==
+*In the console version of {{COS|G}}, Punnet is credited as the wizard who wrote ''[[Hogwarts: A History|Hogwarts, A History]]''. However, a later film prop identifies the book's author as [[Garius Tomkink|Professor Garius Tomkink]], and {{WWHP}} ultimately presents [[Bathilda Bagshot]] as the author.
+
+==Appearances==
+*{{COS|G}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Punnet, Chroniculus}}
+
+[[es:Chroniculus Punnet]]
+[[pl:Chroniculus Punnet]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Historians]]
+[[Category:Males]]
+[[Category:Wizards]]

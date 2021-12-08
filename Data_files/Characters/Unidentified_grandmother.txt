@@ -1,0 +1,34 @@
+{{Individual infobox
+|image = Grandmother.jpg
+|name = Unidentified grandmother 
+|blood = [[Non-magic people|No-Maj]]
+|marital = Married
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Female
+|family = *[[Unidentified young husband|Son-in-law]]
+*[[Unidentified young wife|Daughter]]
+*[[Unidentified son|Grandson]]
+*[[Unidentified daughter|Granddaughter]]
+*[[Unidentified grandfather|Husband]]
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidea = 
+}}
+This '''individual''' was an [[United States of America|American]] [[Muggle|No-Maj]] who was in an apartment with her family as their memories where being wiped from a [[Obscurial attack on New York|recent magical catastrophe]] in [[1926]].<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+The Grandmother was portrayed by an unidentified extra in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Unidentified Muggles]]

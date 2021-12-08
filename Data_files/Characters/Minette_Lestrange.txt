@@ -1,0 +1,72 @@
+{{Individual infobox
+|theme = wizard
+|image = MINETTEROSIER.jpg
+|name = Minette Lestrange (née Rosier)
+|born = 
+|died = 
+|blood = [[Pure-blood]]
+|marital = Married
+|nationality = [[France|French]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Corvus Lestrange (II)|Corvus Lestrange]] (husband)
+*[[Manon Perrot]] (daughter)
+*[[Josette Gage]] (daughter)
+*[[Corvus Lestrange (III)|Corvus Lestrange]] (son)
+*[[Corvus Lestrange (I)|Corvus Lestrange]] (father-in-law)
+*[[Heloise Lestrange]] (mother-in-law)
+*[[Falco Lestrange]] (brother-in-law)
+*[[Salomé Lestrange]] (sister-in-law)
+*[[Eglantine Lestrange]] (niece/daughter-in-law)
+*[[Leonie Tremblay]] (niece)
+*[[Sebastien Perrot]] (son-in-law)
+*[[Reynard Gage]] (son-in-law)
+*[[Odile Perrot]] (granddaughter)
+*[[Laurelle Perrot]] (granddaughter)
+*[[Huguette Perrot]] (granddaughter)
+*[[Mathis Gage]] (grandson)
+*[[Louis Gage]] (grandson)
+*[[Corvus Lestrange (IV)|Corvus Lestrange]] (grandson)
+*[[Leta Lestrange]] (great-granddaughter)
+*[[Corvus Lestrange (V)|Corvus Lestrange]] (great-grandson)
+*[[Rosier family]]
+*[[Lestrange family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Rosier family]]
+*[[Lestrange family]]
+}}
+'''Minette Lestrange''' (née '''Rosier''') was a [[France|French]] [[wizardkind|witch]] and a member of the [[pure-blood]] [[Lestrange family]]. She married [[Corvus Lestrange (II)|Corvus Lestrange]] and had three children with him: two daughters [[Manon Perrot|Manon]] and [[Josette Gage|Josette]], and son [[Corvus Lestrange (III)|Corvus]].<ref>{{COG}} {{see image|File:LestrangeFamilyTree HighRes.png}}</ref>
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Rosier, Minette}}
+
+[[es:Minette Rosier]]
+[[fr:Minette Rosier]]
+[[pl:Minette Lestrange]]
+[[ru:Минетт Розье]]
+
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Lestrange family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Rosier family]]
+[[Category:Wizards]]

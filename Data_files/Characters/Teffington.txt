@@ -1,0 +1,63 @@
+{{conjecture}}
+{{Individual infobox
+|theme = gringotts
+|image = [[File:Gringotts guard.jpg|250px]]
+|name = Teffington
+|born = 
+|died = [[1 May]], [[1998]]<br/>[[Malfoy Manor]], [[Wiltshire]], [[England]]
+|blood = [[Pure-blood]] or [[half-blood]]<ref>Given that Teffington was allowed to work on the [[Gringotts Wizarding Bank]] during the reign of the [[Death Eaters]] over the wizarding world, it's likely that he was a [[Pure-blood]], as the Death Eaters would haven't likely allowed [[Half-blood]] wizards as they were associated with [[Non-magic people|Muggle]]s. However, several Half-bloods, like [[Dolores Umbridge]], worked with the Death Eaters, thus giving the possibility that Teffington was allowed to keep his job too.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Gringotts Wizarding Bank|Gringotts]] Bank guard
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Dark
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Guard at [[Gringotts Wizarding Bank]]
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]
+}}
+'''Teffington'''<ref name="script">[http://pt.scribd.com/doc/163084623/HARRY-POTTER-AND-THE-DEATHLY-HALLOWS-PART-2-by-screenplay-Steve-Kloves#scribd ''Harry Potter and the Deathly Hallows - Part 2'' screenplay by Steve Kloves]</ref> (d. [[1 May]], [[1998]])<ref name="script"/> was a [[Wizardkind|wizard]] who served as [[Gringotts Guards|a wizard guard]] of [[Gringotts Wizarding Bank]] in [[1998]] during the [[Death Eaters]]' reign over the [[wizarding world]].
+
+==Biography==
+He distrusted [[Hermione Granger]] ([[Polyjuice Potion|disguised]] as [[Bellatrix Lestrange]]) and [[Ronald Weasley]] (disguised as Dragomir Despard), as [[Griphook]] said, they knew Hermione was an imposter. He was standing in the entrance and stepped forward when ''Bellatrix'' denied to give her wand to [[Bogrod]].
+
+After the break-in, Teffington was summoned to [[Malfoy Manor]], where he was killed by [[Tom Riddle|Lord Voldemort]], in rage at having lost [[Hufflepuff's Cup|one of his Horcruxes]], along with other guards and goblins.<ref name="script"/>
+
+==Behind the scenes==
+*He is played by [[Anthony Allgood]] in {{DH|F2}}. He is unnamed in the film, but Bogrod refers to him as Teffington in the original screenplay.<ref name="script"/>
+*He may be [[Unidentified Gringotts guard (I)|Marius's fellow guard]], who was standing watch at the doors in the [[Harry Potter and the Deathly Hallows|novel]].
+
+==Appearances==
+*{{DH}} {{possible}}
+*{{DH|F2}} {{1st}} 
+*{{DH|G2}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Teffington]]
+[[fr:Teffington]]
+[[pl:Teffington]]
+[[ru:Теффингтон]]
+[[Category:1998 deaths]]
+[[Category:British individuals]]
+[[Category:Death Eater allies]]
+[[Category:Deaths by Killing Curse]]
+[[Category:Gringotts employees]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Second Wizarding War casualties]]
+[[Category:Security guards]]
+[[Category:Wizards]]

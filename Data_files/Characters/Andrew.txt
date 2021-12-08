@@ -1,0 +1,53 @@
+{{Youmay|the Ravenclaw student|[[Andrew (disambiguation)|another person with the same name]]}}
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:Andrew.JPG|250px]]
+|name = Andrew
+|born = [[31 August]] [[1981]] or earlier,<ref>He was at least in his [[first year]] at [[Hogwarts School of Witchcraft and Wizardry]] in [[1992]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Black<ref name="COSG"/>
+|eyes = Brown<ref name="COSG"/>
+|skin = Pale<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="COSG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+**[[Duelling Club]]
+}}
+'''Andrew''' was a [[Wizardkind|wizard]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]] during the [[1990s]]. In [[1992]], he became a member of the [[Duelling Club]] and was ranked four on the Club's top-ten duellists list.<ref name="COSG">{{COS|G}} - PC version</ref>
+
+==Etymology==
+Andrew is from the Greek name Ανδρεας (Andreas), which was derived from ανηρ (aner) "man" (genitive ανδρος (andros) "of a man"). This name has been common (in various spellings) throughout the Christian world, and it became very popular in the Middle Ages. Saint Andrew is regarded as the patron of [[Scotland]], [[Russia]], [[Greece]] and [[Romania]].
+
+==Appearances==
+*{{COS|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Duelling Club}}
+[[es:Andrew]]
+[[fr:Andrew]]
+[[pl:Andrew]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Duelling Club members]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

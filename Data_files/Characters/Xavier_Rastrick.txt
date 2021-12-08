@@ -1,0 +1,75 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:XavierRastrick.jpg|250px]]
+|name = Xavier Rastrick
+|born = [[1750]]
+|died = [[1836]] (aged 85-86) (possibly)<br />[[Painswick]], [[England]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Wizard entertainer
+|house = 
+|loyalty = 
+}}
+{{Quote|Flamboyant wizard entertainer who vanished unexpectedly while tapdancing to a crowd of three hundred in Painswick and was never seen again.|[[Chocolate Frog Card]]|Harry Potter and the Prisoner of Azkaban (video game)}}
+'''Xavier Rastrick''' (b. [[1750]], vanished in [[1836]]) was a lively [[wizardkind|wizard]] entertainer who is famous for unexpectedly vanishing during a performance in [[Painswick]] before the very eyes of his audience, never to be seen again.<ref name=":0">{{PS|G}}</ref>
+
+==Biography==
+[[File:XavierRastrick.png|200px|thumb|left|A younger Rastrick during one of his dance routines]]
+Born in [[1750]], Xavier Rastrick became a performer in the early [[19th century|nineteenth century]]. By the [[1830s]], his exuberant personality attracted a relatively large audience to his shows.
+
+In [[1836]], a crowd of three hundred [[wizardkind|witches and wizards]] gathered in the village of [[Painswick]] to watch one of his performances. The show, however, became infamous, as Rastrick unexpectedly vanished halfway through a tap-dance routine and was never seen or heard from again. He was subsequently declared dead, with his true fate unknown.
+
+By the [[1990s]], Rastrick was featured on a [[Chocolate Frog Card]] for his mysterious disappearance.<ref name=":0" />
+
+==Behind the scenes==
+*The reason why Rastrick suddenly disappeared is completely unknown, let alone whether or not he truly [[vanishment|vanished]] into non-being. It might have been a case of [[vanishing sickness]]. Alternatively, Rastrick might have become [[un-born]] due to some time-travelling mishap (as his disappearance was before [[1899]], when the Ministry stopped conducting time-travelling experiments). 
+*Based on the fact that his sudden and unexpected disappearance is similar to the recurring disappearances of [[Quidditch referee]]s, a similar situation may have happened, where an object in contact with Rastrick, such as his hat, was [[Portus|transformed into a Portkey]], whisking him away from the stage to somewhere else where he may have died or turned up far into the future.
+
+==Etymology==
+The name "Xavier" is derived from the Basque place name Etxaberri meaning "the new house". This was the surname of the Jesuit priest [[Wikipedia:Francis Xavier|Saint Francis Xavier]] (1506—1552). He was a missionary to India, Japan, China, and other areas in eastern Asia, and he is the patron saint of the Orient and missionaries. His surname has since been adopted as a given name in his honour, chiefly among Catholics.
+
+==Appearances==
+{{Imagecat|Images of Xavier Rastrick}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Rastrick, Xavier}}
+{{Chocolate Frog Cards}}
+
+[[de:Xavier Rastrick]]
+[[es:Xavier Rastrick]]
+[[fi:Xavier Rastrick]]
+[[fr:Xavier Rastrick]]
+[[it:Xavier Rastrick]]
+[[ru:Ксавьер Растрик]]
+[[Category:1750 births]]
+[[Category:1836 deaths]]
+[[Category:British individuals]]
+[[Category:Deceased individuals]]
+[[Category:Entertainers]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Missing individuals]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizards]]

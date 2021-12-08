@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Randolph Spudmore
+|born = 
+|died = 
+|blood = [[Half-blood]] or [[pure-blood]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Able Spudmore]] (father)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Broomstick maker
+|house = 
+|loyalty = [[Spudmore family]]
+}}
+'''Randolph Spudmore''' was the son of [[Able Spudmore]] of [[Ellerby and Spudmore]] and the inventor of the [[Firebolt]].<ref name="Pottermore">{{WW|firebolt}}</ref>
+
+==Appearances==
+*{{PM}} {{1st mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Spudmore, Randolph}}
+[[de:Randolph Spudmore]]
+[[fr:Randolf Spudmore]]
+[[pl:Randolph Spudmore]]
+[[Category:Broom-makers]]
+[[Category:Males]]
+[[Category:Spudmore family]]
+[[Category:Wizards]]

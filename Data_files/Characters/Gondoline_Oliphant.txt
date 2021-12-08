@@ -1,0 +1,71 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Gondoline Oliphant.jpg|250px]]
+|name = Gondoline Oliphant
+|born = [[1720]]<ref name="COSG"/>
+|died = [[1799]], [[Cotswolds]] (aged 78-79)<ref name="COSG"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COSG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Female<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="JKRS"/>
+|eyes = Brown<ref name="JKRS"/>
+|skin = White<ref name="JKRS"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Magizoologist]]<ref name="JKRS"/>
+|house = 
+|loyalty = 
+}}
+'''Gondoline Oliphant''' ([[1720]]-[[1799]]) was a [[Great Britain|British]] [[Wizardkind|witch]] made famous for studying the life and habits of [[troll]]s.<ref name="COSG"/><ref name="JKRS"/>
+
+==Biography==
+In [[1799]], she was clubbed to [[death]] in the [[Cotswolds]] while sketching. For her achievements in [[Magizoology]], she was featured on a silver [[Famous Witches and Wizards Cards|Famous Wizard card]] as part of the [[Chocolate Frog Card]] series.<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref><ref name="JKRS">{{JKRS}}</ref>
+
+There was a bust of her at [[Hogwarts Castle]], on a secret passage leading from the fourth floor to the second floor.<ref name="POAG"/>
+
+==Etymology==
+*The surname Oliphant is derived from an archaic English word for "[[elephant]]." J.R.R. Tolkien included huge, elephant-like creatures known as [[Wikipedia:Mûmak|oliphaunts]] in his novel ''The Lord of the Rings.''
+*The name Gondoline is perhaps a further nod to Tolkien: in the ''Silmarillion'', there was an Elven city called Gondolin, which remained hidden for centuries before being destroyed.
+
+==Appearances==
+{{Imagecat|Images of Gondoline Oliphant}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{JKRS}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Oliphant, Gondoline}}
+{{Chocolate Frog Cards}}
+[[de:Gondoline Oliphant]]
+[[fi:Gondoline Oliphant]]
+[[ru:Гондолина Олифант]]
+[[fr:Gondoline Oliphant]]
+[[es:Gondoline Oliphant]]
+[[it:Gondoline Oliphant]]
+[[pl:Gondoline Oliphant]]
+[[Category:1720 births]]
+[[Category:1799 deaths]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Busts]]
+[[Category:Deaths by creature]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Magizoologists]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

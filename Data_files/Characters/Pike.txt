@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:SlytherinBoy3.jpg|250px]]
+|name = Pike
+|born = Between [[1 September]] [[1979]] and [[31 August]] [[1980]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAF"/>
+|gender = Male<ref name="POAF"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="POAF"/>
+|eyes = Blue<ref name="POAF"/>
+|skin = Light<ref name="POAF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="POAF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAF"/>
+**[[Slytherin]]<ref name="POAF"/>
+**[[Draco Malfoy's gang]]<ref name="POAF"/>
+}}
+'''Pike'''<ref name="name">[http://imsdb.com/scripts/Harry-Potter-and-the-Prisoner-of-Azkaban.html ''Prisoner of Azkaban'' script at the Internet Movie Script Database] (archived [http://web.archive.org/web/20090216093016/http://imsdb.com/scripts/Harry-Potter-and-the-Prisoner-of-Azkaban.html here] via the Internet Archive's Wayback Machine)</ref> (b. [[1979]]-[[1980]]) was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in the [[1990s]] and was [[Sorting Hat|Sorted]] into [[Slytherin]] [[Hogwarts Houses|house]]. He was commonly seen between [[1993]] and [[1994]] with [[Draco Malfoy]], [[Vincent Crabbe]], and [[Gregory Goyle]].<ref name="POAF">{{POA|F}}</ref>
+
+==Biography==
+[[File:SlytherinBoy.jpg|thumb|left|150px|Pike in [[Hogsmeade]] near the Shrieking Shack]]
+Pike began his education at Hogwarts at some point, and was [[Sorting ceremony|sorted]] into [[Slytherin]] [[Hogwarts Houses|house]].<ref name="POAF"/>
+
+He was part of [[Draco Malfoy]]'s [[Draco Malfoy's gang|gang]] during the [[1993–1994 school year]] and was one of the Slytherins that cruelly imitated a [[Dementor]] in an effort to scare [[Harry Potter]] in the first [[Care of Magical Creatures]] class of the year. He was also with Malfoy in the [[Stone Circle]] when Malfoy was [[Muggle duelling|punched]] by [[Hermione Granger]] in [[1994]].<ref name="POAF"/>
+
+==Behind the scenes==
+*Pike was portrayed by [[Bronson Webb]] in {{POA|FA}}.<ref name="IMDB">[http://www.imdb.com/title/tt0304141/fullcredits imdb]</ref>
+*Before his name was revealed, many fans assumed this individual was [[Theodore Nott]]. Pike is somewhat similar in appearance to the way Nott is described in the novels. The difference however is that Pike is shown to be a member of Draco's gang while Nott is only loosely associated with the gang.
+*It is possible that Pike was created specifically to replace [[Gregory Goyle]] in certain action-oriented scenes as [[Josh Herdman]] had injured his arm and would have been unable to perform them. For instance, Pike replaces Goyle in the scene where Malfoy and his gang harass Ron and Hermione outside the [[Shrieking Shack]].
+
+==Appearances==
+{{Imagecat|Images of Pike}}
+*{{POA|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Draco's gang}}
+[[pl:Pike]]
+[[ru:Пайк]]
+[[Category:20th century births]]
+[[Category:Blue-eyed individuals]]
+[[Category:British or Irish individuals]]
+[[Category:Bullies]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Brevis Birth
+|born = Before [[1981]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Trevor Birch]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Tutshill Tornados]]
+|house = 
+|loyalty = [[Tutshill Tornados]]
+}}
+[[Brevis Birch]] was the [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Tutshill Tornados]].<ref name="wizardsb">"[http://www.hplex.info/wizards/a-z/b.html Wizards, Witches and Beings: B]" on the Harry Potter Lexicon</ref> He blamed the team's unexpected loss in a match against the [[Ballycastle Bats]] in early [[1999]] on a bout of [[narcolepsy]] suffered by their [[Keeper]] [[Merwyn Finwick]].<ref name="wizardsb" /><ref>"[http://www.hplex.info/quidditch/q_teams_britain.html#Tutshill Teams of the World: Great Britain and Ireland]" on The Harry Potter Lexicon</ref> The Tornados had been at the top of the [[British and Irish Quidditch League|league]] before this defeat.<ref>"[http://www.hplex.info/about/sources/source_dp.html Daily Prophet newsletters]" on The Harry Potter Lexicon</ref>
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Birch, Brevis}}
+[[pl:Brevis Birch]]
+[[ru:Брэвис Бирч]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Quidditch Captains]]
+[[Category:Wizards]]

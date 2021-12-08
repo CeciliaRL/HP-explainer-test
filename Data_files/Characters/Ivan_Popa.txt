@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Ivan Popa
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = Human<ref name="PM">[https://web.archive.org/web/20160307004515/https://www.pottermore.com/writing-by-jk-rowling/history-of-the-quidditch-world-cup History of the Quidditch World Cup] from {{PM}} (via The Internet Archive)</ref>
+|gender = Male<ref name="PM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Player for the [[Romanian National Quidditch team]]<ref name="PM"/>
+|house = 
+|loyalty = [[Romanian National Quidditch team]]
+}}
+'''Ivan Popa''' was a [[Romania]]n [[wizardkind|wizard]] who played for [[Romanian National Quidditch team]] alongside [[Niko Nenad]] in the first decade of the [[19th century]].<ref name="PM"/>
+
+==Biography==
+During the quarter- and semi-finals of the [[Quidditch World Cup]] in [[1809]], Popa and his teammates saw Nenad, who was noted for his violent and unstable behaviour, hit himself over his head with his [[broomstick|broom]] and set his feet on fire out of frustration. On two occasions, Nenad was driven to strangle a referee, and both times Popa intervened to stop him. Popa and the other players voiced their concerns about Nenad to the team's manager, urging him to substitute another player for the final, but to no avail.<ref name="PM"/>
+
+Two hours into the final match, when Romania was losing to [[Mexico|New Spain]], Nenad deliberately sent a [[Bludger]] flying into the nearby forest, thereby causing the trees he had [[Tree animating jinx|jinxed]] before the match to [[Attack of the Killer Forest|come to life and attack the stadium]]. Several people were killed in the ensuing chaos, including Nenad, but Popa managed to save lives through his actions.<ref name="PM"/>
+
+Popa was later received an [[International Wizarding Order of Merit]] for the heroism he displayed during the catastrophe. At an international inquiry that was convened, he testified that he had no idea what Nenad was planning to do, stating, "I mean, who'd suspect that? You'd have to be as mental as he was."<ref name="PM"/>
+
+==Appearances==
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Popa, Ivan}}
+[[de:Ivan Popa]]
+[[fr:Ivan Popa]]
+[[pl:Ivan Popa]]
+[[Category:Males]]
+[[Category:Quidditch players]]
+[[Category:Romanian individuals]]
+[[Category:Wizards]]

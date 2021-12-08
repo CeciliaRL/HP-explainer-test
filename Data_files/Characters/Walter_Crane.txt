@@ -1,0 +1,50 @@
+{{HogwartsMysterySpoiler}}
+{{Real world subject}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Walter Crane
+|born = [[15 August]] [[1845]]
+|died = [[14 March]] [[1915]]
+|blood = 
+|marital = 
+|nationality = [[England|English]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Lucy Crane]] (sister)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Artist
+|house = 
+|loyalty = 
+}}
+'''Walter Crane''' ([[15 August]] [[1845]] – [[14 March]] [[1915]]) was an [[England|English]] [[Wizardkind|wizard]] and artist.<ref name="wikipedia">{{Wikilink|Walter Crane}}</ref>
+
+He produced illustrations for ''[[Household Stories]]''.<ref name="hple">{{HPLE|G}} {{See image|File:Household Stories.png}}</ref> This English edition of the [[Brothers Grimm|Brothers' Grimm]] fairy tale collection was translated by his sister [[Lucy Crane|Lucy]].<ref name="hple" />
+
+He had his own [[Chocolate Frog Card]].<ref>{{HM|5}} onward, [[Badeea Ali]]'s art quiz</ref>
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{C|Name on book label}}
+*{{HM}} {{Mention}}
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Crane, Walter}}
+[[Category:1845 births]]
+[[Category:1915 deaths]]
+[[Category:Artists]]
+[[Category:Chocolate Frog Cards]]
+[[Category:English individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

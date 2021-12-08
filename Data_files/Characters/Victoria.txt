@@ -1,0 +1,63 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=[[File:QueenVictoriaPortrait.jpg|250px]]
+|name=Victoria
+|hideb=
+|born=[[24 May]], [[1819]]
+|died=[[22 January]], [[1901]]
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=[[Queen]]
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+*[[William I]] (ancestor)
+*[[Henry VII]] (ancestor)
+*[[George III]] (grandfather)
+*[[Elizabeth II]] (descendant) 
+|hidea=
+|job=Queen of the United Kingdom of Great Britain and Ireland
+|loyalty=
+}}
+'''Victoria''' (full name '''Alexandrina Victoria'''; [[24 May]] [[1819]] – [[22 January]] [[1901]]) was a [[Non-magic people|Muggle]] who reigned as [[Queen]] of the United Kingdom of [[Great Britain]] and [[Ireland]] from [[1837]] to [[1901]].<ref name="wikipedia">"[https://en.wikipedia.org/wiki/Queen_Victoria Queen Victoria]" on Wikipedia</ref>
+
+[[Evangeline Orpington]], the [[Minister for Magic]] from [[1849]] to [[1855]], was a close friend of Queen Victoria.<ref name="pm-ministers">{{PM|ministers-for-magic}}</ref> The queen never suspected that Orpington was a [[wizardkind|witch]].<ref name="pm-ministers" />
+
+Victoria was buried on [[4 February]] [[1901]].<ref name="wikipedia" /> The Minister for Magic at the time, [[Faris Spavin]], attended her [[Funeral of Victoria|funeral]] in an admiral's hat and spats.<ref name="pm-ministers" /> This was the final act that made the [[Wizengamot]] suggest that Spavin, then 147 years old, retire.<ref name="pm-ministers" />
+
+A [[portrait]] of Victoria hung in the abandoned [[Old Bell Tower|old bell tower]] near the [[Quidditch pitch|pitch]] where the [[Chudley Cannons]] practised.<ref name="fb-cases">{{FBC}} {{see image|File:QueenVictoriaPortrait.jpg}}</ref>
+
+Victoria was a descendant of King [[William I]] and a great-great-grandmother of Queen [[Elizabeth II]].
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{FBC}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Eventually, [[George III]] (as King)
+|position=Queen Regnant of England
+|years=[[1837]]-[[1901]]
+|successor=Eventually, [[Elizabeth II]]
+}}
+{{End box}}
+
+[[fr:Victoria]]
+[[pt-br:Vitória do Reino Unido]]
+[[pl:Wiktoria Hanowerska]]
+[[Category:1819 births]]
+[[Category:1901 deaths]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Royalty]]

@@ -1,0 +1,61 @@
+{{Individual infobox
+|image = Morrigan.jpg
+|name = Morrigan
+|born = [[Ireland]]<ref name="Pottermore"/>
+|died = 
+|blood = [[Pure-blood]]<ref name="blood">Her descendant Isolt was said to be born of two pure-blood families, so Morrigan must be pure-blood as well.</ref>
+|nationality = [[Ireland|Irish]]<ref name="Pottermore"/>
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="Pottermore"/>
+|gender = Female<ref name="Pottermore"/>
+|skin = 
+|eyes = 
+|hair = 
+|height = 
+|weight = 
+|family = *[[William Sayre]] (descendant)
+*[[Isolt Sayre]] (descendant)<ref name="Pottermore"/>
+*[[Martha Steward II]] (descendant)<ref name="Pottermore"/>
+*[[Rionach Steward]] (descendant)<ref name="Pottermore"/>
+|romances = 
+|animagus = [[Crow]]<ref name="Pottermore"/>
+|boggart = 
+|wand = 
+|patronus = 
+|house = 
+|job = 
+|loyalty = 
+|theme = wizard
+}}
+'''Morrigan''' was a famous [[Ireland|Irish]] [[pure-blood]] [[Wizardkind|witch]], notable for being an [[Animagus]] who could turn into a [[crow]].<ref name="Pottermore">{{PM|ilvermorny}}</ref> It is unknown whether or not she was a registered [[Animagus]].
+
+Morrigan was an ancestor of [[William Sayre]], who nicknamed his daughter, [[Isolt Sayre|Isolt]], "Morrigan" due to her affinity for all things natural when she was young.<ref name="Pottermore" />
+
+==Magical skills and abilities==
+*'''[[Transfiguration]]''': Morrigan was exceptionally proficient with the art of [[Human Transfiguration]], that she learned how to become an [[Animagus]], allowing her to transform into a [[crow]] at will.<ref name="Pottermore"/>
+*'''[[Potion]]s''': In order to fully become an Animagus, one must brew the highly advanced, difficult and time-consuming [[Animagus potion]] to complete the process,<ref name="Animagus">{{PP|H}}</ref> meaning she was very talented in this [[magic]]al field as well.
+
+==Etymology==
+According to [[Wikipedia:Irish mythology|Irish mythology]], the Morrígan ("phantom queen") or Mórrígan (moe-ree-gan) ("great queen") was a figure associated with fate, especially with foretelling doom and death in battle — in this capacity, she would take the shape of a crow, flying above the battlefield.<ref>"[[Wikipedia:The Morrígan|The Morrígan]]" on [[Wikipedia:Main page|Wikipedia]]</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Animagi}}
+[[de:Morrigan]]
+[[es:Morrigan]]
+[[ja:モリガン]]
+[[pl:Morrigan]]
+[[pt-br:Morrigan]]
+[[Category:Animagi]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Irish individuals]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = [[File:Council of Magical Law clerk.jpg|250px]]
+|name = Council of Magical Law clerk
+|born = Before [[1970]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="GOFF21"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFF21"/>
+|gender = Male<ref name="GOFF21"/>
+|height = 
+|weight = 
+|hair = White<ref name="GOFF21"/>
+|eyes = 
+|skin = Light<ref name="GOFF21"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Clerk for the [[Council of Magical Law]]<ref name="GOFF21"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="GOFF21"/>
+**[[Council of Magical Law]]<ref name="GOFF21"/>
+}}
+This '''individual''' (fl. [[1981]]) was a [[Great Britain|British]] [[wizardkind|wizard]] who held a clerical post at the [[Council of Magical Law]] in the [[1980s]].
+
+==Biography==
+This wizard was present at [[Igor Karkaroff]]'s hearing in order to provide [[Death Eaters|Death Eater]] names, and provided [[Bartemius Crouch Senior|Bartemius Crouch Snr]], who presided over the Council, with records of the [[Death Eaters]] already caught by the Ministry.<ref name="GOFF21">{{GOF|F}} - Chapter 21 (''The Pensieve'')</ref>
+
+==Appearances==
+*{{GOF|F}} {{1st}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 10 employees}}
+
+[[pt-br:Escriturário do Conselho das Leis da Magia não identificado]]
+[[Category:British individuals]]
+[[Category:Council of Magical Law members]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

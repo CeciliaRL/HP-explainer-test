@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Ethelbard Mordaunt
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Ethelbard Mordaunt''' was a [[Wizardkind|wizard]]. His next door neighbour, [[Elladora Guffy]], was overly fond of practical joke [[spell]]s. She had a habit of [[charm]]ing Mordaunt's garden furniture to do things like spin unexpectedly. Ethelbard sent a letter complaining about Guffy to the ''[[Daily Prophet]]''.<ref name="DP">{{DP}}: [[31 July]], [[1998]], Page 3</ref>
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Mordaunt, Ethelbard}}
+[[pl:Ethelbard Mordaunt]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

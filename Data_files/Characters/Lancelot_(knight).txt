@@ -1,0 +1,43 @@
+{{HogwartsMysterySpoiler}}
+{{Real world subject}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Sir Lancelot
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Sir
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Knights of the Round Table|Knight of the Round Table]]
+|house = 
+|loyalty = [[Arthur]]
+}}
+'''Sir Lancelot''' was one of the [[Knights of the Round Table]] who served [[Arthur|King Arthur]] in medieval times. He served alongside fellow knights [[Bedivere]], [[Percivale]] and [[Cadogan]].<ref>{{WW|sir-cadogan}}</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+*{{HM}} {{Mention}}
+==Notes and references==
+{{Reflist}}[[pl:Sir Lancelot]]
+[[Category:British individuals]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Nobility]]

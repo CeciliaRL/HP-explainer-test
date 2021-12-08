@@ -1,0 +1,47 @@
+{{Transcribed image|File:JohnAndDinahStevensonGrave.jpg}}
+{{Individual infobox
+|theme = individual
+|image = [[File:JohnAndDinahStevensonGrave.jpg|250px]]
+|name = John Stevenson
+|born = 
+|died = [[9 April]], [[20th century|19??]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Dinah Stevenson]] (wife)†
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Stevenson family]]
+}}
+'''John Stevenson''' (d. [[9 April]], [[20th century|19??]]) was a man buried in the cemetery of the [[St Jerome's Church|Parish Church of St. Clementine]] in [[Godric's Hollow]]. His wife, [[Dinah Stevenson|Dinah]], was buried at his side.<ref>{{DH|F1}} {{see image|File:JohnAndDinahStevensonGrave.jpg}}</ref>
+
+==Appearances==
+*{{DH|F1}} {{Comment|Name seen on headstone}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Stevenson, John}}
+[[fr:John Stevenson]]
+[[pl:John Stevenson]]
+[[Category:20th century deaths]]
+[[Category:British individuals]]
+[[Category:Buried at Godric's Hollow graveyard]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Stevenson family]]

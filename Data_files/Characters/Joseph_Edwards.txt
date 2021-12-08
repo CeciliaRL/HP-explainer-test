@@ -1,0 +1,42 @@
+{{transcribed image|File:JosephEdwardsFishFancies.jpg}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Joseph Edwards
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Inventor and/or manufacturer of [[Joseph Edwards' Fish Fancies]]
+|house=
+|loyalty=
+}}
+'''Joseph Edwards''' was a [[wizardkind|wizard]] who gave his name to the wizarding fish food [[Joseph Edwards' Fish Fancies]]. It is unknown whether he invented or simply manufactured this product.<ref name="hpwc">{{HPWC}} — ''Label Collection'' book {{see image|File:JosephEdwardsFishFancies.jpg}}</ref>
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{comment|Mentioned on product label}}
+*{{HPWC}} — ''Label Collection'' book
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Edwards, Joseph}}
+[[Category:Males]]
+[[Category:Wizards]]

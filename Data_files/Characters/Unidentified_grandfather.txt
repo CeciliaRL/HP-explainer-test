@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = muggle
+|image = Grandfather.jpg
+|name = Unidentified grandfather
+|born = 
+|died = 
+|blood = [[Non-magic people|No-Maj]]
+|marital = Married
+|nationality = [[United States of America|American]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Unidentified young husband|Son]]
+*[[Unidentified young wife|Daughter-in-law]]
+*[[Unidentified son|Grandson]]
+*[[Unidentified daughter|Granddaughter]]
+*[[Unidentified grandmother|Wife]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''individual''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who was in an apartment with his family as their memories where being wiped from a [[Obscurial attack on New York|recent magical catastrophe]] in [[1926]].<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+The Grandfather was portrayed by an unidentified extra in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Unidentified Muggles]]

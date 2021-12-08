@@ -1,0 +1,41 @@
+{{Real world subject}}
+{{Transcribed image|File:ScreamingFaceBook.jpg}}
+{{Individual infobox
+|theme=individual
+|name=Abraham
+|hideb=
+|born=
+|died=
+|blood=
+|image=[[File:ScreamingFaceBook.jpg|250px]]
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Isaac]] (son)
+|hidem=hide
+}}
+'''Abraham''' was the first of the three {{W|Patriarchs (Bible)|Patriarchs}} of the [[Bible]].<ref name="wikipedia">"{{wikilink|Abraham}}</ref> According to the Biblical account, when Abraham was in [[Mesopotamia]], [[God]] called on him to sacrifice his son, [[Isaac]], in order to test his faith.<ref name="PSf22">{{PS|F}} - Chapter 22 (''Cloaked in Darkness'') {{see image|File:ScreamingFaceBook.jpg}}</ref>
+
+Abraham was mentioned in a [[shrieking book|book]] that was kept in the [[Restricted Section]] of the [[Hogwarts Library|library]] at [[Hogwarts School of Witchcraft and Wizardry]] by the [[1990s]].<ref name="PSf22" />
+
+==Behind the scenes==
+*In {{PS|FA}}, the [[shrieking book]], in which Abraham is mentioned, appears to be a copy of ''[http://books.google.ca/books?id=tSs3AAAAMAAJ&printsec=frontcover#v=onepage&q=&f=false The Works of the Most Reverend Dr John Tillotson]''.
+*[[Richard Harris]], who portrays [[Albus Dumbledore]] in the film adaptations of ''Harry Potter and the Philosopher's Stone'' and ''[[Harry Potter and the Chamber of Secrets (film)|Harry Potter and the Chamber of Secrets]]'', played Abraham in the [[1994]] film ''{{W|Abraham (film)|Abraham}}''.
+
+==Appearances==
+*{{PS|F}} {{Comment|Mentioned in book only}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Abraham]]
+[[Category:B.C. era births]]
+[[Category:Biblical figures]]
+[[Category:Humans]]
+[[Category:Males]]

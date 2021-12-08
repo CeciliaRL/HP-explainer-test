@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Masaki Hongo
+|hideb=y
+|born=after [[1976]], [[Japan]]
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Beater]] for the [[Japanese National Quidditch team]]
+|house=
+|loyalty=*[[Mahoutokoro]]<ref>{{WW|mahoutokoro}}</ref>
+*[[Japanese National Quidditch team]]
+}}
+'''Masaki Hongo'''<ref name="LB">{{PM}} - [[PLACE YOUR BETS WITH LUDO BAGMAN]] (Archived)</ref> was a [[Japan]]ese wizard who played as a [[Beater]] for the [[2014]] [[Japanese National Quidditch team]].
+
+==Biography==
+During the seventh round match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], against [[Polish National Quidditch team|Poland]]. Hongo, along with fellow Beater [[Shintaro Shingo]], was largely responsible for Japan's decisive victory by preventing Poland's [[Seeker]], [[Wladyslaw Wolfke]] from catching the Snitch.<ref name="PM">{{PM}} - [[JAPAN VERSUS POLAND|JAPAN_VERSUS_POLAND]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Hongo, Masaki}}
+
+[[de:Masaki Hongo]]
+[[es:Masaki Hongo]]
+[[pl:Masaki Hongo]]
+[[fr:Masaki Hongo]]
+[[ru:Масаки Хонго]]
+[[Category:20th century births]]
+[[Category:Beaters]]
+[[Category:Japanese individuals]]
+[[Category:Mahoutokoro students]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,40 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = Jacob'sSibling'sCrup.jpg
+|name = Jacob's sibling's Cruppy
+|born = [[1986]] or earlier<ref name="PDT">{{HM|3|Puppy-Dog Tales}}</ref>
+|died = 
+|alias = 
+|title = 
+|species = [[Crup]]<ref name="PDT"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+<!-- Physical traits are unknown because players can get different appearances for it -->
+|eyes =
+|skin = 
+|family = 
+|loyalty = [[Jacob's sibling]] (owner)<ref name="PDT"/>
+}}
+This '''[[Crup]]''' belonged to [[Jacob's sibling]] and was purchased shortly before the [[tricks exhibition]].
+
+==Biography==
+[[Rubeus Hagrid]] had intended to give one of [[Rubeus Hagrid's Crups|his crups]] to the student for training before the competition but then realised that all of them had been spoken for. However, Jacob's sibling purchased this crup from another source and trained them to do a perfect roll over. This trick won the pair the competition.<ref name="PDT" />
+
+==Behind the scenes==
+<!-- Needs an image that includes all varieties in-game just like the one on the [[Jacob's sibling's cat]] page -->
+*Several Cruppy varieties are available for purchase in the game. However, the player has to first purchase the Cruppy with the default look before being able to select other varieties. This pet may be purchased before the quest begins, resulting in some dialogue changes. 
+
+==Appearances==
+{{Imagecat|Images of Jacob's sibling's Crup}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Creature-stub}}
+[[Category:Crups]]
+[[Category:Individual dogs]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Jacob's sibling's pets]]

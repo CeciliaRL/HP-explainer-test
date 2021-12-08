@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:PortraitProfessor.jpg|250px]]
+|name = Portrait of a professor
+|born = 
+|died = Before the [[1990s]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Professor]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Professor at Hogwarts
+|house = [[Gryffindor]] (possibly)
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''portrait''' depicted a [[Professor]]<ref name="mtv">[http://www.mtv.ca/moviehead/article.jhtml?id=25349 We Take You Inside The Wizarding World Of Harry Potter] on [http://www.mtv.ca/moviehead/ MTV.ca]</ref> sat in a desk with a [[crystal ball]] on top and a terrestrial globe nearby. On the background, one could see bookshelves and a high window. It was hung in [[Gryffindor Tower]] by the [[1990s]].<ref>See [http://www.flickr.com/photos/32005256@N03/4820782603/in/photostream/ this image]</ref>
+
+==Behind the scenes==
+*In {{WWHP}}, this portrait, along with the [[portrait of a female etiquette teacher]] and the [[portrait of a Quidditch player]], explains in magical terms how the ride portion of {{HPFJ}} will work.
+
+==Appearances==
+*{{WWHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts towers}}
+[[Category:British individuals|Professor]]
+[[Category:Males|Professor]]
+[[Category:Professors|Professor]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards|Professor]]

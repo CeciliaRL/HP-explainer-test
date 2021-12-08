@@ -1,0 +1,22 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Filius Flitwick's goblin ancestor
+|species = [[Goblin]]<ref name="jkr" />
+|family = [[Filius Flitwick]] (descendant)<ref name="jkr" />
+|loyalty = [[Flitwick family]]<ref name="jkr" />
+|theme = goblin
+}}
+An '''ancestor''' of [[Filius Flitwick|Professor Flitwick]], the [[Charms Master]] at [[Hogwarts School of Witchcraft and Wizardry]], was a [[goblin]].<ref name="jkr">[http://web.archive.org/web/20070724184245/http://www.jkrowling.com/textonly/en/faq_view.cfm?id=95 Flitwick's background] on J.K. Rowling's Official Site</ref> Although Professor Flitwick was several generations removed from this individual, he still retained some goblin traits, notably a small stature.
+
+==Behind the scenes==
+*[[J. K. Rowling]] revealed on her [[J. K. Rowling's official site|website]] that Flitwick had a "dash" of [[goblin]] blood, suggesting only that his goblin ancestor would have been "something like a great, great, great grandfather."<ref name="jkr" /> It remains unknown exactly how far back the goblin ancestor was on Flitwick's family tree or which of Flitwick's parents carried the ancestry.
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Flitwick, Filius's goblin ancestor}}
+[[Category:Flitwick family]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified Goblins]]
+[[Category:Unnamed family members]]

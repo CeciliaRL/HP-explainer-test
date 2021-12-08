@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Haruka Endoh
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = 
+}}
+'''Haruka Endoh''' was a [[Hufflepuff]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She was seen walking around the school during the [[1993-1994 school year]].
+
+==Etymology==
+Haruka is a Japanese given name, where ''春 ''(haru) means "spring" or ''晴 ''(haru) "clear up", combined with ''花 ''(ka) "flower" or ''香 ''(ka) "smell, perfume".
+
+==Behind the scenes==
+*Given her name, it can be presumed that she is of [[Japan]]ese descent.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Endoh, Haruka}}
+[[pl:Haruka Endoh]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Wizards]]

@@ -1,0 +1,54 @@
+{{Cut content}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Pyrites
+|born = Before [[1981]]
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">The [[Death Eaters]] were known for their hatred of [[Muggle-born]]s and [[Non-magic people|Muggles]].</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Argo Pyrites]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Death Eaters]]
+**[[Tom Riddle|Lord Voldemort]]
+*[[Pyrites family]]
+}}
+'''Pyrites''' (fl. [[1981]]) was a [[Wizardkind|wizard]] and a servant of [[Tom Riddle|Lord Voldemort]] at around the time of the [[First Wizarding War]]. He was a dandy wizard who often wore white silk gloves, which would sometimes be stained with [[blood]].<ref name="jkr">"Opening Chapters of Philosopher's Stone" on {{JKRS}} - archived [http://web.archive.org/web/20110623035050/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=1 here]</ref>
+
+==Etymology==
+Pyrites is named after [[Wikipedia:Pyrite|the mineral]], which is more commonly known as fool's gold.<ref name="jkr" />
+
+==Behind the scenes==
+*Pyrites only appears in early drafts of the first chapter of {{PS}}. In these drafts, he would have met up with [[Sirius Black]] in front of the [[Potters' Cottage|Potter cottage]]. The character was cut entirely, however, with the switch in perspective to [[Vernon Dursley]]'s day rather than the scene at [[Godric's Hollow]].<ref name="jkr" />
+*He may have been related to [[Argo Pyrites]], the author of ''[[Alchemy, Ancient Art and Science]]'', or the two might have been one and the same.
+
+==Appearances==
+*{{PS}} {{Comment|Early draft}}
+
+==Notes and references==
+{{Reflist}}[[de:Pyrites]]
+[[es:Pyrites]]
+[[pt-br:Pyrites]]
+[[ru:Пиритс]]
+[[Category:British individuals]]
+[[Category:Death Eater allies]]
+[[Category:Males]]
+[[Category:Pyrites family]]
+[[Category:Wizards]]

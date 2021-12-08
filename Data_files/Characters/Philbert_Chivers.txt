@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:PhilbertChivers.png|250px]]
+|name = Philbert Chivers
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBC"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC"/>
+|gender = Male<ref name="FBC"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="FBC"/>
+|eyes = Grey<ref name="FBC"/>
+|skin = White<ref name="FBC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Diagon Alley]]<ref name="FBC"/>
+*[[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="FBC"/>
+}}
+'''Philbert Chivers''' was an eccentric [[Wizardkind|wizard]] from [[London]] who believed that [[Nargle]]s were stealing from the shops on [[Diagon Alley]] and hiding in [[Non-magic people|Muggle]] sewers.<ref name="FBC">{{FBC|6|1}}</ref>
+
+==Biography==
+
+In a beast-related incident investigated by [[Mathilda Grimblehawk]] and her [[Mathilda Grimblehawk's partner|partner]] from the [[British Ministry of Magic|Ministry of Magic]]'s [[Beast Division]], Chivers was reported to be missing. He was later found unconscious in the London sewers having been knocked out by falling bricks. He was then transported to [[St Mungo's Hospital for Magical Maladies and Injuries]] and treated by [[Healer]] [[Omar Abasi]].<ref name="FBC"/>
+
+Chivers believed that the [[British Ministry of Magic]] was involved with covering up the existence of Nargles. He went to [[Slug & Jiggers Apothecary]] hoping to purchase "[[Poison|Narglecide]]", so [[Humphrey Balsamo]] relabelled some dud [[potion]]s, and gave them to him free. These potions included an unstable [[Swelling Solution]] which was consumed by the [[beast]] dwelling in the sewers.<ref name="FBC"/>
+
+==Appearances==
+{{Imagecat|Images of Philbert Chivers}}
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Chivers, Philbert}}
+[[pl:Philbert Chivers]]
+[[fr:Philbert Chivers]]
+[[ru:Филберт Чиверс]]
+[[Category:British individuals]]
+[[Category:Grey-eyed individuals]]
+[[Category:Males]]
+[[Category:St Mungo's patients]]
+[[Category:Wizards]]

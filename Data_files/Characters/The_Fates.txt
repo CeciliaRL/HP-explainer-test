@@ -1,0 +1,41 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = spirit
+|image = 
+|name = The Fates
+|born = [[Amortality|Amortal]]
+|died = Amortal
+|blood = 
+|marital = 
+|nationality = [[Greece|Greek]]
+|alias = 
+|title = 
+|signature = 
+|species = Deity
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Dialogue a-b|Sybill Trelawney|The Fates have informed me that your examination in June will concern the [[Crystal ball|Orb]], and I am anxious to give you sufficient practise.|Hermione Granger|Well honestly... 'the Fates have informed her'... Who sets the exam? She does!|[[Sybill Trelawney]] and [[Hermione Granger]]|Harry Potter and the Prisoner of Azkaban}}
+The '''Fates''' (also known as '''Moirai''') was a group of three weaving [[Greece|Greek]] goddesses who assign [[Life path|individual destinies]] to mortals at birth. Their names were Clotho (the Spinner), Lachesis (the Alloter) and Atropos (the Inflexible).<ref name="wiki">{{Wikilink|The Fates}}</ref> Professor Trelawney claimed have gotten information about the future [[Divination (class)|Divination]] examination from them in [[June]] [[1994]].<ref name="POA15">{{POA|B|15}}</ref>
+
+==Appearances==
+*{{POA}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Amortals]]
+[[Category:Deities]]
+[[Category:Females]]

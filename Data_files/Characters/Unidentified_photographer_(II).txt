@@ -1,0 +1,28 @@
+{{Individual infobox
+|image = Photographer 2.jpg
+|name = Unidentified photographer (II)
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|family = [[Martha (American Muggle)|Martha]] <small>(wife or girlfriend)</small>
+|job = Photographer
+|theme = muggle
+}}This '''individual''' was an [[United States of America|American]] [[Muggle|No-Maj]] who worked as photographer in the [[1920s]].<ref name="FBS">{{FB|S}}</ref>
+
+==Biography==
+He interviewed a [[Unidentified witness|witness]] who saw a building get destroyed by an [[Obscurus]] in [[New York]] in [[1926]]. After interviewing, he was asked by a [[Unidentified reporter|reporter colleague]] if he felt like getting a drink, to which the photographer replied that he had promised [[Martha (American Muggle)|Martha]] (presumably his wife or girlfriend) that he would abstain from consuming [[alcohol]].<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+*The photographer was portrayed by [[Tom Clarke Hill]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}[[pl:Niezidentyfikowany fotoreporter]]
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Photographers]]
+[[Category:Unidentified Muggles]]

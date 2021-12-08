@@ -1,0 +1,64 @@
+{{Individual infobox
+|image = 
+|name = Niko Nenad
+|born = 
+|died = [[1809]]<br/>[[Siberia]]<ref name="PM">[https://web.archive.org/web/20160307004515/https://www.pottermore.com/writing-by-jk-rowling/history-of-the-quidditch-world-cup History of the Quidditch World Cup] from {{PM}} (via The Internet Archive)</ref>
+|blood = 
+|marital = 
+|signature = 
+|nationality = [[Romania]]n<ref name="PM"/>
+|alias = 
+|title = [[Beater]]<ref name="PM"/>
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|house = 
+|job = [[Beater]] for the [[Romanian National Quidditch team]]<ref name="PM"/>
+|loyalty = [[Romanian National Quidditch team]]<ref name="PM"/>
+|theme = dark-wizard
+}}
+{{Quote|...over the preceding weeks we’d seen Niko beat himself over the head with his broom and set fire to his own feet in frustration. I’d personally stopped him strangling two referees. However, I had no suspicion about what he was planning to do if the final didn’t go our way. I mean, who’d suspect that? You’d have to be as mental as he was.|Ivan Popa|Pottermore}}
+'''Niko Nenad''' (d. [[1809]])<ref name="PM"/> was a [[Romania]]n [[Wizardkind|wizard]] who played as a [[Beater]] for the [[Romanian National Quidditch team]] in the early [[19th century]].<ref name="PM"/> He was described as an extremely volatile and unstable man, with a habit of injuring himself.<ref name="PM"/>
+
+==Biography==
+[[File:Flaming foot of Niko Nenad.gif|120px|thumb|Niko Nenad's foot set alight]]
+Nenad was an extremely volatile and unstable man. During the quarter- and semi-finals of the [[1809 Quidditch World Cup]], the other players on the Romanian team witnessed him knock himself over the head with his own [[broomstick|broom]], and [[Fire-Making Spell|set]] his feet on [[fire]] out of frustration. [[Ivan Popa]] had to intervene twice when he tried to strangle two different [[Quidditch referee|referees]]. His teammates became so concerned with his behaviour that they tried to convince the team's manager to replace him with another player for the final — which was to be played between Romania and [[Mexico|New Spain]] on the [[West Siberian Plain]] — but he chose not to listen.<ref name="PM"/>
+
+Prior to the final, Nenad [[Tree animating jinx|jinxed the whole of the forest]] adjacent to the [[Quidditch pitch|pitch]], handsomely paying local [[Siberia]]n [[Dark Wizard]]s to help him carry out the job, and possibly also calling upon less-principled fans. Two hours into the game, when New Spain were ahead on points and Romania were exhausted, Nenad deliberately sent a [[Bludger]] flying into the forest. The trees instantly sprang to life and proceeded to attack the stadium, resulting in several injuries and deaths. Nenad was killed early in the carnage by a "particularly violent" [[spruce]].<ref name="PM"/>
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': Nenad played as [[Beater]] in his lifetime for the [[Romanian National Quidditch team]], showing he was an accomplished flyer and [[Quidditch]] player, despite his extremely violent behaviour displayed on the pitch.<ref name="PM"/>
+*'''[[Charm]]s''': Nenad had some skills in the casting of charms, as he was able to set his feet [[Fire|alight]] in a furious temper with the [[Fire-Making Spell]].<ref name="PM"/>
+*'''[[Dark Arts]]''': Nenad was capable of [[Tree animating jinx|animating]] an entire forest with a [[jinx]], with the help of Siberian [[Dark Wizard]]s, showing he was skilled with dark magic and with the casting of [[Dark charm]].<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Nenad, Niko}}
+
+[[de:Niko Nenad]]
+[[es:Niko Nenad]]
+[[fr:Niko Nenad]]
+[[pl:Niko Nenad]]
+[[ru:Нико Ненад]]
+[[Category:1809 deaths]]
+[[Category:Beaters]]
+[[Category:Dark wizards]]
+[[Category:Deceased individuals]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Romanian individuals]]

@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Grenouille.png]]
+|name = Grenouille
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = French
+|alias = 
+|title = [[Keeper]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Dialogue a-b-a|Grenouille|I cannot go with you to the market today, Crapaud.|Crapaud|But Grenouille, I cannot carry the cow alone.|You know, Crapaud, that I am to be Keeper this morning.  Who will stop the Quaffle if I do not?|Extract from ''Hélas, Je me suis Transfiguré Les Pieds''|Quidditch Through the Ages (real)}}
+'''Grenouille''' is a character in the [[15th century]] play ''[[Hélas, Je me suis Transfiguré Les Pieds]]'' ("Alas, I have Transfigured My Feet") by the French writer, [[Malecrit]].
+
+In the play, Grenouille has to refuse help to [[Crapaud]] since he is to play as a [[Keeper]] in a [[Quidditch]] match.<ref name="QA8">{{QTA|R|8}}</ref>
+
+==Etymology==
+''"Grenouille"'' is the French word for ''"frog"''.
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+[[de2:Grenouille]]
+[[es:Grenouille]]
+[[fr:Grenouille (personnage)]]
+[[pl:Grenouille]]
+[[Category:Fictional characters]]
+[[Category:French individuals]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Wizards]]

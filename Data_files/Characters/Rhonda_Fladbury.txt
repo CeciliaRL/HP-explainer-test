@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Rhonda Fladbury
+|born = [[31 August]] [[1982]] or earlier<ref name="born">She must have been at least in her first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Female<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="HBPG"/>
+|eyes = 
+|skin = White<ref name="HBPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Hufflepuff]]<ref name="HBPG"/>
+**[[Duelling Club]]<ref name="HBPG"/>
+}}
+'''Rhonda Fladbury''' was a [[Wizardkind|witch]] and [[Hufflepuff]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+Her name was seen on the [[Marauder's Map]] in the [[1993–1994 school year]].<ref name="POAG">{{POA|G}} (console versions)</ref> She was a member of the [[Duelling Club]] run by [[Helen Dawlish]] in the [[Middle Courtyard]] during the [[1996–1997 school year]].<ref name="HBPG">{{HBP|G}} (NDS version)</ref>
+
+==Etymology==
+The name "Rhonda" was probably intended to mean "good spear" from Welsh ''rhon'' "spear" and ''da'' "good", but possibly influenced by the name of the Rhondda Valley in South Wales, which means "noisy". It has been in use only since the 20th century.
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (PlayStation 2, Xbox, GameCube)|console versions]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{c|console versions only}} {{1st Mention}} {{C|Name seen on Marauder's Map}}
+*{{HBP|G}} {{NDS only}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Duelling Club}}
+{{DEFAULTSORT:Fladbury, Rhonda}}
+[[es:Rhonda Fladbury]]
+[[pl:Rhonda Fladbury]]
+[[fr:Rhonda Fladbury]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Duelling Club members]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

@@ -1,0 +1,50 @@
+{{Notability}}
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = Unidentified Slytherin boy (I).jpg
+|name = Male Slytherin Student
+|born = between [[1 September]] [[1979]] and [[31 August]] [[1980]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POA">{{POA|F}}</ref>
+|gender = Male<ref name="POA"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="POA"/>
+|eyes = 
+|skin = White<ref name="POA"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="POA"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+This '''male Slytherin student''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|sorted]] into [[Slytherin|Slytherin House]]. He was among the students who attended the first [[Care of Magical Creatures]] class taught by [[Rubeus Hagrid]].<ref name="POA">{{POA|F}}</ref>
+
+==Biography==
+This boy started his [[magic]]al education at [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]] and was [[Sorting ceremony|Sorted]] into [[Slytherin|Slytherin House]]. He attended the first [[Care of Magical Creatures]] class taught by [[Rubeus Hagrid]]. Once [[Harry Potter]] returned from his flight upon [[Buckbeak]], the boy was pushed out of the way by the jealous and bitter [[Draco Malfoy]] as he approached the [[Hippogriff]].<ref name="POA">{{POA|F}}</ref>
+
+==Behind the scenes==
+*This individual is played by [[Tom Ackerley]] in {{POA|FA}}, but was not credited.
+*A possible identity is [[Theodore Nott]].
+
+==Appearances==
+*{{POA|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

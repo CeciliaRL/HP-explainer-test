@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = William Alderton
+|born = 
+|died = 
+|blood = *[[Non-magic people|Muggle]] (as implied by the [[Muggle-Born Registration Commission]])
+*[[Pure-blood]] or [[half-blood]] (as claimed by [[Alderton]])
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Alderton]] (claimed son)
+*[[Arkie Alderton]] (possibly)
+*[[Arkie Alderton's alleged son|Alderton]] (possibly)
+*[[Archibald Alderton]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[British Ministry of Magic]] employee (claimed by his alleged son)
+|house = 
+|loyalty = [[British Ministry of Magic]] (possibly)
+}}
+{{Quote|I'm half-blood. My father, my father was a wizard. William Alderton. He worked here for thirty years. Perhaps you know him. Always wore his jacket inside out...|Alderton begs the [[Muggle-Born Registration Commission]] to release him|Harry Potter and the Deathly Hallows: Part 1}}
+'''William Alderton'''<ref name="DHpt1_script">[http://www.oclumencia.com.br/2011/01/divulgado-roteiro-completo-de-reliquias-da-morte-parte-1/ "Divulgado roteiro COMPLETO de ''Relíquias da Morte: Parte 1'' - FULL ''Deathly Hallows: Part 1'' script released″] on [http://www.oclumencia.com.br/ Oclumencia.com.br.]{{Dead link}} (translation [http://babelfish.yahoo.com/translate_url?doit=done&tt=url&intl=1&fr=bf-home&trurl=http%3A%2F%2Fwww.oclumencia.com.br%2F2011%2F01%2Fdivulgado-roteiro-completo-de-reliquias-da-morte-parte-1%2F&lp=pt_en&btnTrUrl=Translate here]){{Dead link}}</ref> was allegedly the father of [[William Alderton's alleged son|Alderton]], a wizard who was tried for being a Muggle-born by the [[Muggle-Born Registration Commission]] during the height of the [[Second Wizarding War]]. Because the commission found Alderton guilty of this, it is likely that he was a [[Non-magic people|Muggle]]. Despite this, his son claimed on leaving his trial that his father was a [[Wizardkind|wizard]]. He also claimed that he once worked for the [[British Ministry of Magic]] for thirty years. Apparently, William Alderton always wore his jacket inside-out while working for the Ministry of Magic.<ref>{{DH|F1}}</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Alderton, William}}
+[[es:William Alderton]]
+[[fr:William Alderton]]
+[[pl:William Alderton]]
+[[Category:Alderton family]]
+[[Category:British individuals]]
+[[Category:Males]]

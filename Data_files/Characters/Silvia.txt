@@ -1,0 +1,40 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Silvia
+|born=
+|died=
+|blood=[[Muggle]]
+|marital=
+|nationality=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Female
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+}}
+
+'''Silvia''' was a female [[Non-magic people|Muggle]] child who lived next door to [[Constance Pickering]] when she was young. Constance convinced her that "[[knarl|hedgehogs]]" loved it when you left them snacks overnight. Silvia left a plate out and her garden was destroyed.<ref>{{WU}} {{see image|File:HPWU BE BB - Knarl.jpg}}</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Muggles]]

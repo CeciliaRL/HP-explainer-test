@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Iola Hillicker
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Tamsin Hillicker]] (relative)
+*[[Hillicker family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hillicker family]]
+}}
+'''Iola Hillicker'''<ref>Closed captions on the DVD/Blu-ray of {{DH|F1}}</ref> was a [[Wizardkind|witch]] who was reported missing along with her relative, [[Tamsin Hillicker|Tamsin]], on the ''[[Potterwatch]]'' wireless programme in [[1997]]. Her disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.
+
+==Appearances==
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Hillicker, Iola}}
+
+[[es:Iola Hillicker]]
+[[fr:Iola Hillicker]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Hillicker family]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

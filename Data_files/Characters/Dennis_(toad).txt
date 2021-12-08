@@ -1,0 +1,39 @@
+{{HogwartsMysterySpoiler}}
+{{Pet individual infobox
+|image = HM_y3ch5_Dennis_the_toad.png
+|name = Dennis
+|born = Before [[1986]]
+|died = 
+|alias = 
+|title = 
+|species = [[Toad]]<ref name="HM35"/>
+|gender = Male<ref name="HM35"/>
+|height = 
+|hair = 
+|feathers = 
+|eyes = Yellow<ref name="HM35"/>
+|skin = Green<ref name="HM35"/>
+|family = 
+|loyalty = *[[Tulip Karasu]]<ref name="HM35"/>
+*[[Frog Choir]]<ref name="HM3F">{{HM|3|The Frog Choir}}</ref>
+}}
+{{Dialogue a-b-c-d|Toad|CROOOOOAAAK!|Friend|What is that?|Tulip Karasu|A toad. His name is Dennis.|Friend|I know what a toad is. What's the thing strapped to its back?|Jacob's sibling and a friend encountering Dennis and Tulip|Harry Potter: Hogwarts Mystery}}
+'''Dennis''' was a [[toad]] and the pet of [[Tulip Karasu]].<ref name="HM35">{{HM|3|5}}</ref>
+
+==Biography==
+During the [[1986–1987 school year]], Dennis was present when [[Jacob's sibling]] arrived to the [[Classroom 1B|Transfiguration Classroom]] with a friend, trying to talk to [[Tulip Karasu]] for the first time. Tulip claimed to be busy, and told the newcomers to instead talk to Dennis, who had a [[Dungbomb]] strapped on its back. This prompted them to work on defusing the Dungbomb on Dennis before Tulip was ready to talk.<ref name="HM35"/>
+
+After an announcement of a [[Frog Choir]] audition made by [[Filius Flitwick|Professor Flitwick]], Tulip Karasu met with Jacob's sibling and expressed Dennis' interest in joining the Frog Choir. Due to Tulip herself being a terrible singer, she wanted Jacob's sibling to take Dennis with him to the Frog Choir audition. Jacob's sibling agreed to do so, and bonded with Dennis over several events, one of which was playing tricks on [[Irma Pince|Madam Pince]]. Jacob's sibling then took Dennis to practise with the [[Weird Sisters]] and sing in front of [[Severus Snape|Professor Snape]] to test their nerves.<ref name="HM3F"/>
+
+==Behind the scenes==
+*In {{HM}}, despite being first identified as a toad by its owner in Year 3 Chapter 5, in Year 4, during [[Care of Magical Creatures]], [[Liz Tuttle|Liz]] referred to him as a [[frog]], saying that he fancies [[Fang]].
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[ru:Деннис (жаба)]]
+[[Category:Males]]
+[[Category:Toads]]
+[[Category:Yellow-eyed individuals]]

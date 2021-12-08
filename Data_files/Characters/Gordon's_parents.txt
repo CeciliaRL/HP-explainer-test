@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Gordon's parents
+|born = before [[1962]] (most likely)
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="OOTP1"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="OOTP1"/>
+|gender = *Male (father)
+*Female (mother)
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Gordon]] (son)<ref name="OOTP1"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Dialogue a-b-a|Dudley|Same time tomorrow?|Gordon|Round at my place, my parents are out.|See you then.|Dudley and Gordon plan for the [[Dudley Dursley's gang|gang's]] next meeting|Harry Potter and the Order of the Phoenix}}
+'''[[Gordon]]'s parents''' lived somewhere in or around [[Little Whinging]], [[Surrey]] during the [[1990s]]. They had planned to go out on [[3 August]], [[1995]], leaving Gordon free to invite [[Dudley Dursley's gang|his friends]] over to his house to plan their next bullying session.<ref name="OOTP1">{{OOTP|B|1}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[pl:Państwo Gordon]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

@@ -1,0 +1,36 @@
+{{Transcribed image|File:Marauder's Map POA ILL.png}}
+{{Individual infobox
+|theme=individual
+|image= R ness.png
+|name=Rosalind Ness
+|born=Before [[1993]]
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=
+|gender=
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+}}
+'''Rosalind Ness''' was an individual seen in the [[Hogwarts Library|Library]] on the [[Marauder's Map]] in the [[1993-1994 school year]].<ref>{{POA|B|10}} {{comment|Illustrated Edition}}</ref>
+
+==Appearances==
+*{{POA|IE}} {{Name on marauder}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]

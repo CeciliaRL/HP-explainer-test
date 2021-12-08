@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Brian Cinderford
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+'''Brian Cinderford''' was a [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+He competed in the school [[Wizard Skittles]] tournament during the [[1996–1997 school year]].
+
+==Etymology==
+The meaning of the name "Brian" is not known for certain but it is possibly related to the old Celtic element ''bre'' meaning "hill", or by extension "high, noble". It was borne by the semi-legendary Irish king Brian Boru, who thwarted Viking attempts to conquer Ireland in the 11th century. He was slain in the Battle of Clontarf, though his forces were decisively victorious. The name was common in Ireland before his time, and even more so afterwards. It came into use in England in the Middle Ages, introduced by Breton settlers.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Cinderford, Brian}}
+[[pl:Brian Cinderford]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizard Skittles Players]]
+[[Category:Wizards]]

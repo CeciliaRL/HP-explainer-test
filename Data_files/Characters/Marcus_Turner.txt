@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Marcus Turner
+|born = Between [[1 September]]  [[1976]] and [[31 August]] [[1978]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Darrel Turner]] {{comment|possibly}}
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+'''Marcus Turner''' was a [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="CCP">[http://www.castingcallpro.com/uk/actor/profile/sam-morris-1 Sam Morris's profile on Casting Call Pro]</ref><ref name="SN">[http://www.starnow.ca/samadammorris Sam Morris's profile on StarNow]</ref> He was made a [[Prefect]] for his house by the [[1993–1994 school year]].<ref name="SN" />
+
+==Behind the scenes==
+*This character is featured only in the films ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'' and ''[[Harry Potter and the Goblet of Fire (film)|Harry Potter and the Goblet of Fire]]''. Portrayed by [[Sam Morris]], his name was not revealed in either film, but was listed on Morris's casting agency profile page.<ref name="CCP" />
+
+==Appearances==
+*{{POA|F}} {{1st}}
+*{{GOF|F}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually<br/>[[Robert Hilliard]]
+|position=Male [[Prefect#Ravenclaw|prefect of Ravenclaw House]]<br/>(along with two other male Ravenclaws in different years taking the post)
+|years=at least [[1993]]—[[1995]]
+|successor=Unknown, eventually<br/>[[Anthony Goldstein]]
+}}
+{{End box}}
+{{Head boys and prefects}}
+{{DEFAULTSORT:Turner, Marcus}}
+
+[[es:Marcus Turner]]
+[[pl:Marcus Turner]]
+[[fr:Marcus Turner]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts prefects]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Turner family]]
+[[Category:Wizards]]

@@ -1,0 +1,71 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Glenda Chittock.jpg|250px]]
+|name = Glenda Chittock
+|born = [[1964]]<ref name="JKRS"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="JKRS"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Female<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = Silver<ref name="JKRS"/>
+|eyes = 
+|skin = Pale<ref name="JKRS"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Host of ''[[Witching Hour]]'' on the [[Wizarding Wireless Network]]<ref name="JKRS"/>
+|house = 
+|loyalty = [[Wizarding Wireless Network]]<ref name="JKRS"/>
+}}
+'''Glenda Chittock''' (b. [[1964]]) was a [[Great Britain|British]] [[Wizardkind|witch]] who was host of the [[Wizarding Wireless Network]] programme, ''[[Witching Hour]]''. Being host of this enormously famous radio programme, she is featured on a [[Chocolate Frog Card]].<ref name="JKRS">{{JKRS}}</ref>
+
+==Behind the scenes==
+*If Glenda attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], her [[first year]] would have been the [[Marauders]]' [[fifth year]].
+
+==Etymology==
+"Glenda" is a name created in the 20th century from the Welsh elements ''glân'' "pure, clean" and ''da'' "good".
+
+==Appearances==
+{{Imagecat|Images of Glenda Chittock}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{JKRS}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Chittock, Glenda}}
+{{Start box}}
+{{Succession box
+|predecessor=[[Uric the Oddball]]
+|position=[[Wizard of the Month]]
+|years=[[October]] [[2004]]
+|successor=[[Devlin Whitehorn]]
+}}
+{{End box}}
+{{Chocolate Frog Cards}}[[ru:Гленда Читток]]
+[[de:Glenda Chittock]]
+[[es:Glenda Chittock]]
+[[pl:Glenda Chittock]]
+[[fr:Glenda Chittock]]
+[[no:Glenda Chittock]]
+[[nl:Gloria Gieterom]]
+[[fi:Glenda Crook]]
+[[it:Glenda Chittock]]
+[[zh:格兰达·斯托克]]
+[[Category:1964 births]]
+[[Category:British individuals]]
+[[Category:Broadcasters]]
+[[Category:Females]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

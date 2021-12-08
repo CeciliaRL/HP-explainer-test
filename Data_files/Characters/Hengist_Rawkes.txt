@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Hengist Rawkes?.png|250px]]
+|name = Hengist Rawkes
+|born = 
+|died = Before [[1991]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]]
+}}
+'''Hengist Rawkes'''<ref name="HPLE"/> was a [[Wizardkind|wizard]] depicted in a [[Portrait]] hanging near the first-floor landing of the [[Grand Staircase]] of [[Hogwarts Castle]], near the portrait of a [[Count]]. His name could be read on a plaque hanging under his image.
+
+==Behind the scenes==
+*The portrait of Hengist Rawkes was based on a [http://upload.wikimedia.org/wikipedia/commons/5/5e/Sargent_-_Lord_Ribblesdale.jpg 1902 portrait of Thomas Lister, 4th Baron Ribblesdale], by [[Wikipedia:John Singer Sargent|John Singer Sargent (1856–1925)]].<ref name="HPLE">{{HPLE|PA}}</ref>
+*This individual may have died sometime prior to [[1991]], as many portraits hung at [[Hogwarts Castle]] depict deceased individuals.
+
+==Etymology==
+The name "Hengist" means "stallion" in Germanic. Hengist and his brother Horsa were the leaders of the first Germanic settlers in Britain. Hengist established a kingdom in Kent in the 5th century.
+
+==Appearances==
+*{{PS|F}} {{Portrait}}
+*{{COS|F}} {{Portrait}}
+*{{LEGO|Y1}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Rawkes, Hengist}}
+
+
+{{Hogwarts first floor}}
+
+[[es:Hengist Rawkes]]
+[[fr:Hengist Rawkes]]
+[[pl:Hengist Rawkes]]
+[[Category:British individuals|Rawkes Hengist]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

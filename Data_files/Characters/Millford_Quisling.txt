@@ -1,0 +1,43 @@
+{{WizardsUniteSpoiler}}
+{{Individual_infobox
+|theme = wizard
+|image = 
+|born =
+|died = 
+|marital =
+|alias =
+|title =
+|signature =
+|nationality = 
+|blood = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Male<ref name="WU"/>
+|skin = 
+|eyes = 
+|hair = 
+|height =
+|weight = 
+|animagus =
+|boggart =
+|wand =
+|patronus = 
+|family =
+|romances =
+|job = [[Magical Theory|Magical theoretician]]<ref name="WU"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|You stumble across Millford Quisling's long-ago discredited treatise on spell-casting in the Restricted Section of Hogwarts Library. Millford posits that a wizard can draw energy from within themselves when most in need. You apply several of his ideas and increase the maximum number of times you can cast your Inn Charm.|Description|Harry Potter: Wizards Unite}}
+'''Millford Quisling''' was a [[Wizardkind|wizard]] and [[magical]] author and [[Magical Theory|theoretician]].<ref name="WU"/> Quisling published a treatise on the subject of [[spell]]-casting, where he posited the idea that a witch or wizard could draw energy from within themselves to augment their spellwork in a time of dire need. This treatise was ultimately discredited.<ref name="WU"/>
+
+There was a copy of Quisling's work at the [[Restricted Section]] of [[Hogwarts Library]]. It was eventually found by a [[Calamity Investigator]] of the [[Statute of Secrecy Task Force]] that aspired to pursue a career as a [[Professor]]. Applying several of Quisling's ideas, they were successfully able to improve their use of the [[Inn Charm]].<ref name="WU">{{WU}}</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Theoreticians]]
+[[Category:Wizards]]

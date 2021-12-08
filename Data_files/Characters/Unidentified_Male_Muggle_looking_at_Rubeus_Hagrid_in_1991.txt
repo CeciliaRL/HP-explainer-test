@@ -1,0 +1,28 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Unidentified man
+|blood=[[Non-magic people|Muggle]]<ref name="PSF"/>
+|marital=Married<ref name="PSF"/>
+|hair=Black<ref name="PSF"/>
+|eyes=
+|skin=Light<ref name="PSF"/>
+|species=[[Human]]<ref name="PSF"/>
+|gender=Male<ref name="PSF"/>
+|family=[[Unidentified Muggle woman who was looking at Rubeus Hagrid in 1991|Wife]]<ref name="PSF"/>
+|job=
+|loyalty=[[King's Cross Station]]<ref name="PSF"/>
+}}
+{{Quote|What are you looking at?|[[Rubeus Hagrid]]|Harry Potter and the Philosopher's Stone (film)}}
+This '''muggle man''' was walking at the bridge-like viaduct at [[King's Cross Station]] with his [[Unidentified Muggle woman who was looking at Rubeus Hagrid in 1991|wife]]. He looked at [[Rubeus Hagrid]] to which Hagrid commented "''What are you looking at?''", shortly before giving [[Harry Potter]] his ticket to [[Platform Nine and Three-Quarters]].<ref name="PSF">{{PS|F}}</ref>
+
+==Appearances==
+*{{PS|F}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Unidentified Muggles]]

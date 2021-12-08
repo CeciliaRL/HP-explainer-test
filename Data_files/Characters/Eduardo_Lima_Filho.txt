@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme = mom
+|image = [[File:EduardoLimaFilho.jpg|250px]]
+|name = Eduardo Lima
+|born = Sun in [[Pisces]], [[moon]] in Pisces<ref name="HPLE">See [[:File:EduardoLimaFilhoMiraphoraMiraIdentityCards.jpg|this image]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HPLE" />
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HPLE" />
+|gender = Male<ref name="HPLE" />
+|height = 5' 9"<ref name="HPLE" />
+|weight = 
+|hair = Bald<ref name="HPLE" />
+|eyes = Hazel<ref name="HPLE" />
+|skin = 
+|family = *[[Eduardo Lima (in-universe)|Eduardo Lima]] (possible father)
+*[[Mina Lima]] (possibly)
+*[[E. Lima]] (possibly)
+*[[Edwardus Lima]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Worker in the [[Runes & Symbols]] department of the [[British Ministry of Magic]]<ref name="HPLE" />
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="HPLE" />
+**[[Runes & Symbols]]<ref name="HPLE" />
+}}
+'''Eduardo Lima Filho''' (b. sun in [[Pisces]], [[moon]] in [[Pisces]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] who worked in the [[Runes & Symbols]] department of the [[Ministry of Magic]].<ref name="HPLE" />
+
+==Behind the scenes==
+*This character was named after [[Eduardo Lima]], a graphic artist who worked on every [[Harry Potter films|''Harry Potter'' film]] from ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'' onward.
+*In accordance with the [[Wikipedia:Portuguese name|Portuguese naming conventions]], the suffix "Filho" is added to the name with initial upper case and without a separating comma, whenever someone is named after their father (in a similar way as "Jnr." is used in the English-speaking world). This practise is most common in Brazil.
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{1st}} {{Comment|Appears in photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Lima Filho, Eduardo}}
+
+[[de2:Eduardo Lima Filho]]
+[[es:Eduardo Lima Filho]]
+[[pl:Eduardo Lima Filho]]
+[[pt-br:Eduardo Lima Filho]]
+[[vi:Eduardo Lima Filho]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Lima family|Eduardo]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Wizards]]

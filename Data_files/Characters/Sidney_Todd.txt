@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Sidney Todd
+|born = c. [[1916]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Sidney Todd''' (born c. [[1916]]<ref>https://www.hp-lexicon.org/character/sidney-todd/</ref>) was a [[Quidditch]] fan who supported the [[Montrose Magpies]]. In [[1999]], at the age of eighty-three, he was quoted by the Daily Prophet supporting team manager [[Cormack McLeod]]'s decision to let [[Chaser]] [[Alasdair Maddock]] go<ref>[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[1 June]], [[1999]], Page 4</ref> after he was repeatedly caught trying out [[Non-magic people|Muggle]] sports.<ref>''The Lexicon'' by Steve Vander Ark, page 304</ref>
+
+==Etymology==
+The name "Sidney" comes from an English surname which was originally derived from various place names in [[England]] meaning "wide island", from Old English sid "wide" and eg "island". Another theory holds that the surname comes from the name of town in Normandy called "Saint Denis". It was first used as a given name in honour of executed politician Algernon Sidney (1622-1683). Another notable bearer of the surname was the poet and statesman Sir Philip Sidney (1554-1586).
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Todd, Sidney}}
+
+[[pl:Sidney Todd]]
+[[Category:1910s births]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Montrose Magpies supporters]]
+[[Category:Wizards]]

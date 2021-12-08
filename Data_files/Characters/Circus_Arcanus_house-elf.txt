@@ -1,0 +1,37 @@
+{{WizardsUniteSpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Brilliant Circus Arcanus House-Elf WU.png]]
+|name = Circus Arcanus House Elf
+|born = Pre [[1927]]
+|species = [[House-elf]]<ref name="WU">{{WU}} "Brilliant Event: Circus Calamitous"</ref>
+|gender = Male<ref name="WUimage">{{WU}} (See this [https://harrypotter.fandom.com/wiki/File:Circus_Calamitous_-_pt1_-_Circus_Arcanus_House_Elf_-_WU.jpg image])</ref>
+|job = Servant in the [[Circus Arcanus]]<ref name="COGS"/>
+|loyalty = [[Skender]]<ref name="COGS"/>
+|theme = house-elf
+}}
+This male '''[[house-elf]]''' worked at [[Circus Arcanus]], a travelling freak show in the [[1920s]].<ref name="COGS">{{COG|S}}</ref><ref name="WU"/>
+
+==Biography==
+[[File:Circus Arcanus House-elf.gif|thumb|left|The House-elf packs up the Circus and leaves with [[Skender]]]]
+This house elf was employed by the [[Wizardkind|wizard]] [[Skender]] as a personal servant to help him with the running of the [[Circus Arcanus]]. Following the riot which broke out in the circus in [[1927]] [[Paris]], due to [[Credence Barebone]] releasing some caged [[Firedrake]]s which subsequently [[Fire|burned]] down the circus, this House-elf used his [[House-elf magic|magic]] to assist in master in packing up the circus equipment in Skender's trunk and leaving the city by carriage.<ref name="COGS"/>
+
+During the [[2020s]], he appeared as a [[Foundable]] during the [[Calamity]]. Volunteer members of the [[Statute of Secrecy Task Force]] were able to free him, allowing him to return to his original time.<ref name="WU"/>
+
+==Magical abilities and skills==
+*'''[[House-elf magic]]''': Being a house-elf, he could perform [[magic]] [[Wandless magic|without]] a wand or [[incantation]]s, which allowed him to effortlessly use magic to help pack up the Circus Arcanus equipment for his master.<ref name="COGS"/>
+*'''[[Apparition]]''': This house-elf could also apparate at will.<ref name="COGS"/>
+
+==Appearances==
+{{Imagecat|Images of Circus Arcanus House-elf}}
+*{{COG|S}} {{1st}}
+*{{COG}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Foundables]]
+[[Category:House-elves]]
+[[Category:Males]]
+[[Category:Skender's possessions]]
+[[Category:Unidentified individuals]]

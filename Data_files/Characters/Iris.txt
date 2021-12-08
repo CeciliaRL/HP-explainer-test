@@ -1,0 +1,46 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Iris
+|born = Before [[1980s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM"/>
+|gender = Female<ref name="HM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Tulip Karasu's mother|Sister or sister-in-law]]
+*[[Tulip Karasu's father|Brother or brother-in-law]]
+*[[Tulip Karasu]] (niece)<ref name="HM"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = Karasu family<ref name="HM"/>
+}}
+'''Iris''' was a [[Wizardkind|witch]] who lived in the [[20th century]]. She had at least one niece, [[Tulip Karasu]].<ref name="HM"/>
+
+According to Tulip, Iris gave her her old [[Wizard's Chess]] set.<ref name="HM">{{HM}}, "Help Dumbledore With Christmas" (2020 version)</ref>
+
+==Behind the scenes==
+*It is possible that Iris was the mother of Tulip's cousin [[Marigold]].
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Wizards]]

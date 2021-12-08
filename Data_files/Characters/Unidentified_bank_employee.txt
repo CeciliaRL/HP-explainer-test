@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = muggle
+|image = [[File:Bank Employee.jpg|250px]]
+|name = Unidentified bank employee
+|born = 
+|died = 
+|blood = [[Non-magic people|No-Maj]]<ref name="FB">{{FB|F}}</ref>
+|marital = 
+|nationality = [[United States of America|American]]<ref name="FB" />
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FB" />
+|gender = Male<ref name="FB" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employee at [[Steen National Bank]]<ref name="FB" />
+|house = 
+|loyalty = [[Steen National Bank]]<ref name="FB" />
+}}
+This '''individual''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who worked as an employee at the [[Steen National Bank]] in the [[20th century]].
+
+==Biography==
+On [[6 December]], [[1926]], this individual was working at [[Steen National Bank]] when [[Newton Scamander]] entered the bank to find his escaped [[Newton Scamander's niffler|niffler]]. The employee, suspicious of Newt due his furtive glances around the bank, asked him if he needed any help to which Newt replied that he was only waiting.<ref>{{FB|S|8}}</ref>
+
+==Behind the scenes==
+*The Employee was portrayed by [[Cory Peterson]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}} 
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Steen National Bank employees]]
+[[Category:Unidentified Muggles]]

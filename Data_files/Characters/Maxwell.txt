@@ -1,0 +1,36 @@
+{{Individual infobox
+|image=
+|name=Maxwell
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=Worker at [[Fleury's Fancy Fauna]] (formerly)
+|house=
+|loyalty=[[Fleury's Fancy Fauna]]
+}}
+'''Maxwell''' was a worker at, and possible owner of, [[Fleury's Fancy Fauna]], a shop in [[New York]] dealing in [[magic]]al [[beast]]s.<ref>{{FB|F}} {{see image|File:Fleury's Fancy Fauna.png}}</ref> It is unknown what became of him after the shop was closed down by [[Magical Congress of the United States of America|MACUSA]] officials for illegal breeding of magical creatures in [[1925]].<ref name="fb19">{{FB|S|19}}</ref>
+
+==Appearances==
+* {{FB|F}} {{Comment|Mentioned in an advertisement}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Maxwell]]
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

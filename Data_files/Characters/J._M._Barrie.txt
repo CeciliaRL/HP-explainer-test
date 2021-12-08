@@ -1,0 +1,42 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=James Matthew Barrie
+|hideb=
+|born=[[9 May]] [[1860]]
+|died=[[19 June]] [[1937]]
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Novelist and playwright
+|loyalty=
+}}
+'''James Matthew Barrie''' ([[9 May]] [[1860]] – [[19 June]] [[1937]]) was a [[Scotland|Scottish]] novelist and playwright, best known for the [[1904]] play ''[[wikipedia:Peter and Wendy|Peter Pan]]'', later adapted into a novel.<ref name="wikipedia">"[https://en.wikipedia.org/wiki/J._M._Barrie J. M. Barrie]" on Wikipedia</ref>
+
+A shop in [[Hogsmeade]] had a printed copy of Barrie's play ''[[Quality Street]]'' for sale.<ref>{{WWHP}} {{see image|File:QualityStreet.jpg}}</ref>
+
+==Appearances==
+*{{WWHP}} {{C|Mentioned on a book cover}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Barrie, J. M.}}
+
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Playwrights]]
+[[Category:Scottish individuals]]

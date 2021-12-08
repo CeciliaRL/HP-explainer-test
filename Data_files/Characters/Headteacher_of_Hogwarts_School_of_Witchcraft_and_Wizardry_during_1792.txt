@@ -1,0 +1,60 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Headteacher of Hogwarts
+|born = 18th century or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = *[[Professor]]
+*[[Headmaster|Headteacher]]
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster|Head]] of [[Hogwarts School of Witchcraft and Wizardry]] (1792 or earlier -?)
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|Well, the [[Headmaster|Heads]] of the participating schools are always on the panel, because all three of them were injured during the [[Triwizard Tournament|Tournament]] of [[1792]], when a [[cockatrice]] the champions were supposed to be catching went on the rampage. It's all in ''[[Hogwarts: A History|Hogwarts, A History]]''.|[[Hermione Granger]]|Harry Potter and the Goblet of Fire}}
+This '''individual''' was the [[Headmaster|Headteacher]] of [[Hogwarts School of Witchcraft and Wizardry]] during the [[1790s]].<ref name="GF15">{{GOF|B|15}}</ref>
+
+==Biography==
+In 1792, the [[Triwizard Tournament]] was held at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts Castle]], and this Headteacher welcomed the [[Headteacher of Beauxbatons Academy of Magic during 1792|Head of Beauxbatons]] and [[Headmaster of Durmstrang Institute during 1792|Durmstrang]] to [[Scotland]]. One of the tasks involved catching a [[Cockatrice]], which went on a rampage and injured the judges, including the Hogwarts Head.<ref name="GF15"/> This incident, along with the rising number of deaths during the tournament, was a contributing factor to the eventual termination of the Tournament, though there were a few unsuccessful attempts to revive it.
+
+==Behind the scenes==
+*If this individual was [[Dilys Derwent]]'s immediate successor, he/she would have been Head since [[1768]].
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, presumably [[Dilys Derwent]]
+|position=Head of the [[Hogwarts School of Witchcraft and Wizardry]]
+|years=c. [[1792]]
+|successor=Unknown, eventually [[Eupraxia Mole]]
+}}
+{{End box}}
+[[Category:British individuals]]
+[[Category:Historical figures]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

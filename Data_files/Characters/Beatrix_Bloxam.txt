@@ -1,0 +1,85 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Beatrix Bloxam.jpg|250px]]
+|name = Beatrix Bloxam
+|born = [[1794]]<ref name="btb3"/>
+|died = [[1910]] (aged 115 or 116)<ref name="btb3"/>
+|blood = [[Half-blood]] or [[Pure-blood]]<ref name="Blood">Her [[Beatrix Bloxam's father|father]] was a wizard, so she could not have been [[Muggle-born]].</ref>
+|marital = Married<ref name="marital"/>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="btb3"/>
+|gender = Female<ref name="btb3"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="COSG">{{COS|G}}</ref> (formerly black)<ref name="POAG">{{POA|G}}</ref>
+|eyes = Green<ref name="COSG"/>
+|skin = Light<ref name="COSG"/>
+|family = *[[Beatrix Bloxam's father|Father]]<ref name="btb3"/>
+*[[Nobby]] (uncle)<ref name="btb3"/>
+*[[Beatrix Bloxam's aunt|Aunt]]<ref name="btb3"/> 
+*[[Beatrix Bloxam's cousins|Cousins]]<ref name="btb3"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Children's Author<ref name="btb3"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|Then the little golden pot danced with delight- hoppitty hoppitty hop! - on its tiny rosy toes! Wee Willykins had cured all the dollies of their poorly tum-tums, and the little pot was so happy it filled up with sweeties for Wee Willykins and the dollies!|An extract of Beatrix Bloxam's version of ''[[The Wizard and the Hopping Pot]]'' in [[The Toadstool Tales]]|The Tales of Beedle the Bard (real)}}
+
+'''Beatrix Bloxam''' ([[1794]]-[[1910]]) was a [[Wizardkind|witch]] who wrote the infamous ''[[The Toadstool Tales|Toadstool Tales]]'', a series of children's books featuring bowdlerised adaptations of stories from earlier works, including {{TBB}},<ref name="btb3"/> which were banned because they had been found to produce nausea and vomiting.<ref name="COSG"/>
+
+==Biography==
+===Early life===
+[[File:Young Beatrix Bloxam.jpg|160px|thumb|left|A younger Bloxam]]
+Beatrix was born in [[1794]] to a [[Beatrix Bloxam's father|wizard father]] and his wife.<ref name="btb3">{{TBB|R}}, page 56</ref> As a child, she listened at a keyhole and heard her [[Beatrix Bloxam's aunt|aunt]] tell [[The Warlock's Hairy Heart]] to her older [[Beatrix Bloxam's cousins|cousins]], as well as parts of a lurid account involving her uncle [[Nobby]], the local [[hag]], and a sack of [[Bouncing Bulb]]s.<ref name="btb3" /> She was so traumatised by what she heard that she was bedridden for a week.<ref name="btb3" /> She also suffered from sleepwalking, returning to the keyhole nightly, until her father placed a [[Sticking Charm]] on her bedroom door when she went to bed.<ref name="btb3" />
+
+===Later life===
+Beatrix married at some point.<ref name="marital">Albus Dumbledore refers to Beatrix as "Mrs Bloxam" on pages 17-18 of ''The Tales of Beedle the Bard''.</ref> Her maiden name is unknown, as is whether or not she and her husband had any children.
+
+{{Quote|...filling the pure minds of our little angels with healthy, happy thoughts, keeping their sweet slumber free of wicked dreams and protecting the precious flower of their innocence.|Beatrix Bloxam on her goals as a children's writer|The Tales of Beedle the Bard (real)}}
+
+Beatrix's childhood experience motivated her to adapt classic stories into versions which she felt would be more suitable to a young audience.<ref name="btb1">{{TBB|R}}, pages 17-18</ref> She believed that children are extremely delicate, and that exposure to {{TBB}} harms them, due to what she described as the stories' "unhealthy preoccupation with the most horrid subjects."<ref name="btb1" /> As such, she reworked several of [[Beedle the Bard|Beedle's]] tales, including [[The Wizard and the Hopping Pot]], which became the story of [[Wee Willykins]].<ref name="btb1" /> However, she was apparently unable to think of a way to tone down [[The Warlock's Hairy Heart]], the story which deeply frightened her as a child, as she never rewrote it.<ref name="btb3" /> Her work was published in a series of books called ''[[The Toadstool Tales]]'', which were universally loathed by children, and were eventually banned because they caused nausea and vomiting (ironically subverting her goal to create suitable tales for children).<ref name="btb1" /><ref name="COSG"/>
+
+==Etymology==
+The name Beatrix is derived from ''Viatrix'', a feminine form of the Latin male name ''Viator'', meaning "voyager."<ref>"[http://www.behindthename.com/name/beatrix Beatrix]" on Behind the Name</ref> It may have been chosen in reference to [[Wikipedia:Beatrix Potter|Beatrix Potter]], who wrote several classic children's books, including ''{{wplink|The Tale of Peter Rabbit}}''. The title "Toadstool Tales" may also refer to the fact that, in addition to being an author, Beatrix Potter was a [[Wikipedia:Mycology|mycologist]].
+
+==Behind the scenes==
+*Originally, Bloxam's date of death was given as 1810 on her [[Chocolate Frog Card]]; however, when taken with a birth date of 1794, it would have made her only sixteen years old at the time of her death. To further confuse the issue, the picture on her card depicted an elderly lady, hardly a sixteen-year-old. The mistake was corrected in the [[Harry Potter and the Prisoner of Azkaban (video game)|video game adaptation]] of {{POA}}, where she is pictured as a teenage witch. Beatrix's correct dates are listed in {{TBB|R}}, where her year of death is listed a century later, in 1910.
+*The character of Bloxam may have been intended as an over-the-top parody of the many real-life parents and teachers who worried that ''Harry Potter'' was traumatising children.
+
+==Appearances==
+{{Imagecat|Images of Beatrix Bloxam}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{1st}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{TBB|R}} 
+*{{PM}} {{FWC}}
+*{{HM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+
+{{DEFAULTSORT:Bloxam, Beatrix}}
+
+[[de:Beatrix Bloxam]]
+[[fi:Beatrix Bloxam]]
+[[es:Beatrix Bloxam]]
+[[fr:Beatrix Bloxam]]
+[[ru:Беатрис Блоксам]]
+[[pl:Beatrix Bloxam]]
+[[Category:1794 births]]
+[[Category:1910 deaths]]
+[[Category:Authors]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Centenarians]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Married individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Transcribed image|File:EmmaVanePermissionSlip.jpg}}
+{{Individual infobox
+|theme=individual
+|image=
+|name=Mrs Vane
+|born=
+|died=
+|blood=
+|marital=
+|nationality=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Female
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=*[[Emma Vane (witch)|Emma Vane]] (daughter)
+*[[Romilda Vane]] (possibly)
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=[[Vane family]]
+}}
+'''Mrs Vane''' was the mother of [[Emma Vane (witch)|Emma Vane]]. She signed the permission slip that was required for her daughter to visit [[Hogsmeade]] village [[Hogsmeade weekend trips|on weekends]] in [[1993]].<ref name="butterbier">"[http://www.butterbier.de/London.html Auf der Suche nach Harry Potter in London Sommer 2004]" on Butterbier.de (in German)</ref>
+
+==Behind the scenes==
+*This character is mentioned only on a prop permission slip that was featured in {{POA|FA}}.<ref name="butterbier" />
+
+==Appearances==
+*{{POA|F}} {{Comment|Name seen on document}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Vane, Mrs}}
+
+[[pl:Pani Vane]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Vane family]]

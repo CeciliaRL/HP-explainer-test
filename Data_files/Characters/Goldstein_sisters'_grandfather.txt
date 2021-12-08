@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=individual
+|image=
+|name=Goldstein sisters' grandfather
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+*[[Goldstein sisters' father|Mr Goldstein]] (son or son-in-law)
+*[[Goldstein sisters' mother|Mrs Goldstein]] (daughter or daughter-in-law)
+*[[Porpentina Goldstein]] (granddaughter)
+*[[Queenie Goldstein]] (granddaughter)
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=[[Owl]] breeder
+|house=
+|loyalty=
+}}
+The '''grandfather''' of [[Porpentina Goldstein|Porpentina]] and [[Queenie Goldstein]] was a breeder of [[owl]]s.<ref name="FB80">{{FB|S|80}}</ref> Queenie noted this fact to [[Jacob Kowalski]] after discovering via [[Legilimency]] that his own [[Jacob Kowalski's grandfather|grandfather]] kept [[pigeon]]s.<ref name="FB80" />
+
+==Behind the scenes==
+*As he was a breeder of owls, which have significance within the wizarding world, he was likely a wizard, although this has not been confirmed.
+
+==Appearances==
+*{{FB|F}} {{1st Mention}}
+*{{FB|S}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Dziadek sióstr Goldstein]]
+[[Category:Breeders]]
+[[Category:Goldstein family]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

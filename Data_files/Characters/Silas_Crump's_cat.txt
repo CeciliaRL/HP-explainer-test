@@ -1,0 +1,29 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:Silas Crump's cat.png|250px]]
+|name = Silas Crump's cat
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Black Cat]]<ref name="FBC6"/>
+|gender = 
+|height = 
+|hair = Black<ref name="FBC6"/>
+|feathers = 
+|eyes = Yellow<ref name="FBC6"/>
+|skin = 
+|family = 
+|loyalty = [[Silas Crump]] (owner)<ref name="FBC6"/>
+}}
+[[Silas Crump]] kept '''a [[black cat]]''' in his rented room at the [[Leaky Cauldron]].<ref name="FBC6">{{FBC|6}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individual cats]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Silas Crump's possessions]]
+[[Category:Yellow-eyed individuals]]

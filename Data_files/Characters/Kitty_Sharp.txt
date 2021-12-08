@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Kitty Sharp
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Scarlet Sharp]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Kitty Sharp''' was a [[Wizardkind|witch]] who was reported missing along with her possible relative, [[Scarlet Sharp|Scarlet]], on the ''[[Potterwatch]]'' wireless programme in [[1997]]. Her disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.<ref name="DHF1">{{DH|F1}}</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Sharp, Kitty}}
+
+[[fr:Kitty Sharp]]
+[[pl:Kitty Sharp]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

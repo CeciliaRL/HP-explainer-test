@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Vargot
+|born = 
+|died = [[1762]]<ref name="JKRS"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]] or [[House-elf]]<ref name="JKRS"/>
+|gender = Male<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Rebel activist (possibly)<ref name="JKRS"/>
+|house = 
+|loyalty = 
+}}
+'''Vargot''' might have been a [[goblin]] [[Goblin Rebellions|rebel]] killed in battle in [[1762]]. This event might have lead to the discovery that he had actually been a rogue [[house-elf]].<ref name="JKRS">{{JKRS}}</ref>
+
+==Appearances==
+*{{JKRS}} {{1st Mention}} {{Comment|Third [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T. test]]}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Vargot]]
+[[fr:Vargot]]
+[[it:Vargot]]
+[[pl:Vargot]]
+[[Category:1762 deaths]]
+[[Category:British individuals]]
+[[Category:Creatures]]
+[[Category:Deceased individuals]]
+[[Category:Males]]
+[[Category:War-related deaths]]

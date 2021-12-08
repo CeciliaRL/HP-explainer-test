@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:SilasCrump.png|250px]]
+|name = Silas Crump
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBC61"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Werewolf]] {{c|formerly [[Human]]}}<ref name="FBC64"/>
+|gender = Male<ref name="FBC61"/>
+|height = 
+|weight = 
+|hair = Light brown<ref name="FBC61"/>
+|eyes = Grey<ref name="FBC61"/>
+|skin = White<ref name="FBC61"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]] (possibly)
+|loyalty = 
+}}
+{{Dialogue a-b|Mathilda Grimblehawk|We're with the Ministry of Magic, Mr Crump. We suspect you're planning some kind of mischief.|Silas Crump|Who, me? Silas 'Saintly' Crump? Never done mischief in my whole life! ''[…]'' Entrepreneurial, that's me. Self-sufficient! I'm a shining example to the wizarding community.|[[Mathilda Grimblehawk]] and [[Mathilda Grimblehawk's partner|her partner]] confront Silas Crump at the [[Leaky Cauldron]]|Fantastic Beasts: Cases from the Wizarding World}}
+'''Silas Crump''' was a [[Great Britain|British]] [[Wizardkind|wizard]] and petty criminal.<ref name="FBC61"/> 
+
+==Biography==
+During his life as a criminal, he had been evading capture by Officer [[Cerberus Langarm]] from the [[British Ministry of Magic]]'s [[Department of Magical Law Enforcement]]. This was due to the fact that he had never been caught red-handed.<ref name="FBC61">{{FBC|6|1}}</ref>
+
+Crump may have been in [[Slytherin|Slytherin House]] at [[Hogwarts School of Witchcraft and Wizardry]] as there was a Slytherin scarf in his rented room at the [[Leaky Cauldron]]. His cunning and resourceful personality would also seem to support this. There was also a [[Chudley Cannons]] flag in his room, so he was most likely a supporter of them.
+
+He owned a [[Silas Crump's locked belt|locked belt]] which was found in the [[London sewers]]. He would use this to restrain himself during the full [[moon]] as he was an unregistered [[Werewolf]].<ref name="FBC64">{{FBC|6|4}}</ref><ref name="PM">Mentioned as an answer on [https://www.wizardingworld.com/quiz/how-well-do-you-know-remus-lupin The Ultimate Remus Lupin Quiz] from {{PM}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Silas Crump}}
+*{{FBC}} {{1st}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Crump, Silas}}
+[[fr:Silas Crump]]
+[[pl:Silas Crump]]
+[[ru:Сайлас Крамп]]
+[[Category:British individuals]]
+[[Category:Chudley Cannons supporters]]
+[[Category:Criminals]]
+[[Category:Grey-eyed individuals]]
+[[Category:Males]]
+[[Category:Werewolves]]
+[[Category:Wizards]]

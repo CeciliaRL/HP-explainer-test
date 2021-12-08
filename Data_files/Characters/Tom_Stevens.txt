@@ -1,0 +1,48 @@
+{{MagicAwakenedSpoiler}}
+{{Cut content}}
+{{Individual infobox
+|theme = hufflepuff
+|image = Tom Stevens.jpg
+|name = Tom Stevens
+|born = Between [[1 September]] [[1990]] and [[31 August]] [[1997]]{{MATimeRef}}
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="MA123">{{MA|1|23}}</ref>
+|gender = Male<ref name="MA123"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="MA123"/>
+|eyes = Blue<ref name="MA123"/>
+|skin = White<ref name="MA123"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="MA123"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="MA123"/>
+**[[Hufflepuff]]<ref name="MA123"/>
+}}
+'''Tom Stevens''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[2008–2009 school year]].<ref name="MA123" />
+
+==Biography==
+During the [[2008–2009 school year]], he searched for [[Peeves]] in a bathroom with a then [[Unidentified Muggle-born Hogwarts student|first-year student]].<ref name="MA123" />
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Stevens, Tom}}
+[[Category:1990s births]]
+[[Category:Blue-eyed individuals]]
+[[Category:British or Irish individuals]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Wizards]]

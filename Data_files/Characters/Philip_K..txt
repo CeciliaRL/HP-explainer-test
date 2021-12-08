@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = muggle
+|image = [[File:PhilipK.jpg|250px]]
+|name = Philip K.
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="GOFF"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFF"/>
+|gender = Male<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Philip K.''' was a [[Non-magic people|Muggle]] man who was buried in the [[Little Hangleton|graveyard]] in the village of [[Little Hangleton]]. His gravemarker was damaged by a [[Killing Curse]] cast by [[Tom Riddle|Lord Voldemort]], during the [[Duel in Little Hangleton]].<ref name="GOFF">{{GOF|F}} {{see image|File:PhilipK.jpg}}</ref>
+
+==Appearances==
+*{{GOF|F}} {{1st Mention}} {{Comment|Name seen on headstone}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:K., Philip}}
+[[pl:Philip K.]]
+[[Category:British individuals]]
+[[Category:Buried at Little Hangleton graveyard]]
+[[Category:Males]]
+[[Category:Muggles]]

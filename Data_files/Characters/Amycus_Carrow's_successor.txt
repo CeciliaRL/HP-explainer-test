@@ -1,0 +1,57 @@
+{{MagicAwakenedSpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Unidentified Professor
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Professor]] of [[Defence Against the Dark Arts]] ([[1998]] - ?)
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''individual''' was a [[Wizardkind|wizard or witch]] who taught [[Defence Against the Dark Arts]] sometime after the [[Battle of Hogwarts]] and the removal of the [[Jinx on the post of Defence Against the Dark Arts teacher|jinx]] that was placed on the post by [[Tom Riddle|Voldemort]]. As such, Hogwarts was able to keep this good teacher in the post going forward. From time to time, the professor allowed [[Harry Potter]] to give lectures on the subject, after Potter became the head of the [[Auror Office|Auror Department]].<ref name="AQ">[http://www.accio-quote.org/articles/2007/0726-today-vieira1.html www.accio-quote.org/articles/207/0726-today-vieira1.html]</ref>
+
+==Behind the scenes==
+*It is possible that this individual is Professor [[Brindlemore]].
+
+==Appearances==
+*[[J. K. Rowling]] Interview {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor = [[Amycus Carrow]]
+|position = Professor of [[Defence Against the Dark Arts]]
+|years = 1998–?
+|successor = Unknown
+}}
+{{End box}}
+
+{{Staff}}
+[[Category:British or Irish individuals]]
+[[Category:Defence Against the Dark Arts Professors at Hogwarts]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified Hogwarts employees]]
+[[Category:Wizards]]

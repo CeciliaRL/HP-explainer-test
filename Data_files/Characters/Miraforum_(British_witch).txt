@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = mom
+|image = [[File:Mdme. Miraforum.png|250px]]
+|name = Madame Miraforum
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref>As she was working at the Ministry during Voldemort's rule, it is higly unlikely he was Muggle-born.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Miraforum (American witch)|Miraforum]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quill Control & Rune Translation]], [[Minister for Magic and Support Staff|Minister for Magic Support Staff]] at the [[British Ministry of Magic|Ministry of Magic]]
+|house = 
+|loyalty = [[British Ministry of Magic|Ministry of Magic]]
+}}
+'''Madame Miraforum''' was a [[British Ministry of Magic|Ministry of Magic]] employee, who worked at [[Quill Control & Rune Translation]]<ref name="Twitter">[https://twitter.com/minalima/status/599605713455943683 "Our real jobs! :-)"] posted by MinaLima on Twitter on 16 May 2015</ref> for the [[Minister for Magic and Support Staff|Minister for Magic's Support Staff]].<ref name="SupportStaff">The plaque listing Mdme. Miraforum is identical in style to the other plaques on the doors to the offices of [[Minister for Magic and Support Staff|Level One]], as seen in {{DH|F1}} {{See image 2|File:MinistryLevelOne.png|File:Dolores Umbridge sign.png}}.</ref>
+
+==Behind the scenes==
+*Madame Miraforum is named after [[Miraphora Mina]], one of the graphic artists that produced many of the paper props seen in the [[Harry Potter (film series)|''Harry Potter'' films]].
+
+==Appearances==
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Minister for Magic and Support Staff}}
+{{DEFAULTSORT:Miraforum, Mdme.}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Minister for Magic's Support Staff]]
+[[Category:Wizards]]

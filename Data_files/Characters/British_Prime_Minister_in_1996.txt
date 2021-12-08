@@ -1,0 +1,95 @@
+{{Real world subject}}
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Prime Minister
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HBP1"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBP1"/>
+|alias = 
+|title = [[Prime Minister]]<ref name="HBP1"/>
+|signature = 
+|species = [[Human]]<ref name="HBP1"/>
+|gender = Male<ref name="HBP1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Prime Minister's niece|Niece]]<ref name="HBP1"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Prime Minister]] of the United Kingdom<ref name="HBP1"/>
+|house = 
+|loyalty = *[[Great Britain|United Kingdom]]<ref name="HBP1"/>
+*British government<ref name="HBP1"/>
+*[[Non-magic people|Muggle]] [[Muggle world|community]]<ref name="HBP1"/>
+}}
+{{Dialogue a-b|Prime Minister|But you're [[Wizardkind|wizards]]! You can do [[magic]]! Surely you can sort out — well — anything!|Cornelius Fudge|The trouble is, the [[Death Eaters|other side]] can do magic too, Prime Minister.|The Prime Minister and [[Cornelius Fudge]]|Harry Potter and the Half-Blood Prince}}
+This '''Prime Minister of the United Kingdom of Great Britain and Northern Ireland''', usually just referred to as the '''Prime Minister''' led the [[Great Britain|United Kingdom]] during [[1996]].<ref name="HBP1">{{HBP|B|1}}</ref>
+
+==Biography==
+===Meeting with the 'Other Minister'===
+{{Dialogue a-b-a|Cornelius Fudge|The Minister of Magic only reveals him--or herself to the Muggle Prime Minister of the day. We find it the best way to maintain secrecy.|Prime Minister|But then, why hasn't a former Prime Minister warned me?|My dear Prime Minister, are you ever going to tell anybody?|The Prime Minister and [[Cornelius Fudge]]|Harry Potter and the Half-Blood Prince}}
+
+Before becoming Prime Minister, this man had a very hard and gruelling campaign in the 1980s. On the day he won the election in the early [[1990s]], he was greeted by the currently incumbent [[Minister for Magic]], [[Cornelius Fudge]], who told him about the [[Wizarding world|world of magic]]. The Muggle Minister was actually better at accepting this than his [[Prime Minister's predecessor|predecessor]], who thought Fudge was an attempt to sabotage the Prime Minister's career, and tried to throw the wizard out the window. The Prime Minister then tried to pretend none of this had happened. Despite Fudge's claim that they would probably never meet again after the first introduction, circumstances, essentially all the [[Second Wizarding War|Dark activities of the wizarding world]], colluded to render this statement invalid, much to the Prime Minister's discomfort.<ref name="HBP1"/>
+
+In [[1993]], Fudge met with the Prime Minister to inform him that [[Sirius Black]] [[Azkaban escapes|escaped]] from [[Azkaban]].<ref name="HBP1"/> Since Black was convicted of murdering [[Peter Pettigrew]] and [[Peter Pettigrew's unidentified victims|twelve Muggle bystanders]] on a London street, and was thus a severe threat to both communities, Fudge felt that it was important that the Muggle Prime Minister be informed.<ref name="HBP1"/> As such, the event of his meeting was recorded in the [[Daily Prophet]].<ref name="PA3">{{POA|B|3}}</ref> Subsequently, the Prime Minister put out a warning to the Muggle communities that Black was a known serial killer, but not specifically a wizard.<ref name="POA2">{{POA|B|2}}</ref><ref name="HBP1"/>
+
+In [[1994]], Fudge met with the Prime Minister to discuss the events of the [[Quidditch World Cup]], where several [[Non-magic people|Muggle]]s had been tortured by [[Death Eaters]], but declared that everything was fine and was being dealt with (i.e. covered up). He also informed the Prime Minister that they would be bringing three [[dragon]]s and a [[sphinx]] into the country, and as they were classified as highly dangerous creatures, it was in the rules that the Muggle Prime Minister had to be informed.<ref name="HBP1"/>
+
+===Second Wizarding War===
+[[File:Daily Prophet Prime Minister.jpg|200px|thumb|The [[Daily Prophet]] reports [[Rufus Scrimgeour|Scrimgeour's]] meeting with the Prime Minister]]
+
+Early in [[1996]], Fudge met with the Minister to inform him of the mass breakout from Azkaban. Then, later in [[1996]], the Prime Minister was under pressure after the collapse of the [[Brockdale Bridge]], an alleged hurricane that had devastated parts of the South-West of [[England]], and two highly publicised murders one of which had taken place around the corner from [[Prime Minister's office|10 Downing Street]]. He was informed by the former [[Minister for Magic]] [[Cornelius Fudge]] that [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]] were responsible for these events, and introduced him to his own replacement as Minister for Magic, [[Rufus Scrimgeour]]. Scrimgeour told him that his Junior Minister, [[Herbert Chorley]], had been put under a poorly cast [[Imperius Curse]], which was the real reason he had been acting like a duck, and that he was being transferred to St Mungo's. Scrimgeour also informed him that his new secretary, [[Kingsley Shacklebolt]], was actually a highly skilled [[Auror]], placed there for his security.<ref name="HBP1"/>
+
+Early in [[1997]], Scrimgeour met with the Prime Minister to inform him about the terror and all the deaths, including a [[Unidentified Muggle family|Muggle family]]; this meeting was briefly mentioned in the ''[[Daily Prophet]]'' as an 'exclusive' story.<ref name="DHF1">{{DH|F1}}</ref>
+
+His fate following the [[Second Wizarding War]] is unknown.
+
+==Behind the scenes==
+*The Prime Minister is never named in the series, and may be intended to be a fictional character. Since the Harry Potter series is set mostly in the 1990s the most likely real-life candidate would be [[wikipedia:John Major|Sir John Major]], the Prime Minister of Britain from 1990 to 1997. However during the last half of {{HBP}} and {{DH}}, there was a change of government in Britain and [[wikipedia:Tony Blair|Tony Blair]] became Prime Minister, serving from 1997 to 2007. Additionally, Fudge refers to his predecessor as "he", when in real life, it would have been [[wikipedia:Margaret Thatcher|Margaret Thatcher]].
+*It is unknown if he ever met [[Pius Thicknesse]], who briefly became Minister for Magic in 1997. It is highly unlikely, since Thicknesse was under the control of Lord Voldemort and likely would have not collaborated with the Prime Minister, let alone the fact that he was in control of the Muggle communities.
+*Given that the Harry Potter series is fictional, it is entirely possible that this Prime Minister, and thus the previous Prime Minister as well, are none of the real life Prime Ministers of the United Kingdom, but entirely fictional ones with different names and identities. As Britain had, up until that date, had but one female Prime Minister, the pronoun "she" would be rather conclusive as to identity in the real-world.
+
+==Appearances==
+*{{POA}} {{1st Mention}}
+*{{OOTP}} {{Mention}}
+*{{OOTP|F}} {{Mention}}
+*{{HBP}} {{1st}}
+*{{DH}} {{Mention}}
+*{{DH|F1}} {{Mention}}
+*{{CC}} {{Mention}}
+*{{CC|P}} {{Mention}}
+*{{QH}} {{Mention}}
+*{{HPV|CH}} {{Mention}}
+*{{HM}} {{Mention}} {{Possible}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Prime Minister's predecessor]]
+|position=[[Prime Minister (title)|Prime Minister of the United Kingdom]]
+|years=[[1990s]]
+|successor=Incumbent
+}}
+{{End box}}
+
+[[de:Premierminister]]
+[[de2:Britischer Premierminister in 1996]]
+[[es:Primer Ministro]]
+[[fr:Premier Ministre]]
+[[ru:Премьер-министр маглов]]
+[[pl:Premier Wielkiej Brytanii]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Prime Ministers]]
+[[Category:Unidentified Muggles‎]]

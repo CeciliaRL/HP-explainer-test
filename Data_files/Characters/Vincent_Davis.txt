@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Vincent Davis
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Costume and set designer
+|house=
+|loyalty=
+}}
+'''Vincent Davis''' was a [[Muggle|No-Maj]] costume and set designer in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:WhenBroadwaySleeps.jpg}}</ref>
+
+He designed the costumes and sets for a production of the comedy play ''[[When Broadway Sleeps]]'' that ran at the [[Glovers Comedy Theatre]] in [[New York]] in [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Davis, Vincent}}
+[[Category:Costume designers]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Set designers]]

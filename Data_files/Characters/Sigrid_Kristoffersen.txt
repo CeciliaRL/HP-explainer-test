@@ -1,0 +1,31 @@
+{{Individual infobox
+|name = Sigrid Kristoffersen
+|born = After [[1976]]<ref name="age">[[Viktor Krum]], born [[1976]], was said to be the oldest player at the [[2014 Quidditch World Cup]].</ref> [[Norway]] 
+|nationality = [[Norway|Norwegian]]
+|title = [[Seeker]]
+|species = [[Human]]
+|gender = Female
+|job = [[Seeker]] for the [[Norwegian National Quidditch team]]
+|loyalty = [[Norwegian National Quidditch team]]
+|theme = quidditch-player
+}}'''Sigrid Kristoffersen''' was a [[Norway|Norwegian]] [[Wizardkind|witch]] who played as the [[Seeker]] for the [[2014]] [[Norwegian National Quidditch team]].
+
+==Biography==
+During the first match of the [[2014 Quidditch World Cup]] against [[Ivorian National Quidditch team|the Ivory Coast]], Kristoffersen beat her opposite [[Sylvian Boigny]] to the [[Golden Snitch]] after 128 minutes of play, securing a win for Norway.<ref name="PM">{{PM}} - [[NORWAY VERSUS IVORY COAST]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Kristffersen, Sigrid}}
+
+[[de:Sigrid Kristoffersen]]
+[[fr:Sigrid Kristoffersen]]
+[[pl:Sigrid Kristoffersen]]
+[[ru:Сигрид Кристофферсен]]
+
+[[Category:Females]]
+[[Category:Norwegian individuals]]
+[[Category:Seekers]]
+[[Category:Wizards]]

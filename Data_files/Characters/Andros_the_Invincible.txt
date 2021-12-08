@@ -1,0 +1,75 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Andros the Invencible.jpg|250px]]
+|name = Andros the Invincible
+|born = Ancient [[Greece]]<ref name="COSG"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Greece|Greek]]<ref name="COSG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Red<ref name="COSG"/>
+|eyes = 
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = Unknown form; [[Giant]]-sized<ref name="COSG"/>
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Andros the Invincible (Ancient Greek, dates unknown): Alleged to have been the only known wizard to produce a Patronus the size of a giant.|[[Chocolate Frog Card]]|Harry Potter and the Philosopher's Stone (video game)}}
+'''Andros the Invincible''' was a celebrated Ancient [[Greece|Greek]] [[Wizardkind|wizard]] who, reportedly, was able to conjure a [[Patronus Charm|Patronus]] as big as a giant — the only Patronus of such size ever recorded.<ref name="COSG">{{COS|G}}</ref>
+
+==Biography==
+===Lifetime===
+Andros was born in [[Greece]], in the [[Wikipedia:Classical antiquity|Classical antiquity]]. At some point, he mastered [[Wandless magic|wandless spellcasting]] as well as the [[Patronus Charm]]. His corporeal Patronus was claimed to be the size of a [[Giant]], although whether its form was in fact a Giant or some other gigantic form is unclear. In recognition of his skill in wizardry, he earned the epithet 'the Invincible'.<ref name="COSG"/>
+
+===Post-mortem===
+[[File:Andros.JPG|thumb|right|140px|Andros immortalised on a silver [[Chocolate Frog Card]]]]
+By the [[1990s]], Andros was featured on a [[Chocolate Frog Card]], which recorded his wizarding skills and depicted him conjuring his famous Patronus [[Wandless magic|wandlessly]].<ref name="COSG" />
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': Andros was evidently very accomplished with charms, as he was able to produce a corporeal [[Patronus Charm|Patronus]] (a very advanced and difficult charm) to the size of a [[giant]].<ref name="COSG"/>
+*'''[[Wandless magic]]''': Andros was also capable of producing his incredibly large Patronus without using a [[wand]],<ref name="COSG"/> showing him to him to have been a very powerful wizard to have been able to produce such an advanced charm without a wand.
+
+==Behind the scenes==
+*Although Andros was featured on a famous wizard card, it is known that the size and corporeal form of a Patronus has no influence upon its power. In fact, another famous Patronus, belonging to [[Illyius]], took the form of a little [[mouse]], but was still of immense power.<ref name="WBS">{{WBS}}</ref>
+
+==Etymology==
+*The word ''Anēr'', of which ''Andros'' is the genitive form, is Ancient Greek for "man". The word is currently used as a prefix in many non-Greek words. It is also the name of a Greek island (Andros), an Atlantic island, and several fictional characters in franchises such as ''Power Rangers'', ''Sandman'' and ''Marvel Comics''.
+
+==Appearances==
+{{Imagecat|Images of Andros the Invincible}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{1st}} {{FWC}}
+*{{WBS}} {{Mention}}
+*{{PM}} {{FWC}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+[[de:Andros der Unbesiegbare]]
+[[de2:Andros der Unbesiegbare]]
+[[fr:Andros l'Invincible]]
+[[fi:Andros the Invincible]]
+[[it:Andros l'Invincibile]]
+[[pl:Andros Niezwyciężony]]
+[[ru:Андрос Неуязвимый]]
+[[Category:B.C. era births]]
+[[Category:Greek individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizards]]

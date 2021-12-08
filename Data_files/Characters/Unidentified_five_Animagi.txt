@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Unidentified five Animagi
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=
+|animagus=Unknown
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+These '''five people''' were [[Wizardkind|wizards or witches]] (or both) who were known to be registered [[Animagus|Animagi]]; however their animal forms are unknown. [[Hermione Granger]] referred to them by saying that there were only seven registered Animagi in the [[20th century]]. Since the [[Marauders]] trio ([[James Potter I|Prongs]], [[Sirius Black|Padfoot]] and [[Peter Pettigrew|Wormtail]]) were unregistered, it is at least conceivable that others may have effected this transformation without registering.<ref>{{POA}}</ref>
+
+==Behind the scenes==
+*[[Unidentified registered Animagus|An unidentified Animagus]] appears in {{LEGO|Y1}}. She took the form of a black cat. As she changed shape in a public location, it is likely she was registered.<ref>{{LEGO 1}}</ref>
+*It is possible that [[Jacob's sibling]] is one of them, as in the Animagus achievement quest in {{HM}}, the player gets to choose whether or not they want to register.
+
+==Appearances==
+*{{POA}} {{Mention}}
+*{{LEGO|Y1}}
+
+==Notes and references==
+{{Reflist}}
+{{Animagi}}
+[[es:Cinco animagos no identificados]]
+[[Category:Animagi]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals|Animagi]]
+[[Category:Wizards|Animagi]]

@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Nelson Selgado
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Composer, lyricist
+|house=
+|loyalty=
+}}
+'''Nelson Selgado''' was a [[Muggle|No-Maj]] composer and lyricist in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:Two to Tango.png}}</ref><ref name="neonsign">{{FB|F}} {{See image|File:OrpheumNewYork.jpg}}</ref> 
+
+Selgado composed the music and lyrics for ''[[Two to Tango]]'' by playwright [[Cecil Edwards]].<ref name="poster" /> This musical was staged at [[The Kingly Court]] in [[New York]] in [[1926]].<ref name="poster" /><ref name="neonsign"/>
+
+He also orchestrated a production of the musical ''[[It's Just Heavenly]]'' that was staged at the [[Pegasi Theatre]] in New York in 1926.<ref name="poster2">{{FB|F}} {{See image|File:It's Just Heavenly.png}}</ref>
+
+==Appearances==
+*{{FB|F}} {{Comment|Mentioned on a poster and sign}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Selgado, Nelson}}
+[[Category:Composers]]
+[[Category:Lyricists]]
+[[Category:Males]]
+[[Category:Muggles]]

@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:MalfoyManorPortraitWoman.png|250px]]
+|name = Unidentified portrait
+|born = 
+|died = Before [[1997]] (possibly)<ref name="DP">It is possible the individual depicted in this portrait died prior to [[1997]], because portraits commonly depict deceased individuals. The portrait's clothing also supports this.</ref>
+|blood = [[Pure-blood]] (possibly)<ref name="PB">The [[Malfoy family|Malfoys]] were [[Pure-blood supremacy|pure-blood supremacists]], so it is likely the individual in this portrait is a pure-blood, because it was hung in their house. In addition, the portrait was hung in the house while it was used as [[Tom Riddle|Lord Voldemort]]'s headquarters, increasing the likelihood this individual is a pure-blood.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Malfoy family]] (possibly)<ref name="MM">The portrait was hung in Malfoy Manor, so it is possible this individual is a Malfoy.</ref>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Malfoy family]]
+}}
+This '''[[Portrait]] of a [[Wizardkind|witch]]''' hung in [[Malfoy Manor]] during [[1997]] and [[1998]], while the house was being used as [[Tom Riddle|Lord Voldemort]]'s headquarters. The portrait witnessed the death of [[Charity Burbage]] and other meetings Lord Voldemort held with his [[Death Eaters]].<ref name="DHF1">{{DH|F1}}</ref><ref name="DHG1">{{DH|G1}}</ref>
+
+==Behind the scenes==
+*The individual in this portrait may have died prior to [[1997]], because many portraits depict deceased individuals. In addition, the individual's clothing seems to support this.
+*This portrait is based off of [https://upload.wikimedia.org/wikipedia/commons/7/70/Frances_Sydney_Countess_of_Sussex.jpg a c. 1570-75 portrait of Frances Radclyffe, Countess of Sussex (1531–1589)].
+
+==Appearances==
+*{{DH|F1}} {{1st}} 
+*{{DH|G1}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

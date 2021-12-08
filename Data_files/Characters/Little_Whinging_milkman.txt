@@ -1,0 +1,39 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|name = Little Whinging milkman
+|born =
+|died =
+|blood = [[Non-magic people|Muggle]]<ref name="PS3"/>
+|nationality = [[Great Britain|British]]<ref name="PS3"/>
+|alias =
+|title =
+|signature =
+|species = [[Human]]<ref name="PS3"/>
+|gender = Male<ref name="PS3"/>
+|skin =
+|eyes =
+|hair =
+|weight =
+|height =
+|family =
+|romances =
+|job = Milkman<ref name="PS3"/>
+|loyalty = [[Little Whinging]]<ref name="PS3"/>
+}}
+This '''individual''' was a [[Great Britain|British]] [[Non-magic people|Muggle]] man, who worked as a milkman in the area of [[Little Whinging]] in [[Surrey]], [[England]].<ref name="PS3"/>
+
+==Biography==
+In the summer of [[1991]], he was very confused when he had to deliver [[egg]]s to [[Petunia Dursley]] through the window of [[4 Privet Drive]], after [[Vernon Dursley]] had boarded up the cracks around the front and back doors of the house so that nobody could go in or out. Each of the two dozen eggs contained a [[Hogwarts acceptance letter]] rolled up and hidden inside it.<ref name="PS3">{{PS|B|3}}</ref>
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Mleczarz z Little Whinging]]
+[[Category:British individuals]]
+[[Category:Little Whinging]]
+[[Category:Males]]
+[[Category:Milkmen]]
+[[Category:Unidentified Muggles]]

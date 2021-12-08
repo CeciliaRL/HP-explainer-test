@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Unidentified 16th-century Potions professor
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="BOP"/>
+|signature = 
+|species = [[Human]]<ref name="BOP"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Potions (class)|Potions]] [[Professor]] at [[Hogwarts School of Witchcraft and Wizardry]] (c. [[16th century]])<ref name="BOP"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="BOP"/>
+}}
+This '''[[Potions (class)|Potions]] [[Professor]]''' (fl. [[16th century]]) was a [[Wizardkind|wizard or witch]] who taught at [[Hogwarts School of Witchcraft and Wizardry]] during [[Zygmunt Budge]]'s school days.<ref name="BOP" />
+
+==Biography==
+They had apparently been teaching at [[Hogwarts School of Witchcraft and Wizardry]] for a long time, as Budge described this Professor as "ancient".<ref name="BOP">{{WBP}}</ref>
+
+When needing wild, uncontrollable laughter for his [[Laughing Potion]], Budge often thought of an incident where a rival student of his spilled [[Love Potion]] onto himself, thus becoming attracted to this Professor. In Budge's opinion, this was the most humorous occurrence he had ever witnessed.<ref name="BOP" />
+
+By the age of fourteen, Budge was able to correct this Professor on the proper usage of [[Mackled Malaclaw]] [[Mackled Malaclaw tail|tails]] in [[Potion|Potion-making]].<ref name="BOP" />
+
+==Appearances==
+*{{WBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Staff}}
+{{Potions}}
+[[es:Profesor de pociones del siglo XVI]]
+[[pl:Niezidentyfikowany profesor eliksirów z XVI-wieku]]
+[[Category:British or Irish individuals]]
+[[Category:Historical figures]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Potions Masters]]
+[[Category:Unidentified Hogwarts employees]]
+[[Category:Wizards]]

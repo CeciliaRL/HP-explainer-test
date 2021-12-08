@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Neil Randall
+|born = On or prior to [[31 August]] [[1982]]<ref>He was at least in his first year at Hogwarts during the [[1993-1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+**[[Duelling Club]]
+}}
+{{Quote|I love duelling!|Neil in [[Viaduct Courtyard|Clock Tower Courtyard]]|Harry Potter and the Half-Blood Prince (video game)}}
+
+'''Neil Randall''' was a [[Gryffindor]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He was a member of the [[Duelling Club]] run by [[Karl Limpley]] in the [[Clock Tower Courtyard]] during the [[1996–1997 school year]].
+
+==Etymology==
+The name "Neil" comes from the Gaelic name Niall, which is of disputed origin, possibly meaning "champion" or "cloud". This was the name of a semi-legendary 4th-century Irish king, Niall of the Nine Hostages.
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|PlayStation 2 version]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Duelling Club}}
+{{DEFAULTSORT:Randall, Neil}}
+[[es:Neil Randall]]
+[[fr:Neil Randall]]
+[[Category:British or Irish individuals]]
+[[Category:Duelling Club members]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

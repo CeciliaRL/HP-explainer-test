@@ -1,0 +1,54 @@
+{{Transcribed audio}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Quintia McQuoid
+|born = 
+|died = c. [[1407]]<ref name="WBoP"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WBoP"/>
+|gender = Female<ref name="WBoP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Potioneer]]<ref name="WBoP"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|We are in the presence of a risk-taker! Quintia McQuoid would be proud — as most of you know, this Championship has been held in this garden every seven years since 1407 in honour of Quintia McQuoid, that most memorable of potioneers, whose love affair with potions sadly came to an end with her untimely death from drinking an imperfectly-brewed cure for ague.|The Wizarding Schools Potions Championship announcer|Wonderbook: Book of Potions}} 
+'''Quintia McQuoid''' (died c. [[1407]]) was a notable [[Middle Ages|Medieval]] [[Wizardkind|witch]] and [[Potioneer]], active in, at least, the early [[15th century]].<ref name="WBoP">{{WBP}} (see [https://www.youtube.com/watch?v=AAjfcejqMcQ&list=PLu-YMfPspAuGcYXaC2J1A2gb-0Zp34GI3&index=19 this video])</ref>
+
+==Biography==
+She died at a young age, after consuming a [[cure for ague]] that had been improperly brewed. To honour her memory, the [[Wizarding Schools Potions Championship]] was first held, in an [[Enchanted garden (Book of Potions)|enchanted garden]], in [[1407]], and has been held every seven years since, gathering [[Potions (class)|Potions]] students from schools like [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], [[Mahoutokoro School of Magic|Mahoutokoro]], [[Uagadou School of Magic|Uagadou]], and [[Koldovstoretz school|Koldovstoretz]].<ref name="WBoP"/>
+
+==Appearances==
+*{{WBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Potions}}
+{{DEFAULTSORT:McQuoid, Quintia}}
+[[es:Quintia McQuoid]]
+[[ru:Квинтия МакКуойд]]
+[[pl:Quintia McQuoid]]
+[[Category:1407 deaths]]
+[[Category:Accidental deaths]]
+[[Category:Deaths by poisoning]]
+[[Category:European individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Potioneers]]
+[[Category:Wizards]]

@@ -1,0 +1,36 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:NevilleandtheGhoul.jpg|250px]]
+|name = Ghoul in the Muggle Studies Classroom
+|born = Before [[1993]]<ref name="POAG"/>
+|died = 
+|alias = 
+|title = 
+|species = [[Ghoul]]<ref name="POAG"/>
+|gender = 
+|height = 
+|hair = Brown<ref name="POAG"/>
+|feathers = 
+|eyes = Yellow<ref name="POAG"/>
+|skin = Brown<ref name="POAG"/>
+|family = 
+|loyalty = 
+}}
+This '''[[ghoul]]''' lived in [[Hogwarts School of Witchcraft and Wizardry]], possibly in the [[Ghoul Studies classroom|Ghoul Studies Classroom]].<ref name="POAG"/>
+
+==History==
+In [[1993]], it attacked [[Neville Longbottom]], after being set free by [[Draco Malfoy]], [[Gregory Goyle]] and [[Vincent Crabbe]]. The ghoul threw objects at Neville and wailed at him. However, when [[Harry Potter]] and [[Ronald Weasley|Ron Weasley]] arrived at the classroom, Ron prevented it from continuing to attack by using the ''[[Lumos Duo]]'' spell, which allowed him to trap it in a small box room.<ref name="POAG">{{POA|G}} -Console versions</ref> What the [[Muggle Studies]] [[professor]] did with the ghoul afterwards (if they happened to find it) is unknown.
+
+==Behind the scenes==
+*The ghoul appears only in [[Harry Potter and the Prisoner of Azkaban (PlayStation 2, Xbox, GameCube)|the PS2, Xbox, and GameCube version]] of the {{POA}} [[Harry Potter and the Prisoner of Azkaban (video game)|video game adaptation]].
+*The ghoul can be hit with spells such as  the [[Knockback Jinx]], though if done so, it will ignore Neville and charge at the caster with rage at a speed which makes it difficult to outrun. After damaging the caster with its dash, the ghoul will resume targeting Neville, unless provoked again.
+**It will also only charge at the caster if they happen to be within a certain range of it, as too far from the distance, the A.I. will not notice the player if they happen to be hiding behind something too far from it. It is possible however, to quickly climb onto something in order to make the ghoul cancel all its actions and return to its normal pattern if the player finds the jack-in-the-box Ron is meant to examine without opening it.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions only}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Ghouls]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Yellow-eyed individuals]]

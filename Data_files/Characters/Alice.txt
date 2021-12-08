@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Girl Behind Neville.jpg|250px]]
+|name = Alice
+|born = Between [[1 September]] [[1979]] and [[31 August]] [[1980]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSF"/>
+|gender = Female<ref name="PSF"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="PSF"/>
+|eyes = Blue<ref name="PSF"/>
+|skin = Light<ref name="PSF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSF"/>
+}}
+'''Alice'''{{fact}} was a [[Wizardkind|witch]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990]]s.<ref name="PSF"/>
+
+==Biography==
+Alice was born in either [[Great Britain]] or [[Ireland]] in [[1979]] or [[1980]]. On [[1 September]], [[1991]], she arrived at [[Hogwarts School of Witchcraft and Wizardry]] for her [[first year]]. She stood behind [[Neville Longbottom]] whilst [[Professor]] [[Minerva McGonagall]] explained the rules of the school prior to the [[Sorting ceremony]].<ref name="PSF">{{PS|F}} - Chapter 11 (''Welcome to Hogwarts'')</ref>
+
+==Etymology==
+''Alice'' derives [[Germany|German]] name ''Adalheidis'', which became popular in [[France]] and [[England]] in the early [[1100s|twelfth century]].<ref name="ETYMOLOGY">[http://www.behindthename.com/name/alice Alice] on [http://www.behindthename.com/ Behind the Name]</ref>
+
+==Behind the scenes==
+*She may be [[Alice Tolipan (witch)|Alice Tolipan]].
+
+==Appearances==
+*{{PS|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de2:Alice]]
+[[fr:Alice]]
+[[pl:Alice]]
+[[Category:20th century births]]
+[[Category:Blue-eyed individuals]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Sorted in 1991]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

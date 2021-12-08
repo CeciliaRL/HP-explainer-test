@@ -1,0 +1,72 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:Percival P.jpg|250px]]
+|name = Percival Pratt
+|born = 
+|died = Before [[1991]] (possibly)<ref name="PSF">{{PS|F}}</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTPG"/>
+|gender = Male<ref name="OOTPG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="OOTPG"/>
+|eyes = Blue<ref name="OOTPG"/>
+|skin = White<ref name="OOTPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Poet<ref name="OOTPG"/>
+|house = [[Gryffindor]] (possibly)<ref name="House">A small portrait of Pratt hung in Gryffindor Tower in {{POA|G}}.</ref>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTPG"/>
+}}
+{{Quote|I'm a man of few words — I rarely speak. Find someone else if discourse you seek.|Percival Pratt's portrait|Harry Potter and the Order of the Phoenix (video game)}}
+'''Percival Pratt''' was a [[Wizardkind|wizard]] poet.<ref name="OOTPG"/> 
+
+==Biography==
+[[File:PercivalPratt.jpg|thumb|left|His [[Portrait]]]]
+He has a portrait hung in [[Hogwarts Castle]]'s [[Grand Staircase]]. He is portrayed as a man in a red robe, writing on his desk, with a starry sky and a full moon behind him. He is often heard saying rhymes and riddles to students who walk by. He often encourages students to "''take time every day to rhyme what ''[they]'' say''." Up until [[1996]], Mr Pratt's portrait guarded a shortcut between the [[Grand Staircase]] and the [[Boathouse]]. The password of this shortcut was "''This password is absurd''".<ref name="OOTPG">{{OOTP|G}} - Console versions</ref>
+
+==Etymology==
+*The name "{{wplink|Percival}}" was created by the 12th-century French poet Chrétien de Troyes for his poem ''Perceval, the Story of the Grail''. In the poem, Perceval was one of King Arthur's knights of the Round Table who was given a glimpse of the Holy Grail. The character (and probably the name) of Perceval was based on that of the Welsh hero {{wplink|Peredur}}. The spelling was perhaps altered under the influence of Old French percer val "to pierce the valley".
+*{{wplink|E. J. Pratt}} (1882–1964) was a celebrated Canadian poet who has won the country's Governor General's Award for poetry three times, and who has been called "the foremost Canadian poet of the first half of the century."
+
+==Behind the scenes==
+*The [[Weasley family]], students at Hogwarts during the time when Percival's photo hung there, often described their brother [[Percy Weasley|Percy]] as 'a prat'. It is an amusing coincidence that "Percy's a prat" sounds so similar to this wizard's name.
+*Pratt may have died sometime prior to [[1991]], as many portraits hung at [[Hogwarts Castle]] depict deceased individuals. Some art historians have assigned it to the latter half of the [[16th century|sixteenth century]] or the first decade of the [[17th century|seventeenth century]] on stylistic grounds.
+*Percival's portrait seems to have been based [http://upload.wikimedia.org/wikipedia/commons/b/b3/John_Fletcher_from_NPG.jpg on a circa 1620 portrait] of English playwright [[Wikipedia:John Fletcher (playwright)|John Fletcher (1579–1625)]], by an unknown artist.<ref>[http://www.npg.org.uk/collections/search/portrait.php?search=ap&npgno=420&eDate=&lDate= National Portrait Gallery]</ref>
+
+==Appearances==
+*{{PS|F}} {{1st}} {{Portrait}}<ref>Seen next to the entrance to the [[Grand Staircase]].</ref>
+*{{COS|F}} {{Portrait}}
+*{{POA|F}} {{Portrait}}<ref>Seen in [[Gryffindor Tower]] and right under a [[painting of a giraffe]] on the seventh floor at the [[Grand Staircase]]</ref>
+*{{POA|G}} {{Portrait}}
+*{{OOTP|F}} {{Portrait}}
+*{{OOTP|G}} {{1st ID}}
+*{{HM}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pratt, Percival}}
+
+{{Hogwarts below ground floor}}
+
+[[de:Percival Pratt]]
+[[fr:Percival Pratt]]
+[[pl:Percival Pratt]]
+[[es:Percival Pratt]]
+
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Poets]]
+[[Category:Portraits]]
+[[Category:Wizards]]

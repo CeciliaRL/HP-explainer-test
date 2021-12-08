@@ -1,0 +1,54 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Dorian Fungbury
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Auror]]
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Department of Magical Law Enforcement]]
+***[[Auror Office]]
+**[[Statute of Secrecy Task Force]]
+}}
+{{Quote|A personal sojourn with noted Auror and decorated duellist Dorian Fungbury, increasing the amount of damage you can inflict against your Foes in combat.|Description|Harry Potter: Wizards Unite}}
+'''Dorian Fungbury''' was a [[Great Britain|British]] [[Wizardkind|wizard]] employed by the [[British Ministry of Magic|Ministry of Magic]] in [[London]]; he was an accomplished [[Auror]] and a decorated [[Duelling|duellist]].<ref name="WU">{{WU}} (see [https://wizardsunitehub.info/profession-skill/somatic-casting/ this])</ref>
+
+==Biography==
+In the [[2010s]], Dorian Fungbury offered an informative stay over for an [[Auror]] member of the [[Statute of Secrecy Task Force]]; learning from their host, they benefited from it when out in the field.<ref name="WU" />
+
+In [[July]] [[2020]], [[Hermione Granger]] asked Dorian to do some digging into illegal beast trading. Since the [[Calamity]], the Ministry pulled recource away from combating the black market. He reached out to some underworld contacts and found that the black market - particularly the illegal Magical Creature market in [[Indonesia]] - has utterly exploded.<ref>{{WU}} "Brilliant Event: Baby Beast" (see [https://www.reddit.com/r/WizardsUnite/comments/hilafu/brilliant_event_baby_beasts_storyboard_week_1/ this])</ref>
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+{{DEFAULTSORT:Fungbury, Dorian}}
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:British individuals]]
+[[Category:Duelling Trophy recipients]]
+[[Category:Males]]
+[[Category:Wizards]]

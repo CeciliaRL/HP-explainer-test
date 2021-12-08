@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:Unidentified Gryffindor Prefect 1.PNG|250px]]
+|name = 
+|born = c. [[1975]]-[[1976]]<ref name="Date">This individual left [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in [[1994]], which means they were born around [[1976]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]<ref name="PSG"/>
+|signature = 
+|species = [[Human]]<ref name="PSG"/>
+|gender = Female<ref name="PSG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="PSG"/>
+|eyes = Brown<ref name="PSG"/>
+|skin = Fair<ref name="PSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="PSG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSG"/>
+**[[Gryffindor]]<ref name="PSG"/>
+}}
+This '''individual''' was a [[Wizardkind|witch]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the early [[1990s]], and was a member of [[Gryffindor]] house. She served alongside [[Percy Weasley]] from [[1991]] as [[Gryffindor]] [[prefect]]s, until she left the school in [[1994]].<ref name="PSG">{{PS|G}} {{C|PS2, Xbox, GameCube versions}}</ref>
+
+==Appearances==
+*{{PS|G}} {{1st}} {{C|Console versions}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually<br/>[[Angelica Cole]]
+|position=[[Prefect#Gryffindor|Female prefect of Gryffindor House]]<br/>(along with two other female Gryffindors in different years taking the post)
+|years=[[1991]]–[[1994]]
+|successor=Unknown, eventually<br/>[[Hermione Granger]]
+}}
+{{End box}}
+{{Head boys and prefects}}
+[[es:Prefecta de Gryffindor no identificada]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Hogwarts prefects]]
+[[Category:Sorted in the 1980s]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

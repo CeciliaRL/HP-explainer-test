@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Leonard Jewkes
+|hideb=1
+|blood=
+|alias=
+|title=
+|height=
+|hair=
+|eyes=
+|skin=
+|species=[[Human]]
+|gender=Male
+|hidef=1
+|family=
+|hidem=1
+|animagus=
+|wand=
+|patronus=
+|boggart=
+|job=[[Broom-maker]]
+|house=
+|loyalty=
+}}
+'''Leonard Jewkes''' was a [[broom-maker]] who created the [[Silver Arrow]] [[broomstick]].<ref>{{QTA|R|9}}</ref>
+
+==Etymology==
+The name "Leonard" means "brave [[lion]]", derived from the Germanic elements ''levon'' "lion" and ''hard'' "brave, hardy". This was the name of a 5th-century Frankish saint who is the patron of prisoners and horses. This name was brought to England by the Normans, though it did not become common there until the 19th century.
+
+==Appearances==
+*{{QTA|R}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Leonard Jewkes]]
+[[es:Leonard Jewkes]]
+[[fr:Leonard Jewkes]]
+[[Category:Broom-makers|Jewkes, Leonard]]
+[[Category:Males|Jewkes, Leonard]]
+[[Category:Wizards|Jewkes, Leonard]]

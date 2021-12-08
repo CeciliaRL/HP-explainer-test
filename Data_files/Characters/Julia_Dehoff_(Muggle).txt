@@ -1,0 +1,43 @@
+{{youmay|the character|[[Julia Dehoff-Bourne|the real-world production team member]]}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Julia Dehoff
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Dehoff family]]
+|hidea=
+|job=Fashion designer
+|loyalty=
+}}
+'''Julia Dehoff''' was a [[Non-magic people|Muggle]] fashion designer. Some of her designs were featured in the [[Costume Materialization]] collection opening that was held on [[28 September]], [[1997]], alongside the work of fellow fashion designers [[Emma Vane (Muggle)|Emma Vane]] and [[Mauricio Carneiro]].<ref name="HPLE">{{HPLE|G}} {{see image|File:CostumeMaterialization.jpg}}</ref>
+
+==Behind the scenes==
+*This character was named after [[Julia Dehoff-Bourne]], who worked as a draughtsman on several [[Harry Potter films|''Harry Potter'' films]].<ref>{{IMDb name|0215005|Julia Dehoff}}</ref>
+
+==Appearances==
+*{{DH|F1}} {{Mentioned on a poster}}
+*{{HPLE}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Dehoff, Julia}}
+[[fr:Julia Dehoff (Moldue)]]
+[[pl:Julia Dehoff]]
+[[Category:Dehoff family|Julia]]
+[[Category:Fashion designers]]
+[[Category:Females]]
+[[Category:Muggles]]

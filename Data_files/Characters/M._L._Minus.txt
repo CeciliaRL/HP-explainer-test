@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = macusa
+|image = 
+|name = M. L. Minus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Auror Commissioner]]<ref name="poster">{{FB|F}} {{See image|File:Eleanora Shanks - wanted poster.png}}</ref><ref name="source">{{CB}} - {{See image|File:MACUSA Auror Reference.jpg}}</ref>
+|house = 
+|loyalty = [[Magical Congress of the United States of America]]
+}}
+'''M. L. Minus'''<ref name="source" /> was an American [[Wizardkind|witch or wizard]] and the [[Auror Commissioner]] at the [[Magical Congress of the United States of America]]. Their name often appeared on wanted posters MACUSA made as certification.<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+*{{CB}} {{Mention|poster}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+
+{{DEFAULTSORT:Minus, M. L.}}
+[[fr:M. L. Minus]]
+[[es:M. L. Minus]]
+[[pt-br:M. L. Minus]]
+[[de2:M. L. Minus]]
+[[pl:M. L. Minus]]
+[[Category:American individuals]]
+[[Category:Aurors]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Wizards]]

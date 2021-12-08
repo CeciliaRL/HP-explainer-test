@@ -1,0 +1,49 @@
+{{MagicAwakenedSpoiler}}
+{{Transcribed image|File:Memorandum Rodentium.png}}
+{{Individual infobox
+|theme=macusa
+|image=
+|name=F. Wakefield
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=[[Magical Congress of the United States of America]] employee
+|house=
+|loyalty=[[Magical Congress of the United States of America]]
+}}
+'''F. Wakefield''' was an [[United States of America|American]] [[wizardkind|wizard or witch]] who worked for the [[Magical Congress of the United States of America]] in the [[1920s]].<ref name="cob">{{CB}} {{see image|File:Memorandum Rodentium.png}}</ref>
+
+==Biography==
+On [[7 December]] [[1926]], [[Y. Blishen]] sent a [[Memorandum Rodentium|rat memo]] to "all 2nd Floor Sorcery Staff," including F. Wakefield. The memo notified recipients that, following a vote approving the [[Calufrax Edict]], wand permit requests from aliens (non-U.S. citizens) would have to be filed with a variety of new codes.<ref name="cob" />
+
+==Appearances==
+*{{FB|F}} {{C|Mentioned on a document}}
+*{{CB}} {{C|Mentioned on a document}}
+
+==Notes and references==
+{{Reflist}}{{MACUSA}}
+{{DEFAULTSORT:Wakefield, F.}}
+[[es:F. Wakefield]]
+[[Category:American individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Wakefield family|F.]]
+[[Category:Wizards]]

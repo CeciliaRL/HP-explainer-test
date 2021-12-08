@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = wizard
+|image = Twinkle.png
+|name = Twinkle
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality =
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Owner of [[Twinkle's Telescopes]]
+|house = 
+|loyalty = [[Twinkle's Telescopes]]
+}}
+'''Twinkle''' was a [[Wizardkind|wizard or witch]] and the owner of [[Twinkle's Telescopes]], a shop in [[Diagon Alley]] that sold [[Astronomy (class)|Astronomical]] equipment such as [[telescope]]s, [[moon chart]]s and [[star chart]]s.<ref>{{PS|IE}} {{see image|File:Twinkle's Telescopes.png}}</ref>
+
+==Behind the scenes==
+*Illustrator [[Jim Kay]] revealed that Twinkle's Telescopes was named after a real shop in {{w|Mansfield}}, "Sally Twinkles".<ref name="JimKayComment">[https://www.youtube.com/watch?v=PDPcGdt40RU Jim Kay Illustrator - Create Expo 2016] {{c|from 26:05 to 26:12}}</ref>
+*Twinkle as a surname is rather uncommon, with the highest concentration in [[Bangladesh]], then [[India]].<ref>[https://forebears.io/surnames/twinkle Twinkle Surname Origin, Meaning & Last Name History] at Forebears: Names & Genealogy Resources</ref>
+
+==Appearances==
+*{{PS|IE}} {{1st Mention}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley North Side}}
+
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

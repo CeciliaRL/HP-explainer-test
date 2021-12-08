@@ -1,0 +1,40 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Double-ended-newt wizard
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="POA4"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POA4"/>
+|gender = Male<ref name="POA4"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Magical Menagerie]]<ref name="POA4"/>
+}}
+On [[31 August]], [[1993]], this '''[[Wizardkind|wizard]]''' visited the [[Magical Menagerie|Magical Menagerie&nbsp;in]] [[Diagon Alley]], [[London]]. He was advised by the [[Magical Menagerie saleswoman]] on how to care for [[Double-ended Newt|double-ended newts]], before leaving the shop.<ref name="POA4">{{POA|B|4}}</ref>
+
+==Appearances==
+*{{POA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

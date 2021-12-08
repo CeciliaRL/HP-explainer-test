@@ -1,0 +1,48 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = vampire
+|image = 
+|name = Count Dracula
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = Hungarian
+|alias = 
+|title = Count
+|signature = 
+|species = [[Vampire]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''[https://en.wikipedia.org/wiki/Count_Dracula Count Dracula]''' is a fictional character created by [[Non-magic people|Muggle]] author [[Bram Stoker]], who appears as the title character and main antagonist in his 1897 Gothic horror novel, ''[https://en.wikipedia.org/wiki/Dracula Dracula]''. Dracula, a [[vampire]], was, inspired by [[Vlad Drakul]], father of [[Vlad the Impaler]].
+
+==Behind the scenes==
+*In an early version of {{POA|FA}}, [[Parvati Patil]]'s [[boggart]] would have taken the form of Dracula, who would have been forced into the clothing of {{wplink|Carmen Miranda}} when [[Boggart-Banishing Spell|Riddikulus]] was used.<ref>[http://imsdb.com/scripts/Harry-Potter-and-the-Prisoner-of-Azkaban.html ''Prisoner of Azkaban'' script at the Internet Movie Script Database] (archived [http://web.archive.org/web/20090216093016/http://imsdb.com/scripts/Harry-Potter-and-the-Prisoner-of-Azkaban.html here] via the Internet Archive's Wayback Machine)</ref> The role was even cast, with [[Yana Yanezic]] set to play the part, though it is unknown if it was ever filmed.<ref>[http://www.castingcallpro.com/uk/view.php?uid=50675 Yana Yanezic's agency profile]</ref>
+*[[Sirius Black]] actor [[Gary Oldman]] played Dracula in the [[Wikipedia:Bram Stoker's Dracula|1992 film]] directed by {{w|Francis Ford Coppola}}.
+
+==Appearances==
+*{{POA|F}} {{C|Cut from final film}}
+*{{POA|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dracula}}
+[[Category:European individuals]]
+[[Category:Fictional characters]]
+[[Category:Males]]
+[[Category:Nobility]]
+[[Category:Vampires]]

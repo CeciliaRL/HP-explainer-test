@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+'''Ethan Bexley''' was a [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+He came into possession of a rare [[Chudley Cannons]] card during the [[1996–1997 school year]]. However, when [[Harry Potter]] wanted a Chudley Cannons card to give to [[Ronald Weasley|Ron Weasley]], Ethan agreed to give his to Harry in exchange for an equally uncommon [[Viktor Krum]] [[Miniature figurine of Viktor Krum|figurine]]. He also competed in the school [[Exploding Snap]] tournament during that term.
+
+==Etymology==
+"Ethan" means "solid, enduring" in Hebrew.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bexley, Ethan}}
+[[pl:Ethan Bexley]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Exploding Snap players]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

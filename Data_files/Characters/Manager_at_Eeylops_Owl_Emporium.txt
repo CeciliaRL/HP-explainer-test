@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Manager at Eeylops Owl Emporium.png|250px]]
+|name = Manager at Eeylops Owl Emporium
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Bald
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Manager at [[Eeylops Owl Emporium]]
+|house = 
+|loyalty = *[[Eeylops Owl Emporium]]
+*[[Diagon Alley]]
+}}
+{{Quote|Harry Potter, yes? I understand you seek an [[Eagle Owl feather]]. For three [[Sickle]]s, I will allows you to go out to the back and fetch one for yourself.|The manager|Harry Potter and the Philosopher's Stone (video game)}}
+
+This '''individual''' was the manager of [[Eeylops Owl Emporium]] in [[Diagon Alley]]. In [[1991]]-[[1992]] he sold [[Harry Potter]] the [[Eagle owl feather|feather]] of his own [[Eagle owl]] which were sleeping in the owlery-department of the shop.<ref>{{PS|G}} {{C|PlayStation version only}}</ref> The feather was worth three [[Sickle]]s. During the [[Christmas holidays]] in [[1992]], he went [[bird-watching]] in [[Wales]], leaving his [[Eeylops Owl Emporium|shop]] closed.<ref>{{COS|G}} {{C|PlayStation version only}}</ref> He eventually returned some time later however.
+
+==Behind the scenes==
+{{Quote|You've got your feather, I see. Well done, and thank you very much. Do call again soon, Harry, and give my regards to [[Hedwig]]. Cheerio.|The manager|Harry Potter and the Philosopher's Stone (video game)}}
+*It is unknown if this individual owned the shop or simply worked as manager there. If the former is correct, his name may be Eeylops.
+*The fact that he asks Harry to give his regards to Hedwig may imply that either they were good friends, or he was the one who sold Hedwig. It is unknown how he learned of Hedwig's name, given that Harry gave her that name after Hagrid bought her him.
+*In the Game Boy Color version of the [[Harry Potter and the Philosopher's Stone (video game)|video game adaptation]] of {{PS}}, this man claims that children not yet in [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] cannot purchase [[owl]]s at the shop. This cannot be considered [[canon]], however, as it is contradicted by the ability to do so in {{PM}}.
+
+==Appearances==
+*{{PS|G}} {{Comment|PS1 version, GBC version}}
+*{{COS|G}} {{Comment|Indirect mention}}
+
+==Notes and references==
+{{Reflist}}{{Diagon Alley}}
+
+[[es:Empleado no identificado del Emporio de la Lechuza]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = Justin Steele.jpg
+|name = Justin Steele
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="HBPG"/>
+|eyes = Brown<ref name="HBPG"/>
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+*[[Ravenclaw]]<ref name="HBPG"/>
+}}
+'''Justin Steele''' was a [[Wizardkind|wizard]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="HBPG"/>
+
+==Biography==
+In [[1996]], he stood at the entrance to [[Horace Slughorn]]'s compartment on the [[Hogwarts Express]], ensuring that only those who had received an invitation were allowed to enter. Later that same term, he, [[Daisy Corran]], and [[Banga O'Deluga]] gave [[Harry Potter]] two [[Beater's bat]]s in exchange for six [[Gobstones]] while in the [[The Quad|Paved Courtyard]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+The name "Justin" comes from the Latin name Iustinus, which was derived from Justus. This was the name of several early saints including Justin Martyr, a Christian philosopher of 2nd century who was beheaded in Rome. It was also borne by two Byzantine emperors. As an English name, it has occasionally been used since the late Middle Ages, though it did not become common until the 20th century.
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|console version]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console version}}
+*{{HBP|G}} {{Comment|NDS and PSP version only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Steele, Justin}}
+[[pl:Justin Steele]]
+[[fr:Justin Steele]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

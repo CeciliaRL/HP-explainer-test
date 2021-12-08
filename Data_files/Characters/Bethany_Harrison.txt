@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = muggle
+|image = [[File:Bethany Harrison.png|250px]]
+|name = Bethany Harrison
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Blonde
+|eyes = Blue
+|skin = White
+|family = [[Don Harrison]] (father)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|I'm Bethany Harrison… I'm not meant to talk to strangers. And you two are ''very'' strange.|Bethany introduces herself|Fantastic Beasts: Cases from the Wizarding World}}
+
+'''Bethany Harrison''' was a [[Great Britain|British]] [[Non-magic people|Muggle]] child, the daughter of [[Don Harrison]], a construction foreman.
+
+==Biography==
+Bethany made a [[Bethany Harrison's sketch|sketch]] of a [[Winifred Whittle|witch]] that provided a clue for [[Mathilda Grimblehawk]] and her partner investigating the [[magic]]al [[beast]] attack at the construction site.
+
+Soon after, Bethany went missing, although the flowers in her [[Bethany Harrison's toybox|toybox]] provided further clues as to her possible whereabouts. Her [[Bethany Harrison's fairy necklace|fairy necklace]] was later found in [[Winifred Whittle]]'s [[Winifred Whittle's cottage|cottage]] and she was ultimately escorted out of the forest by [[Magnus]], a [[centaur]].<ref>{{FBC|3}}</ref>
+
+Her memory was later [[Memory Charm|Obliviated]].<ref>{{FBC|3|4}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Harrison, Bethany}}
+[[pl:Bethany Harrison]]
+[[fr:Bethany Harrison]]
+[[ru:Бетани Харрисон]]
+[[Category:Artists]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggles]]

@@ -1,0 +1,47 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Jeremy Clarkson
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Host of ''[[Top Gear]]'' ([[2002]] - [[2015]])
+|house = 
+|loyalty = ''[[Top Gear]]''
+}}
+'''Jeremy Clarkson''' is a [[Great Britain|British]] broadcaster and journalist best known as the co-presenter of the [[television]] programme ''[[Top Gear]]''. In [[2015]], the [[wikipedia:BBC|BBC]] announced it was cancelling Clarkson's contract after he verbally and physically attacked one of the show's producers, thus leading to an [[Internet|online]] petition to reinstate him.<ref name="twitter"/>
+
+Among those who signed the petition was [[Vernon Dursley]], who stated that ''Top Gear'' was the only reason he paid his [[wikipedia:television licence|television licence]], which all British households are required to pay yearly in order to legally view television broadcasts.<ref name="twitter">[https://twitter.com/jk_rowling/status/622157481582698496 Tweet from J.K. Rowling]</ref>
+
+==Appearances==
+*[[J. K. Rowling's Twitter account]] {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Clarkson, Jeremy}}
+
+[[pt-br:Jeremy Clarkson]]
+[[Category:British individuals]]
+[[Category:Broadcasters]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Television]]

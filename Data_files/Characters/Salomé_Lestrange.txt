@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = wizard
+|name = Salomé Lestrange
+|marital = Married
+|species = [[Human]]
+|gender = Female
+|blood = [[Pure-blood]]
+|family = *[[Falco Lestrange]] (husband)
+*[[Eglantine Lestrange]] (daughter)
+*[[Leonie Tremblay]] (daughter)
+*[[Corvus Lestrange (I)|Corvus Lestrange]] (father-in-law)
+*[[Heloise Lestrange]] (mother-in-law)
+*[[Corvus Lestrange (II)|Corvus Lestrange]] (brother-in-law)
+*[[Corvus Lestrange (III)|Corvus Lestrange]] (son-in-law)
+*[[Bernard Tremblay]] (son-in-law)
+*[[Corvus Lestrange (IV)|Corvus Lestrange]] (grandson)
+*[[Clarisse Lestrange]] (granddaughter)
+*[[Falco Tremblay]] (grandson)
+*[[Leta Lestrange]] (great-granddaughter)
+*[[Corvus Lestrange (V)|Corvus Lestrange]] (great-grandson)
+*[[Volant family]]
+*[[Lestrange family]] (in-laws)
+|loyalty = 
+*[[Volant family]]
+*[[Lestrange family]]
+|image = Salome Volant.jpg}}
+'''Salomé Lestrange''' (née '''Volant''') was a [[Wizardkind|witch]] and a member of the [[pure-blood]] [[Lestrange family]]. She married [[Falco Lestrange]] and had two daughters with him, [[Eglantine Lestrange|Eglantine]] and [[Leonie Tremblay|Leonie]].<ref>{{COG}} {{see image|File:LestrangeFamilyTree HighRes.png}}</ref>
+
+==Etymology==
+Salomé is an Aramaic name which was related to the Hebrew word שָׁלוֹם (shalom) meaning "peace".
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Lestrange, Salomé}}
+[[pl:Salomé Lestrange]]
+[[ru:Саломе Лестрейндж]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Lestrange family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Volant family]]
+[[Category:Wizards]]

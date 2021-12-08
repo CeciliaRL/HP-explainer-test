@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref name="age">She was at least in her first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Female<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Hufflepuff]]<ref name="HBPG"/>
+}}
+'''Zara Valli''' was a [[Wizardkind|witch]] and [[Hufflepuff]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. On the [[2 September|first]] day of the [[1996–1997 school year]], she had to go to the [[Hogwarts Library|library]], in order to do research for a fifteen-inch essay she had to write for [[Charms (class)|Charms]]. She agreed to give [[Harry Potter]] some [[Moondew]] in exchange for two [[Gobstones]] while there. Later in the year, she could be found in the [[Viaduct]], where she traded Gobstones for [[potion]]s.<ref name="HBPG">{{HBP|G}} - NDS version</ref>
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts Gobstones}}
+{{DEFAULTSORT:Valli, Zara}}
+[[pl:Zara Valli]]
+[[fr:Zara Valli]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gobstones players]]
+[[Category:Hufflepuffs]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

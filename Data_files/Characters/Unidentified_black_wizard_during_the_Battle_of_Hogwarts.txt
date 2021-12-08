@@ -1,0 +1,40 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:HPDH2-1253.jpg|250px]]
+|name = Unidentified black wizard
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF2"/>
+|gender = Male<ref name="DHF2"/>
+|height = 
+|weight = 
+|hair = Black<ref name="DHF2"/>
+|eyes = 
+|skin = Black<ref name="DHF2"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+}}This '''unidentified''' was a [[Wizardkind|wizard]] who was seen leading a group of students on the [[First-floor corridor]] before the [[Battle of Hogwarts]] along with a [[Unidentified woman in a red dress during the Battle of Hogwarts|witch in a red dress]] and a [[Unidentified man in a grey suit during the Battle of Hogwarts|man in a grey suit]]. It is unknown if he survived.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

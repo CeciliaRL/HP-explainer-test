@@ -1,0 +1,40 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Unidentified dustman
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="OOTPF"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTPF"/>
+|gender = Male<ref name="OOTPF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Dustman]]<ref name="OOTPF"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|Come on, you, around the corner.|The man|Harry Potter and the Order of the Phoenix (film)}}
+This '''individual''' was a [[Non-magic people|Muggle]] and a [[dustman]] and in [[1995]] collected rubbish in [[Grimmauld Place]].<ref name="OOTPF">{{OOTP|F}}</ref>
+
+==Appearances==
+*{{OOTP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

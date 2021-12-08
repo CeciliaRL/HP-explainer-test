@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=G. F.
+|hideb=y
+|born=
+|died=
+|blood=
+|marital=Married
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=[[G. F.'s grandfather|Grandfather]]
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''G. F.''' was a married [[wizardkind|witch]] from [[Bulwark]], [[South Wales]]. Her testimonial was included in an advertisement for the [[TerrorTours]] travel agency that was printed in the [[1 June]] [[1999]] issue of the ''[[Daily Prophet]]''. In the testimonial, she claimed [[G. F.'s grandfather|her grandfather]] "enjoyed himself right up until the last moment," suggesting he died during a TerrorTours holiday.<ref name="dp3">''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'', Issue 3 (see [https://www.hp-lexicon.org/character/mrs-g-f/ this entry] on the Harry Potter Lexicon)</ref>
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:F., G.}}
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Welsh individuals]]
+[[Category:Wizards]]

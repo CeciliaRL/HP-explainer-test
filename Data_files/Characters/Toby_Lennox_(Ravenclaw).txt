@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Toby Lennox
+|born = [[31 August]] [[1985]] or earlier<ref>He must have at least been in his first year in 1996.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+'''Toby Lennox''' was a [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He played informal [[Quidditch]] matches with other students during the [[1996–1997 school year|1996-1997 school year]].
+
+==Appearances==
+*{{HBP|G}} {{1st}} {{C|Nintendo DS version only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lennox, Toby}}
+
+[[pl:Toby Lennox (Ravenclaw)]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

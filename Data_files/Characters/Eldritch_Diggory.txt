@@ -1,0 +1,80 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Eldritch Diggory
+|born = pre [[1716]]<ref name="PM Ministers"/>
+|died = [[1747]]<ref name="PM Ministers"/>
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PM Ministers"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PM Ministers"/>
+|gender = Male<ref name="PM Ministers"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Amos Diggory]] (possible descendant)
+*[[Cedric Diggory]] (possible descendant) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = [[Eldritch Diggory's wand|Unknown length, Poplar, unknown core]]<ref name="wands"/>
+|patronus = 
+|job = [[Minister for Magic]]<ref name="PM Ministers"/>
+|house = 
+|loyalty = *[[Diggory family]]<ref name="PM Ministers"/>
+*[[British Ministry of Magic]]<ref name="PM Ministers"/>
+}}
+{{Quote|Back in London, Diggory established a committee to explore alternatives to Azkaban, or at least to remove the Dementors as guards.|Ministry Diggory horrified by Azkaban|Pottermore}}
+'''Minister Eldritch Diggory''' (d. [[1747]]) was [[Minister for Magic]] from [[1733]] to [[1747]].<ref name="PM Ministers"/> He defeated [[Perseus Parkinson]] for reelection in [[1733]] and was reelected at least once.<ref name="PM Azkaban"/>
+
+==Biography==
+[[Minister for Magic|Minister]] Diggory was born into the [[Diggory family]], a [[Wizardkind|wizarding]] family of unknown [[blood status]]. At an unknown point (though probably at age eleven like most children) he bought [[Eldritch Diggory's wand|a wand]] at [[Ollivanders]]. According to [[Garrick Ollivander]], he owned a "fine" [[poplar]] [[wand]].<ref name="wands">{{PM}} wand wood information (transcription available [http://archive.is/20130109102909/lady-slytherin-forever.tumblr.com/post/8977740275/wand-woods-off-of-pottermore here])</ref>
+
+Diggory was later appointed as the [[Great Britain|British]] [[Minister for Magic]]. He was a popular Minister and first established an Auror recruitment programme in Great Britain.<ref name="PM Ministers">{{WW|ministers-for-magic}}</ref>
+
+At some point in his career, Diggory visited [[Azkaban]]. This proved to be a shock for him, since he'd had no idea of the awful conditions inside the prison. Many within the prison died of despair and the rest were mostly [[Insanity|insane]]. When he returned to London, Diggory established a committee to explore alternatives to Azkaban, or at least remove the [[Dementor]]s as guards. Experts argued that if the Dementors were deprived of prisoners' souls on which they could feed, they might abandon the prison and head for the mainland. However, Diggory, being so horrified at what he had seen, continued his search for alternatives nonetheless.<ref name="PM Azkaban">{{WW|azkaban}}</ref>
+
+In [[1747]], Diggory died in office due to a case of [[Dragon Pox]].<ref name="PM Ministers"/><ref name="PM Azkaban"/> This disabled the committee from reaching a decision concerning Azkaban.<ref name="PM Azkaban"/>
+
+==Etymology==
+Eldritch is an English word of uncertain origin meaning "alien, supernatural". The term is most closely related with the works of American horror author {{wplink|H. P. Lovecraft}}, which launched a type of monsters known as "eldritch abominations", of which [[Dementor]]s are sometimes seen as a low-key example.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Perseus Parkinson]]
+|position=[[Minister for Magic]]
+|years=[[1733]] - [[1747]]
+|successor=[[Albert Boot]]
+}}
+{{End box}}
+{{Minister for Magic}}
+{{DEFAULTSORT:Diggory, Eldritch}}
+[[de:Eldritch Diggory]]
+[[es:Eldritch Diggory]]
+[[fr:Eldritch Diggory]]
+[[nl:Eldritch Kannewasser]]
+[[pl:Eldritch Diggory]]
+[[ru:Элдрич Диггори]]
+[[zh:埃德里奇·迪戈里]]
+
+[[Category:1747 deaths]]
+[[Category:British Ministers for Magic]]
+[[Category:Deaths from dragon pox]]
+[[Category:Diggory family]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

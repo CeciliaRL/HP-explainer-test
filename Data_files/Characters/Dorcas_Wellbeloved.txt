@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:DorcasWellbeloved.png|thumb]]
+|name = Dorcas Wellbeloved
+|born = [[1812]]<ref name="COSG">{{COS|G}}</ref>
+|died = [[1904]] (aged 91 - 92)<ref name="COSG">{{COS|G}}</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Red<ref name="COSG">{{COS|G}}</ref>
+|eyes = Green<ref name="COSG">{{COS|G}}</ref>
+|skin = White<ref name="COSG">{{COS|G}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Founder of the [[Society for Distressed Witches]]
+|house = 
+|loyalty = [[Society for Distressed Witches]]
+}}
+'''Dorcas Wellbeloved''' ([[1812]] – [[1904]]) was a [[Wizardkind|witch]] famous for founding the [[Society for Distressed Witches]]. For her charity, she became immortalised on a [[Chocolate Frog Card]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+==Etymology==
+The name "Dorcas" is derived from Greek δορκας (dorkas) meaning "gazelle".
+
+==Appearances==
+{{Imagecat|Images of Dorcas Wellbeloved}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Wellbeloved, Dorcas}}
+
+{{Chocolate Frog Cards}}
+
+[[de:Dorcas Wellbeloved]]
+[[es:Dorcas Wellbeloved]]
+[[fi:Dorcas Wellbeloved]]
+[[fr:Dorcas Bienaimée]]
+[[it:Dorcas Wellbeloved]]
+[[pt-br:Dorcas Wellbeloved]]
+[[ru:Доркас Очаровательная]]
+[[pl:Dorcas Wellbeloved]]
+[[Category:1812 births]]
+[[Category:1904 deaths]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Philanthropists]]
+[[Category:Wizards]]

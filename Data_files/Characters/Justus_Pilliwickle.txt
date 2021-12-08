@@ -1,0 +1,76 @@
+{{Individual infobox
+|theme = mom
+|image = [[File:Justus Pilliwickle.jpg|250px]]
+|name = Justus Pilliwickle
+|born = [[1862]]<ref name="COSG"/>
+|died = [[1953]] (aged 90 - 91)<ref name="COSG"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COSG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="COSG"/>
+|eyes = Blue<ref name="COSG"/>
+|skin = Fair<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Head of Department|Head]] of the [[Department of Magical Law Enforcement]]<ref name="COSG"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="COSG"/>
+**[[Department of Magical Law Enforcement]]<ref name="COSG"/>
+}}
+'''Justus Pilliwickle''' ([[1862]]-[[1953]]) was a [[Great Britain|British]] [[Wizardkind|wizard]], who worked for the [[British Ministry of Magic]].<ref name="COSG">{{COS|G}}</ref>
+
+==Biography==
+Pilliwickle was born in [[1862]], somewhere in [[Great Britain]], into a family of unknown [[Blood status]]. He presumably attended [[Hogwarts School of Witchcraft and Wizardry]] in his youth, being a British wizard. In his adult life, he was a celebrated Head of the [[Department of Magical Law Enforcement]]. He was featured on a [[Chocolate Frog Card]] for his impressive achievements in the [[British Ministry of Magic]].<ref name="COSG"/>
+
+==Etymology==
+''Justus'' is the latin word for equitable. This may indicate that Justus Pilliwickle was quite a fair and reasonable individual.
+
+==Behind the scenes==
+*If Justus Pilliwickle attended [[Hogwarts School of Witchcraft and Wizardry]] in his youth, then he was Sorted in [[1873]] or [[1874]] (depending on his birthday being before or after 1 September, respectively), and would, thus, be on his [[second year|second]], [[third year|third]] or [[fourth year]] in [[1876]], when the school caretaker [[Rancorous Carpe|Mr Rancorous Carpe]] devised an "[[Rancorous Carpe's trap|elaborate trap]]" in an effort to remove [[Peeves]] from the Castle — which only resulted in Peeves getting hold of several cutlasses, crossbows, a blunderbuss and a miniature cannon, and forcing [[Headmaster|Headmistress]] [[Eupraxia Mole]] to evacuate the school for three days until she could manage to make [[Peeves' contract|a bargain with the poltergeist]].
+
+==Appearances==
+{{Imagecat|Images of Justus Pilliwickle}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pilliwickle, Justus}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=Head of the [[Department of Magical Law Enforcement]]
+|years=?-?
+|successor=Unknown, eventually [[Torquil Travers]]
+}}
+{{End box}}
+{{Ministry Level 2 employees}}{{Chocolate Frog Cards}}[[de:Justus Pilliwickle]]
+[[es:Justus Pilliwickle]]
+[[ru:Джастус Пилливикл]]
+[[pl:Justus Pilliwickle]]
+[[fr:Justus Pilliwickle]]
+[[it:Justus Pilliwickle]]
+[[fi:Justus Pilliwickle]]
+[[no:Justus Pilliwickle]]
+[[nl:Justus Pilling]]
+[[zh:贾斯特斯·皮利维克]]
+[[Category:1862 births]]
+[[Category:1953 deaths]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Heads of the Department of Magical Law Enforcement]]
+[[Category:Males]]
+[[Category:Wizards]]

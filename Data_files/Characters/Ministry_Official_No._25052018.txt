@@ -1,0 +1,42 @@
+{{Conjecture}}{{Individual infobox
+|theme = mom
+|image = 
+|name = Ministry Official No. 25052018
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Ministry of Magic Official
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[British Ministry of Magic|Ministry of Magic]] official
+|house = 
+|loyalty = [[British Ministry of Magic|Ministry of Magic]]
+}}
+'''Ministry Official No. 25052018''' was a [[wizardkind|wizard or witch]] who worked at the [[British Ministry of Magic|Ministry of Magic]]. They validated a [[Volunteer Registration]] form.<ref>{{WU}}</ref>
+
+==Appearances==
+* {{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Ministry of Magic employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

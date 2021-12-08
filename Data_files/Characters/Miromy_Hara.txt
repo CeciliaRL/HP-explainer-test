@@ -1,0 +1,37 @@
+{{Transcribed image|File:Marauder's_Map_POA_ILL.png}}
+{{Individual infobox
+|theme=individual
+|image=Miromy Hara.png
+|name=Miromy Hara
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=
+|gender=
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+}}
+
+'''Miromy Hara''' was an individual seen in the [[Hogwarts Castle#Fifth Floor|Fifth Floor]] on the [[Marauder's Map]] in the [[1993-1994 school year]]. <ref>{{POA|B|10}} {{comment|Illustrated Edition}}</ref>
+
+==Appearances==
+*{{POA}} {{comment|Illustrated Edition}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]

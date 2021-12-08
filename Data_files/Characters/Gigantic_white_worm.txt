@@ -1,0 +1,20 @@
+{{Conjecture}}
+This '''worm''' appeared in ''[[The Fountain of Fair Fortune]]'' in {{TBB}}. It was described as bloated and blind, with the ability to speak.<ref name="TBBF" />
+
+==History==
+The worm was the first obstacle on the way to the [[Fountain (The Fountain of Fair Fortune)|fountain]], wrapping around the base of the hill. [[Sir Luckless]] attempted to slay the worm with his sword, and [[Altheda]], [[Asha]] and [[Amata]] used magic against it, but the worm refused to let them pass until Asha began to weep. Then, it drank her tears and allowed the travellers to continue to the fountain.<ref name="TBBF">{{TBB|F}}</ref>
+
+==Appearances==
+*{{TBB|R}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Tales of Beedle}}
+[[es:Gusano gigante blanco]]
+[[pl:Glista]]
+
+[[Category:Fictional characters|White worm]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Invertebrates]]
+[[Category:The Fountain of Fair Fortune]]

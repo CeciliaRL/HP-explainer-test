@@ -1,0 +1,82 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Dymphna.jpg|250px]]
+|name = Dymphna Furmage
+|born = [[1612]]
+|died = [[1698]] (aged 85-86)
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Red
+|eyes = Green
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[British Ministry of Magic]]
+}}
+{{Quote|Famously abducted by pixies while on holiday on Cornwall and lived in mortal dread of them thereafter. Failed to persuade the Ministry of Magic to have all pixies humanely destroyed.|[[Chocolate Frog Card]]|Harry Potter and the Prisoner of Azkaban (video game)}}
+'''Dymphna Furmage''' ([[1612]]—[[1698]]) was a [[Great Britain|British]] [[Wizardkind|witch]] who famously campaigned for the destruction of [[Pixie]]s after being abducted by them while holidaying in [[Cornwall]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+==Biography==
+[[File:DymphnaFurmageCSgbc.png|150px|thumb|left|A younger Dymphna]]
+===Early life===
+Ms. Furmage was born in [[1612]], somewhere in the [[Great Britain|British Isles]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref> If she enrolled at [[Hogwarts School of Witchcraft and Wizardry]], she attended the school from around [[1623]] to [[1630]].
+
+===Adulthood===
+Sometime in the mid to late [[17th century|seventeenth century]], Furmage went on holiday to [[Cornwall]], in southwest [[England]]. There, she was the victim of an abduction by [[Pixie]]s, a species of pesky [[beast]] endemic to the region. As a result Ms. Furmage developed a mortal dread of them for the rest of her life.<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+[[File:DymphnaFurmagePOA.jpg|150px|thumb|Ms Furmage is abducted by [[Pixie]]s]]
+Later, and most assuredly fuelled by her fear of the [[Pixie]]s, she strongly campaigned for the [[British Ministry of Magic]] to "humanely [destroy]" all of the species. She failed, however, and ended up dying in [[1698]], still in mortal dread of the mischievous [[creature]]s. For her efforts, she was included on a [[Famous Witches and Wizards Cards|Famous Witch Card]], as part of the [[Chocolate Frog Card]] series.<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+==Etymology==
+*The name "Dymphna" is the anglicised form of ''Damhnait''. [[Wikipedia:Dymphna|Saint Dymphna]] was a seventh-century [[Ireland|Irish]] saint who was martyred by her father. She is the patron saint of the mentally ill.
+*"Furmage" is an alternate form of the Old French word "fromage," meaning cheese. It is descended from the Latin "formare," meaning "to shape" or "to fashion."
+
+==Behind the scenes==
+*The [[British Ministry of Magic]] was founded in [[1707]], nearly ten years after her [[death]]. it is possible that she tried to convince the [[Wizard's Council]], or that she returned as a [[ghost]].
+ 
+==Appearances==
+{{Imagecat|Images of Dymphna Furmage}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{PM}} {{C|Appears on a Chocolate Frog card}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Furmage, Dymphna}}
+
+{{Chocolate Frog Cards}}
+[[de:Dymphna Furmage]]
+[[es:Dymphna Furmage]]
+[[ru:Димфна Фурмаг]]
+[[pl:Dymphna Furmage]]
+[[it:Dymphna Furmage]] 
+[[fi:Dymphna Furmage]]
+[[nl:Dymphna Voorburg]]
+[[fr:Dymphna Furmage]]
+[[zh:迪芙娜·弗马吉]]
+[[Category:1612 births]]
+[[Category:1698 deaths]]
+[[Category:Activists]]
+[[Category:British individuals]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Historical figures]]
+[[Category:Ministry of Magic allies]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizards]]

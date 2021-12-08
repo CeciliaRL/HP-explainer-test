@@ -1,0 +1,75 @@
+{{Individual infobox
+|image = LaurenaKama-0.jpg
+|name = Laurena Kama
+|born = before [[1867]]<ref>[[Yusuf Kama]] was 12 years old in [[1896]]. As Laurena was his mother, she had to be older than he, and was presumably at least 17 at the time he was born in 1884.</ref>
+|died = Between [[September]] [[1896]] and late [[April]], [[1897]]<ref name="s101">{{COG|S|101}} specifies Leta was conceived in 1896, meaning she must have been born in the year's ninth month or later, and also reveals Laurena died giving birth to Leta.</ref><ref>{{COG|S|67}} - Leta is revealed as being already 13 towards the end of the 1910 winter term, thus she can't have been born any later than April 1897.</ref><br/>[[Lestrange Manor]]
+|blood = [[Pure-blood]]
+|alias =
+|title =
+|signature = 
+|marital = Married
+|nationality = [[France|French]]
+|species = [[Human]]
+|gender = Female
+|hair = 
+|skin = 
+|eyes =
+|weight =
+|height =
+|family = *[[Mustafa Kama]] (first husband) †
+*[[Corvus Lestrange (IV)|Corvus Lestrange]] (second husband, unwillingly) †
+*[[Yusuf Kama]] (son)
+*[[Leta Lestrange]] (daughter) †
+*[[Corvus Lestrange (III)|Corvus Lestrange]] (father-in-law)
+*[[Eglantine Lestrange]] (mother-in-law)
+*[[Kama family]]
+*[[Lestrange family]]
+|wand =
+|boggart =
+|patronus =
+|animagus =
+|job =
+|house =
+|loyalty = *[[Kama family]]
+*[[Lestrange family]] (unwillingly)
+|theme = wizard
+}}
+'''Laurena Kama''' (fl. [[1896]]) was a [[France|French]] [[pure-blood]] [[Wizardkind|witch]], wife to [[Mustafa Kama]] and the coerced wife of [[Corvus Lestrange (IV)|Corvus Lestrange]]. She was the mother of both [[Yusuf Kama]] and [[Leta Lestrange]].<ref name="ss">''[https://www.snitchseeker.com/harry-potter-news/fantastic-beasts-2-spoilers-out-on-yusuf-kamas-ties-to-leta-lestrange-and-credence-110686/ 'Fantastic Beasts' 2 spoilers out on Yusuf Kama's ties to Leta Lestrange & Credence]'' at [https://www.snitchseeker.com/ Snitch Seeker]</ref>
+
+==Biography==
+Hailing from a [[pure-blood]] family and happily married to the [[Senegal]]ese pure-blood [[Mustafa Kama]], Laurena was put under the [[Imperius Curse]] by [[Corvus Lestrange (IV)|Corvus Lestrange]] and forced to bear a daughter with him. Laurena died after giving birth to [[Leta Lestrange]].<ref name="s101"/>
+
+==Behind the scenes==
+*Laurena Kama is played by [[Isaura Barbé-Brown]] in {{COG}}.<ref>http://www.imdb.com/name/nm3769549/?ref_=ttfc_fc_cl_t65</ref>
+*Though her marriage to Corvus was not directly stated, it is strongly implied by Yusuf's words that Corvus "remarried not three months after her death".<ref>{{COG|S|103}}</ref>
+*Her second marriage can be seen as similar to that of [[Merope Riddle]] and [[Tom Riddle Senior|Tom Riddle Snr]]. Both Laurena and Riddle Senior were forced into marriage and did not rear the resultant children. Riddle Senior abandoned his son, [[Tom Riddle]], whereas Laurena died giving birth, possibly similar to Merope who died an hour after giving birth.
+*It is also noteworthy that Corvus used the Imperius Curse as opposed to a love potion as to prevent any ill effects on his daughter.
+
+==Appearances==
+{{Imagecat|Images of Laurena Kama}}
+*{{COG|S}} {{1st}}
+*{{COG}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Kama, Laurena}}
+[[de:Laurena Kama]]
+[[de2:Laurena Kama]]
+[[es:Laurena Kama]]
+[[fr:Laurena Kama]]
+[[pl:Laurena Lestrange]]
+[[ru:Лорена Лестрейндж]]
+[[Category:1890s deaths]]
+[[Category:19th century births]]
+[[Category:Deaths in childbirth]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Forcibly-married individuals]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Imperius Curse victims]]
+[[Category:Kama family]]
+[[Category:Lestrange family]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

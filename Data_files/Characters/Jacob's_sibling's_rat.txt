@@ -1,0 +1,34 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Imageless}}
+{{Pet individual infobox
+|image = 
+|name = Jacob's sibling's rat
+|born = [[1989]] or earlier<ref name="TWS">{{HM|5|The Trouble with Scabbers}}</ref>
+|died = 
+|alias = 
+|title = 
+|species = [[Rat]]<ref name="TWS"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Jacob's sibling]] (owner)<ref name="TWS"/>
+}}
+This '''[[rat]]''' was acquired by [[Jacob's sibling]] around the [[1988–1989 school year]], when [[Charles Weasley|Charlie Weasley]] asked them to help his brother [[Percy Weasley|Percy]] with Percy's pet [[Peter Pettigrew|Scabbers]]. Scabbers had been acting oddly during that time and Charlie believed that being around another rat might help him calm down.<ref name="TWS" />
+
+==Behind the scenes==
+*Several fur patterns are available for purchase in the game. However, the player has to first purchase the rat with the default look before being able to select other varieties. It may be purchased before the quest, leading to minor dialogue changes. 
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Stub}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Jacob's sibling's pets]]
+[[Category:Rats]]

@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Lennox Campbell
+|born = Before [[1982]]<ref> As he was employed by the [[Montrose Magpies]] by 1999, he was presumably over 17.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Angus Campbell]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] for the [[Montrose Magpies]]
+|house = 
+|loyalty = [[Montrose Magpies]]
+}}
+'''Lennox Campbell''' was a [[Great Britain|British]] [[Wizardkind|wizard]] and the [[Seeker]] for the [[Montrose Magpies]].<ref name="wizardsc">"[http://www.hplex.info/wizards/a-z/c.html Wizards, Witches and Beings: C]" on the Harry Potter Lexicon.</ref><ref>[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[1 June|June 1st]], [[1999]], Page 4</ref>He once failed to catch the [[Golden Snitch]] when it was kicked at him by a [[Chaser]] on his team.<ref name="wizardsc" /> The Chaser who did this was presumably [[Alasdair Maddock]], who had an obsession with [[Non-magic people|Muggle]] sports, and was known to have tried football techniques during at least two matches.<ref>"[http://www.hplex.info/about/sources/source_dp.html Daily Prophet newsletters]" on The Harry Potter Lexicon</ref>
+
+==Etymology==
+"Lennox" is from a Scottish surname which was derived from the name of a district in Scotland, the Levenach.
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Campbell, Lennox}}
+
+[[pl:Lennox Campbell]]
+[[ru:Леннокс Кэмпбелл]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Wizards]]

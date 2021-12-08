@@ -1,0 +1,40 @@
+{{HogwartsMysterySpoiler}}
+{{Youmay|the ''Hogwarts Mystery'' character|[[Mildred Peebles]], or [[Mildred (1920s)|Mildred]], the ex-fiancée of [[Jacob Kowalski]]}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mildred
+|born = Before [[1990]]<ref name="HM714A">{{HM|7|14|Catastrophe Clean-Up}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM714A"/>
+|gender = Female<ref name="HM714A"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Unidentified witness (II)|Unidentified witness]] {{C|cousin}}<ref name="HM714A"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mildred''' was a resident of a village in [[Northumberland]]. During the [[1990–1991 school year]], she protected the bystanders with [[Unidentified witness (II)|her cousin]] when an [[Explosion in Northumberland|explosion]] occurred.<ref name="HM714A"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Humans]]

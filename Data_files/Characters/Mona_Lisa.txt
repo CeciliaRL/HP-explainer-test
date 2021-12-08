@@ -1,0 +1,56 @@
+{{Real world subject}}
+{{Individual infobox
+|image = MonaLisaCOS.jpg
+|name = Lisa del Giocondo
+|born = 
+|died = 
+|blood = 
+|nationality = [[Italy|Italian]] {{c|presumably}}
+|alias = Mona Lisa
+|title = 
+|marital = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|skin = White
+|hair = Dark
+|eyes = Dark 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty 
+|theme = portrait
+}}
+'''Lisa del Giocondo''',<ref name="model"/> better known as '''Mona Lisa'''<ref name="painting">{{wikilink}}</ref> (archaic [[Italy|Italian]] for '''Lady Lisa'''), was a [[Wizardkind|witch]]<ref name="witch">Portraits in the wizarding world (moving portraits), are known to depict dead witches and wizards (see {{WW|hogwarts-portraits}}).</ref> whose [[portrait]] was well-known in both [[Non-magic world]] and [[Wizarding world]].
+
+==Biography==
+She was depicted in an [[Portrait|oil painting]] by the Florentine artist [[Leonardo Da Vinci|Leonardo da Vinci]] completed circa [[1503]]–[[1519]]. A copy of her portrait was hung in the [[Hospital Wing]] at [[Hogwarts Castle|Hogwarts School of Witchcraft and Wizardry]].<ref name="CSpc">{{COS|G}} - PC version</ref>
+
+In [[1927]], [[France|French]] wizarding newspaper ''[[Le Cri de la Gargouille]]'' reported Mona Lisa forgetting to return to her painting.<ref name="COG">{{COG}} {{see image|File:Le Cri De La Gargouille.jpg}} - ''"Mona Lisa oublie de retourner dans son cadre - "J'étais distraite !" prétend-elle"''</ref>
+
+In [[1996]], the newspaper ''[[The Guardian]]'' reported that "famous painting the Mona Lisa is to appear in latest Tango ads".<ref name="HBPF">{{HBP|F}} {{see image|File:TheGuardian.png}}</ref>
+
+==Behind the scenes==
+*In the real-world [[21st century]], Lisa del Giocondo (née Gherardini, [[15 June]] [[1479]]–[[15 July]] [[1542]] or c. [[1551]]), a member of the Gherardini family of {{w|Florence}} and {{w|Tuscany}} in [[Italy]], is generally believed to be the subject of the painting, ''Mona Lisa''.<ref name="painting"/><ref name="model">{{wikilink|Lisa del Giocondo}}</ref>
+
+==Appearances==
+*{{COS|G}} {{1st}} {{Portrait}} {{C|PC version}}
+*{{HBP|F}} {{C|Picture in newspaper}}
+*{{COG}} {{Mention|newspaper}}
+*{{HPLE}} {{C|Picture in newspaper}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Italian individuals]]
+[[Category:Nobility]]
+[[Category:Portraits]]
+[[Category:Wizards]]

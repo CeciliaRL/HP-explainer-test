@@ -1,0 +1,76 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = dark-wizard
+|image = Wizard in white.png
+|name = White-robed wizard
+|born = Before [[1983]]<ref name="age">The starting age at [[Mahoutokoro School of Magic|Mahoutokoro]] was seven years.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Japan]]ese
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Black
+|eyes = Brown
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core
+|patronus = 
+|job = Assassin
+|house = 
+|loyalty = *[[Mahoutokoro]] (formerly)
+*[[R]]
+}}
+This '''white-robed [[Wizardkind|wizard]]''' was a [[Dark Wizard]] sent to kill [[Jacob's sibling]] and [[Merula Snyde]]. He was a former student at [[Mahoutokoro]] in [[Japan]].
+
+==Biography==
+This wizard was once a student at [[Mahoutokoro School of Magic]] who was expelled, presumably for practising the [[Dark Arts]].
+
+At some point, he travelled from his native [[Japan]] to [[England]] and successfully made a name for himself in the figurative underworld of wizarding [[Great Britain|Britain]], and eventually even joined the dangerous organisation known as the [[R]].<ref name="HM61">{{HM|6|1}}</ref>
+
+Known to visit the street of shops and vendors specialising in the darker forms of magic in [[London]] known as [[Knockturn Alley]] on occasion, at some point in [[1989]], said dodgy place became the stage for a [[Duelling|duel]] between the wizard in question and fellow criminal [[Mundungus Fletcher]], whom he defeated.<ref name="HM510">{{HM|5|10}}</ref>
+
+The wizard was eventually caught by [[Auror]]s, but before he could be sent to [[Azkaban]], he managed to escape custody. After escaping, he pursued [[Jacob's sibling]] and [[Merula Snyde]] at [[Hogwarts School of Witchcraft and Wizardry]] with the initial intention of murdering them.<ref name="HM613">{{HM|6|13}}</ref>
+
+Some time later, this wizard was tasked by [[R]] to capture Jacob's sibling and bring them to the hideout of their organisation in an effort to recruit them into their ranks. Having successfully gained access to the school grounds, and was able to corner them and another student near the [[Great Lake]], along with one of their fellow students, [[Beatrice Haywood]]. Without hesitation, he [[Ambush at the Great Lake|cast a powerful spell]] on Jacob's sibling,<ref name="HM615">{{HM|6|15}}</ref> but before he could do anything else, their older brother and known adversary of 'R', [[Jacob (Hogwarts student)|Jacob]], arrived and chased him off.<ref name="HM617">{{HM|6|17}}</ref> Following this incident, [[Auror]]s from the [[British Ministry of Magic|Ministry of Magic]] was dispatch to apprehend him, only for him to evade capture. He fled the Hogwarts grounds following the [[duel in the Forest Grove]].<ref name="HM619">{{HM|6|19}}</ref>
+
+The wizard was caught by [[Alastor Moody]] following a [[Skirmish in Knockturn Alley (1989–1990)|skirmish in Knockturn Alley]].<ref name="HM635"/>
+
+==Personality and traits==
+This individual appeared to be a cold-blooded and ruthless assassin. It was initially believed he intended to kill [[Jacob's sibling]], but claimed he was going to take them to [[R]] so they would become their next leader someday.<ref name="HM635">{{HM|6|35}}</ref>
+
+==Magical abilities and skills==
+*'''[[Dark Arts]]''': As a [[Dark Wizard]] who worked as an assassin, he was highly proficient in dark magic, which, given his profession, presumably included the [[Unforgivable Curses]].
+*'''[[Duelling]]''': An accomplished duelist, this warlock at one point defeated [[Mundungus Fletcher]] in a duel, who attributed his victory partially to the man's unusual [[Accepted combative position|stance]] and strange [[incantation]]s. Later, he was notably able to neutralise the entire guard that was supposed to bring him to Azkaban, among them some of the best [[Auror]]s under [[Alastor Moody]]'s command. Upon finally encountering his target at Hogwarts, he proved quick enough to be able to incapacitate [[Jacob's sibling]] with a single spell before they got a chance to protect themselves. He was, however, unable to beat the famed [[Alastor Moody]], who successfully was able to disarm and capture him by means of the [[Incarcerous Spell]], binding him with robes. 
+*'''[[Nonverbal spell|Nonverbal magic]]''': This wizard could cast spells without having to say them out loud, as demonstrated when he floored Jacob's sibling with a silent spell upon finally cornering them, and later in his duel with [[Alastor Moody]].
+
+==Possessions==
+*'''[[Wand]]''': He was in ownership of a wand, which was of unknown length, [[Wand wood|wood]] and [[Wand core|core]].
+*'''[[Mahoutokoro uniform]]''': He was given the standard uniform from [[Mahoutokoro School of Magic]] when he started his education. It turned white when he was expelled, but he continued to wear it anyways.
+
+==Behind the scenes==
+*In Asian cultures, white is associated with ritual purity and is also associated with death, mourning & funerals. Both the deceased's shroud and the mourners' clothing are of undyed white linen, and during the days of mourning, white flowers (either paper, or chrysanthemums) are piled up by the area of the coffin; these may have been the reason why the robes turned white when the wearer practised Dark Magic.
+
+==Appearances==
+{{Imagecat|Images of the Wizard in white robes}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[ru:Волшебник в белой мантии]]
+
+[[Category:Assassins]]
+[[Category:Brown-eyed individuals]]
+[[Category:Dark wizards]]
+[[Category:Japanese individuals]]
+[[Category:Mahoutokoro students]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]

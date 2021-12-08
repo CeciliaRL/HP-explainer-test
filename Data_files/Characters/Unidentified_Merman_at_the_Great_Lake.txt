@@ -1,0 +1,55 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Unidentified Merman at the Great Lake
+|born = Before [[1995]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Merpeople|Merperson]]<ref name="GOF26"/>
+|gender = Male<ref name="GOF26"/>
+|height = Around 7 feet<ref name="GOF26"/>
+|weight = 
+|hair = Green<ref name="GOF26"/>
+|eyes = Yellow<ref name="GOF26"/>
+|skin = Grey<ref name="GOF26"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Great Lake Merpeople colony|Black Lake Merpeople colony]]<ref name="GOF26"/>
+**[[Murcus]]<ref name="GOF26"/>
+}}
+{{Quote|We do not help.|The merman refusing to lend [[Harry Potter]] a spear|Harry Potter and the Goblet of Fire}}
+This '''merman''' was an individual [[Merpeople|Merperson]] who was active during the [[Triwizard Tournament]] in [[1994]].<ref name="GOF26"/>
+
+==Biography==
+During the Second Task, [[Harry Potter]] tried to borrow his spear to cut the ropes binding the hostages, but the merman refused, laughing as he yanked the spear back from Harry.<ref name="GOF26">{{GOF|B|26}}</ref> It is unknown if he was present at [[Funeral of Albus Dumbledore|Dumbledore's funeral]] in [[1997]], along with the rest of his colony.<ref name="HBP30">{{HBP|B|30}}</ref>
+
+==Physical appearance==
+{{Quote|...he swam swiftly toward a seven-foot tall merman with a long green beard and a choker of shark fangs...|[[Harry Potter]]'s description on the merman|Harry Potter and the Goblet of Fire}}
+The merman was large, rising to almost seven feet tall. He bore a choker of [[shark fang]]s around his neck and had a long green beard.<ref name="GOF26"/>
+
+==Personality and traits==
+Despite he was unhelpful to [[Harry Potter]] when he tried to have access to his spear, he was loyal, obeying the orders to not aid any of the champions during the task.<ref name="GOF26"/>
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{HBP}} {{Possible}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]
+[[Category:Merpeople]]
+[[Category:Triwizard Tournament]]
+[[Category:Unidentified individuals]]
+[[Category:Yellow-eyed individuals]]

@@ -1,0 +1,37 @@
+{{Transcribed image|File:MauradersmapPOAILL 3.png}}
+{{Individual infobox
+|theme=
+|image=[[File:Grisema Quoia.png]]
+|name=Grisema Quoia
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=
+|gender=
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+}}
+
+'''Grisema Quoia''' was an individual seen standing in an unidentified area on the [[Marauder's Map]] in the [[1993-1994 school year]]<ref>{{POA|B|10}} {{comment|Illustrated Edition}}</ref>.
+
+==Appearances==
+*{{POA}} {{comment|Illustrated Edition}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]

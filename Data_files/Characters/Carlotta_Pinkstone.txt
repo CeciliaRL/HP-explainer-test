@@ -1,0 +1,78 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Pinkstone.gif|250px]]
+|name = Carlotta Pinkstone
+|born = [[1922]]<ref name="JKRS">{{JKRS}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="JKRS"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Female<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = Black<ref name="JKRS"/>
+|eyes = Green<ref name="JKRS"/>
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Activist<ref name="JKRS"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|Carlotta Pinkstone (1922—present): Famous campaigner for lifting the International Confederation of Wizards' Statute of Secrecy and telling Muggles that wizards still exist. Ms. Pinkstone has been imprisoned several times for her blatant and deliberate use of magic in public places.|[[Chocolate Frog Card]]|Harry Potter and the Prisoner of Azkaban (video game)}}
+'''Carlotta Pinkstone''' (b. [[1922]]) was a [[Great Britain|British]] [[Wizardkind|witch]] who famously advocated for the repeal of the [[International Statute of Wizarding Secrecy]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+==Biography==
+===Early life===
+Carlotta Pinkstone was born in [[1922]], somewhere in the [[Great Britain|British Isles]]. If she enrolled at [[Hogwarts School of Witchcraft and Wizardry]], she attended the school in around [[1933]] to [[1940]], under [[Headmaster]] [[Armando Dippet]].
+
+===Adulthood===
+{{Quote|STOP SPELL SUPPRESSION!|One of Carlotta's activism signs|Wizard of the Month}}
+It was Ms. Pinkstone's belief that the annulment of the [[International Statute of Wizarding Secrecy]] (established by the [[International Confederation of Wizards]] in [[1692]]) and consequent mixing of the [[Wizarding world|wizarding]] and [[Non-magic people|Muggle]] societies was opportune and convenient in the [[20th century]]. As such, she became a vigorous activist for that cause, and deliberately and unlawfully used magic indiscriminately in public places, in full sight of [[Non-magic people|Muggles]], which led to a series of convictions and imprisonments in [[Azkaban]].<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+
+Pinkstone was still alive by the [[1990s]], by which time she was featured on a [[Chocolate Frog Card]], which pictured her symbolically in shackles.<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+
+==Magical abilities and skills==
+*'''[[Wandless magic]]''': Carlotta Pinkstone was a powerful and accomplished [[Wizardkind|witch]], who was fully capable of casting [[spell]]s wandlessly, which is incredibly difficult and advanced [[magic]].<ref name="PSG"/><ref name="COSG"/>
+
+==Behind the scenes==
+*Carlotta Pinkstone was ''[[Wizard of the Month]]'' on {{JKRS}}, in which she is shown with black hair despite having previously been pictured with red hair in all of her video game appearances.
+*Her name may be a reference to the famous British feminist {{W|Emmeline Pankhurst}}, who was known for her radical public activism with regards to women's rights.
+
+==Appearances==
+{{Imagecat|Images of Carlotta Pinkstone}}
+*{{PS|G}} {{FWC}} 
+*{{COS|G}} {{1st}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{JKRS}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pinkstone, Carlotta}}
+{{Chocolate Frog Cards}}
+[[de:Carlotta Pinkstone]]
+[[fi:Carlotta Pinkstone]]
+[[it:Carlotta Pinkstone]]
+[[zh:卡洛塔·平克斯顿]]
+[[ru:Шарлотта Пинкстоун]]
+[[es:Carlotta Pinkstone]]
+[[fr:Carlotta Pinkstone]]
+[[pl:Carlotta Pinkstone]]
+[[Category:1922 births]]
+[[Category:Activists]]
+[[Category:Azkaban convicts]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Gold Chocolate Frog Cards]]
+[[Category:Green-eyed individuals]]
+[[Category:Secrecy breaches]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

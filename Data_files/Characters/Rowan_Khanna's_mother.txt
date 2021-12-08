@@ -1,0 +1,49 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Khanna
+|born = 
+|died = 
+|blood = 
+|marital = Married
+|nationality = [[Great Britain|British]] or [[Ireland|Irish]] (possibly)
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Rowan Khanna's uncle|brother or brother-in-law]] 
+*[[Rowan Khanna's father|Mr Khanna]] (husband)
+*[[Rowan Khanna]] † (child)
+*[[Rowan Khanna's brother|Son]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Farmer
+|house = 
+|loyalty = [[Khanna family]]
+}}
+'''Mrs Khanna''' was the mother of [[Rowan Khanna]]. For Rowan's first trip to [[Diagon Alley]], she gave them some money, so that they could buy something they wanted. <ref name="HMy1ch1">{{HM|1|1}}</ref>
+
+The [[Khanna family]] ran a [[Khanna Farms|tree farm]] that supplied wood for [[wand]]s and [[broomstick]]s. <ref name="HMy1ch1">{{HM|1|1}}</ref>
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Khanna, Mrs}}
+[[Category:Farmers]]
+[[Category:Females]]
+[[Category:Khanna family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

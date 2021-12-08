@@ -1,0 +1,49 @@
+{{Youmay|Sinistra Lowe|2 = [[Aurora Sinistra]]}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Sinistra Lowe
+|born = 
+|died = 
+|blood = [[Pure-blood]] (most likely)
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author
+|house = 
+|loyalty = [[Pure-blood supremacy]]
+}}
+'''Sinistra Lowe''' was a [[Wizardkind|witch]] and an advocate of the [[Pure-blood supremacy|supremacy]] of [[pure-blood]] wizards and witches, having authored at least one book on the subject, ''[[The Muggle Conspiracy]]''.<ref name="dhscreen">{{DH|F1}} (see [[:File:SinistraLoweBook.jpg|this image]])</ref> [[Dolores Umbridge]] had a copy of this work in her desk at the [[British Ministry of Magic|Ministry of Magic]], while on the post of [[Senior Undersecretary to the Minister for Magic]].<ref name="dhscreen" />
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lowe, Sinistra}}
+
+[[es:Sinistra Lowe]]
+[[fr:Sinistra Lowe]]
+[[pl:Sinistra Lowe]]
+[[pt-br:Sinistra Lowe]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Pure-blood supremacists]]
+[[Category:Wizards]]

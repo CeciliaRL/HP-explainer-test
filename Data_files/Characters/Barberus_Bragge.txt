@@ -1,0 +1,69 @@
+{{Individual infobox
+|theme = mom
+|image = [[File:Barberus Bragge.jpg|200px]]
+|name = Barberus Bragge
+|born = Pre [[1269]]<ref name="QA4">{{QTA|R|4}}</ref>
+|died = Post [[1269]]<ref name="QA4" />
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="QA4"/>
+|alias = 
+|title = [[Chief of the Wizards' Council|Chief]]<ref name="QA4" />
+|signature = 
+|species = [[Human]]<ref name="QA4"/>
+|gender = Male<ref name="QA4"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="PAg"/>
+|eyes = 
+|skin = White<ref name="PAg"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chief of the Wizards' Council]]<ref name="QA4" />
+|house = 
+|loyalty = *[[Wizard's Council]]<ref name="QA4"/>
+*[[Quidditch|Cuaditch]]<ref name="QA4"/>
+}}
+Chief '''Barberus Bragge''' (fl. [[1269]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] and chief of the [[Wizards' Council]] in the [[1260s]]. He was responsible for the introduction of the [[Golden Snidget]] into [[Quidditch|Cuaditch]], thus changing the face of [[Quidditch]] forever.<ref name="QA4" /> For this, he was featured on a [[Chocolate Frog Card]].<ref name="PAg">{{POA|G}}</ref>
+
+==Biography==
+===Early life===
+Bragge was most likely born between the mid to late-[[12th century|twelfth century]] and the early-[[13th century|thirteenth century]]. He presumably attended [[Hogwarts School of Witchcraft and Wizardry]] in his youth, like so many other wizards before him.
+
+===As Chief of the Wizards' Council===
+During a Cuaditch (period-Quidditch) game in [[1269]], Chief Bragge released a [[Golden Snidget]] onto the field, and offered the player who captured it one-hundred and fifty [[Wizarding currency|Galleons]]. In protest, the [[Wizardkind|witch]] [[Modesty Rabnott]] [[Summoning Charm|summoned]] the Snidget to her and fled the game. Bragge was furious and was almost going to hex her, when his [[Barberus Bragge's advisors|advisors]] calmed him down and she was fined ten [[Wizarding currency|Galleons]] for disrupting the game. However, the idea caught on, and soon the Snidget was a part of the game, with a new player, the [[Seeker|Hunter]] (Seeker), being added to the team.<ref name="QA4"/>
+
+==Appearances==
+*{{POA|G}} {{FWC}}
+*{{QTA|R}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=Chief of the [[Wizards' Council]]
+|years=c. [[1269]]
+|successor=Unknown, eventually [[Burdock Muldoon]]
+}}
+{{End box}}
+{{Chocolate Frog Cards}}
+
+{{DEFAULTSORT:Bragge, Barberus}}
+[[de:Barberus Bragge]]
+[[es:Barberus Bragge]]
+[[fi:Barberus Bragge]]
+[[fr:Barberus Bragge]]
+[[pl:Barberus Bragge]]
+[[ru:Барберус Брагге]]
+[[Category:British individuals]]
+[[Category:Gold Chocolate Frog Cards]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]
+[[Category:Wizards' Council]]

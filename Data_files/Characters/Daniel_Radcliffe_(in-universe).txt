@@ -1,0 +1,48 @@
+{{Real world subject}}
+{{DISPLAYTITLE:Daniel Radcliffe}}
+{{Youmay|the fictional individual|the [[Daniel Radcliffe|actor who plays Harry in the 'Harry Potter' films]]}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:Deathly Hallows Equus poster.jpg|250px]]
+|name = Daniel Radcliffe
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Actor
+|house = 
+|loyalty = 
+}}
+'''Daniel Radcliffe''' (fl. [[1997]]) was a [[Non-magic people|Muggle]] actor who had a large part in ''[[Equus]]'', a play that was staged sometime in the late [[1990s]]. There was a poster mentioning him at [[Luchino Caffe]] in the summer of [[1997]].<ref name="DHpt1">{{DH|F1}}</ref>
+
+==Behind the scenes==
+*This mention is an obvious reference to [[Daniel Radcliffe]], the actor who played [[Harry Potter]] in all the [[Harry Potter films|''Harry Potter'' films]] and who also had a part in the 2007 revival of ''[[Wikipedia:Equus (play)|Equus]]''. It was put on the set as a little inside joke.
+
+==Appearances==
+*{{DH|F1}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Radcliffe, Daniel (in-universe)}}
+[[pl:Daniel Radcliffe (mugol)]]
+[[Category:Actors|Radcliffe, Daniel]]
+[[Category:British individuals|Radcliffe, Daniel]]
+[[Category:Males|Radcliffe, Daniel]]
+[[Category:Muggles|Radcliffe, Daniel]]

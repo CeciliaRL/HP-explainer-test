@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Anji Oliver
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Amateur footage has not yielded any likely suspects. Anji Oliver, of Ilford, Essex filmed the devastation on her mobile phone. Her footage clearly shows each blast, but close examination of her video appears to show the blast being fired onto the bridge, as opposed to explosive devices placed on the bridge. But the multiple blasts come from different directions, and no source can be identified.|[[Jamie Wolpert (in-universe)|Jamie Wolpert]], "[[Millennium Bridge|Bridge disaster]] hits London" in ''[[The Guardian]]'' (July, [[1996]])|Harry Potter Limited Edition}}
+'''Anji Oliver''' was a [[Non-magic people|Muggle]] from [[Ilford]] in [[Essex]], who witnessed the [[Millennium Bridge]] disaster in [[1996]] and managed to film it on her [[mobile phone]]. Her footage showed blasts being fired onto the bridge, from multiple directions, with no identifiable source.<ref name="HPLE">{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Behind the scenes==
+*This character was named after [[Anji Oliver (real-world)|Anji Oliver]], who worked as a producer coordinator on ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]'', {{DH|F1}}, and {{DH|F2}}.<ref>"[http://www.imdb.com/name/nm1301467/ Anji Oliver]" on IMDb</ref>
+
+==Appearances==
+*{{HBP|F}} {{Mention}}
+*{{HPLE}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Oliver, Anji}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[pl:Anji_Oliver]]

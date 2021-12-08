@@ -1,0 +1,71 @@
+{{Individual infobox
+|theme=muggle
+|name=Bartholomew Barebone
+|image=
+|nationality=[[United States of America|American]]<ref name="PM"/>
+|born=
+|died=
+|blood=[[Non-magic people|No-Maj]]<ref name="PM"/>
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="PM"/>
+|gender=Male<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=*[[Mary Lou Barebone]] (descendant)
+*[[Barebone family]]<ref name="PM"/>
+|hidea=
+|job=
+|loyalty=[[Barebone family]]<ref name="PM"/>
+}}
+{{Quote|Unbeknownst to [[Dorcus Twelvetrees|Dorcus]], Bartholomew was a [[Scourers|Scourer]] descendant. Nobody in his [[Barebone family|family]] was magic, but his belief in [[magic]] was profound and unshakeable, as was his conviction that all witches and wizards were [[Dark Wizard|evil]].|Description of Bartholomew Barebone|Pottermore}}
+
+'''Bartholomew Barebone''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who lived during the [[18th century]].<ref name="PM">"[https://www.pottermore.com/collection-episodic/history-of-magic-in-north-america-en History of Magic in North America: Rappaport's Law]" on {{PM}}</ref> Descended from one of the Scourers who escaped justice, he had an intense hatred of [[wizardkind|witches and wizards]], and his desire to expose the existence of the [[wizarding world]] propelled one of the largest ever breaches of the [[International Statute of Wizarding Secrecy|International Statute of Secrecy]].<ref name="PM" />
+
+==Biography==
+===Early life===
+Bartholomew Barebone was born sometime in the [[18th century]].<ref name="PM" /> Although no one in [[Barebone family|his family]] was [[magic]]al, he was descended from one of the [[Scourers]] who married [[Muggle|No-Majs]] and assimilated into non-magic society in order to escape punishment for their crimes, and, as such, had an intense belief in the existence of magic and the inherent evilness of [[wizardkind|witches and wizards]].<ref name="PM" /><ref name="historymagic2">"[https://www.wizardingworld.com/writing-by-jk-rowling/seventeenth-century-and-beyond-en History of Magic in North America: Seventeenth Century and Beyond]" on {{PM}}</ref>
+
+===Meeting Dorcus Twelvetrees===
+{{Quote|One day, at a local picnic, Dorcus Twelvetrees became greatly enamoured of a handsome [[Muggle|No-Maj]] called Bartholomew Barebone... Totally oblivious to the danger, Dorcus took Bartholomew’s polite interest in her [[Magic|'little tricks']] at face value. Led on by her beau's artless questions, she confided... all the ways in which these bodies sought to protect and conceal the wizarding community.|''[[Magic in North America]]''|Pottermore}}
+
+Bartholomew met [[Dorcus Twelvetrees]] at a neighbourhood [[picnic]] one day.<ref name="PM" /> The young witch immediately became infatuated with the handsome No-Maj and performed "[[spell|little tricks]]" to impress him.<ref name="PM" /> Feigning innocent interest, Bartholomew plied Dorcus with questions and was thereby able to extract information about the [[wizarding world]] from her.<ref name="PM" /> She readily told him the locations of both [[Ilvermorny School of Witchcraft and Wizardry]] and the headquarters of the [[Magical Congress of the United States of America]], as well as details about the [[International Confederation of Wizards]] and the manners in which wizards endeavoured to hide their world.<ref name="PM" />
+
+===Exposing wizarding world===
+{{Quote|Having gathered as much information as he could from Dorcus, Bartholomew stole the wand she had obligingly demonstrated for him, showed it to as many pressmen as he could find, then gathered together armed friends and set out to persecute and, ideally, kill all the witches and wizards in the vicinity.|Bartholomew tries to expose the wizarding world|Pottermore}}
+
+After getting as much information out of Dorcus as possible, Bartholomew stole her [[wand]] she had obligingly demonstrated for him.<ref name="PM" /> He showed Dorcus's wand to as many newspaper reporters as he could, and some of them took him seriously enough to publish pictures of it, describing how it "had a kick like a [[mule]]" when waved.<ref name="PM" /> He printed and disseminated leaflets listing the wizarding addresses Dorcus had revealed to him and wrote letters to important No-Majs.<ref name="PM" /> Some of the recipients of his letters were motivated to investigate whether his claims of "evil occult parties" were true.<ref name="PM" />
+
+===Imprisoned===
+{{Quote|Giddy with his mission to expose witchcraft in [[United States of America|America]], Bartholomew Barebone overstepped himself by shooting at what he believed were a group of [[Magical Congress of the United States of America|MACUSA]] wizards, but which turned out to be No-Majs who had the bad fortune to leave a suspected building while he was watching it. Fortunately nobody was killed, and Bartholomew was arrested and imprisoned for the crime.|Bartholomew was arrested and imprisoned|Pottermore}}
+
+Not satisfied with simply making his fellow No-Majs aware of the existence of the wizarding world, Bartholomew banded together with some [[gun]]-wielding friends, and set out to persecute and kill all witches and wizards who lived in the area.<ref name="PM" /> He planted himself outside of a building and opened fire when a group of people he assumed to be MACUSA employees exited.<ref name="PM" /> However, the people were in fact [[No-Maj]]s unlucky enough to be in the wrong place at the wrong time.<ref name="PM" /> None of them were killed.<ref name="PM" /> Bartholomew was arrested by No-Maj authorities and imprisoned for his crime.<ref name="PM" />
+
+===Aftermath===
+{{Quote|Dorcus’s indiscretions led to the introduction of Rappaport’s Law. Rappaport’s Law enforced strict segregation between the No-Maj and wizarding communities. Wizards were no longer allowed to befriend or marry No-Majs. Penalties for fraternising with No-Majs were harsh. Communication with No-Majs was limited to that necessary to perform daily activities.|Rappaport's Law|Pottermore}}
+
+The Barebone affair prompted the passage of [[Rappaport's Law]] in [[1790]].<ref name="PM" /> This law banned witches and wizards from marrying or befriending No-Majs, and led to the complete segregation of the No-Maj and wizarding communities in America. Twelvetrees herself was thoroughly disgraced due to her interaction with Barebone, and was left traumatised and secluded for the rest of her life.<ref name="PM" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Barebone, Bartholomew}}
+[[de:Bartholomew Barebone]]
+[[es:Bartholomew Barebone]]
+[[pl:Bartłomiej Barebone]]
+[[fr:Bartholomé Bellebosse]]
+[[Category:American individuals]]
+[[Category:Barebone family]]
+[[Category:Convicts]]
+[[Category:Males]]
+[[Category:Muggle supremacism]]
+[[Category:Muggles]]
+[[Category:Secrecy breaches]]

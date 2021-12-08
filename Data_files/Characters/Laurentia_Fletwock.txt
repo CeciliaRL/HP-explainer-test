@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:LaurentiaFletwock.png|250px]]
+|name = Laurentia Fletwock
+|born = [[1947]]<ref name="JKRS"/>
+|died = 
+|blood = 
+|nationality = 
+|alias = 
+|title = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Female<ref name="JKRS"/>
+|hair = Brown<ref name="JKRS"/>
+|eyes = Brown<ref name="JKRS"/>
+|skin = White<ref name="JKRS"/>
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="JKRS"/>
+|patronus = 
+|job = [[Winged horse]]s breeder and [[Winged horse racing|racer]]<ref name="JKRS"/>
+|house = 
+|loyalty = 
+}}
+'''Laurentia Fletwock''' (b. [[1947]]) was a [[Wizardkind|witch]] who was a celebrated breeder and [[Winged horse racing|racer]] of [[winged horse]]s. Presumably because of her involvement in the world of winged horses, she had subsequently campaigned for [[broomstick]] usage to come under stricter regulations.<ref name="JKRS">{{JKRS}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Laurentia Fletwock}}
+*{{JKRS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Fletwock, Laurentia}}
+[[de:Laurentia Fletwock]]
+[[es:Laurentia Fletwock]]
+[[fr:Laurentia Fletwock]]
+[[it:Laurentia Fletwock]]
+[[pl:Laurentia Fletwock]]
+[[Category:1947 births]]
+[[Category:Activists]]
+[[Category:Breeders]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

@@ -1,0 +1,63 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = Unidentified Beater I.jpg
+|name = Unidentified Beater
+|born = Between [[1 September]] [[1971]] and [[31 August]] [[1973]] {{c|most likely}}<ref>She was at least in her second year in 1985 as Harry Potter was said to have been the youngest Quidditch player in about a century in 1991. She was still wearing her Hogwarts [[Quidditch uniform]] in the [[1989–1990 school year]], indicating she was still attending Hogwarts during that school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Blue
+|skin = White
+|family = Mother
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''[[Wizardkind|witch]]''' attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]].
+
+==Biography==
+During her time at Hogwarts, she was [[Sorting ceremony|Sorted]] into an unknown [[Hogwarts Houses|house]]. At some point by the [[1985–1986 school year]], she became a [[Beater]] of an unknown Quidditch team.<ref name="q1">{{HM|2|Q1|1}}</ref> She used to do ballet.<ref>{{HM|3|Q2|5}}</ref>
+
+She stood on her head every night before a match as a way to inspire good fortune. At some point before the final match in the 1985–1986 school year, she also received a rock with a hole in it from her mother for good luck.<ref name="qc">{{HM|2|The Quidditch Cup}}</ref>
+
+She continued playing on the team the following year. As her fellow Beater, [[Bean]], was suspended from the team, she played in the position alongside [[Jacob's sibling]], who had been a [[Chaser]] in the previous year.<ref>{{HM|3|Q2|1}}</ref>
+
+At some point in the [[1989–1990 school year]], she talked to [[Andre Egwu]] on the [[Training Grounds]].<ref>{{HM|6|36}}</ref>
+
+==Possessions==
+*'''Adder stone''': Her mother gave her a stone with a hole in it for good luck.<ref name="qc">{{HM|2|The Quidditch Cup}}</ref>
+
+==Behind the scenes==
+*Her house is the same as that of [[Jacob's sibling]], which is chosen by the player.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+{{Stub}}
+[[Category:Beaters]]
+[[Category:Blue-eyed individuals]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Sorted in the 20th century]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

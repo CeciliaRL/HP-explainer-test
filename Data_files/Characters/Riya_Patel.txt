@@ -1,0 +1,54 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|name = Riya Patel
+|image = 
+|born = 
+|died = 
+|blood = 
+|nationality = [[Great Britain|British]]
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|hair = 
+|eyes = 
+|skin = 
+|height = 
+|weight = 
+|family = *[[Ashish Patel]] (possible relative)
+*[[Bhavana Patel]] (possible relative)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|house = 
+|job = [[Auror]], [[Investigative Assistant]]
+|loyalty = *[[Patel family]]
+*[[British Ministry of Magic]]
+**[[Department of Magical Law Enforcement]]
+***[[Auror Office]]
+|theme = mom
+}}
+'''Riya Patel''' was a [[Great Britain|British]] [[Wizardkind|wizard or witch]] who worked as an [[Auror]] for the [[British Ministry of Magic]].<ref name="WU trailer img"/>
+
+==Biography==
+[[File:London Five Missing.png|150px|thumb|left|The ''[[Daily Prophet]]'' reports the disappearance of Riya Patel, among others]]
+They were one of the [[Auror]]s who mysteriously vanished during the [[London Five]] sometime during the mid-to-late [[2010s]]. Their disappearance occurred within a few hours of the other four Aurors. It was the first instance of people having gone mysteriously missing since the [[Second Wizarding War]], and hence came as a great shock to the [[Wizardkind|wizarding community]] of [[Great Britain]] at large. An investigation was launched by the [[British Ministry of Magic]] to try and locate Patel and their fellow victims. As time passed, however, the Ministry met a dead end when the trail went cold, and it was generally felt by many that the chance of finding Patel grew increasingly smaller, causing the despair of their [[Patel family|family]] to increase and turn into outrage when the case was closed. As [[Gareth Greengrass]] indeed speculated, it is very likely that Patel was deceased, as of [[2018]], though there was a small chance they were still alive.<ref name="WU trailer img">{{WU}} {{See image|file:WU trailer documents ref.png}}</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+{{DEFAULTSORT:Patel, Riya}}
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:London Five]]
+[[Category:Patel family]]
+[[Category:Wizards]]

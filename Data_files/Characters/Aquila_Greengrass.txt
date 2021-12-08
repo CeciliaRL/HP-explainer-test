@@ -1,0 +1,50 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = individual
+|name = Aquila Greengrass
+|born = 
+|died = Before [[2019]]<ref name="WU"/>
+|blood = 
+|nationality = [[Great Britain|British]]<ref name="nationality">The Greengrass family were British.</ref>
+|alias = 
+|title = 
+|marital = Married
+|signature = 
+|blood =
+|species = [[Human]]
+|gender = Female
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = *[[Gareth Greengrass]] (husband) 
+*[[Cereus Greengrass]] (daughter)
+*[[Gareth Greengrass' brother|Brother-in-law]]
+*[[Greengrass family]] (in-laws)
+|romances = [[Gareth Greengrass]] (husband)
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Greengrass family]]
+}}
+'''Aquila Greengrass''' (d. c. [[2019]]<ref name="WU"/>) was a [[Great Britain|British]] woman who, by marriage, was part of the [[Greengrass family]], a member of the [[Sacred Twenty-Eight]].<ref name="WU">{{WU}}</ref>
+
+==Behind the scenes==
+*Not much is known about her except she was part of the [[Greengrass family]] via her marriage to [[Gareth Greengrass]], with whom she had a [[Cereus Greengrass|daughter]].
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+{{DEFAULTSORT:Greengrass, Aquila}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Greengrass family|Aquila]]
+[[Category:Married individuals]]
+[[Category:Parents]]

@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=Loxias's mother cropped.jpg
+|name=Loxias's mother
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Loxias]] (son)†
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+'''Loxias's mother''' was the [[Wizardkind|witch]] who gave birth to [[Loxias]], a [[Dark Wizard]] and one of the many Masters of the [[Elder Wand]]. She was one of many who claimed to have finished him off when he died.<ref>{{TBB|R}} - ''Albus Dumbledore on ''"''The Tale of the Three Brothers''"''</ref>
+
+==Appearances==
+*{{TBB|R}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Matka Loxiasa]]
+[[fr:Mère de Loxias]]
+[[pt-br:Mãe de Loxias]]
+[[Category:Females]]
+[[Category:Loxias family]]
+[[Category:Unnamed family members‎]]
+[[Category:Wizards]]

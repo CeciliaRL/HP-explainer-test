@@ -1,0 +1,66 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Edgar Stroulger.jpg|250px]]
+|name = Edgar Stroulger
+|born = [[1703]]<ref name="COSG"/>
+|died = [[1798]] (aged 94-95)<ref name="COSG"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Grey,<ref name="POAG">{{POA|G}}</ref> formerly brown<ref name="COSG">{{COS|G}}</ref>
+|eyes = Blue<ref name="COSG"/>
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Inventor<ref name="COSG"/>
+|house = 
+|loyalty = 
+}}
+{{Dialogue a-b|Harry Potter|Surreptitiousness!|Edgar Stroulger's portrait|Ah... Please step through, young sir...|Edgar Stroulger's portrait opening upon the correct [[password]]|Harry Potter and the Prisoner of Azkaban (video game)}}
+'''Edgar Stroulger''' ([[1703]] – [[1798]]) was a [[Wizardkind|wizard]] who invented the [[Sneakoscope]], a [[Dark Detector]] that lit up, spun, and whistled if someone was doing something untrustworthy nearby. For this accomplishment, he was commemorated on a bronze [[Chocolate Frog Card]].<ref name="COSG"/><ref name="POAG"/>
+
+A [[portrait]] of Stroulger was placed on the sixth floor of [[Hogwarts Castle]], guarding a secret passageway. His [[password]] was "''Surreptitiousness''" in the [[1993–1994 school year]].<ref name="POAG" />
+
+==Etymology==
+The name "Edgar" is derived from the Old English elements ead "rich", "blessed" and gar "spear". This was the name of a 10th-century English king, who is regarded as a saint. The name did not survive long after the Norman conquest, but it was revived in the 18th century, in part due to a character by this name in Sir Walter Scott's novel ''The Bride of Lammermoor'' (1819).
+
+==Appearances==
+{{Imagecat|Images of Edgar Stroulger}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{Portrait}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts sixth floor}}
+{{Chocolate Frog Cards}}
+{{DEFAULTSORT:Stroulger, Edgar}}
+[[de:Edgar Stroulger]]
+[[fr:Edgar Strougler]]
+[[fi:Edgar Stroulger]]
+[[es:Edgar Stroulger]]
+[[ru:Эдгар Струглер]] 
+[[it:Edgar Stroulger]] 
+[[pl:Edgar Stroulger]]
+[[Category:1703 births]]
+[[Category:1798 deaths]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Historical figures]]
+[[Category:Inventors]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards|Strougler, Edgar]]

@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = grindelwald-acolyte
+|image = [[File:Nagel.jpeg|thumb]]
+|name = Nagel
+|born = Before [[1927]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Gellert Grindelwald]]
+**[[Alliance|The Alliance]]
+}}
+'''Nagel''' was a [[Wizardkind|wizard]] who lived during the early [[20th century]]. He was a member of [[Gellert Grindelwald]]'s [[Alliance]], and was among the dark wizard's foremost acolytes.<ref name="TLC">[http://www.the-leaky-cauldron.org/2018/08/24/fantastic-beasts-the-crimes-of-grindelwald-full-character-profiles-reveal-trouble-in-paris/ Full Character Profiles] from [https://www.the-leaky-cauldron.org The Leaky Cauldron]</ref>
+
+==Biography==
+[[File:Nagel talking with Grindelwald.jpg|140px|thumb|left|Nagel talking with Grindelwald]]
+Nagel joined [[Gellert Grindelwald]] at some point prior to [[1927]], and became one of Grindelwald's seven trusted [[Gellert Grindelwald's acolytes|acolytes]]. Under Grindelwald's orders, Nagel was told to visit the [[Circus Arcanus]]' performance, so as to keep an eye on the [[Obscurial]] [[Credence Barebone]].<ref name="COGS">{{COG|S}}</ref>
+
+==Etymology==
+*In Swedish, Norwegian, German and Dutch, "nagel" means "nail".
+
+==Behind the scenes==
+*Nagel is portrayed by [[Claudius Peters]] in the [[Fantastic Beasts: The Crimes of Grindelwald|second instalment]] of the [[Fantastic Beasts (film series)|''Fantastic Beasts'' film series]].
+*In ''[[The Art of Fantastic Beasts: The Crimes of Grindelwald]]'', Nagel's early portrayal resembled [[Percival Graves]].
+*In an early draft of the the storyboard, Nagel was meant to meet up with Credence in the bird market.
+
+==Appearances==
+{{Imagecat|Images of Nagel}}
+*{{COG|S}} {{1st}}
+*{{COG}}
+*{{AM}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Gellert Grindelwald's army}}
+
+[[de:Nagel]]
+[[de2:Nagel]]
+[[es:Nagel]]
+[[fr:Nagel]]
+[[pl:Nagel]]
+[[Category:Dark wizards]]
+[[Category:Males]]
+[[Category:Members of the Alliance]]

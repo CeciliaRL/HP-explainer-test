@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Santini.jpg|250px]]
+|name = 
+|born = Before [[1977]], [[Spain]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Spain|Spanish]]<ref name="QWC"/>
+|alias = 
+|title = [[Beater]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Dark Brown<ref name="QWC"/>
+|eyes = Brown<ref name="QWC"/>
+|skin = White (Tanned)<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[Spanish National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[Spanish National Quidditch team]]<ref name="QWC"/>
+}}
+'''Vasco Santini''' was a [[Spain|Spanish]] [[Wizardkind|wizard]] who played as a [[Beater]] on the [[Spanish National Quidditch team]]. He represented his country in at least two [[Quidditch World Cup]]s.<ref name="QWC">{{QWC}}</ref>
+
+By [[1996]], he was included on a [[Chocolate Frog Card]] for his achievements in [[Quidditch]].<ref name="HBPG">{{HBP|G}} - NDS version</ref>
+
+==Etymology==
+The name "Vasco" comes from the medieval Spanish name Velasco which possibly meant "crow" in Basque. A famous bearer was the 15th-century Portuguese explorer Vasco da Gama, the first person to sail from Europe around Africa to India. ''Vasco'' is also the Spanish word for Basque, referring to the people of the Basque country, an autonomous community in Spain. 
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{FWC}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Santini, Vasco}}
+[[es:Vasco Santini]]
+[[fr:Vasco Santini]]
+[[pl:Vasco Santini]]
+[[ru:Васко Сантини]]
+[[Category:Beaters]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Males]]
+[[Category:Spanish individuals]]
+[[Category:Wizards]]

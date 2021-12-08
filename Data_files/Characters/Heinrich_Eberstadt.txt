@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Heinrich Eberstadt.png|250px]]
+|name = Heinrich Eberstadt
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Switzerland|Swiss]]<ref name="FB60"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FB60"/>
+|gender = Male<ref name="FB60"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Swiss delegate of the [[International Confederation of Wizards]]<ref name="FB60"/>
+|house = 
+|loyalty = [[International Confederation of Wizards]]<ref name="FB60"/>
+}}
+{{Quote|Our American friends have permitted a breach of the Statue of Secrecy that threatens to expose us all.|Heinrich Eberstadt addressing the Pentagram meeting|Fantastic Beasts and Where to Find Them: The Original Screenplay}}
+'''Heinrich Eberstadt''' was a [[Switzerland|Swiss]] [[Wizardkind|wizard]] who was a delegate to the [[International Confederation of Wizards]].<ref name="FB60"/>
+
+==Biography==
+He participated in an emergency meeting alongside fellow members of the Confederation in [[New York]] in [[1926]] to discuss the potential exposure of the wizarding world.<ref name="FB60"/>
+
+[[President of the Magical Congress of the United States of America]], [[Seraphina Picquery]], rebuked his criticisms, noting that she would not be lectured by the man who let [[Gellert Grindelwald]] slip through his fingers.<ref name="FB60">{{FB|S|60}}</ref>
+
+==Behind the scenes==
+*Heinrich Eberstadt is portrayed by [[Martin Oelbermann]] in {{FB|FA}}.<ref>{{IMDb name|nm8586985|Martin Oelbermann}}</ref>
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+{{ICW}}
+{{DEFAULTSORT:Eberstadt, Heinrich}}
+[[de:Heinrich Eberstadt]]
+[[de2:Heinrich Eberstadt]]
+[[fr:Heinrich Eberstadt]]
+[[es:Heinrich Eberstadt]]
+[[pt-br:Heinrich Eberstadt]]
+[[pl:Heinrich Eberstadt]]
+[[ru:Генрих Эберштадт]]
+[[zh:海因里希·埃伯斯塔]]
+
+[[Category:International Confederation of Wizards members]]
+[[Category:Males]]
+[[Category:Swiss individuals]]
+[[Category:Wizards]]

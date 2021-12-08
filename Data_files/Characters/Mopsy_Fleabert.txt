@@ -1,0 +1,58 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mopsy Fleabert
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="Pottermore"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="Pottermore"/>
+|gender = Female<ref name="Pottermore"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Dog]] breeder<ref name="Pottermore"/>
+*Author<ref name="Pottermore"/>
+|house = 
+|loyalty = [[Hogsmeade]]<ref name="Pottermore"/>
+}}
+'''Mopsy Fleabert'''<ref name="Pottermore">{{PM}} - [http://www.pottermore.com/en/trunk/books/item/animal-ghosts-of-britain Trunk Description: "Animal Ghosts of Britain"]</ref> was an eccentric elderly [[Wizardkind|witch]] who lived at the edge of [[Hogsmeade]]. She was especially fond of [[dog]]s, and kept several, much to the chagrin of her neighbours.<ref name="jkrofficial">"[http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=4 Mopsy the dog-lover]" from [http://www.jkrowling.com J.K. Rowling's Official Site] (archive [https://web.archive.org/web/20060316221012/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=4 here] via the Internet Archive's Wayback Machine)</ref>
+
+Mopsy wrote a series of books on [[animal ghost]]s.<ref name="Pottermore"/> A copy of one of the books in the series, ''[[Animal Ghosts of Britain]]'', was kept on the mantle in [[Gryffindor Tower]] in [[1994]].<ref name="Pottermore"/>
+
+==Behind the scenes==
+*[[J. K. Rowling]] has stated that she initially wished to include a dog-lover in the story to contrast with the cat-loving [[Arabella Figg]]. Mopsy would take [[Sirius Black]] into her home while he was on the run, thinking he was a stray dog. However, Rowling's editor asked her to cut Mopsy out of an early draft of {{GOF}}. Rowling chose to have fugitive Sirius stay inside a cave instead, where he could freely discuss important matters with [[Harry Potter|Harry]], [[Ronald Weasley|Ron]], and [[Hermione Granger|Hermione]] without Mopsy's interference.<ref name="jkrofficial" />
+*It is never explicitly stated that Mopsy the dog lover from {{JKRS}} and Mopsy Fleabert the author of ''[[Animal Ghosts of Britain]]'' from {{PM}} are the same individual; however, given the unique name with a tie to their similar interests, it is believed here these both refer to the same individual.
+
+==Appearances==
+*{{GOF}} {{C|Early drafts}}
+*{{JKRS}} {{Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogsmeade}}
+{{DEFAULTSORT:Fleabert, Mopsy}}
+[[de:Mopsy, die Hundeliebhaberin]]
+[[es:Mopsy Fleabert]]
+[[pl:Mopsy Fleabert]]
+[[Category:Authors]]
+[[Category:Breeders]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Wizards]]

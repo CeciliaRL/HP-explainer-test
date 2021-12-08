@@ -1,0 +1,36 @@
+{{conjecture}}
+{{Pet individual infobox
+|image = [[File:Creature POA 1.jpg|250px]]
+|name = Unidentified creature
+|born = Before [[1994]]<ref name="POAF"/>
+|died = 
+|alias = 
+|title = 
+|species = Unknown<ref name="POAF"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = Dark grey<ref name="POAF"/>
+|family = 
+|loyalty = [[Rubeus Hagrid]] (owner)<ref name="POAF"/>
+}}
+This unidentified [[magic]]al '''[[creature]]''' was owned by [[Rubeus Hagrid]] and lived in his [[Rubeus Hagrid's cabin|hut]]. It was a plant-like creature with an appearance similar to the [[Mandrake]] plant.<ref name="POAF">{{POA|F}} - Chapter 22 (''Witnesses to an Execution'')</ref>
+
+==History==
+[[File:Hagrid Hut's hiding creature POA.gif|200px|thumb|left|Hagrid covering up the creature]]
+It was implied to be an illegal creature, when Hagrid hid it under a tea towel when the [[Committee for the Disposal of Dangerous Creatures]], including [[Albus Dumbledore]], [[Cornelius Fudge]] and [[Walden Macnair]] the Executioner, arrived for the disposal of [[Buckbeak]] the [[Hippogriff]] some days after Hagrid's hearing with the [[Hogwarts Board of Governors]], in [[1994]].<ref name="POAF"/>
+
+==Behind the scenes==
+*The creature has a somewhat similar resemblance to the [https://starwars.fandom.com/wiki/Sarlacc Sarlaac] in ''{{W|Return of the Jedi}}''.
+
+==Appearances==
+*{{POA|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Criatura de Rubeus Hagrid desconocida]]
+[[Category:Hagrid's pets]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Uncertain classification]]

@@ -1,0 +1,53 @@
+{{WizardsUniteSpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = death-eater
+|image = 
+|name = 
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[half-blood]] (most likely)<ref>He is unlikely to be [[Muggle-born]] as he is a member of a [[Sacred Twenty-Eight]] family. Furthermore, as a [[Death Eater]] it is highly likely that he would have to fit into [[Tom Riddle|Voldemort]]'s criteria for [[blood status]] by being half-blood or pure-blood.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="SecretsRevealed"/>
+|gender = Male<ref name="SecretsRevealed"/>
+|height = 
+|weight = 
+|hair =
+|eyes = 
+|skin =
+|family = *[[Gareth Greengrass]] † (brother)
+*[[Aquila Greengrass]] † (sister-in-law)
+*[[Cereus Greengrass]] (niece)
+*[[Daphne Greengrass]] (relative)
+*[[Astoria Malfoy]] (relative)
+*[[Scorpius Malfoy]] (relative)
+*[[Astoria Malfoy's ancestor|Unidentified ancestor]] (possible relative)
+*[[Greengrass family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand =
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|job = 
+|house = 
+|loyalty = *[[Greengrass family]]
+*[[Death Eaters]]
+}}
+{{Quote|I'm convinced you've been dreaming of [[Gareth Greengrass]]'s memories after [[Adversary]] surges. Remember the one where [[Millicent Bagnold]] accused the suspect's brother of being [[Death Eater]]? Well, Gareth just so happens to have a brother in Azkaban indicted on the same charge.|[[Hermione Granger]]|WU}}
+This '''individual''' was a member of the [[Death Eaters]].<ref name="SecretsRevealed">{{WU}} "[[Brilliant Event: Secrets Revealed]]"</ref> By [[August]] [[2021]], he was imprisoned in [[Azkaban]] for his crimes.<ref name="SecretsRevealed/>
+
+[[Harry Potter]] promised to reopen this individual's case to ensure [[Gareth Greengrass]]'s cooperation.<ref name="SecretsRevealed"/>
+
+==Behind the scenes==
+*It is possible that this is the same person as the [[Unidentified Azkaban Escapee|unidentified Azkaban escapee]].
+
+==Notes and references==
+{{Reflist}}
+[[Category:Azkaban convicts]]
+[[Category:Greengrass family]]
+[[Category:Males]]
+[[Category:Unidentified Death Eaters]]

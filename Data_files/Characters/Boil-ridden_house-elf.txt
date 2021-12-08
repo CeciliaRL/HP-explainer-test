@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:BoilsHouse-elf.png|250px]]
+|name = Boil-ridden house-elf
+|born = 
+|died = 
+|blood = 
+|nationality = [[Great Britain|British]]<ref name="WBP"/>
+|marital =  
+|alias = 
+|title = 
+|signature = 
+|species = [[House-elf]]<ref name="WBP"/>
+|gender = Male<ref name="WBP"/>
+|height = 
+|hair = 
+|eyes = Blue-grey<ref name="WBP"/>
+|skin = Pale<ref name="WBP"/>
+|weight = 
+|height = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Hogwarts house-elves|Hogwarts house-elf]]<ref name="WBP"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="WBP"/>
+}}
+{{Quote|And what luck! We have the ideal guinea pig, I mean, a poor soul who needs our [[potioneer]]ing expertise. A few drops of my brew should vanish those boils.|Zygmunt Budge suggests assisting this house-elf|Wonderbook: Book of Potions}}
+This male '''[[house-elf]]''' worked for [[Hogwarts School of Witchcraft and Wizardry]] as one of their [[Hogwarts house-elves|staff of house-elves]]. He apparently had skin problems, as the house-elf had developed a terrible case of boils. [[Hogwarts potions champion|A Hogwarts student]], using the advice of the spirit of [[Zygmunt Budge]] possessing ''[[Book of Potions]]'', brewed a [[Cure for Boils]] [[potion]] that remedied this elf's skin affliction.<ref name="WBP">{{WBP}}</ref>
+
+==Appearances==
+*{{WBP}} {{1st}} 
+
+==Notes and references==
+{{Reflist}}
+{{Staff}}
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Grey-eyed individuals]]
+[[Category:House-elves]]
+[[Category:Males]]
+[[Category:Unidentified Hogwarts employees]]

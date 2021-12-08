@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Fred Baille
+|hideb=y
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]<ref name="poster-lego"/>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="poster-lego"/>
+|gender=Male<ref name="poster-lego"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Singer<ref name="poster-lego"/>
+|house=
+|loyalty=
+}}
+'''Fred Baille''' was a [[Non-magic people|Muggle]] singer in the early [[20th century]].<ref name="poster-lego">{{LEGO|D}} {{See image|File:Fred Baille & Co.png}}</ref> He was the leader of the famous singing troupe [[Fred Baille & Co.]].<ref name="poster-lego" />
+
+In [[1926]], posters were put up in [[New York]] promoting a performance by Fred Baille & Co. at the [[Corbour Theatre]], which was slated for [[15 November]].<ref name="poster-lego"/>
+
+==Appearances==
+*{{LEGO|D}} {{1st Mention}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Baille, Fred}}
+[[pl:Fred Baille]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Musicians]]

@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|image=[[File:Pot.jpg|250px]]
+|name=Young woman's child
+|theme=muggle
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]<ref name="TBBW"/>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="TBBW"/>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Young woman|Mother]]<ref name="TBBW"/>
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|My baby is grievously ill. Won't you please help us? Your father bade me come if troubled –|The [[young woman]] to the [[Wizard (The Wizard and the Hopping Pot)|Wizard]]|The Tales of Beedle the Bard (real)}}
+
+The '''young woman's child''' was a character in the tale ''[[The Wizard and the Hopping Pot]]'' by [[Beedle the Bard]]. The child was very ill, and when its [[Young woman|mother]] asked the [[Wizard (The Wizard and the Hopping Pot)|Wizard]] for help, he slammed the door on her. Later, when the Wizard could bear no more of his father's [[The Hopping Pot|lucky cooking pot]], he doused the baby in [[Dittany]] and it woke "well and rosy".<ref name="TBBW">{{TBB|W}}</ref>
+
+==Appearances==
+*{{TBB|R}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Tales of Beedle}}
+[[es:Hijo de la Joven (El Mago y el Cazo Saltarín)]]
+[[Category:Fictional characters]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:The Wizard and the Hopping Pot]]
+[[Category:Unidentified Muggles]]

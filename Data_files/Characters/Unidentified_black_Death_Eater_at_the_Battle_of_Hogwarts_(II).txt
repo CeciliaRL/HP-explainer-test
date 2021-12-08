@@ -1,0 +1,49 @@
+{{Notability}}
+{{Conjecture}}
+{{Individual infobox
+|theme = death-eater
+|image = [[File:HPDH2-3271.jpg|250px]]
+|name = Unidentified Death Eater
+|born = 
+|died = [[2 May]] [[1998]]<br /> [[Hogwarts Castle]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title =
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Black
+|eyes = Grey
+|skin = Light brown
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|job = 
+|house = 
+|loyalty = *[[Death Eaters]]
+**[[Tom Riddle|Lord Voldemort]]
+}}
+This '''[[Dark Wizard]]''' (d. [[2 May]] [[1998]]) was a [[Death Eaters|Death Eater]] of [[Tom Riddle|Lord Voldemort]] who fought in the [[Second Wizarding War]]. He later fought in the [[Battle of Hogwarts]]. He survived the first round, and after [[Harry Potter|Harry]] [[Horcrux|sacrificed himself to]] [[Tom Riddle|Lord Voldemort]] in the [[Forbidden Forest]], he guarded the captured [[Rubeus Hagrid]] back to the castle along with other [[Death Eaters]], while Hagrid carried Harry's believed dead body. After Harry revealed that he was actually alive, the second round of the battle began. This Death Eater was then killed during the final stages of the battle.<ref>{{DH|F2}}</ref>
+
+==Behind the scenes==
+*He was portrayed by [[Courtney Fearon]] in {{DH|F2}}.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+*{{LEGO|Y2}} {{C|Appears as a generic [[Death Eaters|Death Eater]]}}
+[[pl:Niezidentyfikowany śmierciożerca walczący podczas Bitwy o Hogwart (I)]]
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts fatalities]]
+[[Category:British individuals]]
+[[Category:Deceased individuals]]
+[[Category:Males]]
+[[Category:Unidentified Death Eaters]]

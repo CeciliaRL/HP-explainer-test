@@ -1,0 +1,62 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Olaf Andersen - QWC.png]]
+|name = Olaf Andersen
+|born = Before [[1977]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Chaser]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="QWC"/>
+|eyes = Green<ref name="QWC"/>
+|skin = White<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Nordic National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[Nordic National Quidditch team]]<ref name="QWC"/>
+}}
+'''Olaf Andersen''' was a [[Sweden|Swedish]]<ref name="WU"/> [[Wizardkind|wizard]] who played as a [[Chaser]] on the [[Nordic National Quidditch team]].<ref name="QWC"/>
+
+==Biography==
+He played during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]].<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]] at [[Hogwarts School of Witchcraft and Wizardry]], Andersen's [[Chocolate Frog Card]] could be won by beating [[Scarlett Lympsham]] at a [[Quidditch]] challenge.<ref name="HBPG">{{HBP|G}} {{C|NDS edition}}</ref>
+
+By at least the [[2010s]], during the [[Calamity]], Andersen claimed that no teammates had become [[Foundable]]s since donning colourful team bracelets. Upon investigation, volunteer members of the [[Statute of Secrecy Task Force]] discovered that his team was ranked 43rd in the world - right where no one would think of them.<ref name="WU">{{WU}}</ref>
+
+==Etymology==
+*"Olaf" is from the Old Norse name Áleifr meaning "ancestor's descendent", derived from the elements anu "ancestor" and leifr "descendent". This was the name of five kings of Norway, including Saint Olaf (Olaf II).
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{NDS only}} {{FWC}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Andersen, Olaf}}
+
+[[pl:Olaf Andersen]]
+[[fr:Olaf Andersen]]
+[[ru:Олаф Андерсен]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Green-eyed individuals]]
+[[Category:Males]]
+[[Category:Swedish individuals]]
+[[Category:Wizards]]

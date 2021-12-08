@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Garvin Lügner
+|born = 
+|died = 
+|blood = 
+|nationality = [[Germany|German]]<ref name="WBS"/>
+|alias = 
+|title = [[Warlock]]<ref name="WBS"/>
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="WBS"/>
+|gender = Male<ref name="WBS"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|house = 
+|job = Inventor<ref name="WBS"/>
+|loyalty = 
+}}
+{{Quote|Among those who claimed to have invented this revolutionary spell was the German warlock Garvin Lügner, who insisted that he had invented it as a side-effect of his discovery of Instant Darkness Powder.|[[Miranda Goshawk]], ''[[Book of Spells]]''.|Wonderbook: Book of Spells}} 
+'''Garvin Lügner''' (fl. [[18th century]]) was a [[Germany|German]] [[warlock]] who invented the [[Instant Darkness Powder]], presumably intended as a variant of [[Peruvian Instant Darkness Powder]]. However, unlike the true substance, which provides absolute darkness, Garvin's powder merely slightly dimmed the lights.<ref name="WBS"/>
+
+However, this did not discourage Garvin from falsely claiming he had invented the [[Wand-Lighting Charm]], ''Lumos'', to remedy the effects of his powder. The Wand-Lighting Charm was actually invented in [[1772]], by [[Levina Monkstanley]], a [[Great Britain|British]] [[Wizardkind|witch]].<ref name="WBS">{{WBS}} - see [http://www.youtube.com/watch?v=m9LNQV7cGIA&feature=relmfu this video]</ref>
+
+==Etymology==
+*"Garvin" is a name of Old English origin, and its meaning is "''spear-friend''". ''Lügner'' is also the German word for "liar".
+
+==Appearances==
+*{{WBS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lügner, Garvin}}
+[[pl:Garvin Lügner]]
+[[Category:German individuals]]
+[[Category:Inventors]]
+[[Category:Males]]
+[[Category:Warlocks]]
+[[Category:Wizards]]

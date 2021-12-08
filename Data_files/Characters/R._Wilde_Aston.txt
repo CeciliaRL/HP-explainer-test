@@ -1,0 +1,47 @@
+{{Transcribed image|File:RWildeAston.jpg}}
+{{Individual infobox
+|image=[[File:RWildeAston.jpg|250px]]
+|theme=individual
+|name=R. Wilde Aston
+|hideb=
+|born=c. [[1835]]<ref name="DHF1"/>
+|died=[[15 April]], [[1865]] (aged 30)<ref name="DHF1"/>
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DHF1"/>
+|gender=Male<ref name="DHF1"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=1
+|family=
+|hidem=1
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=1
+|job=
+|house=
+|loyalty=
+}}
+'''R. Wilde Aston''' (c. [[1835]] - [[15 April]], [[1865]]) was a man buried in the cemetery of the [[St Jerome's Church|Parish Church of St. Clementine]] in [[Godric's Hollow]]. During his life, he lived in [[Queen Square]], [[London]].<ref name="DHF1">{{DH|F1}} {{see image|File:RWildeAston.jpg}}</ref>
+
+==Appearances==
+*{{DH|F1}} {{Comment|Name seen on headstone}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Wilde Aston, R.}}
+[[fr:R. Wilde Aston]]
+[[pl:R. Wilde Aston]]
+[[es:R. Wilde Aston]]
+[[Category:1835 births]]
+[[Category:1865 deaths]]
+[[Category:British individuals]]
+[[Category:Buried at Godric's Hollow graveyard]]
+[[Category:Humans]]
+[[Category:Males]]

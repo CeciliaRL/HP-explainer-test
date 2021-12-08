@@ -1,0 +1,31 @@
+{{Individual infobox
+|image = NewtConfundus.gif
+|name = Unidentified French policeman
+|born = [[1910]] or earlier (likely)<ref>As he was a policeman in 1927, he would have likely been of age</ref>
+|blood = [[Muggle|Non-Magique]]
+|nationality = [[France|French]]
+|species = [[Human]]
+|gender = Male
+|skin = Light
+|job = [[Police]]man
+|loyalty = [[Paris]]ian [[Police]]
+|theme = muggle
+}}
+This '''individual''' (fl. [[1927]]) was a [[France|French]] [[Non-magique|Non-Magique]] [[police]]man.<ref name="COG48"/>
+
+==Biography==
+In [[1927]], he was guarding near [[Unidentified Magical Statue|the entrance]] to [[Place Cachée]]. When [[Newton Scamander|Newt Scamander]] and [[Jacob Kowalski]] arrived at [[Paris]] to investigate, Newt used the [[Confundus Charm]] on the Policeman to distract him for a moment.<ref name="COG48">{{COG|S|48}}</ref>
+
+==Behind the scenes==
+The policeman was portrayed by [[Ed Gaughan]] in {{COG}}.
+
+==Appearances==
+*{{COG|S}} {{1st}}
+*{{COG}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:French individuals]]
+[[Category:Males]]
+[[Category:Police officers]]
+[[Category:Unidentified Muggles]]

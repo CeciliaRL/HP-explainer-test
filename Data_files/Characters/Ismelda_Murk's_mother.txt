@@ -1,0 +1,46 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Ismelda Murk's mother
+|born = before [[1970s]]
+|died = 
+|blood = 
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ismelda Murk's father|Husband]]
+*[[Ismelda Murk's sister|Daughter]]
+*[[Ismelda Murk]] (daughter)
+*[[Ismelda Murk's paternal grandmother|Mother-in-law]]
+|romances = [[Ismelda Murk's father|Husband]]
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = Murk family
+}}
+This '''individual''' was the mother of [[Ismelda Murk]] and [[Ismelda Murk's sister|another]] daughter. She neglected Ismelda and was proud of her older daughter's achievements.<ref name="HM5">{{HM|5|Crushed}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Parents d'Ismelda Murk]]{{DEFAULTSORT:Murk, Ismelda mother}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Murk family]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

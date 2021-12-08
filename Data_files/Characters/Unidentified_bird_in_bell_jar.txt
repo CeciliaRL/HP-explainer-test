@@ -1,0 +1,39 @@
+{{WizardsUniteSpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|name = Unidentified bird in bell jar
+|image = Brilliant_Bell_Jar_of_Time_WU.png
+|born = Was repeatedly born,<ref name="OOTP34"/> until release on [[18 June]] [[1996]]<ref name="OOTP35"/>
+|died = Repeatedly died,<ref name="OOTP34"/> until release on [[18 June]] [[1996]]<ref name="OOTP35"/>
+|alias = 
+|title = 
+|species = [[Hummingbird]]<ref name="OOTP34"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = Green and purple<ref name="WU"/>
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Department of Mysteries]]<ref name="OOTP34"/>
+}}
+{{Quote|Drifting along in the sparkling current inside was a tiny, jewel-bright egg. As it rose in the jar it cracked open and a hummingbird emerged, which was carried to the very top of the jar, but as it fell on the draft, its feathers became bedraggled and damp again, and by the time it had been borne back to the bottom of the jar, it had been enclosed once more in its egg.|The bird in the bell jar|Harry Potter and the Order of the Phoenix}}
+This ''''[[hummingbird]]''' was used in [[Department of Mysteries]] to research [[Wikipedia:Life|life]] and [[death]] in the [[Time Room]]. It lived in a [[bell jar]], which allowed it to become an [[egg]], a [[Wikipedia:Hatchling|chick]], an adult, and then start life over again.<ref name="OOTP34">{{OOTP|B|34}}</ref> During the [[Battle of the Department of Mysteries]] on [[18 June]] [[1996]], the bird was released and an unidentified [[Death Eaters|Death Eater]] replaced it.<ref name="OOTP35">{{OOTP|B|35}}</ref>
+
+In [[September]] [[2020]], during the [[Calamity]], this hummingbird appeared as a [[Foundable]]. Volunteer members of the [[Statute of Secrecy Task Force]] were able to return to his original time.<ref name="WU">{{WU}}, [[Brilliant Event: Battle of the Department of Mysteries]]</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+[[pt-br:Pássaro não identificado na redoma de vidro]]
+[[Category:Department of Mysteries]]
+[[Category:Foundables]]
+[[Category:Hummingbirds]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Time travellers]]
+[[Category:Unidentified individuals]]

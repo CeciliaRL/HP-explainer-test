@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Gryffindor boy
+|born = [[1980s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSF"/>
+|gender = Male<ref name="COSF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="COSF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSF"/>
+**[[Gryffindor]]<ref name="COSF"/>
+}}
+{{Dialogue a-b|Boy|Good to see you, Sir Nicholas.|Nick|Thank you.|The boy and Sir Nicholas|Harry Potter and the Chamber of Secrets (film)}}
+This '''[[Wizardkind|boy]]''' was a student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]] who was sorted into [[Gryffindor]]. He greeted [[Nicholas de Mimsy-Porpington|Sir Nicholas]] for being back after the ghost had been [[Petrification|petrified]].<ref name="COSF">{{COS|F}}</ref>
+
+==Appearances==
+*{{COS|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

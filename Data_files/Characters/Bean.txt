@@ -1,0 +1,63 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = Unidentified Beater II.jpg
+|name = Bean
+|born = [[31 August]] [[1973]] or earlier<ref>She was at least in her second year in 1985 as Harry Potter was said to have been the youngest Quidditch player in about a century in 1991.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Black
+|eyes = Brown
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Bean'''<ref name="q21">{{HM|3|Q2|1}}</ref> was a [[Wizardkind|witch]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]].
+
+==Biography==
+During her time at Hogwarts, she was [[Sorting ceremony|Sorted]] into an unknown [[Hogwarts Houses|House]]. At some point before or during the [[1985–1986 school year]], she became a [[Beater]] on her House [[Quidditch team]].<ref name="q11">{{HM|2|Q1|1}}</ref>
+
+She talked to her [[Beater's bat|bat]] after [[Quidditch]] matches as her lucky tradition.<ref name="qc">{{HM|2|The Quidditch Cup}}</ref>
+
+She was extremely dedicated to her position as a Beater to the point where she neglected her studies and had not attended any lessons after her second house match in the [[1985–1986 school year]]. As a result, during the [[1986–1987 school year]], she was suspended from her Quidditch team for the season and her position was filled by [[Jacob's sibling]].<ref name="q21" /> 
+
+After the school year, she had improved her grades to the point that her suspension was lifted and she returned to play the position for at least the [[1987–1988 school year|next season]].<ref name="q213">{{HM|3|Q2|13}}</ref>
+
+==Behind the scenes==
+
+*Her house is the same as that of [[Jacob's sibling]], which is chosen by the player.
+*Bean is a fan of [[Erika Rath]].
+
+==Appearances==
+
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+{{Stub}}
+[[ru:Бин]]
+[[Category:20th century births]]
+[[Category:Beaters]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Sorted in the 20th century]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

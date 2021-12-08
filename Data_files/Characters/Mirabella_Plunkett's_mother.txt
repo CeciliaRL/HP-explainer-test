@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mrs Plunkett
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Mirabella Plunkett's father|Mr Plunkett]] (husband)
+*[[Mirabella Plunkett]] (daughter)
+*[[Unidentified Merman|Possible son-in-law]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mrs Plunkett''' was a woman who lived during the [[19th century]].<ref name="HPPAVG">{{POA|G}} - [[Chocolate Frog Card|Famous Wizard Card]] ([[Mirabella Plunkett]])</ref>
+
+She had at least one child, a [[wizardkind|witch]] daughter, [[Mirabella Plunkett|Mirabella]].<ref name="HPPAVG" /> During a holiday to [[Loch Lomond]], her daughter fell in love with a [[Unidentified Merman|merman]], and wished to [[marriage|marry]] him.<ref name="HPPAVG" /> However, Mrs Plunkett and [[Mirabella Plunkett's father|her husband]] were deeply opposed, and forbade Mirabella to marry her merman lover.<ref name="HPPAVG" /> Mirabella [[transfiguration|transformed]] herself into a [[haddock]] and was never seen again.<ref name="HPPAVG" />
+
+==Appearances==
+*{{COS|G}} {{FWC mention}}
+*{{POA|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Plunkett, Mrs}}
+[[fr:Parents de Mirabella Plunkett]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Plunkett family]]
+[[Category:Unnamed family members]]

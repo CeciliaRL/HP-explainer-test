@@ -1,0 +1,51 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Nienna Robins
+|born = In or before [[2000]] (ilkely) <ref>Assuming she was already a fully trained Auror in 2020, she was likely born in or before 2000, but exceptions were known to exist.</ref>
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">Her mother was a witch, her father's blood status is unknown.</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Female<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Demelza Robins]] (mother)<ref name="WU"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Auror]]<ref name="WU"/>
+|house = 
+|loyalty = *[[Robins family]]<ref name="WU"/>
+*[[British Ministry of Magic]]<ref name="WU"/>
+**[[Department of Magical Law Enforcement]]
+***[[Auror Office|Auror Department]]<ref name="WU"/>
+}}
+'''Nienna Robins''' was a [[Great Britain|British]] [[Wizardkind|witch]] who worked [[Auror]] at the [[British Ministry of Magic]] in the [[2010s]].<ref name="WU">{{WU}}</ref>
+
+==Biography==
+Nienna was a daughter of [[Demelza Robins]]. In the early [[2020s]], during the [[Calamity]], she invited [[Statute of Secrecy Task Force|SOS agents]] to spar.<ref name="WU"/>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Robins family]]
+[[Category:Wizards]]
+{{DEFAULTSORT:Robins, Nienna}}

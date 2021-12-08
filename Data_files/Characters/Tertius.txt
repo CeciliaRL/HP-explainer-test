@@ -1,0 +1,61 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|image = [[File:Tertius.png|250px]]
+|name = Tertius
+|born =
+|died =
+|alias =
+|signature =
+|blood = [[Muggle-born]]<ref name="WBP"/>
+|nationality = [[Scotland|Scottish]]<ref name="WBP"/>
+|species = [[Human]]<ref name="WBP"/>
+|gender = Male<ref name="WBP"/>
+|hair = Blonde<ref name="WBP"/>
+|skin = Fair<ref name="WBP"/>
+|eyes =
+|weight =
+|height =
+|family = [[Tertius's brothers|Two older brothers]]<ref name="WBP"/>
+|romances =
+|wand =
+|animagus =
+|patronus =
+|boggart =
+|job = [[Curse-Breaker]] for [[Gringotts Wizarding Bank]]<ref name="WBP"/>
+|house =
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="WBP"/>
+|theme = gringotts
+}}
+'''Tertius''' (fl. [[16th century]]) was a [[Scotland|Scottish]] [[Muggle-born]] [[Wizardkind|wizard]], the youngest of [[Tertius's brothers|three brothers]]. Chased from his home, Tertius found his way to the island of [[Hermetray]] and met [[Zygmunt Budge]], who used him as an unwilling guinea pig for his [[Felix Felicis]] and thus changed his life forever.<ref name="WBP">{{WBP}}</ref>
+
+==Biography==
+Tertius was born to a [[Non-magic people|Muggle]] family somewhere in [[Scotland]]. He was born the youngest of three brothers, the other two being non-magical. Sometime in his youth, his parents died, leaving Tertius and his brothers as orphans. Frightened of their brother's magical abilities, Tertius's brothers broke his [[wand]] and chased him out the house, where Tertius accidentally fell into the sea.<ref name="WBP" />
+
+Unconscious, Tertius floated to the island of Hermetray, where he was found by the hermit [[potioneer]] [[Zygmunt Budge]]. Though normally disinclined to visitors, Budge took pity on Tertius, brought him into his house, and revived him. Once there, Tertius informed Budge of his history. Despite having taken Tertius in, Budge was unwilling to make the arrangement permanent, as Budge felt he disrupted his potion-making, and was wary of anyone stealing his recently perfected [[Felix Felicis]]. Budge gave Tertius a few [[Wizarding currency|coins]], a new [[cloak]], a boat, and a sample of the liquid luck for his journey, only telling him the latter was a "farewell drink".<ref name="WBP" />
+
+As Tertius sailed back to the mainland, a wind blew his boat off-course. He landed ashore at the home of the only wizarding family for fifty miles. Concerned that Tertius had no wand, they offered to accompany him to [[Diagon Alley]]. Upon his arrival, he found an abandoned bag of [[gold]] in the gutter, and thus paid for his new wand and a new set of robes. Walking back to [[Gringotts Wizarding Bank]], he overheard a pair of wizards discussing openings for [[Curse-Breaker]]s. Tertius applied and was accepted.<ref name="WBP" />
+
+Though the effects of Budge's Felix Felicis (which had caused this string of good luck) wore off after twelve hours, Tertius never looked back. He went on to become one of Gringotts's most famous Curse-Breakers.<ref name="WBP"/>
+
+==Behind the scenes==
+*Peter Dobbin, a concept artist for {{WBP}}, refers to Tertius as "Tertia" on [http://www.peterdobbin.co.uk/?Section=Environment&Guid=3 his official site]. It is unclear if this was Tertius's original name during production or if Dobbin was merely mistaken on his name.
+
+==Appearances==
+*{{WBP}} {{1st}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+[[es:Tertius]]
+[[fr:Tertius]]
+[[pl:Tertius]]
+[[ru:Тертиус]]
+[[Category:Curse-Breakers]]
+[[Category:Gringotts employees]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Muggle-borns]]
+[[Category:Orphans]]
+[[Category:Scottish individuals]]
+[[Category:Wizards]]

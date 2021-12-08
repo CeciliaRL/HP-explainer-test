@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = ilvermorny
+|name = Unidentified Wampanoag children
+|image = 
+|born = [[17th century]]<ref name="Pottermore" />
+|died = 
+|blood = 
+|alias = 
+|title =
+|nationality = [[Native Americans|Native American]]<ref name="Pottermore" />
+|signature =
+|species = [[Human]]s<ref name="Pottermore" />
+|gender = Males<ref name="Pottermore"/>
+|skin =
+|hair =
+|eyes =
+|height =
+|weight =
+|family =
+|romances =
+|wand = Unknown lengths, woods and cores<ref name="Pottermore" />
+|animagus =
+|boggart =
+|patronus =
+|job =
+|house = 
+|loyalty = *[[Wampanoag|Wampanoag tribe]]<ref name="Pottermore" />
+*[[Ilvermorny School of Witchcraft and Wizardry]]<ref name="Pottermore" />
+}}
+These unnamed '''[[Wampanoag]] children''' were two [[Native Americans|Native American]] [[Wizardkind|wizards]] who became one of the first students of [[Ilvermorny School of Witchcraft and Wizardry]] in the [[17th century]]. They were part of the Wampanoag tribe.<ref name="Pottermore" />
+
+==Biography==
+Along with a [[Unidentified Narragansett mother|mother]] and her [[Unidentified Narragansett children|two daughters]] of the [[Narragansett]] tribe, they were given [[wand]]s made by [[Isolt Sayre]] and [[James Steward]], and instructed in the use of them and in return they shared their own [[magic]]al knowledge.<ref name="Pottermore">{{WW|ilvermorny}}</ref> 
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Niezidentyfikowani chłopcy z plemienia Wampanoag]]
+
+[[Category:17th century births]]
+[[Category:American individuals]]
+[[Category:Historical figures]]
+[[Category:Ilvermorny students]]
+[[Category:Males]]
+[[Category:Native Americans]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

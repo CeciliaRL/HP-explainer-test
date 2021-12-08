@@ -1,0 +1,57 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|name = Daisy Pennifold
+|born = c. [[18th century]]<ref name="QTA6"/>
+|died = 
+|blood = 
+|nationality = 
+|alias = 
+|title = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="QTA6"/>
+|gender = Female<ref name="QTA6"/>
+|skin = 
+|eyes = 
+|hair = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|house = 
+|job = [[Spell creation|Spell inventor]]<ref name="QTA6"/>
+|loyalty = 
+|theme = wizard
+}}
+'''Daisy Pennifold''' was a [[Wizardkind|witch]] who lived in the [[18th century]].<ref name="QTA6"/>
+
+==Biography==
+In [[1700s|1711]], shortly after the change in colour of the [[Quaffle]], Daisy [[Spell creation|invented]] a [[Arresto Momentum|charm to slow the target's descent]] and used it on the Quaffle, allowing [[Chaser]]s to retrieve the ball while it was still in the air rather than having to dive to the ground. These [[Charm|enchanted]] Quaffles became known as "Pennifold Quaffles" and are still used in modern times.<ref name="QTA6">{{QTA|R|6}}</ref>
+
+==Magical abilities and skills==
+*'''[[Spell creation]]''': Pennifold succeeded in the very advanced and difficult [[magic]]al art of inventing new [[spell]]s, having successfully created the highly useful and practical [[Slowing Charm]].<ref name="QTA6"/>
+*'''[[Charm]]s''': Pennifold was highly accomplished and talented with charm-work, given how she successfully invented the [[Slowing Charm]].<ref name="QTA6"/>
+
+==Etymology==
+The name "Daisy" comes simply from the English word for the white flower, ultimately derived from Old English dægeseage meaning "day eye". It was first used as a given name in the [[19th century]], at the same time many other plant and flower names were coined.
+
+==Appearances==
+*{{QTA}} {{1st Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Charms}}
+[[de:Daisy Pennifold]]
+[[es:Daisy Pennifold]]
+[[fr:Daisy Pennifold]]
+[[pl:Daisy Pennifold]]
+[[ru:Дейзи Пеннифолд]]
+[[Category:Females|Pennifold, Daisy]]
+[[Category:Historical figures]]
+[[Category:Spell inventors]]
+[[Category:Wizards|Pennifold, Daisy]]

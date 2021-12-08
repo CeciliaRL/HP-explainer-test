@@ -1,0 +1,59 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Eunice_Murray.png]]
+|name = Eunice Murray
+|born = 
+|died = [[1942]]
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = [[Seeker]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] for the [[Montrose Magpies]]
+|house = 
+|loyalty = [[Montrose Magpies]]
+}}
+'''Eunice Murray''' was a [[Great Britain|British]] [[Wizardkind|witch]] and the [[Seeker]] for the [[Montrose Magpies]]. Murray once petitioned for a ''"faster [[Golden Snitch|Snitch]] because this is just too easy."'' Murray died in [[1942]].<ref>{{QTA|R|7}}</ref>
+
+==Etymology==
+The name "Eunice" is the Latinized form of the Greek name Ευνικη (Eunike) which meant "good victory". Eunike is derived as well from the name of the goddess of victory in Greek mythology [https://en.wikipedia.org/wiki/Nike_(mythology) Nike].
+
+==Behind the scenes==
+*Eunice was refered to as a male in the German translation of Quidditch through the Ages.
+
+==Appearances==
+*{{QTA|R}} {{1st}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Murray, Eunice}}
+
+[[de:Eunice Murray]]
+[[ru:Юнис Мюррей]]
+[[pl:Eunice Murray]]
+[[fr:Eunice Murray]]
+[[nl:Eunice Murray]]
+[[zh:尤尼斯·默里]]
+[[Category:1942 deaths]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Seekers]]
+[[Category:Wizards]]

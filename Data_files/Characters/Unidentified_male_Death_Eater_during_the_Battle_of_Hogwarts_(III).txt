@@ -1,0 +1,38 @@
+{{Notability}}
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Unidentified Death Eater at Battle.jpg|250px]]
+|name = Unidentified Male Death Eater during the Battle of Hogwarts (III)
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">The [[Death Eaters]] were known to vehemently oppose [[Muggle-born]]s.</ref>
+|species = [[Human]]
+|gender = Male
+|hair = Dark
+|skin = Light
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|loyalty = *[[Death Eaters]]
+**[[Tom Riddle|Lord Voldemort]]
+|theme = death-eater
+}}
+This '''individual''' was a [[Dark Wizard]] and a [[Death Eaters|Death Eater]] who served [[Tom Riddle|Lord Voldemort]].
+
+==Biography==
+In [[1997]], he was present during the [[Meeting at Malfoy Manor|Meeting]] at [[Malfoy Manor]].<ref name="DHF1">{{DH|F1}}</ref> In [[1998]], he participated in the [[Battle of Hogwarts]], and was present in the [[Forbidden Forest]] when [[Tom Riddle|Voldemort]] ''killed'' [[Harry Potter]]. He was later seen when the [[Death Eaters]] were fleeing from the battle.<ref name="DHF2">{{DH|F2}}</ref> After Voldemort's defeat he was possibly killed or imprisoned in [[Azkaban]] afterwards.
+
+==Physical Appearance==
+This Death Eater seemed to have fairly large ears, fairly short brown hair, and sunken eyes. He also had a large "Adam's Apple" around his neck area.
+
+==Behind the scenes==
+*This [[Death Eaters|Death Eater]] was portrayed by [[Tony Kirwood]] in {{DH|F2}}.
+
+==Appearances==
+*{{DH|F1}} {{1st}}
+*{{DH|F2}}
+*{{LEGO|Y2}} {{C|Appears as a generic [[Death Eaters|Death Eater]]}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Meeting at Malfoy Manor participants]]
+[[Category:Unidentified Death Eaters]]

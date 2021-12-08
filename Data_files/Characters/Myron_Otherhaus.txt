@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Myron Otherhaus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Violet Tillyman]] (lover)
+*[[Violet Tillyman's seven children|Seven children]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Myron Otherhaus''' was a [[wizardkind|wizard]] who lived in the [[19th century]]. Described as "very handsome," he was resided in [[Bury St Edmunds]], [[Wikipedia:Suffolk|Suffolk]].<ref name="PM">{{WW|the-floo-network}}</ref>
+
+==Biography==
+One day in [[1855]], [[Violet Tillyman]] unexpectedly tumbled out of Myron's fireplace via the [[Floo Network]], having left her home after a nasty argument with her bullying husband, [[Albert Tillyman|Albert]]. In a distressed state, she had tried to say, "''I want to go to [[Violet Tillyman's mother|Mother's]] house''", but the words had not come out clearly between her sobs and hiccoughs. However, despite Violet's red, tear-streaked face and ash-covered clothing, she and Myron immediately fell in love with each other.<ref name="PM"/>
+
+For the next twenty years, Myron and Violet lived together in seclusion in Bury St Edmunds, having [[Violet Tillyman's seven children|seven children]]. After Albert's death in [[1875]], Violet finally chose to resurface publicly, and she and Myron lived together happily for the rest of their lives.<ref name="PM"/>
+
+==Behind the scenes==
+*If Myron and Violet never married, as seems to be the case, this would make their seven children the only characters within [[Harry Potter universe|''Harry Potter'' canon]] known to have been born to non-married parents, until the addition of [[Delphini]] in {{CC}}.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Otherhaus, Myron}}
+[[de:Myron Otherhaus]]
+[[pl:Myron Otherhaus]]
+[[Category:English individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Wizards]]

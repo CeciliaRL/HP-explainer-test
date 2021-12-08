@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Portrait of two lovers in a graveyard.jpg|250px]]
+|name=Portrait of two lovers in a graveyard
+|hideb=
+|born=
+|died=Before [[1993]] (possibly)
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=*Male
+*Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+These '''two individuals''' were [[Wizardkind|wizard]]s whose portrait hung at [[Hogwarts Castle]] in the [[1990s]], next to a [[portrait of three young ladies]]. They were depicted in a graveyard, the woman in a swing, being pushed by the man.<ref name="PA13">{{POA|F}} - Chapter 13 (''Flight of the Fat Lady'')</ref>
+
+==Behind the scenes==
+*This portrait seems to be a reference to [[Wikipedia:Jean-Honoré_Fragonard|Jean-Honoré Fragonard]]'s ca. 1767 rococo masterpiece [[Wikipedia:The Swing (painting)|''The Swing'']].
+
+==Appearances==
+*{{POA|F}} {{Portrait}}
+*{{OOTP|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts seventh floor}}
+
+[[es:Retrato de dos amantes en el cementerio]]
+[[Category:Females]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

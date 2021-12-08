@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:Siren's Rest landlord.png|250px]]
+|name = Landlord of the Siren's Rest
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = British
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = Grey
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Landlord of [[Siren's Rest]] pub
+|house = 
+|loyalty = [[Siren's Rest]]
+}}
+The '''Siren's Rest's landlord''' was the [[Non-magic people|Muggle]] owner of the [[Siren's Rest]] pub.
+
+==Biography==
+[[Mathilda Grimblehawk]] and [[Mathilda Grimblehawk|her partner]] investigated his story of bring attacked by a 50-foot-long [[magic]]al [[beast]] while fishing in the [[Lake in Wales|nearby lake]]. [[Landlord of the Siren's Rest's fishing pole|His fishing pole]] bore the marks of the magical beast which he hoped would help draw patrons to his pub. [[Landlord of the Siren's Rest's spectacles|His spectacles]], which he lost during the encounter, were later retrieved by the [[British Ministry of Magic|Ministry]] investigators at the bottom of the lake, with marks of suckers on them.
+
+When visiting monster hunter [[Laura Thorn]] went missing he drew a map and rounded up some local lads to go find her.<ref name="FBC4.3">{{FBC|4|3}}</ref> After [[British Ministry of Magic|Ministry]] investigators [[Mathilda Grimblehawk]] and [[Mathilda Grimblehawk|her partner]] (in the guise of people from "the lake safety commission") retrieved Thorn and sent her to [[St Mungo's Hospital for Magical Maladies and Injuries]], the Landlord agreed to call off the Muggle mob, but expressed his intention to contact the newspapers with information about [[Grindylow|the monster]] from the lake (his ultimate goal to "''make a fortune off monster-seeking tourists''"). Ultimately, he had to be [[Memory Charm|Obliviated]] to prevent a breach of the [[International Statute of Wizarding Secrecy]].<ref name="FBC4.4">{{FBC|4|4}}</ref>
+
+==Appearances==
+*{{FBC}}
+
+==Notes and references==
+{{Reflist}}[[pl:Właściciel pubu Siren's Rest]]
+[[fr:Tenancier de La Sirène endormie]]
+[[ru:Хозяин «Покоя сирены»]]
+[[Category:British individuals]]
+[[Category:Grey-eyed individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Pub landlords and landladies]]

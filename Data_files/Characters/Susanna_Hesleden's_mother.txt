@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Susanna Hesleden's mother
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Female<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Susanna Hesleden]] (daughter)<ref name="HBPG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mrs Hesleden''' was the mother of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] student [[Susanna Hesleden]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Behind the scenes==
+*This particular individual was only featured in the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+*If she attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], it is likely she was in [[Ravenclaw]], as her daughter was in this house.
+
+==Appearances==
+*{{HBP|G}} {{1st Mention}} {{C|NDS version only}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Hesleden, Susan mother}}
+{{Character-stub}}
+[[Category:British individuals|Hesleden, Mrs]]
+[[Category:Females|Hesleden, Mrs]]
+[[Category:Humans|Hesleden, Mrs]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

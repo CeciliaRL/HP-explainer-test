@@ -1,0 +1,45 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Napoleone di Buonaparte
+|hideb=
+|born=[[15 August]] [[1760s|1769]]<br>Corsica, Kingdom of [[France]]<ref name="wikipedia"/>
+|died=[[5 May]] [[1820s|1821]]<br>Longwood, Saint Helena, [[Great Britain|British Empire]]<ref name="wikipedia"/>
+|blood=
+|marital=
+|alias=
+|title=Emperor of the [[France|French]]<ref name="wikipedia"/>
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidea=hide
+|job=
+|loyalty=
+|nationality=French
+|romances=
+}}
+'''Napoléon''', born '''Napoleone di Buonaparte''', was a [[France|French]] military and political leader who led successful campaigns in the {{w|French Revolution}}. He was the de facto leader of the French Republic, then {{w|Emperor of the French}} from [[1800s|1804]] until [[1810s|1814]] and again in 1815.<ref name="wikipedia">{{Wikilink|Napoleon}}</ref>
+
+In [[1927]], ''[[Le Cri de la Gargouille]]'' reported that a book proposing Napoléon to be a [[wizardkind|wizard]] was newly released.<ref name="newspaper">{{COG}} {{See image|File:Le Cri De La Gargouille.jpg}} - ''"« Napoléon était un magicien » révèle Magillard dans un nouveau livre"''</ref>
+
+==Appearances==
+*{{COG}} {{Mention|newspaper}}
+*{{AM}} {{Mention|newspaper}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Napoléon]]
+
+[[Category:1769 births]]
+[[Category:1821 deaths]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:French individuals]]

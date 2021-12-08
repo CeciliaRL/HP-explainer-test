@@ -1,0 +1,89 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:Laverne de Montmorency.jpg|250px]]
+|name = Laverne de Montmorency
+|born = [[1823]]
+|died = [[1893]] (aged 69-70)
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Dark
+|eyes = Green
+|skin = Green
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Potioneer]]
+|house = [[Ravenclaw]]<ref name="pottermore">{{PM}} introduction for Ravenclaws (transcription available [http://www.cosforums.com/showpost.php?s=7ebe5b421c1027e7574608fb87150e67&p=5828119&postcount=783 here])</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+{{Quote|Ravenclaw house has an illustrious history. Most of the greatest wizarding inventors and innovators were in our house, including... Laverne de Montmorency, a great pioneer of love potions....|[[Robert Hilliard]]|Pottermore}}
+'''Laverne de Montmorency''' ([[1823]] – [[1893]]) was a [[19th century|nineteenth-century]] [[potioneer]], who invented a number of [[Love Potion|love potions]]. She appears on a [[Chocolate Frog Card]].<ref name="PSg" />
+
+==Biography==
+Laverne de Montmorency was born in [[1823]], somewhere in the [[Great Britain|British Isles]].<ref name="PSg">{{PS|G}}</ref>
+
+In her youth, she attended [[Hogwarts School of Witchcraft and Wizardry]] from around [[1834]]-[[1841]], and was [[Sorting ceremony|Sorted]] into [[Ravenclaw]].<ref name="pottermore"/>
+
+After her graduation from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]], Laverne de Montmorency presumably studied further into [[Potion|Potion-making]], becoming an accomplished [[potioneer]] and an expert in [[Love Potion|love potions]]. She became famous for her invention of many such potions.<ref name="PSg" />
+
+Ms. de Montmorency died in [[1893]], aged around 70. In her honour, her invention of many [[Love Potion|love potions]] was recorded on a Chocolate Frog Card.
+
+On [[1 September]], [[1991]], [[Prefect]] [[Robert Hilliard]] welcomed the [[Ravenclaw]] [[first year]]s to [[Ravenclaw Tower]] with a short speech, in which he mentioned [[potioneer]] Laverne de Montmorency as one of the many notable Hogwarts students, who had been [[Sorting ceremony|Sorted]], like them, into Ravenclaw.<ref name="pottermore"/>
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': Laverne was a highly accomplished professional [[Potioneer]] and was thus highly proficient in the art and [[science]] of potion-making, having successfully invented a number of [[Love Potion]]s in her lifetime. Given how Love Potions are particularly advanced brews, and that she was even featured on a [[Chocolate Frog Card]] for her impressive achievements, this shows her great level of expertise and talent in this branch of [[magic]].
+
+==Etymology==
+*"Laverne" is derived from a French place-name that includes the Gaulish word ''vern, ''meaning "[[alder]]." It is sometimes associated with [https://en.wikipedia.org/wiki/Laverna Laverna], the Roman goddess of thieves, or the Latin adjective ''vernus, ''meaning "of spring."<ref>https://www.behindthename.com/name/laverne</ref>
+*The {{wplink|House of Montmorency}} was one of the oldest and most distinguished noble families in France. [[Wikipedia:Montmorency, Val-d'Oise|Montmorency]] was also the name of the family's fiefdom. The [https://en.wikipedia.org/wiki/Montmorency_cherry Montmorency cherry] is a popular variety of sour cherries, cultivated in the United States.
+
+==Behind the scenes==
+*Despite this individual's [[Hag]]-like appearance in her [[Chocolate Frog Card]] picture, she was actually a [[human]] [[Wizardkind|witch]].
+
+==Appearances==
+{{Imagecat|Images of Laverne de Montmorency}}
+[[File:Laverne_de_Montmorency.gif|thumb|Laverne de Montmorency immortalised on a silver [[Chocolate Frog Card]]]]
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Montmorency, Laverne de}}
+
+{{Potions}}
+{{Chocolate Frog Cards}}
+
+[[fr:Laverne de Montmorency]]
+[[it:Laverne de Montmorency]]
+[[pl:Laverne de Montmorency]]
+[[fi:Laverne de Montmorency]]
+[[ru:Лаверна де Монморанси]]
+[[es:Laverne de Montmorency]]
+[[de:Laverne de Montmorency]]
+[[nl:Laverne de Montmorency]]
+[[pt-br:Laverne de Montmorency]]
+[[Category:1823 births]]
+[[Category:1893 deaths]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Historical figures]]
+[[Category:Inventors]]
+[[Category:Potioneers]]
+[[Category:Ravenclaws]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Sorted in the 1830s]]
+[[Category:Wizards]]

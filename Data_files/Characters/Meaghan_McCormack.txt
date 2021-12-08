@@ -1,0 +1,51 @@
+{{WizardsUniteSpoiler}}{{Individual infobox
+|theme = wizard
+|image = 
+|name = Meaghan McCormack
+|born = 
+|died = 
+|blood = [[Half-blood]] or [[pure-blood]] (possibly)<ref>As she and her mother played Quidditch, she is unlikely to be Muggle-born or a Squib</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Keeper]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Catriona McCormack]] (mother)
+*[[Kirley Duke]] (brother)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Pride of Portree]]
+*[[McCormack family]]
+}}
+'''Meaghan McCormack''' was the [[Keeper]] for the [[Pride of Portree]]. She was the daughter of the team's former [[Chaser]], [[Catriona McCormack]], and also the sister of [[Kirley Duke]], the lead guitar player of [[Weird Sisters|The Weird Sisters]].<ref>{{QTA|R|7}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:McCormack, Meaghan}}
+
+[[de:Meaghan McCormack]]
+[[fr:Meaghan McCormack]]
+[[pl:Meaghan McCormack]]
+
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Keepers]]
+[[Category:McCormack family]]
+[[Category:Wizards]]

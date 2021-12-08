@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Eugene Belcher
+|born = 
+|died = 
+|blood = [[Non-magic people|No-Maj]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Actor
+|house = 
+|loyalty = 
+}}
+'''Eugene Belcher''' was a [[Non-magic people|No-Maj]] actor in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:WhenBroadwaySleeps.jpg}}</ref>
+
+He appeared in a production of the comedy play ''[[When Broadway Sleeps]]'' that ran at the [[Glovers Comedy Theatre]] in [[New York]] in [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{1st Mention}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Belcher, Eugene}}
+[[Category:Actors]]
+[[Category:Males]]
+[[Category:Muggles]]

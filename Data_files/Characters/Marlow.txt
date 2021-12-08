@@ -1,0 +1,40 @@
+{{Pet individual infobox
+|image = Bowtruckles.png
+|name = Marlow
+|born = Pre [[1926]]
+|died = 
+|alias = 
+|title = 
+|species = [[Bowtruckle]]<ref name="bowtruckles">{{FB|F}}</ref>
+|gender = Male
+|height = 
+|hair = 
+|feathers = 
+|eyes = Black
+|skin = 
+|family = *[[Poppy]]<ref name="bowtruckles"/>
+*[[Titus]]<ref name="bowtruckles"/>
+*[[Pickett]]<ref name="bowtruckles"/>
+*[[Finn]]<ref name="bowtruckles"/>
+*[[Tom (Bowtruckle)|Tom]]<ref name="bowtruckles"/>
+|loyalty = [[Newton Scamander|Newt Scamander]]
+}}
+
+'''Marlow''' was one of the six [[Bowtruckle]]s kept by [[Newton Scamander|Newt Scamander]], along with [[Pickett]], [[Titus]], [[Finn]], [[Poppy]], and [[Tom (Bowtruckle)|Tom]].<ref>[https://twitter.com/FantasticBeasts/status/794333143096442880 Twitter - Fantastic Beasts]</ref>
+
+==Behind the scenes==
+[[Eddie Redmayne]] named this Bowtruckle after his goddaughter Marlowe Sturridge (child of his friends Sienna Miller and Tom Sturridge).<ref>"[https://www.youtube.com/watch?v=M8epsEWk6HE] Sienna Miller and her Fantastic Beasts Story."</ref>
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}} 
+
+==Notes and references==
+{{Reflist}}[[de2:Marlow]]
+[[fr:Marlow]]
+[[pl:Marlow]]
+[[ru:Марлоу]]
+[[Category:Bowtruckles]]
+[[Category:Females]]
+[[Category:Newton Scamander's suitcase]]
+[[Category:Pets]]

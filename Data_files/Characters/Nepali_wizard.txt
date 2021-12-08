@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Nepali wizard
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Nepal]]i<ref name="GOFF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFF"/>
+|gender = Male<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Herbologist]]<ref name="GOFF"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|Do you know there's a wizard, in Nepal, who's growing [[gravity-resistant tree]]s|[[Neville Longbottom]] to [[Harry Potter]]|Harry Potter and the Goblet of Fire (film)}}
+A '''[[Wizardkind|wizard]]''' from [[Nepal]], with some [[Herbology]] skill, bred [[gravity-resistant tree]]s. He was notable enough to be included in [[Goshawk's Guide to Herbology]] by [[Miranda Goshawk]] by [[1994]], although any activity in the field since that time is unknown.<ref name="GOFF">{{GOF|F}} - Chapter 22 (''The Second Task'')</ref>
+
+==Appearances==
+*{{GOF|F}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Herbology}}
+[[es:Mago Nepalés]]
+[[fr:Arboriculteur d'arbres anti-pesanteur]]
+[[pl:Czarodziej z Nepalu]]
+[[pt-br:Bruxo nepalês]]
+[[Category:Herbologists]]
+[[Category:Males]]
+[[Category:Nepali individuals]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

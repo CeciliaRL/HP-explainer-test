@@ -1,0 +1,49 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Marlowe Forfang
+|hideb=
+|born=[[19th century|1800s]]<br/>[[England]]<ref name="PM"/>
+|died=
+|blood=
+|alias=
+|title=[[Professor]]<ref name="PM">{{WW|werewolves}}</ref>
+|hidep=
+|species=[[Human]]<ref name="PM"/>
+|gender=Male<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=Hide
+|family=
+|hidem=Hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Authority on [[Werewolf|werewolves]]<ref name="PM"/>
+|house=
+|loyalty=
+}}
+'''Professor Marlowe Forfang''' (fl. late [[19th century|1800s]]) was an [[England|English]] [[Wizardkind|wizard]] and a great authority on [[Werewolf|werewolves]]. He studied werewolves for a long time, being the first to undertake a comprehensive study of their habits. From his study, he concluded that most werewolves are [[wizardkind]]; [[Non-magic people|Muggle]]s "taste" different than wizards to a werewolf, and are much more likely to die from their injuries rather than be turned.<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Forfang, Marlowe}}
+[[fr:Marlowe Loncrocs]]
+[[pl:Marlowe Forfang]]
+[[es:Marlowe Forfang]]
+[[Category:Articles related to werewolves]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Professors]]
+[[Category:Wizards]]

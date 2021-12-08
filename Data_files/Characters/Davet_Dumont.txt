@@ -1,0 +1,32 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = beauxbatons
+|name = Davet Dumont
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="ancestry">{{HM|2|Hosting the Beauxbatons|1}} - ''"I come from a long line of French wizards."''</ref>
+|species = [[Human]]
+|gender = Male
+|family = *[[Aurélie Dumont]] (younger sister)
+*[[Dumont family]]
+|loyalty = *[[Dumont family]]
+*[[Beauxbatons Academy of Magic]]
+|nationality = [[France|French]]
+}}
+'''Davet Dumont''' was a [[France|French]] [[Wizardkind|wizard]] and the older brother of [[Aurélie Dumont]].<ref name="HM">{{HM|2|Hosting the Beauxbatons|3}}</ref>
+
+==Biography==
+Davet attended [[Beauxbatons Academy of Magic]]. He was considered a prodigy and was doted on by his [[Professor]]s because he was very talented young wizard.<ref name="HM"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dumont, Davet}}
+{{Stub}}
+[[es:Davet Dumont]]
+[[ru:Даве Дюмон]]
+[[Category:Beauxbatons students]]
+[[Category:Dumont family]]
+[[Category:French individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

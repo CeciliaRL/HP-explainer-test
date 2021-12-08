@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Podric Piles.jpg|250px]]
+|name = Podric Piles
+|born = 
+|died = Before [[1991]]
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Head of House]]<ref name="MHP">{{MHP}} (see [http://www.flickr.com/photos/karen_roe/7366145410/in/set-72157630012281279/ this image])</ref>
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Head of Gryffindor House]] (? - before [[1991]])
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+'''Professor'''<ref name="MHP"/> '''Podric Piles'''<ref name="name">{{MHP}} {{see image|File:ChessPlayersNames.jpg}}</ref> was a [[wizardkind|wizard]] that was depicted in a large painting that hung in [[Gryffindor Tower]], at [[Hogwarts Castle]]. In his lifetime, he was [[Head of Gryffindor House]].<ref name="MHP" />
+
+In the painting, Piles is depicted as playing a game of [[Wizard's Chess]] with [[Uric Oapley]], with [[Tobias Stump]], standing, watching over the game, and [[Muldoon Cragg]], in the background, absorbed in reading. Piles is depicted as sitting on a chair, wearing a long curly white powdered wig with a stripey pointy hat, a large red coat, a cravat, blue breeches and white stockings.
+
+==Appearances==
+*{{PS|F}} {{Portrait}}
+*{{POA|F}} {{Portrait}}
+*{{GOF|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+*{{HM}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Piles, Podric}}
+[[fr:Podric Piles]]
+[[pl:Podric Piles]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Heads of House]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

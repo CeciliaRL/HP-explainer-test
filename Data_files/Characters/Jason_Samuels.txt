@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:Jasonsamuelsqwc.png|220px]]
+|name = Jason Samuels
+|born = [[31 August]] [[1981]] or earlier (most likely)<ref name="age">He was most likely at least in his second year in 1993, as first years rarely joined the Quidditch teams.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Beater]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="QWC"/>
+|eyes = 
+|skin = White<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="QWC"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="QWC"/>
+**[[Ravenclaw]]<ref name="QWC"/>
+**[[Ravenclaw Quidditch team]]<ref name="QWC"/>
+}}
+'''Jason Samuels''' was a [[Wizardkind|wizard]] and [[Ravenclaw]] student who attended [[Hogwarts School of Witchcraft and Wizardry]]. He was a [[Beater]] for the [[Ravenclaw Quidditch team]] during the [[1993–1994 school year]].<ref name="QWC">{{QWC}}</ref>
+
+==Etymology==
+The name "Jason" comes from the Greek name Ιασων (Iason), which was derived from Greek ιασθαι (iasthai) "to heal". In Greek mythology Jason was the leader of the Argonauts. After his uncle Pelias overthrew his father as king of Iolcos, Jason went in search of the Golden Fleece in order to win back the throne. During his journeys he married the sorceress Medea, who helped him gain the fleece and kill his uncle, but who later turned against him when he fell in love with another woman.
+
+==Appearances==
+*{{QWC}} {{1st}} 
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+{{DEFAULTSORT:Samuels, Jason}}
+[[de:Jason Samuels]]
+[[es:Jason Samuels]]
+[[fr:Jason Samuels]]
+[[pl:Jason Samuels]]
+[[Category:20th century births]]
+[[Category:Beaters]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

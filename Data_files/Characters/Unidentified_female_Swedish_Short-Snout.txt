@@ -1,0 +1,33 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = 
+|name = Unidentified female Swedish Short-Snout
+|born = Pre [[1994]]<ref name="GOF20"/>
+|died = 
+|alias = 
+|title = 
+|species = [[Dragon]] ([[Swedish Short-Snout]])<ref name="GOF20"/>
+|gender = Female<ref name="GOF20"/>
+|height = 
+|hair = None<ref name="GOF20"/>
+|feathers = 
+|eyes = Yellow<ref name="GOF20"/>
+|skin = Black<ref name="GOF20"/>
+|family = 
+|loyalty = 
+}}
+This '''unidentified Swedish Short-Snout''' was the female [[dragon]] that [[Cedric Diggory]] had to get by in the [[Triwizard Tournament|First Task]] of the [[1994]] [[Triwizard Tournament]]. 
+
+He [[Transfiguration|Transfigured]] a [[Rock to dog spell|rock into a dog]] to distract the dragon and allow him to retrieve the [[golden egg]] that it was guarding. Unfortunately the dragon changed its mind partway through Diggory's attempt and attacked. He escaped with the egg but was burned by dragon fire and needed to be healed by [[Poppy Pomfrey|Madam Pomfrey]] in the [[Hospital Wing]].<ref name="GOF20">{{GOF|B|20}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}} {{Mention}}
+*{{HPV|CR}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Suédois à museau court du Tournoi des Trois Sorciers]]
+[[Category:Articles with conjectural titles]]
+[[Category:Females]]
+[[Category:Triwizard Tournament dragons|Swedish]]

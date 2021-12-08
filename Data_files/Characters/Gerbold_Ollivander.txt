@@ -1,0 +1,86 @@
+{{HogwartsLegacySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Gerbold Octavius Ollivander
+|born = 
+|died = 
+|blood = [[Pure-blood]]<ref name="Blood">{{WW|pure-blood}} - The Ollivanders are mentioned to have been included in the ''[[Pure-Blood Directory]]'' published in Britain in the [[1930s]]. The Ollivander Family are stated as being pure-blood; this means that Gerbold must be Pureblood; if he was not, his descendants would not be.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="pottermore"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="pottermore"/>
+|gender = Male<ref name="pottermore"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ollivander (382 B.C. era)|Ollivander]] (ancestor)<ref name="pottermore"/>
+*[[Geraint Ollivander]] (ancestor)<ref name="pottermore"/>
+*[[Gervaise Ollivander]] (son)<ref name="pottermore"/>
+*[[Garrick Ollivander's mother|Daughter-in-law]]<ref name="pottermore"/>
+*[[Garrick Ollivander]] (grandson)<ref name="pottermore"/>
+*[[Garrick Ollivander's son|Great-grandson]]<ref name="pottermore"/>
+*[[Garrick Ollivander's daughter|Great-granddaughter]]<ref name="pottermore"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Wandmaker]]<ref name="pottermore"/>
+|house = 
+|loyalty = *[[Ollivander family]]<ref name="pottermore"/>
+*[[Ollivanders]]<ref name="pottermore"/>
+}}
+{{Quote|If you seek integrity, search first among the poplars.|Gerbold Ollivander's maxim|Pottermore}}
+'''Gerbold Octavius Ollivander''' (fl. [[19th century]]) was a [[pure-blood]]<ref name="Blood"/> [[Wizardkind|wizard]] and [[wandmaker]], who came from a [[Ollivander family|long line of wizards]] who began [[Ollivanders|selling wands]] in [[B.C. era|382 B.C]]. He was the father of [[Gervaise Ollivander]], and, through him, the paternal grandfather of [[Garrick Ollivander]].<ref name="pottermore">{{WW|wand-woods}}</ref>
+
+==Biography==
+===Early life===
+Gerbold Octavius was born in or prior to the [[19th century|nineteenth century]], somewhere in [[Great Britain]]. He was born into the [[wizardkind|wizarding]] [[Ollivander family]], who had been in the [[Ollivanders|wand-making business]] since [[B.C. era|382 B.C]].<ref name="pottermore"/>
+
+===Career as a wandmaker===
+{{Quote|My august grandfather, Gerbold Octavius Ollivander, always called wands of ''[[fir]]'' 'the survivor's wand,' because he had sold it to three wizards who subsequently passed through mortal peril unscathed.|[[Garrick Ollivander]]|Pottermore}}
+Gerbold took up the [[Ollivanders|family business]] in [[London]], studying further into [[wandlore]] and becoming an accomplished wandmaker.<ref name="pottermore"/>
+
+Gerbold believed that [[fir]] produced "the survivor's wand", as he had sold wands of this wood to three different wizards, each of whom found himself in mortal danger and came out unharmed. He was also fond of saying, "If you seek integrity, search first among the [[poplar]]s," which his grandson Garrick found correct based on his own experience with poplar wands and their owners.<ref name="pottermore"/>
+
+During the [[19th century|nineteenth century]], at a time when wands made of [[silver lime]] were in vogue, the wandmaker [[Arturo Cephalopos]] claimed that the [[wand wood|wood]]'s reputed connection with powers of [[Divination]] was "a falsehood circulated by merchants like Gerbold Ollivander, who have overstocked their workshops with silver lime and hope to shift their surplus". According to Gerbold's grandson [[Garrick Ollivander|Garrick]], however, Cephalopos was "an ignoramus" who predictably went out of business.<ref name="pottermore"/>
+
+At some point, he fathered a son, [[Gervaise Ollivander|Gervaise]], and by the late [[1910s]] he had a grandchild, [[Garrick Ollivander|Garrick]]. Both his descendants continued the family tradition of [[wandlore|wandmaking]].<ref name="pottermore"/>
+
+==Behind the scenes==
+*Gerbold may have run the family business during the events of {{HL}}, depending on when in the 19th century he was active.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Geraint Ollivander]]
+|position=Proprietor of [[Ollivanders]]
+|years=[[19th century]]
+|successor=[[Gervaise Ollivander]]
+}}
+{{End box}}
+{{DEFAULTSORT:Ollivander, Gerbold}}
+
+[[de:Gerbold Ollivander]]
+[[de2:Gerbold Ollivander]]
+[[pl:Gerbold Ollivander]]
+[[ru:Джербольд Олливандер]]
+[[fr:Gerbold Ollivander]]
+[[it:Gerbold Olivander]]
+[[Category:British individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Ollivander family]]
+[[Category:Parents]]
+[[Category:Wizards]]

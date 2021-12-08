@@ -1,0 +1,45 @@
+{{merge|Unidentified Hogwarts students at the Battle of Hogwarts|A user went creating [[Unidentified Hogwarts students at the Battle of Hogwarts|that page]] back in mid Feb 2014, and this page fit the bill. Just putting up a notice and will be properly merging it by the end of the month.}}
+{{Conjecture}}
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:Duri.jpg|250px]]
+|name = Ravenclaw girl
+|born = On or before [[2 May]] [[1981]] (possibly)
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">She was still at Hogwarts during the [[Death Eaters]] control, so she could not have been a [[Muggle-born]].</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF2"/>
+|gender = Female<ref name="DHF2"/>
+|height = 
+|weight = 
+|hair = Black<ref name="DHF2"/>
+|eyes = Dark<ref name="DHF2"/>
+|skin = Black<ref name="DHF2"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="DHF2"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+**[[Ravenclaw]]<ref name="DHF2"/>
+}}
+This '''[[Wizardkind|witch]]''' was a student at [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|sorted]] into [[Ravenclaw]]. She participated during the [[Battle of Hogwarts]] and was seen running out of the [[Great Hall]] and into the [[Viaduct Courtyard]] while the [[Protective enchantment|Protective Enchantments]] were set up.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Unidentified Ravenclaws]]
+[[Category:Wizards]]

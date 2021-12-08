@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = hag
+|image = [[File:Hubbard.JPG|250px]]
+|name = Old Mother Hubbard
+|born = [[Middle Ages|Medieval times]]<ref name="POAG"/>
+|died = [[Middle Ages|Medieval times]]<ref name="POAG"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Hag]]<ref name="POAG"/>
+|gender = Female<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = White<ref name="POAG"/>
+|eyes = Blue<ref name="POAG"/>
+|skin = Pale<ref name="POAG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Old Mother Hubbard''' was a [[Hag]] who lived in the [[Middle Ages]]. She used to lure stray animals into her home and then starve them to [[death]].<ref name="POAG">{{POA|G}}</ref>
+
+==Behind the scenes==
+*Old Mother Hubbard is presumably based on the main character from the nursery rhyme [[Wikipedia:Old Mother Hubbard|Old Mother Hubbard]].
+
+==Appearances==
+*{{POA|G}} {{1st}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+
+[[de:Old Mother Hubberd]]
+[[es:Vieja Madre Hubbard]]
+[[fr:Grand-maman Hubbard]]
+[[fi:Vanha äiti Hubbard]]
+[[pl:Stara mateczka Hubbard]]
+[[pt-br:Velha Mãe Hubbard]]
+[[ru:Мамаша Хаббард]]
+[[Category:Blue-eyed individuals]]
+[[Category:European individuals]]
+[[Category:Famous Hags Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Hags|Hubbard, Old Mother]]
+[[Category:Historical figures]]

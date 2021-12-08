@@ -1,0 +1,42 @@
+{{Individual infobox
+|name = Quentin Kowalski
+|born = After [[1976]],<ref name="Age">Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref> [[United States of America]] (possibly)
+|nationality = [[United States of America|American]]
+|title = [[Chaser]]
+|species = [[Human]]
+|gender = Male
+|family = *[[Jacob Kowalski]] (possibly)
+*[[Kowalski family]]
+|job = [[Chaser]] for the [[American National Quidditch team]]
+|loyalty = *[[American National Quidditch team]]
+*[[Kowalski family]]
+|theme = quidditch-player
+}}
+{{Quote|Yet more controversy in Patagonia: the outcome of the USA versus Jamaica clash is under investigation due to the sudden collapse of Kquewanda Bailey, the Jamaican Keeper, who toppled from her broom shortly before US Chaser Quentin Kowalski scored their ninth goal.|[[Ginevra Weasley|Ginny Potter]], "[[USA VERSUS JAMAICA (I)|USA VERSUS JAMAICA]]" (''[[Daily Prophet]]'', [[16 May]] [[2014]])|Pottermore}} 
+'''Quentin Kowalski''' was an [[United States of America|American]] [[Wizardkind|wizard]] who played as a [[Chaser]] for the [[2014]] [[American National Quidditch team]]. During the fourth match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], US versus [[Jamaican National Quidditch team|Jamaica]], Kowalski scored the ninth and final US goal.<ref name="usa-v-jam">{{PM}} - [[USA VERSUS JAMAICA (I)]] (Archived)</ref>
+
+==Biography==
+Just before Kowalski scored the goal, however, Jamaican [[Keeper]] [[Kquewanda Bailey]] unexpectedly toppled unconscious from her broomstick. The convenient timing of Bailey's unconsciousness aroused suspicion of foul play,<ref name="usa-v-jam"/> but the [[International Confederation of Wizards' Quidditch Committee|ICWQC]] later confirmed that Bailey was suffering from an infected [[Sasabonsam]] bite, sustained during the disastrous World Cup opening ceremony.<ref name="usa-v-jam2">{{PM}} - [[USA VERSUS JAMAICA (II)]] (Archived)</ref>
+
+==Behind the scenes==
+*He may be a descendant of [[Queenie Goldstein]] and [[Jacob Kowalski]]. Their marriage would have been in violation of [[Rappaport's Law]] in the [[1920s]], but they could have left the country to marry or been married secretly. The law was repealed in 1965, after which Queenie and Jacob would have been free to live openly in the [[United States of America]] as husband and wife with their descendants. 
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Kowalski, Quentin}}
+[[de:Quentin Kowalski]]
+[[es:Quentin Kowalski]]
+[[fr:Quentin Kowalski]]
+[[pl:Quentin Kowalski]]
+[[ru:Дариус Смэкхаммер]]
+[[Category:American individuals]]
+[[Category:Chasers]]
+[[Category:Kowalski family|Quentin]]
+[[Category:Males]]
+[[Category:Wizards]]

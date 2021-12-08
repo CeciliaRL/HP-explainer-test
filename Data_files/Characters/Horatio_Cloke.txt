@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = spirit
+|image = [[File:Horatio Cloke - FBC.png]]
+|name = Horatio Cloke
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBC9"/>
+|alias = 
+|title = 
+|signature = 
+|species = *[[Ghost]]<ref name="FBC9"/>
+*[[Human]] (formerly)<ref name="FBC9"/>
+|gender = Male<ref name="FBC9"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Jacturus Cloke III]] (descendant)
+*[[Cloke family]]<ref name="FBC9"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Cloke family]]<ref name="FBC9"/>
+}}
+'''Horatio Cloke''' was a [[ghost]] that haunted the [[Cloke Mansion]]. [[Mathilda Grimblehawk]] and [[Mathilda Grimblehawk's partner|her partner]] encountered Cloke after the [[Spirit Division]] asked them to investigate ruins near [[Upper Flagley]] where strange lights and shapes were seen.<ref name="FBC9">{{FBC|9}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Stub}}
+{{DEFAULTSORT:Cloke, Horatio}}
+[[ru:Горацио Клоук]]
+[[Category:British individuals]]
+[[Category:Cloke family]]
+[[Category:Ghosts]]
+[[Category:Males]]
+[[Category:Wizards]]

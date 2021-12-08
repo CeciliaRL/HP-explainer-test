@@ -1,0 +1,53 @@
+{{Individual infobox
+|name = Prudence
+|image = 
+|born = 
+|died = 
+|blood = 
+|nationality = [[Scotland|Scottish]]<ref name="QTA4"/>
+|alias = Pru (by [[Modesty Rabnott]])<ref name="QTA4"/>
+|title = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="QTA4"/>
+|gender = Female<ref name="QTA4"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = [[Modesty Rabnott]] (sister)<ref name="QTA4"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Rabnott family]]<ref name="QTA4"/>
+|theme = individual
+}}
+'''Prudence '''(fl. [[1260s|1269]]), nicknamed '''Pru''' by her sister, was a [[Scotland|Scot]] who lived in [[Aberdeen]], [[Scotland]] during the [[13th century]]. She was the sister of [[Modesty Rabnott]], who she had received a [[Modesty Rabnott's letter to Prudence|letter from]] after she lost her home.<ref name="QTA4">{{QTA|R|4}}</ref>
+
+==Behind the scenes==
+*It is possible her surname is "Rabnott" since this was her sister's surname and there was no mention of Modesty having a husband come with her. It is possible, however, that Prudence was married.
+*In 1269, the [[International Statute of Wizarding Secrecy|Statute of Secrecy]] did not exist, meaning that it is possible for Prudence to be a Muggle who knows about magic.
+
+==Appearances==
+*{{QTA|R}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+
+[[de:Prudence]]
+[[es:Prudence]]
+[[fr:Prudence]]
+[[pl:Prudencja]]
+[[pt-br:Prudência]]
+[[ru:Пруденс]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Humans]]
+[[Category:Rabnott family]]
+[[Category:Scottish individuals]]

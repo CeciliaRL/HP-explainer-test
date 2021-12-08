@@ -1,0 +1,41 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Theresa Stadt
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Mr Whiskers]]
+}}
+{{Quote|Theresa Stadt has somehow raised a Manticore – "Mr Whiskers" – from infancy. You are sent to recover the [[beast]], which proves to be a remarkably ghastly affair. You increase the amount of damage you can withstand in combat.|Description|Harry Potter: Wizards Unite}}
+'''Theresa Stadt''' was a [[Great Britain|British]] [[Wizardkind|witch]] who, somehow, managed to raise [[Mr Whiskers|a pet Manticore]] from infancy. When the [[British Ministry of Magic|Ministry of Magic]] was notified of this, they sent a [[Magizoologist]] member of the [[Statute of Secrecy Task Force]] to retrieve the [[Manticore]], which proved a "remarkably ghastly affair".<ref name="WU">{{WU}} (see [https://wizardsunitehub.info/profession-skill/pet-manticore/ this])</ref>
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Stadt, Theresa}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Wizards]]

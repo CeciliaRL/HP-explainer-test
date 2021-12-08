@@ -1,0 +1,31 @@
+{{WizardsUniteSpoiler}}
+{{Pet individual infobox
+|image = 
+|name = Mr Whiskers
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Manticore]]
+|gender = Male
+|height = 
+|hair = Golden
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Theresa Stadt]] (owner)
+}}
+{{Quote|Theresa Stadt has somehow raised a Manticore – "Mr Whiskers" – from infancy. You are sent to recover the beast, which proves to be a remarkably ghastly affair. You increase the amount of damage you can withstand in combat.|Description|Harry Potter: Wizards Unite}}
+'''Mr Whiskers''' was the name given to a male [[Manticore]] somehow raised from infancy by [[Theresa Stadt]], a [[Great Britain|British]] [[Wizardkind|witch]].
+
+When the [[British Ministry of Magic|Ministry of Magic]] was notified of this Manticore, they sent a [[Magizoologist]] member of the [[Statute of Secrecy Task Force]] to retrieve it, which proved a "remarkably ghastly affair".<ref name="WU">{{WU}} (see [https://wizardsunitehub.info/profession-skill/pet-manticore/ this])</ref>
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]
+[[Category:Manticores]]
+[[Category:Pets]]

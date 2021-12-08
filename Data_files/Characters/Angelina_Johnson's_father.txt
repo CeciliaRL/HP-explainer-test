@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mr Johnson
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Angelina Johnson]] (daughter)
+*[[George Weasley]] (son-in-law)
+*[[Fred Weasley II]] (grandson)
+*[[Roxanne Weasley]] (granddaughter)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Johnson family]]
+}}
+'''Mr Johnson''' was the father of [[Angelina Johnson]]. 
+
+==History==
+In [[July]] [[2014]], shortly before the final of the [[2014 Quidditch World Cup]], he fell ill, and Angelina left her marital home to care for him. This sparked several rumours that Angelina had walked out on her husband, [[George Weasley]], because she had "grown restless" in their marriage.<ref name="PM">{{PM}} - [[2014 Quidditch World Cup final]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Johnson, Angelina's father}}
+[[pl:Pan Johnson]]
+[[de2:Angelina Johnsons Vater]]
+[[Category:British individuals]]
+[[Category:Johnson family]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

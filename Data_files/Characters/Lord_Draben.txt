@@ -1,0 +1,66 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = spirit
+|image = [[File:Cavalier.jpg]]
+|name = Lord Draben
+|born = [[17th century|1600s]]<ref name="Draben"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PSF"/>
+|alias = 
+|title = [[Honourific#Lord|Lord]]<ref name="Draben"/>
+|signature = 
+|species = *[[Human]] (formerly)<ref name="PSF"/>
+*[[Ghost]]<ref name="PSF"/>
+|gender = Male<ref name="PSF"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="PSF"/>
+|eyes = 
+|skin = Pale<ref name="PSF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Wikipedia:Royalist|Royalism]] ([[Wikipedia:Charles I of England|Charles I]] and [[Wikipedia:Charles II of England|Charles II]])<ref name="1600s"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSF"/>
+**[[Ghost carollers]]<ref name="PSF"/>
+}}
+'''Lord Draben'''<ref name="Draben">[http://www.castingcallpro.com/uk/view.php?uid=90262 Paul Marc Davis's castingcallpro profile]</ref> (fl. [[17th century|1600s]]),<ref name="1600s">The term [[Wikipedia:Cavalier|"Cavalier"]] was used to name supporters of the Royalist cause during the Wars of the Three Kingdoms (1642 – c. 1679).</ref> otherwise known as the '''Ghost of the Cavalier''',<ref name="Cavalier">{{HPPS}}</ref> was a [[Wizardkind|wizard]] who had some connection with [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PSF"/>
+
+==Biography==
+In his lifetime, Lord Draben was a [[Wikipedia:Cavalier|Cavalier]]: a Royalist supporter of [[Wikipedia:Charles I of England|King Charles I]] and his son [[Wikipedia:Charles II of England|Charles II]] during the English Civil War, the Interregnum, and the Restoration in the mid-[[17th century|seventeenth century]].<ref name="PSF"/>
+
+When Lord Draben died, he became a [[ghost]], taking residence at [[Hogwarts Castle]]. He attended the [[Start-of-Term Feast]] in [[1991]], and later joined a group of [[ghost carollers]] singing ''[[Christmas at Hogwarts]]'' later that year.<ref name="PSF">{{PS|F}}</ref>
+
+==Behind the scenes==
+*He was portrayed by [[Paul Marc Davis]] in {{PS|FA}}.
+
+==Notes==
+
+* He was never made into a minifigure version for the [[LEGO Harry Potter]] toy line or video games.
+
+==Appearances==
+
+*{{PS|F}} {{1st}}
+*{{HPPS}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Draben, Lord}}
+[[pl:Lord Draben]]
+[[fr:Lord Draben]]
+[[ru:Лорд Драбен]]
+[[Category:17th century births]]
+[[Category:British individuals]]
+[[Category:Ghosts]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Nobility]]
+[[Category:Wizards]]

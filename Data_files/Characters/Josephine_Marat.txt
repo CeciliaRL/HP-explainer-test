@@ -1,0 +1,49 @@
+{{Individual infobox
+|image = [[File:Josephine Marat.png]]
+|name = Josephine Marat
+|born = 
+|died = 
+|blood = 
+|nationality = [[France|French]]<ref name="QWC"/>
+|marital = 
+|title = *[[Chaser]]<ref name="QWC"/>
+*[[Quidditch Captain|Captain]]<ref name="QWC"/>
+|alias = 
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|hair = Blonde<ref name="QWC"/>
+|eyes = Brown<ref name="QWC"/>
+|skin = Tan<ref name="QWC"/>
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|house = 
+|job = [[Chaser]] and [[Quidditch Captain|Captain]] of the [[French National Quidditch team]]<ref name="QWC"/>
+|loyalty = [[French National Quidditch team]]<ref name="QWC"/>
+|theme = quidditch-player
+}}
+'''Josephine Marat''' was a [[France|French]] [[Wizardkind|witch]] famous for being the [[French National Quidditch team]]'s [[Captain]] during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]]. She played as a [[Chaser]].<ref name="QWC">{{QWC}}</ref>
+
+==Appearances==
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Marat, Josephine}}
+
+[[pl:Józefina Marat]]
+[[fr:Josephine Marat]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Quidditch Captains]]
+[[Category:Wizards]]

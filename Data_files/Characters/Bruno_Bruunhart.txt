@@ -1,0 +1,33 @@
+{{Individual infobox
+|name = Bruno Bruunhart
+|born = After [[1976]]
+|title = [[Seeker]]
+|species = [[Human]]
+|gender = Male
+|job = [[Seeker]] for the [[Liechtenstein National Quidditch team]]
+|loyalty = [[Liechtenstein National Quidditch team]]
+|theme = quidditch-player
+|hideb = hide
+|hidef = hide
+|hidem = hide
+|nationality = [[Liechtenstein]]}}'''Bruno Bruunhart''' was a [[Liechtenstein]] [[Wizardkind|wizard]] and the [[Seeker]] for the [[2014]] [[Liechtenstein National Quidditch team]]. On the third day of the fifth match of the [[2014 Quidditch World Cup]], he managed to catch the [[Golden Snitch|Snitch]], grabbing it within inches from the outstretched hand of [[Chad]]ian Seeker [[Jacques Miskine]]. This enabled Liechtenstein to win with a score of 470 to 330.<ref name="lie-v-tcd3">[[LIECHTENSTEIN VERSUS CHAD (III)|LIECHTENSTEIN_VERSUS_CHAD_(III)]] (Archived from {{PM}})</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Bruunhart, Bruno}}
+
+
+[[de:Bruno Bruunhart]]
+[[pl:Bruno Bruunhart]]
+[[fr:Bruno Bruunhart]]
+[[zh:布鲁诺·布鲁恩哈特]]
+[[ru:Бруно Бруунхарт]]
+[[Category:Liechtenstein individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Wizards]]

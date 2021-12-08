@@ -1,0 +1,18 @@
+{{Individual infobox
+|name = Spindle
+|species = [[Human]]<ref name="POAF"/>
+|gender = Male<ref name="POAF"/>
+|job = Inventor, Confectioner<ref name="POAF"/>
+|theme = wizard
+}}Mr '''Spindle''' was a [[Wizardkind|wizard]]ing confectioner who invented [[Spindle's Lick'O'Rish Spiders]], liquorice sweets shaped like [[spider]]s, sometime before [[1993]].<ref name="POAF">{{POA|F}} {{see image|File:MrSpindlesLickORishSpiders.jpg}}</ref>
+
+==Appearances==
+*{{POA|F}} {{Comment|Mention in a deleted scene}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Pan Spindle]]
+[[Category:Confectioners]]
+[[Category:Inventors]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,24 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Landlady of the Green Dragon
+|species = [[Human]]<ref name="FBR"/>
+|gender = Female<ref name="FBR"/>
+|romances = [[Janus Thickey]]<ref name="FBR"/>
+|job = Landlady<ref name="FBR"/>
+|loyalty = *[[Green Dragon]] pub<ref name="FBR"/>
+*[[Janus Thickey]]<ref name="FBR"/>
+|theme = individual
+|affiliation = [[Green Dragon]]<ref name="FBR"/>
+}}The '''landlady''' of the [[Green Dragon]] (fl. [[1937]]) pub lived with [[Janus Thickey]] after he faked his own death in [[1973]].<ref name="FBR">{{FB|R}}</ref>
+
+==Appearances==
+*{{FB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[fr:Patronne du Dragon vert]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Pub landlords and landladies]]
+[[Category:Unidentified individuals]]

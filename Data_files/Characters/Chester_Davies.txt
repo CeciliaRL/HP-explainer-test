@@ -1,0 +1,97 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = mom
+|image = ChesterDavies.png
+|name = 
+|born = Between [[1 September]] [[1968]] and [[31 August]] [[1969]]<ref name="age">{{HM|3|Farewell My Prefect}} {{c|info revealed to [[Ravenclaw]] players}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Brown
+|skin = White
+|family = *[[Roger Davies]]<ref name="brother">{{HM|3}} onward, Herbology Lesson</ref> (younger brother)
+*[[Davies family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employee in the [[Improper Use of Magic Office]]
+|house = [[Ravenclaw]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+**[[Frog Choir]]<ref name="HM3FC">{{HM|3|The Frog Choir|3}}</ref>
+*[[Davies family]]
+*[[British Ministry of Magic]]
+**[[Department of Magical Law Enforcement]]
+***[[Improper Use of Magic Office]]
+}}
+'''Chester Davies''' was a [[wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1980]]<ref name="age" /><ref name="graduation">[https://.twitter.com/themattlondon/status/1005427171459026945 For wiki clarity: Angelica, Chester, Jane, and Felix all entered Hogwarts Sept 1st 1980 and graduated Spring 1987.] by [https://.twitter.com/themattlondon Matt London on Twitter]</ref> and was [[Sorting ceremony|Sorted]] into [[Ravenclaw]]. He had been made a [[Prefect]] in [[1984]] and was responsible for watching over the [[first year]] students in Ravenclaw.<ref name="HM13">{{HM|1|3}} {{c|info revealed to [[Ravenclaw]] players}}</ref> Chester was still at Hogwarts the following two years and graduated in [[1987]].<ref name="graduation" />
+
+==Biography==
+Chester Davies was born between [[1 September]] [[1968]] and [[31 August]] [[1969]].<ref name="age" /> He had a younger brother, [[Roger Davies]], born about nine years later.<ref name="brother" />
+
+===Hogwarts years {{c|1980-1987}}===
+He began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[September]] [[1980]] and was placed in [[Ravenclaw|Ravenclaw House]] by the [[Sorting Hat]]. He became a [[Prefect]] in [[1984]].
+
+During the [[1986–1987 school year]], Chester was caught off guard by a [[Full Body-Bind Curse]] when he was in front of the [[Potions Classroom]]. It was unknown if he was aware that the [[curse]] was cast by [[Jacob's sibling]] with the coercion of [[Penny Haywood]], or who had revived him afterwards.<ref name="HM3P">{{HM|3|Penny for Your Thoughts}}</ref> Later in the school year, when [[Rita Skeeter|a guest speaker]] was to arrive at Hogwarts, Chester believed the person to be [[Ambrosius Flume]], the owner of [[Honeydukes]] Sweet Shoppe.<ref name="HM3W">{{HM|3|Wizarding World Famous}}</ref>
+
+Chester graduated from Hogwarts in [[1987]].<ref name="age" />
+
+===Later life {{c|1987-}}===
+[[File:Chester Davies Ministry employee.png|thumb|left|Chester Davies as a Ministry employee, during the [[1989–1990 school year]]]]
+By [[1988]], Chester started working in the [[Improper Use of Magic Office]] at the [[British Ministry of Magic]].<ref name="Y5SQ">{{HM|5|Yer a Prefect!}}</ref>
+
+In [[September]] 1988, he met up in the [[Three Broomsticks Inn]] with other former Prefects [[Angelica Cole]], [[Jane Court]] and [[Felix Rosier]], as well as Prefects at the time [[William Weasley]], [[Charles Weasley]] and Jacob's sibling.<ref name="Y5SQ"/>
+
+In the [[1989–1990 school year]], he met up with [[Jacob's sibling]] in [[Flourish and Blotts]], where he gave information which helped the student get into the [[Ministry of Magic]].<ref name="HM610">{{HM|6|10}}</ref>
+
+In the [[1990–1991 school year]], he continued working in the [[Ministry of Magic]].<ref name="HM76">{{HM|7|6}}</ref>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': Chester was proficient with charm-work, as he could cast the [[Freezing Charm]] successfully.<ref name="farewell">{{HM|3|Farewell My Prefect}}</ref>
+*'''[[Potion]]s''': Chester was skilled with brewing potions, as he was capable of brewing [[Babbling Beverage]] successfully.<ref name="farewell"/>
+*'''[[Herbology]]''': Chester was knowledgeable about [[magic]]al plants, such as [[Snargaluff]].<ref name="farewell"/>
+
+==Behind the scenes==
+*In {{HM}}, Chester's role is prominent to players in Ravenclaw, including telling the player to focus on their schoolwork to build up [[House points]], searching for the missing [[Ben Copper]], and encouraging and helping the player learn new spells. However, his existence and interaction are not limited to Ravenclaw players, for in several scenes in the [[Great Hall]], he provides comments upon socialising regardless of the player's House, most notably helping Jacob's sibling and Dennis become members of [[Frog Choir]].
+
+==Appearances==
+{{Imagecat|Images of Chester Davies}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=Male [[Prefect#Ravenclaw|prefect of Ravenclaw House]]<br/>(along with two other male Ravenclaws in different years taking the post)
+|years=[[1984]]–[[1987]]
+|successor=Unknown, eventually<br/>[[Robert Hilliard]] 
+}}
+{{End box}}
+{{Ministry Level 2 employees}}
+{{Head boys and prefects}}
+{{DEFAULTSORT:Davies, Chester}}
+[[es:Chester Davies]]
+[[fr:Chester Davies]]
+[[ru:Честер Дэвис]]
+[[Category:1960s births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Davies family]]
+[[Category:Hogwarts prefects]]
+[[Category:Improper Use of Magic Office personnel]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in 1980]]
+[[Category:Wizards]]

@@ -1,0 +1,44 @@
+{{SODSpoiler}}
+{{Unreleased}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Tao Supporter
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="Taosupporter"/>
+|gender = Male<ref name="Taosupporter"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This male '''individual''' supported [[Tao]].<ref name="Taosupporter">[https://twitter.com/MauraLeamy/status/1399834621995630594/ Actor Eugene Lin is playing the role of a "Tao Supporter", as well as a Ministry Dinner Party guest in Fantastic Beasts 3]</ref>
+
+==Behind the scenes==
+*Tao Supporter is portrayed by actor [[Eugene Lin]] in {{SOD}}.<ref name="Taosupporter"/>
+
+==Appearances==
+*{{SOD}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]

@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=Watchman.jpg
+|name=Unidentified watchman
+|nationality=[[United States of America|American]]<ref name="FBS"/>
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="FBS"/>
+|gender=Male<ref name="FBS"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=Watchman for [[The Blind Pig]]<ref name="FBS"/>
+|house=
+|loyalty=[[The Blind Pig]]<ref name="FBS"/>
+}}
+This '''individual''' was an [[United States of America|American]] [[Wizardkind|Wizard]] who stood as a watchman for [[The Blind Pig]] whenever someone tapped on the [[The Blind Pig Poster|poster]] in [[1926]].<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+The Watchman was portrayed by [[Brian F. Mulvey]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

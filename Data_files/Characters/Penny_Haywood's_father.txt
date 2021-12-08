@@ -1,0 +1,51 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mr Haywood
+|born = Before  [[1973]]
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HM5"/>
+|marital = Married<ref name="HM5"/>
+|nationality = [[Great Britain|British]]<ref name="HM5"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM5"/>
+|gender = Male<ref name="HM5"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Penny Haywood]] (daughter)<ref name="HM5"/>
+*[[Beatrice Haywood]] (daughter)<ref name="HM5"/>
+*[[Penny Haywood's mother|Wife]]<ref name="HM5"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Haywood family]]<ref name="HM5"/>
+}}
+'''Mr Haywood''' was a [[Non-magic people|Muggle]] man from the [[Great Britain|United Kingdom]]. He married a [[muggle-born]] [[Penny Haywood's mother|witch]] and had two [[half-blood]] [[wizardkind|witch]] daughters, [[Penny Haywood|Penny]] and [[Beatrice Haywood|Beatrice]].<ref name="HM5">{{HM|5}} [[History of Magic]]</ref>
+
+His wife took him flying on a [[broomstick]] once, which scared him too much to try again.<ref>{{HM|1}} onward, Flying Lessons in general</ref>
+
+He started playing [[Christmas]] music in [[October]], which drove his wife mad.<ref>{{HM}}, Christmas decorating activity</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT: Haywood, Mr}}
+[[Category:British individuals]]
+[[Category:Haywood family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

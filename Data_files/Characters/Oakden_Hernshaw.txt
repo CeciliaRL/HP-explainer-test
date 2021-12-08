@@ -1,0 +1,44 @@
+{{Cut content}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Oakden Hernshaw
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Oakden Hernshaw''' was a [[Wizardkind|wizard]].
+
+==Behind the scenes==
+*Professor Hernshaw was one of the names which [[J. K. Rowling]] considered giving to the [[Defence Against the Dark Arts]] [[professor]] in [[Harry Potter]]'s [[fifth year]] when she was planning {{POA}}.<ref>"[[:File:Early draft workingsJKR.png|''Early draft workings'']]" from {{JKRS}}</ref>
+
+==Appearances==
+*{{JKRS}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hernshaw}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

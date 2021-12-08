@@ -1,0 +1,70 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Caspar Crouch's daughters
+|born = 
+|died = Before [[1995]]<ref name="dead">{{GOF|B|36}} - Dumbledore refers to [[Bartemius Crouch Junior|Bartemius Crouch Jnr]] as "''the last remaining member of a pure-blood family as old as any''" meaning that all other members of the family were dead by 1995.</ref>
+|blood = [[Pure-blood]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s
+|gender = Females
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Caspar Crouch]] (father) †
+*[[Charis Black|Charis Crouch]] (née [[House of Black|Black]]) (mother) †
+*[[Caspar Crouch's son|Brother]] †
+*[[Bartemius Crouch Senior|Bartemius Crouch Snr]] (possible brother) †
+*[[Bartemius Crouch Junior's mother|Mrs Crouch]] (possible sister-in-law) †
+*[[Bartemius Crouch Junior|Bartemius Crouch Jnr]] (possible nephew) †
+*[[Callidora Black|Callidora Longbottom]] (née [[House of Black|Black]]) (maternal aunt)
+*[[Cedrella Black|Cedrella Weasley]] (née [[House of Black|Black]]) (maternal aunt)
+*[[Harfang Longbottom]] (maternal uncle by marriage)
+*[[Septimus Weasley]] (maternal uncle by marriage)
+*[[Harfang Longbottom's son|Male maternal cousin]]
+*[[Harfang Longbottom's daughter|Female maternal cousin]]
+*[[Arthur Weasley's brothers|Male maternal cousins]]
+*[[Bilius]] (possible maternal cousin) †
+*[[Arthur Weasley]] (maternal first cousin)
+*[[Bartemius Crouch Snr's grandfather|Possible paternal grandfather]] †
+*[[Arcturus Black II]] (maternal grandfather) †
+*[[Lysandra Yaxley|Lysandra Black]] (née [[Yaxley family|Yaxley]]) (maternal grandmother)
+*[[Crouch family]]
+*[[House of Black]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Crouch family]]
+*[[House of Black]]
+}}
+The '''daughters''' of [[Caspar Crouch]] and [[Charis Black]] were [[pure-blood]] [[Wizardkind|witches]].<ref name="BFT">[[House of Black|Black family tree]]</ref>
+
+==Behind the scenes==
+*It is possible that their [[Caspar Crouch's son|brother]] was [[Bartemius Crouch Senior]], although this is unconfirmed.
+*It is also possible that [[Araminta Meliflua Black|Araminta Meliflua]] is one of them as she is [[Walburga Black|Walburga]]'s first or second cousin.
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}} 
+[[ru:Сёстры Крауч]]
+[[Category:British individuals]]
+[[Category:Crouch family]]
+[[Category:Females]]
+[[Category:House of Black descendants]]
+[[Category:Pure-bloods]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]
+{{DEFAULTSORT:Crouch, Caspar's daughters}}

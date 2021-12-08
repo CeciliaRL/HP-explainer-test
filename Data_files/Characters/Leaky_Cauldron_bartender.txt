@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = Leaky Cauldron bartender.png
+|name = Leaky Cauldron bartender
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBC2"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC2"/>
+|gender = Female<ref name="FBC2"/>
+|height = 
+|weight = 
+|hair = Red<ref name="FBC2"/>
+|eyes = 
+|skin = White<ref name="FBC2"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Bartender at the [[Leaky Cauldron]]<ref name="FBC2"/>
+|house = 
+|loyalty = [[Leaky Cauldron]]<ref name="FBC2"/>
+}}
+The '''Leaky Cauldron bartender''' was a [[Great Britain|British]] [[Wizardkind|witch]] who worked at the [[Leaky Cauldron]] as a bartender.<ref name="FBC2"/>
+
+==Biography==
+She helped during [[Mathilda Grimblehawk]]'s investigation into an escaped [[magic]]al [[beast]]. She lost a golden tooth in the fray and mistakenly hit a portrait of [[Ulick Gamp]] with a [[Confundus Charm]]. She later donated meat from the larder to help lure the beast into a trap.<ref name="FBC2">{{FBC|2}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Leaky Cauldron}}
+[[pl:Barmanka w Dziurawym Kotle]]
+[[es:Tabernera del Caldero Chorreante]]
+[[fr:Aubergiste du Chaudron Baveur]]
+[[ru:Барменша в «Дырявом котле»]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Leaky Cauldron employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

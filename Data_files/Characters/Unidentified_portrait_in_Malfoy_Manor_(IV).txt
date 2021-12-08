@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|image = Tudor Malfoy 1.png
+|name = Tudor Malfoy (I)
+|born = 
+|died = Before [[1997]]<ref name="DHF1"/>
+|blood = 
+|nationality = 
+|alias = 
+|title = 
+|marital = 
+|signature - 
+|species = [[Human]]<ref name="DHF1"/>
+|gender = Female<ref name="DHF1"/>
+|hair = Brown<ref name="DHF1"/>
+|eyes = Dark<ref name="DHF1"/>
+|skin = Pale<ref name="DHF1"/> 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|house = 
+|job = 
+|loyalty = 
+|theme = portrait
+}}
+This '''individual''' was a [[Wizardkind|witch]] whose [[portrait]] hung in [[Malfoy Manor]] after her death.<ref name="DHF1"/>
+
+==History==
+This witch was at some point born presumably during the Tudor period, given her style of dress. After her [[death]], a [[portrait]] of her was placed in [[Malfoy Manor]].<ref name="DHF1">{{DH|F1}}</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

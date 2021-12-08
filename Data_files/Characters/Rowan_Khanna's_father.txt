@@ -1,0 +1,50 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mr Khanna
+|born = 
+|died = 
+|blood = 
+|marital = Married
+|nationality = [[Great Britain|British]] or [[Ireland|Irish]] (possibly)<ref name="HMy2ch8"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HMy2ch8"/>
+|gender = Male<ref name="HMy2ch8"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Rowan Khanna's uncle|brother or brother-in-law]] <ref name="HMy2ch8"/>
+*[[Rowan Khanna's mother|Mrs Khanna]] (wife)<ref name="HMy2ch8"/>
+*[[Rowan Khanna]] (child)<ref name="HMy2ch8"/>
+*[[Rowan Khanna's brother|Son]]<ref name="HMy2ch8"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Farmer<ref name="HMy2ch8"/>
+|house = 
+|loyalty = [[Khanna family]]<ref name="HMy2ch8"/>
+}}
+'''Mr Khanna''' was the father of [[Rowan Khanna]]. The [[Khanna family]] ran a [[Khanna Farms|tree farm]] that supplied wood for [[wand]]s and [[broomstick]]s. Because of this, Mr Khanna and his wife advised their child, Rowan, against learning the [[Fire-Making Spell]] before attending Hogwarts.<ref name="HMy2ch8">{{HM|2|8}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Khanna, Mr}}
+
+[[Category:Farmers]]
+[[Category:Khanna  family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Slytherin House Captain's Plaque.jpg|250px]]
+|name = Neil Lament
+|born = c. 1930s
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]] 
+**[[Slytherin]]
+**[[Slytherin Quidditch team]]
+}}
+'''Neil Lament''' was a [[Slytherin]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1940s]]. He was [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]] from [[1944]] to [[1948]].<ref>See [[:File:Slytherin House Captain's Plaque.jpg|this image]] of a prop used in the films on display as part of {{HPE}}.</ref><ref>[http://ab.fanrus.com/SMI/ViP/september/51/213/ ''Harry Potter: The Exhibition'' report] {{Comment|in Russian}}</ref>
+
+==Etymology==
+The name "Neil" is from the Gaelic name Niall, which is of disputed origin, possibly meaning "champion" or "cloud". This was the name of a semi-legendary 4th-century Irish king, Niall of the Nine Hostages.
+
+==Behind the scenes==
+*This character was presumably named in honour of [[Neil Lamont]], the supervising art director for the first six [[Harry Potter (film series)|''Harry Potter'' films]], from ''[[Harry Potter and the Philosopher's Stone (film)|Philosopher's Stone]]'' to ''[[Harry Potter and the Half-Blood Prince (film)|Half-Blood Prince]]''.<ref>"[http://www.imdb.com/name/nm0483678/ Neil Lamont] on IMDb</ref>
+*Based on the fact that he attended Hogwarts in the 1940s and being born around the 1930s, he was a few years below Tom Riddle during his time at Hogwarts.
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Winky Crockett (Slytherin)|Winky Crockett]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]]
+|years=[[1944]]-[[1948]]
+|successor=[[Andrew Snowy Owl (Slytherin)|Andrew Snowy owl]]
+}}
+{{End box}}
+
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Lament, Neil}}
+
+[[es:Neil Lament]]
+[[pt-br:Neil Lament]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

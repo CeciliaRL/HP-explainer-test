@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Oraclitus Spheer.png|250px]]
+|name = Oraclitus Spheer
+|born = 
+|died = Before [[1992]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Red<ref name="COSG"/>
+|eyes = 
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]] (possibly)<ref name="house">Considering his portrait was located in the [[Gryffindor Tower]], he may have been a member of the house, although this is not confirmed.</ref>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSG"/>
+}}
+'''Oraclitus Spheer''' was a [[Wizardkind|wizard]]. He had a [[portrait]] of himself hung in the [[Gryffindor Tower reading room]], hiding [[Fred Weasley|Fred]] and [[George Weasley]]'s [[Disused Bathroom (Fred and George's Shop)|convenience shop]]. His password was "''Flibbertigibbet''".<ref name="COSG">{{COS|G}} - Console versions</ref>
+
+==Behind the scenes==
+*Spheer may have passed away sometime prior to [[1992]], as many portraits hung at [[Hogwarts Castle]] depict deceased individuals.
+*In {{POA}}, [[Cadogan|Sir Cadogan]] uses ''Flibbertigibbet'' as the password to [[Gryffindor Tower]].
+
+==Appearances==
+*{{PS|G}} {{Portrait}} {{C|Console versions only}}
+*{{COS|G}} {{1st}} {{Portrait}} {{C|Console versions only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Spheer, Oraclitus}}
+
+{{Hogwarts seventh floor}}
+{{Hogwarts towers}}
+
+[[es:Oraclitus Spheer]]
+[[fr:Oraclitus Spheer]]
+[[pl:Oraclitus Spheer]]
+[[ru:Ораклит Сфир]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

@@ -1,0 +1,44 @@
+{{HogwartsMysterySpoiler}}
+{{Pet individual infobox
+|image = [[File:Artemis the owl HM.png|thumb]]
+|name = Artemis
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Eagle owl]]<ref name="C8" />
+|gender = Female<ref name="C8" />
+|height = 
+|hair = 
+|feathers = White<ref name="C8" />
+|eyes = 
+|skin = 
+|family = 
+|loyalty = *[[Chiara Lobosca]]<ref name="C8" />
+*[[Liz Tuttle]]<ref name="C8" />
+*[[R]] (Formerly)<ref name="C8" />
+}}
+'''Artemis''' was a mysterious white female [[Eagle owl]], whom [[Liz Tuttle]] found in her sixth year. Liz and [[Chiara Lobosca]] looked after the owl in the [[Forbidden Forest]].<ref name="C8">{{HM|6|8}}</ref>
+
+==Biography==
+Artemis belonged to dangerous wizards who knew [[Patricia Rakepick]]. She didn't look very well cared for.<ref name="C8" />
+
+During the [[1989–1990 school year]], Artemis was taken to [[Hogsmeade]] by Rakepick who was staying at the [[Hog's Head Inn]]. The owl was spotted by [[Liz Tuttle]] at [[Hogsmeade Station]], but she couldn't see who it belonged to. Liz later saw her again, when she flew in the [[Forest Grove]] to get food. Liz began feeding her, and named her Artemis, after [[Newton Scamander]].<ref name="C8" />
+
+Artemis was seen by [[Talbott Winger]] heading into the [[Forbidden Forest]] to get fed by Liz once. A person working for the organisation "[[R]]" used Artemis to send a threat to one of [[Jacob's sibling]]'s friends. They began searching for the white owl in the [[Owlery]], but Talbott suggested they look in the Forbidden Forest instead.<ref name="C8" />
+
+Jacob's sibling found Artemis being introduced to [[Chiara Lobosca]] and [[Borf]] by Liz, and frightened her off. They suggested they look for Artemis at Hogsmeade Station. [[Nymphadora Tonks|Tonks]] helped, but they couldn't find her so they went to [[Zonko's Joke Shop|Zonko's]]. [[Bilton Bilmes|Bilton]] told them about seeing her flying into the Hog's Head, so they went to ask [[Aberforth Dumbledore]] who she belonged to. He wouldn't say at first, but eventually told them it was Rakepick. The owl had at one point, tried to peck out a customer's eyes.<ref name="C8" />
+
+Rakepick and Artemis had gone to [[Knockturn Alley]] by then, so Jacob's sibling and [[Ben Copper]] snuck away to track her down. They found [[Mundungus Fletcher]] in disguise, who told them how Rakepick had been around with the "rotten" bird but that it belonged to Rakepick's dangerous friends. The owl had nearly ruined Fletcher's cover when he was hiding.<ref name="HM69">{{HM|6|9}}</ref>
+
+==Behind the scenes==
+*While not the same species, Artemis being a white owl and thus a conscious clue to a person is similar to [[Hedwig]] who was not used to send messages to [[Sirius Black]] for the same reason. 
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Forbidden Forest]]
+[[Category:Owls]]

@@ -1,0 +1,76 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Gifford.JPG|250px]]
+|name = Gifford Ollerton
+|born = [[1390]]
+|died = [[1441]] (aged 50-51)
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Giant]]-slayer
+|house = 
+|loyalty = [[Ollerton family]]
+}}
+{{Quote|Gifford Ollerton (1390—1441): Famous giant-slayer. Killed the giant Hengist of Upper Barnton.|[[Chocolate Frog Card]]|Harry Potter and the Chamber of Secrets (video game)}}
+'''Gifford Ollerton''' ([[1390]]—[[1441]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] famous for his reputation as a [[giant]]-slayer, having killed the giant [[Hengist of Upper Barnton]], who terrorised the small town of [[Upper Barnton]] in the [[15th century|fifteenth century]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+==Biography==
+===Early life===
+Gifford Ollerton was born in [[1390]], somewhere in the [[Great Britain|British Isles]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref> If he enrolled at [[Hogwarts School of Witchcraft and Wizardry]], he attended the school from around [[1401]] to [[1408]], under [[Headmaster|Headmistress]] [[Phyllida Spore]].
+
+===Adulthood===
+[[File:GiffordOllerton.jpg|225px|thumb|left|Gifford Ollerton cheers after defeating [[Hengist of Upper Barnton]] (in the background)]]
+
+{{Quote|Giants terrorised the land in the 15th century. Gifford Ollerton (1390—1441) came to the rescue of the little town of Upper Barnton. He killed the giant who was bothering the town and became a local hero.|[[Chocolate Frog Card]].|Chocolate Frog Cards}}
+
+In the [[15th century|fifteenth century]], [[giant]] numbers were relatively big in the [[Great Britain|British Isles]], when compared to today. Wizards became professional giant-slayers in order to restrict these numbers and to protect wizarding communities.
+
+The giant [[Hengist of Upper Barnton]] terrorised the small town of [[Upper Barnton]], in [[England]], at somepoint during the fifteenth century. Gifford Ollerton, at the time a fully-fledged [[Wizardkind|wizard]] rushed to the village's aid, and famously defeated and killed the giant, becoming celebrated as that town's local hero.<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+Gifford Ollerton died in [[1441]], at the age of fifty-one.<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+
+By the [[1990s]], Ollerton's effigy was featured on a [[Chocolate Frog Card]] that celebrated his achievement.<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Gifford Ollerton}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+
+[[de:Gifford Ollerton]]
+[[fr:Gifford Ollerton]]
+[[fi:Gifford Ollerton]]
+[[it:Gifford Ollerton]]
+[[pl:Gifford Ollerton]]
+[[ru:Гиффорд Оллетрон]]
+{{DEFAULTSORT:Ollerton, Gifford}}
+[[Category:1390 births]]
+[[Category:1441 deaths]]
+[[Category:British individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Monster hunters]]
+[[Category:Ollerton family]]
+[[Category:Wizards]]

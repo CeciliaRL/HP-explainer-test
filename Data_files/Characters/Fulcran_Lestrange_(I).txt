@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme=wizard
+|image=FULCRAN LESTRANGE I.jpg
+|name=Fulcran Lestrange
+|born=
+|died=
+|blood = [[Pure-blood]]<ref>He was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|marital=Married
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+*[[Cyrille Lestrange (I)|Cyrille Lestrange]] (father)
+*[[Darenne Lestrange]] (mother)
+*[[Cyrille Lestrange (II)|Cyrille Lestrange]] (brother)
+*[[Pucine Lestrange (I)|Pucine Lestrange]] (wife)
+*[[Fulcran Lestrange (II)|Fulcran Lestrange]] (son)
+*[[Corvus Lestrange (I)|Corvus Lestrange]] (uncle)
+*[[Heloise Lestrange]] (aunt)
+*[[Corvus Lestrange (II)|Corvus Lestrange]] (cousin)
+*[[Balbine Lestrange (I)|Balbine Lestrange]] (sister-in-law)
+*[[Cyrille Lestrange (III)|Cyrille Lestrange]] (nephew)
+*[[Lestrange family]]
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=[[Lestrange family]]
+}}
+
+'''Fulcran Lestrange''' was a wizard and a member of the [[pure-blood]] [[Lestrange family]]. He was the son of [[Cyrille Lestrange (I)|Cyrille Lestrange]] and [[Darenne Lestrange|Darenne Moreau]]. He had a brother [[Cyrille Lestrange (II)|Cyrille]]. He married [[Pucine Lestrange (I)|Pucine Leroy]] and had a son with her, [[Fulcran Lestrange (II)|Fulcran]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref>
+
+==Appearances==
+*{{COG}} {{c|Appears on the Lestrange family tree}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Lestrange, Fulcran I}}
+[[fr:Fulcran Lestrange I]]
+[[pl:Fulcran Lestrange I]]
+[[ru:Фулкран Лестрейндж I]]
+[[Category:French individuals]]
+[[Category:Lestrange family|Fulcran]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

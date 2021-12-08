@@ -1,0 +1,45 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Jordanna Bodiment
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WU"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Female<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch]] trainer for the [[Holyhead Harpies]]<ref name="WU"/>
+|house = 
+|loyalty = [[Holyhead Harpies]]<ref name="WU">{{WU}}</ref>
+}}
+'''Jordanna Bodiment''' was a [[wizardkind|witch]] and a long-time trainer for the [[Holyhead Harpies]].<ref name="WU"/>
+
+At some point during at least the [[2010s]], Bodiment met members of the [[Statute of Secrecy Task Force]] and advised them how best to structure meals to maximise their [[magic]]al abilities.<ref name="WU"/>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bodiment, Jordanna}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Quidditch players]]
+[[Category:Statute of Secrecy Task Force]]
+[[Category:Wizards]]

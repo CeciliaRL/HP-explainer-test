@@ -1,0 +1,75 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = portrait
+|image = IconWendelinTheWeirdHM.png
+|name = Wendelin the Weird
+|born = c. [[14th century]]<ref name="POA1">{{POA|B|1}}</ref>
+|died = [[Middle Ages]]
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POA1"/>
+|gender = Female<ref name="POA1"/>
+|height = 
+|weight = 
+|hair = Red<ref name="COSG">{{COS|G}}</ref>
+|eyes = Green<ref name="COSG"/>
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|[[Non-magic people]] (more commonly known as Muggles) were particularly afraid of magic in [[Middle Ages|medieval times]], but not very good at recognising it. On the rare occasion that they did catch a real witch or wizard, burning had no effect whatsoever. The witch or wizard would perform a basic [[Flame-Freezing Charm|Flame Freezing Charm]] and then pretend to shriek with pain while enjoying a gentle, tickling sensation. Indeed, Wendelin the Weird enjoyed being burned so much that she allowed herself to be caught no less than forty-seven times in various disguises.|[[Bathilda Bagshot]], ''[[A History of Magic]]''|Harry Potter and the Prisoner of Azkaban}}
+'''Wendelin the Weird''' (fl. c. [[14th century]])<ref name="POA1" /> was an eccentric [[Great Britain|British]] [[Middle Ages|medieval]] [[Wizardkind|witch]] who was famous for being burnt at the stake no less than forty-seven times in various disguises.<ref name="POA1" />
+
+==Biography==
+[[File:WendelintheWeird.png|150px|thumb|left|Wendelin taking great pleasure at being burned at the stake]]
+During the [[Middle Ages]], [[Non-magic people|Muggle]] [[witch-hunt]]s were at their peak. Stemming from the desire to experience a pleasant tickling sensation from the [[Flame-Freezing Charm]], Wendelin took upon herself to be captured no less than forty-seven times in various disguises to be repeatedly burned at the stake. With the use of the Flame-Freezing Charm, the [[Fire|pyres]] were rendered harmless, creating only a gentle tickling sensation which Wendelin enjoyed immensely.<ref name="PSG">{{PS|G}}</ref><ref name="COSG"/><ref name="POAG">{{POA|G}}</ref><ref name="POA1">{{POA|B|1}}</ref>
+
+During the [[1992–1993 school year|1992-1993 school year]], a [[Portrait]] of Wendelin was hung in the [[Secret Hallway]]. [[Harry Potter]] once traded a [[Misprinted Wendolyn card|rare misprint]] of a Wendelin the Weird [[Chocolate Frog Card]] to this portrait in exchange for a baby [[spider]].<ref name="COSG"/>
+
+Wendelin the Weird was mentioned when [[Harry Potter]] had to write an essay for [[History of Magic]] in his [[third year]], the premise for which was that "''[[Witch Burning in the Fourteenth Century Was Completely Pointless — discuss]]''"<ref name="POA1"/>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': Wendelin was very capable of casting the [[Flame-Freezing Charm]] to render [[fire]] harmless, which she cast frequently whenever she was burned at the stake, for a warm and tickling sensation every time, no less than forty seven times.<ref name="POA1"/>
+
+==Behind the scenes==
+*According to Harry's copy of ''[[A History of Magic]]'' in {{POA}}, Wendelin was burned at least forty-seven times. However, according to her [[Chocolate Frog Card|card]] in the video games, it states she was only burned fourteen times. It could be possible that all the other times, she was disguised and not credited with these "accomplishments". The Timeline of the Wizarding World given on {{PM}} reinforces that Wendelin was burned exactly forty-seven times.
+
+==Appearances==
+{{Imagecat|Images of Wendelin the Weird}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}} {{Portrait}}
+*{{POA}} {{1st Mention}}
+*{{POA|G}} {{FWC}}
+*{{PM}} {{FWC}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts sixth floor}}
+{{Chocolate Frog Cards}}
+
+[[de:Wendeline die Ulkige]]
+[[es:Wendelin la Hechicera]][[fi:Wendelin the Weird]]
+[[fr:Gwendoline la Fantasque]]
+[[it:Guendalina la Guercia]]
+[[pl:Wendelina Dziwaczna]]
+[[ru:Венделина Странная]]
+[[no:Vendelin Villråde]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Historical figures]]
+[[Category:Portraits]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizards]]

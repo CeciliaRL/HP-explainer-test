@@ -1,0 +1,61 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=wizard
+|image=Villanelle.jpg
+|name=
+|born=Before [[1967]] {{C|likely}}<ref name="age">She was already working at [[Flourish and Blotts]] before [[Jacob (Hogwarts student)|Jacob]] went missing.</ref>
+|died=
+|blood=
+|marital=
+|alias=
+|title=[[Madam]]<ref name="HM510"/>
+|signature=
+|species=[[Human]]<ref name="HM510"/>
+|gender=Female<ref name="HM510"/>
+|height=
+|weight=
+|hair=Black<ref name="HM510"/>
+|eyes=Brown<ref name="HM510"/>
+|skin=Dark<ref name="HM510"/>
+|family=
+|animagus=
+|boggart=
+|wand=[[Villanelle's wand|Unknown length, wood and core]]<ref name="HM712"/>
+|patronus=
+|job=Employee at [[Flourish and Blotts]]<ref name="HM510"/>
+|house=
+|loyalty=[[Flourish and Blotts]]<ref name="HM510"/>
+}}
+'''Madam Villanelle''' was a [[Wizardkind|witch]] who worked at [[Flourish and Blotts]] in the [[1980s]] and early [[1990s]]. She was noted to be a skilled linguist.<ref name="HM510">{{HM|5|10}}</ref>
+
+==Biography==
+===Early life===
+Villanelle bought [[Villanelle's wand|her first wand]] from [[Garrick Ollivander]].<ref name="HM712">{{HM|7|12}}</ref>
+
+===1988–1989 school year===
+In late [[1988]],<ref>In Year 6 Chapter 6, Villanelle says that her first meeting with Jacob's sibling was "at the end of last year" and as their meeting happened in Chapter 10 out of a total of 34 chapters in Year 5, it is unlikely she was referring to the school year. Additionally, in the previous chapter, [[Rubeus Hagrid]] mentions his birthday being soon, and his birthday is in [[December]], the last month of the year. As such, "last year" presumably refers to the year 1988.</ref> she met [[Jacob's sibling]], who visited the shop in order to find clues about their [[Jacob (Hogwarts student)|brother]].<ref name="HM510"/>
+
+The [[1989|following year]], Jacob visited the shop and bought some books about the [[Mahoutokoro School of Magic]]. Jacob's sibling visited the shop shortly afterwards and asked Madam Villanelle about their brother's visit.<ref name="HM66">{{HM|6|6}}</ref>
+
+===1989–1990 school year===
+At some point near the end of the [[1989–1990 school year]], Villanelle told Jacob's sibling and [[Mundungus Fletcher]] information of a dark witch who had been gathering information about Jacob's sibling and [[Jacob's sibling's second wand|their wand]] (who turned out to be the [[Dark Witch in Knockturn Alley]]).<ref name="HM645">{{HM|6|45}}</ref>
+
+===1990–1991 school year===
+During the [[1990–1991 school year]], Villanelle used [[Xeep's Luscious Locks Solution]] and lost some [[Memory|memories]] due to the memory-erasing properties of it. [[Jacob's sibling]] and [[Ben Copper]] paid her a visit during their investigation of [[Garrick Ollivander]]'s [[Garrick Ollivander's misfiring wand|misfiring wand]].<ref name="HM712">{{HM|7|12}}</ref> Villanelle was later given the [[Counter-serum for Xeep's Luscious Locks Solution|counter-serum]], which stopped the effects of the potion on her memory.<ref name="HM715">{{HM|7|15}}</ref>
+
+==Possessions==
+*'''[[Villanelle's wand|Wand]]''': Villanelle owned a [[wand]] of unknown specifications, that was manufactured and sold by [[Garrick Ollivander]] in his shop [[Ollivanders]].<ref name="HM712"/>
+
+==Appearances==
+{{Imagecat|Images of Villanelle}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley}}
+[[ru:Вилланель]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Linguistics]]
+[[Category:Wizards]]

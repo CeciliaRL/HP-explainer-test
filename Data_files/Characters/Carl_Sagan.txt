@@ -1,0 +1,48 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Carl Sagan
+|hideb=
+|born=[[9 November]], [[1934]]
+|died=[[20 December]], [[1996]] (aged 62)
+|blood=[[Muggle|No-Maj]] 
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=Brown
+|eyes=
+|skin=White
+|hidef=hide
+|family=
+|hidea=
+|job=*Astrophysicist
+*Science communicator
+*Author
+|loyalty=
+}}
+'''Carl Edward Sagan''' ([[9 November]], [[1934]]–[[20 December]], [[1996]]) was an [[United States of America|American]] [[Muggle|No-Maj]] astronomer, astrophysicist, cosmologist, author, science populariser, and science communicator in the space and natural sciences.
+
+==Biography==
+During his lifetime, he published more than six-hundred scientific papers and popular articles and was author, co-author, or editor of more than twenty books.<ref name="wiki">{{Wikilink|Carl Sagan}}</ref>
+
+Carl Sagan wrote the introduction of ''[[A Brief History of Time]]'' by [[Stephen Hawking]].<ref name="POAF4">{{POA|F}} - Chapter 4 (''The Leaky Cauldron'')</ref>
+
+==Appearances==
+*{{POA|F}} {{1st Mention}} {{C|Mentioned on a book cover}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Sagan, Carl}}
+[[Category:1934 births|Sagan, Carl]]
+[[Category:1996 deaths|Sagan, Carl]]
+[[Category:American individuals|Sagan, Carl]]
+[[Category:Astronomers|Sagan, Carl]]
+[[Category:Authors|Sagan, Carl]]
+[[Category:Deceased individuals|Sagan, Carl]]
+[[Category:Males|Sagan, Carl]]
+[[Category:Muggles|Sagan, Carl]]
+[[Category:Physicists|Sagan, Carl]]

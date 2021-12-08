@@ -1,0 +1,77 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = dark-wizard
+|image = [[File:Zenith Xeep HM.png|thumb]]
+|name = Zenith Xeep
+|born = Before [[1909]] {{C|possibly}}<ref name="age">In {{HM|7|12}}, Garrick Ollivander implies Zenith Xeep is older or around the same age he is, saying that "''I've been following her career since I was a lad''". Since Ollivander was already working and therefore of age (17) in 1926 ({{FB}} {{See image|File:Wand Permit - full.png}}), he was born no later than 1909.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Madam]]<ref name="HM712">{{HM|7|12}}</ref>
+|signature = 
+|species = [[Human]]<ref name="HM712"/>
+|gender = Female<ref name="HM712"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="HM712"/>
+|eyes = Brown<ref name="HM712"/>
+|skin = Light<ref name="HM712"/>
+|family = *[[Lydian Xeep]] {{C|father}}<ref name="HM712"/>
+*[[Octavia Xeep]] {{C|mother}}<ref name="HM712"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="HM714"/>
+|patronus = 
+|job = *[[Opera singer|Opera diva]]<ref name="HM712"/>
+*Businesswoman<ref name="HM712"/>
+|house = 
+|loyalty = [[R]]<ref name="HM714">{{HM|7|14}}</ref><ref name="HM724"/>
+}}
+{{Quote|I may be known for my voice, but my beauty is unparelleled.|Zenith Xeep regarding her talent and beauty|Harry Potter: Hogwarts Mystery}}
+'''Madam Zenith Xeep''' was a [[Dark Wizard|Dark Witch]]<ref name="HM724">{{HM|7|24}}</ref> and renowned [[Opera singer|opera diva]] in the [[wizarding world]].<ref name="HM712"/>
+
+==Biography==
+Zenith Xeep was born, probably at some point before [[1909]],<ref name="age"/> to famous [[opera singer]]s [[Lydian Xeep|Lydian]] and [[Octavia Xeep]].<ref name="HM712"/>
+
+In her adulthood, Madam Xeep enjoyed a long and renowned career of her own as an operatic [[wikipedia:Soprano|soprano]]. Among her repertoire were roles like the Queen of the Night in ''[[The Magic Flute]]'', a personal favourite of [[Garrick Ollivander]].<ref name="HM712"/> Her career was covered in the press substantially by ''[[Daily Prophet]]'' reporter [[Rita Skeeter]], who she befriended.<ref name="HM712"/>
+
+In the [[1990s]], she stole a [[Wand stolen by Zenith Xeep|wand]] from [[Ollivanders]] and put a [[Garrick Ollivander's misfiring wand|fake wand]] in its place.<ref name="HM714"/> She invented [[Xeep's Luscious Locks Solution]], and was the founder of a cosmetics company called [[Xeep]], named after herself. She held a Meet-and-Greet for her company in the [[Leaky Cauldron]], where she first met [[Ben Copper]] and [[Jacob's sibling]].<ref name="HM712"/> The solution caused [[memory]] loss to several of its users, including [[Garrick Ollivander]] and [[Villanelle|Madam Villanelle]], and was later identified to be a potent memory-erasing potion.<ref name="HM713">{{HM|7|13}}</ref>
+
+[[File:Jacob's sibling confronting Zenith Xeep.jpg|250px|thumb|left|Zenith confronted by [[Jacob's sibling]] in Knockturn Alley]]
+When the [[British Ministry of Magic]] initiated an investigation, Zenith went hiding in [[Knockturn Alley]]. She was caught having a meeting with a [[Dark Witch in Knockturn Alley|Dark Witch]] from [[R]] by Ben and Jacob's sibling, and when she was about to hand over the wand she had stolen, [[Ben Copper]] emerged, and was soon [[Stunning Spell|Stunned]] by the Dark Witch. When Jacob's sibling also appeared and the Dark Witch [[Apparition|Disapparated]], Jacob's sibling [[Skirmish in Knockturn Alley (1990–1991)|duelled]] Zenith, and after they won, she drank a bottle of Xeep's Luscious Locks Solution, making herself forget what had happened, along with, however, her name.<ref name="HM714"/>
+
+[[File:Zenith Xeep in the Janus Thickey Ward HM724.png|thumb|right|250px|Zenith Xeep hospitalised in the Janus Thickey Ward]]
+After this, Xeep was hospitalised in the [[Janus Thickey Ward]] in [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]] as she had lost her memory, and was cared for [[Healer]] [[Miriam Strout]], who treated her with a restorative [[potion]]. When on work experience at the hospital, Jacob's sibling was surprised to realise that Strout had assigned them to care for her, as they had apprehened her. They told Strout about Xeep's criminal behaviour and Strout acknowledged how Healers had to treat everyone, even if they were Dark Witches. Later, when Jacob's sibling began their treatment of her, Xeep did not remember them prior to her hospitalisation, and only remembered their face from being in the ward. Xeep after consuming some of the restorative potion, told them she briefly remembered meeting [[R]] at one of her shows, but then her memory lapsed again, and she fell asleep.<ref name="HM724"/>
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': Madam Xeep invented her own formula for her [[Hair care potions|hair care potion]] [[Xeep's Luscious Locks Solution]],<ref name="HM712"/> which also possessed potent [[memory]] loss powers.<ref name="HM713"/>
+*'''[[Duelling]]''': Madam Xeep was a fairly accomplished duellist who was able to face [[Jacob's sibling]] down in [[Martial magic|magical combat]], although she was no match for their superior skills and was defeated.<ref name="HM714"/>
+*'''[[Dark Arts]]''': Madam Xeep was a [[Dark Wizard|Dark Witch]] who worked for [[R]], meaning she had a level of skill in Dark Magic.<ref name="HM724"/>
+*'''Opera singing''': Madam Xeep was famous for her powerful opera singing voice, allowing her to become an esteemed performer in the field in the [[wizarding world]].<ref name="HM712"/>
+
+==Behind the scenes==
+*Garrick Ollivander, who was at least in his early eighties in [[1990]], claimed to have been a fan of Madam Xeep since he was a lad, suggesting that she was far older than she looked in [[1990–1991 school year|1990–1991]]. She might have accomplished this with a [[de-ageing amulet]]. However, he may have meant lad as in the sense of a young adult lessening this somewhat.
+*Quite appropriately, the role of The Queen of the Night is the villain of ''The Magic Flute'', a powerful Sorceress and Queen who wants to steal the powerful artefact known as the Circle of the Sun. The role is a demanding one, infamous for the difficulty of the Queen's second aria, "Der Hölle Rache", suggesting that Zenith Xeep was an extremely skilled singer.{{Fact}}
+
+==Appearances==
+{{Imagecat|Images of Zenith Xeep}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Potions}}
+{{St Mungo's}}
+{{DEFAULTSORT:Xeep, Zenith}}
+{{Character-stub}}
+[[es:Zenith Xeep]]
+[[Category:Brown-eyed individuals]]
+[[Category:Con artists]]
+[[Category:Dark wizards]]
+[[Category:Females]]
+[[Category:Inventors]]
+[[Category:Musicians]]
+[[Category:Potioneers]]
+[[Category:St Mungo's patients]]

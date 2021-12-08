@@ -1,0 +1,25 @@
+{{Conjecture}}
+{{Pet individual infobox
+|name = Temeritus Shank's owl
+|image = Shanks.JPG
+|species = [[Snowy Owl]]<ref name="OOTPG"/>
+|feathers = White<ref name="OOTPG"/>
+|family = [[Temeritus Shanks]] (owner)<ref name="OOTPG"/>
+|loyalty = [[Temeritus Shanks]]<ref name="OOTPG"/>
+}}
+[[Temeritus Shanks|Termeritus Shanks]] had an '''[[snowy owl]]'''. It was included in his [[Portrait]] that hung at [[Hogwarts Castle]].<ref name="PSF">{{PS|F}}</ref><ref name="COSF">{{COS|F}}</ref><ref name="POAG">{{POA|G}}</ref><ref name="OOTPF">{{OOTP|F}}</ref><ref name="OOTPG">{{OOTP|G}}</ref><ref name="HBPG">{{HBP|G}}</ref>
+
+==Appearances==
+*{{PS|F}} {{1st}} {{Portrait}}<ref>Seen under the entrance to the [[Grand Staircase]].</ref> {{Comment|Appeared as a thing, unidentified}}
+*{{COS|F}} {{Portrait}} {{Comment|First identified as an owl}}
+*{{COS|G}} {{Comment|PS1 version only}} {{Portrait}}
+*{{POA|G}} {{Portrait}}
+*{{OOTP|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{Portrait}} {{1st ID}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Owls]]
+[[Category:Paintings of creatures]]

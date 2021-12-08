@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:ReginaldHeartachus2.jpg|250px]]
+|name = Reginald Heartachus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Reginald Heartachus''' was a [[wizardkind|wizard]] and, given his portrait, a wizarding author who lived in around [[19th century]].
+
+There was a portrait of Heartachus, painted by [[Bimp]], hanging at [[Hogwarts Castle]] in the [[1990s]].<ref name="HPLE">{{HPLE|PA}}</ref>
+
+==Appearances==
+*[[Harry Potter (film series)|''Harry Potter'' films]] {{Portrait}}
+*{{HPLE}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Heartachus, Reginald}}
+
+[[pl:Reginald Heartachus]]
+[[fr:Reginald Heartachus]]
+[[de2:Reginald Heartachus]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

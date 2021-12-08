@@ -1,0 +1,54 @@
+{{Imageless}} 
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Daisy Corran
+|born = Between [[1 September]] [[1978]] and [[31 August]] [[1980]]<ref name="age">Daisy appears in both the PlayStation 2 version of the ''Prisoner of Azkaban'' video game and the Nintendo DS version of the ''Half-Blood Prince'' video game. She must therefore  have  been in Harry's year or the one above it to have still been at Hogwarts during the 1996-1997 term.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+*[[Ravenclaw]]
+}}
+{{Dialogue a-b-a|Daisy Corran|Hello, [[Harry Potter|Harry]]. Have you got any rare [[Potion]]s you don't want any more? I'm prepared to swap my chess pieces if you're interested.|Harry Potter|Okay, let's swap these items.|Thanks, Harry. Don't forget to come back if you want to swap some more.|Harry Potter negotiating with Daisy Corran in the Seven Floor's Corridor|Harry Potter and the Half-Blood Prince (video game)}}
+
+'''Daisy Corran''' was a [[Ravenclaw]] student who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1990]] or [[1991]].<ref name="age" /> During the [[1996–1997 school year]], she, [[Banga O'Deluga]], and [[Justin Steele]] gave [[Harry Potter]] two [[Beater's bat]]s in exchange for six [[Gobstones]] while in the [[The Quad|Paved Courtyard]]. Later that same term, she could be found in the [[Seventh-floor corridor|seventh floor corridor]], where she traded [[potion]]s for [[Wizard's Chess|chess]] pieces.
+
+==Etymology==
+The name "Daisy" is from the English word for the white flower, ultimately derived from Old English ''dægeseage'' meaning "day eye". It was first used as a given name in the 19th century, at the same time many other plant and flower names were coined.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Corran, Daisy}}
+
+[[pl:Daisy Corran]]
+[[fr:Daisy Corran]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

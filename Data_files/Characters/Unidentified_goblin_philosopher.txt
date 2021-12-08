@@ -1,0 +1,44 @@
+{{conjecture}}
+{{Individual infobox
+|theme=goblin
+|image=
+|name=Unidentified goblin philosopher
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Goblin]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Philosopher
+|house=
+|loyalty=
+}}
+{{Quote|It was a Goblin philosopher who said: 'Money is the root of all happiness'.|[[Gringotts Wizarding Bank|Gringotts]] goblin bank teller.|Harry Potter and the Chamber of Secrets (video game)}}
+A '''goblin philosopher''' once noted on the importance of [[wizarding currency|money]], considering it the source of all happiness.<ref>{{COS|G}} - GBC version</ref>
+
+==Behind the scenes==
+*This quote is a variant of [[Bible|1 Timothy 6:10]], which states: "For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows." The change of "evil" to "happiness" reflects goblin ideals over [[human]] ones.
+
+==Appearances==
+*{{COS|G}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Philosophers]]
+[[Category:Unidentified Goblins]]

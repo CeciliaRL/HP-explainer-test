@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Lorre Gustafson - card HBP-NDS.png|250px]]
+|name = Lorre Gustafson
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Sweden|Swedish]]<ref name="QWC"/>
+|alias = 
+|title = [[Chaser]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Black<ref name="QWC"/>
+|eyes = 
+|skin = White<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Nordic National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[Nordic National Quidditch team]]<ref name="QWC"/>
+}}
+'''Lorre Gustafson''' was a [[Sweden|Swedish]] [[Wizardkind|witch]] who played as a [[Chaser]] on the [[Nordic National Quidditch team]] during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]].<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]], her [[Chocolate Frog Card]] could be won by beating [[Manoj Pandit]] at an [[Exploding Snap]] challenge.<ref name="HBPG">{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{C|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Gustafson, Lorre}}
+[[pl:Lorre Gustafson]]
+[[fr:Lorre Gustafson]]
+[[ru:Лорре Густафсон]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Swedish individuals]]
+[[Category:Wizards]]

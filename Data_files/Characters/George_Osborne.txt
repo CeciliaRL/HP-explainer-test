@@ -1,0 +1,47 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = George Osborne
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Shadow [[Chancellor of the Exchequer]]
+|house = 
+|loyalty = 
+}}
+'''George Osborne''' was a British politician and [[Wikipedia:Shadow Chancellor of the Exchequer|Shadow Chancellor of the Exchequer]] in the mid-to-late [[1990s]] (during [[Alistair Darling]]'s time as [[Chancellor of the Exchequer]]). In July of [[1996]], Darling announced "controversial changes" to the [[capital gains tax]]. As the protests grew louder, Osborne said his party would be campaigning to overturn this measure. These events were covered by ''[[The Guardian]]''.<ref>{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Behind the scenes==
+*The listing of [[Wikipedia:George Osborne|George Osborne]] as the Shadow Chancellor of the Exchequer in 1996 is anachronistic, as Osborne was only appointed to the office in [[2005]]. Indeed, at the time, [[Gordon Brown]] was the one who held the post.
+
+==Appearances==
+*{{HBP|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Osborne, George}}
+[[Category:Articles containing anachronistic information]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Politicians]]

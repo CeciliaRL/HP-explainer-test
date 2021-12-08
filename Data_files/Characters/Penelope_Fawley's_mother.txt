@@ -1,0 +1,63 @@
+{{WizardsUniteSpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Penelope Fawley's mother
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">She was an avid supporter of the [[Death Eaters]], meaning she would not have been a [[Muggle-born]].</ref>
+|marital = Married
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Penelope Fawley's father|Mr Padgett]] (husband)
+*[[Penelope Fawley]] (daughter)
+*[[Grim Fawley]] (son-in-law)
+*[[Addison Fawley]] (grandson)
+*[[Melody Fawley]] (granddaughter)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Padgett family]]
+*[[Death Eaters]]
+**[[Tom Riddle|Lord Voldemort]]
+}}
+{{Quote|Everyone was worried about Penelope Padgett. It wasn't because she was from Slytherin, mind you. Her parents were open supporters of You-Know-Who… Her mum's in Azkaban. There was some reason for a bit of caution.|[[Ronald Weasley]] regarding the anxiety surrounding [[Penelope Fawley]]|Harry Potter: Wizards Unite}}
+'''Mrs Padgett''' was a [[Great Britain|British]] [[wizardkind|witch]], the wife of [[Penelope Fawley's father|Mr Padgett]] and the mother of [[Penelope Fawley|Penelope Fawley (née Padgett)]].<ref name="WU"/>
+
+==Biography==
+During the [[Second Wizarding War]], Mr and Mrs Padgett were both outspokenly supportive of [[Tom Riddle|Lord Voldemort]] and his [[Magic is Might]] Campaign; following the war, the latter was imprisoned in [[Azkaban]] for involving herself in the conflict.<ref name="WU">{{WU}} (see [https://wizardsunite.gamepress.gg/guide/mysteries-chapter-3-penelope-fawley-background this])</ref> Before she was imprisoned, the last thing she gave her daughter was a [[Comet 290]] [[broomstick]], which was regarded as the only thing she was left with to remember her by.<ref name="WU"/>
+
+When [[Penelope Fawley|Penelope]] came to work in the [[Auror Office]], [[Gethsemane Prickle]] was suspicious of her due to her parents' ties to the [[Death Eaters]].<ref name="WU"/>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Fawley, Penelope's mother}}
+
+{{Death Eaters}}
+[[Category:Azkaban convicts]]
+[[Category:British individuals]]
+[[Category:Death Eater allies]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Padgett family]]
+[[Category:Parents]]
+[[Category:Pure-blood supremacists]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

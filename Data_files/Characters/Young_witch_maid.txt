@@ -1,0 +1,50 @@
+{{Individual infobox
+|image = [[File:Leaky Cauldron POA maid 1.jpg|250px]]
+|name = Young witch maid
+|born = c. [[1975]] or earlier<ref name="age">She was likely to be at least eighteen to be working at the [[Leaky Cauldron]] in [[1993]].</ref>
+|died =
+|alias =
+|blood =
+|marital = 
+|signature =
+|title =
+|nationality = [[Great Britain|British]]<ref name="POAF"/>
+|species = [[Human]]<ref name="POAF"/>
+|gender = Female<ref name="POAF"/>
+|hair = Brown<ref name="POAF"/>
+|skin = White<ref name="POAF"/>
+|eyes =
+|height =
+|weight =
+|family =
+|romances =
+|wand =
+|animagus =
+|patronus =
+|boggart =
+|house =
+|job = Maid at the [[Leaky Cauldron]]<ref name="POAF"/>
+|loyalty = [[Leaky Cauldron]]<ref name="POAF"/>
+|theme = wizard
+}}
+{{Dialogue a-b-a|Maid|Housekeeping!|Noise|Roar-aw!|I'll come back later.|The maid of the [[Leaky Cauldron]]|Harry Potter and the Prisoner of Azkaban (film)}}
+This '''young [[Wizardkind|witch]] maid''' worked for [[Tom]], the then-landlord of the [[Leaky Cauldron]]. In [[1993]], she knocked on the door of a room and announced herself as housekeeping. The [[Monstrous Leaky Cauldron guest|room's resident]] responded with a bellowing roar and slammed the door in her face. Completely unperturbed, she remarked that she would come back later and walked away. She pulled a wagon with cleaning supplies and had a magical broom that swept by itself.<ref name="POAF">{{POA|F}}</ref>
+
+==Behind the scenes==
+*The maid was portrayed by [[Abby Ford]] in {{POA|FA}}, credited as "Young Witch".
+
+==Appearances==
+*{{POA|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Leaky Cauldron}}
+[[fr:Femme de chambre du Chaudron Baveur]]
+[[pl:Pokojówka Dziurawego Kotła]]
+[[ru:Горничная в «Дырявом котле»]]
+[[Category:Articles with conjectural titles]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Leaky Cauldron employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

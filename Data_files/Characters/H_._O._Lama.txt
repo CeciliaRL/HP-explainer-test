@@ -1,0 +1,21 @@
+{{Individual infobox
+|theme = wizard
+|born = Pre [[1927]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|job = Reporter for [[The New York Ghost]]
+|loyalty = [[The New York Ghost]]
+}}
+'''H . O. Lama''' was an [[United States of America|American]] [[Wizardkind|wizard or witch]] and reporter for [[The New York Ghost]] in [[1927]].<ref name="AM">{{AM}}</ref>
+
+==Appearances==
+*{{AM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lama, H}}
+[[Category:American individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Journalists]]
+[[Category:The New York Ghost staff]]
+[[Category:Wizards]]

@@ -1,0 +1,33 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:Raymond's kitten.png|thumb]]
+|name = Raymond's kitten
+|born = [[1990]] or early [[1991]]
+|died = 
+|alias = 
+|title = 
+|species = [[Ginger Cat]]<ref name="PSG"/>
+|gender = Female<ref name="PSG"/>
+|height = 
+|hair = Orange<ref name="PSG"/>
+|feathers = 
+|eyes = Green<ref name="PSG"/>
+|skin = 
+|family = 
+|loyalty = *[[Raymond]] (owner)<ref name="PSG"/>
+*[[Harry Potter]]<ref name="PSG"/>
+}}
+The [[Ravenclaw]] student [[Raymond]] owned a '''kitten''' when he attended [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PSG"/>
+
+==History==
+She fell down one of the [[Hogwarts Castle|Castle]]'s wells in [[1991]]. Raymond was distraught because of this, and tried to reach her, but the well was too deep. [[Harry Potter]] found her when he was lost in the [[Dungeons]], inside an [[Potions Classroom adjoining room|adjoining room]], which linked to the [[Bottom of the Well]], as well as other rooms. Raymond was very pleased to have her back. Raymond later allowed [[Nicholas de Mimsy-Porpington|Nearly Headless Nick]] to use her for an experiment in the ''Upper Castle'' in which students had to chase her around on unstable rocky platforms while she dropped purple [[Bertie Bott's Every Flavour Beans]].<ref name="PSG">{{PS|G}} - PS1 version</ref>
+
+==Appearances==
+*{{PS|G}} {{1st}} {{Comment|PS1 version only}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1990s births]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Individual cats]]

@@ -1,0 +1,51 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Warren G. Harding
+|hideb=
+|born=[[2 November]] [[1865]]
+|died=
+|blood=[[Muggle|No-Maj]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[President of the United States of America|President]] of the [[United States of America]]
+|house=
+|loyalty=
+}}
+'''Warren G. Harding''' (born [[2 November]] [[1865]]) was an [[United States of America|American]] [[Muggle|No-Maj]] politician who belonged to the [[Republican Party]].<ref name="wiki1">"[https://en.wikipedia.org/wiki/Warren_G._Harding Warren G. Harding]" on Wikipedia</ref><ref name="fb-paper">"[http://www.gazette-du-sorcier.com/Compte-rendu-ouverture-de-l-exposition-Harry-Potter-a-Bruxelles-pour-Noel Compte-rendu : ouverture de l’exposition Harry Potter à Bruxelles pour Noël]" from the Gazette du Sorcier {{see image|File:New York Chronicle - Monday Dec 1926 (HQ).png}}</ref> He served as the [[President of the United States of America]] from [[4 March]] [[1921]] to an unknown date.<ref name="wiki1" /><ref name="fb-paper" />
+
+In its [[6 December]] [[1926]] issue, the ''[[New York Chronicle]]'' reported that President Harding had delivered an in-person address before the [[United States Congress|U.S. Congress]] that day, challenging opponents of the [[Ship Subsidy Bill]] to work to defeat it instead of ignoring it because "the failure of Congress to act decisively [would] be no less disastrous than adverse action."<ref name="fb-paper" /><ref name="eveningworld">[http://chroniclingamerica.loc.gov/lccn/sn83030193/1922-11-21/ed-1/seq-1/ Front page of the 21 November 1922 issue of ''The Evening World''] from Chronicling America</ref>
+
+==Behind the scenes==
+*[[wikipedia:Warren G. Harding|Warren G. Harding]] died on [[2 August]] [[1923]] of a cerebral haemorrhage while serving his first term as president.<ref name="wiki1" /> This makes the multiple references to President Harding in articles in the [[:File:New York Chronicle - Monday Dec 1926 (HQ).png|prop issue]] of the ''[[New York Chronicle]]'' featured in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'' anachronistic, as the film is set in [[December]] [[1926]], three years after Harding's death in office. However, it can be presumed that Harding did not die in 1923 in the [[Harry Potter universe|''Harry Potter'' universe]], and that he was elected to a second term.
+*The text of the articles mentioning Harding in the prop issue of the ''New York Chronicle'' were taken from the real [[21 November]] [[1922]] issue of ''[[wikipedia:The Evening World|The Evening World]]'' and document actual historical events (albeit anachronistically).<ref name="eveningworld" />
+
+==Appearances==
+*{{FB|F}} {{comment|Mentioned in a newspaper as "President Harding"}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Harding, Warren G.}}
+[[Category:1865 births]]
+[[Category:American individuals]]
+[[Category:Articles containing anachronistic information]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Politicians]]

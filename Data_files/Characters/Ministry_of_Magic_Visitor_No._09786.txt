@@ -1,0 +1,17 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Ministry Visitor No. 09786
+|species = [[Human]]<ref name="HPFW"/>
+|loyalty = [[British Ministry of Magic]]<ref name="HPFW"/>
+|theme = wizard
+}}
+This '''individual''' was a [[Wizardkind|wizard or witch]]. Sometime in [[1995]], [[1996]] or [[1997]] they went to the [[British Ministry of Magic|Ministry of Magic]] as a visitor.<ref name="HPFW">See [[:File:Visitor No 09786.jpg|this image]]</ref>
+
+==Appearances==
+*{{HPFW}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,50 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Rufus Foster
+|nationality=[[United States of America|American]]
+|born=
+|died=
+|blood=[[Non-magic people|No-Maj]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[United States of America|U.S.]] federal judge
+|house=
+|loyalty=[[United States of America|American]] government
+}}
+'''Rufus Foster''' was an [[United States of America|American]] [[Muggle|No-Maj]] who served as a federal judge in the [[1920s]].<ref name="fb-chronicle">"[http://www.gazette-du-sorcier.com/Compte-rendu-ouverture-de-l-exposition-Harry-Potter-a-Bruxelles-pour-Noel Compte-rendu : ouverture de l’exposition Harry Potter à Bruxelles pour Noël]" from the Gazette du Sorcier {{see image|File:New York Chronicle - Monday Dec 1926 (HQ).png}}</ref><ref name="eveningworld">[http://chroniclingamerica.loc.gov/lccn/sn83030193/1922-11-21/ed-1/seq-1/ Front page of the 21 November 1922 issue of ''The Evening World''] from Chronicling America</ref>
+
+==Biography==
+Foster censured a [[wikipedia:grand jury|grand jury]] investigating [[Prohibition]] violations for leaking a sealed letter to the press on [[6 December]] [[1926]].<ref name="fb-chronicle" /><ref name="eveningworld" /> This letter was written by jury foreman [[W. de S. Trenholm]] and intended to be read only by the judge.<ref name="fb-chronicle" /><ref name="eveningworld" /> Foster summarily dismissed the grand jury, but was convinced by [[Clarke]], the Assistant District Attorney, to reconsider this action.<ref name="fb-chronicle" /><ref name="eveningworld" /> Thus, he instead ordered that the jury deliver any indictments they had found within three days, at which point their dismissal would take effect.<ref name="fb-chronicle" /><ref name="eveningworld" /> The incident was reported in the 6 December 1926 issue of the ''[[New York Chronicle]]''.<ref name="fb-chronicle" /><ref name="eveningworld" />
+
+==Behind the scenes==
+*The text of the article mentioning Rufus Foster in the [[:File:New York Chronicle - Monday Dec 1926 (HQ).png|prop issue]] of the ''[[New York Chronicle]]'' featured in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'' was taken from the real [[21 November]] [[1922]] issue of ''[[wikipedia:The Evening World|The Evening World]]''. This represents an anachronism, as the film is set in [[1926]], but the actual historical event referenced happened in 1922.<ref name="eveningworld" />
+
+==Appearances==
+*{{FB|F}} {{1st Mention}} {{C|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Foster, Rufus}}
+[[Category:American individuals]]
+[[Category:Articles containing anachronistic information]]
+[[Category:Judges]]
+[[Category:Males]]
+[[Category:Muggles]]

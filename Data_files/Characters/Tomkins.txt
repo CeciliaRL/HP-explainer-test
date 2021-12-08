@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Tomkins
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Sir
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Owner of [[Sir Tomkins & Co.]] (presumably)
+|house = 
+|loyalty = 
+}}
+'''Sir Tomkins''' was a [[Scotland|Scottish]] [[wizardkind|wizard]] who presumably founded the [[Edinburgh]]-based wizarding brewing company [[Sir Tomkins & Co.]].<ref name="HPLE">{{HPLE|G}} {{see image|File:SirTomkins&Co..png}}</ref>
+
+==Appearances==
+*[[Harry Potter (film series)|''Harry Potter'' films]] {{Comment|Mentioned on product label}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:Tomkins]]
+[[Category:Males]]
+[[Category:Nobility]]
+[[Category:Scottish individuals]]
+[[Category:Wizards]]

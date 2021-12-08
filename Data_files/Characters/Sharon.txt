@@ -1,0 +1,27 @@
+{{Individual infobox
+|image = [[File:Sharon.png|250px]]
+|name = Sharon
+|died = Before [[1991]]
+|species = [[Human]]<ref name="PSG"/>
+|gender = Female<ref name="PSG"/>
+|hair = Brown<ref name="PSG"/>
+|skin = Fair<ref name="PSG"/>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSG"/>
+|theme = portrait
+}}'''Sharon''' was a [[Wizardkind|witch]] who had a [[portrait]] of herself hung somewhere in [[Hogwarts Castle]] by the [[1991-1992 school year]].<ref name="PSG">{{PS|G}}</ref>
+
+==Behind the scenes==
+*This portrait appears in the PC version of the [[Harry Potter and the Philosopher's Stone (video game)|video game adaptation]] of {{PS}}. In the game's files, it was called Sharon.bmp.
+
+==Appearances==
+*{{PS|G}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+[[ru:Шерон]]
+[[pl:Sharon]]
+[[de2:Sharon]]
+[[Category:Females]]
+[[Category:Portraits]]
+[[Category:Wizards]]

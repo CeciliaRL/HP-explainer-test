@@ -1,0 +1,47 @@
+{{DISPLAYTITLE:Hedwig}}
+{{Youmay|the historical person|[[Harry Potter]]'s [[Hedwig|pet owl]]}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Hedwig
+|hideb=
+|born=[[Middle Ages]]<ref name=Scholastic>[http://web.archive.org/web/20100331232246/http://harrypotter.scholastic.com/glossary/ Glossary at harrypotter.scholastic.com (Archived via Wayback Machine)]</ref>
+|died=[[Middle Ages]]<ref name=Scholastic/>
+|blood=
+|alias=
+|title=Saint<ref name=Scholastic/>
+|hidep=
+|species=[[Human]]
+|gender=Female (likely)
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|He had decided to call [[Hedwig|her]] Hedwig, a name he had found in ''[[A History of Magic]]''.|[[Harry Potter]] naming his [[Hedwig|pet owl]] after this individual|Harry Potter and the Philosopher's Stone}}
+'''Saint'''<ref name=Scholastic/> '''Hedwig''' (b. prior to [[1900]]) was a [[Middle Ages|medieval]]<ref name=Scholastic /> [[Wizardkind|witch or wizard]]. Featured in ''[[A History of Magic]]'', this individual was the namesake for [[Harry Potter]]'s [[Hedwig|pet owl]].<ref name="PS6">{{PS|B|6}}</ref>
+
+==Behind the scenes==
+*As [[Wikipedia:Hedwig|Hedwig]] is a [[Germany|German]] female name, it is possible that Hedwig was a [[Germany|German]] [[Wizardkind|witch]].
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Saints]]
+[[Category:Wizards]]

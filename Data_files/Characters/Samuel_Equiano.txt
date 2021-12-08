@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Samuel Equiano
+|born = After [[1976]],<ref>Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref> [[Nigeria]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Nigeria]]n
+|alias = 
+|title = [[Seeker]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] for the [[Nigerian National Quidditch team]]
+|house = 
+|loyalty = [[Nigerian National Quidditch team]]
+}}
+{{Quote|While there is precedent for a Seeker choosing to catch the Snitch if so doing will minimise the margin by which their team are about to lose (the most famous recent occasion being Viktor Krum's Snitch capture in the 1994 final), Snuka's counterpart Samuel Equiano was some distance away when he chose to snatch the Snitch from the air.|[[Ginevra Weasley|Ginny Potter]], "[[NIGERIA VERSUS FIJI]]" (''[[Daily Prophet]]'', [[14 May]] [[2014]])|Pottermore}} 
+'''Samuel Equiano''' was a [[Nigeria]]n [[Wizardkind|wizard]] who played as the [[Seeker]] for the [[2014]] [[Nigerian National Quidditch team]]. During the second match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], against [[Fijian National Quidditch team|Fiji]], Samuel Equiano was quite some distance away from the [[Golden Snitch|Snitch]] when the opposing Seeker, [[Joseph Snuka]], decided to catch it while his team was losing 400 to 10, much to the bewilderment of the commentators, the fury of the Fijian supporters and the jeers of the Nigerians.<ref name="PM">{{PM}} - [[NIGERIA VERSUS FIJI]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Equiano, Samuel}}
+
+[[de:Samuel Equiano]]
+[[fr:Samuel Equiano]]
+[[pl:Samuel Equiano]]
+[[Category:Males]]
+[[Category:Nigerian individuals]]
+[[Category:Seekers]]
+[[Category:Wizards]]

@@ -1,0 +1,61 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = centaur
+|image = [[File:Torvus profile - HM.png]]
+|name = Torvus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Centaur]]<ref name="HM46"/>
+|gender = Male<ref name="HM46"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HM46"/>
+|eyes = Brown<ref name="HM46"/>
+|skin = Fair<ref name="HM46"/>
+|family = [[Torvus' father|Father]]<ref name="HM46"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Forbidden Forest centaur colony]]<ref name="HM46"/>
+}}
+'''Torvus''' was a [[centaur]] who lived in the [[Forbidden Forest]] and was once a part of the [[Forbidden Forest centaur colony|colony]] that dwelled therein, only to be ousted when his desire to lend a helping hand to a human resulted in the theft of [[Torvus' arrow|an arrow]] with a jewel encrusted arrowhead, which had been a precious heirloom of their herd for many generations.<ref name="HM46">{{HM|4|6}}</ref>
+
+As a result, the embittered centaur came to resent and distrust all [[Wizardkind|wizards]], but no one more than the [[Jacob (Hogwarts student)|thief]] and [[Jacob's family|his family]].<ref name="HM46"/>
+
+==Biography==
+[[File:Torvus.png|thumb|left|Torvus in the [[Forbidden Forest]]]]
+When he was young, [[Torvus' father|his father]] told him about [[Forest Vault|a Cursed Vault located inside the Forest]], and warned him to stay away from it.<ref name="HM46"/>
+
+Many years later, a [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] student named [[Jacob (Hogwarts student)|Jacob]] entered the forest, searching for said vault. He told Torvus that he needed an arrow to open it. Although he was interested in helping the [[human]], he refused to give him [[Torvus's arrow|an arrow that had been a family heirloom]]. Jacob stole the arrow using magic. For this Torvus was excluded from [[Forbidden Forest centaur colony|his colony]], and continued to live in the Forest on his own.<ref name="HM46"/>
+
+Said to be the only centaur lonely enough to talk to humans, at some point during the mid-[[1980s]], he encountered a student from [[Hogwarts Castle]] by the name of [[Charles Weasley|Charlie Weasley]], whom he eventually befriended and sometimes accompanied in trying tracking [[dragon]]s, to no avail. In the [[1987–1988 school year]], someone had tampered with the Forest Vault that his father had warned him about, unleashing a [[sleepwalking curse]] that placed students in a state akin to that of those suffering somnambulism, prompting the unwitting pupils to wander off into their death at the claws and teeth of the dangerous beasts that dwelled within the forest. Whenever he found such students, Torvus would escort them back to the edge of the forest and point them towards the school.<ref name="HM47">{{HM|4|7}}</ref>
+
+[[File:Torvus in the Forbidden Forest HM413.png|220px|thumb|Torvus's happiness over having his arrow returned to him]]
+Later that year, he told this story of Jacob's betrayal to his younger [[Jacob's sibling|sibling]].<ref name="HM46"/> When they returned the arrowhead back to him, Torvus was grateful and agreed to take them to the Vault inside the Forest but he told them they need Hagrid and must prepare for the journey as it would be "the fight of their life".<ref name="HM413">{{HM|4|13}}</ref>
+
+Afterwards, Torvus was accepted back to his colony after returning the arrowhead and completing a series of tasks.<ref name="y5ch28">{{HM|5|28}}</ref>
+
+Approximately a year after entering the Forest Vault, he helped Jacob's sibling and [[Merula Snyde]] prepare for the next vault by duelling against them. He then told the two that they would be stronger together than individually.<ref name="y5ch28"/>
+
+==Appearances==
+{{Imagecat|Images of Torvus}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[ru:Торвус]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Centaurs]]
+[[Category:Forbidden Forest]]
+[[Category:Males]]

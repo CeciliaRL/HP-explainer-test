@@ -1,0 +1,60 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Defence Against the Dark Arts Professor
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="professor"/>
+|signature = 
+|species = [[Human]]<ref name="professor"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Professor]] of [[Defence Against the Dark Arts]] ([[1984]]–[[1985]])<ref name="professor"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="professor"/>
+}}
+This '''individual''' became the [[professor]] of [[Defence Against the Dark Arts]] at [[Hogwarts School of Witchcraft and Wizardry]] for the [[1984–1985 school year]].
+
+==Biography==
+However, because of [[Tom Riddle|Lord Voldemort]]'s [[Jinx on the post of Defence Against the Dark Arts teacher|jinx]] on the post, this individual was "lost" by the end of the year and needed to be replaced. According to [[Penny Haywood]], [[Severus Snape]] tried unsuccessfully to get the job.<ref name="professor">{{HM|1|8}}</ref>
+
+During a discussion with Penny Haywood, [[Jacob's sibling]] mentioned how they felt that they did not learn anything in Defence Against the Dark Arts that year, possibly indicating that the professor was not very good.<ref name="professor"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Galatea Merrythought]]
+|position=[[Defence Against the Dark Arts]] [[Professor]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=[[1984]]–[[1985]]
+|successor=[[Unidentified 1985–1986 Defence Against the Dark Arts professor|Unidentified professor]]
+}}
+{{End box}}
+
+{{Staff}}
+{{Defence Against the Dark Arts}}
+[[Category:British or Irish individuals]]
+[[Category:Defence Against the Dark Arts Professors at Hogwarts]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified Hogwarts employees]]
+[[Category:Wizards]]

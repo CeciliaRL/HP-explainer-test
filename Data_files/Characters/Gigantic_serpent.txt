@@ -1,0 +1,26 @@
+{{Conjecture}}
+{{Individual_infobox
+|image = [[File:Serpenthill.png|250px]]
+|name = Gigantic serpent
+|born = Before [[1965]] (presumably)<ref>This creature appears to be a magical hybrid, which were [[Ban on Experimental Breeding|banned]] in 1965, therefore it must have been born before this.</ref>
+|species = [[Snake]] (with characteristics of [[dragon]]s and [[basilisk]]s)
+|eyes = Blue
+|skin = Purple and green
+|job = Guardian of the [[Enchanted garden (Book of Potions)|enchanted garden]]
+|loyalty = [[Wizarding Schools Potions Championship]]
+|theme=pet
+}}This '''gigantic serpent''' guarded a hill in the [[Enchanted garden (Book of Potions)|enchanted garden]] that the [[Wizarding Schools Potions Championship]] took place in. The [[snake]] was of a massive size, had six eyes, and possessed the [[Dragon hide|thick, spell-repellent hide]] of a [[dragon]] and the [[basilisk venom|venomous fangs]] of the [[basilisk]]. The hill the serpent guards was placed at a key point in the garden; all the possible paths converge on the hill, meaning the serpent must be faced by any champion in the tournament.<ref name=BOP>{{WBP}}</ref>
+
+==History==
+The [[Hogwarts potions champion]] eluded the serpent by first attempting to gain its attention by starting a [[fire]] in the nearby forest with a cartful of dry hay and the [[Fire-Making Spell]], and, when this did not work, destroying an abandoned tower on the hill by disintegrating its supports with the [[Reductor Curse]]. With the snake's attention drawn, the student attracted it by smashing a [[Pungous Onion]] provided by ''[[Book of Potions]]'' and then poured [[Sleeping Potion]] onto its outstretched tongue while it was investigating the scent. This put the creature to sleep long enough for the champion to pass the hill.<ref name=BOP />
+
+==Appearances==
+*{{WBP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[pt-br:Serpente gigantesca]]
+[[ru:Гигантский змей]]
+[[Category:Blue-eyed individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Security guards]]
+[[Category:Snakes]]

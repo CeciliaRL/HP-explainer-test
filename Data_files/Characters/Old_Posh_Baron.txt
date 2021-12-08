@@ -1,0 +1,59 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:Old Posh Baron.jpg|250px]]
+|name = Old Posh Baron
+|born = 
+|died = Before [[September]] [[1991]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Baron<ref name="PSG"/><ref name="COSG"/>
+|signature = 
+|species = [[Human]]<ref name="PSG"/><ref name="COSG"/>
+|gender = Male<ref name="PSG"/><ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="PSG"/><ref name="COSG"/>
+|eyes = Brown<ref name="PSG"/><ref name="COSG"/>
+|skin = White<ref name="PSG"/><ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]] (possibly)
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSG"/><ref name="COSG"/>
+}}
+{{Dialogue a-b|Harry Potter|Fizzy Pop|Baron|Well done, young sir! That's the correct password! Let's see if I can get these old hinges working.|This portrait communicating with Harry Potter|Harry Potter and the Philosopher's Stone (video game)}}
+The '''Old Posh Baron''' was a [[portrait]] at [[Hogwarts Castle]], portraying a kind, polite old nobleman.<ref name="PSG"/><ref name="COSG"/>
+
+==History==
+===[[1991–1992 school year]]===
+In the [[1991–1992 school year]], it hung in a [[Portrait Room]] next to the [[Great Hall]], guarding a secret chamber where a [[Nimbus 2000]] was kept. The [[password]] to this room, "''Fizzy Pop''", was traded to [[Harry Potter]] for fifty earwax flavour [[Bertie Bott's Every Flavour Beans]] by [[Fred and George Weasley]].<ref name="PSG">{{PS|G}} - PS1 version</ref>
+
+===[[1992–1993 school year]]===
+In the [[1992–1993 school year]], the Portrait Room, where the Baron's portrait hung became an out-of-bounds area, so the portrait was moved to a secret room behind a bookcase, guarding a small chamber with a lever.<ref name="COSG">{{COS|G}} - PS1 version</ref>
+
+==Behind the scenes==
+*This individual died sometime prior to [[1991]], as the portraits hung at [[Hogwarts Castle]] depict deceased individuals.<ref>[http://www.accio-quote.org/articles/2004/0804-ebf.htm JKR at Edinburgh Book Festival 2004]</ref>
+*All of the special portraits in the [[Harry Potter and the Philosopher's Stone (video game)|PS1 version]] of {{PS}} return in the [[Harry Potter and the Chamber of Secrets (video game)|next game]] as guards to the Founders' Duels Arenas. As this portrait does not guard any arena in ''Chamber of Secrets'', it is likely this individual is a [[Gryffindor]].
+
+==Appearances==
+*{{PS|G}} {{1st}} {{Portrait}}
+*{{COS|G}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts ground floor}}
+[[fr:Vieux baron snobinard]]
+[[pl:Stary Elegancki Baron]]
+[[Category:British individuals|Baron]]
+[[Category:Males|Baron]]
+[[Category:Nobility|Baron]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards|Baron]]

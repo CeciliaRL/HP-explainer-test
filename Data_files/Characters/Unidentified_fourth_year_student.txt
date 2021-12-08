@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Fourth year student
+|born = c. [[1980]]-[[1981]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP"/>
+|gender = Male<ref name="OOTP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP"/>
+}}
+This '''unidentified [[fourth year]] year''' was a [[Wizardkind|wizard]] and student at [[Hogwarts School of Witchcraft and Wizardry]]. In [[1995–1996 school year]] he owned a [[Fanged Frisbee]] that [[Prefect]] [[Hermione Granger]] confiscated.<ref name="OOTP">{{OOTP}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Males|Fourth year student]]
+[[Category:Sorted in 1992|Fourth year student]]
+[[Category:Unidentified Hogwarts Students|Fourth year student]]
+[[Category:Wizards|Fourth year student]]

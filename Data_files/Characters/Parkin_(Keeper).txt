@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=quidditch-player
+|name=Parkin
+|image=
+|bgcolor1=
+|bgcolor2=
+|hideb=
+|nationality=[[Scotland|Scottish]]
+|species=[[Human]]
+|gender=
+|eyes=
+|hair=
+|skin=
+|born=[[1405]] or earlier
+|died=
+|hidef=1
+|family=*[[Walter Parkin]] (father)
+*[[Parkin (Chaser I)]] (sibling)
+*[[Parkin (Chaser II)]] (sibling)
+*[[Parkin (Chaser III)]] (sibling)
+*[[Parkin (Beater I)]] (sibling)
+*[[Parkin (Beater II)]] (sibling)
+*[[Parkin (Seeker)]] (sibling)
+|blood=
+|title=[[Keeper]]
+|alias=
+|hidem=1
+|wand=
+|boggart=
+|patronus=
+|animagus=
+|job=[[Keeper]] for the [[Wigtown Wanderers]]
+|loyalty=[[Wigtown Wanderers]]}}'''Parkin''' (fl. [[1422]]) was a [[Scotland|Scottish]] [[Wizardkind|witch or wizard]] who played as a [[Keeper]] for the original [[Wigtown Wanderers]] team during the [[15th century]] and was a child of Wanderers founder [[Walter Parkin]]. They were a formidable team during this time who won most of their matches, perhaps partly because Walter himself used to attend every game holding his wand in one hand and a meat cleaver in the other.<ref>{{QTA|R|7}}</ref>
+
+==Appearances==
+*{{QTA|R}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+[[es:Parkin (guardián)]]
+[[pl:Parkin (obrońca)]]
+[[Category:Historical figures]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Keepers]]
+[[Category:Parkin family]]
+[[Category:Scottish individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Unidentified wizard killed at the Quad battlements.jpg|250px]]
+|name = Unidentified wizard killed at the Quad battlements
+|born =
+|died = [[2 May]], [[1998]]<br />[[The Quad battlements]], [[Hogwarts Castle]]<ref name="DHF2"/>
+|alias =
+|title =
+|signature =
+|blood = 
+|species = [[Human]]<ref name="DHF2"/>
+|gender = Male<ref name="DHF2"/>
+|hair = Black<ref name="DHF2"/>
+|skin = Pale<ref name="DHF2"/>
+|eyes =
+|weight =
+|height =
+|family =
+|wand =
+|animagus =
+|patronus =
+|boggart =
+|job =
+|house =
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+|theme = wizard 
+}}
+This '''individual''' (d. [[2 May]], [[1998]]) was a [[wizardkind|wizard]] who fought against the [[Death Eaters]] during the [[Second Wizarding War]].<ref name="DHF2"/>
+
+==Biography==
+[[File:MainTrailerParte2_353.jpg|thumb|left|This wizard is killed]]
+This wizard participated in the [[Battle of Hogwarts]]. After the [[Death Eaters]] managed to break the protective enchantments protecting [[Hogwarts Castle]], he was aiming spells at the oncoming forces at the [[Viaduct]] over at the [[The Quad battlements|the battlements]] around [[The Quad]]. [[Unidentified Death Eater who engaged Arthur Weasley|A Death Eater]] [[Skirmish at the Quad battlements|blew up part of the battlements]], and [[Apparition|Apparated]] into the [[catwalks by the Quad battlements|catwalks]] within. There, he ruthlessly killed this wizard, who was caught off-guard, with a [[Killing Curse]] before starting a duel with [[Arthur Weasley]].<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*It is unclear who this wizard was, as he only appeared for a split second in {{DH|F2}}. As he was by Order members [[Arthur Weasley]], [[Kingsley Shacklebolt]] and [[Remus Lupin]], there is the possibility he was a part of the [[Order of the Phoenix]], but it is more likely he was a member of the Hogwarts staff.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts fatalities]]
+[[Category:Deaths by Killing Curse]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

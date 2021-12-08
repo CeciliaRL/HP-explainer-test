@@ -1,0 +1,52 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Lucretia Fawley
+|born = No later than 1966<ref>Presumably Lucretia had turned 17 and graduated from Hogwarts when she had her son. This means she cannot be born any later than 1966, especially if she has a late year birthday.</ref>
+|died = Between [[1 September]] [[1996]] and [[2 May]] [[1998]]
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Marshall Fawley]] (husband) †
+*[[Grim Fawley]] (son)
+*[[Penelope Fawley|Penelope Padgett]] (daughter-in-law)
+*[[Addison Fawley]] (grandson)
+*[[Melody Fawley]] (granddaughter)
+*[[Fawley family]]
+|romances = [[Marshall Fawley]] (husband) †
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Fawley family]]
+}}
+{{Quote|Lucretia and Marshall Fawley. Loving mother and father.|The Fawleys' epitaph on their [[Fawley Urn|urn]].|Harry Potter: Wizards Unite}}
+'''Lucretia Fawley''' (died c. [[1997]]) was a [[Great Britain|British]] [[wizardkind|witch]], the wife of [[Marshall Fawley]], and the mother of [[Grim Fawley]].
+
+Mrs Fawley and her husband were both killed during the height of the [[Second Wizarding War]], while their son Grim was a student at Hogwarts.<ref name="WU">{{WU}} (see [https://wizardsunite.gamepress.gg/guide/mysteries-chapter-2-grim-fawley-background this])</ref>
+
+==Appearances==
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Fawley, Lucretia}}
+[[Category:1990s deaths]]
+[[Category:British individuals]]
+[[Category:Fawley family|Lucretia]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Second Wizarding War casualties]]
+[[Category:Wizards]]

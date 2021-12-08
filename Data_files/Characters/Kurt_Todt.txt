@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Kurttodd.png|250px]]
+|name = Kurt Todt
+|born = Before [[1977]], [[Germany]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Germany|German]]<ref name="QWC"/>
+|alias = 
+|title = [[Chaser]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="QWC"/>
+|eyes = Brown<ref name="QWC"/>
+|skin = Light<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[German National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[German National Quidditch team]]<ref name="QWC"/>
+}}
+'''Kurt Todt''' was a [[Germany|German]] [[Wizardkind|wizard]] who played as a [[Chaser]] on the [[German National Quidditch team]] during the [[1994 Quidditch World Cup|422nd Quidditch World Cup]], in [[1994]].<ref name="QWC">{{QWC}}</ref> By [[1996]], he was featured on a [[Chocolate Frog Card]].<ref name="HBPG">{{HBP|G}} - NDS version</ref>
+
+==Appearances==
+*{{QWC}} {{1st}} 
+*{{HBP|G}} {{FWC}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Todt, Kurt}}
+
+[[pl:Kurt Todt]]
+[[fr:Kurt Todt]]
+[[Category:20th century births]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:German individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Robbie Fenwick
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HBPF"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPF"/>
+|gender = Male<ref name="HBPF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Benjy Fenwick]] (possibly)
+*[[Marcus Fenwick]] (possibly)
+*[[Mervyn Fenwick]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Fenwick family]]
+}}
+{{Dialogue a-b-a|Hermione Granger|My parents are dentists. They tend to people's teeth.|Horace Slughorn|Fascinating. And is that considered a dangerous profession?|No. Although, one boy, Robbie Fenwick, did bite my father once. He needed ten stitches.|[[Hermione Granger]] and [[Horace Slughorn]] talk about an incident with Robbie Fenwick.|Harry Potter and the Half-Blood Prince (film)}}
+
+'''Robbie Fenwick'''<ref name="script">[http://warnerbros2009.warnerbros.com/assets/screenplays/hpathbp_screenplay.pdf ''Half-Blood Prince'' script] released on the [http://warnerbros2009.warnerbros.com/#/movies/harrypotter/foryourconsideration/ Warner Bros. Awards website]</ref> was a [[Non-magic people|Muggle]] boy and a dental patient of [[Hermione Granger's parents|Mr and Mrs Granger]]. During one appointment, he bit Mr Granger, giving him a wound that required ten [[stitches]] to close. [[Hermione Granger]] related this story to [[Horace Slughorn]], a [[Wizardkind|wizard]] unfamiliar with the Muggle world, when he asked if dentistry was a dangerous profession.<ref name="HBPF">{{HBP|F}}</ref>
+
+==Appearances==
+*{{HBP|F}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Fenwick, Robbie}}
+[[pl:Robbie Fenwick]]
+[[Category:British individuals]]
+[[Category:Fenwick family|Robbie]]
+[[Category:Males]]
+[[Category:Muggles]]

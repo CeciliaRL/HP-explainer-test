@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Theophilus Abbot
+|born=[[United States of America]]
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|family=[[Abbott family]] (possibly)
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job= *Magical historian
+*Author
+|house=
+|loyalty=
+}}
+'''Theophilus Abbot''' was an [[United States of America|American]] [[wizardkind|wizard]] and historian.
+
+==Biography==
+He studied [[Muggle|No-Maj]] families which descended from [[Scourers]] who escaped justice following the establishment of the [[Magical Congress of the United States of America]], and identified in each family a deep belief in the existence of magic and an intense hatred of it, convictions passed down from their vengeful ancestors.<ref name="pottermoreHistory2">{{PM}} - [https://www.pottermore.com/collection-episodic/history-of-magic-in-north-america-en Writing by J.K. Rowling: "History of Magic in North America: Seventeenth Century and Beyond"]</ref> He authored the book ''[[Scourers and the Creation of MACUSA]]'' sometime prior to [[1926]].<ref name="cb">{{CB}}, page 20</ref>
+
+==Magical abilities and skills==
+*'''[[History of Magic]]''': As a magical historian, Theophilius had extensive knowledge in American wizarding history, particularly [[Scourers]].
+*'''[[:Category:Authors|Author]] skills''': Theophilius was an accomplished author and wrote [[Scourers and the Creation of MACUSA]].
+
+==Behind the scenes==
+
+*He may be related to [[Hannah Abbott]]. His [[Abbott family|last name]] may be misspelled, and may actually be the same as Hannah's. This opens up the possibility that there is a branch of the Abbott family in the [[United States of America|United States]].
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Abbot, Theophilus}}
+[[de:Theophilus Abbot]]
+[[pl:Teofil Abbot]]
+[[fr:Théophile Abbot]]
+[[Category:Abbott family]]
+[[Category:American individuals]]
+[[Category:Authors]]
+[[Category:Historians]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,59 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=durmstrang
+|image=
+|name=Head of Durmstrang Institute
+|hideb=
+|born=18th century or earlier<ref name="GF15" />
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="Blood">Based on the fact that [[Durmstrang Institute|Durmstrang]] does not admit [[Muggle-born]]s as students, which makes it unlikely that they would admit them as professors or headmasters either.</ref>
+|alias=
+|title=*[[Professor]]<ref name="GF15" />
+*[[Headmaster|Headmaster or Headmistress]]<ref name="GF15" />
+|hidep=
+|species=[[Human]]<ref name="GF15" />
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Headmaster]] of [[Durmstrang Institute]] (1792 or before -?)<ref name="GF15" />
+|house=
+|loyalty=[[Durmstrang Institute]]<ref name="GF15" />
+}}
+{{Quote|Well, the Heads of the participating schools are always on the panel, because all three of them were injured during the Tournament of 1792, when a cockatrice the champions were supposed to be catching went on the rampage. It's all in ''Hogwarts, A History''.|[[Hermione Granger]]|Harry Potter and the Goblet of Fire}}
+This '''individual''' (fl. [[1792]]) was a [[Headmaster|Headteacher]] of [[Durmstrang Institute]] during the [[1790s]].<ref name="GF15">{{GOF|B|15}}</ref> 
+
+==Biography==
+In 1792, the [[Triwizard Tournament]] was held at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts Castle]], and this Headteacher and the Durmstrang student delegation travelled to [[Scotland]], along with the [[Headteacher of Beauxbatons Academy of Magic during 1792|Head of Beauxbatons]], and were welcomed by the [[Headteacher of Hogwarts School of Witchcraft and Wizardry during 1792|Head of Hogwarts]]. One of the tasks involved catching a [[Cockatrice]], which went on a rampage and injured the judges, including the Durmstrang Head. This incident, along with the rising number of deaths, was a contributing factor to the eventual disbandment of the Tournament, though there were a few unsuccessful attempts to revive it.<ref name="GF15" />
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Harfang Munter]]
+|position=Head of the [[Durmstrang Institute]]
+|years=c. [[1792]]
+|successor=Unknown, eventually [[Igor Karkaroff]]
+}}
+{{End box}}
+
+[[es:Director o directora del Instituto Durmstrang durante 1792]]
+[[Category:Durmstrang Headmasters and Headmistresses]]
+[[Category:European individuals]]
+[[Category:Historical figures]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

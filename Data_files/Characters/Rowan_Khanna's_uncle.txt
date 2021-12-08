@@ -1,0 +1,48 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = 
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[half-blood]] (most likely)<ref name="blood">As the Khanna family supplied wand and broomwood, it is unlikely that he was [[Muggle-born]].</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM45"/>
+|gender = Male<ref name="HM45"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Rowan Khanna]] (nephew/niece)<ref name="HM45"/>
+*[[Khanna family]]<ref name="HM45"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Broom-maker]]<ref name="HM45"/>
+|house = 
+|loyalty = [[Khanna Farms]]<ref name="HM45"/>
+}}
+This '''individual''' was a [[Great Britain|British]] [[Wizardkind|wizard]] and the uncle of [[Rowan Khanna]].<ref name="HM45"/>
+
+==Biography==
+It can be presumed that he grew up in the [[Khanna Farms|family business]], as he knew enough about woodworking to become a top [[broom-maker]] as an adult. He apparently did very good, meticulous work and was very proud of it, since crafting a single broom would take him a few months and would cost a few thousand galleons. Rowan suggested they could ask his uncle to make one for [[Jacob's sibling]] after they learned the easiest way to enter the [[Forbidden Forest]] unseen was by flying. This suggestion was, however, too time-consuming and costly for it to go anywhere, as Rowan's friend ultimately borrowed a broom from someone else instead.<ref name="HM45">{{HM|4|5}}</ref>
+
+==Behind the scenes==
+*It is unknown if this uncle and [[Ollie]],<ref>{{HM|3|Wizarding World Famous}} - mentioned if option ''"It's amazing"'' is chosen when asked about the contest.</ref> an uncle mentioned by name by Rowan, is the same man.
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Broom-makers]]
+[[Category:Males]]
+[[Category:Wizards]]

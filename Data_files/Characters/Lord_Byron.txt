@@ -1,0 +1,53 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Lord Byron
+|born = [[22 January]], [[1788]]<br/>[[London]], [[England]]
+|died = [[19 April]], [[1824]] (aged 36)<br/>[[Wikipedia:Missolonghi|Missolonghi]], [[Wikipedia:Aetolia-Acarnania|Aetolia-Acarnania]], [[Wikipedia:Ottoman Empire|Ottoman Empire]]
+|blood = 
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Writer
+|house = 
+|loyalty = 
+}}
+'''George Gordon Noel''' (née '''Byron'''), '''6th Baron Byron''' ([[22 January]], [[1788]] – [[19 April]], [[1824]]), commonly known as '''Lord Byron''', was an English poet and a leading figure in the [[Wikipedia:Romanticism|Romantic movement]]. He is regarded as one of the greatest British poets and remains widely read.<ref name="wikipedia">{{Wikilink|Lord Byron}}</ref>
+
+[[Albus Dumbledore]] kept volumes of ''[[Byron's Works]]'', a collection of poems by Lord Byron, on his desk at the [[Headmaster's office]] at [[Hogwarts Castle]].<ref name="MHP">{{MHP}} - see [[:File:Byron'sWorks.jpg|this image]]</ref>
+
+==Appearances==
+*[[Harry Potter (film series)|''Harry Potter'' films]] {{C|Mentioned on book cover}}
+*{{MHP}} {{C|Mentioned on book cover}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Byron, Lord}}
+
+[[pt-br:Lord Byron]]
+[[pl:Lord Byron]]
+[[Category:1788 births]]
+[[Category:1824 deaths]]
+[[Category:Authors]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Nobility]]
+[[Category:Poets]]

@@ -1,0 +1,41 @@
+{{Individual infobox
+|name = Able Fleming
+|born = Before [[1776]], <br/>[[United States of America]]<ref name="PottermoreHistory3">{{PM|macusa}}</ref>
+|nationality = [[United States of America|American]]
+|title = President
+|species = [[Human]]
+|gender = Male
+|job = [[President of the Magical Congress of the United States of America]]<ref name="PottermoreHistory3"/>
+|loyalty = [[Magical Congress of the United States of America]]
+|theme = macusa
+}}'''Able Fleming''' was an [[United States of America|American]] [[wizardkind|wizard]] who was [[President of the Magical Congress of the United States of America|President]] of the [[Magical Congress of the United States of America]] (MACUSA) in the [[1770s]]. He had the MACUSA moved to his hometown of [[Baltimore]], Maryland. However, the outbreak of the [[Revolutionary War]] and the arrival of the [[Muggle|No-Maj]] [[Continental Congress|Congress]] made MACUSA move to [[Washington]].<ref name="PottermoreHistory3" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Thornton Harkaway]]
+|position=[[President of the Magical Congress of the United States of America|President of MACUSA]]
+|years=? – ?
+|successor=Unknown, eventually [[Elizabeth McGilliguddy]]
+}}
+{{End box}}
+{{MACUSA|P}}
+
+{{DEFAULTSORT:Fleming, Able}}
+[[de:Able Fleming]]
+[[de2:Able Fleming]]
+[[ru:Эйбл Флеминг]]
+[[es:Able Fleming]]
+[[fr:Able Fleming]]
+[[ja:エイブル・フレミング]]
+[[pl:Able Fleming]]
+[[Category:18th century births]]
+[[Category:American individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Presidents of the Magical Congress of the United States of America]]
+[[Category:Wizards]]

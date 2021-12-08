@@ -1,0 +1,27 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|name = Urgruff the Unwary
+|died = Before [[1990]]<ref name="HM6">{{HM|6|Adventures in Curse-Breaking |SQ}}</ref>
+|nationality = [[Great Britain|British]]<ref name="HM6"/>
+|species = [[Goblin]]<ref name="HM6"/>
+|gender = Male<ref name="HM6"/>
+|job = [[Goblin-made ironwork|Goldsmith]]<ref name="HM6"/>
+|theme = goblin
+}}
+{{Quote|He reaped the bitter fruits of his hubris, but his name will live forever. Some would call that a victory. Still… the loss of such a valuable artefact rankles.|[[Griphook]] discussing his legacy|Harry Potter: Hogwarts Mystery}}
+'''Urgruff the Unwary''' was a [[Great Britain|British]] [[Goblin]], who was deemed to be one of the finest [[Goblin-made ironwork|smiths]] in Goblin history.<ref name="HM6"/>
+
+==Biography==
+Urgruff boasted that he could make a perfect replica of a [[Dragon egg]] in solid [[gold]]. True to his word, he was indeed able to accomplish this feat, only for it to be stolen by [[Hungarian Horntail at the Romanian Dragon Sanctuary|a mother Dragon]] that mistook it for one of her own, torched his workshop and retrieved the priced treasure from the ashes of the smithy.<ref name="HM6"/>
+
+At some point during the [[1989–1990 school year]] at [[Hogwarts School of Witchcraft and Wizardry]], [[Gringotts Wizarding Bank]] received intelligence suggesting this dragon had been captured and confined to a famous [[Romanian Dragon Sanctuary|Dragon Sanctuary]] in [[Romania]], and tasked one of their [[Curse-Breakers]], [[William Weasley|Bill Weasley]], with retrieving it, having even obtained a [[portkey]] to send him on his way.<ref name="HM6"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Urgruff l'Imprudent]]
+[[ru:Ургруфф Опрометчивый]]
+[[Category:British individuals]]
+[[Category:Goblins]]
+[[Category:Males]]

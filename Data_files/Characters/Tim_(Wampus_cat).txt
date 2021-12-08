@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:Tim}}
+{{HogwartsMysterySpoiler}}
+{{Pet individual infobox
+|name = Tim 
+|image = Tim (Wampus cat).jpg
+|born = Before [[1990]]<ref name="HM710"/>
+|died = 
+|alias = 
+|species = [[Wampus cat]]<ref name="HM79"/><ref name="HM710"/>
+|gender = Male<ref name="HM710"/>
+|hair = Light brown and white<ref name="HM710"/>
+|eyes = Yellow<ref name="HM79"/><ref name="HM710"/>
+|height = 
+|title = 
+|skin = 
+|family = 
+|loyalty = 
+}}
+'''Tim'''<ref name="HM710"/> was a male [[Wampus cat]] that terrorised [[Hogsmeade]] in the [[1990–1991 school year]].<ref name="HM79"/><ref name="HM710"/>
+
+==Biography==
+During the [[1990–1991 school year]], he attacked [[Dolores Umbridge]] and [[Ismelda Murk]]. He hypnotised them both afterwards to make them forget the attack, making them both only remember seeing his yellow eyes. This led Umbridge to suspect the [[beast]] that attacked her was in fact a [[werewolf]].<ref name="HM79">{{HM|7|9}}</ref>
+
+[[File:Jacob's sibling clashing with Tim.jpg|250px|thumb|right|[[Jacob's sibling]] clashing with Tim]]
+Later, at [[Hogsmeade station]], he was lured out by a [[niffler]] and had a [[Attack at Hogsmeade station|fight]] with [[Jacob's sibling]]. He knocked [[Jacob's sibling's second wand|their wand]] out of their hand, but they [[Stunning Spell|Stunned]] him [[Wandless magic|wandlessly]]. Afterwards, [[Liz Tuttle]] named the [[beast]] Tim. They discovered that Tim had been transported from [[North America]] to [[Great Britain]] using a [[Portkey]].<ref name="HM710">{{HM|7|10}}</ref> They later delivered Tim to [[Rubeus Hagrid]] and [[Silvanus Kettleburn|Professor Kettleburn]] to let them care for him.<ref name="HM711">{{HM|7|11}}</ref>
+
+==Magical abilities and skills==
+*'''[[Hypnosis]]''': Being a Wampus cat, Tim was capable of performing [[magic]]al hypnosis. He hypnotised both [[Dolores Umbridge]] and [[Ismelda Murk]] after attacking them so they would not remember the event, with them both only remembering his yellow eyes.<ref name="HM79"/>
+*'''[[Legilimency]]''': Being a Wampus cat, Tim was naturally capable of performing Legilimency. He could use this to [[Mind-reading|read the minds]] of [[human]]s so he could hypnotise them.<ref name="HM79"/>
+
+==Behind the scenes==
+*In the German translation of {{HM}}, Tim is female and his name is changed to Tila.
+
+==Appearances==
+{{Imagecat|Images of Tim (Wampus cat)}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Legilimens]]
+[[Category:Males]]
+[[Category:Wampus cats]]
+[[Category:Yellow-eyed individuals]]

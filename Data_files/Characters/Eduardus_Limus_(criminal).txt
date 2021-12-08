@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:Eduardus Limus.jpg|250px]]
+|name=Eduardus Limus
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=Pretty Face
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Limus family]]
+*[[E. A. Limus]] (possibly)
+*[[E. A. Limus|E. W. Limus]] (possibly)
+*[[Luciano Limus]] (possibly)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Limus family]]
+}}
+'''Eduardus Limus''', also known by the nickname '''Pretty Face''', was a [[wizardkind|wizarding]] criminal who operated in the [[1920s]].<ref name="cob">{{CB|119}} {{See image|File:EduardusLimusWanted.png}}</ref>
+
+==Biography==
+In [[1926]], the [[International Wizarding Police]] issued a wanted poster for Limus, stating that he was wanted for "counterfeiting [[wand]]s" and for committing "[[muggle|No-Maj]] murder" in [[Asia]] and [[Europe]].<ref name="cob" /> It described him as a "powerful wizard" who was "[[wand]]ed and dangerous."<ref name="cob" /> A reward of 5000 [[Dragot]]s was offered for information leading to his capture.<ref name="cob" />
+
+==Appearances==
+*{{FB|F}} {{1st}} {{Photograph}}
+*{{CB}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Limus, Eduardus}}
+
+[[fr:Eduardus Limus]]
+[[pt-br:Eduardus Limus (criminoso)]]
+[[Category:American individuals]]
+[[Category:Con artists]]
+[[Category:Limus family|Eduardus]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Wizards]]

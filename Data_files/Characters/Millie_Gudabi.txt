@@ -1,0 +1,37 @@
+{{Individual infobox
+|image = Millie Gudabi.png
+|born = Before [[1977]], [[Australia]] (possibly)
+|nationality = [[Australia]]n<ref name="QWC"/>
+|title = [[Keeper]] (formerly)<ref name="QWC"/>
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|hair = Blonde<ref name="QWC"/>
+|eyes = Green<ref name="QWC"/>
+|skin = White<ref name="QWC"/>
+|job = *[[Keeper]] for the [[Thundelarra Thunderers]] (formerly)<ref name="QWC"/>
+*[[Quidditch]] Commentator<ref name="QWC"/>
+|loyalty = [[Thundelarra Thunderers]] (formerly)<ref name="QWC"/>
+|theme = wizard
+}}'''Millie Gudabi'''<ref>[http://www.nedergamen.nl/games/hpwkz ''Harry Potter: WK Zwerkbal'' credits list] (in Dutch)</ref> was an [[Australia]]n [[Wizardkind|witch]] and [[Quidditch]] commentator during the [[Quidditch World Cup]] matches.
+
+==Biography==
+She was a former [[Keeper]] of Australian Quidditch team [[Thundelarra Thunderers]], as she once said while commentating a match with [[Ludovic Bagman|Ludo Bagman]].<ref name="QWC">{{QWC}}</ref>
+
+==Appearances==
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Gudabi, Millie}}
+[[de:Millie Gudabi]]
+[[es:Millie Gudabi]]
+[[pl:Millie Gudabi]]
+[[ru:Милли Гудаби]]
+[[Category:Australian individuals]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Keepers]]
+[[Category:Quidditch commentators]]
+[[Category:Wizards]]

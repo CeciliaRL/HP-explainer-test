@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:PumpkinJuiceSeller.png|250px]]
+|name=Pumpkin juice salesman
+|hideb=
+|born=Prior to [[1994]]
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="LEGOY1"/>
+|gender=Male<ref name="LEGOY1"/>
+|height=
+|hair=Dark<ref name="LEGOY1"/>
+|eyes=Black<ref name="LEGOY1"/>
+|skin=Dark<ref name="LEGOY1"/>
+|hidef=Hide
+|family=
+|hidem=Hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Seller of [[Pumpkin Juice]]<ref name="LEGOY1"/>
+|house=
+|loyalty=[[Quidditch World Cup]]<ref name="LEGOY1"/>
+}}
+This '''[[Wizardkind|wizard]]''' sold [[Pumpkin Juice|pumpkin juice]] at the [[1994]] [[Quidditch World Cup]].<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+
+He was quite capable of using the [[Levitation Charm]], doing so to move the glasses of pumpkin juice over the counter to his customers.<ref name="LEGOY1"/>
+
+He wore a pointed green wizard's hat and matching green robes. He smiled broadly, chatting happily to his customers as he [[magic]]ally poured the drinks and brought them over the counter to them.
+
+==Appearances==
+*{{LEGO|Y1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

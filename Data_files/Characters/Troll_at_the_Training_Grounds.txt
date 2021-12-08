@@ -1,0 +1,28 @@
+{{HogwartsMysterySpoiler}}
+{{Pet individual infobox
+|image = TrollAtTheTrainingGrounds.jpg
+|name = Troll at the Training Grounds
+|born = Before [[1989]]<ref name="HM526">{{HM|5|26}}</ref>
+|died = 
+|alias = 
+|title = 
+|species = [[Troll]]<ref name="HM526"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = Grey<ref name="HM526"/>
+|family = 
+|loyalty = 
+}}
+The '''[[Troll]] at the [[Training Grounds]]'''<ref name="HM527">{{HM|5|27}}</ref> was lured into [[Hogwarts School of Witchcraft and Wizardry]] during the [[1988–1989 school year]] and caused a sight of chaos on the Grounds following [[Jacob's sibling]] and their friends' [[plan to obtain the vault portrait]]. Jacob's sibling and a friend [[Skirmish at the Training Grounds|subdued it]] later.<ref name="HM526"/>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Stub}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Trolls]]

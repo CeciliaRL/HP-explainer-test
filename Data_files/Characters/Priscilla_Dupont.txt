@@ -1,0 +1,66 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Priscilla Dupont
+|hideb=
+|born=Before [[1838]]<ref name="PM"/> 
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office.</ref>
+|alias=
+|title=[[Minister for Magic]]<ref name="PM"/> 
+|nationality=[[Great Britain|British]]<ref name="PM"/> 
+|hidep=
+|species=[[Human]]<ref name="PM"/> 
+|gender=Female<ref name="PM"/> 
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Minister for Magic|British Minister for Magic]] ([[1855]]- [[17 February]], [[1858]])<ref name="PM"/> 
+|house=
+|loyalty=[[British Ministry of Magic]]<ref name="PM"/> 
+}}
+'''Minister Priscilla Dupont''' was a [[Great Britain|British]] [[Wizardkind|witch]] and the [[Minister for Magic]] from [[1855]] to [[17 February]], [[1858]].  She was elected Minister likely only once.<ref name="PM">{{WW|ministers-for-magic}}</ref>
+
+==Biography==
+Dupont was elected as the [[Minister for Magic]] of [[Great Britain]] in [[1855]]. Upon her accession to the office, she developed an irrational loathing of the [[Prime Minister (title)|Muggle Prime Minister]], [[Lord Palmerston]]. This attained such proportions that it ended up in her being forced to step down on [[17 February]], [[1858]], after such incidents as [[Muggle money|coins]] [[Coins to frogspawn spell|turning]] to [[frogspawn]] in Lord Palmerston's coat pockets. Ironically, Palmerston was forced to resign by the Muggles two days later on [[19 February]].<ref name="PM"/>
+
+==Magical abilities and skills==
+*'''[[Transfiguration]]''': Dupont possessed a degree of proficiency in this branch of [[magic]], as she was capable of [[Coins to frogspawn spell|turning]] coins into [[frogspawn]] in the pockets of [[Lord Palmerston]] successfully.<ref name="PM"/> 
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Evangeline Orpington]]
+|position=[[Minister for Magic]]
+|years=[[1855]]-[[1858]]
+|successor=[[Dugald McPhail]]
+}}
+{{End box}}
+{{Minister for Magic}}
+{{DEFAULTSORT:Dupont, Priscilla}}
+[[de:Priscilla Dupont]]
+[[es:Priscilla Dupont]]
+[[fr:Priscilla Dupont]]
+[[pl:Priscilla Dupont]]
+[[pt-br:Priscilla Dupont]]
+[[ru:Присцилла Дюпон]]
+[[zh:普里西拉·杜邦]]
+[[Category:British Ministers for Magic]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Wizards]]

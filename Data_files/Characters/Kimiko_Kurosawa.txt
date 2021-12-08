@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Kimiko Kurosawa
+|hideb=
+|born=After [[1976]]<ref>[[Viktor Krum]], born [[1976]], was the oldest player in the 2014 Quidditch World Cup.</ref>
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Chaser]] for the [[Japanese National Quidditch team]]
+|loyalty=*[[Mahoutokoro]]<ref>{{WW|mahoutokoro}}</ref>
+*[[Japanese National Quidditch team]]
+}}
+'''Kimiko Kurosawa''' (公子黒澤) was a Japanese [[Wizardkind|witch]] and a [[Chaser]] for the [[2014]] [[Japanese National Quidditch team]].
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Kurosawa, Kimiko}}
+
+[[de:Kimiko Kurosawa]]
+[[fr:Kimiko Kurosawa]]
+[[pl:Kimiko Kurosawa]]
+[[ru:Кимико Куросава]]
+[[Category:20th century births]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:Japanese individuals]]
+[[Category:Mahoutokoro students]]
+[[Category:Wizards]]

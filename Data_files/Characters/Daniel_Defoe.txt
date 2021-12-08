@@ -1,0 +1,28 @@
+{{Real world subject}}
+{{Individual infobox
+|name = Daniel Defoe
+|born = 
+|died = 
+|blood = 
+|nationality = 
+|species = 
+|gender = 
+|job = Author<ref name="JKRS"/>
+|theme = individual
+}}
+'''Daniel Defoe''' was an author who wrote ''[[Robinson Crusoe]]''.<ref name="JKRS">{{JKRS}}</ref>
+
+==Etymology==
+The name "Daniel" comes from the Hebrew name דָּנִיֵּאל (Daniyyel) meaning "God is my judge".
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Daniel Defoe]]
+[[Category:Authors|Defoe, Daniel]]
+[[Category:English individuals|Defoe, Daniel]]
+[[Category:Males|Defoe, Daniel]]
+[[Category:Muggles|Defoe, Daniel]]

@@ -1,0 +1,86 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = mom
+|image = [[File:Burdock Muldoon.jpg|250px]]
+|name = Burdock Muldoon
+|born = [[1429]]<ref name="FWC">Muldoon's Chocolate Frog Card in {{PS|G}}</ref><ref name="Tomeline">See [http://vignette3.wikia.nocookie.net/harrypotter/images/2/28/Timeline_of_the_Wizarding_World.png/revision/latest?cb=20150904020044 image]</ref>
+|died = [[1490]] (aged 60-61)<ref name="FWC" /><ref name="Tomeline"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = [[Chief of the Wizards' Council|Chief]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Red<ref name="FWC" />
+|eyes = Blue<ref name="FWC" />
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chief of the Wizards' Council]]
+|house = 
+|loyalty = [[Wizards' Council]]
+}}
+'''Chief Burdock Muldoon''' ([[1429]] - [[1490]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] and the Chief of the [[Wizards' Council]] either in the fourteenth<ref name="FBaWtFT">{{FB|R}} - ''What is a Beast?''</ref> or fifteenth century.<ref name="FWC" />
+
+==Biography==
+===Early life===
+It is debated whether Muldoon was born in [[1429]] or about a century earlier. He presumably attended [[Hogwarts School of Witchcraft and Wizardry]] in his youth, like so many other [[Wizardkind|wizards]].
+
+===As Chief of the Wizards' Council===
+Muldoon attempted to define all [[magic]]al creatures as either a [[Being]] or a [[Beast]], on the simple premise that any member of the magical community that walked on two legs were Beings, and all others were Beasts. However, when he called the first meeting of all Beings to discuss new magical laws, the summit was disrupted by [[Diricawl]]s, [[Augurey]]s, [[Fwooper]]s, [[Pixie]]s and [[Fairy|Fairies]] who could not understand what was going on, [[Troll]]s who proceeded to smash apart the meeting chamber with their clubs and [[hag]]s who glided around the place in search of children to eat. Muldoon, as Chief of the Council, stood up to open the meeting, but slipped on [[Porlock]] dung and ran cursing from the hall.<ref name="FBaWtFT" />
+
+Embittered with the incident, Muldoon forswore any further attempts to integrate non-wizard members of the magical community into the [[Wizards' Council]].<ref name="FBaWtFT" />
+
+==Etymology==
+*[[Wikipedia:Muldoon|Muldoon]] is an Irish family name. It is an anglicisation of the Irish ''Ó Maoldúin'', "descended from Maoldúin," which in turn was a legendary first name. This name means "king or chieftain of the fort". They were said to be of royal birth and styled themselves as the Kings of Lurg, which is now in [[Wikipedia:County Fermanagh|County Fermanagh]]. Famous politicians with that surname include [[Wikipedia:Robert Muldoon|Sir Robert Muldoon]] (1921–1992), a Prime Minister of New Zealand; and [[Wikipedia:Bristow Muldoon|Bristow Muldoon]] (b. 1964), a former Scottish Labour politician.
+
+==Appearances==
+{{Imagecat|Images of Burdock Muldoon}}
+[[File:Burdock_Muldoon-10-chocFrogCard.png|thumb|Burdock Muldoon as immortalised on a bronze [[Chocolate Frog Card]]]]
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{FB|R}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Barberus Bragge]]
+|position=Chief of the [[Wizards' Council]] 
+|years=[[1448]]-[[1450]]
+|successor=[[Elfrida Clagg]]
+}}
+{{End box}}
+
+{{Chocolate Frog Cards}}
+{{DEFAULTSORT:Muldoon, Burdock}}
+
+[[de:Burdock Muldoon]]
+[[es:Burdock Muldoon]]
+[[fr:Burdock Muldoon]]
+[[fi:Burdock Muldoon]]
+[[it:Burdock Muldoon]]
+[[pl:Burdock Muldoon]]
+[[ru:Бердок Малдун]]
+[[sv:Burdock Muldoon]]
+[[Category:1490 deaths]]
+[[Category:15th century births]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]
+[[Category:Wizards' Council]]

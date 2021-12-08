@@ -1,0 +1,50 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Alasdair Maddock
+|born = before [[1981]]<ref>As he was employed by the [[Montrose Magpies]] by [[1998]] he was likely over 17.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Chaser]] (formerly)
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Montrose Magpies]] (formerly)
+|house = 
+|loyalty = [[Montrose Magpies]] (formerly)
+}}
+'''Alasdair Maddock''' was a [[Wizardkind|wizard]] and former [[Chaser]] for the [[Montrose Magpies]]<ref name=":0">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[31 July]], [[1998]], Page 2</ref> who had what some people believed to have been a rather unsettling obsession with [[Non-magic people|Muggle]] sports. He once tried to play football "for a laugh" and tried to incorporate it into [[Quidditch]]. Once, he tried to dribble the [[Quaffle]] like a [[basketball]],<ref name=":0" /> and on another occasion, tried to hit the [[Quaffle]] with his head like a [[football]] player. He was later fired by the manager, [[Cormack McLeod]], for playing [[golf]] in the summer of [[1999]].<ref>[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[1 June]], [[1999]], Page 4</ref>
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Maddock, Alasdair}}
+
+{{Character-stub}}
+
+[[pl:Alasdair Maddock]]
+[[zh:阿拉斯代尔·马多克]]
+[[Category:British individuals]]
+[[Category:Chasers]]
+[[Category:Males]]
+[[Category:Wizards]]

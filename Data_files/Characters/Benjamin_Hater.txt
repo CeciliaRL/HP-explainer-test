@@ -1,0 +1,38 @@
+{{Transcribed image|File:Marauder's_Map_POA_ILL.png}}
+{{Individual infobox
+|theme=individual
+|image = Benjamin Hater.png
+|name=Benjamin Hater
+|born=
+|died=
+|blood=
+|marital=
+|nationality=
+|alias=
+|title=
+|signature=
+|species=
+|gender=Male (likely)
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+}}
+
+'''Benjamin Hater''' was an individual seen standing in a hallway on the [[Hogwarts Castle#Fourth Floor|Fourth Floor]] with [[Laurent Varcy]] on the [[Marauder's Map]] in the [[1993-1994 school year]]. <ref>{{POA|B|10}} (Illustrated Edition)</ref>
+
+==Appearances==
+*{{POA}} {{C|Illustrated Edition}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]

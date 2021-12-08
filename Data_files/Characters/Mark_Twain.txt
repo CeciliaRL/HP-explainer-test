@@ -1,0 +1,36 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Samuel Clemens
+|hideb=
+|born=
+|died=
+|blood=
+|alias=Mark Twain
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Author
+|loyalty=}}
+
+'''Samuel Langhorne Clemens''', better known by the pen name '''Mark Twain''', was an [[United States of America|American]] author and humourist. He wrote ''[[Adventures of Huckleberry Finn]]''.<ref name="WWoHP">{{WWHP}} {{see image|File:Adventures of Huckleberry Finn.png}}</ref>
+
+==Appearances==
+*{{WWHP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Twain, Mark}}
+[[Category:American individuals]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Muggles]]

@@ -1,0 +1,42 @@
+{{Individual infobox
+|image = SEBASTIEN PERROT.jpg
+|name = Sebastien Perrot
+|marital = Married
+|nationality = [[France|French]]
+|species = [[Human]]
+|gender = Male
+|hair = Brown
+|skin = Light
+|family = *[[Manon Perrot]] (wife) 
+*[[Odile Perrot]] (daughter)
+*[[Huguette Perrot]] (daughter)
+*[[Laurelle Perrot]] (daughter)
+*[[Corvus Lestrange (II)|Corvus Lestrange]] (father-in-law)
+*[[Minette Lestrange]] (mother-in-law)
+*[[Josette Gage]] (sister-in-law)
+*[[Corvus Lestrange (III)|Corvus Lestrange]] (brother-in-law)
+*[[Mathis Gage]] (nephew)
+*[[Louis Gage]] (nephew)
+*[[Corvus Lestrange (IV)|Corvus Lestrange]] (nephew)
+*[[Perrot family]]
+*[[Lestrange family]] (in-laws)
+|loyalty = *[[Perrot family]]
+*[[Lestrange family]]
+|theme = wizard
+}}
+'''Sebastien Perrot''' was a [[France|French]] [[Wizardkind|wizard]] and a member of the Perrot family. He was the husband of [[Manon Perrot]] and the father of three daughters: [[Odile Perrot|Odile]], [[Huguette Perrot|Huguette]] and [[Laurelle Perrot]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref>
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Perrot, Sebastien}}
+[[fr:Sebastien Perrot]]
+[[pl:Sebastien Perrot]]
+[[ru:Себастьен Перро]]
+[[Category:French individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Perrot family]]
+[[Category:Wizards]]

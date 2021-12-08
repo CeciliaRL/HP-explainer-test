@@ -1,0 +1,42 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Fugitive werewolf
+|born = Before [[1990]]<ref name="HM79A">{{HM|7|9|Track the Werewolf}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Werewolf]] (formerly [[Human]])<ref name="HM79A"/>
+|gender = Female<ref name="HM79A"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''[[Wizardkind|witch]]''' became a [[werewolf]] after receiving a bite during the [[1990–1991 school year]], and fled from [[St Mungo's Hospital for Magical Maladies and Injuries]]. [[Jacob's sibling]] helped [[Alastor Moody]] track her down and brew some [[Wolfsbane Potion]].<ref name="HM79A"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Werewolf victims]]
+[[Category:Werewolves]]
+[[Category:Wizards]]

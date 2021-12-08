@@ -1,0 +1,32 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:BridgetWenlock'sCousin.png|250px]]
+|name = Bridget Wenlock's cousin
+|born = Before [[1286]]
+|died = After [[1202]]
+|nationality = [[Scotland|Scottish]]<ref name="WBoS"/>
+|species = [[Human]]<ref name="WBoS"/>
+|gender = Female<ref name="WBoS"/>
+|skin = Pale<ref name="WBoS"/>
+|family = [[Bridget Wenlock]] (cousin)<ref name="WBoS"/>
+|theme = wizard
+}}
+{{Quote|Wenlock first scribbled down her ground-breaking theorem on the magical properties of the number seven at breakfast one day apparently on the back of an envelope, using her usual invisible ink. She then proceeded to send her cousin a letter, using what she later believed to be the very envelope concealing the theorem.|[[Miranda Goshawk]], ''[[Book of Spells]]''|Wonderbook: Book of Spells}}
+This '''individual''' (fl. [[13th century]]) was a [[Scotland|Scottish]] [[Wizardkind|witch]] and the cousin of [[Bridget Wenlock]], a celebrated [[Arithmancer]]. She lived in [[John O'Groats]], [[Caithness]], [[Scotland]].<ref name="WBoS"/>
+
+==Biography==
+[[Bridget Wenlock]] once thought she had mistakenly sent an envelope (on which she thought she had scribbled the theorem that led to her discovery of the magical properties of the number [[seven]] in [[Invisible Ink]]) to her cousin. After chasing the owl that brought the letter and after casting a [[Revealing Charm]], Wenlock found out that the envelope contained no more than a [[cake]] recipe, and that she had, in fact, scrawled her calculation on a sugar packet that she had left at home.<ref name="WBoS">{{WBS}} - see [http://www.youtube.com/watch?v=QCPN3KmWEMA&feature=context-shows&list=SL this video]</ref>
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Wenlock, Bridget's cousin}}
+
+[[pl:Kuzynka Bridget Wenlock]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Scottish individuals]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

@@ -1,0 +1,42 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Zelda Hum
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Zelda Hum''' was a [[Wizardkind|witch]].
+
+In the 21st century, the [[Calamity]] transported her copy of ''[[The Essential Defence Against the Dark Arts]]'' around the world.<ref>{{WU}}</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hum, Zelda}}
+[[Category:Females]]
+[[Category:Wizards]]

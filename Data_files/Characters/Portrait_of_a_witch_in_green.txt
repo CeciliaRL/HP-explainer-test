@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Portrait of a witch in green.jpg|250px]]
+|name=Portrait of a witch in green
+|hideb=
+|born=
+|died=Before [[1991]] (possibly)
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+This '''individual''' was a [[Wizardkind|witch]] whose [[portrait]] hung at [[Hogwarts Castle]] in the [[1990s]], near the [[Third-floor corridor]].<ref name="PSf16">{{PS|F}} - Chapter 16 (''Three-Headed Sentinel'')</ref>
+
+==Appearances==
+*{{PS|F}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts third floor}}
+
+[[es:Retrato de una bruja de verde]]
+[[pl:Portret czarownicy w zieleni]]
+[[Category:Females]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

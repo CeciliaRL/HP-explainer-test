@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Danille Amorinus
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[N. Amorinus]] (possibly)
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Worker for ''[[Le Cri de la Gargouille]]''
+|house=
+|loyalty=''[[Le Cri de la Gargouille]]''
+}}
+'''Danielle Amorinus''' was a [[France|French]] [[Wizardkind|witch]] working for ''[[Le Cri de la Gargouille]]'' in the [[1920s]].<ref name="dec6sunrise">{{COG}} {{See image|File:Le Cri de la Gargouille - Recruitment Campaign.png}}</ref>
+
+==Biography==
+In [[1927]], Danielle Amorinus was in charge to receive all applications from people trying to be recruited as ''[[Le Cri de la Gargouille]]'''s new reporters.<ref name="dec6sunrise" />
+
+==Appearances==
+*{{COG}} {{comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Amorinus, Danielle}}
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Le Cri de la Gargouille staff]]
+[[Category:Wizards]]

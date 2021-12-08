@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Oddvar Spillum
+|hideb=
+|born=before [[1997]], [[Norway]] (possibly)
+|died=
+|blood=
+|marital=
+|alias=
+|title=Coach
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Coach of the [[Norwegian National Quidditch team]]
+|house=
+|loyalty=[[Norwegian National Quidditch team]]
+}}
+'''Oddvar Spillum''' was a [[Norway|Norwegian]] [[wizardkind|wizard]] who, in [[2014]], coached the [[Norwegian National Quidditch team]].<ref name="PM">{{PM}} - [[BULGARIA VERSUS NORWAY]] (Archived)</ref>
+
+==Biography==
+When his team, one of the joint favourites of the [[2014 Quidditch World Cup]], suffered a heavy defeat against [[Bulgarian National Quidditch team|Bulgaria]] (170 to 20), Oddvar Spillum had no post-match comment for reporters, apart from broken sobs.<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Spillum, Oddvar}}
+[[pl:Oddvar Spillum]]
+[[fr:Oddvar Spillum]]
+[[Category:Males]]
+[[Category:Norwegian individuals]]
+[[Category:Quidditch coaches]]
+[[Category:Wizards]]

@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Witch with a hairy chin
+|born = 
+|died = 
+|blood = 
+|nationality = 
+|marital = 
+|title = 
+|alias = 
+|signature = 
+|species = [[Human]]<ref name="COS16"/>
+|gender = Female<ref name="COS16"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|...the witch who banished the Bandon Banshee had a hairy chin. I mean, come on...|Gilderoy Lockhart regarding this witch|Harry Potter and the Chamber of Secrets}}
+This '''witch with a hairy chin''' was a [[Wizardkind|witch]], who was the individual who banished the [[Bandon Banshee]].<ref name="COS16"/>
+
+==Biography==
+At some point before [[1992]], she banished the [[Bandon Banshee]]. However, shortly after her deed, [[Gilderoy Lockhart]] tracked her down, and tricked her into revealing in detail of how she defeated the [[banshee]]. After Lockhart got all the information he needed, he cast a [[Memory Charm]] on the witch to erase her [[memory]] of the meeting and of her actions, and published the book ''[[Break with a Banshee]]'' with all of the information fraudulently under his own credentials.<ref name="COS16">{{COS|B|16}}</ref>
+
+==Magical abilities and skills==
+*'''[[Defence Against the Dark Arts]]''': This witch was skilled with defensive [[magic]] in what she was able to defeat the [[Bandon Banshee]], a dangerous [[Dark Arts|dark]] [[creature]].<ref name="COS16"/>
+
+==Behind the scenes==
+*In the original edition of the text, she was referred to as having a "harelip," but this was deemed insensitive and changed in future editions.<ref name="lexicon">[http://www.hp-lexicon.org/about/books/cs/changes_cs.html Harry Potter Lexicon - ''Chamber of Secrets'' - Changes to the text]</ref>
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Czarownica z owłosioną brodą]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

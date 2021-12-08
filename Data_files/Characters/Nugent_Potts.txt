@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Nugent Potts
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Quidditch referee]]
+|house=
+|loyalty=
+}}
+'''Nugent Potts''' was a [[Quidditch referee]] in [[1894]]. While refereeing a match involving the [[Appleby Arrows]], he was pierced through the nose by an arrow [[Arrow-shooting spell|fired from the wand]] of an Arrows supporter. This accident led the [[Department of Magical Games and Sports]] to ban Arrow supporters from firing arrows from their wands when the team scored.<ref>{{QTA|R|7}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Potts, Nugent}}
+[[es:Nugent Potts]]
+[[fr:Nouye Empot]]
+[[nl:Nugent Potts]]
+[[pt-br:Nugento Potts]]
+[[pl:Nugent Potts]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Quidditch referees]]
+[[Category:Wizards]]

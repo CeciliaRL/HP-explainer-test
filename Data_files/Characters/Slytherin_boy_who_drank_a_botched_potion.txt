@@ -1,0 +1,55 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = Slytherin_boy_who_drank_a_botched_potion.JPG
+|name = Slytherin boy who drank a botched potion
+|born = Between [[1 September]] [[1972]] and [[31 August]] [[1973]]<ref name="Potions">{{HM}}, [[Potions (class)|Potions]] Class, mini game "Prepare [[antidote]]!" </ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Brown
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+{{Quote|I was only trying to gain super strength.|This boy to Jacob's sibling|Harry Potter: Hogwarts Mystery}}
+This '''[[Wizardkind|wizard]]''' was a student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]] who was [[Sorting ceremony|sorted]] into [[Slytherin]]. He had [[Potions (class)|Potions]] class with [[Jacob's sibling]].<ref name="Potions" />
+
+==Biography==
+This individual started attending Hogwarts on [[1 September]] [[1984]] and was [[Sorting ceremony|sorted]] into [[Slytherin]] [[Hogwarts Houses|House]].<ref name="Potions" />
+
+The individual frequently drank various botched [[potion]]s in [[Potions (class)|Potions]] classes, taught by [[Professor]] [[Severus Snape]].<ref name="Potions" />
+
+==Behind the scenes==
+*Sometimes this character is replaced by [[Barnaby Lee]] in class segments. 
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Males]]
+[[Category:Slytherins Sorted in 1984]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

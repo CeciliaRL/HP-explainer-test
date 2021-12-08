@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Ministry Official No. 39423
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Ministry of Magic Official
+|signature = [[File:Ministry Official No. 39423 sig.png|170px]]
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[British Ministry of Magic|Ministry of Magic]] employee
+|house = 
+|loyalty = [[British Ministry of Magic|Ministry of Magic]]
+}}
+'''Ministry Official No. 39423''' was a [[Wizardkind|wizard or witch]] who worked at the [[British Ministry of Magic|Ministry of Magic]]. A Ministry Official, this individual was in charge of validating Ministry of Magic Identity Cards, having validated [[Mafalda Hopkirk]]'s.<ref>{{HPFW}} (see [[:File:MafaldaHopkirkMinistryID.jpg|this image]])</ref>
+
+==Behind the scenes==
+*This character's signature seems to say "Wakefield", but that is not entirely legible. If that is correct, this character was presumably named after [[Lauren Wakefield]], a graphic artist who worked on ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]'', and both parts of ''[[Harry Potter and the Deathly Hallows (film)|Harry Potter and the Deathly Hallows]]''.
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}}
+*{{HPFW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Ministry employees of unknown Department}}
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Ministry of Magic employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

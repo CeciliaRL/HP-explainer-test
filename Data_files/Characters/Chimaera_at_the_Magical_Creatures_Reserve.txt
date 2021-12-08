@@ -1,0 +1,37 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = ChimaeraHM.png
+|name = Chimaera at the Magical Creatures Reserve
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Chimaera]]<ref name="ITHLD">{{HM|3|Into the Hybrid Lion's Den}}</ref>
+|gender = 
+|height = 
+|hair = Golden<ref name="ITHLD"/>
+|feathers = 
+|eyes = Yellow<ref name="ITHLD"/>
+|skin = 
+|family = 
+|loyalty = [[Magical Creatures Reserve]]<ref name="ITHLD"/>
+}}
+This '''[[Chimaera]]''' lived in the [[Magical Creatures Reserve]] in the [[1980s]].<ref name="ITHLD"/>
+
+==Biography==
+In the [[1980s]], [[Jacob's sibling]] would often bond with and feed this [[Chimaera]].<ref name="ITHLD"/>
+
+During the [[1986–1987 school year]], [[Rubeus Hagrid]] and Jacob's sibling lured it to the [[Training Grounds]], but was spotted by [[Argus Filch|Mr Filch]]. He reported them to [[Albus Dumbledore|Professor Dumbledore]], who asked them to talk about the incident. They later went to the dark forest in the [[Magical Creatures Reserve]] to observe and evaluate this Chimaera. [[Mrs Norris]] developed a bond with it, to Filch's surprise. Dumbledore then decided that the Chimaera was no harm and could be kept in the Reserve.<ref name="ITHLD"/>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Creature-stub}}
+{{Magical Creatures Reserve}}
+[[Category:Chimaeras]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Magical Creatures Reserve]]
+[[Category:Yellow-eyed individuals]]

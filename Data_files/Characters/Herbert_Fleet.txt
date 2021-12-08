@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = [[File:Herbert Fleet.png]]
+|name = Herbert Fleet
+|born = [[31 August]] [[1982]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Keeper]]<ref name="QWC">{{QWC}}</ref>
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown<ref name="QWC"/>
+|eyes = Blue<ref name="QWC"/>
+|skin = White<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="QWC"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]<ref name="QWC"/>
+***[[Hufflepuff Quidditch team]]<ref name="QWC"/>
+}}
+'''Herbert Fleet''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990]]s.<ref name="QWC"/>
+
+==Biography==
+Sometime prior to [[1994]], he started attending [[Hogwarts School of Witchcraft and Wizardry]], where he was [[Sorting ceremony|sorted]] into [[Hufflepuff]] house. In [[1994]], he played as the [[Keeper]] on the [[Hufflepuff Quidditch team]].<ref name="QWC"/>
+
+==Etymology==
+The name "Herbert" is derived from the Germanic elements ''hari'' "army" and ''beraht'' "bright". The Normans introduced this name to England, where it replaced an Old English cognate ''Herebeorht''. In the course of the Middle Ages it became rare, but it was revived in the 19th century.
+
+==Appearances==
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Fleet, Herbert}}
+
+[[de:Herbert Fleet]]
+[[es:Herbert Fleet]]
+[[pl:Herbert Fleet]]
+[[ru:Герберт Флит]]
+
+[[Category:Blue-eyed individuals]]
+[[Category:British or Irish individuals]]
+[[Category:Hufflepuffs]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Wizards]]

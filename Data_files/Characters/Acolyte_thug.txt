@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme = grindelwald-acolyte
+|image = 
+|name = Acolyte thug
+|born = Before [[1927]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COG"/>
+|gender = Male<ref name="COG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Gellert Grindelwald]]<ref name="COG"/>
+**[[Alliance|The Alliance]]<ref name="COG"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] and one of the [[Gellert Grindelwald's acolytes|acolytes]] of [[Gellert Grindelwald]] in the [[1920s]].<ref name="COG">{{COG}}</ref>
+
+==Behind the scenes==
+*This individual was played by [[James Merrill]] in {{COG}}.<ref name="IMDB">{{IMDb name|9805497|James Merrill}}</ref>
+
+==Appearances==
+*{{COG}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Acólito rufián]]
+[[Category:Dark wizards]]
+[[Category:Males]]
+[[Category:Members of the Alliance]]
+[[Category:Unidentified individuals]]

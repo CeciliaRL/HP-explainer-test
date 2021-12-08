@@ -1,0 +1,34 @@
+{{Imageless}}
+{{Individual infobox
+|name = M. Young
+|born = [[United States of America]]
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|title = Lieutenant
+|species = [[Human]]
+|gender = Male
+|job = Lieutenant at the [[Wikipedia:United States Armed Forces|United States Armed Forces]]
+|loyalty = [[Wikipedia:United States Armed Forces|United States Armed Forces]]
+|theme = muggle
+}}
+'''Lt M. Young'''<ref name="Mugglenet2015-10-30">"[http://www.mugglenet.com/2015/10/fantastic-beasts-and-where-to-find-them-roundup-goodbye-liverpool/ "Fantastic Beasts and Where to Find Them" Roundup: Goodbye, Liverpool?]" at [[MuggleNet]]</ref> was an [[United States of America|American]] military officer, who was active in [[1926]].
+
+==Behind the scenes==
+*The role of Lt M. Young was played by [[Matthew Roberts]].<ref name="Mugglenet2015-10-30"/>
+
+==Appearances==
+*{{FB|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Character stub}}
+
+[[fr:M. Young]]
+[[ru:М. Янг]]
+[[ja:M・ヤング]]
+[[pl:M. Young]]
+{{DEFAULTSORT:Young, M}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Military personnel]]
+[[Category:Muggles]]

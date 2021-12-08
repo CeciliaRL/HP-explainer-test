@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Unidentified Slytherin boy in the Battle of Hogwarts
+|born = [[31 August]] [[1986]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Black
+|eyes = Brown
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|sorted]] into [[Slytherin|Slytherin House]]. He was locked up in the [[dungeons]] with the rest of his house and fought in the [[Battle of Hogwarts]] after when the cell had exploded.<ref>{{DH|F2}}</ref>
+
+==Behind the scenes==
+*He was played by [[George Christodoulou]] in {{DH|F2}}.
+
+==Appearances==
+*{{DH|F2}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Males]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

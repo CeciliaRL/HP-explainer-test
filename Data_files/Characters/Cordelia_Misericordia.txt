@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = hag
+|image = [[File:Cordelia Misericordia.jpg|250px]]
+|name = Cordelia Misericordia
+|born = [[1298]]<ref name="POAG"/>
+|died = [[1401]] (aged 102-103)<ref name="POAG"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="POAG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Hag]]<ref name="POAG"/>
+|gender = Female<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="POAG"/>
+|eyes = Green<ref name="POAG"/>
+|skin = Pale<ref name="POAG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Representative<ref name="POAG"/>
+|house = 
+|loyalty = [[Wizards' Council]]<ref name="POAG"/>
+}}
+'''Cordelia Misericordia''' ([[1298]]-[[1401]]) was a [[Great Britain|British]] [[hag]] who lived in the [[Middle Ages]]. She represented the [[hag]]s at a fourteenth century summit of the [[Wizards' Council]].<ref name="POAG">{{POA|G}}</ref>
+
+==Etymology==
+''Misericordia'' is a [[Latin]] word meaning "mercy", "pity", "compassion" or "sympathy".<ref name="GT">[http://translate.google.ca/#la/en/misericordia "Misericordia" on Google Translate]</ref>
+
+==Appearances==
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+
+{{DEFAULTSORT:Misericordia, Cordelia}}
+
+[[de:Cordelia Misericordia]]
+[[es:Cordelia Misericordia]]
+[[fr:Cordelia Misericordia]]
+[[pl:Cordelia Misericordia]]
+[[fi:Cordelia Misericordia]]
+[[pt-br:Cordelia Misericordia]][[ru:Корделия Мизерикордия]]
+
+[[Category:1298 births]]
+[[Category:1401 deaths]]
+[[Category:British individuals]]
+[[Category:Centenarians]]
+[[Category:Famous Hags Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Hags]]
+[[Category:Historical figures]]

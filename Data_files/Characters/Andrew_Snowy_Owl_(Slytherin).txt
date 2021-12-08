@@ -1,0 +1,71 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Slytherin House Captain's Plaque.jpg|250px]]
+|name = Andrew Snowy Owl
+|born = c. [[1930s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Andrew Snowy Owl (Gryffindor)|Andrew Snowy Owl]] (possibly)
+*[[Snowy Owl family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Snowy Owl family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+***[[Slytherin Quidditch team]]
+}}
+'''Andrew Snowy Owl''' was a [[Wizardkind|wizard]] and [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1940s]] and [[1950s]]. He was [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]] from [[1948]] to [[1952]].<ref>See [[:File:Slytherin House Captain's Plaque.jpg|this image]] of a prop used in the films on display as part of {{HPE}}.</ref><ref>[http://ab.fanrus.com/SMI/ViP/september/51/213/ ''Harry Potter: The Exhibition'' report] {{Comment|in Russian}}</ref>
+
+==Etymology==
+The name "Andrew" comes from the Greek name Ανδρεας (Andreas), which was derived from ανηρ (aner) "man" (genitive ανδρος (andros) "of a man"). "Snowy Owl" refers to the [[Snowy owl|species of owl]].
+
+==Behind the scenes==
+*This character is a presumably a tribute to Andrew Ackland-Snow, who worked as an art director on all eight [[Harry Potter (film series)|''Harry Potter'' films]].
+
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Neil Lament]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]]
+|years=[[1948]]-[[1952]]
+|successor=[[Jo King (Slytherin)|Jo King]]
+}}
+{{End box}}
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Snowy Owl, Andrew}}
+
+[[de2:Andrew Snowy Owl (Slytherin)]]
+[[es:Andrew Snowyowl]]
+[[it:Andrew Snowyowl]]
+[[pl:Andrew Snowyowl]]
+[[pt-br:Andrew Snowy Owl (Sonserina)]]
+[[Category:1930s births]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Snowy Owl family]]
+[[Category:Wizards]]

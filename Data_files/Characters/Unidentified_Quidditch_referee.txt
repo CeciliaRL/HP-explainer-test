@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Sahara Desert.jpg|250px]]
+|name = Unidentified Quidditch referee
+|born = 
+|died = After [[1357]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Referee<ref name="QTAR6"/>
+|signature = 
+|species = [[Human]]<ref name="QTAR6"/>
+|gender = Male<ref name="QTAR6"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch referee]]<ref name="QTAR6"/>
+|house = 
+|loyalty = [[Quidditch]]<ref name="QTAR6"/>
+}}
+{{Quote|While there have been no proven referee slayings since ''[1357]'', there have been several incidences of broom-tampering over the centuries, the most dangerous being the transformation of the referee's broom into a Portkey, so that he or she is whisked away from the match halfway through and turns up months later in the Sahara Desert.|[[Kennilworthy Whisp]], {{QTA}}.|Quidditch Through the Ages (real)}}
+This '''[[Wizardkind|wizard]]''' was a [[Quidditch]] [[Quidditch referee|referee]] sometime between [[1357]] and the [[1990s]]. During one of the matches he refereed, he found himself transported to the [[Sahara Desert]], as someone from the crowd of spectators [[Portus|transformed]] his [[broomstick]] into a [[Portkey]].<ref name="QTAR6">{{QTA|R|6}}</ref>
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{QTA|R}} {{Mention}}
+*{{TCG}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowany sędzia Quidditcha]]
+[[Category:British individuals|Quidditch referee]]
+[[Category:Males|Quidditch referee]]
+[[Category:Quidditch referees]]
+[[Category:Unidentified individuals|Quidditch referee]]
+[[Category:Wizards|Quidditch referee]]

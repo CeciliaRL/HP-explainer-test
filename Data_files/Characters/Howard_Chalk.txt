@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = muggle
+|image = [[File:Howard Chalk - FBC.png]]
+|name = Howard Chalk
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="FBC"/> 
+|marital = 
+|nationality =  [[Great Britain|British]]<ref name="FBC"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC"/>
+|gender =  Male<ref name="FBC"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="FBC"/> 
+|eyes = Grey<ref name="FBC"/> 
+|skin = Light<ref name="FBC"/> 
+|family =  
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Farmer<ref name="FBC"/> 
+|house = 
+|loyalty =   
+}}
+'''Howard Chalk''' was a [[Non-magic people|Muggle]] farmer living in [[Cornwall]]. He kept hearing strange sounds in the night and noticed he was losing [[sheep]], leading [[Mathilda Grimblehawk]] and her [[Mathilda Grimblehawk's partner|partner]] to investigate.<ref name="FBC">{{FBC|10}}</ref>   
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}} 
+{{Character-stub}}
+{{DEFAULTSORT:Chalk, Howard}}
+[[Category:British individuals]] 
+[[Category:Grey-eyed individuals]]
+[[Category:Farmers]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[ru:Говард Чалк]]

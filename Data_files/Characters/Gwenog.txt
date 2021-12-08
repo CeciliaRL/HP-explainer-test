@@ -1,0 +1,35 @@
+{{Youmay|the friend of Gertie Keddle|[[Gwenog Jones]]}}
+
+{{Individual infobox
+|patronus
+|name = Gwenog
+|born = c. [[11th century]]<br />[[England]]<ref name="jkr-manchester">[[J. K. Rowling]] on Twitter: [https://twitter.com/jk_rowling/status/834073293770616832 "Untrue, I'm afraid! Quidditch was invented in Manchester."]</ref>
+|nationality = [[Great Britain|British]]
+|species = [[Human]]
+|gender = Female
+|job = [[Quidditch]] player
+|theme = quidditch-player
+|hidef = y
+|hidea = y
+}}
+'''Gwenog''' was a [[Great Britain|British]] [[Wizardkind|witch]] who lived near [[Queerditch Marsh]] during the [[11th century]]. She was friends with [[Gertie Keddle]], and often played the game that would become [[Quidditch]].<ref>{{QTA|R|3}}</ref>
+
+==Behind the scenes==
+*In 2017, in response to a [[Wikipedia:Twitter|tweet]] from the [[Wikipedia:QI|QI Elves]] saying that "''Quidditch, digestive biscuits and overdrafts were all invented in Edinburgh''", [[J. K. Rowling]] remarked that Quidditch was in actuality invented in [[Manchester]].<ref name="jkr-manchester">[[J. K. Rowling]] on Twitter: [https://twitter.com/jk_rowling/status/834073293770616832 "Untrue, I'm afraid! Quidditch was invented in Manchester."]</ref> This is not a reference to the location of Queerditch Marsh, however, but the actual place in which Rowling came up with the idea of Quidditch — in a hand-signed, annotated first edition of {{PS}} that was auctioned for charity in 2013, Rowling remarked that she had invented Quidditch while staying in a small hotel in Manchester after a row with her then-boyfriend, adding rules that she was sure would infuriate men, which she found satisfying given her state of mind at the time.<ref>Furness, Hannah (18 May 2013). [[Gertie Keddle's diary|"JK Rowling invented Quidditch after a row with her boyfriend"]], [[Saxon|The Telegraph]]. Retrieved 19 August 2018.</ref>
+
+==Appearances==
+*{{QTA|R}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+[[de:Gwenog]]
+[[fr:Gwenog]]
+[[pl:Gwenog]]
+[[pt-br:Gwenog]]
+[[ru:Гвеног]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Quidditch players]]
+[[Category:Wizards]]

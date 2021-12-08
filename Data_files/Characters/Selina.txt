@@ -1,0 +1,46 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Selina
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM2"/>
+|gender = Female<ref name="HM2"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+
+'''Selina''' was a neighbour of [[Chiara Lobosca]] and the two were best friends. When Chiara confessed that she was a [[werewolf]], Selina wasn't afraid at first. However, after witnessing one of Chiara's transformations, which horrified her, her [[memory]] of the incident was [[Memory Charm|erased]] by Chiara's [[Chiara Lobosca's mother|mother]] at Chiara's request. After this, Chiara cut all contact with her, along with people in general due to her condition.<ref name="HM2">{{HM|2|Packmates}}</ref>
+
+==Etymology==
+{{w|Selina}} is a name derived from Greek "Selēnē" meaning "[[moon]]".
+
+==Behind the scenes==
+*It is unknown if Selina was a [[Wizardkind|witch]], [[Non-magic people|Muggle]] or [[Squib]], though intentionally revealing the existence of Werewolves to Muggles would likely be a breach of the [[International Statute of Wizarding Secrecy]].
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Humans]]

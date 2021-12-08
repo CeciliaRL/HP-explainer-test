@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Ugga
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]]
+|house = 
+|loyalty = 
+}}
+'''Ugga''' (fl. [[12th century]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] who lived in the same village as [[Goodwin Kneen]], and played ''[[Quidditch|Kwidditch]]'' (''Quidditch'') with him in the role that would become known as a ''[[Beater]]''. He was old, and during a match against a team from Ilkley, he failed to intercept a ''[[Bludger|Blooder]]'' (''Bludger'') that hit [[Radulf]] in the head.<ref>{{QTA|R|3}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+[[de:Ugga]]
+[[es:Ugga]]
+[[fr:Ugga]]
+[[pl:Ugga]]
+[[Category:Beaters]]
+[[Category:British individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = death-eater
+|image = [[File:Unkown female Death Eater.jpg|150px|thumb]]
+|name = Unidentified female Death Eater
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH1"/>
+|gender = Female<ref name="DH1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|job = 
+|house = 
+|loyalty = *[[Death Eaters]]<ref name="DH1"/>
+**[[Tom Riddle|Lord Voldemort]]<ref name="DH1"/>
+}}
+This '''[[Dark Wizard|Dark witch]]''' was a [[Death Eaters|Death Eater]], who served as one [[Tom Riddle|Lord Voldemort]]'s servants during the [[Second Wizarding War]].<ref name="DH1"/>
+
+==Biography==
+In late [[July]] [[1997]], This Death Eater present at the [[Meeting at Malfoy Manor|meeting]] at [[Malfoy Manor]]. During the meeting she sat next to [[Thorfinn Rowle]], during which Voldemort discussed his plan to attempt to kill [[Harry Potter]]. She later witnessed [[Tom Riddle|Lord Voldemort]] [[Killing Curse|murder]] his airborne hostage [[Charity Burbage]], with her corpse being then fed to his pet [[snake]] [[Nagini]].<ref name="DH1">{{DH|B|1}}</ref>
+
+It is unknown whether she participated in the [[Battle of Hogwarts]] as she was not seen though she most likely was present, assuming that she survived up to that point. Following Voldemort's defeat and death she was presumably killed, sent to [[Azkaban]], or fled from the battle.
+
+==Behind the scenes==
+*This Death Eater was played by [[Ashley McGuire]] in {{DH|F1}}.
+
+==Appearances==
+*{{DH}} {{1st}}
+*{{DH|F1}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+
+[[pl:Niezidentyfikowana śmierciożerczyni w Dworze Malfoyów (I)]]
+[[Category:British individuals|Death Eater at Malfoy Manor (I)]]
+[[Category:Females|Death Eater at Malfoy Manor (I)]]
+[[Category:Meeting at Malfoy Manor participants]]
+[[Category:Unidentified Death Eaters]]

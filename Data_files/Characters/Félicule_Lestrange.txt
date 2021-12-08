@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Félicule Lestrange
+|born = [[1712]]<ref name="Archive">{{AM}}</ref>
+|died = [[1766]]<ref name="Archive" /> (aged 54)
+|blood = [[Pure-blood]] or [[half-blood]]<ref>She was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = Human
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Lestrange family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Lestrange family]]
+}}
+'''Félicule Lestrange''' was a [[Wizardkind|witch]] born into the [[pure-blood]] [[Lestrange family]] in [[1712]]. She died in [[1766]] and was laid to rest in the [[Lestrange Mausoleum|Lestrange family Mausoleum]] in [[Cimetière du Père-Lachaise]], [[Paris]], [[France]].<ref name="Archive" />
+
+==Appearances==
+*{{AM}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Lestrange, Félicule}}
+[[fr:Félicule Lestrange]]
+[[pl:Félicule Lestrange]]
+[[Category:1710s births]]
+[[Category:1760s deaths]]
+[[Category:Buried at Cimetière du Père-Lachaise]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Lestrange family]]
+[[Category:Wizards]]

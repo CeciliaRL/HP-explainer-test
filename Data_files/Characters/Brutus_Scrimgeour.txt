@@ -1,0 +1,92 @@
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Brutus Scrimgeour crop.png|250px]]
+|name = Brutus Scrimgeour
+|born = 
+|died = In or prior to [[1994]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, Scrimgeour must have died sometime in or before [[1994]], given his portrait's appearance in "The Quest of Sir Cadogan" feature on Disc 2 of the ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'' DVD.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = *[[Professor]]<ref name="QoSC">"The Quest of Sir Cadogan" feature on Disc 2 of the ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'' DVD {{see image|File:BrutusScrimgeour.jpg}}.</ref>
+*[[Headmaster]]<ref name="QoSC" />
+*[[Beater]] (possibly)
+|signature = 
+|species = [[Human]]<ref name="QoSC" />
+|gender = Male<ref name="QoSC" />
+|height = 
+|weight = 
+|hair = Grey<ref name="QoSC" />
+|eyes = 
+|skin = White<ref name="QoSC" />
+|family = *[[Rufus Scrimgeour]] (possibly) †
+*[[Scrimgeour family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Author
+*[[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]]<ref name="hp-kinect">{{HPK}}</ref><ref name="mohp">{{MHP}} {{See image|File:MoHP-Headmasters_Office_-_Brutus_Scrimgeour.png}}</ref>
+|house = 
+|loyalty = *[[Scrimgeour family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|Take out the [[Seeker]].|Brutus Scrimgeour's first rule for [[Beater]]s, ''[[The Beaters' Bible]]''|Quidditch Through the Ages (real)}}
+'''Brutus Scrimgeour'''<ref name="QoSC" /> was a [[wizardkind|wizard]] and prolific [[Quidditch]] fan. He served as [[headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] at some point<ref name="hp-kinect" /><ref name="mohp" /> and also wrote the book ''[[The Beaters' Bible]]''.<ref name="qta">{{QTA|R}}</ref>
+
+==Biography==
+===Life and career===
+During his life, Scrimgeour taught at [[Hogwarts School of Witchcraft and Wizardry]],<ref name="QoSC" /> and was eventually appointed [[headmaster]].<ref name="hp-kinect" /><ref name="mohp" />
+
+Scrimgeour was a fan of Quidditch and may have been a [[Beater]] at some point.<ref name="qta" /> He wrote a guide for Beaters, ''[[The Beaters' Bible]]'', and gave a positive review of the book {{QTA}} by [[Kennilworthy Whisp]], saying that it was "''the definitive work on the origins and history of Quidditch''" and that he "''highly recommended''" it.<ref name="qta" />
+
+===Legacy===
+Scrimgeour died sometime in or before the year [[1994]].<ref name="DOD" /> Multiple [[portrait]]s of him were thereafter hung within [[Hogwarts Castle]].
+
+One portrait, hung in the [[Trophy Room]], hid a secret passage to the fourth floor.<ref name="ootp-gba">{{OOTP|G}} - GBA version</ref> During the [[1994-1995 school year]], the [[password]] to open this passage was initially "''Beati pacifici'',"<ref name="ootp-gba" /> meaning "blessed are the peacemakers" in [[Latin]].<ref>"[http://www.latin-dictionary.org/Beati_pacifici Beati pacifici]" on Latin-Dictionary.org</ref> This was changed to "''Iunctis viribus''" ("by united efforts" in Latin)<ref>"[http://www.latin-dictionary.org/Latin-English-Dictionary/Iunctis_viribus Iunctis viribus]" on Latin-Dictionary.org</ref> later in the same school year.<ref name="ootp-gba" />
+
+Another portrait of Scrimgeour was hung in the [[Headmaster's office]].<ref name="mohp" />
+
+==Etymology==
+[[File:Brutus Scrimgeour.png|250px|right|thumb|Brutus's portrait.]]The name "Brutus" is a Roman cognomen meaning "heavy" in Latin. Famous bearers include Lucius Junius Brutus, the traditional founder of the Roman Republic, and Marcus Junius Brutus, the statesman who conspired to assassinate Julius Caesar.
+
+==Behind the scenes==
+*Scrimgeour may have been related to [[Rufus Scrimgeour]], a [[Minister for Magic]] killed by [[Death Eaters]].
+*Scrimgeour's portrait was painted by artist [[Steve Mitchell]].<ref>[https://web.archive.org/web/20161230085403/http://www.stevemitchellscenicartist.co.uk/photo_11369131.html Portrait page] on Steve Mitchell's official site (Archived)</ref> Mitchell created several portraits for the [[Harry Potter films|''Harry Potter'' films]].<ref>[http://www.stevemitchellscenicartist.co.uk/section694708_572232.html Portrait portfolio] on Steve Mitchell's official site {{dead link}}</ref>
+*On "The Quest of Sir Cadogan" feature on Disc 2 of the ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'' DVD, Scrimgeour's portrait appears to be inverted horizontally.
+*The phrase ''beati pacifici'', [[Latin]] for "blessed are the peacemakers", is a portion of [[Bible|Matthew 5:9]]. The full verse reads ''beati pacifici quoniam filii Dei vocabuntur'' ("Blessed are the peacemakers: for they shall be called the children of [[God]]").
+
+==Appearances==
+*{{POA|F}} {{Portrait}}
+*{{POA|G}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}} {{Comment|Unnamed}}
+*{{HBP|G}} {{Portrait}}
+*{{QTA|R}} {{1st mention}}
+*{{MHP}} {{Portrait}}
+*{{HPK}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts third floor}}
+{{Hogwarts fourth floor}}
+
+{{DEFAULTSORT:Scrimgeour, Brutus}}
+
+[[de:Brutus Scrimgeour]]
+[[de2:Brutus Scrimgeour]]
+[[es:Brutus Scrimgeour]]
+[[fr:Brutus Scrimgeour]]
+[[pl:Brutus Scrimgeour]]
+[[pt-br:Bruto Scrimgeour]]
+[[ru:Брутус Скримджер]]
+[[zh:布鲁图斯·斯克林杰]]
+
+[[Category:Authors|Scrimegour, Brutus]]
+[[Category:British individuals|Scrimegour, Brutus]]
+[[Category:Deceased individuals|Scrimegour, Brutus]]
+[[Category:Hogwarts Headmasters and Headmistresses|Scrimegour, Brutus]]
+[[Category:Males|Scrimegour, Brutus]]
+[[Category:Portraits|Scrimegour, Brutus]]
+[[Category:Scrimgeour family|Brutus]]
+[[Category:Wizards|Scrimegour, Brutus]]

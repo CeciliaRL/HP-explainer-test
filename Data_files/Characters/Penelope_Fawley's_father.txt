@@ -1,0 +1,58 @@
+{{WizardsUniteSpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Penelope Fawley's father
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">He was an avid supporter of the [[Death Eaters]], meaning he would not have been a [[Muggle-born]].</ref>
+|marital = Married
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Penelope Fawley's mother|Mrs Padgett]] (wife)
+*[[Penelope Fawley]] (daughter)
+*[[Grim Fawley]] (son-in-law)
+*[[Addison Fawley]] (grandson)
+*[[Melody Fawley]] (granddaughter)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Padgett family]]
+*[[Tom Riddle|Lord Voldemort]]
+**[[Death Eaters]]
+}}
+'''Mr Padgett''' was a [[Great Britain|British]] [[Wizardkind|wizard]], the husband of [[Penelope Fawley's mother|Mrs Padgett]] and the father of [[Penelope Fawley]].<ref name="WU"/>
+
+==Biography==
+During the [[Second Wizarding War]], Mr and Mrs Padgett were outspoken supporters of [[Tom Riddle|Lord Voldemort]] and his [[Magic is Might]] campaign. Following the end of the war and the fall of Voldemort, Mrs Padgett was imprisoned in Azkaban for her role in the conflict, although it is unknown if Mr Padgett was also sent to Azkaban or not.<ref name="WU">{{WU}}</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Death Eaters}}
+{{DEFAULTSORT:Fawley, Penelope's father}}
+[[Category:British individuals]]
+[[Category:Death Eater allies]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Padgett family]]
+[[Category:Parents]]
+[[Category:Pure-blood supremacists]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

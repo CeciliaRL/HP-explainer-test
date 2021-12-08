@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = [[File:Tamsin Applebee.png]]
+|name = Tamsin Applebee
+|born = On or before [[31 August]] [[1982]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Chaser]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="QWC"/>
+|eyes = Brown<ref name="QWC"/>
+|skin = White<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="QWC"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="QWC"/>
+**[[Hufflepuff]]<ref name="QWC"/>
+***[[Hufflepuff Quidditch team]]<ref name="QWC"/>
+}}
+'''Tamsin Applebee''' was a [[Wizardkind|witch]] who attended [[Hogwarts School of Witchcraft and Wizardry]], and was a member of [[Hufflepuff]] house. She played as a  [[Chaser]] on the [[Hufflepuff Quidditch team]] when it was captained by [[Cedric Diggory]].<ref name="QWC">{{QWC}}</ref>
+
+==Etymology==
+Tamsin is a contracted form of Thomasina. It was traditionally used in [[Cornwall]].
+
+==Appearances==
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+{{DEFAULTSORT:Applebee, Tamsin}}
+[[de:Tamsin Applebee]]
+[[es:Tamsin Applebee]] 
+[[pl:Tamsin Applebee]]
+[[ru:Тамсин_Эпплби]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Wizards]]

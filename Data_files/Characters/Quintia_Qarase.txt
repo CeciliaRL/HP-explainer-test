@@ -1,0 +1,35 @@
+{{Individual infobox
+|name = Quintia Qarase
+|born = after [[1976]]<ref>Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref>
+|nationality = [[Fiji]]an
+|title = [[Beater]]
+|species = [[Human]]
+|gender = Female
+|job = [[Beater]] for the [[Fijian National Quidditch team]]
+|loyalty = [[Fijian National Quidditch team]]
+|theme = quidditch-player
+}}
+{{Quote|In the early stages of the game Fijian Beaters Quintia Qarase and Narinder Singh lacked the ferocity of their Nigerian counterparts Aliko Okoye and Mercy Ojukwu.|[[Ginevra Weasley|Ginny Potter]], "[[NIGERIA VERSUS FIJI]]" (''[[Daily Prophet]]'', [[14 May]] [[2014]])|Pottermore}} 
+'''Quintia Qarase''' was a [[Fiji]]an [[Wizardkind|witch]] who played as a [[Beater]] for the [[2014]] [[Fijian National Quidditch team]].<ref name="PM"/>
+
+==Biography==
+During the second match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], against [[Nigerian National Quidditch team|Nigeria]], Qarase and her fellow Beater [[Narinder Singh]] "lacked the ferocity" of the Nigerian Beaters, [[Aliko Okoye]] and [[Mercy Ojukwu]]. This resulted in the [[Bludger]]s doing much harm to the Fijian [[Chaser]]s, which contributed to the team's bruising defeat.<ref name="PM">{{PM}} - [[NIGERIA VERSUS FIJI]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Qarase, Quintia}}
+
+[[de:Quintia Qarase]]
+[[es:Quintia Qarase]]
+[[fr:Quintia Qarase]]
+[[pl:Quintia Qarase]]
+[[ru:Квинтия Карасе]]
+[[Category:Beaters]]
+[[Category:Females]]
+[[Category:Fijian individuals]]
+[[Category:Wizards]]

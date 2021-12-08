@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:Male nurse hospital wing.jpg|250px]]
+|name = Portrait of a male nurse in the hospital wing
+|born = 
+|died = Before [[1992]]<ref name="PSF"/> (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSF"/>
+|gender = Male<ref name="PSF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Nurse<ref name="PSF"/>
+|house = 
+|loyalty = 
+}}
+This was a '''[[portrait]]''' in the [[Hospital Wing]] at [[Hogwarts School of Witchcraft and Wizardry]] of a man looking after a patient lying in bed.<ref name="PSF">{{PS|F}}</ref>
+
+==Behind the scenes==
+*This portrait is a copy of the 1891 portrait [http://upload.wikimedia.org/wikipedia/commons/f/f1/The_Doctor_Luke_Fildes.jpg "The Doctor"], by British painter and illustrator [[Wikipedia:Luke Fildes|Sir Samuel Luke Fildes (1843-1927)]].
+
+==Appearances==
+*{{PS|F}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts first floor}}
+
+[[es:Retrato de un enfermero en la enfermería]]
+[[pl:Portret pielęgniarza w skrzydle szpitalnym]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

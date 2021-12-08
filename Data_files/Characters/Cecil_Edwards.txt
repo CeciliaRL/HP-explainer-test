@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Cecil Edwards
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Playwright
+|house=
+|loyalty=
+}}
+'''Cecil Edwards''' was a [[Muggle|No-Maj]] playwright in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:Two to Tango.png}}</ref><ref name="neonsign">{{FB|F}} {{See image|File:OrpheumNewYork.jpg}}</ref> 
+
+One of Edwards' works was a musical called ''[[Two to Tango]]'', which featured music and lyrics by [[Nelson Selgado]], and was staged at [[The Kingly Court]] in [[New York]] in late [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Comment|Mentioned on a sign}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Edwards, Cecil}}
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Playwrights]]

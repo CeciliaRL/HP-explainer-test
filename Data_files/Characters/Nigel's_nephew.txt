@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Nigel's nephew.jpg|250px]]
+|name = Nigel's nephew
+|born = [[31 August]] [[1981]] or earlier
+|died = 
+|blood = [[Pure-blood]] (most likely)
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Black<ref name="COSG"/>
+|eyes = Green<ref name="COSG"/>
+|skin = White<ref name="COSG"/>
+|family = *[[Nigel's nephew's father|Father]]<ref name="COSG"/>
+*[[Nigel]] (uncle)<ref name="COSG"/>
+*[[Nigel's wife|Aunt]]<ref name="COSG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="COSG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSG"/>
+**[[Slytherin]]<ref name="COSG"/>
+}}
+This '''individual''' was a [[wizardkind|wizard]] and a [[Slytherin]] [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] student in the [[1990s]].
+
+In [[1992]], his uncle [[Nigel]] married a [[Nigel's wife|Muggle woman]], which made [[Nigel's nephew's father|his father]] furious. This individual did not seem to be as upset, as his [[Non-magic people|Muggle]] aunt brought him sweets.<ref name="COSG">{{COS|G}} - PC version</ref>
+
+==Appearances==
+*{{COS|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[pl:Bratanek Nigela]]
+[[Category:British or Irish individuals]]
+[[Category:Green-eyed individuals]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

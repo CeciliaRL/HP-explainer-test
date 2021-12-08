@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Ermessende Lestrange
+|born=[[1679]]<ref name="Archive">{{AM}}</ref>
+|died=[[1685]]<ref name="Archive" /> (aged 6)
+|blood=[[Pure-blood]] or [[half-blood]]<ref>She was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|marital=
+|nationality=[[France|French]]
+|alias=
+|title=
+|signature=
+|species=Human
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|family=[[Lestrange family]]
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=[[Lestrange family]]
+}}
+'''Ermessende Lestrange''' ([[1679]] – [[1685]]) was a [[France|French]] [[Wizardkind|witch]] and a member of the [[pure-blood]] [[Lestrange family]]. Ermessende died as a child in [[1685]] and was laid to rest in the [[Lestrange Mausoleum|Lestrange family Mausoleum]] in [[Cimetière du Père-Lachaise]], [[Paris]], France.<ref name="Archive" />
+
+==Appearances==
+*{{AM}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lestrange, Ermessende}}
+
+[[fr:Ermessende Lestrange]]
+[[pl:Ermessende Lestrange]]
+[[Category:1670s births]]
+[[Category:1680s deaths]]
+[[Category:Buried at Cimetière du Père-Lachaise]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Lestrange family]]
+[[Category:Wizards]]

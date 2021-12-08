@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Dawn Withey.png]]
+|name = Dawn Withey
+|born = before [[1977]], [[England]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[England|English]]
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Black
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[English National Quidditch team]]
+|house = 
+|loyalty = [[English National Quidditch team]]
+}}
+'''Dawn Withey''' was an [[England|English]] [[Wizardkind|witch]] who played as a [[Beater]] on the [[English National Quidditch team]].<ref>{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Withey's [[Chocolate Frog Card]] could be won by beating [[Ethan Bexley]] at an [[Exploding Snap]] challenge.<ref>{{HBP|G}} {{c|NDS edition}}</ref>
+
+==Etymology==
+The name "Dawn" comes from the English word dawn, ultimately derived from Old English dagung.
+
+==Appearances==
+*{{QWC}}
+*{{HBP|G}} {{c|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Withey, Dawn}}
+
+[[es:Dawn Withey]]
+[[fr:Dawn Withey]]
+[[pl:Dawn Withey]]
+[[ru:Дон Уайти]]
+[[Category:Beaters]]
+[[Category:Chocolate Frog Cards]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Wizards]]

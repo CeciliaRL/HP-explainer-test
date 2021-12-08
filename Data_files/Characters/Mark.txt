@@ -1,0 +1,52 @@
+{{Real world subject}}
+{{Individual infobox
+|image=
+|theme=individual
+|bgcolor1=
+|bgcolor2=
+|name=Mark
+|hideb=
+|born=
+|died=
+|blood=
+|alias=Mark the Evangelist
+|title=[[Saint]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Writer
+|house=
+|loyalty=
+}}
+'''Mark''', also known as '''Mark the Evangelist''', was traditionally regarded as the author of one of the books of the [[Bible]], the [[wikipedia:Gospel of Mark|Gospel of Mark]].<ref name="wikipedia">"[https://en.wikipedia.org/wiki/Mark_the_Evangelist Mark the Evangelist]" on Wikipedia</ref> He was one of the [[wikipedia:seventy disciples|seventy disciples]] of [[Jesus]] and one of the four [[wikipedia:Four Evangelists|Four Evangelists]].<ref name="wikipedia" />
+
+[[File:Stained Glass Godric's Hollow.jpg|200px|thumb|left|Mark, along with [[Matthew]], [[John]] and [[Luke]] flanking [[Jesus]]]]
+There was a stained glass window in the [[St Jerome's Church|Parish Church of St. Clementine]] in [[Godric's Hollow]] depicting Christ and the Four Evangelists — [[Matthew]], Mark, [[Luke]] and [[John]].<ref>{{HPFW}}  {{see image|File:Stained Glass Godric's Hollow.jpg}}</ref>
+
+==Appearances==
+*{{DH|F1}} {{Comment|Depicted in a stained glass window}}
+*{{DH|G1}} {{Comment|Depicted in a stained glass window}}
+*{{HPFW}} {{Comment|Depicted in a stained glass window}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pt-br:Marcos]]
+[[Category:Authors]]
+[[Category:B.C. era births]]
+[[Category:Biblical figures]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Saints]]

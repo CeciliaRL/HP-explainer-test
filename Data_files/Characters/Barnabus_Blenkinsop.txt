@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Barnabus Blenkinsop
+|born = 
+|died = [[7 February]], [[1999]] (most likely)<ref name="DoD">His obituary is featured on a ''Daily Prophet'' dated 8 February, however it is most likely he died the day before.</ref>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Timothy Blenkinsop]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Barnabus Blenkinsop''' (d. [[February]], [[1999]])<ref name=DoD /> was a [[Wizardkind|wizard]]. His death was announced in the ''[[Daily Prophet]]''. His obituary offered a reward for information about what happened to him, since all that was found in his bed in [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]] was a can of [[anchovie]]s.<ref name="DP">{{DP}}</ref>
+
+==Behind the scenes==
+*While the fate that befell Blenkinsop is ultimately unknown, the Ministry of Magic eventually solved the mystery of his disappearance, as prior to the [[London Five]] incident in [[2015]], no one in [[Great Britain]] had disappeared without a trace since the '[[Second Wizarding War|Dark Times]]'.<ref name="WU">{{WU}}</ref>
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Blenkinsop, Barnabus}}
+[[pl:Barnabus Blenkinsop]]
+[[ru:Барнабус Бленкинсоп]]
+[[Category:1999 deaths]]
+[[Category:British individuals|Blenkinsop, Barnabas]]
+[[Category:Males|Blenkinsop, Barnabas]]
+[[Category:St Mungo's patients]]
+[[Category:Wizards|Blenkinsop, Barnabas]]

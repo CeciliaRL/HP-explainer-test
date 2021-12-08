@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Nurse
+|born = In or prior to [[1976]]<ref name="AGE">The legal age of becoming an adult in the ''wizarding world'' is seventeen, and as Dudley is known to not become of age until a year after Harry, it is assumed eighteen is the legal age in the Muggle world. Therefore, the earliest she could be working is eighteen years old, and 1994 (the year she sent the sheet) with eighteen subtracted is 1976.</ref>
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="GOF3"/>
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF3"/>
+|gender = Female<ref name="GOF3"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Doctor|Nurse]] of [[Smeltings Academy]]<ref name="GOF3"/>
+|house = 
+|loyalty = [[Smeltings Academy]]<ref name="GOF3"/>
+}}
+{{Quote|The school nurse had seen what Aunt Petunia's eyes - so sharp when it came to spotting fingerprints on her gleaming walls, and in observing the comings and goings of the neighbours - simply refused to see: that, far from needing extra nourishment, Dudley had reached roughly the size and weight of a young killer whale.|On the subject of a letter sent from the nurse to the Dursley family.|Harry Potter and the Goblet of Fire}}
+This '''female''' (c. [[1994]]) was a woman employed by the [[Smeltings Academy]] of [[Great Britain]] sometime in or, possibly, before [[1994]].<ref name="GOF3">{{GOF|B|3}}</ref>
+
+==Biography==
+Sometime in or before [[1976]]<ref name="AGE"/> this woman was born to a [[Non-magic people|Muggle]] family. She eventually was hired by the [[Smeltings Academy]] of [[Great Britain]], and worked for the school as a nurse.
+
+In [[1994|1994,]] she sent a letter to the [[Dursley family]] about [[Dudley Dursley|Dudley]]'s considerable weight. The letter informed them that the school no longer had [[British terms#K|knickerbockers]] large enough to fit him, and included a diet sheet comprised mostly of fruits and vegetables.<ref name="GOF3" />
+
+==Personality and traits==
+Little is known of this woman's personality; however, it seemed that she was a fairly caring person as she not only was hired by a school, but was troubled enough by the weight of [[Dudley Dursley]] that she sent a letter and a diet sheet to the [[4 Privet Drive|Dursley home]] to try and get the family to help Dudley lose weight.<ref name="GOF3"/>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Infirmière de Smelting]]
+[[pl:Pielęgniarka w Smeltingu]]
+[[ru:Медсестра Академии Вонингс]]
+[[pt-br:Enfermeira de Smeltings]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Smeltings employees]]

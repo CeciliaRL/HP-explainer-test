@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|image =
+|name = Durmstrang girl
+|born = Before [[31 October]] [[1977]]
+|died =
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">She couldn't have been [[Muggle-born]], as Durmstrang refused to let them attend the school.</ref>
+|nationality =
+|alias =
+|title =
+|signature =
+|species = [[Human]]<ref name="GOF16"/>
+|gender = Female<ref name="GOF16"/>
+|skin =
+|hair =
+|eyes =
+|weight =
+|height =
+|family =
+|romances =
+|wand =
+|animagus =
+|boggart =
+|patronus =
+|job =
+|house =
+|loyalty = [[Durmstrang Institute]]<ref name="GOF16"/>
+|theme = durmstrang
+}}
+This '''female Durmstrang student''' was a [[Wizardkind|witch]] who attended the [[Durmstrang Institute]] in the [[1990s]].<ref name="GOF16"/>
+
+==Biography==
+On [[31 October]], [[1994]], she was seen standing next to [[Poliakoff]] when he first saw [[Harry Potter]] in the [[Great Hall]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], during the selection of the candidates for the [[Triwizard Tournament]]. Surprised to see him, Poliakoff pointed at Harry and told her that he was the famous [[Harry Potter]]<ref name="GOF16">{{GOF|B|16}}</ref>
+
+==Behind the scenes==
+*She is the only female student mentioned in the [[Harry Potter (book series)|book series]] to study at the [[Durmstrang Institute]].
+*She does not appear in the film because Durmstrang was portrayed as an all-boys school, the counterpart to the all-girls [[Beauxbatons Academy of Magic|Beauxbatons]].
+*During [[Bartemius Crouch Senior]]'s episode of [[Insanity|madness]], he claimed that [[Igor Karkaroff]] was bringing twelve students to the Triwizard Tournament.<ref name="GOF28">{{GOF|B|28}}</ref> This might or might not have been true, considering Crouch's mental state at the time, but if it is true, then this girl was probably one of the top twelve students at Durmstrang.
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowana uczennica Durmstrangu]]
+[[Category:20th century births]]
+[[Category:Durmstrang students]]
+[[Category:European individuals]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

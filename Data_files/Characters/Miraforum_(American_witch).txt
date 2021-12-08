@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:MiraforumSmall.jpg|250px]]
+|name=Miraforum
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=Big Hands
+|title=[[Madam]]
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Miraforum (British witch)|Miraforum]] {{Comment|possibly}}
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Madame Miraforum''', also known by the nickname '''Big Hands''', was an [[United States of America|American]] [[wizardkind|wizarding]] criminal who operated in the [[1920s]].<ref name="cob">{{CB|119}} {{see image|File:MiraforumWanted.jpg}}</ref>
+
+==Biography==
+In or around [[1926]], she escaped from the [[New York Witches' Penitentiary]], where she was sent for "[[Muggle|No-Maj]] smuggling and murder."<ref name="cob" /> The [[Magical Congress of the United States of America]] issued a wanted poster, offering a reward of 3700 [[Dragot]]s for information leading to her capture.<ref name="cob" />
+
+==Behind the scenes==
+*This character was named after [[Miraphora Mina]], a graphic artist who worked on ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]] '', as well as all eight of the [[Harry Potter (film series)|''Harry Potter'' films]].
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Miraforum}}
+[[fr:Miraforum]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Murderers]]
+[[Category:New York Witches' Penitentiary convicts]]
+[[Category:Wizards]]

@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = muggle
+|image = [[File:Jack & Tom Monk.png|250px]]
+|name = Jack Monk
+|born = [[20 May]], [[1995]]<ref name="20May">The prop issue of ''[[Metro]]'' in which the article about Jack and Tom's birth is featured appears in the [[London Underground|Underground]] scene in {{OOTP|FA}}, just before Harry Potter's disciplinary hearing on 12 August, 1995. The body of the article says that "''It would be twelve weeks in total before a fully recovered Tilly and I could bring our boys home for the first time.''" Twelve weeks is eighty-four days, and eighty-four days before 12 August is 20 May. The prop issue itself is dated 1 December, 2006, but this is inconsistent with the [[dating conventions|canonical timeline]] of the ''Harry Potter'' series.</ref>
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 4 lbs
+|hair = None
+|eyes = Brown
+|skin = Light
+|family = *[[Dave Monk]] (father)
+*[[Tilly Monk]] (mother)
+*[[Tom Monk]] (twin brother)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Monk family]]
+}}
+{{Quote|Their eyes were shut, their ears just a flap of skin not yet fully formed and their skin was red and translucent.|[[Dave Monk|His father]]'s description of him and [[Tom Monk|his brother]] right after their birth|Harry Potter Limited Edition}}
+'''Jack Monk''' (b. [[20 May]], [[1995]]<ref name="20May"/>) was a [[Non-magic people|Muggle]] boy, the son of [[Dave Monk|Dave]] and [[Tilly Monk]], and the twin brother of [[Tom Monk|Tom]].
+
+==Biography==
+===Birth and rescue===
+Jack Monk and his brother were born prematurely, delivered simultaneously as what their father described as a "bundle," and received immediate medical care from "an amazing neonatal team." After twelve weeks in the [[Neonatal Intensive Care Unit|NICU]], during which time they were kept in incubators, receiving vital fluids through intravenous lines and breathing with the help of mechanical ventilators, the twins were able to go home with their parents. By this time, Jack weighed four pounds, having weighed only one pound, seven ounces at birth.
+
+The twins' father wrote an article about their miraculous birth, which was featured on the front page of the [[12 August]], [[1995]] issue of ''[[Metro]]'', under the title "''Miracle babies make it''".<ref name="HPLE">{{HPLE|G}} {{see image|File:Metro.png}}</ref>
+
+==Appearances==
+*{{OOTP|F}} {{Photograph}}
+*{{HPLE}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Monk, Jack}}
+[[Category:1995 births]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Monk family]]
+[[Category:Muggles]]
+[[Category:Twins]]

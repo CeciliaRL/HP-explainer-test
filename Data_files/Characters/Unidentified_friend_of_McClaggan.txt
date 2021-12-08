@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = 
+|born = [[31 August]] [[1916]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+This '''individual''' was a [[Great Britain|British]] [[Wizardkind|Wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in [[Gryffindor]] house in the [[1920s]]. At that time, he became friends with another student named [[McClaggan]].<ref name="COGS">{{COG|S}}</ref>
+
+==Behind the scenes==
+McClaggan's friend was portrayed by [[Isaac Cortinovis Johnson]] in {{COG}}.
+
+==Appearances==
+*{{COG|S}} {{1st}}
+*{{COG}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowany przyjaciel McClaggana]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

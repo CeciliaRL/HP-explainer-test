@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Radolphus Pittiman
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBR"/>
+|gender = Male<ref name="FBR"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author<ref name="FBR"/>
+|house = 
+|loyalty = [[Uric the Oddball]]<ref name="FBR"/>
+}}
+{{Quote|Uric the Oddball is known to have slept in a room containing no fewer than fifty pet Augureys. During one particularly wet winter, Uric became convinced by the moaning of his Augureys that he had died and was now a ghost. His subsequent attempts to walk through the walls of his house resulted in what his biographer Radolphus Pittiman describes as a "concussion of ten days' duration."|[[Newton Scamander]], {{FB}}.|Fantastic Beasts and Where to Find Them (real)}}
+'''Radolphus Pittiman''' was a [[wizardkind|wizard]] who, at some point, wrote a [[Biography of Uric the Oddball|biography]] on [[Uric the Oddball]].<ref name="FBR">{{FB|R}}, ''Augurey''</ref>
+
+==Etymology==
+*See [[Radulf]] for Etymology.
+
+==Appearances==
+*{{FB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pittiman, Radolphus}}[[de:Radolphus Pittiman]]
+[[es:Radolphus Pittiman]]
+[[fr:Radolphus Pittiman]]
+[[pl:Radolphus Pittiman]]
+[[ru:Радольфус Питтиман]]
+
+[[Category:Biographers]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,38 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Millamant
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=hide
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Businessperson (most likely)<ref name="DH6"/>
+|house=
+|loyalty=[[Millamant's Magic Marquees]] (possibly)<ref name="DH6"/>
+}}
+'''Millamant''' was the individual who lent their name to [[Millamant's Magic Marquees]].<ref name="DH6">{{DH|B|6}}</ref>
+
+==Appearances==
+*{{DH}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

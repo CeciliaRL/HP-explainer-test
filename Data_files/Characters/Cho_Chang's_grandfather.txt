@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = mom
+|image = Grandfather Chang.png
+|name = Chang
+|born = Before [[1927]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COG"/>
+|gender = Male<ref name="COG"/>
+|height = 
+|weight = 
+|hair = Dark<ref name="COG"/>
+|eyes = Dark<ref name="COG"/>
+|skin = Light<ref name="COG"/>
+|family = *[[Cho Chang's father|Son]]<ref name="Chang"/>
+*[[Cho Chang's mother|Daughter-in-law]]<ref name="Chang"/>
+*[[Cho Chang]] (granddaughter)<ref name="Chang"/>
+*[[Cho Chang's spouse|Grandchild-in-law]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Auror]]<ref name="auror">[https://www.spotlight.com/2852-0169-5365 Actor Simon Wan's Spotlight profile]</ref><ref name="COG"/>
+|house = 
+|loyalty = *[[Chang family]]<ref name="Chang"/>
+*[[British Ministry of Magic]]<ref name="COG"/>
+**[[Department of Magical Law Enforcement]]<ref name="COG"/>
+***[[Auror Office]]<ref name="COG"/>
+}}
+'''Chang'''<ref name="role"/> was a [[Wizardkind|wizard]] and [[Auror]] who lived in the early [[20th century]].
+
+==Biography==
+In [[1927]], he was one of the [[Auror]]s led by [[Theseus Scamander]] who were summoned to break-up [[Gellert Grindelwald]]'s [[Gellert Grindelwald's Paris rally|rally]] at the [[Lestrange Mausoleum]] in [[Paris]], [[France]].<ref name="COG">{{COG}}</ref>
+
+Chang was [[Cho Chang]]'s paternal grandfather.<ref name="Chang">[[Simon Wan|Wan, Simon]] (19 November 2018). [https://simonwan.com/2018/11/19/the-crimes-of-grindlewobblez/ "The Crimes of Grindlewobblez"]. ''simonwan.com''. Retrieved 23 December 2018.</ref>
+
+==Behind the scenes==
+*He is played by [[Simon Wan]] in {{COG}}.<ref name="role">{{IMDb|nm4854335|Simon Wan}}</ref>
+
+==Appearances==
+*{{COG}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Chang, Cho's grandfather}}
+[[de:Chang, Auror]]
+[[fr:Grand-père de Cho Chang]]
+[[pl:Dziadek Cho Chang]]
+[[ru:Чанг]]
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:British individuals]]
+[[Category:Chang family]]
+[[Category:Gellert Grindelwald's Paris rally participants]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

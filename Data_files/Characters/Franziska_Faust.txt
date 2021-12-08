@@ -1,0 +1,27 @@
+{{Individual infobox
+|name = Franziska Faust
+|born = before [[1997]], [[Germany]]
+|nationality = [[Germany|German]]
+|species = [[Human]]
+|gender = Female
+|job = Manager of the [[German National Quidditch team]]
+|loyalty = [[German National Quidditch team]]
+|theme = wizard
+}}'''Franziska Faust''' was a [[Germany|German]] [[Wizardkind|witch]] and the manager of the [[German National Quidditch team]] in [[2014]].<ref name="PM">{{PM}} - [[WALES VERSUS GERMANY]] (Archived)</ref>
+
+==Biography==
+On [[22 May]], [[2014]], during the final match of the first round of the [[2014 Quidditch World Cup|427th Quidditch World Cup]] between [[Welsh National Quidditch team|Wales]] and [[German National Quidditch team|Germany]], German [[Seeker]] [[Thorsten Pfeffer]] nearly died after failing an attempt at the life-threatening [[Wronski Feint]]. Pfeffer collided with the ground at what onlookers estimated to be sixty miles per hour, and his death was only averted by the quick action of the [[Healer]]s present. Neither players nor crowd were in a celebratory mood, even as Wales won, and only once manager Franziska Faust revealed that Pfeffer would be likely to recover did Welsh manager Gwenog Jones tell the press she was "''bloody delighted''".<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Faust, Franziska}}
+[[de:Franziska Faust]]
+[[pl:Franziska Faust]]
+[[fr:Franziska Faust]]
+[[Category:Females]]
+[[Category:German individuals]]
+[[Category:Quidditch managers]]
+[[Category:Wizards]]

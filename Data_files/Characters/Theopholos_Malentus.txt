@@ -1,0 +1,42 @@
+{{Transcribed image|File:TheopholosMalentus.jpg}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:TheopholosMalentus.jpg|100px]]
+|name=Theopholos Malentus
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Theopholos Malentus''' was a [[Wizardkind|wizard]] whose name was carved into a wood panel on the wall of [[Sybill Trelawney|Professor Trelawney]]'s [[Divination]] classroom.<ref>{{POA|F}} - Chapter 21 (''Professor Trelawney's Prediction'')</ref><ref>[http://www.the-leaky-cauldron.org/2004/5/15/los-angeles-motion-picture-arts-sciences-contemporary-set-exhibit-report ''Prisoner of Azkaban'' set report] from the Leaky Cauldron</ref>
+
+==Appearances==
+*{{POA|F}} {{Comment|Name seen on wood panel}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Malentus, Theopholos}}
+[[pl:Theopholos Malentus]]
+[[Category:Males]]
+[[Category:Wizards]]

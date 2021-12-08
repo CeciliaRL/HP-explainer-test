@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Carl Smiley
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Theatre lighting designer
+|house=
+|loyalty=
+}}
+'''Carl Smiley''' was a [[Muggle|No-Maj]] theatre lighting designer in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:It's Just Heavenly.png}}</ref>
+
+He served as the lighting designer on a production of the musical ''[[It's Just Heavenly]]'' that was staged at the [[Pegasi Theatre]] in [[New York]] in [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Smiley, Carl}}
+[[Category:American individuals]]
+[[Category:Lighting designers]]
+[[Category:Males]]
+[[Category:Muggles]]

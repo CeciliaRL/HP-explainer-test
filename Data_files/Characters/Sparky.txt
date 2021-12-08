@@ -1,0 +1,34 @@
+{{Pet individual infobox
+|image = 
+|name = Sparky
+|born = [[Immortality|Immortal]]<ref name="FB">{{FB|R}}</ref>
+|died = [[Immortality|Immortal]]<ref name="FB"/>
+|alias = 
+|title = 
+|species = [[Phoenix]]<ref name="QTAR8"/>
+|gender = Male<ref name="QTAR8"/>
+|height = Swan-sized<ref name="FB"/>
+|hair = 
+|feathers = Scarlet (Golden tail)<ref name="FB"/>
+|eyes = Black<ref name="FB"/>
+|skin = Golden (beak)<ref name="FB"/>
+|family = 
+|loyalty = [[Moutohora Macaws]]<ref name="QTAR8"/>
+}}
+'''Sparky''' was the [[phoenix]] mascot of the [[Moutohora Macaws]], a [[Quidditch team]] from [[New Zealand]].<ref name="QTAR8">{{QTA|R|8}}</ref> 
+
+==Behind the scenes==
+*Apart from [[Fawkes]], Sparky is the only known domesticated [[phoenix]].
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Flamesh]]
+[[pl:Iskierka]]
+[[Category:Black-eyed individuals]]
+[[Category:Males]]
+[[Category:Mascots]]
+[[Category:New Zealand]]
+[[Category:Phoenixes]]

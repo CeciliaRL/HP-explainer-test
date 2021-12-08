@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Chavelle Arbelo Cartaya - card HBP-NDS.png]]
+|name = Chavelle Arbelo Cartaya
+|born = before [[1977]], [[Spain]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Spain|Spanish]]
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Dark Brown
+|eyes = Brown
+|skin = White (Tanned)
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Spanish National Quidditch team]]
+|house = 
+|loyalty = [[Spanish National Quidditch team]]
+}}
+'''Chavelle Arbelo Cartaya''' was a [[Spain|Spanish]] [[Wizardkind|witch]] who played as a [[Chaser]] on the [[Spanish National Quidditch team]].<ref>{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Cartaya's [[Chocolate Frog Card]] could be won by beating [[Scott Ancrum]] at a [[Quidditch]] challenge.<ref>{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Etymology==
+[[Wikipedia:Cartaya|Cartaya]] is a town in [[Spain]].
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{C|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Arbelo Cartaya, Chavelle}}
+[[fr:Chavelle Arbelo Cartaya]]
+[[pl:Chavelle Arbelo Cartaya]]
+[[Category:Black-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Spanish individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,25 @@
+{{Notability}}
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:HPDH2-3802.jpg|250px]]
+|name = Unidentified white haired wizard during the Battle of Hogwarts
+|species = [[Human]]
+|gender = Male
+|hair = White
+|skin = Light
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+|theme = wizard
+}}
+This '''[[Wizardkind|wizard]]''' fought during the [[Battle of Hogwarts]] against the [[Death Eaters]]. During the one-hour armistice he cared for the injured students, along with the [[Healer]]s. He survived the battle.<ref name="DHF2">{{DH|F2}}</ref>
+[[File:HPDH2-3358.jpg|thumb|left|The wizard with a group of students on the grounds]]
+[[File:HPDH2-2499.jpg|thumb|left|The wizard during the one-hour-long armistice]]
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

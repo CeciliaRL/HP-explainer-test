@@ -1,0 +1,24 @@
+{{Conjecture}}
+{{Pet individual infobox
+|name = Sirius Black's barn owl
+|born = Pre [[1994]]
+|species = [[Barn owl]]<ref name="GOF18"/>
+|feathers = Brown and white<ref name="PM">{{PM}}</ref>
+|family = [[Sirius Black]] (owner)<ref name="GOF18"/>
+|loyalty = [[Sirius Black]]<ref name="GOF18"/>
+}}
+This '''barn owl''' was owned by [[Sirius Black]]. He used it to deliver a [[Sirius Black's letter to Harry Potter (1994) IV|letter]] to his godson [[Harry Potter]].<ref name="GOF18"/>
+
+Harry found the owl in his dormitory after being informed by his best friend [[Ronald Weasley|Ron]] (whom both had temporarily fallen out at the time) that it was there.<ref name="GOF18">{{GOF|B|18}}</ref>
+
+==Behind the scenes==
+In {{GOF|FA}}, there is a [[Sirius Black's owl|different owl]] which delivered Sirius' letter to Harry, which also had a tendency to bite people. The owl in the book did not bite Harry.
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Owls]]
+[[Category:Sirius Black's possessions]]

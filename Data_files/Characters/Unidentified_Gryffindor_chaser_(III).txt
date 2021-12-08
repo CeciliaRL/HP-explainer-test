@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:Unidentified Gryffindor chaser (III).png|250px]]
+|name = Quidditch player
+|born = {{GBorIE}}
+|died = Before [[1991]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Chaser]]<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+|signature = 
+|species = [[Human]]<ref name="LEGOY1"/>
+|gender = Female<ref name="LEGOY1"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="LEGOY1"/>
+|eyes = 
+|skin = Light<ref name="LEGOY1"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="LEGOY1"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="LEGOY1"/>
+**[[Gryffindor]]<ref name="LEGOY1"/>
+**[[Gryffindor Quidditch team]]<ref name="LEGOY1"/>
+}}
+A [[portrait]] of this '''Quidditch player''' hung at the [[Grand Staircase]]. She can be seen grapping the [[Quaffle]] from [[Unidentified Gryffindor chaser (I)|another chaser]]. If one should cast a [[spell]] at her, she will throw the Quaffle to [[Unidentified Gryffindor chaser (II)|another chaser]].<ref name="LEGOY1"/>
+
+==Appearances==
+*{{LEGO|Y1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+[[es:Cazador de Gryffindor no identificado (III)]]
+[[pl:Niezidentyfikowany ścigający Gryffindoru (III)]]
+[[Category:British individuals]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

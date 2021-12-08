@@ -1,0 +1,48 @@
+{{MagicAwakenedSpoiler}}
+{{Imageless}}
+{{Youmay|a Ravenclaw student in the 21st century|[[Theodore Nott]]}}
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Theodore
+|born = Between [[1 September]] [[1990]] and [[31 August]] [[2003]]{{MATimeRef}}<ref>The player's Forbidden Forest adventures do not have set years, therefore canonically speaking, the player could meet Theodore in any of their seven years, while Theodore could also be in any of his seven years.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="MA">{{MA}}</ref>
+|gender = Male<ref name="MA"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="MA"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="MA"/>
+**[[Ravenclaw]]<ref name="MA"/>
+}}
+'''Theodore''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[21st century]] and was [[Sorting Ceremony|sorted]] into [[Ravenclaw]]. A [[Unidentified Muggle-born Hogwarts student|student]] would frequently encounter him in the [[Forbidden Forest]].<ref name="MA"/>
+
+==Behind the scenes==
+*The player character appears to already know who Theodore is when they meet him in the Forbidden Forest, despite there having been no appearance or mention of him in the main storyline, which might suggest that Theodore is a character cut from the storyline, or he might appear later in currently unreleased school years.
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 21st century]]
+[[Category:Wizards]]

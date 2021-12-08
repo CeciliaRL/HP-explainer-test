@@ -1,0 +1,39 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Tarquin McTavish's neighbour
+|hideb=hide
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]<ref name="JKRS"/><ref name="PM"/>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="JKRS"/><ref name="PM"/>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+[[Tarquin McTavish]] had a [[Non-magic people|Muggle]] '''neighbour'''. For unknown reasons, Tarquin [[magic]]ally trapped this neighbour inside a [[Tarquin McTavish's teakettle|teakettle]], which led to the [[Wizardkind|wizard]]'s imprisonment.<ref name="JKRS">{{JKRS}}</ref><ref name="PM">"Timeline of the Wizarding World (infographic)" at {{PM}} {{c|Archived; view [https://www.reddit.com/r/PottermoreWritings/comments/4woua4/timeline_of_the_wizarding_world/ transcript on Reddit]}}</ref>
+
+==Etymology==
+The name "Tarquin" comes from the Roman name Tarquinius which is of unknown meaning, possibly Etruscan in origin. This was the name of two early kings of Rome.
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+*{{PM}} {{Mention}} {{c|Archived}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified Muggles|McTavish's neighbour]]
+[[Category:Victims of Muggle torture|McTavish's neighbour]]

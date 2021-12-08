@@ -1,0 +1,40 @@
+{{conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Squat wizard in a purple pork-pie hat
+|born = Before [[1997]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''wizard''' was short and wore a purple [[pork-pie hat]]. On [[1 August]] [[1997]], he attended the [[Wedding of William Weasley and Fleur Delacour]] and sang "[[Odo the Hero]]" with [[Rubeus Hagrid]] and [[Charles Weasley]].<ref>{{DH|B|8}}</ref>
+
+==Appearances==
+*{{DH}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

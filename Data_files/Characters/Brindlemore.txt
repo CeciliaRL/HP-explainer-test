@@ -1,0 +1,60 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = Brindlemore.jpg
+|name = Brindlemore
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="MA">{{MA}}</ref>
+|signature = 
+|species = [[Human]]<ref name="MA"/>
+|gender = Female<ref name="MA"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Light<ref name="MA"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="MA"/>
+|patronus = 
+|job = [[Professor]] of [[Defence Against the Dark Arts]]<ref name="MA"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="MA"/>
+}}
+'''[[Professor]] Brindlemore'''<ref name="Name">{{MA}} {{See image|File:Brindlemore DADA class MA.jpg}}</ref> was a [[Wizardkind|witch]] who taught [[Defence Against the Dark Arts]] at [[Hogwarts School of Witchcraft and Wizardry]] during at least the late [[2000s]] and early [[2010s]].<ref name="MA"/>{{MATimeRef}}
+
+==Magical abilities and skills==
+*'''[[Defence Against the Dark Arts]]''': As a [[Professor]] of the [[Hogwarts subjects|subject]] at Hogwarts, Brindelmore was proficient in the field of teaching others how to [[magic]]ally defend themselves against the [[Dark Arts]].<ref name="MA"/>
+
+==Behind the scenes==
+*It is possible that this individual is [[Amycus Carrow's successor]].
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+
+{{Start box}}
+{{Succession box
+|predecessor = Unknown, eventually [[Amycus Carrow]]
+|position = Professor of [[Defence Against the Dark Arts]]
+|years = ?–?
+|successor = Unknown
+}}
+{{End box}}
+
+{{Staff}}
+{{Defence Against the Dark Arts}}
+[[Category:British or Irish individuals]]
+[[Category:Defence Against the Dark Arts Professors at Hogwarts]]
+[[Category:Females]]
+[[Category:Wizards]]

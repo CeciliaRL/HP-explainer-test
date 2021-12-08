@@ -1,0 +1,51 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = dark wizard
+|image = 
+|name = Barnaby Lee's grandmother
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HM" />
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM" />
+|gender = Female<ref name="HM" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Barnaby Lee's father|Son or son-in-law]]<ref name="HM" />
+*[[Barnaby Lee's mother|Daughter or daughter-in-law]]<ref name="HM" />
+*[[Barnaby Lee]] (grandson)<ref name="HM"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Lee family]]<ref name="HM" />
+}}
+The '''grandmother''' of [[Barnaby Lee]] (whom he called his "grandmum") was a [[Wizardkind|witch]] who owned a collection of [[Dark Arts|Dark]] Artefacts. Since she never bought him toys as a child, Barnaby used to play with her artefacts instead. She also owned a [[crup]], although her grandson suspected she only did to scare [[Non-magic people|Muggles]].<ref name="HM">{{HM}}</ref>
+
+==Physical description==
+{{Quote|My grandma looks a bit like a Dementor.|A description of Barnaby's grandma's appearance|Harry Potter: Hogwarts Mystery}}
+Barnaby's grandmother was described by him as looking a bit like a [[Dementor]]; therefore her appearance can be assumed to be somewhat frail, with a skeletal appearance.<ref name="HM4CP">{{HM|4|Conjure a Patronus}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lee, Barnaby's grandmother}}
+[[Category:British individuals]]
+[[Category:Dark wizards]]
+[[Category:Females]]
+[[Category:Lee family]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

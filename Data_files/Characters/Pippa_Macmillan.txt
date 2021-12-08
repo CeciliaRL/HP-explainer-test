@@ -1,0 +1,60 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = gryffindor
+|image = PippaMacmillanHM.png
+|name = Pippa Macmillan
+|born = Between [[1 September]] [[1971]] and [[31 August]] [[1972]]
+|died = 
+|blood = [[Pure-blood]] (most likely)<ref>The [[Macmillan family]] was one of the [[Sacred Twenty-Eight]], meaning she had [[Wizardkind|wizarding]] heritage. [[Ernest Macmillan]], who attended Hogwarts shortly after her, said that his family had been wizards for nine generations.</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Brown<ref name="HM2"/>
+|eyes = Grey<ref name="HM2"/>
+|skin = Tan<ref name="HM2"/>
+|family = [[Macmillan family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="HM2"/>
+|loyalty = *[[Macmillan family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+'''Pippa Macmillan''' was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1983]] and was [[Sorting ceremony|Sorted]] into [[Gryffindor]].<ref name="HM2">{{HM|2|Packmates|1}}</ref>
+
+==Biography==
+During her second year at Hogwarts, Pippa could be seen sitting with [[Ismelda Murk]] by the fountain in the [[Courtyard]].
+
+In her [[third year]], during a full [[moon]] in late [[September]] or [[October]], she was attacked by a white [[creature]] in the [[Forbidden Forest]], thinking that it was a [[Werewolf]]. She reported to [[Poppy Pomfrey|Madam Pomfrey]], who treated her in the [[Hospital Wing]].<ref name="HM2"/> Using a [[Memory Potion]] with the help of [[Chiara Lobosca]] and [[Jacob's sibling]], she found out that the creature was actually a [[Hippogriff]] and that she had been scratched by a tree branch in the process of fleeing from it.<ref>{{HM|2|Packmates|3}}</ref>
+
+==Behind the scenes==
+*Pippa's physical appearance is one of the often-seen NPCs in {{HM}}.
+*Despite the fact that other dialogue in the "Chiara" Achievement is year adjusted, Pippa is still stated to be a [[third year]] regardless of the player's year.
+*She is a possible relative of [[Ernest Macmillan]].
+
+==Appearances==
+{{Imagecat|Images of Pippa Macmillan}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Macmillan, Pippa}}
+[[ru:Пиппа Макмиллан]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Grey-eyed individuals]]
+[[Category:Gryffindors]]
+[[Category:Macmillan family]]
+[[Category:Sorted in 1983]]
+[[Category:Wizards]]

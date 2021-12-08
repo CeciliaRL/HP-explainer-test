@@ -1,0 +1,52 @@
+{{Notability}}
+{{Conjecture}}
+{{Individual infobox
+|theme = death-eater
+|image = [[File:657px-Incarcerous.png|250px]]
+|name = Unidentified Death Eater
+|born = Pre-[[1980]]<ref name="age">Voldemort allowed underage wizards to join his ranks.</ref>
+|died = [[2 May]], [[1998]]<br/> [[Hogwarts Castle]], [[Scotland]], [[Great Britain]] (possibly)
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">Voldemort and his Death Eaters were known to despite [[Muggle-born]]s and [[Non-magic people|Muggles]], and espouse [[pure-blood supremacy]].</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF2"/>
+|gender = Male<ref name="DHF2"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="DHF2"/>
+|eyes = 
+|skin = Light<ref name="DHF2"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job =
+|house = 
+|loyalty = *[[Death Eaters]]<ref name="DHF2"/>
+**[[Tom Riddle|Lord Voldemort]]<ref name="DHF2"/>
+}}
+{{Quote|Let's go!|The Death Eater during the Battle of Hogwarts|Harry Potter and the Deathly Hallows: Part 2}}
+This [[Dark Wizard]] was a '''[[Death Eaters|Death Eater]]''' who fought at the [[Battle of Hogwarts]].<ref name="DHF2"/>
+
+==Biography==
+On [[2 May]] [[1998]], this Death Eater joined his comrades in the assault of [[Hogwarts Castle]], firstly by attempting to break down the [[protective enchantment]]s around the castle with [[spell]]s. He later fought near the [[Marble Staircase]]. Later, during the [[Battle of Hogwarts]], he was cornered while fighting in a [[first-floor corridor]] while being hit with the [[Incarcerous Spell]] cast by [[Harry Potter]] at the [[Marble Staircase]].<ref name="DHF2">{{DH|F2}}</ref>
+
+He was later seems laying down next to the staircase,<ref name="DHF2"/> implying he had [[Death|died]] from his injuries, or was simply [[Stunning Spell|unconscious]].
+
+==Behind the scenes==
+*This [[Death Eaters|Death Eater]] was played by [[James Williamson]] in {{DH|F2}}.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowany śmierciożerca, który walczył na korytarzu na pierwszym piętrze]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:Males]]
+[[Category:Unidentified Death Eaters]]

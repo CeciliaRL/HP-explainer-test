@@ -1,0 +1,60 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gringotts
+|image = [[File:Harry Potter films Goblin 01.jpg|250px]]
+|name = Unidentified goblin
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DHF2"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]<ref name="DHF2"/>
+|gender = Male<ref name="DHF2"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = Black<ref name="DHF2"/>
+|skin = Light<ref name="DHF2"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Banker at [[Gringotts Wizarding Bank]]<ref name="DHF2"/>
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="DHF2"/>
+}}
+This '''goblin''' worked at [[Gringotts Wizarding Bank]] in [[1998]] after the [[Ministry of Magic]]'s fall to the [[Death Eaters]].<ref name="DHF2"/>
+
+==Biography==
+===1998===
+He is present on [[1 May]], [[1998]] when [[Harry Potter]], [[Hermione Granger]], [[Ronald Weasley|Ron Weasley]] and [[Griphook]] planned a [[Break-in of Gringotts Wizarding Bank (1998)|Break-in]] in order to get one of [[Tom Riddle|Lord Voldemort's]] [[Horcrux]]es, [[Helga Hufflepuff's Cup]], from the [[Lestrange Vault]].<ref name="DHF2">{{DH|F2}}</ref>
+
+===Later life===
+It is unknown what happened to the goblin after the break-in but he may have been killed.
+
+==See also==
+*[[Unidentified Goblin at Gringotts in 1998 (VI)]]
+
+==Behind the scenes==
+*The goblin is played by an unknown actor in {{DH|F2}}. Despite not being credited, the character is revealed in a "Behind the Scenes" feature on disc 2.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+*{{LEGO|Y2}} {{C|Appears as a generic [[Goblin]]}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+
+[[es:Duende no identificado en Gringotts en 1998 (I)]]
+[[Category:Bankers]]
+[[Category:Black-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Gringotts employees]]
+[[Category:Males]]
+[[Category:Unidentified Goblins]]

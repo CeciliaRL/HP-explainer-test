@@ -1,0 +1,35 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Sylvia
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidea=
+|job=Recording artist
+|loyalty=
+}}
+'''Sylvia''' was a [[Non-magic people|Muggle]] recording artist. She released at least one album, ''[[Baby Faced Hobo]]'', which was available for sale at [[Record Shop]] on [[Charing Cross Road]] in [[London]].<ref>{{WWHP}} {{see image|File:BabyFacedHobo.jpg}}</ref>
+
+==Appearances==
+*{{WWHP}} {{comment|name appears on album cover}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Musicians]]

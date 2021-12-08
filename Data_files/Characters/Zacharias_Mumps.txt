@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Zacharias Mumps
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="QTA"/>
+|gender = Male<ref name="QTA"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author<ref name="QTA"/>
+|house = 
+|loyalty = [[Quidditch]]<ref name="QTA"/>
+}}
+'''Zacharias Mumps''' was a [[Wizardkind|wizard]] who wrote the first full description of the game of [[Quidditch]] in [[1398]]. He emphasised the need for anti-[[Non-magic people|Muggle]] security while playing the game.<ref name="QTA">{{QTA|R|5}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Mumps, Zacharias}}
+[[de:Zacharias Mumps]]
+[[pl:Zachariasz Mumps]]
+[[fr:Zacharias Loreyon]]
+[[Category:Males]]
+[[Category:Wizards]]

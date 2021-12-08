@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = 
+|born = Before [[1978]] (possibly)<ref>It is likely that he would be of age by [[1995]], when he was a part of the [[Dark Force Defence League]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF31"/>
+|gender = Male<ref name="GOF31"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Dark Force Defence League]]<ref name="GOF31"/>
+}}
+{{Quote|Personally, I would be highly suspicious of anybody who could [[Parseltongue|converse]] with [[snake]]s, as serpents are often used in the worst kinds of [[Dark Magic]], and are historically associated with evil-doers...anyone who seeks out the company of such vicious creatures as [[Remus Lupin|werewolves]] and [[Rubeus Hagrid|giants]] would appear to have a fondness for violence.|This member's scathing criticism of [[Harry Potter]]|Harry Potter and the Goblet of Fire}}
+This '''individual''' was a [[Wizardkind|wizard]] and a member of the [[Dark Force Defence League]].<ref name="GOF31">{{GOF|B|31}}</ref>
+
+==Biography==
+In [[1995]], he was anonymously quoted by ''[[The Daily Prophet]]'' in [[Rita Skeeter]]'s article ''[[HARRY POTTER "DISTURBED AND DANGEROUS"]]''. Therein, he criticised [[Harry Potter]] for his ability to speak [[Parseltongue]], suggesting that he may be a [[Dark Wizard|dark wizard]] because of it. Likewise, he also commented on Potter's relationships with [[Remus Lupin]] and [[Rubeus Hagrid]], whom he likened to violent, "vicious creatures" for their statuses as a [[werewolf]] and [[half-giant]] respectively.<ref name="GOF31"/>
+
+==Personality and traits==
+He seemed to be extremely prejudiced towards "[[half-breed]]s" and [[Harry Potter]] for unexplained reasons, referring to them both slanderously in an obvious attempt to discredit them,<ref name="GOF31"/> although it is possible that his words were fabricated or mistranslated by the ''[[Daily Prophet]]'', a newspaper not known for its journalisitc honesty.
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Bullies]]
+[[Category:Dark Force Defence League members]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

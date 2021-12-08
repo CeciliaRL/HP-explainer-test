@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=mom
+|image=
+|name=Voice of lift
+|hideb=1
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]] (voice)<ref name="DHF1"/>
+|gender=Female<ref name="DHF1">{{DH|F1}}</ref>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=1
+|family=
+|hidem=1
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Information about which level and location at the [[British Ministry of Magic|Ministry of Magic]]<ref name="OOTP7"/>
+|house=
+|loyalty=[[British Ministry of Magic]]<ref name="OOTP7"/>
+}}
+The '''voice''' of the [[Ministry of Magic lifts|lifts]] at the [[British Ministry of Magic|Ministry of Magic]] was described as ''sweet''. Its job is to inform the person about which level and location he or she are in and/or going to.<ref name="OOTP7">{{OOTP|B|7}}</ref>
+
+==Behind the scenes==
+*The voice was provided by [[Daisy Haggard]] in {{OOTP|FA}} and {{DH|F1}}.
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{OOTP|F}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}}
+
+==Notes and references==
+{{Reflist}}
+[[ru:Голос лифта в Министерстве магии]]
+[[pt-br:Voz do elevador no Ministério da Magia]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Ministry of Magic employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

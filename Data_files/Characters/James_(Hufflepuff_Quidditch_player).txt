@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = James.jpg
+|name = James
+|born = On or before [[31 August]] [[1982]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HPVCH"/>
+|gender = Male<ref name="HPVCH"/>
+|height = 
+|weight = 
+|hair = Light<ref name="HPVCH"/>
+|eyes = 
+|skin = Light<ref name="HPVCH"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="HPVCH"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HPVCH"/>
+**[[Hufflepuff]]<ref name="HPVCH"/>
+**[[Hufflepuff Quidditch team]]<ref name="HPVCH"/>
+}}
+'''James''', first name unknown, was a [[wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]] and was [[Sorting ceremony|Sorted]] into [[Hufflepuff]]. By [[1993]], he was a member of the [[Hufflepuff Quidditch team]], playing in an unknown position.<ref name="HPVCH">{{HPV|CH}} - concept artwork for {{POA|F}}</ref>
+
+==Behind the scenes==
+*James only appeared on a piece of concept artwork for {{POA|FA}}, that can be seen in the book {{HPV|CH}}.
+*The name "James" can be read on this individual's [[Quidditch]] robes, meaning that this is the character's surname, seeing as other uniform concept arts and those seen in the actual films feature surnames only (e.g. "Potter" and "Zabini").
+
+==Appearances==
+*{{POA|F}} {{1st}} {{C|Concept artwork}}
+*{{HPV|CH}} {{C|Concept artwork}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Quidditch players]]
+[[Category:Wizards]]

@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:SeekerTrophy.png|250px]]
+|name = J. E. Prewitt
+|born = c. [[1966]] or earlier<ref>Their award gives the year of its achievement as 1978, and J. E. Prewitt would have to be at least 11 to attend Hogwarts. Also, they could not have been a [[Seeker]] when they were 11, since [[Harry Potter]], being 11, was said to be "the youngest seeker in a century".</ref>,
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Seeker]]
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''J. E. Prewitt''' was a [[wizardkind|wizard or witch]] and a student at [[Hogwarts School of Witchcraft and Wizardry]] in the late [[1970s]].<ref name="HPLE">{{HPLE|G}}</ref>
+
+==Biography==
+Prewitt played [[Seeker]] for their house [[Quidditch]] [[Quidditch team|team]], and won an award for it in [[1978]]. A fellow Seeker's name, [[D. L. Boot]] was placed alongside theirs.<ref name="HPLE"/>
+
+==Behind the scenes==
+*In {{HPLE|G}}, the text says that this individual may be a relative of "[[Molly Weasley|Molly Weasley, née Prewitt]]" [sic]. However, Molly's maiden name was "[[Prewett family|Prewett]]", not "Prewitt". It's likely that this individual's surname is simply a misspelling.
+
+==Appearances==
+*{{GOF|F}} {{comment|Name appears on trophy}}
+*{{HPLE}} {{comment|Name appears on trophy}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+{{DEFAULTSORT:Prewitt, J. E.}}
+
+[[pl:J.E. Prewitt]]
+[[pt-br:J.E. Prewitt]]
+[[Category:1960s births]]
+[[Category:British or Irish individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Seekers]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

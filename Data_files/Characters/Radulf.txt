@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Radulf
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Chaser|Catcher]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Blacksmith
+|house = 
+|loyalty = 
+}}
+'''Radulf''' (fl. [[12th century]]) was a [[Wizardkind|wizard]] blacksmith who lived in the same village as [[Goodwin Kneen]]. After [[Gunhilda Kneen]] got a touch of [[Dragon Pox]], Radulf was called in to play ''[[Chaser|Catcher]]'' (Chaser) in a game of ''[[Quidditch|Kwidditch]]'' (Quidditch) against a team from Ilkley. During the game, he took a ''[[Bludger|Blooder]]'' ([[Bludger]]) to the head when old [[Ugga]] failed to intercept it.<ref>{{QTA|R|3}}</ref>
+
+==Etymology==
+The name "Radulf" is derived from the Norse elements ráð meaning "counsel" and úlfr meaning "wolf".
+
+==Appearances==
+*{{QTA|R}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+[[de:Radulf]]
+[[fr:Radulf]]
+[[ru:Рэдальф]]
+[[pl:Radulf]]
+[[Category:British individuals]]
+[[Category:Chasers]]
+[[Category:Males]]
+[[Category:Wizards]]

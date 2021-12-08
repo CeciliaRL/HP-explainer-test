@@ -1,0 +1,47 @@
+{{Noncanon|Character}}
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = [[File:Goblet of Fire casket carriers.jpg|250px]]
+|name = Goblet of Fire casket carriers
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="GOFF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="GOFF"/>
+|gender = Males<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="GOFF"/>
+|eyes = 
+|skin = Light<ref name="GOFF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[British Ministry of Magic]] employees<ref name="GOFF"/>
+|house = 
+|loyalty = [[British Ministry of Magic]]<ref name="GOFF"/>
+}}
+This was a '''group''' of four [[Wizardkind|wizards]] that worked for the [[British Ministry of Magic|Ministry of Magic]]. In [[1994]] they delivered the [[Goblet of Fire]] to [[Hogwarts School of Witchcraft and Wizardry]] during the [[Triwizard Tournament]], and were overseen by [[Argus Filch]], [[Hogwarts Caretaker]].<ref name="GOFF">{{GOF|F}} - Chapter 6 (''The Goblet of Fire'')</ref>
+
+==Behind the scenes==
+{{Quote|The casket, then, if you please, Mr Filch.|[[Albus Dumbledore]] asks [[Argus Filch]] alone to bring the [[Goblet of Fire casket|casket]].|Harry Potter and the Goblet of Fire}}
+*In [[Harry Potter and the Goblet of Fire|the fourth novel]], the [[Goblet of Fire casket]] is small enough for a man to carry, so [[Argus Filch]] carries it by himself.<ref name="GOF12">{{GOF|B|12}}</ref> As the film version contradicts the literary canon, these men are non-canon.
+
+==Appearances==
+*{{GOF|F}} {{1st}} {{Non-canon}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

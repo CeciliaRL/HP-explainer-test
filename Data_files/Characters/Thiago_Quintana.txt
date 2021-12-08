@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Thiago Quintana
+|hideb=
+|born=In or before [[1909]] (likely)<ref>{{FB|F}} {{see image|File:Wand Permit - full.png}} - He was likely of age by the time he was a recognised wandmaker in 1926.</ref>
+|died=Sometime between [[1930]] and [[2016]]<ref name="death">According to {{PM}}, Quintana produced wands during the [[1920s]], which means he could not have died before [[1930]].</ref>
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Wandmaker]]
+|house=
+|loyalty=
+}}
+'''Thiago Quintana''' was an [[United States of America|American]] [[wizardkind|wizard]].<ref name="pottermore-1920s">{{WW|1920s-wizarding-america-en}}</ref> He, along with [[Shikoba Wolfe]], [[Johannes Jonker]], and [[Violetta Beauvais]], was one of four [[wandmaker]]s who served [[North America]] in the early [[20th century]].<ref name="pottermore-1920s" />
+
+==Biography==
+Quintana's [[wand]]s caused a sensation when they were first introduced.<ref name="pottermore-1920s" /> Sleek and unusually long in design, they produced [[spell]]s of "force and elegance". They contained a single [[White River Monster spine|spine]] taken from the back of one of the [[White River Monster]]s native to [[Arkansas]].<ref name="pottermore-1920s" /> Initially, there were fears that the species was being over-fished, but the ecological impact was lessened by the fact that only Quintana knew how to lure the creatures.<ref name="pottermore-1920s" /> He fiercely guarded this secret up until his death, after which wands containing White River Monster spine [[wand core|cores]] were no longer made.<ref name="pottermore-1920s" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{FB|F}} {{c|mentioned on wand permit application}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Quintana, Thiago}}
+
+[[de:Thiago Quintana]]
+[[pl:Thiago Quintana]]
+[[fr:Thiago Quintana]]
+[[pt-br:Thiago Quintana]]
+[[ru:Тьяго Кинтана]]
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Wandmakers]]
+[[Category:Wizards]]

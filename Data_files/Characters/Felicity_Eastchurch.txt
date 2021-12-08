@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:Felicity Eastchurch and Harry Potter.png]]
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref name="age">She was at least in her first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Female<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = Red<ref name="HBPG"/>
+|eyes = 
+|skin = White<ref name="HBPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Ravenclaw]]<ref name="HBPG"/>
+}}
+'''Felicity Eastchurch''' was a [[Wizardkind|witch]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="HBPG">{{HBP|G}} - NDS version</ref>
+
+==Biography==
+In [[1996]], she took a handbag belonging to [[Luna Lovegood]], intending to hide it from her as a prank. Luna wanted to take this handbag to [[Horace Slughorn|Professor Slughorn's]] [[Slug Club Christmas party|Christmas party]] as part of her outfit. [[Harry Potter]] had to give Felicity three [[Stink Pellets]] and six [[Wizard's Chess|chess]] pieces to get her to return the handbag. She also competed in the school [[Exploding Snap]] tournament during that year.<ref name="HBPG"/>
+
+==Etymology==
+The name "Felicity" is from the English word ''felicity'' meaning "happiness", which ultimately derives from Latin ''felicitas'' "good luck". This was one of the virtue names adopted by the Puritans around the [[17th century]].
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts Exploding Snap}}
+{{DEFAULTSORT:Eastchurch, Felicity}}
+[[pl:Felicity Eastchurch]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Bullies]]
+[[Category:Exploding Snap players]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

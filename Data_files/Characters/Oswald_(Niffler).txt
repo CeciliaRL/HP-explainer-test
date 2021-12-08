@@ -1,0 +1,34 @@
+{{DISPLAYTITLE:Oswald}}
+{{HogwartsMysterySpoiler}}
+{{Pet individual infobox
+|name = Oswald 
+|image = 
+|born = Before [[1990]]/[[1991]]<ref name="HM79" />
+|died = 
+|alias = 
+|title = 
+|species = [[Niffler]]<ref name="HM79" />
+|gender = Male<ref name="HM79" />
+|hair = 
+|eyes = 
+|skin = 
+|height = 
+|feathers = 
+|wingspan = 
+|loyalty = *[[British Ministry of Magic]]<ref name="HM79" />
+**[[Department for the Regulation and Control of Magical Creatures]]<ref name="HM79" />
+}}
+{{Quote|I believe Oswald the Niffler is burrowed in that pile of coins. He's quite shy.|[[Amos Diggory]]|Harry Potter: Hogwarts Mystery}}
+'''Oswald''' was the name of a [[Niffler]] kept in the [[Department for the Regulation and Control of Magical Creatures]] at the [[British Ministry of Magic]]. It was quite shy and had a habit of burrowing in a pile of coins to avoid attention.<ref name="HM79">{{HM|7|9}}</ref>
+
+==History==
+When [[Amos Diggory]] first showed the [[Department for the Regulation and Control of Magical Creatures]] to [[Jacob's sibling]] during the [[1990–1991 school year]], as part of their [[Ministry of Magic student programme|Ministry student programme]], he pointed out Oswald to them.<ref name="HM79" />
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Department for the Regulation and Control of Magical Creatures]]
+[[Category:Males]]
+[[Category:Nifflers]]

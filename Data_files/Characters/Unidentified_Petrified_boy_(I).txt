@@ -1,0 +1,51 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = Unidentified_petrified_student.jpg
+|name = Unidentified Petrified boy
+|born = Between [[1 September]] [[1971]] and [[31 August]] [[1978]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''[[Wizardkind|wizard]]''' attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]].
+
+==Biography==
+This individual began attending [[Hogwarts School of Witchcraft and Wizardry]] between [[1 September]] [[1983]] and 1 September [[1989]].<ref name="age">He appeared during the [[1989–1990 school year]], and he could have been in any year.</ref>
+
+During the [[1989–1990 school year]], he was found [[Petrification|Petrified]] in the [[Clock Tower Courtyard]].<ref name="HM62">{{HM|6|2}}</ref> He was later brought to the [[Hospital Wing]] along with [[Unidentified Petrified Gryffindor girl|another Petrified student]].<ref name="HM67">{{HM|6|7}}</ref>
+
+Eventually, he was cured with the other victims.<ref name="HM630">{{HM|6|43}}</ref>
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Sorted in the 1980s]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

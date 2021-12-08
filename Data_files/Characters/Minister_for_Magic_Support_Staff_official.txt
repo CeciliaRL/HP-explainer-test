@@ -1,0 +1,56 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = [[File:Latest.jpg|250px]]
+|name = Minister for Magic Support Staff official
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref>As he was working at such high station at the Ministry during Voldemort's rule, it is higly unlikely he was Muggle-born.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[British Ministry of Magic|Ministry of Magic]] Official
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Minister for Magic and Support Staff]]
+}}
+{{Quote|All right, all right! Let's calm down, shall we? Let's get back to work, please. Calm down.|This individual calms the [[British Ministry of Magic|Ministry of Magic]] pamphlet makers after [[Harry Potter]] releases a bunch of [[Decoy Detonator]]s|Harry Potter and the Deathly Hallows: Part 1}}
+
+This '''individual''' was a [[British Ministry of Magic|Ministry of Magic]] official after the [[Fall of the Ministry of Magic]].
+
+==Biography==
+On [[2 September]], [[1997]], he calmed the Ministry pamphlet makers down after [[Harry Potter]] released a bunch of [[Decoy Detonator]]s in order to distract them and gain entrance to [[Senior Undersecretary to the Minister for Magic's office|Dolores Umbridge's office]].<ref>{{DH|F1}} - Chapter 12 (''Secret Files'')</ref>
+
+==Behind the scenes==
+[[File:Minister for Magic Support Staff official.jpg|150px|thumb|left]]
+*This individual was portrayed by [[George Potts]] in the film adaptation of {{DH|F1}}, credited as "Bald Wizard".
+
+==Appearances==
+*{{DH|F1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Minister and support staff}}
+
+[[ru:Управляющий отделом «Министр магии и обслуживающий персонал»]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Minister for Magic's Support Staff]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

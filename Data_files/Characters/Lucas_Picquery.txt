@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Lucas Picquery
+|hideb=hide
+|born= After [[1976]], [[United States of America]]
+|died=
+|blood=
+|alias=
+|title=[[Beater]]
+|hidep=
+|species=[[Human]]
+|gender=Male<ref name="UVB">{{PM}} - [[USA VERSUS BRAZIL (I)]] (Archived)</ref>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Seraphina Picquery]] (possible relative)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Beater]] for the [[American National Quidditch team]]
+|house=
+|loyalty=*[[Picquery family]]
+*[[American National Quidditch team]]
+}}
+'''Lucas Picquery'''<ref name="UVB"/> was an American [[wizardkind|wizard]] who played as a [[Beater]] for the [[2014]] [[American National Quidditch team]]. According to [[Ludovic Bagman]] in a report to the ''[[Daily Prophet]]'', Beaters Picquery and [[Pringle]] would have to "''find better form''" if they were to best the [[Brazilian National Quidditch team|Brazilian]] Beaters [[Rafael Santos|Santos]] and [[Carlos Clodoaldo|Clodoaldo]] in their semi-final match on [[4 July]], [[2014]].<ref name="PM">{{PM}} - [[PLACE YOUR BETS WITH LUDO BAGMAN]] (Archived)</ref>
+
+==Biography==
+Bagman, however, had spoken too soon.<ref name="UVB"/> On the first day of the match on [[4 July]], Picquery sent a [[Bludger]] right into the face of the American [[Keeper]] [[Susan Blancheflower]], prompting her to leap onto his broomstick to reprimand him, leaving the goal wide open and allowing [[Alejandra Alonso]] to score a goal.<ref name="UVB"/>
+
+During the playoffs for third place against [[Japan]] on [[9 July]], Picquery mostly kept his head down until the end when he stopped his own [[Seeker]] for competing against [[Noriko Sato]] for the [[Golden Snitch|Snitch]]. Him and [[Darius Smackhammer]] were caught in a broom-lock, although they embraced the other team upon landing.
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Picquery, Lucas}}
+
+[[de:Lucas Piquery]]
+[[es:Lucas Picquery]]
+[[fr:Lucas Picquery]]
+[[pl:Lucas Picquery]]
+[[ru:Лукас Пиквери]]
+[[Category:20th century births]]
+[[Category:American individuals]]
+[[Category:Beaters]]
+[[Category:Males]]
+[[Category:Picquery family]]
+[[Category:Wizards]]

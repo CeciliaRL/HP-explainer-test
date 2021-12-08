@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Queen Maeve.jpg|250px]]
+|name = Queen Maeve
+|born = Before [[First millennium A.D.|993]]
+|died = 
+|blood = [[Muggle-born]] or [[Half-blood]] (possibly)<ref name="HBP16">{{HBP|B|16}}</ref>
+|marital = 
+|nationality = [[Ireland|Irish]]
+|alias = 
+|title = Queen
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Red
+|eyes = Blue
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Instructor of [[Magic]]
+|house = 
+|loyalty = 
+}}
+'''Queen Maeve''' was a famous [[Ireland|Irish]] [[Wizardkind|witch]] who lived during the [[Middle Ages]]. 
+
+==Biography==
+Prior to the establishment of [[Hogwarts School of Witchcraft and Wizardry]], she was involved in the training of young [[Wizardkind|wizards and witches]] in her native [[Ireland]]. She was immortalised on a [[Chocolate Frog Card]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+==Behind the scenes==
+*Her title may indicate she was [[Muggle-born]] or [[Half-blood]], as [[Remus Lupin]] mentioned there are no princes in the [[wizarding world]]<ref name="HBP16">{{HBP|B|16}}</ref> and thus, probably no queens or it means that she married a [[Non-magic people|muggle]] king.
+
+==Etymology==
+The name "Maeve" is the anglicised form of the Gaelic name [[Wikipedia:Medb|Medb]] meaning "intoxicating". In Irish legend this was the name of a warrior queen of Connacht. Her fight against Ulster and the hero Cúchulainn is told in the Irish epic 'The Cattle Raid of Cooley'.
+
+==Appearances==
+{{Imagecat|Images of Maeve}}
+*{{PS|G}} {{1st}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+
+[[de:Königin Maeve]]
+[[es:Maeva]]
+[[fi:Maeve]]
+[[fr:Reine Maëva]]
+[[it:Maeve]]
+[[ru:Королева Маб]]
+[[pl:Królowa Maeve]]
+[[Category:Blue-eyed individuals]]
+[[Category:Females|Maeve, Queen]]
+[[Category:Historical figures]]
+[[Category:Irish individuals|Maeve, Queen]]
+[[Category:Royalty|Maeve, Queen]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizards|Maeve, Queen]]

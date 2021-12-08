@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Shruti Dev
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = 
+}}
+'''Shruti Dev''' was a [[Ravenclaw]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She was seen walking around the school during the [[1993-1994 school year]].
+
+==Etymology==
+Shruti is an Indian name meaning "musical pitch." Dev is a Sanskrit word meaning "divine; god."
+
+==Behind the scenes==
+*This student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|PlayStation 2 version]] of {{POA}}.
+*Based on her name, it can be presumed that she is of [[India]]n descent.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dev, Shruti}}
+[[pl:Shruti Dev]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

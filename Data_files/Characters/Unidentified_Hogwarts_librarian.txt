@@ -1,0 +1,44 @@
+{{Alternate reality}}
+{{Individual infobox
+|name = Unidentified Hogwarts librarian
+|born =
+|died =
+|alias =
+|title = [[Hogwarts Librarian|Librarian]]<ref name="CC"/>
+|signature =
+|nationality = {{GBorIE}}
+|blood = 
+|species = [[Human]]<ref name="CC"/>
+|gender =
+|eyes =
+|hair =
+|skin =
+|weight =
+|height =
+|family =
+|romances =
+|wand =
+|animagus =
+|boggart =
+|patronus =
+|job = [[Hogwarts Librarian]]<ref name="CC"/>
+|house =
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="CC"/>
+|theme = hogwarts-staff
+}}
+{{Quote|Ssshhh!|The librarian|Harry Potter and the Cursed Child}}
+This '''librarian''' was a [[Wizardkind|wizard or witch]] who worked at [[Hogwarts School of Witchcraft and Wizardry]] in the [[alternate reality]] created by [[Albus Potter]] and [[Scorpius Malfoy]] on their journey to save [[Cedric Diggory]] in [[2020]].<ref name="CC">{{CC|B|2|16}}</ref> They may or may not have still worked in the [[Hogwarts Library]] in the primary reality.
+
+==Appearances==
+*{{CC}} {{1st}} {{AR}}
+*{{CC|P}} {{AR}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowana bibliotekarka Hogwartu]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Library]]
+[[Category:Individuals from alternate realities]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified Hogwarts employees]]
+[[Category:Wizards]]

@@ -1,0 +1,42 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Elsie Barrett
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|nationality=
+|species=[[Human]]<ref name="WU"/>
+|gender=Female<ref name="WU"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Elsie Barrett''' was a [[Wizardkind|witch]].<ref name="WU"/>
+
+In the [[21st century]], the [[Calamity]] transported her [[Canary Cream]] around the world.<ref name="WU">{{WU}}</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Barrett, Elsie}}
+[[Category:Females]]
+[[Category:Wizards]]

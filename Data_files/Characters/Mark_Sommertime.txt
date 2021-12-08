@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Mark Sommertime
+|born = Between [[1723]] and [[1727]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+**[[Slytherin Quidditch team]]
+}}
+'''Mark Sommertime''' (b. [[1720s]]) was a [[Slytherin]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1730s]] and [[1740s]]. He was [[Quidditch Captain|Captain]] of the [[Slytherin]] [[Quidditch]] [[Slytherin Quidditch team|team]] from [[1736]] to [[1740]].<ref>{{HPPS}}, p. 349 {{see image|File:Slytherin Captains Plaque 2.jpg}}</ref>
+[[File:Slytherin Captains Plaque 2.jpg|236x236px|thumb|left|{{PAGENAME}}'s name appearing on a plaque]]
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Robin Higgy]]
+|position=[[Quidditch Captain|Captain]] of the [[Slytherin Quidditch team]]
+|years=[[1736]]—[[1740]]
+|successor=[[Russell Lucky]]
+}}
+{{End box}}
+
+{{DEFAULTSORT:Sommertime, Mark}}
+
+[[pl:Mark Sommertime]]
+[[pt-br:Mark Sommertime]]
+[[ru:Марк Саммертайм]]
+[[fr:Mark Sommertime]]
+[[Category:1720s births]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1730s]]
+[[Category:Wizards]]

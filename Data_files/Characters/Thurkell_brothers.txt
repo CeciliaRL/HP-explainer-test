@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = squib
+|image = [[File:Thaddeus Thurkell.jpg|250px]]
+|name = Thurkell brothers
+|born = [[17th century]]<ref name="COSG"/>
+|died = 
+|blood = [[Squib]]s<ref name="COSG"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = *[[Human]]s (formerly)<ref name="COSG"/>
+*[[Hedgehog]]s<ref name="COSG"/>
+|gender = Males<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Thaddeus Thurkell]] (father)<ref name="COSG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Thurkell family]]<ref name="COSG"/>
+}}
+The '''Thurkell brothers''' (fl. [[17th century]]) were the seven sons of [[Thaddeus Thurkell]]. They all turned out to be [[Squib]]s. This made their [[Wizardkind|wizard]] father so angry that he [[Human to hedgehog spell|transfigured]] them into [[hedgehog]]s out of disgust.<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+It is rare for a single Squib to be born into a [[Wizarding world|wizarding]] family. The fact that all seven of the Thurkell brothers were non-magical seems to indicate that there was something out of the ordinary about their case.
+
+==Appearances==
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+[[es:Hermanos Thurkell]]
+[[fi:Veljet Thurkell]]
+[[fr:Fils de Thadée Thurkell]]
+[[pl:Synowie Thurkella]]
+[[ru:Семь сыновей Фаддеуса Феркла]]
+[[Category:17th century births]]
+[[Category:Historical figures]]
+[[Category:Males|Thurkell]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Squibs|Thurkell]]
+[[Category:Thurkell family]]

@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Phoebus Penrose
+|born = Before [[1981]]<ref name="age">As he was Head of a Research Committee by 1998, he was presumably over 17.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|alias = 
+|title = [[Professor]]<ref name="DP"/>
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Head of [[Ministry of Magic research committee|a research committee]] of the [[British Ministry of Magic|Ministry of Magic]]<ref name="DP"/>
+|house = 
+|loyalty = [[British Ministry of Magic]]<ref name="DP"/>
+}}
+{{Quote|Muggles are more observant than we might like to think.|Professor Penrose|Daily Prophet Newsletters}}
+'''Professor Phoebus Penrose''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who worked for the [[British Ministry of Magic|Ministry of Magic]]. He was head of [[Ministry of Magic research committee|the committee]] that wrote the report "''[[A Study into Muggle Suspicions about Magic]]''".<ref name="DP">{{DP}}: [[31 July]], [[1998]], Page 1</ref>
+
+==Behind the scenes==
+*Phoebus was referred to in the ''[[Daily Prophet]]'' by the title "[[Professor]]." He likely had the title for conducting wizarding research and development. However, it is unknown whether he ever taught at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], or for another wizarding school.
+
+==Etymology==
+The name "Phoebus" is the Latinized form of the Greek name Φοιβος (Phoibos), which meant "bright, pure". This was an epithet of the Greek god Apollo.
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Penrose, Phoebus}}
+
+{{Ministry Departments unknown levels}}
+
+[[de:Phoebus Penrose]]
+[[es:Phoebus Penrose]]
+[[pl:Phoebus Penrose]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Professors]]
+[[Category:Wizards]]

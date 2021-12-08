@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|name = Winged St Mungo's patient
+|image = 
+|born = 
+|died = 
+|blood = 
+|nationality = [[Great Britain|British]]<ref name="OOTP22"/>
+|alias = 
+|title = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="OOTP22"/>
+|gender = Female<ref name="OOTP22"/>
+|hair = 
+|skin = 
+|eyes = 
+|height = 
+|weight = 
+|family = [[Unidentified St Mungo's girl patient's father|Father]]<ref name="OOTP22"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|house = 
+|job = 
+|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="OOTP22"/>
+}}
+This '''young [[Wizardkind|witch]]''' went to St Mungo's in [[December]] [[1995]] with her [[Unidentified St Mungo's girl patient's father|father]] because she had sprouted wings. Her father was forced to carry her around like a balloon because of this.<ref name="OOTP22">{{OOTP|B|22}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{St Mungo's}}
+[[es:Paciente alada de San Mungo]]
+[[pt-br:Paciente do St Mungus com asas]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:St Mungo's patients]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

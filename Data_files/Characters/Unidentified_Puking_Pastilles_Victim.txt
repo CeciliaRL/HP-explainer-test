@@ -1,0 +1,27 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Puking Pastilles Victim.jpg|thumb]]
+|name = Unidentified Puking Pastilles Victim
+|nationality = [[Great Britain|British]]<ref name="HBPF"/>
+|species = [[Human]]<ref name="HBPF"/>
+|gender = Male<ref name="HBPF"/>
+|hair = Brown<ref name="HBPF"/>
+|skin = White<ref name="HBPF"/>
+|loyalty = [[Weasleys' Wizard Wheezes]]<ref name="HBPF"/>
+|theme = wizard
+}}
+This '''boy''' was a [[Wizardkind|wizard]] who went to [[Diagon Alley]] at the [[Weasleys' Wizard Wheezes|Weasley Wizard Wheezes]] in [[1996]] and bought some [[Puking Pastille]]s. [[Fred and George Weasley]] who were the shop owners, gave him a [[cauldron]] when he was about to vomit.<ref name="HBPF">{{HBP|F}}</ref>
+
+==Behind the scenes==
+*This boy was portrayed by an unknown actor in {{HBP|FA}}.
+
+==Appearances==
+*{{HBP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

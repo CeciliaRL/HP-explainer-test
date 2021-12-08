@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Hamish MacFarlan
+|born = Before [[1940]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="QTAR"/>
+|alias = 
+|title = [[Quidditch Captain|Captain]] (formerly)<ref name="QTAR"/>
+|signature = 
+|species = [[Human]]<ref name="QTAR"/>
+|gender = Male<ref name="QTAR"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Professional [[Quidditch]] player<ref name="QTAR"/>
+*[[Head of Department|Head]] of the [[Department of Magical Games and Sports]]<ref name="QTAR"/>
+|house = 
+|loyalty = *[[Montrose Magpies]]<ref name="QTAR"/>
+*[[British Ministry of Magic]]<ref name="QTAR"/>
+**[[Department of Magical Games and Sports]]<ref name="QTAR"/>
+}}
+'''Hamish MacFarlan''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who was a [[Quidditch]] player for the [[Montrose Magpies]], [[Quidditch Captain|captain]]ing the side from [[1957]] to [[1968]]. After retiring from the game, MacFarlan became the head of the [[Department of Magical Games and Sports]].<ref name="QTAR">{{QTA|R}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 7 employees}}
+
+{{DEFAULTSORT:MacFarlan, Hamish}}
+
+[[de:Hamish MacFarlan]]
+[[es:Hamish MacFarlan]]
+[[fr:Hamish MacFarlan]]
+[[pl:Hamish MacFarlan]]
+[[ru:Хамиш_МакФерлeн]]
+[[Category:British individuals]]
+[[Category:Heads of the Department of Magical Games and Sports]]
+[[Category:Males]]
+[[Category:Quidditch Captains]]
+[[Category:Wizards]]

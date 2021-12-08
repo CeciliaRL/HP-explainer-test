@@ -1,0 +1,44 @@
+{{Transcribed image|File:Marauder's_Map_POA_ILL.png}}
+{{Individual infobox
+|theme = wizard
+|image = Thomas vace.png
+|name = Thomas Vace
+|born = Before [[1993]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Thomas Vace''' was a [[Wizardkind|wizard]] and student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He was seen in the [[Map Room]] with [[Timothy Butler]] on the [[Marauder's Map]] in the [[1993-1994 school year]].<ref name="POA10">{{POA|B|10}} {{comment|Illustrated Edition}}</ref> 
+
+==Appearances==
+*{{POA}} {{1st Mention}} {{comment|Illustrated Edition}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Vace, Thomas}}
+
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

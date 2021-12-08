@@ -1,0 +1,53 @@
+{{Imageless}}
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="house">{{POA|G}} {{C|PS2 version}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+'''Nerissa Brody''' was a [[Slytherin]]<ref name="house" /> student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She competed in the school [[Exploding Snap]] tournament during the [[1996-1997 school year]].
+
+==Etymology==
+*The name "Nerissa" was created by Shakespeare for a character in his play ''The Merchant of Venice'' ([[1596]]). He possibly took it from Greek Νηρεις (''Nereis'') meaning "nymph, sea sprite", ultimately derived from the name of the Greek sea god ''Nereus'', who supposedly fathered them.
+*The word "brody" is slang for intentionally spinning in circles and sliding in an automobile.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts Exploding Snap}}
+{{DEFAULTSORT:Brody, Nerissa}}
+[[pl:Nerissa Brody]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Exploding Snap players]]
+[[Category:Females]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

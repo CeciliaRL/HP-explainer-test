@@ -1,0 +1,34 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|name = Benjy Williams
+|born = before [[1982]]<ref>As he was employed by [[Puddlemere United]] by [[1999]] he was presumably over 17.</ref>
+|nationality = [[England|English]]
+|title = [[Seeker]]
+|species = [[Human]]
+|gender = Male
+|job = [[Seeker]] for [[Puddlemere United]]
+|loyalty = [[Puddlemere United]]
+|theme = quidditch-player
+|hideb = 
+|hidep = 
+|hidef = yes
+|hidem = yes
+}}'''Benjy Wiliams''' was an [[England|English]] [[Wizardkind|wizard]] who played as the [[Seeker]] for [[Puddlemere United]].<ref name="wizardsw">"[http://www.hplex.info/wizards/a-z/w.html Wizards, Witches and Beings: W]" on the Harry Potter Lexicon</ref> His catch of the Snitch, amidst the chaos of the riot during a 1999 match against the [[Holyhead Harpies]], won the game and brought it to a close<ref>[[The Daily Prophet (real-world)|Daily Prophet Newsletters]], [[1 October]], [[1999]], Page 2</ref>. He and other team members had to be escorted to safety by [[Hit Wizard|Hit-Wizards]] from the Magical Law Enforcement Squad<ref>https://www.hp-lexicon.org/character/benjy-williams/</ref>.
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Williams, Benjy}}
+[[es:Benjy Williams]]
+[[pl:Benjy Williams]]
+[[ru:Бэнджи Уильямс]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Williams family]]
+[[Category:Wizards]]

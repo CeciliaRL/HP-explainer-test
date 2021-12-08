@@ -1,0 +1,32 @@
+{{HogwartsMysterySpoiler}}
+{{Pet individual infobox
+|image = 
+|name = Tarragon
+|born = 
+|died = Before the [[1988–1989 school year]] (possibly)<ref name="death">Jae refers to his dog in the past tense, implying that the dog may have been deceased.</ref>
+|alias = 
+|title = 
+|species = [[Dog]]<ref name="HM5PP"/>
+|gender = Male<ref name="HM5PP"/>
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Jae Kim]] (owner)<ref name="HM5PP"/>
+}}
+{{Quote|[[Fang]] remainds me a bit of my childhood dog... his name was Tarragon.|Jae Kim|Harry Potter: Hogwarts Mystery}}
+'''Tarragon''' was a [[dog]] owned by [[Jae Kim]].<ref name="HM5PP">{{HM|5|Portrait Panic}}</ref>
+
+==Behind the scenes==
+*[[Wikipedia:Tarragon|Tarragon]] is a species of herb in the sunflower family, particularly known for its medicinal and culinary uses: it is one of the four ''[[Wikipedia:Fines herbes|fines herbes]]'' of French ''haute cuisine''.<ref>{{Wikilink|Tarragon}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individual dogs]]
+[[Category:Jae Kim's possessions]]
+[[Category:Males]]

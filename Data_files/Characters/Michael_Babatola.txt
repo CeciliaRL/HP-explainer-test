@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = muggle
+|image = [[File:MichaelBabatola.png|250px]]
+|name = Michael Babatola
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="FBC51" />
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBC51" />
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC51" />
+|gender = Male<ref name="FBC51" />
+|height = 
+|weight = 
+|hair = Dark brown<ref name="FBC51" />
+|eyes = Brown<ref name="FBC51" />
+|skin = Dark<ref name="FBC51" />
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Nurse at [[St David's Hospital]]<ref name="FBC51" />
+|house = 
+|loyalty = [[St David's Hospital]]<ref name="FBC51" />
+}}
+'''Michael Babatola''' was a [[Great Britain|British]] [[Non-magic people|Muggle]] nurse who worked at [[St David's Hospital]].<ref name="FBC51">{{FBC|5|1}}</ref>
+
+==Biography==
+Babatola was an important eyewitness in an investigation led by [[Mathilda Grimblehawk]] and her [[Mathilda Grimblehawk's partner|partner]], concerning the disappearance of [[Bilius Finbok]], a [[Ministry of Magic]] employee.<ref name="FBC51" />
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Imagecat|Images of Michael Babatola}}
+{{DEFAULTSORT:Babatola, Michael}}
+[[pl:Michael Babatola]]
+[[fr:Michael Babatola]]
+[[ru:Майкл Бабатола]]
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

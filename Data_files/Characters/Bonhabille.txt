@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Madame Bonhabille
+|hideb=hide
+|born=c. [[19th century]]<ref name="PM"/>
+|died=
+|blood=
+|marital=
+|alias=
+|title= [[Madam]]e<ref name="PM"/>
+|signature=
+|nationality = [[France|French]]<ref name="PM"/>
+|species = [[Human]]<ref name="PM"/>
+|gender = Female<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job= Hat-maker<ref name="PM"/>
+|house=
+|loyalty=
+}}
+'''Madame Bonhabille''' (fl. [[1876]]) was an established [[France|French]] [[Wizardkind|witch]] and hat-maker, based in [[Paris]] in the late [[19th century]].<ref name="PM"/>
+
+==Biography==
+In [[1876]], [[Eupraxia Mole|Professor Eupraxia Mole]], [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]], commissioned Madame Bonhabille to make a new custom-made hat for [[Peeves]], the resident [[Poltergeist]]. This was in an attempt to calm Peeves down after then-[[caretaker]] [[Rancorous Carpe]] devised an "[[Rancorous Carpe's trap|elaborate trap]]" to banish him from the school premises.<ref name="PM">{{WW|peeves}}</ref>
+
+==Etymology==
+In French, her name translates to well-dressed.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Madame Bonhabille]]
+[[fr:Bonhabit]]
+[[pl:Madame Bonhabille]]
+[[pt-br:Madame_Bonhabille]]
+[[ru:Мадам Бонабилль]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Shop owners]]
+[[Category:Tailors]]
+[[Category:Wizards]]

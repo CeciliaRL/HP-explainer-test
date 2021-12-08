@@ -1,0 +1,63 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Quidditch Player portrait.JPG|250px]]
+|name = Unidentified Gryffindor Seeker
+|born = 
+|died = Before [[1991]] (possibly)
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Seeker]]
+*[[Head of Gryffindor House]]<ref name="MHP">{{MHP}} (see [http://www.flickr.com/photos/karen_roe/7366145410/in/set-72157630012281279/ this image])</ref>
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Red
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Head of Gryffindor House]]
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+**[[Gryffindor Quidditch team]]
+}}
+{{Quote|[[Unidentified Gryffindor man (II)|You barmy old codger]]! Give me back my Snitch!|The Seeker's portrait to the portrait of the old man|Harry Potter and the Order of the Phoenix (video game)}}
+
+This '''individual''' was a [[wizardkind|wizard]] who, in his lifetime, was a [[Seeker]] and [[Head of Gryffindor House]].<ref name="MHP" />
+
+==Biography==
+A [[portrait]] of this wizard was hung in [[Gryffindor Tower]]. In [[1995]], he lost his [[Golden Snitch]]. [[Harry Potter]] found the Snitch in the [[Unidentified Gryffindor man (II)|portrait of an old man]]. As a reward, the [[Seeker]] gave Harry one of his Snitches back, which he had been keeping behind his frame.<ref name="OOTPG">{{OOTP|G}}</ref>
+
+==Behind the scenes==
+*In the [[Harry Potter and the Order of the Phoenix (video game)|video game adaptation]] of {{OOTP}}, he was credited as '''Quidditch Player''' and was voiced by [[Adrian Fergus-Fuller]]. Unlike the other speaking portraits in the Gryffindor Common Room in the game, he does not reappear in the [[Harry Potter and the Half-Blood Prince (video game)|video game adaptation]] of {{HBP}}.
+
+==Appearances==
+*{{OOTP|G}} {{1st}} {{Portrait}}
+*{{WWHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts towers}}
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Male Gryffindor Quidditch Seeker}}
+
+[[es:Buscador de Gryffindor no identificado]]
+[[pl:Niezidentyfikowany szukający Gryffindoru]]
+[[Category:British or Irish individuals]]
+[[Category:Heads of House]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

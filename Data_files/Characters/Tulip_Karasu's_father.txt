@@ -1,0 +1,56 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = 
+|born = Before [[1970s]]
+|died = 
+|blood = 
+|marital = Married
+|nationality = [[Great Britain|British]]<ref name="HM37"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM37"/>
+|gender = Male<ref name="HM37"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Mary Karasu]]
+*[[Rosa Karasu]]
+*[[Tulip Karasu's mother|Wife]]<ref name="HM37"/>
+*[[Tulip Karasu]] (daughter)<ref name="HM37"/>
+*[[Iris]] (sister or sister-in-law)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employee of the [[Department of Magical Law Enforcement]]<ref name="HM37"/>
+|house = 
+|loyalty = *[[Karasu family]]<ref name="HM37"/>
+*[[British Ministry of Magic]]<ref name="HM37"/>
+**[[Department of Magical Law Enforcement]]<ref name="HM37"/>
+}}
+'''Mr Karasu''' was a [[Wizardkind|wizard]] who worked at the [[Department of Magical Law Enforcement]] in the [[British Ministry of Magic]].<ref name="HM37">{{HM|3|7}}</ref>
+
+At some point before [[1986]], he received a [[curse]]d [[pocket watch]] from a vexed [[Dark Wizard]]. Whether he had wronged him or he was taking out his anger on a second party is unknown.
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+{{DEFAULTSORT:Karasu, Tulip father}}
+[[Category:British individuals]]
+[[Category:Department of Magical Law Enforcement personnel]]
+[[Category:Karasu family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

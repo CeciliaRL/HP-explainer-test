@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme = grindelwald-acolyte
+|image = 
+|name = Unidentified Acolyte
+|born = Before [[1927]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COGF"/>
+|gender = Male<ref name="COGF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Gellert Grindelwald]]<ref name="COGF"/>
+**[[Alliance|The Alliance]]<ref name="COGF"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] and one of the [[Gellert Grindelwald's acolytes|acolytes]] of [[Gellert Grindelwald]] in the [[1920s]].<ref name="COGF">{{COG}}</ref>
+
+==Behind the scenes==
+*This individual was played by [[David Guinan-Browne]] in {{COG}}.<ref name="IMDB">{{IMDb name|9503752|David Guinan-Browne}}</ref><ref>[https://www.backstage.com/u/david-guinan-browne/ Backstage - David Guinan-Browne]</ref>
+
+==Appearances==
+*{{COG}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Acólito no identificado]]
+[[pl:Nieznany akolita]]
+[[Category:Dark wizards]]
+[[Category:Males]]
+[[Category:Members of the Alliance]]
+[[Category:Unidentified individuals]]

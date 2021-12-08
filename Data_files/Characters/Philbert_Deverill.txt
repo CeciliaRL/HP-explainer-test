@@ -1,0 +1,48 @@
+
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Philbert Deverill
+|born = before [[1981]]<ref>As he was employed by the [[Puddlemere United]] by 1998, he was presumably over 17.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = Human
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Barnabas Deverill]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Manager of [[Puddlemere United]] (formerly)
+|house = 
+|loyalty = [[Puddlemere United]]
+}}
+'''Philbert Deverill''' was a [[Wizardkind|wizard]] who was the manager of [[Quidditch]] [[Quidditch team|team]] [[Puddlemere United]]<ref name=":0">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[8 February]], [[1999]], Page 3</ref>. He once said to the [[Daily Prophet]] that Puddlemere United would change their robe colours from mud-brown to something "''more striking''"<ref name=":0" />. He was as mystified as everyone else when his side hit a winning streak.
+
+==Etymology==
+The name "Philbert" is an early variant of ''Filibert'' altered by association with Greek φιλος (''philos'') "dear, beloved". This was the name of a 7th-century Frankish saint. Another famous bearer was Philibert de l'Orme (1510-1570), a French Renaissance architect.
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Deverill, Philbert}}
+[[pl:Philbert Deverill]]
+[[Category:British individuals]]
+[[Category:Deverill family]]
+[[Category:Males]]
+[[Category:Quidditch managers]]
+[[Category:Wizards]]

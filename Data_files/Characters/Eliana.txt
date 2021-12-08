@@ -1,0 +1,46 @@
+{{Individual infobox
+|image = [[File:Eliana.png]]
+|name = Eliana
+|born = 
+|died = 
+|title = 
+|nationality = 
+|marital = Married<ref name="WBoS" />
+|species = [[Human]]<ref name="WBoS" />
+|gender = Female<ref name="WBoS" />
+|hair = Dark brown<ref name="WBoS" />
+|skin = White<ref name="WBoS" />
+|eyes = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|family = *[[Eliana's parents|Parents]]<ref name="WBoS" />
+*[[Illyius]] (husband)<ref name="WBoS" />
+|loyalty = [[Mountain village]]<ref name="WBoS" />
+|theme = wizard
+}}'''Eliana''' was a young [[wizardkind|witch]] who featured in the ancient story of [[Illyius]].<ref name="WBoS" />
+
+==Biography==
+According to legend, Eliana was a young, beautiful [[wizardkind|witch]] who long ago lived in [[wizardkind|wizarding]] [[Illyius' village|village in the mountains]]. In the dense forest that surrounded the hamlet, there resided a [[Dark Wizard|Dark wizard]], [[Raczidian]]. The villagers and Raczidian managed to co-exist peacefully for many years; he left them alone, and, in return, they stayed away from the part of the woods where his fortess resided.<ref name="WBoS">{{WBS}}</ref>
+
+One day, however, Eliana caught the special attention of Raczdian while she was out gathering [[berry|berries]] in the forest. Taken by her, he decided she would make him the perfect wife, and he thus sent a missive to her [[Eliana's parents|parents]] demanding her hand in marriage. They refused. Raczidian then threatened to send his Dementors to destroy the village unless they delivered Eliana to him.<ref name="WBoS" />
+
+The village elders conferred with each other and agreed to resist. Eliana was sent to the shack of [[Illyius]], a shy, poor orphan who had been ordered to sit out the battle and keep Eliana company because his [[mouse]] [[Patronus Charm|Patronus]] was perceived as being too feeble to be of any assistance in the battle.<ref name="WBoS" />
+
+At first, the villagers were able to stave off the hoard of Dementors with the collective force of their Patronuses, but gradually the sheer number of foes began to overwhelm them. Eliana begged Illyius to do something. He cast the Patronus Charm, and despite its size, the mouse shone brilliantly, bringing the Dementors to a halt. Raczidian then decided to enter the fray himself. He attempted to summon a Patronus to ward off Illyius's mouse, but because he was not pure of heart, [[maggot]]s shot from his [[Raczidian's wand|wand]] instead and devoured him.<ref name="WBoS" />
+
+Eliana went on to marry Illyius, who was hailed as a hero, and lived a long, happy life.<ref name="WBoS" />
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Eliana]]
+[[fr:Eliana]]
+[[pl:Eliana]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Married individuals]]
+[[Category:Wizards]]

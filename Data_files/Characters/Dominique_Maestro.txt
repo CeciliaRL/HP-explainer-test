@@ -1,0 +1,44 @@
+{{Transcribed image|File:Dominique Maestro.jpg}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Dominique Maestro
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="POAF"/>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Dominic Maestro]] (possibly)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=[[Maestro family]]<ref name="POAF"/>
+}}
+'''Dominique Maestro''' was a [[Wizardkind|wizard or witch]] whose name was carved into a wood panel on the wall of [[Sybill Trelawney|Professor Trelawney]]'s [[Divination Classroom]].<ref name="POAF">{{POA|F}} - Chapter 21 (''Professor Trelawney's Prediction'') {{see image|File:Dominique Maestro.jpg}}</ref><ref>[http://www.the-leaky-cauldron.org/2004/5/15/los-angeles-motion-picture-arts-sciences-contemporary-set-exhibit-report ''Prisoner of Azkaban'' set report] from the Leaky Cauldron</ref>
+
+==Behind the scenes==
+*The name of this character is a tribute to Dominic Masters, who worked as an assistant art director on the first three [[Harry Potter films|''Harry Potter'' films]].<ref name="IMDB">[http://www.imdb.com/name/nm0557666/?ref_=ttfc_fc_cr120 Dominic Master's profile on IMDb]</ref>
+
+==Appearances==
+*{{POA|F}} {{1st Mention}} {{Comment|Name seen on wood panel}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Maestro, Dominique}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Maestro family|Dominique]]
+[[Category:Wizards|Maestro, Dominique]]

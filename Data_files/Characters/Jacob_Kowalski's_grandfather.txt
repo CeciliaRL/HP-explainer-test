@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Jacob Kowalski's grandfather
+|born = [[Poland]] (most likely)
+|died = 
+|blood = [[Non-magic people|No-Maj]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Jacob Kowalski's grandmother|possible wife]] 
+*[[Jacob Kowalski]] (grandson)
+*[[Jacob Kowalski's brother|Mr Kowalski]] (grandson)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+The '''grandfather''' of [[Jacob Kowalski]] lived in the early [[20th century]].<ref name="FB80">{{FB|S|80}}</ref>
+
+During his lifetime, he enjoyed [[Pigeon coop|keeping]] [[pigeon]]s, a hobby that he apparently passed on to his grandson.<ref name="FB80" /> [[Queenie Goldstein]] learned about his pigeon-keeping while [[Legilimency|reading]] Jacob's thoughts in [[1926]] on a [[Rooftop with pigeon coop|rooftop]].<ref name="FB80" />
+
+==Appearances==
+*{{FB|F}} {{1st Mention}}
+*{{FB|S}} {{Mention}}
+
+==Notes and references==
+{{DEFAULTSORT:Kowalski, Jacob grandfather}}
+{{Reflist}}
+[[pl:Dziadek Jacoba Kowalskiego]]
+[[fr:Grand-père de Jacob Kowalski]]
+[[Category:Kowalski family]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

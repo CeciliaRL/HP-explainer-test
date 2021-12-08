@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Mable Dwillingwort
+|hideb=
+|born=Before [[1152]]<ref name="HPLEG"/>
+|died=c. [[1296]]
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="HPLEG"/>
+|gender=Female<ref name="HPLEG"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=*[[Spell creation|Spell inventor]] (possibly)<ref name="HPLEG"/>
+*[[Potioneer]] (possibly)<ref name="HPLEG"/>
+|house=
+|loyalty=
+}}
+{{Quote|Invented and first cast by a prolific witch, named Mable Dwillingwort on discovering that burgalars ''[sic]'' were trying to steal her [[potion]]s.|Student's answer on [[Ordinary Wizarding Level|O.W.L.]] exam paper|A Guide to the Graphic Arts Department: Posters, Prints, and Publications from the Harry Potter Films}}
+'''Mable Dwillingwort''' may have been a [[Wizardkind|witch]] who lived in the [[12th century]]. According to one student's answer on their [[Ordinary Wizarding Level|O.W.L.]] exam for the Theory of [[Charm]]s (for which they cited the [[Wizarding Archive of 1152]]), she was the [[Spell creation|inventor]] of the [[Bat-Bogey Hex]] which she developed to ward off burglers who were trying to steal her potions.<ref name="HPLEG">{{HPLE|G}} - {{see image|File:OWL Exam.png}}</ref> However, [[Miranda Goshawk]] claimed to invent this spell herself in the [[Book of Spells]],<ref name="WBS">{{WBS}}</ref> so it is unclear if the student's answer was incorrect, or if Goshawk was not the original inventor.
+
+==Appearances==
+*{{HPLE|G}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dwillingwort, Mable}}
+[[es:Mable Dwillingwort]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Wizards]]

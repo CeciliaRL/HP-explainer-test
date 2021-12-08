@@ -1,0 +1,73 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Shingleton.png|225px]]
+|name = Gaspard Shingleton
+|born = [[1959]]<ref name="JKRS">{{JKRS}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Silver<ref name="JKRS">{{JKRS}}</ref>
+|eyes = Green<ref name="JKRS">{{JKRS}}</ref>
+|skin = White<ref name="JKRS">{{JKRS}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Inventor
+|house = 
+|loyalty = 
+}}
+{{Quote|Celebrated inventor of the [[Self-Stirring Cauldron]].|Chocolate Frog Card|Harry Potter and the Philosopher's Stone (video game)}}
+'''Gaspard Shingleton''' (b. [[1959]]) was a [[Wizardkind|wizarding]] inventor who first devised the [[Self-Stirring Cauldron]].<ref name="COSG">{{COS|G}}</ref><ref name="JKRS">{{JKRS}}</ref>
+
+==Biography==
+===Early life===
+Gaspard was born in 1959.<ref name="COSG">{{COS|G}}</ref><ref name="JKRS">{{JKRS}}</ref>
+
+===Adulthood===
+At some point, he invented the [[Self-Stirring Cauldron]] and went down in history while still alive,<ref name="COSG">{{COS|G}}</ref><ref name="JKRS">{{JKRS}}</ref> being covered in first year [[History of Magic]] classes at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. The [[History of Magic]] [[First year exams|exam]] featured him.<ref name="PS16">{{PS|B|16}}</ref>
+
+He was also immortalised on a silver [[Chocolate Frog Card]], as part of the [[Famous Witches and Wizards Cards]] series.<ref name="COSG">{{COS|G}}</ref>
+
+==Behind the scenes==
+*It is weird that Gaspard Shingleton's achievements are covered so prominently in the [[1992]] [[History of Magic]] [[first year exams|first year exam]], when it is revealed in {{DH}} that "''Professor Bagshot doesn't cover anything later than the end of the nineteenth century''"<ref name="DH16">{{DH|B|16}}</ref> in her [[A History of Magic|work]], which is used as the textbook for the subject.
+**Similarly, the inventor of the Self-Stirring Cauldron is described as a "batty old [[Wizardkind|wizard]]" in {{PS}}, yet he would only be in his early thirties at the time.
+
+==Appearances==
+{{Imagecat|Images of Gaspard Shingleton}}
+[[File:Gaspard_Shingleton-54-chocFrogCard.png|thumb|Gaspard Shingelton's silver wizard card]]
+*{{PS}} {{Mention}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{JKRS}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+
+{{DEFAULTSORT:Shingleton, Gaspard}}
+
+[[de:Gaspard Shingleton]]
+[[ru:Гаспард Шинглтон]]
+[[es:Gaspard Shingleton]]
+[[fr:Gaspard Shingleton]]
+[[fi:Gaspard Shingleton]]
+[[it:Gaspard Shingleton]]
+[[pl:Gaspard Shingleton]]
+[[Category:1959 births]]
+[[Category:Green-eyed individuals]]
+[[Category:Inventors]]
+[[Category:Males]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

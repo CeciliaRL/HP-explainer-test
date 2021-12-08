@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mrs Trelawney
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = Married
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Sybill Trelawney's father|Mr Trelawney]] (husband)
+*[[Sybill Trelawney]] (daughter)
+*[[Higglebottom]] (ex-son-in-law)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Trelawney family]]
+}}
+'''Mrs Trelawney''' was a [[Non-magic people|Muggle]] woman.<ref name="PM">{{WW|sybill-trelawney}}</ref> She married a [[Trelawney family|wizard]] descended from the famous [[Seer]] [[Cassandra Trelawney]], and had at least one child with him, a daughter, [[Sybill Trelawney|Sybill]].<ref name="PM" /> Sybill, unlike her father, turned out to possess the [[Divination|Second Sight]], albeit in a limited capacity.<ref name="ootp15">{{OOTP|B|15}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Trelawney, Mrs}}
+[[pl:Matka Sybilli Trelawney]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Trelawney family|Trelawney]]
+[[Category:Unnamed family members]]

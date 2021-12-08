@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme=individual
+|image=
+|name=Deliverance Dane
+|born=
+|died=[[15 June]] [[1735]]<ref name="wiki">"[https://en.wikipedia.org/wiki/Deliverance_Dane Deliverance Dane]" on Wikipedia</ref>
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+}}'''Deliverance Dane''' (died [[15 June]] [[1735]]) was an [[United States of America|American]] woman accused of [[wizardkind|witchcraft]] during the [[Salem Witch Trials]] of [[1692]] and [[1693]].<ref name="wiki" />
+
+==History==
+In [[1926]], [[Porpentina Goldstein|Tina Goldstein]] used her name as an exclamation of surprise, asking [[Newton Scamander|Newt Scamander]] "Why in the name of Deliverance Dane did you let [[Newton Scamander's niffler|that thing]] loose?"<ref name="FB17">{{FB|S|17}}</ref>
+
+==See also==
+*[[Mercy Lewis]]
+
+==Behind the scenes==
+*According to {{PM}}, some of the persons executed during the Trials were actual wizards and witches, though it is not stated whether Dane was one.<ref name="historymagic2">{{PM}} - [https://www.pottermore.com/collection-episodic/history-of-magic-in-north-america-en "History of Magic in North America: Seventeenth Century and Beyond"]</ref>
+
+==Appearances==
+*{{FB|F}} {{Mention}}
+*{{FB|S}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dane, Deliverance}}
+
+[[de2:Deliverance Dane]]
+[[zh:德里弗伦斯·戴恩]]
+[[Category:1735 deaths]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Humans]]

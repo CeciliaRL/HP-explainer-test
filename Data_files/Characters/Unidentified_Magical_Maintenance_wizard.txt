@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=mom
+|image=
+|name=Unidentified Magical Maintenance wizard
+|hideb=
+|born=
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]] (most likely)<ref name="blood">As he was working at the Ministry during Voldemort's rule, it is higly unlikely he was Muggle-born.</ref>
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Magical Maintenance Department]] worker
+|house=
+|loyalty=[[British Ministry of Magic|Ministry of Magic]]
+}}
+{{Dialogue a-b|Magical Maintenance wizard|Morning, Reg! Blooming pain in the bum, this, eh? Forcing us all to get to work this way! Who are they expecting to turn up, Harry Potter?|Ronald Weasley (as Reginald Cattermole)|Yeah, stupid, isn't it?|This wizard and "[[Reginald Cattermole]]" (actually [[Ronald Weasley]] in [[Polyjuice Potion|disguise]]) during the [[Infiltration of the British Ministry of Magic (1997)|Infiltration of the Ministry of Magic]]|Harry Potter and the Deathly Hallows}}
+This '''man''' was a [[wizardkind|wizard]] and a [[Magical Maintenance Department]] worker at the [[British Ministry of Magic|Ministry of Magic]] in the late-[[1990s]]. On the morning of [[2 September]], [[1997]], this wizard greeted "[[Reginald Cattermole]]" and complained of the [[Whitehall underground public toilets|workers' entrance to the Ministry]], without knowing he was actually talking to [[Ronald Weasley]] in [[Polyjuice Potion|disguise]].<ref name="DH12">{{DH|B|12}}</ref>
+
+==Appearances==
+
+*{{DH}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Ministry Departments unknown levels}}
+[[es:Mago no identificado de Mantenimiento Mágico]]
+[[Category:British individuals]]
+[[Category:Magical Maintenance Department personnel]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,43 @@
+{{Imageless}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Agnes Nutt
+|born = 
+|died = 
+|blood =  
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC"/>
+|gender = Female<ref name="FBC"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family =  
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty =   
+}}
+'''Agnes Nutt''' was an elderly [[Wizardkind|witch]] living in [[Hogsmeade]]. She suspected her tenant was keeping a [[magic]]al [[beast]], and asked [[Mathilda Grimblehawk]] and her [[Mathilda Grimblehawk's partner|partner]] to investigate.<ref name="FBC">{{FBC|13}}</ref>   
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}} 
+{{Hogsmeade}}
+{{Character-stub}}
+{{DEFAULTSORT:Nutt, Agnes}}
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Wizards]]

@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mentor Metaxas
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Greece|Greek]]
+|alias = 
+|title = Chairman
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Chairman of the [[International Confederation of Wizards Quidditch Committee]]
+|house = 
+|loyalty = *[[International Confederation of Wizards]]
+**[[International Confederation of Wizards Quidditch Committee]]
+}}
+'''Mentor Metaxas''' was a Greek [[Wizardkind|wizard]] and the chairman of the [[International Confederation of Wizards Quidditch Committee]] in 2014.<ref name="the-qwc2014-final">{{PM}} - [[2014 Quidditch World Cup final]] (Archived)</ref>
+
+==Biography==
+He attended the final of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], on [[11 July]], [[2014]]. Shortly before the match started, he was spotted by ''[[Daily Prophet]]'' reporter [[Rita Skeeter]] chatting to the President of the [[Argentinian Council of Magic]], [[Valentina Vázquez]].<ref name="the-qwc2014-final" />
+
+==Behind the scenes==
+*If this individual's name is indication of anything, he is probably [[Greece|Greek]] or of Greek descent — the name "Mentor" is an Ancient Greek name that features in Greek Mythology,<ref>[http://www.behindthename.com/name/mentor "Mentor"] at [http://www.behindthename.com/ Behind the Name]</ref> and the surname Metaxas is also Greek: Greek archicted and marksman [[Wikipedia:Anastasios Metaxas|Anastasios Metaxas]] (1862-1937), Greek politician [[Wikipedia:Andreas Metaxas|Andreas Metaxas]] (1790-1860), and Greek general and dictator [[Wikipedia:Ioannis Metaxas|Ioannis Metaxas]] (1871–1941) are some notable people who bore this surname.
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{ICW}}
+
+{{DEFAULTSORT:Metaxas, Mentor}}
+
+[[es:Mentor Metaxas]]
+[[fr:Mentor Metaxas]]
+[[pl:Mentor Metaxas]]
+[[pt-br:Mentor Metaxas]]
+[[ru:Ментор Метаксас]]
+
+[[Category:2014 Quidditch World Cup attendees]]
+[[Category:Greek individuals]]
+[[Category:International Confederation of Wizards members]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,58 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Horace Slughorn's father
+|born = 
+|died = Before [[1981]]<ref name="PP">{{PP|P}}, Chapter 3 (''Horace Slughorn'')</ref>
+|blood = [[Pure-blood]] or [[Half-blood]]<ref>On {{WW|pure-blood}}, the Slughorns are mentioned to have been included in the ''[[Pure-Blood Directory]]'' published in Britain in the 1930s.Given his views, he was likely pure-blood, but also may have been a half-blood in the pure-blood family like some Malfoys - see {{WW|the-malfoy-family}}</ref>
+|marital = Married<ref name="PP"/>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PP"/>
+|gender = Male<ref name="PP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Horace Slughorn]] (son)<ref name="PP"/>
+*[[Slughorn family|Other family members]]<ref name="PP"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = High-ranking Ministry official in the [[Department of International Magical Co-operation]]<ref name="PP"/>
+|house = 
+|loyalty = *[[Slughorn family]]<ref name="PP"/>
+*[[British Ministry of Magic]]<ref name="PP"/>
+**[[Department of International Magical Co-operation]]<ref name="PP"/>
+}}
+'''Mr Slughorn''' was a wealthy [[Great Britain|British]] [[wizardkind|wizard]] born into the ancient [[Slughorn family]], a high-ranking [[British Ministry of Magic|Ministry of Magic]] bureaucrat in the [[Department of International Magical Co-operation]], and the father of [[Horace Slughorn|Professor Horace Slughorn]].<ref name="PP"/>
+
+Regarded as a doting parent, he brought up his only son from a young age to believe in the value of the family's connections, and encouraged him to make friends "''of the right sort''" once he arrived at Hogwarts. While Slughorn's father was never "militant" in his [[Pure-blood supremacy|Pure-blood beliefs]], he encouraged a quiet belief in the family's natural superiority.<ref name="PP" />
+
+Despite his parents' ambitions for Horace at the Ministry, their son was never drawn to politics, preferring a less taxing existence.<ref name="PP" />
+
+Mr Slughorn and his wife had already died by the time their son retired from teaching at [[Hogwarts School of Witchcraft and Wizardry]] late in [[1981]].<ref name="PP" />
+
+==Appearances==
+*{{PP|P}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 5 employees}}
+{{DEFAULTSORT:Slughorn, Horace father}}
+[[Category:20th century deaths]]
+[[Category:British individuals]]
+[[Category:Deceased individuals]]
+[[Category:Department of International Magical Co-operation personnel]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Slughorn family]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

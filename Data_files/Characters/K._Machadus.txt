@@ -1,0 +1,44 @@
+{{Transcribed image|File:NewYorkGhost-1December1927.jpg}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=K. Machadus
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=Reporter for ''[[The New York Ghost]]''
+|house=
+|loyalty= [[The New York Ghost]]
+}}
+'''K. Machadus''' was a reporter for ''[[The New York Ghost]]'' in [[1926]].<ref name="FB-dec1">{{FB|F}} {{See image|File:NewYorkGhost-1December1927.jpg}}</ref>
+
+==Biography==
+They co-wrote a report with [[N. Newzer]] and [[D. Figueiredus]] out of [[Portland]], [[Oregon]] about the sourcing of [[Stinksap]] extract in a popular brand of toothpaste, which was published in the [[1 December]] 1926 issue of the newspaper.<ref name="FB-dec1" />
+
+==Appearances==
+*{{FB|F}} {{C|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Machadus, K.}}
+[[Category:American individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Journalists]]
+[[Category:The New York Ghost staff]]
+[[Category:Wizards]]

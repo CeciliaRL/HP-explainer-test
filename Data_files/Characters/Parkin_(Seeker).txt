@@ -1,0 +1,38 @@
+{{Individual infobox
+|name = Parkin
+|born = [[1405]] or earlier
+|nationality = [[Scotland|Scottish]]
+|title = [[Seeker]]
+|species = [[Human]]
+|family = *[[Walter Parkin]] (father)
+*[[Parkin (Keeper)]] (sibling)
+*[[Parkin (Chaser I)]] (sibling)
+*[[Parkin (Chaser II)]] (sibling)
+*[[Parkin (Chaser III)]] (sibling)
+*[[Parkin (Beater I)]] (sibling)
+*[[Parkin (Beater II)]] (sibling)
+|job = [[Seeker]] for the [[Wigtown Wanderers]]
+|loyalty = *[[Parkin family]]
+*[[Wigtown Wanderers]]
+|theme = quidditch-player
+|bgcolor1 = 
+|bgcolor2 = 
+|hideb = 
+|hidef = 1
+|hidem = 1
+}}'''Parkin '''(fl. [[1422]]) was a [[Scotland|Scottish]] [[Wizardkind|witch or wizard]] who played as [[Seeker]] for the original [[Wigtown Wanderers]] team during the [[15th century]] and was a child of Wanderers founder [[Walter Parkin]]. They were a formidable team during this time who won most of their matches, perhaps partly because Walter himself used to attend every game holding his wand in one hand and a meat cleaver in the other.<ref>{{QTA|R|7}}</ref>
+
+==Appearances==
+*{{QTA|R}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+[[pl:Parkin (szukający)]]
+[[Category:Historical figures]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Parkin family]]
+[[Category:Scottish individuals]]
+[[Category:Seekers]]
+[[Category:Wizards]]

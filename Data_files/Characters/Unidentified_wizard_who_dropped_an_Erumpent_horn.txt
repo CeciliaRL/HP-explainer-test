@@ -1,0 +1,44 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified wizard who dropped an Erumpent horn
+|born = Before [[1990]]<ref name="HM714A">{{HM|7|14|Catastrophe Clean-Up}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM714A"/>
+|gender = Male<ref name="HM714A"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''wizard''' caused an [[Explosion in Northumberland|explosion]] in [[Northumberland]].<ref name="HM714A"/>
+
+==Biography==
+He purchased an [[Erumpent horn]] during the [[1990–1991 school year]], but dropped it when he had to sneeze, causing an [[Explosion in Northumberland|explosion]] in [[Northumberland]]. The [[British Ministry of Magic]] tracked down the wizard with help from [[Jacob's sibling]], who was working with them during their involvement with the [[Ministry of Magic student programme|Ministry's student programme]].<ref name="HM714A" />
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

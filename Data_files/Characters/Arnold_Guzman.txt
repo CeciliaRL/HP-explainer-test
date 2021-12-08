@@ -1,0 +1,45 @@
+{{Individual infobox
+|image = Arnold Guzman.png
+|name = Arnold Guzman
+|born = Before [[1927]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|eyes = Brown
+|skin = Brown
+|job = American Emissary to the [[International Confederation of Wizards]]<ref name="mugglenet">"[http://www.mugglenet.com/2018/08/crimes-of-grindelwald-set-visit-inside-the-prop-department-with-pierre-bohanna/ “Crimes of Grindelwald” Set Visit: Inside the Prop Department with Pierre Bohanna]</ref>
+|loyalty = [[International Confederation of Wizards]]
+|theme = wizard
+}}
+{{Quote|Mr Scamander. The wizarding and non-wizarding worlds have been at peace for over a century. Grindelwald wants to see that peace destroyed and for certain members of our community his message is very seductive. Many purebloods believe it is their birthright to rule not only our world but the non-magic world as well.|Arnold Guzman's concerns about [[Gellert Grindelwald]]|Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay}}
+'''Arnold Guzman''' was an [[United States of America|American]] [[Wizardkind|wizard]] who was the [[United States of America|American]] Emissary to the [[International Confederation of Wizards]] in [[1927]].
+
+==Biography==
+In 1927, Guzman attended a hearing at the [[British Ministry of Magic]], being a part of a committee comprised of himself, the [[Department of Magical Law Enforcement|Head of the Department of Magical Law Enforcement]], [[Torquil Travers]], and [[Rudolph Spielman]] of the International Confederation Wizards. The subject of the [[Newton Scamander's hearing|hearing]] was the appeal of [[Newton Scamander|Newt Scamander]]'s international travel ban. Scamander's appeal was ultimately denied by Guzman and the other committee members.<ref>{{COG|S}}, Scene 19</ref>
+
+==Personality and traits==
+Arnold was a calm, but prim and very determined person, fearing the [[Global wizarding war]] that [[Gellert Grindelwald]] had begun, as Arnold valued peace and diplomacy.
+
+==Behind the scenes==
+*Guzman is played by [[Cornell John]] in the [[Fantastic Beasts: The Crimes of Grindelwald|second instalment]] of the ''[[Fantastic Beasts (film series)|Fantastic Beasts]]'' film series.<ref>name=''IMDB''>[https://www.imdb.com/title/tt4123430/fullcredits?ref_=tt_ov_st_sm ''Full Credits''] at '''[https://www.imdb.com IMDB]'''</ref>
+
+==Appearances==
+*{{COG|S}} {{1st}}
+*{{COG}} 
+
+==Notes and references==
+{{Reflist}}
+{{ICW}}
+{{Stub}}
+{{DEFAULTSORT:Guzman, Arnold}}
+
+[[de:Arnold Guzman]]
+[[de2:Arnold Guzman]]
+[[es:Arnold Guzman]]
+[[fr:Arnold Guzman]]
+[[pl:Arnold Guzman]]
+[[ru:Арнольд Гузман]]
+[[Category:American individuals]]
+[[Category:International Confederation of Wizards members]]
+[[Category:Males]]
+[[Category:Wizards]]

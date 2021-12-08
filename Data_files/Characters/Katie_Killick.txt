@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Katie Killick
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DHF1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF1"/>
+|gender = Female<ref name="DHF1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[James Killick]] (unknown)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Killick family]]
+}}
+'''Katie Killick''' was a [[Wizardkind|witch]] reported missing along with her relative, [[James Killick|James]], on the ''[[Potterwatch]]'' radio programme in [[1997]]. Her disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.<ref name="DHF1">{{DH|F1}}</ref>
+
+==Behind the scenes==
+*This character is presumably a tribute to a relative of Rob Killick, who worked as a sound mix technician on ''[[Harry Potter and the Order of the Phoenix (film)|Harry Potter and the Order of the Phoenix]]'', and as a dialogue editor on ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]'', {{DH|F1}}, and {{DH|F2}}.<ref>[http://www.imdb.com/name/nm1877574/?ref_=ttfc_fc_cr269r Rob Killick's profile on IMDb]</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Killick, Katie}}
+
+[[pl:Katie Killick]]
+[[fr:Katie Killick]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Killick family]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

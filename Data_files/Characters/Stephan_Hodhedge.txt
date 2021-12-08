@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Stephan Hodhedge
+|born = c. [[1930]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Stephan Hodhedge''' was a student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1940s]]. He received an award in [[1941]].<ref>See [http://www.flickr.com/photos/charminggoats/4707332209/ this image]</ref>
+
+==Appearances==
+*{{WWHP}} {{Comment|Name seen on award}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hodhedge, Stephan}}
+
+
+[[pl:Stephan Hodhedge]]
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Sorted in the 20th century]]
+[[Category:Wizards]]

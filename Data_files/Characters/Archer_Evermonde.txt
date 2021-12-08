@@ -1,0 +1,72 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=mom
+|image=
+|name=Archer Evermonde
+|hideb=
+|born=Before [[1895]]
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office.</ref>
+|alias=
+|title=[[Minister for Magic]]
+|nationality=[[Great Britain|British]]
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Minister for Magic|British Minister for Magic]] ([[1912]]-[[1923]])
+|house=
+|loyalty=[[British Ministry of Magic]]
+}}
+'''Minister Archer Evermonde''' was [[Minister for Magic]] from [[1912]] to [[1923]]. He was ultimately elected at least twice.<ref name="WW"/>
+
+==Biography==
+During Minister Evermonde's term, the [[Non-magic people|Muggle]] world became involved in a large-scale military conflict that became known as the [[First World War]]. Evermonde was responsible for passing [[Archer Evermonde's emergency legislation|emergency legislation]] forbidding wizards and witches to get involved, in an attempt to prevent mass breaches of the [[International Statute of Wizarding Secrecy|International Statue of Secrecy]]. 
+
+This did not prevent thousands of wizards from aiding Muggles discreetly and where they could.<ref name="WW">{{WW|ministers-for-magic}}</ref> For these actions, Minister Evermonde earned [[Wizengamot]] member [[Henry Potter]]'s public condemnation, which caused a minor stir at the time.<ref name="PotterFamilyPottermore">{{WW|the-potter-family}}</ref>
+
+Some wizards, like [[Theseus Scamander]] directly served, in apparent defiance of Evermonde's legislation.<ref name="FB60">{{FB|S|60}}</ref>
+
+==Appearances==
+
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Venusia Crickerly]]
+|position=[[Minister for Magic]]
+|years=[[1912]]-[[1923]]
+|successor=[[Lorcan McLaird]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Evermonde, Archer}}
+[[de:Archer Evermonde]]
+[[de2:Archer Evermonde]]
+[[es:Archer Evermonde]]
+[[fr:Archer Evermonde]]
+[[pl:Archer Evermonde]]
+[[pt-br:Archer Evermonde]]
+[[ru:Арчер Эвермонд]]
+[[zh:阿切尔·埃弗蒙德]]
+[[Category:British Ministers for Magic]]
+[[Category:Historical figures]]
+[[Category:Legislators]]
+[[Category:Males]]
+[[Category:Wizards]]

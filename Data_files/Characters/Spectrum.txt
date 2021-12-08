@@ -1,0 +1,37 @@
+{{Individual infobox
+|theme=individual
+|image=
+|name=Spectrum
+|born=Before [[1927]]<ref name="COG"/>
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="COG"/>
+|gender=Male<ref name="COG"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+}}'''Spectrum''' was a man who lived in the [[1920s]].<ref name="COG">{{COG}}</ref>
+
+==Behind the scenes==
+*Spectrum is played by [[Tim Ingall]] in {{COG}}.<ref>http://www.imdb.com/title/tt4123430/?ref_=nm_flmg_act_4</ref>
+
+==Appearances==
+*{{COG}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[pl:Spectrum]]
+[[Category:Humans]]
+[[Category:Males]]

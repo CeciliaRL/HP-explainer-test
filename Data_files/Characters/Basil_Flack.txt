@@ -1,0 +1,67 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Basil Flack
+|hideb=
+|born=Before [[1735]]
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office.</ref>
+|alias=
+|title=[[Minister for Magic]]
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Minister for Magic|British Minister for Magic]] ([[1752]])
+|house=
+|loyalty=[[British Ministry of Magic]]}}
+
+'''Minister Basil Flack''' was [[Minister for Magic]] in [[1752]].  He may have been appointed a temporary acting Minister instead of being elected by the [[Wizardkind|Wizarding]] population due to the crisis of the [[Goblin Rebellions|goblin rebellions]].
+
+He was the Minister for Magic with the shortest term as of [[2014]], only holding the office for two months. He resigned the post after the [[goblin]]s joined forces with the [[Werewolf|werewolves]], presumably as part of the same [[18th century goblin rebellion|rebellion]] that sparked his predecessor [[Albert Boot]]'s resignation.<ref>{{WW|ministers-for-magic}}</ref>
+
+==Etymology==
+[[Wikipedia:Basil (name)|Basil]] is a given name derived from the Greek ''βασιλεύς'', meaning "king". ''Flack'' is an alternate spelling of the word ''flak'', which is English slang for "adverse criticism". 
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Albert Boot]]
+|position=[[Minister for Magic]]
+|years=[[1752]]
+|successor=[[Hesphaestus Gore]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Flack, Basil}}
+
+[[de:Basil Flack]]
+[[es:Basil Flack]]
+[[fr:Basil Flack]]
+[[ru:Бэзил Флэк]]
+[[de:Basil Flack]]
+[[pl:Basil Flack]]
+[[pt-br:Basílio Flack]]
+[[zh:巴兹尔·弗莱克]]
+[[Category:British Ministers for Magic]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

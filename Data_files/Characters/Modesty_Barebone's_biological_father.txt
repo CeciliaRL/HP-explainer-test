@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Modesty Barebone's biological father
+|born = 
+|died = 
+|blood = 
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Modesty Barebone's biological mother|Wife]]
+*[[Modesty Barebone]] (daughter)
+*[[Modesty Barebone's biological siblings|Nine other children]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+
+{{Quote|Ma adopted Modesty out of here. From a family of twelve. She still misses her brothers and sisters. She still talks about them.|Credence describing her family|Fantastic Beasts and Where to Find Them: The Original Screenplay}}
+
+The '''biological father''' of [[Modesty Barebone]] lived with [[Modesty Barebone's biological mother|his wife]] and [[Modesty Barebone's biological siblings|ten children]] in a [[Tenement in The Bronx|tenement]] in [[the Bronx]] in the [[1910s]].<ref name="FBS96">{{FB|S|96}}</ref> However, Modesty was adopted by [[Mary Lou Barebone]], a [[Muggle|No-Maj]] anti-[[magic|witchcraft]] activist, possibly because the family had more children than they could care for or were [[magic]]al.<ref name="FBS96"/>
+
+==Appearances==
+*{{FB|F}} {{Comment|Indirectly mentioned as part of "family of twelve"}}
+*{{FB|S}} {{Comment|Indirectly mentioned as part of "family of twelve"}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Barebone, Modesty's biological father}}
+
+[[Category:American individuals]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified Amulet seller
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBP6"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP6"/>
+|gender = Male<ref name="HBP6"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Amulet]] seller in [[Diagon Alley]]<ref name="HBP6"/>
+|house = 
+|loyalty = [[Diagon Alley]]<ref name="HBP6"/>
+}}
+{{Dialogue a-b-c|Amulet-seller|One for your little girl, madam? Protect her pretty little neck?|Arthur Weasley|If I were [[Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects|on duty]]...|Molly Weasley|Yes, but don't go arresting anyone now, dear, we're in a hurry.|The street peddler attempts to sell Molly Weasley a supposed protective amulet|Harry Potter and the Half-Blood Prince}}
+This '''individual''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who sold [[Amulet]]s in [[1996]] in [[Diagon Alley]].<ref name="HBP6"/>
+
+==Biography==
+In [[1996]], he tried to sell one to [[Molly Weasley]] to give to [[Ginevra Weasley|Ginny Weasley]], however [[Arthur Weasley]] threatened him with arrest.<ref name="HBP6">{{HBP|B|6}}</ref> He was one of many preying, in various ways, on the renewed fear which the [[Wizarding world|wizarding&nbsp;populace]] felt due to the recently acknowledged [[Return of Lord Voldemort|return]] of [[Tom Riddle|Voldemort]] and his [[Death Eaters|followers]]. It is most likely therefore that the supposedly protective amulets he was selling were counterfeit goods which possessed no actual [[magic]]al properties. 
+
+==Appearances==
+*{{HBP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Con artists]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

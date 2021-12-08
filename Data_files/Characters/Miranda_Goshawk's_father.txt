@@ -1,0 +1,56 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = Goshawk_family.png
+|name = Miranda Goshawk's father
+|born = Before [[1915]]<ref name="year1915">Presuming a 9-month-long gestation period for every Goshawk sister, the very latest the eldest sister could have been born is December, 1915. Thus, this individual must have been born before this year.</ref>
+|died = In or after [[1920]]<ref name="year1920">Again, presuming a 9-month-long gestation period, and knowing that Miranda Goshawk (this individual's last daughter) was born in 1921 (unknown month), the earliest she could have been conceived was in around April, 1920.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WBoS"/>
+|gender = Male<ref name="WBoS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Miranda Goshawk's aunts and uncles|Siblings and in-laws]]<ref name="WBoS"/>
+*[[Miranda Goshawk's mother|Mrs Goshawk]] (wife)<ref name="WBoS"/>
+*[[Diadema Goshawk]] (daughter)<ref name="WBoS"/>
+*[[Miranda Goshawk]] (daughter)<ref name="WBoS"/>
+*[[Romilda Goshawk]] (daughter)<ref name="WBoS"/>
+*[[Tangwystl Goshawk]] (daughter)<ref name="WBoS"/>
+*[[Goshawk sisters|Five other daughters]]<ref name="WBoS"/>
+*[[Miranda Goshawk's cousins|Nieces and nephews]]<ref name="WBoS"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Goshawk family]]<ref name="WBoS"/>
+}}
+'''Mr Goshawk''' (fl. [[1915]]-[[1920]]) was the husband of [[Miranda Goshawk's mother|Mrs Goshawk]], and the father of the [[Goshawk sisters|nine Goshawk sisters]], including [[Diadema Goshawk|Diadema]], [[Romilda Goshawk|Romilda]], [[Tangwystl Goshawk|Tangwystl]] and [[Miranda Goshawk]].<ref name="WBoS"/>
+
+This individual had several [[Miranda Goshawk's aunts and uncles|siblings]] and, through their marriages, many [[Miranda Goshawk's cousins|nieces and nephews]].<ref name="WBoS">{{WBS}}</ref>
+
+==Appearances==
+*{{WBS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Goshawk, Miranda's father}}
+[[es:Padre de Miranda Goshawk]]
+[[pl:Pan Goshawk]]
+[[pt-br:Snr Goshawk]]
+[[Category:British individuals]]
+[[Category:Goshawk family]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

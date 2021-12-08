@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Albus Dumbledore's great-great-grandfather
+|born=Before [[1864]]<ref>Percival, his great-grandson, was born at least by 1864, so he must have been alive by then.</ref>
+|died=Before [[1927]]<ref name="COG28"/>
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="COG28"/>
+|gender=Male<ref name="COG28"/>
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=*[[Percival Dumbledore]] (great-grandson) †<ref name="COG28"/>
+*[[Albus Dumbledore]] (great-great-grandson) †<ref name="COG28"/>
+*[[Aberforth Dumbledore]] (great-great-grandson)<ref name="COG28"/>
+*[[Ariana Dumbledore]] (great-great-granddaughter) †<ref name="COG28"/>
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=[[Dumbledore family]]<ref name="COG28"/>
+}}
+{{Quote|Well, I've always felt an affinity with the great [[magic]]al [[bird]]s. There's a story in my family that a phoenix will come to any Dumbledore who is in desperate need. They say my great-great-grandfather had one, but that it took flight when he died, never to return.|[[Albus Dumbledore]]|Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay}}
+'''Mr Dumbledore''' was an individual that once owned a [[Albus Dumbledore's great-great-grandfather's phoenix|phoenix]], but it took flight when he died and never returned. He was an example of a story in the [[Dumbledore family]] that a phoenix would come to any Dumbledore who is in desperate need.<ref name="COG28">{{COG|S|28}}</ref>
+
+==Behind the scenes==
+*[[J. K. Rowling]] has said that Fawkes had not served another human before Albus Dumbledore, meaning that these two phoenixes cannot be the same.<ref name="accio">[http://www.accio-quote.org/articles/2005/0705-edinburgh-ITVcubreporters.htm Edinburgh "cub reporter" press conference, ITV, 16 July 2005]</ref>
+
+==Appearances==
+*{{COG|S}} {{1st Mention}}
+*{{COG}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+[[es:Bisabuelo de Albus Dumbledore]]
+[[de2:Albus Dumbledores Ururgroßvater]]
+[[pl:Pan Dumbledore]]
+[[Category:Dumbledore family]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

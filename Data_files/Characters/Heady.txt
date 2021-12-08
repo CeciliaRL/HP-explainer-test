@@ -1,0 +1,42 @@
+{{Individual infobox
+|image=[[File:Heady.jpg]]
+|name=Heady
+|theme=individual
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Shrunken head|Shrunken Head]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Dre Head]] (cousin)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Knockturn Alley]]
+}}'''Heady''' was a [[Shrunken head|Shrunken Head]] and cousin of [[Dre Head]].<ref>{{POA|F}} DVD2 (''Special Features'') - ''Head to Shrunken Head''</ref> Heady was one of the Shrunken Heads on display in a window across from [[Borgin and Burkes]], in [[Knockturn Alley]].<ref>{{COS|B|4}}</ref>
+
+==Appearances==
+*{{COS}} {{1st}}
+*{{COS|F}}
+*{{POA|F}} {{1st ID}}
+*{{LEGO|Y1}} {{Possible}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Heady]]
+[[Category:Knockturn Alley]]
+[[Category:Males]]
+[[Category:Shrunken Heads]]

@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual_infobox
+|theme = individual
+|image = 
+|name = Distractible Douglas's father
+|born = 
+|died = 
+|blood = 
+|nationality = 
+|alias = 
+|title = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="WBS"/>
+|gender = Male<ref name="WBS"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = [[Distractible Douglas]] (son)<ref name="WBS"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|And his father wrote him strictly, saying: '[[Distractible Douglas|Douglas]], now be warned! You must finish things you —' Douglas put the letter down and yawned.|[[Miranda Goshawk]]|Wonderbook: Book of Spells}}
+This '''individual''' was the father of [[Distractible Douglas]] in [[Miranda Goshawk]]'s conundrum "[[The Sorry Story of Distractible Douglas]]", published in the ''[[Book of Spells]]''.<ref name="WBS">{{WBS}}</ref>
+
+==Biography==
+When Distractible Douglas wasn't paying attention in class, his father wrote to him saying "Douglas, now be warned! You must finish things you..."<ref name="WBS"/>
+
+==Appearances==
+{{WBS}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

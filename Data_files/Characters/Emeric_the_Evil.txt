@@ -1,0 +1,83 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = dark-wizard
+|image = Emeric the Evil.png
+|name = Emeric the Evil
+|born = [[Middle Ages]]<ref name="TBB"/>
+|died = Middle Ages<ref name="TBB"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="TBB"/>
+|gender = Male<ref name="TBB"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = [[Elder Wand|Elder, Thestral tail hair core]]<ref name="TBB"/>
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Dark Arts]]<ref name="TBB"/>
+}}
+{{Quote|Binns droned on and on while they scribbled down names and dates and got Emeric the Evil and Uric the Oddball mixed up.|Description|Harry Potter and the Philosopher's Stone}}
+'''Emeric the Evil'''<ref name="PS8"/> was a short-lived but exceptionally aggressive [[Dark Wizard]] from the [[Middle Ages]].<ref name="TBB"/>
+
+==Biography==
+During his lifetime, he was once the master of the [[Elder Wand]]. With it, he terrorised the south of [[England]] in the early [[Middle Ages]]. He was "''slaughtered''" in a ferocious [[Duel Between Emeric the Evil and Egbert the Egregious|duel]] against [[Egbert the Egregious]].<ref name="TBB">{{TBB|E}} - ''Albus Dumbledore on "''The Tale of the Three Brothers''"''</ref>
+
+During their [[History of Magic]] lessons with [[Cuthbert Binns|Professor Binns]] at [[Hogwarts School of Witchcraft and Wizardry]], [[first year]] students often mixed up Emeric the Evil with [[Uric the Oddball]].<ref name="PS8">{{PS|B|8}}</ref> The [[seventh year]] History of Magic curriculum also covered Emeric the Evil, at least in the [[1990–1991 school year]].<ref name="HM72hm">{{HM|7|2|hm}}</ref>
+
+==Magical abilities and skills==
+*'''[[Dark Arts]]''': Emeric the Evil was a profilic [[Dark Wizard]] who would have been accomplished with dark magic, likely including the casting of [[dark charm]]s. It is said that he terrorised Southern [[England]] in the early Middle Ages, which he likely did using the Dark Arts.<ref name="TBB"/>
+*'''[[Duelling]]''': Having gained ownership of the legendary [[Elder Wand]], Emeric was an aggressive wizard with a proclivity for duelling and [[martial magic]]; however, he was defeated and killed in a duel with [[Egbert the Egregious]], meaning he was an inferior duellist to him.<ref name="TBB"/>
+*'''[[Care of Magical Creatures]]''': Emeric was capable of flying a [[dragon]]-like creature, an extremely dangerous looking [[magic]]al [[beast]], showing he was to an extent skilled with taming and controlling it.<ref name="TBBIE">{{TBB|IE}}</ref><!--- Please do not define this unnamed beast as a "Wyvern"; these are not a defined species in HP (only one beast is called one), and the illustrated edition uses no such name.--->
+
+==Etymology==
+The name "Emeric" is a Germanic name, in which the second element is ''ric'' meaning "power". The first element may be ''ermen'' "whole, universal" (making it a relative of ''Ermenrich''), ''amal'' "work, labour" (making it a relative of ''Amalric'') or ''heim'' "home" (making it a relative of ''Henry''). It is likely that several forms merged into a single name.
+
+==Behind the scenes==
+*In {{TBB|IE}}, [[Chris Riddell]] depicts Emeric the Evil riding an unnamed [[dragon]]-like creature, which is unnamed in the text, it is only shown in the illustration of him. This is not stated in the original version of {{TBB}} either. The nature of this dragon is also unknown.
+
+==Appearances==
+{{Imagecat|Images of Emeric the Evil}}
+*{{PS}} {{1st Mention}}
+*{{DH}} {{Mention}}
+*{{TBB|R}} {{1st}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Antioch Peverell's killer]]
+|position=Master of the [[Elder Wand]]
+|years=
+|successor=[[Egbert the Egregious]]}}
+{{End box}}
+{{Deathly Hallows Owners}}
+
+[[de:Emmerich der Böse]]
+[[es:Emeric el Malvado]]
+[[fr:Emeric le Hargneux]]
+[[pl:Emeryk Zły]]
+[[ru:Эмерик Отъявленный]]
+[[uk:Емерік Лихий]]
+[[pt-br:Emerico, o Mal]]
+[[Category:British individuals]]
+[[Category:Dark wizards]]
+[[Category:Elder Wand masters]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Murder victims]]

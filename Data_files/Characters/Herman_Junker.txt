@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Herman Junker
+|hideb=hide
+|born=before [[1997]], [[Germany]]
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Quidditch]] [[Quidditch referee|referee]]
+|house=
+|loyalty=[[International Confederation of Wizards Quidditch Committee]]
+}}
+'''Herman Junker''' was a German wizard and a [[Quidditch]] [[Quidditch referee|referee]]. He officiated in the final of the [[2014 Quidditch World Cup]], [[Brazilian National Quidditch team|Brazil]] versus [[Bulgarian National Quidditch team|Bulgaria]].<ref name="the-qwc2014-final">{{PM}} - [[2014 Quidditch World Cup final]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Junker, Herman}}
+
+[[de:Herman Junker]]
+[[pl:Herman Junker]]
+[[ru:Герман Юнкер]]
+[[fr:Herman Junker]]
+[[Category:German individuals]]
+[[Category:Males]]
+[[Category:Quidditch referees]]
+[[Category:Wizards]]

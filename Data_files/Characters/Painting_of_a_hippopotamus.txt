@@ -1,0 +1,49 @@
+{{conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Hippo.jpg|250px]]
+|name=Painting of a hippopotamus
+|hideb=hide
+|born=
+|died=Before [[1993]] (possibly) 
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Hippopotamus]]<ref name="POAF"/>
+|gender=
+|height=
+|hair=
+|eyes=Dark<ref name="POAF"/>
+|skin=Dark grey<ref name="POAF"/>
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAF"/>
+}}
+A '''painting of a [[hippopotamus]]''' hung at [[Hogwarts Castle]] in one of the topmost levels of the [[Grand Staircase]].<ref name="Height">The painting was in a higher level than the [[Fat Lady]] in {{POA|F}}</ref>
+
+==History==
+[[File:Fatlady...JPG|250px|thumb|left|The [[Fat Lady]], hiding in this painting]]
+On [[31 October]], [[1993]], [[Sirius Black]] attacked [[Fat Lady]]'s portrait in a vain attempt to gain entrance to [[Gryffindor Tower]]. Scared, the [[Fat Lady]] ran away hiding in other paintings, including this one, where she hid behind the hippopotamus.<ref name="POAF">{{POA|F}}</ref>
+
+==Behind the scenes==
+*During the production stages of {{POA|FA}}, director [[Alfonso Cuarón|Alfonso Cuaron]] was having difficulty deciding on a final design for this painting and its interaction with the Fat Lady. In order to "provoke" him into making a final decision, concept artist Dermot Power jokingly drew a [http://www.dermotpower.com/hp3/1/14.html piece of concept art] depicting the Fat Lady lying in bed with a smoking hippopotamus that was strongly suggestive that the pair had just had sex.
+
+==Appearances==
+*{{POA|F}} {{1st}} {{Painting}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts seventh floor}}
+[[es:Pintura de un hipopótamo]]
+[[pl:Obraz hipopotama]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Paintings of creatures]]

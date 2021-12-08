@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme=quidditch-player
+|image=
+|name=Clairvius Hyppolite
+|hideb=hide
+|nationality=[[Haiti]]ian
+|born=after [[1976]],<ref>Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref> [[Haiti]] (possibly)
+|died=
+|blood=
+|alias=
+|title=[[Chaser]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Chaser]] for the [[Haitian National Quidditch team]]
+|house=
+|loyalty=[[Haitian National Quidditch team]]
+}}
+{{Quote|At the other end of the pitch, star Haitian Chaser Clairvius Hyppolite was responsible for eight of his side's nine goals.|[[Ginevra Weasley|Ginny Potter]], "[[BRAZIL VERSUS HAITI]]" (''[[Daily Prophet]]'', [[15 May]] [[2014]]).|Pottermore}} 
+'''Clairvius Hyppolite''' was a [[Haiti]]an [[wizardkind|wizard]] who played as a [[Chaser]] for the [[2014]] [[Haitian National Quidditch team]].
+
+==Biography==
+During the third match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], Haiti versus [[Brazilian National Quidditch team|Brazil]], Hyppolite scored eight of the total nine of his team's goals. Hyppolite's performance, however, did not stop the team from being disqualified after [[Beater]] [[Jean-Baptiste Bloncourt]] [[Snitchnip|illegally captured]] the [[Golden Snitch|Snitch]].<ref name="PM">{{PM}} - [[BRAZIL VERSUS HAITI]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Hyppolite, Clairvius}}
+
+[[de:Clairvius Hyppolite]]
+[[pl:Clairvius Hyppolite]]
+[[fr:Clairvius Hyppolite]]
+
+[[Category:Chasers]]
+[[Category:Haitian individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

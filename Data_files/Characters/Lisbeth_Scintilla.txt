@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Lisbeth Scintilla
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Novelist
+|house=
+|loyalty=
+}}
+'''Lisbeth Scintilla''' was a [[wizardkind|wizarding]] novelist. One of the books she wrote was ''[[Cassandra and Her Cat Gustavus]]''.<ref name="cb32">{{CB}}, page 32</ref>
+
+==Appearances==
+*{{FB|F}} {{C|Mentioned on a book cover}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Scintilla, Lisbeth}}
+[[pl:Lisbeth Scintilla]]
+[[Category:Authors]]
+[[Category:Females]]
+[[Category:Wizards]]

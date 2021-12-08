@@ -1,0 +1,35 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:EarlOfPaunchleyBurlyServants.png|250px]]
+|name = Earl of Paunchley's four burly servants
+|blood = [[Non-magic people|Muggle]]s
+|nationality = [[England|English]]
+|species = [[Human]]s
+|gender = Males
+|skin = White
+|job = Manservants to the [[Earl of Paunchley]]
+|loyalty = [[Earl of Paunchley]]
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidea = 
+}}
+{{Quote|Four burly servants of the Earl appeared at her door shortly afterwards and dragged her and her son up to the castle.|[[Miranda Goshawk]], ''[[Book of Spells]]''.|Wonderbook: Book of Spells}}
+These '''four burly servants''' were lackeys to the tyrannical [[Earl of Paunchley]] in the [[15th century]].<ref name="BoS">{{WBS}}</ref>
+
+In [[1484]], when the Earl decided to hold a [[Jousting tournament]] on [[Castle of the Earl of Paunchley|his castle]] grounds and decreed it mandatory for all [[Poppleton]] villagers to attend, a young boy [[Edmund Gaddlegate]] fell from a tree and broke his leg. His [[Edmund Gaddlegate's mother|mother]] put him to bed and sent word to the Earl that her son would not be able to attend the match. The Earl responded by sending his four burly henchmen to drag Edmund and his mother to [[Castle of the Earl of Paunchley|the castle]]. There, the Earl informed Edmund's mother that as punishment for his mistake, Edmund would be tied to a [[horse]] and forced to joust against him, as well as all the knights who had gathered to compete.<ref name="BoS"/>
+
+==Behind the scenes==
+*In {{WBS}}, even though the narration specifies that there were ''four'' burly servants, only three can be seen in animation.
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:English individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Personal assistants]]
+[[Category:Unidentified Muggles]]

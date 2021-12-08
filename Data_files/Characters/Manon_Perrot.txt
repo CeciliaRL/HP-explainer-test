@@ -1,0 +1,55 @@
+{{Individual infobox
+|name = Manon Perrot
+|blood = [[Pure-blood]]<ref>She was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|marital = Married
+|species = Human
+|gender = Female<ref name="tree">In the [[Lestrange family]] tree, Corvus Lestrange (II) is shown to only have one son and two daughters, as there are two flowers directly connected to him, one of which appears to have the name Josette Lestrange (Manon's sister). {{see image|File:Lestrange family tree.png}}</ref>
+|family = *[[Corvus Lestrange (II)|Corvus Lestrange]] (father)
+*[[Minette Lestrange]] (mother)
+*[[Josette Gage]] (sister)
+*[[Corvus Lestrange (III)|Corvus Lestrange]] (brother)
+*[[Sebastien Perrot]] (husband)
+*[[Odile Perrot]] (daughter)
+*[[Laurelle Perrot]] (daughter)
+*[[Huguette Perrot]] (daughter)
+*[[Eglantine Lestrange]] (cousin/sister-in-law)
+*[[Reynard Gage]] (brother-in-law)
+*[[Mathis Gage]] (nephew)
+*[[Louis Gage]] (nephew)
+*[[Corvus Lestrange (IV)|Corvus Lestrange]] (nephew)
+*[[Falco Lestrange]] (paternal uncle)
+*[[Salomé Lestrange]] (maternal aunt by marriage)
+*[[Leonie Tremblay]] (cousin)
+*[[Clarisse Lestrange]] (first cousin once removed)
+*[[Falco Tremblay]] (first cousin once removed)
+*[[Corvus Lestrange (I)|Corvus Lestrange]] (paternal grandfather)
+*[[Heloise Lestrange]] (paternal grandmother)
+*[[Lestrange family]]
+*[[Rosier family]]
+*[[Perrot family]] (in-laws)
+|loyalty = *[[Lestrange family]]
+*[[Rosier family]]
+*[[Perrot family]]
+|theme = wizard
+}}
+'''Manon Perrot''' (née '''Lestrange''') was a French [[wizardkind|witch]] and a member of the [[pure-blood]] [[Perrot family]]. She was the daughter of [[Corvus Lestrange (II)|Corvus Lestrange]] and [[Minette Lestrange]]. She had two siblings, sister [[Josette Gage|Josette]] and brother [[Corvus Lestrange (III)|Corvus]].<ref>{{COG}} {{see image|File:LestrangeFamilyTree HighRes.png}}</ref> She married [[Sebastien Perrot]] and had three daughters with him, [[Odile Perrot|Odile]], [[Laurelle Perrot|Laurelle]], and [[Huguette Perrot|Huguette]].<ref name="tree" />
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Perrot, Manon}}
+
+[[es:Manon Perrot]]
+[[fr:Manon Perrot]]
+[[pl:Manon Perrot]]
+[[ru:Манон Лестрейндж]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Lestrange family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Perrot family]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

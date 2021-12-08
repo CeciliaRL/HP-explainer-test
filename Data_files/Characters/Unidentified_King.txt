@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Unidentified King
+|born = [[Middle Ages]]
+|died = [[Middle Ages]]
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Unidentified King's daughter|Princess]] (daughter)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''King''' was the monarch of a land in the [[Middle Ages]]. [[Leticia Somnolens]], the local [[Hag]], was jealous of the [[Unidentified King's daughter|King's daughter]] and sent her into a deep sleep by means of the [[Draught of Living Death]].<ref>{{POA|G}}</ref> His story appears to be the source of inspiration for the [[Non-magic people|Muggle]] fairy tale, [[Sleeping Beauty]].
+
+==Appearances==
+*{{POA|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Character-stub}}
+
+[[fr:Père de la victime de Leticia Somnolens]]
+[[Category:European individuals]]
+[[Category:Historical figures]]
+[[Category:Males|King]]
+[[Category:Royalty|King]]
+[[Category:Unidentified Muggles|King]]

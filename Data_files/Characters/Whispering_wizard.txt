@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:Halfblood-00613.jpg|250px]]
+|hideb=
+|name=Unidentified whispering wizard in Knockturn Alley
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="HBPF"/>
+|gender=Male<ref name="HBPF"/>
+|height=
+|hair=Red<ref name="HBPF"/>
+|eyes=
+|skin=Light<ref name="HBPF"/>
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Knockturn Alley]]<ref name="HBPF"/>
+}}
+{{Quote|...He know what it's like...|The wizard|Harry Potter and the Half-Blood Prince (film)}}
+This '''individual''' was a [[Wizardkind|wizard]]. In [[1996]] he was seen whispering into a hole in the wall in [[Knockturn Alley]]. It is unknown whether the wizard was out of his mind, or if that hole in the wall had some magical capability that made talking into it reasonable (such as its acting as a sort of magical intercom, or the wall itself being enchanted to be sentient).<ref name="HBPF">{{HBP|F}}</ref>
+
+==Appearances==
+*{{HBP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

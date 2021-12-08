@@ -1,0 +1,41 @@
+{{Individual infobox
+|image = Bernard Tremblay.jpg
+|name = Bernard Tremblay
+|blood = [[Pure-blood]]
+|marital = Married
+|nationality = [[France|French]]
+|species = [[Human]]
+|gender = Male
+|family = *[[Leonie Tremblay]] (wife)
+*[[Clarisse Lestrange]] (daughter)
+*[[Falco Tremblay]] (son)
+*[[Falco Lestrange]] (father-in-law)
+*[[Salomé Lestrange]] (mother-in-law)
+*[[Eglantine Lestrange]] (sister-in-law)
+*[[Corvus Lestrange (IV)|Corvus Lestrange]] (nephew/son-in-law)
+*[[Leta Lestrange]] (grandniece/step-granddaughter)
+*[[Corvus Lestrange (V)|Corvus Lestrange]] (grandson)
+*[[Tremblay family]]
+*[[Lestrange family]] (in-laws)
+|loyalty = *[[Tremblay family]]
+*[[Lestrange family]]
+|theme = wizard
+}}
+'''Bernard Tremblay''' was a [[France|French]] [[Wizardkind|wizard]] and member of the [[Tremblay family]]. He married [[Leonie Tremblay|Leonie Lestrange]] and had two children with her: a daughter [[Clarisse Lestrange|Clarisse]] and a son [[Falco Tremblay|Falco]].<ref>{{COG}}</ref>
+
+==Appearances==
+*{{COG}} {{Comment|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Tremblay, Bernard}}
+[[fr:Bernard Tremblay]]
+[[pl:Bernard Tremblay]]
+[[ru:Бернард Трембли]]
+[[Category:French individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Pure-bloods]]
+[[Category:Tremblay family]]
+[[Category:Wizards]]

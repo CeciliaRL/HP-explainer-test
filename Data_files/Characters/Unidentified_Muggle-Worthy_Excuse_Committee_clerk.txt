@@ -1,0 +1,53 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = Unidentified Muggle-Worthy Excuse Committee clerk.jpg
+|name = Unidentified Muggle-Worthy Excuse Committee clerk
+|born = Before [[1973]] {{C|most likely}}<ref name="age">She was working for the [[British Ministry of Magic]] during the [[1990–1991 school year]] as seen in {{HM}}.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]] or [[Ireland|Irish]]<ref name="HM712A2"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM712A2">{{HM|7|12|A Dragon Mishap}}</ref>
+|gender = Female<ref name="HM712A2"/>
+|height = 
+|weight = 
+|hair = Black<ref name="HM712A2"/>
+|eyes = Green<ref name="HM712A2"/>
+|skin = Dark<ref name="HM712A2"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Muggle-Worthy Excuse Committee]] employee<ref name="HM712A2"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="HM712A2"/>
+**[[Department of Magical Accidents and Catastrophes]]<ref name="HM712A2"/>
+***[[Muggle-Worthy Excuse Committee]]<ref name="HM712A2"/>
+}}
+This '''[[Wizardkind|witch]]''' was an employee of the [[Muggle-Worthy Excuse Committee]].<ref name="HM712A2"/>
+
+==Biography==
+During the [[1990–1991 school year]], [[Jacob's sibling]] and [[Barnaby Lee]] helped her come up with Muggle-worthy excuses for several cases:
+*A [[dragon]] [[Attack in Kenilworth|attack]] in the [[Non-magic world|Muggle world]]<ref name="HM712A2"/>
+*Excessive owl activity provoked by [[Celestina Warbeck]]'s new song<ref name="HM713A">{{HM|7|13|A Peck of Owls}}</ref>
+*An [[Explosion in Northumberland|explosion]] in [[Northumberland]]<ref name="HM714A">{{HM|7|14|Catastrophe Clean-Up}}</ref>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 3 employees}}
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Ministry of Magic employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

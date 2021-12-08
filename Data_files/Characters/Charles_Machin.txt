@@ -1,0 +1,45 @@
+{{Imageless}}
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Charles Machin
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+'''Charles Machin''' was a [[Slytherin]] [[wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He was seen walking around the school during the [[1993-1994 school year]].
+
+==Appearances==
+*{{POA|G}} {{1st}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Machin, Charles}}
+[[pl:Charles Machin]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

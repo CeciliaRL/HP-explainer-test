@@ -1,0 +1,43 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Thorin
+|born = between [[1 September]] [[1972]] and [[31 August]] [[1973]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = 
+}}
+'''Thorin''' was a [[Gryffindor]] student in the same year as [[Jacob's sibling]]. According to [[Penny Haywood]], he seemed to be depressed at some point in his fifth year.<ref>{{HM|5|12|h}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Gryffindors Sorted in 1984]]
+[[Category:Males]]
+[[Category:Wizards]]

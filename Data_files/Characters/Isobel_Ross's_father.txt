@@ -1,0 +1,57 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mr Ross
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Minerva]] (mother or mother-in-law)
+*[[Isobel Ross's mother|Mrs Ross]] (wife)
+*[[Isobel Ross]] (daughter)
+*[[Robert McGonagall Senior|Robert McGonagall Snr]] (son-in-law)
+*[[Minerva McGonagall]] (granddaughter)
+*[[Malcolm McGonagall]] (grandson)
+*[[Robert McGonagall Junior|Robert McGonagall Jnr]] (grandson)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Ross family]]
+}}
+'''Mr Ross''' was a Scottish [[wizardkind|wizard]] and he and [[Isobel Ross's mother|his wife]], a witch, had at least one child, [[Isobel Ross|Isobel]].<ref name="pottermore">{{PM}} biography of [[Minerva McGonagall]]  (transcription available [http://forums.darklordpotter.net/showpost.php?s=4a2e751bddc00f9618a0b1bb6d9ce6fc&p=481284&postcount=443 here])</ref>
+
+When Isobel became romantically involved with a [[Non-magic people|Muggle]] neighbour, [[Robert McGonagall Senior|Robert McGonagall]], she knew her parents would not approve, and thus she chose not to tell them of the relationship. Eventually, the young couple eloped, provoking the Ross' anger to the point they completely severed ties with their daughter.<ref name="pottermore" />
+
+==Appearances==
+*{{PM}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Ross, Mr}}
+
+[[fr:Père d'Isobel Ross]] 
+[[ru:Мистер Росс]]
+[[pl:Pan Ross]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Ross family]]
+[[Category:Scottish individuals]]
+[[Category:Wizards]]

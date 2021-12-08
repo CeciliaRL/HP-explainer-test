@@ -1,0 +1,85 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Gervaise Ollivander
+|born = Before [[1890]] (likely)<ref name="birth">His son Garrick was born as late as c. 1907 (as he was a listed wandmaker on wand permit forms in 1926) so Gervaise would likely have been of age by this time.</ref>
+|died = 
+|blood = [[Pure-blood]]<ref>On {{WW|pure-blood}} - The Ollivanders are mentioned to have been included in the ''[[Pure-Blood Directory]]'' published in Britain in the 1930s. As Gervaise Ollivander was already alive by 1930, this establishes that he must be a pure-blooded wizard; his son was not a Pure-blood, however. This was due to Gervaise marrying a Muggle-born.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ollivander (382 B.C. era)|Ollivander]] (ancestor)
+*[[Geraint Ollivander]] (ancestor)
+*[[Gerbold Ollivander]] (father)
+*[[Garrick Ollivander's mother|Mrs Ollivander]] (wife)
+*[[Garrick Ollivander]] (son)
+*[[Garrick Ollivander's son|Grandson]]
+*[[Garrick Ollivander's daughter|Granddaughter]] †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Wandmaker]]
+|house = 
+|loyalty = *[[Ollivander family]]
+*[[Ollivanders]]
+}}
+{{Quote|You will never fool the cedar carrier.|Gervaise Ollivander|Pottermore}}
+'''Gervaise Ollivander''' was a [[pure-blood]] [[wizardkind|wizard]] who came from a [[Ollivander family|long line]] of [[wandmaker]]s who had [[Ollivanders|operated]] in [[Diagon Alley]] since his earliest ancestors arrived in [[England]]  with the Romans, and set up stall (subsequently shop) to sell to ancient British wizards. He was the son of [[Gerbold Ollivander|Gerbold Octavius Ollivander]], and the father of [[Garrick Ollivander]].<ref name="pottermore">{{PM}}</ref>
+
+==Biography==
+===Early life===
+Gervaise Ollivander was born before [[1890]] likely<ref name="birth" />, somewhere in [[Great Britain]]. He was born into the [[wizardkind|wizarding]] [[Ollivander family]], who had been in the [[Ollivanders|wand-making business]] since [[B.C. era|382 B.C]].<ref name="pottermore"/>
+
+===Career as a wandmaker===
+{{Quote|Early in my career, as I watched my wandmaker father wrestling with substandard wand core materials such as kelpie hair, I conceived the ambition to discover the finest cores and to work only with those when my time came to take over the family business. This I have done.|[[Garrick Ollivander]].|Pottermore}}
+Gervaise took up the [[Ollivanders|family business]] in [[London]], studying further into [[wandlore]] and becoming an accomplished wandmaker.<ref name="pottermore"/>
+
+He and [[Garrick Ollivander's mother|his wife]], a [[Muggle-born]] witch, had at least one child, [[Garrick Ollivander|Garrick]] sometime in, or prior to, [[1909]].<ref name="pottermore"/>
+
+According to Gervaise, it was impossible to fool a wizard or witch who carried a wand of [[cedar]] wood, an opinion that [[Garrick Ollivander|his son]] shared.<ref name="pottermore"/>
+
+As it was practise at the time, a customer would often present the wandmaker with a magical substance to which they were attached, or had inherited, or by which their family swore.<ref name="pottermore"/> As such, Gervaise used a wide variety of [[wand core]]s. Early in his career, his son [[Garrick Ollivander|Garrick]] saw his father working with substandard wand core materials such as [[kelpie]] hair, [[kneazle]] whisker and [[Troll whisker]]. It was then that he conceived the ambition to work with only the finest cores, and thus discover the ideal wand.<ref name="pottermore"/>
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Gerbold Ollivander]]
+|position=Proprietor of [[Ollivanders]]
+|years=Late [[19th century]]—Early [[20th century]]
+|successor=[[Garrick Ollivander]]
+}}
+{{End box}}
+{{DEFAULTSORT:Ollivander, Gervaise}}
+
+[[de:Gervaise Ollivander]]
+[[es:Gervaise Ollivander]]
+[[fr:Gervais Ollivander]]
+[[it:Gervaise Ollivander]]
+[[pl:Gervaise Ollivander]]
+[[ru:Джервейс Олливандер]]
+[[Category:Blood traitors]]
+[[Category:British individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Ollivander family|Gervaise]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

@@ -1,0 +1,48 @@
+{{WizardsUniteSpoiler}}
+{{Merge|Mervyn Fenwick|"Merwyn" ''seems'' to be a transcribe error, assuming Lexicon got their info with the actual rare copies, and "Finwick" a typo? The refs on this page, using wayback machine, does show a "Merwyn Finwick"; however, on the actual entry on the current Lexicon site, the character is named "[[Mervyn Fenwick]]".}}
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Merwyn Finwick
+|born = before [[1982]]<ref>As he was employed by the [[Tutshill Tornados]] by [[1999]], he was presumably over 17.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Keeper]] for the [[Tutshill Tornados]]
+|house = 
+|loyalty = [[Tutshill Tornados]]
+}}
+[[Merwyn Finwick]] was a [[Great Britain|British]] [[Wizardkind|wizard]] and the [[Keeper]] for the [[Tutshill Tornados]].<ref>"[http://www.hplex.info/quidditch/q_teams_britain.html#Tutshill Teams of the World: Great Britain and Ireland]" on The Harry Potter Lexicon</ref> [[Brevis Birch]], the team's [[Quidditch Captain#Hogwarts Quidditch Captains|captain]], blamed their unexpected loss in a match against the [[Ballycastle Bats]] on a bout of [[narcolepsy]] suffered by Merwyn.<ref name="wizardsb">"[http://www.hplex.info/wizards/a-z/b.html Wizards, Witches and Beings: B]" on the Harry Potter Lexicon</ref> The Tornados had been at the top of the [[British and Irish Quidditch League|league]] before this defeat.<ref>[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[8 February]], [[1999]], Page 3</ref>
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Finwick, Merwyn}}
+
+[[pl:Merwyn Finwick]]
+[[Category:British individuals]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,83 @@
+{{Youmay|Henry Potter|[[Harry Potter|the person with the similar name]]}}{{Individual infobox
+|theme = mom
+|image = [[File:Henry Potter.png|250px]]
+|name = Henry Potter
+|born = Pre [[1892]]<ref name="YOB">{{FB|F}} {{see image|File:Daily_Prophet_-_29_Nov_1926.png}} - The Daily Prophet released in 1926 that states his son Fleamont had released his hair potion, meaning he is of age. Henry, to be of age to father Fleamont in 1909, could be born no later than 1892.</ref>
+|died = Pre [[1981]]
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">Henry Potter's grandson, [[James Potter I]] is pure-blood (see {{HBP|B|12}}). In order to be pure-blood as defined by J.K. Rowling in an [https://web.archive.org/web/20100526160148/http://www.jkrowling.com/textonly/en/faq_view.cfm?id=58 article], James must have no Muggle or Muggle-born grandparents meaning that Henry Potter is at least Half-blood.</ref>
+|marital = 
+|nationality = [[England|English]]<ref name="Pottermore" />
+|alias = Harry (by friends and [[Potter family|family]])<ref name="Pottermore" />
+|title = 
+|signature = 
+|species = [[Human]]<ref name="Pottermore" />
+|gender = Male<ref name="Pottermore" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Henry Potter's mother|Mrs Potter]] (née [[Fleamont family|Fleamont]]) (mother) †
+*[[Fleamont Potter]] (son) †
+*[[Euphemia Potter]] (daughter-in-law) †
+*[[James Potter I]] (grandson) †
+*[[Lily J. Potter|Lily Potter]] (née [[Evans family|Evans]]) (granddaughter-in-law) †
+*[[Ignotus Peverell]] (paternal ancestor) †
+*[[Linfred of Stinchcombe]] (paternal ancestor) †
+*[[Hardwin Potter]] (paternal ancestor) †
+*[[Iolanthe Peverell|Iolanthe Potter]] (née [[Peverell family|Peverell]]) (paternal ancestor) †
+*[[Potter family]]
+*[[Fleamont family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Member of the [[Wizengamot]] ([[1913]]-[[1921]])<ref name="Pottermore" />
+|house = 
+|loyalty = *[[Potter family]]<ref name="Pottermore" />
+*[[Fleamont family]]<ref name="Pottermore" />
+*[[British Ministry of Magic]]<ref name="Pottermore" />
+**[[Wizengamot]]<ref name="Pottermore" />
+}}
+'''Henry "Harry" Potter''' was either a [[pure-blood]] or [[Half-Blood|half-blood]] [[wizardkind|wizard]] who served on the [[Wizengamot]] from [[1913]] to [[1921]]. He was the father of [[Fleamont Potter]], the paternal grandfather of [[James Potter I|James Potter]], the great-grandfather of the famous [[Harry Potter]], and the great-great-grandfather of [[James Potter II|James Sirius]], [[Albus Potter|Albus Severus]], and [[Lily L. Potter|Lily Luna Potter]].<ref name="Pottermore" />
+
+==Biography==
+Henry was born somewhere in [[England]] in or prior to [[1892]].<ref name="YOB" /> He was a direct descendant of [[Hardwin Potter|Hardwin]] and [[Iolanthe Peverell|Iolanthe Potter]] on his father's side.<ref name="Pottermore">{{WW|the-potter-family}}</ref> [[Henry Potter's mother|His mother]] was a member of the [[Fleamont family]].<ref name="Pottermore" /> It was her dying wish that Henry preserve her maiden name, which would otherwise die with her, and thus he named his son [[Fleamont Potter|Fleamont]].<ref name="Pottermore" />
+
+Henry served as a member of the [[Wizengamot]] from [[1913]] to [[1921]].<ref name="Pottermore" /> He caused a minor controversy by publicly condemning the then-[[Minister for Magic]] [[Archer Evermonde]]'s decision to forbid the wizarding community from aiding [[Non-magic people|Muggle]]s during the [[First World War]].<ref name="Pottermore" /> Henry's outspoken pro-Muggle views were one of the chief reasons for the [[Potter family]]'s exclusion from the [[Sacred Twenty-Eight]].<ref name="Pottermore" />
+
+==Behind the scenes==
+*It is possible that [[James Potter I|James]] and [[Lily J. Potter|Lily Potter]] named their son, [[Harry Potter]], after him.
+*In the American film ''{{wplink|It's a Wonderful Life}}'' (director {{wplink|Frank Capra}}, 1946), "[[Wikipedia:Mr Potter|Henry F. Potter]]" is the name of the antagonist, whose mannerisms are much akin to [[Lucius Malfoy]].
+
+==Appearances==
+*{{PM}} {{1st mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Iolanthe Peverell]]
+|years=?-?
+|position=Owner of the [[Cloak of Invisibility]]
+|successor=[[Fleamont Potter]]
+}}
+{{End box}}
+{{Deathly Hallows Owners}}
+{{DEFAULTSORT:Potter, Henry}}
+[[de:Henry Potter]]
+[[ru:Генри Поттер]]
+[[pl:Henry Potter]]
+[[fr:Henry Potter]]
+[[Category:19th century births]]
+[[Category:20th century deaths]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Peverell family descendants]]
+[[Category:Potter family]]
+[[Category:Wizards]]
+[[Category:Wizengamot members]]

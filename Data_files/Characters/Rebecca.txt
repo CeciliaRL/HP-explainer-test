@@ -1,0 +1,52 @@
+{{Youmay|the Ravenclaw student|[[Rebecca (disambiguation)|another person with the same name]]}}
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:Rebecca.JPG|250px]]
+|name = Rebecca
+|born = between [[1 September]]  [[1975]] and [[31 August]] [[1981]] (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]]
+**[[Duelling Club]]
+}}
+'''Rebecca''' was a [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] during the [[1990s]]. In [[1992]], the same year the [[Chamber of Secrets]] was opened, she became a member of the [[Duelling Club]] and was ranked nine on the Club's top-ten duellists list.<ref>{{COS|G}} - PC version</ref>
+
+==Etymology==
+The name "Rebecca" comes from the Hebrew name רִבְקָה (Rivqah), possibly meaning "a snare" in Hebrew, or perhaps derived from an Aramaic name.
+
+==Appearances==
+*{{COS|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Duelling Club}}
+[[es:Rebecca]]
+[[fr:Rebecca]]
+[[pl:Rebecca]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Duelling Club members]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

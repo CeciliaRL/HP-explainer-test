@@ -1,0 +1,50 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = dark-wizard
+|image = Dark Wizard in Knockturn Alley HM.png
+|name = Dark Wizard from Knockturn Alley
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HM524"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM524">{{HM|5|24}}</ref>
+|gender = Male<ref name="HM524"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = Dark<ref name="HM524"/>
+|skin = Pale<ref name="HM524"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="HM524"/>
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Knockturn Alley]]<ref name="HM524"/>
+}}
+{{Quote|Get up, fool. Get up and fight.|This Dark Wizard challenging Jacob's sibling to a duel in Knockturn's Alley|Harry Potter: Hogwarts Mystery}}
+This '''[[Dark Wizard]]''' was stolen from by [[Mundungus Fletcher]] and duelled [[Jacob's sibling]] in the [[1988–1989 school year]].<ref name="HM524"/>
+
+==Biography==
+During the [[1988–1989 school year]], [[Mundungus Fletcher]] asked [[Jacob's sibling]] to duel this wizard, who, according to him, cheated him, in [[Knockturn Alley]] in exchange for the [[jinx]]ed [[Ever-Bashing Boomerang]]s. Jacob's sibling did so, and after the duel, the wizard threatened to crush Fletcher if he stole from him again.<ref name="HM524"/>
+
+==Magical abilities and skills==
+*'''[[Dark Arts]]''': This wizard was proficient with dark magic, being a Dark Wizard.<ref name="HM524"/>
+*'''[[Duelling]]''': This wizard was an accomplished duellist who was skilled with [[martial magic]].<ref name="HM524"/>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Dark wizards]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]

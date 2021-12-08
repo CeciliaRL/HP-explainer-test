@@ -1,0 +1,55 @@
+{{Imageless}}
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref name="age">He was at least in his first year at Hogwarts during the [[1993–1994 school year]]</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = Dark<ref name="HBPG"/>
+|eyes = 
+|skin = Dark<ref name="HBPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardy]]<ref name="HBPG"/>
+**[[Ravenclaw]]<ref name="HBPG"/>
+}}
+'''Roland Abberley''' was a [[Wizardkind|wizard]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="HBPG"/>
+
+==Biography==
+He owned a pair of [[dragon-hide gloves]], which were stolen by [[Vincent Crabbe]] and [[Gregory Goyle]] shortly before the [[Christmas holidays]] in [[1996]]. [[Harry Potter]] recovered these gloves by [[duelling]] with Crabbe and Goyle, and, as a reward, Roland gave them to Harry. Harry went on to give the gloves to [[Fred and George Weasley]] as a [[Christmas]] present.<ref name="HBPG">{{HBP|G}} - NDS version</ref>
+
+==Etymology==
+*"Roland" was a French hero celebrated in medieval chansons de geste as the nephew of Charlemagne and defender of Christianity who was killed in battle against the Saracens at Roncesvalles in A.D. 778.{{Fact}}
+*"Abberley" is an English surname.<ref name="name">[http://www.searchforancestors.com/surnames/origin/a/abberley.php Abberley Surname Origin & Family History - Ancestor Search]</ref>
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Abberley, Roland}}
+[[es:Roland Abberley]]
+[[pl:Roland Abberley]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

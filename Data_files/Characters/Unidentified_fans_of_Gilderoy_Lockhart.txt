@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified Gilderoy Lockhart's fans
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COSG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="COSG"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Gilderoy Lockhart]]<ref name="COSG"/>
+}}
+{{Quote|I well remember the time when, during a particularly satisfying sojourn with some fans of mine in the wilds of Essex, I offered to clear a pathway in their quaint, suburban yard (I quail from terming this square of scrub and turf a 'garden'), which had been ubiquitously blocked by several Horklumps.|[[Gilderoy Lockhart]], ''[[Marauding with Monsters]]''|Harry Potter and the Chamber of Secrets (video game)}}
+These '''individuals''' were fans of [[Gilderoy Lockhart]]. They lived in a quaint suburban house in the wilds of [[Essex]] with a [[Unidentified Gilderoy Lockhart's fans' yard|small Horklump-infested yard]]. They were known to brew [[Celery and Beetroot Wine]] at their home.<ref name="COSG"/>
+
+In ''[[Marauding with Monsters]]'', [[Gilderoy Lockhart]] wrote of the sojourn he spent in these fans' house. He claimed to have rid his fans' yard of [[Horklump]]s.<ref name="COSG">{{COS|G}}</ref> The veracity of these claims is doubtful, as Lockhart was known to have regularly taken credit for other people's achievements.<ref name="COS16">{{COS|B|16}}</ref>
+
+==Appearances==
+*{{COS|G}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals|Lockhart]]
+[[Category:Gilderoy Lockhart's fans]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals|Lockhart]]
+[[Category:Wizards|Lockhart]]

@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Portrait.jpg|249px]]
+|name = Old Man in Portrait
+|born = 
+|died = Before [[1993]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|Put that light out!|The portrait to [[Harry Potter]]}}
+This '''portrait of an old man''' hung in the [[Lower Chambers Portrait Corridor]] next to a portrait of a man named [[Portrait of a bearded man holding a book|Quan Tum]] at [[Hogwarts School of Witchcraft and Wizardry]] during the [[1993–1994 school year]].
+
+==Appearances==
+*{{POA|F}} {{1st}}
+
+==Behind the scenes==
+*The individual in this portrait was played by [[Freddie Davies]].<ref>[http://www.imdb.com/name/nm0203709/ Freddie Davies at IMDb]</ref>
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts below ground floor}}
+
+[[es:Retrato de un anciano]]
+[[pl:Portret starego mężczyzny]]
+[[Category:British individuals|Old man]]
+[[Category:Males|Old man]]
+[[Category:Unidentified portraits|Old man]]
+[[Category:Wizards|Old man]]

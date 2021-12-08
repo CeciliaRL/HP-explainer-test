@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:DistractibleDouglas.png|250px]]
+|name = Distractible Douglas
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = Dougie<ref name="WBS"/>
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WBS"/>
+|gender = Male<ref name="WBS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Distractible Douglas's father|Father]]<ref name="WBS"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="WBS"/>
+}}
+{{Quote|Douglas liked to be distracted, because he found it much more fun<br/>His [[homework]] was abandoned and his [[spell]]s and [[charm]]s half-done.|Miranda Goshawk, "The Sorry Story of Distractible Douglas"|Wonderbook: Book of Spells}}
+'''Distractible Douglas''' was a character in [[Miranda Goshawk]]'s conundrum "[[The Sorry Story of Distractible Douglas]]", published in the ''[[Book of Spells]]''. Like all characters in these conundrums, he was based on a real [[Wizardkind|wizard]], but had his name altered to protect his identity. Douglas was easily distracted, and liked being so.<ref name="WBS">{{WBS}} - see [http://www.youtube.com/watch?v=QCPN3KmWEMA&feature=context-shows&list=SL this video].</ref>
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Douglas]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

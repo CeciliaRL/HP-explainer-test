@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mrs Thickey
+|born = 
+|died = 
+|blood = 
+|marital = Married<ref name="FBR"/>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBR"/>
+|gender = Female<ref name="FBR"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Janus Thickey]] (husband)<ref name="FBR"/>
+*[[Janus Thickey's children|Children]]<ref name="FBR"/>
+|romances = [[Janus Thickey]]<ref name="FBR"/>
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mrs Thickey''' (fl. [[1973]]) was the wife of [[Janus Thickey]]. When, in [[1973]], her husband faked his own [[death]] by pretending that a [[Lethifold]] had eaten him, she and her [[Janus Thickey's children|children]] entered a period of mourning. However, their mourning was cut short when Janus was found to be living five miles away, with the [[Landlady of the Green Dragon|landlady]] of the ''[[Green Dragon]]''.<ref name="FBR">{{FB|R}}, ''Lethifold''</ref>
+
+==Appearances==
+*{{FB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Thickey, Janus's wife}}
+
+[[fr:Épouse de Janus Thickey]]
+[[pl:Pani Thickey]]
+[[Category:British individuals|Thickey, Mrs]]
+[[Category:Females|Thickey, Mrs]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards|Thickey, Mrs]]

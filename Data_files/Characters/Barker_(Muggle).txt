@@ -1,0 +1,34 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Barker.png|250px]]
+|name = Barker
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|job = Personal assistant of [[Henry Shaw Senior]]
+|loyalty = [[Henry Shaw Senior]]
+|theme = muggle
+}}
+'''Barker''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] man who worked as an assistant to [[Henry Shaw Senior]] at the [[Shaw Tower]] in [[New York]] in the [[1920s]].<ref name="FB37">{{FB|S|37}}</ref>
+
+==Biography==
+When [[Langdon Shaw]] arrived with the [[Barebone family]] on [[6 December]] [[1926]] hoping to see his father, Barker nervously told him that Shaw Snr was in a meeting with [[Henry Shaw Junior|his brother]], but Langdon pushed past him.<ref name="FB37" /> Barker then profusely apologised to his boss for Langdon's interruption.<ref name="FB38">{{FB|S|38}}</ref>
+
+==Behind the scenes==
+*Barker was portrayed by [[Tom Hodgkins]] in the film ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.<ref name="imdb">[http://www.imdb.com/name/nm0388243/?ref_=ttfc_fc_cl_t34 IMDb profile of Tom Hodgkins]</ref>
+*[[Christopher Wilson]] was Barker's stand-in for the film.<ref>[https://www.starnow.co.uk/christopherw33618 Chris Wilson Profile] at [https://www.starnow.co.uk/ Starnow.co.uk]</ref>
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}[[ru:Баркер (не-маг)]]
+[[pl:Barker (mugol)]]
+[[de2:Barker]]
+[[zh:巴克尔]]
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Personal assistants]]

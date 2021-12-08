@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Eekins
+|born = [[1970s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]], [[Ravenclaw]] or [[Slytherin]]<ref>As all [[Chaser]]s of the [[Gryffindor Quidditch team]] in 1991-1992 are known, they had to play in one of the three other teams.</ref>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Eekins''' was a [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Wizardkind|student]] in the early [[1990s]]. He or she played [[Chaser]] for one of the school's Quidditch teams in the [[1991–1992 school year]].<ref>{{PS|G}}</ref>
+
+==Appearances==
+*{{PS|G}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts quidditch positions}}
+
+[[es:Eekins]]
+[[pl:Eekins]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Chasers]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Sorted in the 20th century]]
+[[Category:Wizards]]

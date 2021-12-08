@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:Gryffindor Quidditch Captains Pottermore.png|250px]]
+|name = Natalie Holkham
+|born = [[1960s]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = [[Gryffindor Quidditch team]]
+}}
+'''Natalie Holkham''' was a [[wizardkind|witch]] and a former [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] for the [[Gryffindor]] [[Gryffindor Quidditch team|Quidditch team]].<ref name="PMPSH">{{PM}} for Playstation Home {{see image|File:Gryffindor Quidditch Captains Pottermore.png}}</ref>
+
+By the early [[1990s]], there was a plaque on the mantlepiece at [[Gryffindor Tower]] listing her as a former Gryffindor Quidditch Captain.<ref name="PMPSH"/>
+
+==Behind the scenes==
+*Natalie Holkham is a video game artist for the PlayStation Team; this naming is a tribute to her.<ref name="holkhamtwitter">[https://twitter.com/Chermilla Natalie Holkham on Twitter]</ref>
+
+==Appearances==
+*{{PM}} {{C|Playstation Home}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+{{DEFAULTSORT:Holkham, Natalie}}
+[[pl:Natalie Holkham]]
+[[de:Natalie Holkham]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Wizards]]

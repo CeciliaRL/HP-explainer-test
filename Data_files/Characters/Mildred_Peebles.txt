@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Mildred Peebles
+|born = [[31 August]] [[1982]] or earlier<ref name="age">She was at least in her first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Female<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="POAG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAG"/>
+**[[Slytherin]]<ref name="POAG"/>
+}}
+'''Mildred Peebles''' was a [[Wizardkind|witch]] and [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She was seen wandering around the school during the [[1993-1994 school year]].<ref name="POAG">{{POA|G}}</ref>
+
+==Etymology==
+[[Peebles]] is a town on the river Tweed in [[Scotland]]. Its name is a cognate of the Welsh word ''pebyll'', meaning "tent" or "pavilion," with the English plural ''-s'' appended to the end of it.<ref>"[http://www.ancestry.com/facts/peebles-family-history.ashx Peebles]" on Ancestry.com</ref>
+
+==Behind the scenes==
+*This student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|console versions]] of {{POA}}.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Peebles, Mildred}}
+[[pl:Mildred Peebles]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

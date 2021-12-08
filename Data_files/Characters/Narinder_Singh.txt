@@ -1,0 +1,43 @@
+{{Individual infobox
+|name = Narinder Singh
+|born = after [[1976]]<ref>Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref>, [[Fiji]]
+|nationality = [[Fiji]]an
+|title = [[Beater]]
+|species = [[Human]]
+|gender = Female
+|job = [[Beater]] for the [[Fijian National Quidditch team]]
+|loyalty = [[Fijian National Quidditch team]]
+|theme = quidditch-player
+|hideb = hide
+|hidep = 
+|hidef = hide
+|hidem = hide
+|hidea = 
+}}
+{{Quote|In the early stages of the game Fijian Beaters Quintia Qarase and Narinder Singh lacked the ferocity of their Nigerian counterparts Aliko Okoye and Mercy Ojukwu.|[[Ginevra Weasley|Ginny Potter]], "[[NIGERIA VERSUS FIJI]]" (''[[Daily Prophet]]'', [[14 May]] [[2014]]).|Pottermore}} 
+'''Narinder Singh''' was a [[Fiji]]an [[wizardkind|witch]] who played as [[Beater]] for the [[2014]] [[Fijian National Quidditch team]].
+
+==Biography==
+During the second match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], against [[Nigerian National Quidditch team|Nigeria]], Singh and her fellow Beater [[Quintia Qarase]] "lacked the ferocity" of the Nigerian Beaters, [[Aliko Okoye]] and [[Mercy Ojukwu]]. This resulted in the [[Bludger]]s doing much harm to the Fijian [[Chaser]]s, which contributed to the team's bruising defeat.<ref name="PM">{{PM}} - [[NIGERIA VERSUS FIJI|NIGERIA_VERSUS_FIJI]] (Archived)</ref>
+
+==Behind the scenes==
+*Based on her name, it can be presumed that she was a Fijian of [[wikipedia:Indo-Fijians|Indian descent]].
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Singh, Narinder}}
+
+[[de:Narinder Singh]]
+[[es:Narinder Singh]]
+[[fr:Narinder Singh]]
+[[pl:Narinder Singh]]
+[[ru:Нариндер Сингх]]
+[[Category:Beaters]]
+[[Category:Females]]
+[[Category:Fijian individuals]]
+[[Category:Wizards]]

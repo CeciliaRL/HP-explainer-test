@@ -1,0 +1,88 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:GiffardAbbott2.jpg|250px]]
+|name = Giffard Abbott
+|born = 
+|died = Before [[1989]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, Abbott must have died sometime in or before the [[1988–1989 school year]], given his portrait's appearance in {{HM|5|PORTRAIT PANIC}}.</ref>
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]
+*[[Headmaster]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Red
+|eyes = Brown
+|skin = White
+|family = *[[Abbott]] (possibly) †
+*[[Hannah Abbott's mother|Mrs Abbott]] (possibly) †
+*[[Hannah Abbott]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]]<ref name="headmaster">{{HPK}} - Giffard's portrait is seen in the headmaster's office, although this is this only source that places his portrait there.</ref>
+|house = [[Hufflepuff]]<ref name="house"> In {{OOTP|G}}, Giffard's [[portrait]] protects a passage that is only accessible to "those bearing the [[Hufflepuff]] colours or password." He allows Harry Potter access only once he has helped "a member of the proud house of Hufflepuff", meaning he would have been a member of this house.</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+*[[Abbott family]]
+}}
+{{Quote|Pass, friend to Hufflepuff!|Giffard Abbott|Harry Potter and the Order of the Phoenix (video game)}}
+'''Giffard Abbott''' was a [[Wizardkind|wizard]], with several [[portrait]]s of him hanging in [[Hogwarts Castle]]. He had a male [[Giffard Abbott's dog|pet dog]] and seemed to have access to a source of food because fellow portrait [[Damara Dodderidge]] frequently asked him if he had any to give her.<ref name="OP">{{OOTP|G}}</ref>
+
+==Biography==
+===Lifetime===
+Gifford Abbott was part of the Abbott family, which was one of the [[pure-blood]] families listed in the [[Sacred Twenty-Eight]] directory in the [[1930s]].<ref name="pottermore">{{WW|pure-blood}}</ref> However, Giffard's actual [[blood status]] was unknown and may have been a [[half-blood]] individual within the pure-blood family, like some [[Malfoy family|Malfoys]], or a [[muggle-born]] wizard born into the family after the [[1930s]].<ref name="malfoy">{{WW|the-malfoy-family}}</ref>
+
+Giffard would have attended [[Hogwarts School of Witchcraft and Wizardry]] in his youth and was [[Sorting Ceremony|sorted]] into [[Hufflepuff]] house.<ref name="house" /> Later in his adult life, he was appointed [[Headmaster]] of Hogwarts at an unknown point.<ref name="headmaster" />
+
+===[[1992–1993 school year]]===
+In early [[1993]], Giffard had a [[portrait]] of himself at the [[Grand Staircase]], hung immediately below the first-floor landing. As it was placed in an inaccessible place, it is unlikely he guarded any shortcut to another part of the school.<ref name="COSF 22">{{COS|F}} - Chapter 22 (''The Diary'')</ref>
+
+===[[1995–1996 school year]]===
+One of his portraits was hanging at the [[Grand Staircase]], guarding the shortcut to the [[Middle Courtyard|Transfiguration Courtyard]], under the password "''[[Dragon egg|Dragon's Egg]]''". When Abbott informed [[Harry Potter]] that he would need to ask a Hufflepuff student for the password in order to use his shortcut, Harry Potter had no difficulty doing this, as most Hufflepuffs had immense respect for him due to his loyalty to the late [[Cedric Diggory]] during the [[Triwizard Tournament]].<ref name="OP" /> There was another set of portraits of him, hiding another hidden passageway between the [[Clock Tower]] and the corridor outside the [[Hogwarts Library|Library]]; the password needed to gain access to this shortcut was "''Tempus neminem manet''".<ref name="OP GBA">{{OOTP|G}} - GBA version</ref>
+
+===[[1996–1997 school year]]===
+Giffard's portrait was moved to another landing of the [[Grand Staircase]], during the next school year. However, he still guarded a secret passage to the same place in the [[Middle Courtyard|Transfiguration Courtyard]]. Its password became "''Light Against Darkness''". He had a penchant for sighing wistfully, "Oh, to be young again!", when approached.<ref name="HBP">{{HBP|G}}</ref>
+
+==Behind the scenes==
+*Giffard died prior to early [[1993]], as the portraits hung at [[Hogwarts Castle|Hogwarts]] depict deceased individuals. His clothes indicate that he most likely lived during the [[Middle Ages]].
+*It is possible that Abbott's portrait is a reference to [http://tudorhistory.org/people/charles5/charlesv.jpg a portrait] of [[Wikipedia:Charles V, Holy Roman Emperor|Emperor Charles V]] of the Holy Roman Empire by Titian.
+
+==Etymology==
+*"Giffard" is from an English surname, which was derived from the Germanic given name "Gebhard".<ref>http://www.behindthename.com/name/giffard</ref>
+*"Abbott" is a Middle English surname.<ref>http://www.wordnik.com/words/Abbott</ref>
+
+==Appearances==
+{{Imagecat|Images of Giffard Abbott}}
+*{{COS|F}} {{1st}} {{Portrait}}
+*{{POA|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}} {{1st ID}}
+*{{HBP|G}} {{Portrait}}
+*{{HPK}} {{Portrait}}
+*{{HM}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts ground floor}}
+
+{{DEFAULTSORT:Abbott, Giffard}}
+[[de:Giffard Abbott]]
+[[fr:Giffard Abbott]]
+[[pl:Giffard Abbott]]
+[[Category:Abbott family|Giffard]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

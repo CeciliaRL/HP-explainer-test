@@ -1,0 +1,56 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Addison Fawley
+|born = Between [[2006]] and [[2015]]<ref> In {{WU}}, [[Constance Pickering]] says Grim and Penelope got married in June 2006 "and then they had two children". Penelope went missing 2015, so her children had to be born in that nine year period.</ref>
+|died = 
+|blood = [[Pure-blood]], [[Half-blood]] or [[Squib]]<ref>Grim and Penelope were a witch and a wizard, and the [[Fawley family]] was one of the [[Sacred Twenty-Eight]]. Unless he was a [[Squib]], he had to be at least half-blood.</ref> {{c|possibly}}
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Grim Fawley]] (father) <br/> 
+[[Penelope Fawley]] (mother) <br/> 
+[[Melody Fawley]] (sister) <br/> 
+[[Lucretia Fawley]] (grandmother) † <br/> 
+[[Marshall Fawley]] (grandfather) † <br/> 
+[[Penelope Fawley's father|Grandfather]] <br/> 
+[[Penelope Fawley's mother|Grandmother]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Fawley family]]
+}}
+'''Addison Fawley''' was the son of [[Grim Fawley]] and [[Penelope Fawley]], who were [[Auror]]s. He had a sister, [[Melody Fawley]].
+
+==Biography==
+In 2015,<ref name="date">{{WU}} was set in 2018. It states Penelope has been missing for three years.</ref>, Penelope went missing and a subsequent investigation overseen by the council of which [[Gareth Greengrass]] was a member, was called off. Grim began searching for her, leading [[Constance Pickering]] to suspect he had unleashed the [[Calamity]] through the use of the [[Foundables Spell]].<ref name="WU">{{WU}} ([https://youtu.be/bW3-J9k0pp4?t=629 see video])</ref>
+
+==Personality==
+Addison was said to have inherited his mother Penelope's stubbornness, but she thought he was like Grim.<ref>[https://wizardsunite.gamepress.gg/foundable/grims-grief A section of Grim's journal]</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Fawley, Addison}}
+
+{{character-stub}}
+[[Category:2000s births]]
+[[Category:British individuals]]
+[[Category:Fawley family]]
+[[Category:Males]]

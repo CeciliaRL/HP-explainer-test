@@ -1,0 +1,55 @@
+{{Youmay|the Gryffindor student|[[Stewart Ackerley]]}}
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:Stewart.JPG|250px]]
+|name = Stewart
+|born = [[1 September]] [[1975]] - [[31 August]] [[1981]] (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Brown
+|skin = Dark
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+**[[Duelling Club]]
+}}
+'''Stewart''' was a [[Gryffindor]] [[wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]] during the [[1990s]]. In [[1992]], he became a member of the [[Duelling Club]] and was ranked sixth on the Club's top-ten duellists list.<ref>{{COS|G}} - PC version</ref>
+
+==Etymology==
+The name "Stewart" comes from an occupational surname originally belonging to a person who was a steward. It is ultimately derived from Old English stig "house" and weard "guard". As a given name, it arose in 19th-century [[Scotland]] in honour of the Stuart royal family, which produced several kings and queens of [[Scotland]] and [[Great Britain|Britain]] between the 14th and 18th centuries.
+
+==Appearances==
+*{{COS|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Duelling Club}}
+[[es:Stewart]]
+[[fr:Stéphane]]
+[[pl:Stewart]]
+
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Duelling Club members]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

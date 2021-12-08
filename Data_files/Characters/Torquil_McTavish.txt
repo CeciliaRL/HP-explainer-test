@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Torquil McTavish.png|250px]]
+|name = Torquil McTavish
+|born = Year unknown, [[Scotland]]
+|died = 
+|blood = Magical to unknown extent
+|marital = 
+|nationality = Scottish
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Red
+|eyes = 
+|skin = White
+|family = [[Tarquin McTavish]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Broom flyer
+|house = 
+|loyalty = 
+}}
+'''Torquil McTavish''' was a [[Scotland|Scottish]] [[wizardkind|wizard]] who was one of the most revered [[Broomstick|broom]] [[broom racing|flyers]] in [[Europe]] in the mid-[[18th century]].
+
+==Biography==
+In [[1754]], McTavish agreed to participate in a [[Broomstick|broom]] [[broom racing|race]] from [[Aberdeen]] to [[Rome]] with the [[Italy|Italian]] [[Silvio Astolfi]], his bitter rival.<ref name="WBoS">{{WBS}}</ref>
+
+The race was held at night in order to avoid attracting [[Non-magic people|Muggle]] attention. Arriving in Rome at dawn, McTavish and Astolfi were seen racing toward the finish line at the [[Coliseum]], but at that point, a violent confrontation between supporters of the two racers who were gathered there broke out. During the course of the fight, Astolfi was [[Pullus|transformed]] into a [[Chicken (animal)|chicken]], and McTavish was hit with a [[knee-reversal hex]]. The conflict culminated in an explosion that left the Colosseum in ruins.<ref name="WBoS" />
+
+Thanks to [[Orabella Nuttley]], who stepped forward and fixed a few columns with her [[Mending Charm]], the damage to the Colosseum was undone by the time that the Muggles woken by the explosion finally showed up at the scene. All they found was a few strangely-dressed men attempting to calm the agitated Astolfi, who was still a chicken. What happened to McTavish is unknown, but it can be presumed that his knees were returned to facing the proper way.<ref name="WBoS" />
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': Torcquil was an incredibly talented and accomplished broomstick flyer, to the extent of being world renowned for his skill. Torcquil was so skilled he was able to participate in a long-distance broom race from Aberdeen to Rome.
+
+==Appearances==
+*{{WBS}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:McTavish, Torquil}}
+[[es:Torquil McTavish]]
+[[fr:Torquil MacTavish]]
+[[ru:Торквил Мактавиш]]
+[[pl:Torquil McTavish]]
+[[Category:Broom fliers]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Scottish individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Unidentified Slytherin Beater (II).png|250px]]
+|name = Unidentified Slytherin Beater (II)
+|born = [[1970s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Black
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+**[[Slytherin Quidditch team]]
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who played as [[Beater]] for the [[Slytherin Quidditch team|Slytherin team]] in [[Quidditch]].<ref>{{PS|F}}</ref>
+
+==Behind the scenes==
+*He only appears in {{PS|FA}}.
+*It is possible that this person is [[Peregrine Derrick]].
+
+==Appearances==
+*{{PS|F}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+
+[[es:Golpeador de Slytherin no identificado (II)]]
+[[pl:Niezidentyfikowany pałkarz Slytherinu (II)]]
+[[Category:Beaters]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

@@ -1,0 +1,51 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Headmaster of Mahoutokoro
+|born = 
+|died =  
+|blood = 
+|nationality = [[Japan]]ese<ref name="HM723"/>
+|alias = 
+|title = [[Headmaster]]<ref name="HM723"/>
+|marital = 
+|signature =
+|species = [[Human]]<ref name="HM723"/>
+|gender = Male<ref name="HM723"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family =  
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster]] of [[Mahoutokoro]] (c. 1990)<ref name="HM723"/>
+|house = 
+|loyalty = [[Mahoutokoro]]<ref name="HM723"/>
+}}
+{{Quote|I seem to recall it being a favourite of the current headmaster of Mahoutokoro.|[[Albus Dumbledore]] regarding ''[[Protego Diabolica]]'' to [[Jacob's sibling]]|Harry Potter: Hogwarts Mystery}}
+This '''individual''' (fl. [[1990s]]) was a [[Headmaster]] of [[Mahoutokoro]] during the early [[1990s]].<ref name="HM723">{{HM|7|23}}</ref>
+
+==Biography==
+[[Albus Dumbledore]] recalled that this headmaster's favourite [[spell]] was ''[[Protego Diabolica]]''.<ref name="HM723"/>
+
+==Magical abilities and skills==
+*'''[[Dark Arts]]''': This headmaster's favourite spell was said to be the dangerous and powerful [[dark charm]] ''[[Protego Diabolica]]'',<ref name="HM723"/> implying he was skilled with Dark Magic.
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Headmasters]]
+[[Category:Japanese individuals]]
+[[Category:Mahoutokoro staff]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

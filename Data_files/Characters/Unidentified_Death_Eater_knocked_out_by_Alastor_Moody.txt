@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = death-eater
+|image = Death Eater knocked out by Moody.png
+|name = Unidentified Death Eater knocked out by Alastor Moody
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">The Death Eaters as an organisation were known for their vehement hatred of all [[Muggle-born]]s and [[Non-magic people|Muggles]].</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTPF"/>
+|gender = Male<ref name="OOTPF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|job = 
+|house = 
+|loyalty = *[[Death Eaters]]<ref name="OOTPF"/>
+**[[Tom Riddle|Lord Voldemort]]<ref name="OOTPF"/>
+}}
+This '''individual''' was a [[Dark Wizard]] and [[Death Eaters|Death Eater]] who fought during the [[Battle of the Department of Mysteries]] in the [[Second Wizarding War]]. He was about to cast a [[spell]] when [[Alastor Moody]] used his [[Alastor Moody's walking stick|staff]] to [[magic]]ally knock him out, possibly with the [[Knockback Jinx]] or a similar spell.<ref name="OOTPF">{{OOTP|F}}</ref>
+
+==Behind the scenes==
+*It is possible that this [[Death Eaters|Death Eater]] is either [[Avery (Marauder-era)|Avery]] or [[Mulciber (Marauder-era)|Mulciber]].
+
+==Appearances==
+*{{OOTP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pt-br:Comensal da Morte não identificado nocauteado por Alastor Moody]]
+[[Category:Battle of the Department of Mysteries participants]]
+[[Category:Males]]
+[[Category:Unidentified Death Eaters]]

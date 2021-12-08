@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = Little girl hbp.jpg
+|name = Unidentified little girl
+|born = c. [[1984]]-[[1985]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP21"/>
+|gender = Female<ref name="HBP21"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HBPG"/>
+|eyes = 
+|skin = White<ref name="HBPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="HBPG">{{HBP|G}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBP21"/>
+**[[Slytherin]]<ref name="HBP21"/>
+}}
+This '''individual''' was a [[Wizardkind|witch]] at [[Hogwarts School of Witchcraft and Wizardry]], who was a member of [[Slytherin]] house.<ref name="HBPG"/>
+
+==Biography==
+During the [[1996–1997 school year]], [[Draco Malfoy|Malfoy]] had [[Gregory Goyle|Goyle]] turn into this girl via [[Polyjuice Potion]] to be able to guard the [[Room of Requirement]] while Malfoy was repairing the [[Vanishing Cabinet]] inside.<ref name="HBP21">{{HBP|B|21}}</ref>
+
+==Appearances==
+*{{HBP}} {{c|As an assumed identity}}
+*{{HBP|G}} {{c|As an assumed identity}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Impersonated individuals]]
+[[Category:Sorted in the 1990s]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

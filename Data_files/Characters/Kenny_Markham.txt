@@ -1,0 +1,53 @@
+{{Imageless}}
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Kenny Markham
+|born = [[31 August]] [[1985]] or earlier<ref name="age">He was at least in his first year at Hogwarts during the 1996-1997 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Gryffindor]]<ref name="HBPG"/>
+}}
+'''Kenny Markham''' was a [[Wizardkind|wizard]] and [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="HBPG"/>
+
+==Biography==
+As a lover of [[Wizard's Chess|wizard's chess]], he collected chess pieces, and traded his extra ones with other students for [[Gobstones]] or [[Chocolate Frog Card]]s. He could usually be found in the [[Classroom 1B|Transfiguration Classroom]] during the [[1996–1997 school year]].<ref name="HBPG">{{HBP|G}} - NDS version</ref>
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Half-Blood Prince (Nintendo DS)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{HBP|G}} {{1st}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Markham, Kenny}}
+[[pl:Kenny Markham]]
+[[fr:Kenny Markham]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

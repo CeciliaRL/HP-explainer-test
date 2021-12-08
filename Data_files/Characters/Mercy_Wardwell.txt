@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Mercy Wardwell
+|hideb=hide
+|born=after [[1976]]<ref>Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref>
+|died=
+|blood=
+|alias=
+|title=[[Chaser]]
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Chaser]] for the [[American National Quidditch team]]
+|house=
+|loyalty=[[American National Quidditch team]]
+}}
+'''Mercy Wardwell'''<ref name="Insider">[http://insider.pottermore.com/2014/05/read-ginny-potters-match-reports-from.html "Read Ginny Potter's match reports from the 2014 Quidditch World Cup every day this week"] at [http://insider.pottermore.com Pottermore Insider]</ref> was an American [[Wizardkind|witch]] who played as the [[Chaser]] for the [[American National Quidditch team]], and competed in the [[2014 Quidditch World Cup]].
+
+==Biography==
+During the [[United States of America|America]]-[[Brazil]] semi-finals taking place on [[4 July]] and [[5 July]], the nerves got to Wardwell and after her fifth fumble with the [[Quaffle]], she began to repeatedly hit her head against her broom handle before being stopped by fellow teammate and [[Seeker]], [[Darius Smackhammer]].
+
+During the play-offs for third place against [[Japan]] on [[9 July]], she and her fellow American Chasers, [[Arsenia Gonzales]] and [[Quentin Kowalski]], scored twelve goals. The Japanese Seeker, [[Noriko Sato]], went into a spectatular dive and grabbed the [[Golden Snitch|Snitch]] from under Wardwell's heel, allowing Japan to win with a score of 330-120.
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT: Wardwell, Mercy}}
+[[de:Mercy Wardell]]
+[[fr:Mercy Wardwell]]
+[[pl:Mercy Wardwell]]
+[[Category:American individuals]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:Wizards]]

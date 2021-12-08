@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:HumphreyBalsamo.png|250px]]
+|name = Humphrey Balsamo
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBC"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC"/>
+|gender = Male<ref name="FBC"/>
+|height = 
+|weight = 
+|hair = Black<ref name="FBC"/>
+|eyes = Brown<ref name="FBC"/>
+|skin = Dark<ref name="FBC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Assistant at [[Slug & Jiggers Apothecary]]<ref name="FBC"/>
+|house = 
+|loyalty = [[Slug & Jiggers Apothecary]]<ref name="FBC"/>
+}}
+'''Humphrey Balsamo''' was a [[Great Britain|British]] [[Wizardkind|wizard]] and shop assistant working at [[Slug & Jiggers Apothecary|Slug &amp; Jiggers]], a shop specialising in [[potion]]s and their ingredients in [[Diagon Alley]].<ref name="FBC"/>
+
+==Biography==
+At the time of Balsamo's employment at Slug & Jiggers, the apothecary was broken into and wrecked by what seemed to be a [[magic]]al [[beast]], thus prompting investigation by [[Mathilda Grimblehawk]] and her [[Mathilda Grimblehawk's partner|partner]] from the [[Ministry of Magic]]'s [[Beast Division]].<ref name="FBC">{{FBC|6|2}}</ref>
+
+==Etymology==
+*In Latin, "''[[Wiktionary:balsamo|balsamo]]''" is a declension of the noun "''[[Wiktionary:balsamum|balsamum]]''", meaning balsam or balm, a sweet-smelling oil or soothing ointment derived from plants; it's a rather fitting surname for someone who works in an apothecary.
+*[[Wikipedia:Alessandro Cagliostro|Giuseppe Balsamo]] (1743–1795), who is more commonly known by the assumed pseudonym and self-conferred title of "Count Alessandro di Cagliostro", was a noted charlatan and impostor who infiltrated several royal courts of Europe as a [[Wikipedia:Quackery|quack]] and self-styled magician.
+
+==Appearances==
+{{Imagecat|Images of Humphrey Balsamo}}
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Balsamo, Humphrey}}
+[[pl:Humphrey Balsamo]]
+[[fr:Humphrey Balsamo]]
+[[ru:Хамфри Бальзамо]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

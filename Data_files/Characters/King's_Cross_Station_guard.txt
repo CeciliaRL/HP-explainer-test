@@ -1,0 +1,72 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:King's Cross Station guard.png|250px]]
+|name = King's Cross station guard
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="PS6"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PS6"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PS6"/>
+|gender = Male<ref name="PS6"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Guard at [[King's Cross Station]] (c. [[1991]]-at least [[2017]])<ref name="PS6"/>
+|house = 
+|loyalty = [[King's Cross Station]]<ref name="PS6"/>
+}}
+{{Quote|He stopped a passing guard, but didn’t dare mention platform nine and three-quarters. The guard had never heard of Hogwarts and when Harry couldn’t even tell him what part of the country it was in, he started to get annoyed, as though Harry was being stupid on purpose. Getting desperate, Harry asked for the train that left at eleven o’clock, but the guard said there wasn’t one. In the end the guard strode away, muttering about time wasters.|[[Harry Potter]] struggling to communicate with this Muggle station guard in 1991|Harry Potter and the Philosopher's Stone}}
+This [[Non-magic people|Muggle]] '''Station Guard''' was employed at [[King's Cross Station]], [[London]],<ref name="PS6">{{PS|B|6}}</ref> during at least the [[1990s]],<ref name="PS6"/> through the [[2010s]].<ref name="DHF2"/>
+
+==Biography==
+===1991===
+[[File:Station guard 1.jpg|The station guard in 1991|thumb|left|150px]]
+[[Harry Potter]] first met the station guard on [[1 September]] [[1991]], while trying to find his way to [[Platform Nine and Three-Quarters]]. Not knowing how to access the platform, he did not dare to mention the Platform to the guard, but he told him he was trying to reach [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]; this was unsuccessful, as the Muggle guard had of course never heard of the school, and when Harry simply asked him what train was leaving at eleven o'clock, he told him there wasn't one, and then stopped talking to Harry, muttering under his breath that he was a "time waster". Thankfully for Harry, he quickly met the [[Wizardkind|wizarding]] [[Weasley family]] who showed him how to access the platform.<ref name="PS6"/>
+
+===1992===
+[[File:Statios.jpg|This station guard talking to a commuter|thumb|150px|right]]
+{{Dialogue a-b|Station guard|What in blazes d’you think you’re doing?|Harry Potter|Lost control of the trolley.|The guard's reaction to [[Harry Potter|Harry]] and [[Ronald Weasley|Ron]]'s collision with a wall|Harry Potter and the Chamber of Secrets}}
+On [[1 September]] [[1992]], Harry and [[Ronald Weasley|Ron Weasley]] tried entering Platform 9¾,<ref name="COS5"/> but were prevented from doing so,<ref name="COS5"/> as the entrance had been [[Blocked Barrier|magically blocked]] by the [[House-elf]] [[Dobby]].<ref name="COS10">{{COS|B|10}}</ref> The station guard saw the two boys running into the wall and angrily asked them what they were doing. Harry got up, telling him that the two lost control of their trolleys.<ref name="COS5">{{COS|B|5}}</ref>
+
+===2017===
+In [[2017]], this individual was still employed at [[King's Cross Station|King's Cross]].<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*The station guard was portrayed by [[Harry Taylor]] in ''[[Harry Potter and the Philosopher's Stone (film)|Harry Potter and the Philosopher's Stone]]'', ''[[Harry Potter and the Chamber of Secrets (film)|Harry Potter and the Chamber of Secrets]]'' and {{DH|F2}}.
+*In {{COS}}, it isn't exactly specified if the station guard who is alarmed by Harry and Ron crashing into the barrier is the same guard who talks to Harry in {{PS}}, but as the same actor ([[Harry Taylor]]) plays this character in their film adaptations, this [[canon]]ically makes this guard present in both novels.
+*He originally appeared in the Epilogue scene at King's Cross station in {{DH|F2}}, but he was cut from the second shoot of the scene.
+*The guard is also a playable character in the consoles versions of the LEGO video games.
+*In {{LEGO|Y2}}, despite being a [[Non-magic people|Muggle]], he appears in [[Platform Nine and Three-Quarters]] and in the [[Hogsmeade station]].
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{COS}} 
+*{{COS|F}}
+*{{DH|F2}} {{Comment|Cut from final edit}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Chef de gare]]
+[[ru:Работник вокзала Кингс Кросс]]
+[[pl:Strażnik King's Cross]]
+[[Category:British individuals]]
+[[Category:King's Cross Station]]
+[[Category:Males]]
+[[Category:Security guards]]
+[[Category:Unidentified Muggles‎]]

@@ -1,0 +1,31 @@
+{{Individual infobox
+|image = [[File:Jacques Miskine.png|250px]]
+|name = Jacques Miskine
+|born = After [[1976]], [[Chad]] (possibly)
+|nationality = [[Chad]]ian<ref name="PM"/>
+|title = [[Seeker]]<ref name="PM"/>
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|job = [[Seeker]] for the [[Chadian National Quidditch team]]<ref name="PM"/>
+|loyalty = [[Chadian National Quidditch team]]<ref name="PM"/>
+|theme = quidditch-player
+}}'''Jacques Miskine''' was a [[Chad]]ian [[Wizardkind|wizard]] who played as the [[Seeker]] for the [[2014]] [[Chadian National Quidditch team]]. During the second day of the fifth match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], [[Liechtenstein National Quidditch team|Liechtenstein]] versus Chad, Miskine was so tired he did not notice a [[Golden Snitch|Snitch]] hovering over his left eyebrow for five minutes, and failed to capture it when he did notice as his reaction was too slow.<ref name="PM">{{PM}} - [[LIECHTENSTEIN VERSUS CHAD (II)|LIECHTENSTEIN_VERSUS_CHAD_(II)]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Miskine, Jacques}}
+
+[[de:Jacques Miskine]]
+[[es:Jacques Miskine]]
+[[pl:Jacques Miskine]]
+[[fr:Jacques Miskine]]
+[[zh:雅克·米斯金]]
+[[ru:Жак Мискин]]
+[[Category:Chadian individuals]]
+[[Category:Males]]
+[[Category:Seekers]]

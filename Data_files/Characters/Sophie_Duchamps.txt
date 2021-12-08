@@ -1,0 +1,41 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Sophie Duchamps
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|nationality=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Sophie Duchamps''' was a [[Wizardkind|witch]].
+
+In the 21st century, the [[Calamity]] transported her copy of ''[[The Standard Book of Spells]]'' around the world.<ref>{{WU}}</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category: Females]]
+[[Category: Wizards]]

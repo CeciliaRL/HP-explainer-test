@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = snatcher
+|image = [[File:Death during battle of hogwarts.JPG|250px]]
+|name = Three unidentified Snatchers
+|born = 
+|died = [[1 May]], [[1998]]<br />[[Hogwarts Castle]], [[Scotland]]
+|blood = [[Pure-blood|Pure]] or [[Half-blood]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s
+|gender = Males
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Snatchers]]
+}}
+These '''three individuals''' were [[wizardkind|wizards]] and [[Snatchers]] during the height of the [[Second Wizarding War]].<ref name="DHpt2"/>
+
+==Biography==
+Just before midnight, on [[1 May]], [[1998]], these three [[Snatchers]] were led to the [[Hogwarts Castle|Hogwarts Grounds]] by [[Scabior]] in order to take part in the [[Battle of Hogwarts]]. Apparently unaware of them, these three wizards ran straight into the protective enchantments placed around the Castle, and disintegrated on the spot. This led the [[Snatchers|Snatcher]] army to wait outside the [[Wooden Bridge]] until the [[Death Eaters]] had broken the magical protection.<ref name="DHpt2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*In {{LEGO|Y2}}, the snatchers do not appear. However, the shield that protected [[Hogwarts School of Witchcraft and Wizardry]] simply repels the enemies rather than disintegrating them.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pt-br:Três Sequestradores não identificados que se desintegraram durante a Batalha de Hogwarts]]
+[[Category:Battle of Hogwarts fatalities]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified snatchers]]

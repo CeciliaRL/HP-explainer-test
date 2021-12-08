@@ -1,0 +1,32 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Skinny_Kid.jpg|170px]]
+|name = Three Broomsticks waiter
+|nationality = [[Great Britain|British]]<ref name="HBPF"/>
+|species = [[Human]]<ref name="HBPF"/>
+|gender = Male<ref name="HBPF"/>
+|hair = Blonde<ref name="HBPF"/>
+|skin = White<ref name="HBPF"/>
+|job = Waiter at the [[Three Broomsticks Inn]]<ref name="HBPF"/>
+|loyalty = [[Three Broomsticks Inn]]<ref name="HBPF"/>
+|theme = wizard
+}}
+{{Quote|Something to drink?|The barman asks Hermione, Ron and Harry|Harry Potter and the Half-Blood Prince (film)}}
+This '''waiter''' was employed at the [[Three Broomsticks Inn]] by [[Rosmerta|Madam Rosmerta]] during the [[1990s]]. In [[1996]], he served three [[Butterbeer]]s to [[Harry Potter]], [[Hermione Granger]] and [[Ronald Weasley]].<ref name="HBPF">{{HBP|F}}</ref>
+
+==Behind the scenes==
+This waiter was portrayed by [[Jack Pryor]] in {{HBP|FA}}, credited in the end credits as "Skinny Kid".
+
+==Appearances==
+*{{HBP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogsmeade}}
+[[es:Camarero de Las Tres Escobas]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Three Broomsticks Inn Employees]]
+[[Category:Unidentified individuals]]
+[[Category:Waitstaff]]
+[[Category:Wizards]]

@@ -1,0 +1,56 @@
+{{Imageless}}
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Phillip Montgomery
+|born = [[31 August]] [[1982]] or earlier<ref name="age">He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Montgomery children's mother|Mrs Montgomery]] (possibly) 
+*[[Montgomery sisters]] (possibly)
+*[[Montgomery]] (possibly)
+*[[Montgomery family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="POAG"/>
+|loyalty = *[[Montgomery family]]<ref name="POAG"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAG"/>
+**[[Ravenclaw]]<ref name="POAG"/>
+}}
+'''Phillip Montgomery''' was a [[Wizardkind|wizard]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="POAG"/>
+
+==Biography==
+At some point in the [[1990s]], Phillip began attending Hogwarts, where he was [[Sorting ceremony|sorted]] into [[Ravenclaw]] house. He was seen walking around the school during the [[1993-1994 school year]].<ref name="POAG">{{POA|G}}</ref>
+
+==Etymology==
+The name "Phillip" is derived from Latin Philippus, from Greek Philippos "fond of horses," from philos "beloved, loving" plus hippos "horse". In the 16th century, Philip and Cheyney was a way to say "any two common men."
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Montgomery, Phillip}}
+[[pl:Phillip Montgomery]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Montgomery family|Philip]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

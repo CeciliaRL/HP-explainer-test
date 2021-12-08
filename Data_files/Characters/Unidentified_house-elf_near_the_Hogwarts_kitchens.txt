@@ -1,0 +1,50 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=hogwarts-staff
+|image=HM House-Elf.jpeg
+|name=Unidentified house-elf near the Hogwarts kitchens
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[House-elf]]
+|gender=
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=Light
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=Hogwarts kitchens worker
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|I like to take a kip in the corridors when [[Pitts]] isn't watching|The House Elf talking to [[Jacob's sibling]]}}
+
+This '''[[house-elf]]''' worked at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]]. They worked in the [[Hogwarts kitchens|kitchens]] along with the other [[Hogwarts house-elves]]. They were regularly seen stealing naps, whilst leaning against a wall, in a corridor near the entrance to the kitchens, infuriating [[Pitts]], the House Elf tasked with overseeing their actions as well as those of the other elves. When woken by [[Jacob's sibling]], the house-elf panicked, and quickly ran off. While Pitts was aware that one of his elves was taking regular naps in the corridors, he had no idea which elf it was, allowing this elf to get off scot-free.
+
+==Description==
+The elf had long, pig-like ears and a pointy, beakish nose. They wore what appeared to be a potato sack emblazoned with a small Hogwarts crest.<ref>{{HM}}</ref>
+
+==Behind the scenes==
+*In {{HM}}, waking up this house-elf earns the player one extra energy.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+[[ru:Неизвестный домовик около кухни]]
+[[fr:Elfe de maison endormi]]
+[[Category:British individuals]]
+[[Category:House-elves]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified Hogwarts employees]]

@@ -1,0 +1,56 @@
+{{Youmay|the Slytherin student|[[Bridget Wenlock]] or [[Rita Skeeter#Behind the scenes|a journalist of the same name]]}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Bridget.JPG|250px]]
+|name = Bridget
+|born = c. [[1 September]] [[1975]] - [[31 August]] [[1981]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Female<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="COSG"/>
+|eyes = Brown<ref name="COSG"/>
+|skin = Dark<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="COSG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSG"/>
+**[[Slytherin]]<ref name="COSG"/>
+**[[Duelling Club]]<ref name="COSG"/>
+}}
+'''Bridget''' was a [[Wizardkind|witch]] and [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]] during the [[1990s]].<ref name="COSG"/>
+
+In [[1992]] she became a member of the [[Duelling Club]] and was ranked five on the Club's top-ten duellists list.<ref name="COSG">{{COS|G}} - PC version</ref>
+
+==Etymology==
+"Bridget" is an anglicised form of the Irish name ''Brighid'' which means "exalted one". In Irish mythology this was the name of the goddess of fire, poetry and wisdom, the daughter of the god Dagda. In the 5th century it was borne by Saint Brigid, the founder of a monastery at Kildare and a patron saint of Ireland. Because of the saint, the name was considered sacred in Ireland, and it did not come into general use there until the 17th century.
+
+==Appearances==
+*{{COS|G}} {{1st}} {{C|PC version}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Duelling Club}}
+[[es:Bridget]]
+[[fr:Brigitte]]
+[[pl:Bridget]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Duelling Club members]]
+[[Category:Females]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

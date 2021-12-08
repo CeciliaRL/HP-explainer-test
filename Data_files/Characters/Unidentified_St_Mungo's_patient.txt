@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified St Mungo's patient
+|born = 
+|died = 
+|blood = [[Magic]]al to unknown extent<ref name="OOTP22"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP22"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP22"/>
+|gender = Male<ref name="OOTP22"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Unidentified St Mungo's patient's brother]]<ref name="OOTP22"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="OOTP22"/>
+}}
+{{Quote|It's these - ouch - shoes my brother gave me - ow - they're eating my - OUCH - feet -|The wizard complaining to the [[St Mungo's Welcome Witch]]|Harry Potter and the Order of the Phoenix}}
+This '''[[Wizardkind|wizard]]''' came to [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]] in [[1995]] with a very serious problem. The shoes his [[Unidentified St Mungo's patient's brother|brother]] gave him were [[Biting jinx|attempting]] to eat his feet.<ref name="OOTP22">{{OOTP|B|22}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{St Mungo's}}
+
+[[es:Paciente de San Mungo no identificado]]
+[[pt-br:Paciente do St Mungus não identificado]]
+[[Category:British individuals]]
+[[Category:Males|St Mungo's patient]]
+[[Category:St Mungo's patients]]
+[[Category:Unidentified individuals|St Mungo's patient]]
+[[Category:Wizards|St Mungo's patient]]

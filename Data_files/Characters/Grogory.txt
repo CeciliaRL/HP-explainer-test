@@ -1,0 +1,43 @@
+{{SicTitle}}
+{{Individual infobox
+|theme=individual
+|image=
+|name=Saint Grogory
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=[[Wikipedia:Saint|Saint]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+'''Saint Grogory''' was a [[saint]] after whom [[St. Grogory's Primary School]] was named.<ref name="hppts">{{HPPS}}, p. 403 {{see image|File:DudleyAward1.jpg}}</ref>
+
+==Behind the scenes==
+*St. Grogory is possibly a reference to the real St Gregory: Pope Gregory I. He is considered the patron saint of, among other things, students and teachers, making him a prime candidate to name a school after.<ref>"[[Wikipedia:Pope Gregory I|Pope Gregory I]]" on [[Wikipedia:Main Page|Wikipedia]]</ref>
+
+==Appearances==
+*{{PS|F}} {{Comment|Name seen on award certificate}}
+*{{HPPS}} {{Comment|Name seen on award certificate}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]
+[[Category:Saints]]

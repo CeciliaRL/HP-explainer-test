@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Euphraïlde Lestrange
+|born = [[1692]]<ref name="Archive">{{AM}}</ref>
+|died = [[1755]]<ref name="Archive" /> (aged 63)
+|blood = [[Pure-blood]] or [[half-blood]]<ref name="Archive" /><ref>She was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|marital = 
+|nationality = [[France|French]]
+|alias = 
+|title = 
+|signature = 
+|species = Human
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Lestrange family]]<ref name="Archive" /> 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Lestrange family]]<ref name="Archive" />
+}}
+'''Euphraïlde Lestrange''' ([[1692]] – [[1755]]) was a [[France|French]] [[Wizardkind|witch]] and a member of the [[pure-blood]] [[Lestrange family]]. Euphraïlde died in [[1755]] and was laid to rest in the [[Lestrange Mausoleum|Lestrange family Mausoleum]] in [[Cimetière du Père-Lachaise]], [[Paris]], [[France]].<ref name="Archive" />
+
+==Appearances==
+*{{AM}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Lestrange, Euphraïlde}}
+
+[[fr:Euphraïlde Lestrange]]
+[[pl:Euphrahilde Lestrange]]
+[[Category:1690s births]]
+[[Category:1750s deaths]]
+[[Category:Buried at Cimetière du Père-Lachaise]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Lestrange family]]
+[[Category:Wizards]]

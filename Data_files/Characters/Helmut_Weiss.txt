@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme=macusa
+|image=
+|name=Helmut Weiss
+|nationality=[[United States of America|American]]<ref name="PM"/>
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]<ref name="PM"/>
+|gender=Male<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=*[[Konrad Weiss]] {{c|possibly}}
+*[[Weiss family]]
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Auror]]<ref name="PM"/>
+|house=
+|loyalty=[[Magical Congress of the United States of America]]<ref name="PM"/>
+}}
+'''Helmut Weiss''' was an [[United States of America|American]] [[wizardkind|wizard]] and one of the original twelve [[Auror]]s in the [[Magical Congress of the United States of America]].<ref name="PM">{{WW|macusa}}</ref>
+
+He died before reaching "old age."<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{1st mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+{{DEFAULTSORT:Weiss, Helmut}}
+
+[[de:Helmut Weiss]]
+[[fr:Helmut Weiss]]
+[[pl:Helmut Weiss]]
+[[ru:Гельмут Вайс]]
+[[de2:Helmut Weiss]]
+[[Category:American individuals]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Original twelve MACUSA Aurors]]
+[[Category:Males]]
+[[Category:Weiss family]]
+[[Category:Wizards]]

@@ -1,0 +1,45 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Lit Tuttle's grandmother
+|born=Before [[1973]]
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Female
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=*[[Liz Tuttle's maternal grandfather|Husband]]
+*[[Liz Tuttle's mother|Daughter]]
+*[[Liz Tuttle]] (granddaughter)
+*[[Liz Tuttle's sister|Granddaughter]]
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=[[Tuttle family]]<ref name="HM515"/>
+}}
+This '''individual''' was a [[Wizardkind|witch]] who lived in [[Somalia]]. She had at least one child, a daughter, whom she home-schooled at [[magic]]. Through her, she had at least two granddaughters, one of whom was Liz.<ref name="HM515">{{HM|5|15|d}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Tuttle, Liz maternal grandmother}}
+[[Category:Somalian individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

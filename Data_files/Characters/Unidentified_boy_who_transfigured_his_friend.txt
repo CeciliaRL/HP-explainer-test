@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Badgered Boy.jpg|250px]]
+|name = Unidentified boy
+|born = [[1980s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COS11"/>
+|gender = Male<ref name="COS11"/>
+|height = 
+|weight = 
+|hair = Black<ref name="TCG">{{TCG}}</ref>
+|eyes = 
+|skin = Light<ref name="TCG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="COS11"/>
+}}
+{{Quote|Professor McGonagall was shouting at someone who, by the sound of it, had turned [[Badgered Boy|his friend]] into a badger.|Description|Harry Potter and the Chamber of Secrets}}
+This '''individual''' was a [[Wizardkind|wizard]] that attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. In [[1992]] he turned [[Badgered Boy|his friend]] into a [[badger]] in [[Transfiguration (class)|Transfiguration]] and was shouted at by [[Minerva McGonagall]].<ref name="COS11">{{COS|B|11}}</ref>
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+*{{TCG}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

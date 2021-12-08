@@ -1,0 +1,55 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Lady Grieve
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Honorific#Lady|Lady]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Alas for the eve when I met Lady Grieve, / A-strolling the park in the dusk! / She was of the belief I could straighten her teeth, / Next moment she'd sprouted a tusk.|[[Nicholas de Mimsy-Porpington]] in [[Nicholas de Mimsy-Porpington's five-hundredth Deathday Party|his five-hundredth]] [[Deathday Party]]|J.K.Rowling Official Site}}
+
+'''Lady Grieve''' (fl. [[1492]]) was a lady-in-waiting at the court of [[Henry VII|King Henry VII]].<ref name="WW">{{WW|hogwarts-ghosts}}</ref>
+
+She met [[Nicholas de Mimsy-Porpington|Sir Nicholas de Mimsy-Porpington]], a [[Wizardkind|wizard]], while strolling in a park on the evening of [[30 October]], [[1492]]. Lady Grieve was confident that Sir Nicholas could [[Teeth-straightening spell|straighten her crooked teeth]], but his effort to do so backfired, causing her to grow a tusk instead. Sir Nicholas was nearly beheaded (earning him his nickname) the following morning as a result of this mishap.<ref name="JKRS">[http://web.archive.org/web/20110623034857/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=11 Nearly Headless Nick's background] at jkrowling.com</ref>
+
+==Appearances==
+*{{COS}} {{Comment|Mentioned in early drafts only}}
+*{{JKRS}} {{1st Mention}}
+*{{PM}} {{Comment|Mentioned as "a lady-in-waiting"}}
+*{{WW}} {{Comment|Mentioned as "a lady-in-waiting"}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Grieve, Lady}}
+
+[[de:Fräulein von Schwan]]
+[[de2:Fräulein von Schwan]]
+[[fr:Grieve]]
+[[pl:Lady Grieve]]
+[[Category:British individuals]]
+[[Category:Courtiers]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Nobility]]

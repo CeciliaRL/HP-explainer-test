@@ -1,0 +1,31 @@
+{{MagicAwakenedSpoiler}}
+{{Pet individual infobox
+|name = Trio of Red Caps
+|image = One of the trio of Red Caps MA.png
+|born = In or before the [[2000s]]<ref name="MA112"/>
+|died = 
+|alias = 
+|title = 
+|species = [[Red Cap]]s<ref name="MA112">{{MA|1|12}}</ref>
+|gender = 
+|height = 
+|hair = White<ref name="MA112"/>
+|eyes = Red<ref name="MA112"/>
+|skin = Grey<ref name="MA112"/>
+|feathers = 
+|family = 
+|loyalty = 
+}}
+These three '''[[Red Cap]]s''' were caught by [[Argus Filch]] around the [[2000s]] and [[Attack beside Gossamer's portrait|battled]] [[Unidentified 2000s Hogwarts student|a Hogwarts student]].<ref name="MA112"/>
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Creature-stub}}
+[[Category:Argus Filch's possessions]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Pets]]
+[[Category:Red Caps]]
+[[Category:Red-eyed individuals]]

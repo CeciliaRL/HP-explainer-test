@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Dougal McGregor's father-in-law
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Dougal McGregor's wife|Mrs McGregor]] (daughter)
+*[[Dougal McGregor]] (son-in-law) †
+*[[Dougal McGregor's father|Mr McGregor]] (son-in-law's father)
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+This '''individual''' was a [[Non-magic people|Muggle]] farmer who resided in [[Caithness]], [[Scotland]] in the early [[20th century]]. He had a [[Dougal McGregor's wife|daughter]] who married the son of [[Dougal McGregor's father|another farmer]], [[Dougal McGregor]].<ref name="pottermore">{{PM}} biography of [[Minerva McGonagall]]  (transcription available [http://forums.darklordpotter.net/showpost.php?s=4a2e751bddc00f9618a0b1bb6d9ce6fc&p=481284&postcount=443 here])</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:McGregor}}
+
+[[fr:Dougal McGregor's father-in-law]]
+[[pl:Teść Dougala McGregora]]
+[[Category:Farmers]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Scottish individuals]]
+[[Category:Unnamed family members]]

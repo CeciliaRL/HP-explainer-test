@@ -1,0 +1,44 @@
+{{Imageless}}
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Annabel Entwhistle
+|born = on or prior to [[31 August]] [[1982]]<ref>She was at least in her first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = [[Muggle-born]] (possibly)<ref>Kevin Entwhistle, who share the surename with Annabel, is known Muggle-born, so Annabel might also be Muggle-born.</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Kevin Entwhistle]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = [[Entwhistle family]]
+}}
+'''Annabel Entwhistle''' was a [[Hufflepuff]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She was seen walking around the school during the [[1993-1994 school year]].
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Entwhistle, Annabel}}
+[[pl:Annabel Entwhistle]]
+[[Category:British or Irish individuals]]
+[[Category:Entwhistle family]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Wizards]]

@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = mom
+|image = [[File:MiraphoraMinaInUniverse.jpg|250px]]
+|name = Miraphora Mina
+|born = January 21st - February 18th<ref>Aquarius is the eleventh astrological sign in the Zodiac, originating from the constellation Aquarius. It spans the 300-330th degree of the zodiac, between 305.25 and 332.75 degree of celestial longitude, which, in the Tropical Zodiac, means the Sun transits this area on average between January 21 to February 18 each year</ref><ref name="HPLE">See [[:File:EduardoLimaFilhoMiraphoraMiraIdentityCards.jpg|this image]]. The sun is in [[Aquarius]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 5' 10"<ref name="HPLE" />
+|weight = 
+|hair = Blonde<ref name="HPLE" />
+|eyes = Green<ref name="HPLE" />
+|skin = 
+|family = *[[M. Mina]] (possibly)
+*[[Miraphora Mina (Hogwarts student)|Miraphora Mina]] (possibly)
+*[[Ruth Mina]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Worker in the [[Runes & Symbols]] department of the [[Ministry of Magic]]
+|house = 
+|loyalty = [[British Ministry of Magic]]
+}}
+'''Miraphora Mina''' (b. 21st January to 18th February) was a [[Wizardkind|witch]] who worked in the [[Runes & Symbols]] department of the [[Ministry of Magic]].<ref name="HPLE" />
+
+==Behind the scenes==
+*This character was named after [[Miraphora Mina]], a graphic artist who worked on every film in the [[Harry Potter (film series)|''Harry Potter'' film series]] and [[Fantastic Beasts (film series)|''Fantastic Beasts'' film series]].
+
+==Appearances==
+*[[Harry Potter and the Deathly Hallows: Part 1]] {{Comment|Appears in photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Mina, Miraphora}}
+
+[[de2:Miraphora Mina (Ministeriumsangestellte)]]
+[[es:Miraphora Mina (empleada del Ministerio)]]
+[[pl:Miraphora Mina (czarownica)]]
+[[pt-br:Miraphora Mina (bruxa)]]
+[[ru:Мирафора Мина (волшебница)]]
+[[vi:Miraphora Mina (nhân viên Bộ)]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Mina family|Miraphora]]
+[[Category:Ministry of Magic employees]]
+[[Category:Wizards]]

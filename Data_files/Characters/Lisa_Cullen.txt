@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="house">{{POA|G}} {{C|PS2 version}}</ref>
+|loyalty = 
+}}
+'''Lisa Cullen''' was a [[Gryffindor]]<ref name="house" /> [[Wizardkind|student]] attending [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She competed in the school [[Exploding Snap]] tournament during the [[1996–1997 school year]].
+
+==Etymology==
+*Lisa means either "Oath of God" or "God is satisfacton" in Hebrew
+*Cullen means "puppy or dog" in Gaelic and "holly" in Irish
+
+==Behind the scenes==
+*"Cullen" is also the surname of the main [[vampire]] clan in the popular ''Twilight'' series. [[Robert Pattinson]], who starred as male lead [[w:c:twilightsaga:Edward Cullen|Edward Cullen]] in the ''Twilight'' film adaptations, also played [[Cedric Diggory]] in {{GOF|FA}}. However, since Lisa Cullen first appeared in the PlayStation 2 version of the [[Harry Potter and the Prisoner of Azkaban (video game)|''Prisoner of Azkaban'' video game]], released in [[2004]], her surname would not be an homage to Edward Cullen, as the first ''Twilight'' book was released in [[2005]].
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts Exploding Snap}}
+{{DEFAULTSORT:Cullen, Lisa}}
+[[pl:Lisa Cullen]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

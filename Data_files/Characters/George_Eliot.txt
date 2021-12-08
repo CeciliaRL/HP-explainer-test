@@ -1,0 +1,47 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = George Eliot (a.k.a Mary Ann Evans)
+|born = [[22 November]], [[1819]]<ref name="wikipedia">"[http://en.wikipedia.org/wiki/George_Eliot George Eliot]" on Wikipedia</ref>
+|died = [[22 December]], [[1880]]<ref name="wikipedia" />
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Female<ref name="wikipedia" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Novelist
+|house = 
+|loyalty = 
+}}
+'''George Eliot''' was the pen name of [[England|English]] [[Non-magic people|Muggle]] novelist Mary Ann Evans ([[22 November]], [[1819]] - [[22 December]], [[1880]]).<ref name="wikipedia" /> [[Bathilda Bagshot]] owned a copy of her novel ''[[The Mill on the Floss]]''.<ref name="DHpromo">{{DH|F1}} (see [http://galeria.potterish.com/displayimage.php?album=4714&pid=211699#top_display_media this image])</ref>
+
+==Behind the scenes==
+*[[J. K. Rowling]] has explained that [[Lily J. Potter|Lily Potter]]'s maiden name Evans was based on George Eliot's real name.<ref>[http://popwatch.ew.com/2012/08/28/harry-potter-daniel-radcliffe-rowling-exclusive-video/ "Daniel Radcliffe talks to J.K. Rowling: EXCLUSIVE VIDEO" Entertainment Weekly] 28 August, 2012</ref>
+
+==Appearances==
+*{{DH|F1}} {{Comment|Name appears on book cover}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Eliot, George}}
+[[pl:George Eliot]]
+[[Category:1819 births]]
+[[Category:1880 deaths]]
+[[Category:Authors]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:English individuals]]

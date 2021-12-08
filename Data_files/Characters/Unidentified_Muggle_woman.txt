@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = Unidentified lady 1.jpg
+|name = Unidentified Muggle woman
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="POAF3"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="POAF3"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAF3"/>
+|gender = Female<ref name="POAF3"/>
+|height = 
+|weight = 
+|hair = White<ref name="POAF3"/>
+|eyes = 
+|skin = Pale<ref name="POAF3"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Ernie, little old lady at twelve o'clock!|The [[Dre Head|Shrunken Head]] warns [[Ernest Prang|Ernie Prang]]|Harry Potter and the Prisoner of Azkaban (film)}}
+This elderly '''Muggle woman''' lived in [[London]] in the early [[1990s]].<ref name="POAF3"/>
+
+==Biography==
+In [[August]] [[1993]], this elderly woman was almost run over by the [[Knight Bus]], in which [[Harry Potter]] had been travelling at the time, whilst she was crossing a [[London]] street, with the support of her zimmer-frame. Due to [[Dre Head]]'s warning, the bus, driven by [[Ernest Prang|Ernie Prang]], narrowly avoided hitting her by stopping at the last moment. [[Dre Head]] counted back from ten (including three and a half and one and three quarters) to give Ernie Prang the exact second to take off once more.<ref name="POAF3">{{POA|F}} - Chapter 3 (''The Knight Bus'')</ref>
+
+==Appearances==
+*{{POA|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified Muggles]]

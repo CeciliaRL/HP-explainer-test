@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Unidentified boy who attended Charm School's father
+|born = Before [[1963]] (most likely)<ref>He likely had already left Hogwarts when his son was born.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSgbc"/>
+|gender = Male<ref name="PSgbc"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Unidentified boy who attended Charm School|Son]]<ref name="PSgbc"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="PSgbc"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSgbc"/>
+**[[Hufflepuff]]<ref name="PSgbc"/>
+}}
+{{Quote|I hope I get into Hufflepuff. That was my dad's house.|[[Unidentified boy who attended Charm School|His son]].|Harry Potter and the Philosopher's Stone (video game)}}
+This '''individual''' (fl. [[1980]]) was a [[Wizardkind|wizard]] who studied at [[Hogwarts School of Witchcraft and Wizardry]] in his youth. A member of [[Hufflepuff]] house, he was the father of a [[Unidentified boy who attended Charm School|blond, blue-eyed boy]].<ref name="PSgbc">{{PS|G}} - GBC version</ref>
+
+==Appearances==
+*{{PS|G}} {{1st Mention}} {{C|GBC version}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unidentified Hufflepuffs]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

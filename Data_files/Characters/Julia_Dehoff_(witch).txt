@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Julia Dehoff
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Current affairs correspondent for a [[German]]-language [[Unidentified German wizarding newspaper|wizarding newspaper]]
+|house=
+|loyalty=[[Unidentified German wizarding newspaper]]
+}}
+'''Julia Dehoff''' was a current affairs correspondent for an unidentified [[German]]-language [[Unidentified German wizarding newspaper|wizarding newspaper]] in the [[1920s]].<ref name="fb-paper">"[http://mashable.com/2016/12/02/fantastic-beasts-opening-harry-potter-easter-eggs All the 'Harry Potter' Easter eggs you missed in the 'Fantastic Beasts' opening]" from Mashable {{see image|File:GermanWizardingNewspaper.jpg}}</ref>
+
+==Biography==
+She wrote an article about the [[Unidentified German Minister for Magic in 1926|German Minister for Magic]] calling for a crisis meeting (presumably to address the threat of [[Gellert Grindelwald]]) that was published in a [[1926]] issue of the newspaper.<ref name="fb-paper" />
+
+==Behind the scenes==
+*This character was named after [[Julia Dehoff-Bourne]], who worked as a draughtsman on several [[Harry Potter films|''Harry Potter'' films]].<ref>{{IMDb name|0215005|Julia Dehoff}}</ref>
+
+==Appearances==
+*{{FB|F}} {{comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Dehoff, Julia}}
+[[fr:Julia Dehoff (sorcière)]]
+[[Category:European individuals]]
+[[Category:Females]]
+[[Category:Journalists]]
+[[Category:Wizards]]

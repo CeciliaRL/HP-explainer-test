@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = hag
+|image = Baba yaga.jpg
+|name = Babayaga
+|born = [[Middle Ages|Medieval times]]<ref name="POAG"/>
+|died = [[Middle Ages|Medieval times]]<ref name="POAG"/>
+|blood = 
+|marital = 
+|nationality = [[Russia]]n<ref name="POAG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Hag]]<ref name="POAG"/>
+|gender = Female<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = Dark<ref name="POAG"/>
+|eyes = Black<ref name="POAG"/>
+|skin = Yellow<ref name="POAG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Russian hag who dwelled in a hut that stood on giant chicken legs.  Ate children for breakfast — and presumably for lunch and tea.|[[Chocolate Frog Card]]|Harry Potter and the Prisoner of Azkaban (video game)}}
+'''Babayaga''' was a [[Middle Ages|medieval]] [[Russia]]n [[hag]] who regularly ate [[human]] children for breakfast, and presumably lunch and tea as well. She lived in [[Babayaga's hut|a hut that stood on giant chicken legs]]. She appeared on a hag [[Chocolate Frog Card]].<ref name="POAG">{{POA|G}}</ref>
+
+==Behind the scenes==
+*The name Babayaga is based on the [[Russia]]n folkloric legend of the [[Wikipedia:Baba Yaga|Baba Yaga]].
+**In the [[Russia]]n myth of Baba Yaga, she lures children in to her house - which stands on giant [[chicken]] legs - and feeds on them. When they least expect it, she then throws them in the [[oven]] to cook and eat them.
+
+==Appearances==
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+[[de:Babayaga]]
+[[es:Babayaga]]
+[[fi:Babayaga]]
+[[fr:Babayaga]]
+[[pl:Baba Jaga]]
+[[pt-br:Babayaga]]
+[[ru:Баба-Яга]]
+[[Category:Black-eyed individuals]]
+[[Category:Famous Hags Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Hags]]
+[[Category:Historical figures]]
+[[Category:Murderers]]
+[[Category:Russian individuals]]

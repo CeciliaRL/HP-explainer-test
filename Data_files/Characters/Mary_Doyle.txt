@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Mary Doyle
+|born = Between [[1 September]] [[1978]] and [[31 August]] [[1980]]<ref name="age">Mary appears in both the PlayStation 2 version of the ''Prisoner of Azkaban'' video game and the Nintendo DS version of the ''Half-Blood Prince'' video game. She must therefore  have  been in Harry's year or the one above it to have still been at Hogwarts during the 1996-1997 term.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Brennan Doyle]] {{c|possibly}}
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="house">{{POA|G}} {{C|PS2 version}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+'''Mary Doyle''' was a [[Gryffindor]]<ref name="house" /> [[Wizardkind|student]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1990]] or [[1991]].<ref name="age" />
+
+==Biography==
+She competed in the school [[Wizard Skittles]] tournament during the [[1996–1997 school year]].
+
+==Etymology==
+The name "Mary" is the English form of ''Maria'', which was the Latin form of the New Testament Greek names Μαριαμ (''Mariam'') and Μαρια (''Maria'') - the spellings are interchangeable - which were from the Hebrew name מִרְיָם (''Miryam''). The meaning is not known for certain, but there are several theories including "sea of bitterness", "rebelliousness", and "wished for child". However it was most likely originally an Egyptian name, perhaps derived in part from ''mry'' "beloved" or mr "love".
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Mary Doyle]]
+{{DEFAULTSORT:Doyle, Mary}}
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizard Skittles Players]]
+[[Category:Wizards]]

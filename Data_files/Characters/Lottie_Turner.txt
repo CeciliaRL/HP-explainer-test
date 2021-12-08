@@ -1,0 +1,60 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Lottie Turner from Harry Potter Magic Awakened.jpg|thumb]]
+|name = Lottie Turner
+|born = Between [[1 September]] [[1996]] and [[31 August]] [[1997]]<ref name="MA"/>{{MATimeRef}}
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="MA"/>
+|gender = Female<ref name="MA"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="MA"/>
+|eyes = Brown<ref name="MA"/>
+|skin = Dark<ref name="MA"/>
+|family = [[Lottie Turner's father|Mr Turner]] (father)<ref name="MA"/>
+|romances = 
+|animagus = 
+|boggart = [[Dementor]]<ref name="MA"/>
+|wand = [[Lottie Turner's wand|10½", Elder, Unicorn hair]]<ref name="MA fact file"/>
+|patronus = [[Hummingbird]]<ref name="MA fact file">{{MA}} - [https://mp.weixin.qq.com/s/94FHPPI6TYJD42OqoZf_1Q Lottie Turner fact file]</ref>
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="MA"/>
+}}
+'''Lottie Turner''' was a [[Wizardkind|witch]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in [[2008]].<ref name="MA">{{MA}}</ref>{{MATimeRef}}
+
+==Magical abilities and skills==
+*'''[[Astronomy]]''': Lottie was known to enjoy the study of Astronomy.<ref name="MA fact file"/>
+*'''[[Charm]]s''': Lottie was capable of producing a fully corporeal [[Patronus Charm|Patronus]] in the form of a [[hummingbird]], an exceptional [[magic]]al feat for a Hogwarts student.<ref name="MA fact file"/> She was also proficient with the [[Shrinking Charm]] and [[Doubling Charm]].<ref name="MA"/>
+*'''Artist''': Lottie was good at painting and used to paint with [[Lottie Turner's father|her father]].<ref name="MA"/>
+
+==Possessions==
+*'''[[Lottie Turner's wand|Wand]]''': Lottie's [[wand]] was 10½ inches, made of [[elder]] [[Wand wood|wood]] with a [[unicorn hair]] [[Wand core|core]].<ref name="MA fact file"/>
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Behind the scenes==
+*Lottie does not have a set [[Hogwarts Houses|House]] at Hogwarts. She will be [[Sorting Ceremony|sorted]] into whatever House the [[Unidentified Muggle-born Hogwarts student|player]] chooses to be in.
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Turner, Lottie}}
+{{Character-stub}}
+[[ru:Лотти Тёрнер]]
+[[Category:1990s births]]
+[[Category:Artists]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Sorted in 2008]]
+[[Category:Turner family|Lottie Turner]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Wilhelmina Tuft
+|hideb=
+|born=Before [[1931]]
+|died=[[1959]]<ref name="PM"/>
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office.</ref>
+|alias=
+|title=[[Minister for Magic]]<ref name="PM"/>
+|nationality=[[Great Britain|British]]<ref name="PM"/>
+|species=[[Human]]<ref name="PM"/>
+|gender=Female<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Ignatius Tuft]] (son)<ref name="PM"/>
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Minister for Magic]] ([[1948]]-[[1959]])<ref name="PM"/>
+|house=
+|loyalty=*[[British Ministry of Magic]]<ref name="PM"/>
+*[[Tuft family]]<ref name="PM"/>
+}}
+'''Minister Wilhelmina Tuft''' was [[Minister for Magic]] from [[1948]] to [[1959]], being elected at least twice. Tuft was a cheery [[Wizardkind|witch]] who presided over a period of welcome peace and prosperity. She died in office after discovering, too late, her allergy to [[Alihotsy]]-flavoured fudge, and was succeeded by her son [[Ignatius Tuft]].<ref name="PM">{{WW|ministers-for-magic}}</ref>
+
+==Appearances==
+*{{PM}} {{1st mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}	
+{{Succession box	
+|predecessor=[[Leonard Spencer-Moon]]	
+|position=[[Minister for Magic]]
+|years=[[1948]]-[[1959]]
+|successor=[[Ignatius Tuft]]	
+}}	
+{{End box}}
+
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Tuft, Wilhelmina}}
+
+[[de:Wilhelmina Tuft]]
+[[es:Wilhelmina Tuft]]
+[[fr:Wilhelmina Tuft]]
+[[pl:Wilhelmina Tuft]]
+[[ru:Вильгельмина Тафт]]
+[[zh:威尔米娜·塔夫特]]
+[[Category:1959 deaths]]
+[[Category:Accidental deaths]]
+[[Category:British Ministers for Magic]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Tuft family]]
+[[Category:Wizards]]

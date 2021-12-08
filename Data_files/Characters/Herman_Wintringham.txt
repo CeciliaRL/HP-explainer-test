@@ -1,0 +1,62 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Herman Wintringham.png|thumb]]
+|name = Herman Wintringham
+|born = c. [[1974]]<ref name="COSG">{{COS|G}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="COSG"/>
+|eyes = Blue<ref name="COSG"/>
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Lute]]nist for the The [[Weird Sisters]]<ref name="COSG"/>
+|house = 
+|loyalty = [[Weird Sisters]]<ref name="COSG"/>
+}}
+'''Herman Wintringham''' (c. [[1974]]) was a [[Wizardkind|wizard]] and the [[lute]]nist for the popular band the [[Weird Sisters]].<ref name="COSG">{{COS|G}}</ref> He was extremely hairy and joined his fellow band members to play at [[Hogwarts School of Witchcraft and Wizardry]] at the [[Yule Ball]] in [[1994]].<ref name="GOF23">{{GOF|B|23}}</ref>
+
+==Behind the scenes==
+*Herman Wintringham and [[Merton Graves]] were absent from {{GOF|FA}}, and did not play with the [[Weird Sisters]].
+*If Herman attended [[Hogwarts School of Witchcraft and Wizardry]], he would have attended from [[1985]] to [[1992]], being a seventh year when [[Harry Potter]] was a first year.
+
+==Etymology==
+The name "Herman" means "army man", derived from the Germanic elements hari "army" and man "man".
+
+==Appearances==
+{{Imagecat|Images of Herman Wintringham}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{GOF}} {{1st}} {{Comment|Unnamed}}
+
+==Notes and references==
+{{Reflist}}
+{{Weird Sisters}}
+{{Chocolate Frog Cards}}
+{{DEFAULTSORT:Wintringham, Herman}}
+
+[[de:Herman Wintringham]]
+[[es:Herman Wintringham]]
+[[fr:Herman Wintringham]]
+[[fi:Herman Wintringham]]
+[[it:Herman Wintringham]]
+[[pl:Herman Wintringham]]
+[[ru:Герман Винтрингам]]
+[[Category:1974 births]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Males]]
+[[Category:Weird Sisters]]
+[[Category:Wizards]]

@@ -1,0 +1,30 @@
+{{Individual infobox
+|image = [[File:BorysTheBrute.jpg]]
+|name = Borys the Brute
+|blood = 
+|species = [[Human]]
+|gender = Male
+|job = [[hypnosis|Hypnotist]]
+|loyalty = [[Circus Arcanus]]
+|theme = individual
+|hideb = y
+|hidep = 
+|hidef = 
+|hidem = hide
+|hidea = 
+}}'''Borys the Brute''' was a  [[hypnosis|hypnotist]] in the [[1920s]].
+
+==Biography==
+He was part of the [[Circus Arcanus]], a travelling freak show, which billed him as "perfidious" and warned people to "take heed of his artful deception."<ref name="poster">[http://store.minalima.com/shop/fantastic-beasts/limited-edition-prints/no-maj-street-posters/circus-arcanus-museum-of-human-oddities-poster/ MinaLima Store - Circus Arcanus - Museum of Human Oddities Poster] {{see image|File:Circus Arcanus.png}}</ref>
+
+==Behind the scenes==
+*Considering that the Circus Arcanus was magical, it seems likely that Borys could perform a [[magic]]al form of [[hypnosis]], possibly similar to that of [[Wampus cat]]s.
+
+==Appearances==
+*{{FB|F}} {{Drawing}}
+
+==Notes and references==
+{{Reflist}}[[fr:Borys la Brute]]
+[[Category:Circus performers]]
+[[Category:Males]]
+[[Category:Muggles]]

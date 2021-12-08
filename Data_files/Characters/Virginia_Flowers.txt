@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Virginia Flowers
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Actor
+|house=
+|loyalty=
+}}
+'''Virginia Flowers''' was a [[Muggle|No-Maj]] actor in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:TheNewYorkAffair.jpg}}</ref>
+
+Flowers starred with [[Edward Fountain]] in a production of ''[[The New York Affair]]'' staged at the [[Brockman Theatre]] in [[New York]] in [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Flowers, Virginia}}
+
+[[es:Virginia Flowers]]
+[[pl:Virginia Flowers]]
+[[Category:Actors]]
+[[Category:Females]]
+[[Category:Muggles]]

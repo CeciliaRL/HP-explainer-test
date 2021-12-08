@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Arsenia Gonzales
+|hideb=hide
+|born=after [[1976]]<ref>Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref>
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Chaser]] for the [[American National Quidditch team]]
+|house=
+|loyalty=[[American National Quidditch team]]
+}}
+'''Arsenia Gonzales''' was an [[United States of America|America]]n [[Wizardkind|witch]] and a [[Chaser]] for the [[American National Quidditch team]], and competed in the [[2014 Quidditch World Cup]].
+
+==Biography==
+During the play-offs for third place against [[Japan]] on [[9 July]], her and her fellow American Chasers, [[Mercy Wardwell]] and [[Quentin Kowalski]], scored twelve goals. The Japanese Seeker, [[Noriko Sato]], went into a spectacular dive and grabbed the [[Golden Snitch|Snitch]] from under Wardwell's heel, allowing Japan to win with a score of 330-120.
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT: Gonzales, Arsenia}}
+
+[[de:Arsenia Gonzales]]
+[[fr:Arsenia Gonzales]]
+[[pl:Arsenia Gonzales]]
+[[Category:American individuals]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:Wizards]]

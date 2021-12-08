@@ -1,0 +1,67 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Babajide Akingbade
+|hideb=
+|born=Before [[1978]],<ref name="age">He had graduated from Uagadou by 1995. As shown in {{WBP}}, students still attend it at age 17. Meaning Babajide must have been 17 or older in 1995.</ref> [[Africa]]
+|died=
+|blood=
+|marital=
+|alias=
+|title=[[Supreme Mugwump]]<ref name="PM"/>
+|signature=
+|hidep=
+|species=[[Human]]<ref name="PM"/>
+|gender=Male<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Supreme Mugwump]] of the [[International Confederation of Wizards]]<ref name="PM"/>
+|house=
+|loyalty=*[[Uagadou]]<ref name="PM"/>
+*[[International Confederation of Wizards]]<ref name="PM"/>
+}}
+'''Babajide Akingbade''' was an [[Africa]]n [[wizardkind|wizard]] and [[Uagadou]] graduate who succeeded [[Albus Dumbledore]] as the [[Supreme Mugwump]] of the [[International Confederation of Wizards]]<ref name="PM">{{WW|uagadou}}</ref> in [[1995]], when the latter was [[Campaign to discredit Albus Dumbledore and Harry Potter|voted out]] by [[British Ministry of Magic|British Ministry]] wizards after he made a speech announcing [[Tom Riddle|Lord Voldemort]]'s [[Return of Lord Voldemort|return]].<ref name="OOTP5">{{OOTP|B|5}}</ref>
+
+==Etymology==
+Babajide came from a Yoruba words "baba" meaning "father" and "dziade" meaning "raise from the dead". Babajide means "father has come to life again" or "father has returned".
+
+{{W|Akingbade}} is a Yoruba surname meaning "strong/brave one who wears the crown".
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=[[Albus Dumbledore]]
+|position=[[Supreme Mugwump]] of the [[International Confederation of Wizards]]
+|years=[[1995]]-?
+|successor=Unknown
+}}
+{{End box}}
+{{ICW}}
+
+{{DEFAULTSORT:Akingbade, Babajide}}
+
+[[de:Babajide Akingbade]]
+[[ru:Бабайди Экинбад]]
+[[fr:Babajide Akingbade]]
+[[pt-br:Babajide_Akingbade]]
+[[pl:Babajide Akingbade]]
+[[Category:African individuals]]
+[[Category:Males]]
+[[Category:Supreme Mugwumps]]
+[[Category:Uagadou students]]
+[[Category:Wizards]]

@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Mr McGregor
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Dougal McGregor]] (son) † 
+*[[Dougal McGregor's wife|Mrs McGregor]] (daughter-in-law)
+*[[Dougal McGregor's wife's father|Daughter-in-law's father]]
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Farmer
+|house=
+|loyalty=
+}}
+'''Mr McGregor''' was a [[Non-magic people|Muggle]] farmer who resided in [[Caithness]], [[Scotland]], and was the father of [[Dougal McGregor]].<ref name="pottermore">{{PM}} biography of [[Minerva McGonagall]]  (transcription available [http://forums.darklordpotter.net/showpost.php?s=4a2e751bddc00f9618a0b1bb6d9ce6fc&p=481284&postcount=443 here])</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:McGregor}}
+[[pl:Pan McGregor]]
+[[fr:Père de Dougal McGregor]]
+[[Category:Farmers]]
+[[Category:Males]]
+[[Category:McGregor family]]
+[[Category:Muggles]]
+[[Category:Scottish individuals]]
+[[Category:Unnamed family members]]

@@ -1,0 +1,49 @@
+{{Imageless}}
+{{Individual infobox
+|theme=wizard
+|name=Jay
+|image=
+|hideb=
+|born=Before [[2006]]
+|died=
+|blood=
+|alias=
+|nationality={{GBorIE}}
+|title=
+|hidep=
+|species=[[Human]]<ref name="DHF2"/>
+|gender=Male<ref name="DHF2"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+}}
+{{Quote|Come on, Jay, get a move on.|[[Jay's friend]] hurrying him to take a seat at the Hogwarts Express|Harry Potter and the Deathly Hallows: Part 2}}
+'''Jay''' (b. [[2000s]]) was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the early [[21st century]].<ref name="DHF2"/>
+
+==Biography==
+On [[1 September]], [[2017]], Jay boarded the [[Hogwarts Express]] with a [[Jay's friend|friend of his]]. He was apparently late, and found it hard to take a seat.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Jay]]
+[[Category:2000s births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Sorted in the 2010s]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

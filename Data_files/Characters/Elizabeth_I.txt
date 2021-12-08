@@ -1,0 +1,72 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|name=Elizabeth I
+|image=
+|hideb=
+|born=[[7 September]] [[1533]]
+|died=[[24 March]] [[1603]] (aged 69)
+|blood=[[Non-magic people|Muggle]]
+|marital=Single
+|alias=
+|title=[[Queen]]
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Henry VIII|King Henry VIII]] (father)
+*[[Anne Boleyn]] (mother)
+*[[Mary I|Queen Mary I]] (half-sister)
+*[[William I]] (ancestor)
+*[[House of Tudor]]
+|hidea=
+|job=
+|loyalty=*[[House of Tudor]]
+*[[England]]
+*[[Ireland]]
+}}
+'''Elizabeth I''' ([[7 September]] [[1533]] - [[24 March]] [[1603]]) was a [[Non-magic people|Muggle]] who reigned as [[Queen]] of [[England]] and [[Ireland]] from [[1558]] until her [[death]].<ref name="wikipedia">"[https://en.wikipedia.org/wiki/Elizabeth_I_of_England Elizabeth I of England]" on Wikipedia</ref>
+
+==Biography==
+She was the daughter of [[Henry VIII|King Henry VIII]] by his second wife, [[Anne Boleyn]], and the half-sister of [[Mary I]].<ref name="wikipedia" />
+
+Queen Elizabeth never [[marriage|married]] during her lifetime.<ref name="wikipedia" /> However, there was "ample" evidence suggesting that the first [[Lucius Malfoy I|Lucius Malfoy]] sought her hand in marriage, but was rebuffed by her.<ref name="pm-malfoys">{{WW|the-malfoy-family}}</ref> Some [[wizardkind|wizarding]] historians believed that her later opposition to marriage was the result of a [[Jinx against marriage|jinx]] that Malfoy placed on her in revenge for her spurning him.<ref name="pm-malfoys" /> This account was denied by future generations of the [[Malfoy family]].<ref name="pm-malfoys" />
+
+During her rule, she was seen as the one the greatest ever rulers of England, with her reign being called the "Golden Age".<ref name="wikipedia" />
+
+==Etymology==
+The name "Elizabeth" comes from Ελισαβετ (Elisabet), the Greek form of the Hebrew name אֱלִישֶׁבַע ('Elisheva') meaning "my God is an oath" or perhaps "my God is abundance".
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Mary I]]
+|position=Queen Regnant of England
+|years=[[1558]]-[[1603]]
+|successor=James I ([[William III|→]])
+}}
+{{End box}}
+
+[[es:Isabel I]]
+[[pt-br:Elizabeth I]]
+[[pl:Elżbieta I]]
+[[Category:1533 births]]
+[[Category:1603 deaths]]
+[[Category:Deceased individuals]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Muggles]]
+[[Category:Royalty]]
+[[Category:Tudor dynasty]]
+[[Category:Unmarried individuals]]

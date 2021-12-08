@@ -1,0 +1,33 @@
+{{Pet individual infobox
+|image = 
+|name = Stormswift
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Hippogriff]]
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Hogwarts Hippogriff herd]]
+}}
+'''Stormswift''' was a [[Hippogriff]] and probably part of [[Hogwarts Hippogriff herd]].
+
+==Behind the scenes==
+*Stormswift was only listed on a list of Hippogriff names handwritten by [[J. K. Rowling]]. It is possible that he/she was an early version of [[Buckbeak]].<ref>{{JKRS}}</ref>
+
+==Appearances==
+*{{POA}} {{Comment|Early drafts (possibly)}}
+*{{JKRS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Stormswift]]
+[[Category:Articles derived from cut content]]
+[[Category:Hippogriffs]]
+[[Category:Individuals of unknown or undetermined gender]]

@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Amata's lover
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="TBB" />
+|gender=Male<ref name="TBB" />
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|romances = [[Amata]] (formerly)<ref name="TBB" />
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|...had been cruel and faithless, and that it was happiness enough to get rid of him...|Amata's lover|The Tales of Beedle the Bard}}
+'''Amata's lover''' is a character in the story of ''[[The Fountain of Fair Fortune]]'' by [[Beedle the Bard]].<ref name="TBB" />
+
+He was a wizard who had deserted his lover, a [[Wizardkind|witch]] named [[Amata]], and this caused her to believe that her broken heart would never mend, for she had [[love]]d him dearly.<ref name="TBB">{{TBB|F}}</ref>
+
+Hence, Amata went on a journey to [[the Fountain of Fair Fortune]] to relieve herself of the grief and longing that his desertion had caused her. However, by the time she reached the fountain, she had realised that he had been cruel and faithless, and it was actually a joy to her to be rid of him.<ref name="TBB"/>
+
+==Appearances==
+*{{TBB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Tales of Beedle}}
+
+[[es:Amado de Amata]]
+[[Category:Fictional characters]]
+[[Category:Males]]
+[[Category:The Fountain of Fair Fortune]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

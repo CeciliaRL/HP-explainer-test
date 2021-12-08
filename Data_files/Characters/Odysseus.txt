@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Odysseus
+|born = [[Greece|Ancient Greece]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+__NOTOC__
+'''Odysseus''' was a [[Greece|Ancient Greek]]  hero who slew the one-eyed [[giant]] [[Cyclops]] with the help of several [[sheep]].<ref>[[Chocolate Frog Card|Famous Wizard Card]] ([[Cyclops]])</ref>
+
+==Etymology==
+The name ''Odysseus'' was probably derived from the Ancient Greek verb '''odussomai''', meaning "hate", suggesting that the name could be rendered as "the one who is wrathful/hated." This interpretation is reinforced by Odysseus's and [[w:Poseidon|Poseidon's]] mutual wrath in Homer's ''The Odyssey''.
+
+==Behind the scenes==
+*[[w:Odysseus|Odysseus]] is based on the [[Wikipedia:Odysseus|Greek hero of legend]].
+
+==Appearances==
+*{{POA|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[fr:Ulysse]] [[pl:Odyseusz]]
+[[Category:B.C. era births]]
+[[Category:Greek individuals]]
+[[Category:Historical figures]]
+[[Category:Humans]]
+[[Category:Males]]

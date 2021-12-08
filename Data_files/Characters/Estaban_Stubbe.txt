@@ -1,0 +1,29 @@
+{{Individual infobox
+|image = [[File:Estaban Stubbe - wanted poster.png|250px]]
+|name = Estaban Stubbe
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|skin = White
+|job = Criminal
+|theme = wizard
+|hideb = 
+|hidep = 
+|hidef = 
+|hidem = 
+|hidea = 
+}}'''Estaban Stubbe''' was an [[United States of America|American]] [[Wizardkind|wizarding]] criminal who operated in the [[1920s]].<ref name="FB-F special">{{FB|F}} - BluRay Special</ref>
+
+==Biography==
+In or around [[1926]], the [[Magical Congress of the United States of America]] issued a wanted poster for Stubbe, stating that he was wanted for [[Non-magic people|No-Maj]] smuggling & [[Death|murder]] and "bearing [[wand]], most menacing and extremely dangerous" with a reward of 4850 [[Dragot]]s.<ref name="FB-F special" />
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT: Stubbe, Estaban}}
+[[pl:Estaban Stubbe]]
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Wizards]]

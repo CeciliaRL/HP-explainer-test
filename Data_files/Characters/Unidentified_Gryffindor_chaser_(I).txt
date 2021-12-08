@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:Unidentified Gryffindor chaser (I).png|250px]]
+|name = Quidditch player
+|born = 
+|died = Before [[1991]] (possibly)
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Chaser]]<ref name="LEGOY1"/>
+|signature = 
+|species = [[Human]]<ref name="LEGOY1"/>
+|gender = Male<ref name="LEGOY1"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="LEGOY1"/>
+|eyes = 
+|skin = Light<ref name="LEGOY1"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="LEGOY1"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="LEGOY1"/>
+**[[Gryffindor]]<ref name="LEGOY1"/>
+**[[Gryffindor Quidditch team]]<ref name="LEGOY1"/>
+}}
+A [[portrait]] of this '''Quidditch player''' hung at the [[Grand Staircase]]. He was seen playing with a [[Quaffle]]. If one cast a [[spell]] at him, he would throw the Quaffle to [[Unidentified Gryffindor chaser (III)|another chaser]].<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+
+==Appearances==
+*{{LEGO|Y1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Cazador de Gryffindor no identificado]]
+[[pl:Niezidentyfikowany ścigający Gryffindoru (I)]]
+[[Category:British or Irish individuals]]
+[[Category:Chasers]]
+[[Category:Males]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Tut
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = <!-- just don't; don't assume unless you have proof -->
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<!-- the ref absolutely DOES NOT tell us the species -->
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Owner of [[Tut's Nuts]]<ref name="PSIE"/>
+|house = 
+|loyalty = [[Tut's Nuts]]<ref name="PSIE"/>
+}}
+'''Tut''' was a [[wizardkind|wizarding]] [[greengrocer]] who owned the [[Tut's Nuts]]<ref name="PSIE">{{PS|IE}} {{see image|File:Tut's Nuts.png}}</ref> produce shop in [[Diagon Alley]].<ref name="full">{{PS|IE}} {{see image|File:Diagon Alley - Jim Kay.jpg}}</ref>
+
+==Etymology==
+"Tut" is the nickname for the [[Egypt|Egyptian]] {{w|pharaoh}} Tutankhamun.<ref>{{wtlink|Tut}}</ref><ref>{{wikilink|Tutankhamun}}</ref>
+
+==Behind the scenes==
+*Illustrator [[Jim Kay]] used to work at the {{w|Royal Botanic Gardens, Kew}}; at the time, they had a collection of seeds from {{w|Tutankhamun}}'s {{w|Tomb of Tutankhamun|tomb}}, which were known as "Tut's Nuts", which was how Kay came up with the idea for the shop.<ref name="behind TN">[https://www.youtube.com/watch?v=PDPcGdt40RU Jim Kay Illustrator - Create Expo 2016] {{c|from 26:13 to 26:28}}</ref>
+
+==Appearances==
+*{{PS|IE}} {{1st Mention}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley North Side}}
+[[Category:Greengrocers]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

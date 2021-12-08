@@ -1,0 +1,62 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Peter Hansen.png|250px]]
+|name = Peter Hansen
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Chaser]]<ref name="QWC">{{QWC}}</ref>
+|signature = 
+|species = [[Human]]<ref name="QWC">{{QWC}}</ref>
+|gender = Male<ref name="QWC">{{QWC}}</ref>
+|height = 
+|weight = 
+|hair = Blond<ref name="QWC">{{QWC}}</ref>
+|eyes = Blue-green<ref name="QWC">{{QWC}}</ref>
+|skin = White<ref name="QWC">{{QWC}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Nordic National Quidditch team]]
+|house = 
+|loyalty = [[Nordic National Quidditch team]]
+}}
+'''Peter Hansen''' was a [[Scandinavia]]n [[Wizardkind|wizard]] who played as the [[Chaser]] for the [[Nordic National Quidditch team]] in the [[1990]]s.<ref name="QWC">{{QWC}}</ref>
+
+==Biography==
+He played as the [[Chaser]] on the [[Nordic National Quidditch team]] during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]].<ref name="QWC">{{QWC}}</ref> He was possibly [[Denmark|Danish]].<ref>Peter and Hansen are common Danish first and last names, respectively.</ref>
+
+During the [[1996–1997 school year]], Hansen's [[Chocolate Frog Card]] was able to be won by beating [[Helen Dawlish]] at a [[duelling]] challenge.<ref>{{HBP|G}} {{c|NDS edition}}</ref>
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': As a [[Chaser]] of the [[Nordic National Quidditch team]], he was a highly proficient and talented [[broomstick]] flyer and [[Quidditch]], with his skill and experience in the [[magic]]al sport clearly being demonstrated on the pitch and with his esteemed position.
+
+==Etymology==
+The name "Peter" is derived from the Greek Πετρος (''Petros'') meaning "stone". This is a translation used in most versions of the New Testament of the name ''Cephas'', meaning "stone" in Aramaic, which was given to the apostle Simon by Jesus'. Simon Peter was the most prominent of the apostles during Jesus's ministry and is often considered the first pope.
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{c|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Hansen, Peter}}
+
+[[fr:Peter Hansen]]
+[[ru:Петер Хансен]]
+[[Category:20th century births]]
+[[Category:Blue-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Green-eyed individuals]]
+[[Category:Males]]
+[[Category:Scandinavian individuals]]
+[[Category:Wizards]]

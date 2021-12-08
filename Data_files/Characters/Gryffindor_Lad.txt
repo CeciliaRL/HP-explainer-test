@@ -1,0 +1,46 @@
+{{HogwartsMysterySpoiler}}
+{{Notability}}
+{{Individual infobox
+|theme = gryffindor
+|image = Gryffindor Lad.png
+|name = Gryffindor Lad
+|born = [[1960s]] - [[1970s]]
+|died =
+|nationality = {{GBorIE}}
+|alias =
+|title =
+|signature =
+|species = [[Human]]<ref name="HM2"/>
+|gender = Male<ref name="HM2"/>
+|skin = Light<ref name="HM2"/>
+|hair = Black<ref name="HM2"/>
+|eyes =
+|weight =
+|height =
+|family =
+|romances =
+|wand =
+|animagus =
+|patronus =
+|boggart =
+|job =
+|house = [[Gryffindor]]<ref name="HM2"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HM2"/>
+**[[Gryffindor]]<ref name="HM2"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] and [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]].<ref name="HM2"/>
+
+==Biography==
+In the [[1985–1986 school year]], he expressed the desire to find a [[charm]] that would prevent bad puns in conversation, whilst sitting in the [[Charms Classroom]].<ref name="HM2">{{HM|2}}</ref>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

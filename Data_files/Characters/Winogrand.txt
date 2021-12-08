@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Sir Winogrand
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Honorific|Sir]]
+|signature = 
+|species = [[Human]]<ref name="image"/>
+|gender = Male<ref name="image"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Herbologist]]<ref name="image"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|Selina Sapworthy is a very famous witch specialised in water plants. 30 years ago when she met Sir Winogrand's collection in the African Lakes, she was absolutely surprised with the diversity and the magical potential that those water plants had.|Back cover blurb of ''[[Winogrand's Wondrous Water Plants]]''|Harry Potter Limited Edition}}
+'''Sir Winogrand''' was a [[wizardkind|wizard]] and a [[herbologist]] who kept a wide collection of water plants in the [[African Lakes]].<ref name="image"/>
+
+==Biography==
+Sometime before [[1964]], [[Selina Sapworthy]] accessed his collection and based on its large magical and scientific potential, wrote a book called ''[[Winogrand's Wondrous Water Plants]]''. The book has been awarded the [[Herbology Book of the Year]] by the [[Herbology High Commission]], and it has been part of the required reading at [[Hogwarts School of Witchcraft and Wizardry]] for at least twenty-five years.<ref name="image">See [[:File:WinograndsWondrousWaterPlants.jpg|this image]].</ref>
+
+==Appearances==
+*{{DH|F2}} {{1st Mention}} {{C|Mentioned on a book cover}}
+
+==Notes and references==
+{{Reflist}}
+{{Herbology}}
+[[es:Winogrand]]
+[[fr:Winogrand]]
+[[pl:Winogrand]]
+[[Category:British individuals]]
+[[Category:Herbologists]]
+[[Category:Males]]
+[[Category:Nobility]]
+[[Category:Wizards]]

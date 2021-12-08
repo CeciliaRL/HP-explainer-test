@@ -1,0 +1,44 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = portrait
+|image = Angry wizard MA.png
+|name = Angry wizard
+|born = 
+|died = 
+|blood = 
+|nationality = 
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="MA112"/>
+|gender = Male<ref name="MA112">{{MA|1|12}}</ref>
+|skin = Light<ref name="MA112"/>
+|hair = Black<ref name="MA112"/>
+|eyes = Black<ref name="MA112"/>
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="MA112"/>
+}}
+This angry '''[[Wizardkind|wizard]]''' had a [[portrait]] hung by the [[Grand Staircase]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="MA112"/>
+
+==Biography==
+When several students freed [[Gossamer]] from his portrait, he damaged the frame of the wizard's portrait and angered him. He talked to the students when they met and recalled how Gossamer had been locked away decades ago due to him being a nuisance. The students offered to fix the portrait frame, which they did after [[Attack beside the angry wizard's portrait|defeating]] some [[rat]]s that came out of [[Argus Filch's tool chest]].<ref name="MA112"/>
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Black-eyed individuals]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

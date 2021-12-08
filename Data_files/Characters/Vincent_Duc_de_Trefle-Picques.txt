@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme=beauxbatons
+|image=
+|name=Vincent Duc de Trefle-Picques
+|nationality=[[France|French]]<ref name="Pottermore"/>
+|born=
+|died=After [[1794]]
+|blood=
+|marital=
+|alias=
+|title=[[Honorific#Duke|Duc (French Duke)]]<ref name="Pottermore"/>
+|signature=
+|hidep=
+|species=[[Human]]<ref name="Pottermore"/>
+|gender=Male<ref name="Pottermore"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Nobleman<ref name="Pottermore"/>
+|house=
+|loyalty=[[Beauxbatons Academy of Magic]]<ref name="Pottermore"/>
+}}'''Vincent Duc de Trefle-Picques''' (fl. [[1794]]) was a [[France|French]] [[wizardkind|wizard]] and nobleman, active around the time of the [[Wikipedia:French Revolution|French Revolution]]. In his youth, he attended [[Beauxbatons Academy of Magic]]. He managed to escape the [[Terror|Reign of Terror]] of [[1793]]-[[1794]] by casting a [[Concealment Charm]] on his neck and pretending that his head had already been cut off.<ref name="Pottermore">{{WW|beauxbatons-academy-of-magic}}</ref>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': Vincent was able to cast a [[Concealment Charm]] on his neck to pretend that his had already been cut off to escape the [[Terror|Reign of Terror]].<ref name="Pottermore"/>
+
+==Etymology==
+''Trèfle'' and ''pique'' are the French names for the [[Wikipedia:Suit (cards)|card suits]] known in English as clubs and spades, respectively.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Trefle-Picques, Vincent Duc de}}
+[[de:Vincent Duc de Trefle-Picques]]
+[[es:Vicente Duc de Trefle-Picques]]
+[[pl:Vincent Duc de Trefle-Picques]]
+[[fr:Vincent Duc de Trèfle-Picques]]
+[[ru:Винсент де Трефле-Пике]]
+
+[[Category:18th century births]]
+[[Category:Beauxbatons students]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Nobility]]
+[[Category:Wizards]]

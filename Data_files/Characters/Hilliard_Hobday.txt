@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Hilliard Hobday
+|born = [[1981]] or earlier<ref name="age">As he was married with a child, he was presumably over 17.</ref>
+|died = 
+|blood = 
+|marital = Married<ref name="DP"/>
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Violetta Hobday]] (wife)<ref name="DP"/>
+*[[Egmont Hobday]] (son)<ref name="DP"/>
+*[[Oakden Hobday]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hobday family]]<ref name="DP"/>
+}}
+'''Hilliard Hobday''' was a [[Wizardkind|wizard]]. He and his wife, [[Violetta Hobday|Violetta]], announced the birth of their son [[Egmont Hobday|Egmont]] on [[30 November]], [[1998]] in the ''[[Daily Prophet]]''.<ref name="DP">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[8 February]], [[1999]], Page 2</ref>
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Hobday, Hilliard}}
+
+[[es:Hilliard Hobday]]
+[[pl:Hilliard Hobday]]
+[[Category:British individuals]]
+[[Category:Hobday family|Hilliard]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Wizards]]

@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Mrs McGonagall
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+*[[Robert McGonagall Snr's father|Mr McGonagall]] (husband)
+*[[Robert McGonagall Senior|Robert McGonagall Snr]] (son)
+*[[Isobel Ross|Isobel McGonagall]] (daughter-in-law)
+*[[Minerva McGonagall]] (granddaughter)
+*[[Malcolm McGonagall]] (grandson)
+*[[Robert McGonagall Jr]] (grandson)
+|hidem=hide
+|hidea=
+|job=
+|house=
+|loyalty=[[McGonagall family]]
+}}
+'''Mrs McGonagall''' was a [[Non-magic people|Muggle]] who lived in a village in [[Scotland]]. With [[Robert McGonagall Snr's father|her husband]], she had at least one child, [[Robert McGonagall Senior|Robert]]. When the couple's son eloped with [[Isobel Ross]], the daughter of their neighbours, the [[Ross family|Rosses]], it provoked their outrage.<ref name="pottermore">{{WW|professor-mcgonagall}} (transcription available [http://forums.darklordpotter.net/showpost.php?s=4a2e751bddc00f9618a0b1bb6d9ce6fc&p=481284&postcount=443 here])</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:McGonagall, Robert Snr's mother}}
+
+[[pl:Matka Roberta McGonagalla]]
+[[Category:Females]]
+[[Category:McGonagall family|McGonagall]]
+[[Category:Muggles]]
+[[Category:Scottish individuals]]
+[[Category:Married individuals]]
+[[Category:Parents]]

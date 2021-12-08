@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=individual
+|image=[[File:Mrs Esposito.png|thumb]]
+|name=Esposito
+|born=
+|died=
+|blood=
+|marital=Married
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=Landlady
+|house=
+|loyalty=
+}}
+'''Mrs Esposito''' was the landlady of a [[brownstone]] house located at [[679 West 24th Street|679]] [[West 24th Street]] in [[New York]] in [[1926]].<ref name="FB40">{{FB|S|40}}</ref><ref name="macusaid">See [[:File:PorpentinaGoldsteinsID.jpg|this image]] of Porpentina Goldstein's [[Magical Congress of the United States of America|MACUSA]] identification card on display as part of a prop exhibition in [[Japan]].</ref> She heavily disproved of single women bringing home strange men.
+
+==Biography==
+{{Dialogue a-b|Mrs Esposito|Are you alone?|Porpentina Goldstein|I'm always alone, Mrs Esposito!|Esposito on not having male guests over|Fantastic Beasts and Where to Find Them: The Original Screenplay}}
+Mrs Esposito lived on the main floor of the [[679 West 24th Street|679]] [[West 24th Street]] brownstone house. She rented out an apartment on the second floor to two sisters, [[Porpentina Goldstein|Tina]] and [[Queenie Goldstein]].<ref name="FB40" /> She did not allow them to bring home male guests. However, on the night of [[6 December]] Tina sneaked [[Newton Scamander|Newt Scamander]] and [[Jacob Kowalski]] upstairs. Newt and Jacob needed a place to hide from the [[Magical Congress of the United States of America|MACUSA]] authorities pursuing them.<ref name="FB40" /><ref name="FB39">{{FB|S|39}}</ref> Hearing noise on the stairs, Mrs Esposito called out, asking if Tina was alone. Tina untruthfully replied that she was always alone.<ref name="FB40" />
+
+==Behind the scenes==
+*Mrs Esposito was voiced by [[Ellie Haddington]] in the film {{FB|FHF}}.<ref name="imdb1">[http://www.imdb.com/name/nm0352705/ IMDb profile of Ellie Haddington]</ref>
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}} 
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Esposito}}
+
+[[de:Mrs Esposito]]
+[[de2:Esposito]]
+[[fr:Esposito]]
+[[pl:Pani Esposito]]
+[[pt-br:Sra. Esposito]]
+[[ru:Миссис Эспозито]]
+[[zh:埃斯波西托]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Married individuals]]

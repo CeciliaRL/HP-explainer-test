@@ -1,0 +1,67 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Slytherin House Captain's Plaque.jpg|250px]]
+|name = Rufus Winickus
+|born = c. [[1940s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+**[[Slytherin Quidditch team]]
+}}
+'''Rufus Winickus''' was a [[Slytherin]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1950s]]. He was [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]] from [[1956]] to [[1960]].<ref name="plaque">See [[:File:Slytherin House Captain's Plaque.jpg|this image]] of a prop used in the films on display as part of {{HPE}}.</ref><ref>[http://ab.fanrus.com/SMI/ViP/september/51/213/ ''Harry Potter: The Exhibition'' report] {{Comment|in Russian}}</ref>
+
+==Etymology==
+The name "Rufus" is a Roman cognomen which meant "red-haired" in Latin. Several early saints had this name, including one mentioned in one of Paul's epistles in the New Testament. As a nickname it was used by William II Rufus, a king of England, because of his red hair. It came into general use in the English-speaking world after the Protestant Reformation.
+
+==Behind the scenes==
+*This character is mentioned only on a plaque that was featured in at least one of the [[Harry Potter (film series)|''Harry Potter'' films]].<ref name="plaque" /> His name is presumably a tribute to [http://www.imdb.com/name/nm0935101/ Ruth Winick], who worked as a graphic artist on ''[[Harry Potter and the Philosopher's Stone (film)|Philosopher's Stone]]'' and ''[[Harry Potter and the Chamber of Secrets (film)|Chamber of Secrets]]'', and as a draughtsman on ''[[Harry Potter and the Prisoner of Azkaban (film)|Prisoner of Azkaban]]'' and ''[[Harry Potter and the Goblet of Fire (film)|Goblet of Fire]]''.
+
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Jo King (Slytherin)|Jo King]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]]
+|years=[[1956]]-[[1960]]
+|successor=[[Jody Jacknife]]
+}}
+{{End box}}
+
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Winickus, Rufus}}
+
+[[es:Rufus Winickus]]
+[[pl:Rufus Winickus]]
+[[pt-br:Rufo Winickus]]
+[[Category:1940s births]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

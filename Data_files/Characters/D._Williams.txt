@@ -1,0 +1,24 @@
+{{Individual_infobox
+|name = D. Williams
+|died = Before [[24 December]], [[1997]]<ref name="DHG1"/>
+|nationality = [[Great Britain|British]]<ref name="DHG1"/>
+|species = [[Human]]<ref name="DHG1"/>
+|theme = individual
+}}
+{{Quote|D. Williams. Just sleeping.|Williams's epitaph.|Harry Potter and the Deathly Hallows: Part 1 (video game)}}
+'''D. Williams''' (d. in or prior to [[1997]]) was an individual. During their life, this individual lived in [[Godric's Hollow]] and, after their death, was buried in the local graveyard.<ref name="DHG1">{{DH|G1}}</ref>
+
+==Behind the scenes==
+*It is possible that he or she was [[Dora Williams]].
+
+==Appearances==
+*{{DH|G1}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Williams, D.}}
+[[pl:D. Williams]]
+[[fr:D. Williams]]
+[[Category:British individuals]]
+[[Category:Buried at Godric's Hollow graveyard]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Williams family]]

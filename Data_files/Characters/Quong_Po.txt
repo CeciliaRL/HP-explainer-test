@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Quong Po.jpg|250px]]
+|name = Quong Po
+|born = [[1443]]<ref name="COSG">{{COS|G}}</ref>
+|died = [[1539]] (aged 95-96)<ref name="COSG"/>
+|blood = 
+|marital = 
+|nationality = [[China|Chinese]]<ref name="COSG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = White<ref name="COSG"/>
+|eyes = 
+|skin = Olive<ref name="COSG"/>
+|family = *[[Lim Po]] (possible relative)
+*[[Po family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Dragonologist]]<ref name="COSG"/>
+|house = 
+|loyalty = [[Po family]]
+}}
+'''Quong Po''' ([[1443]] – [[1539]]) was a [[China|Chinese]] [[Wizardkind|wizard]] and [[dragonologist]], who studied the [[Chinese Fireball]] [[dragon|breed]] and discovered the [[magic]]al uses of their powdered [[Dragon egg|eggs]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+
+==Behind the scenes==
+
+*In the Norwegian version of {{COS|GA}}, he is identified as Chong Po.
+
+==Appearances ==
+{{Imagecat|Images of Quong Po}}
+
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Po, Quong}}
+
+{{Chocolate Frog Cards}}
+
+[[de:Quong Po]]
+[[fi:Quong Po]]
+[[fr:Quong Po]]
+[[it:Quong Po]]
+[[pl:Quong Po]]
+[[ru:Квонг По]]
+[[es:Quong Po]]
+[[Category:1443 births]]
+[[Category:1539 deaths]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Chinese individuals]]
+[[Category:Deceased individuals]]
+[[Category:Dragonologists]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Po family]]
+[[Category:Wizards]]

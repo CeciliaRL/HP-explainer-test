@@ -1,0 +1,47 @@
+{{Transcribed image|File:Caractacus.jpg}}
+{{Youmay|the member of the [[Slug Club]]|[[Caractacus (disambiguation)|another wizard named Caractacus]]}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Caractacus.jpg|250px]]
+|name = Caractacus
+|born = c. [[1970]] or earlier<ref>Slughorn resigned from his teaching position in 1981, meaning this individual would have been a member of the Slug Club by at least then.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slug Club]]
+}}
+'''Caractacus''' was a [[wizardkind|wizard]] who, in his childhood, attended [[Hogwarts School of Witchcraft and Wizardry]] and was singled out for membership in the [[Slug Club]]. [[Horace Slughorn]] kept a picture of him on his shelf.<ref name="HBPF">{{HBP|F}}</ref>
+
+==Behind the scenes==
+*It is possible, as this individual was a former [[Slug Club]] member, that the person attended the [[Slug Club Christmas party]] in [[1996]].
+
+==Appearances==
+*{{HBP|F}} {{1st}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Slug Club]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

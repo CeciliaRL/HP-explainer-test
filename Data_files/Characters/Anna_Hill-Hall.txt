@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Anna Hill-Hall
+|born = [[1978]] or earlier
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Data retrieval officer for the [[Metropolitan Police]]
+|house = 
+|loyalty = 
+}}
+'''Anna Hill-Hall''' (fl. [[1996]]) was a [[Non-magic people|Muggle]] who worked as the data retrieval officer for the [[Metropolitan Police]] of [[London]]. Her name appeared in a July [[1996]] cover story in the ''[[The Guardian]]'', having been quoted as saying that "nothing of value" had been found in all of the retrieved [[wikipedia:closed-circuit television|CCTV]] footage of the [[Death Eaters|collapse]] of the [[Millennium Bridge]].<ref name="HPLE">{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Appearances==
+*{{HBP|F}} {{Mention}}
+*{{HPLE}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Hill-Hall, Anna}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Police officers]]

@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Ethel
+|born = Before [[2003]]<ref name="age">As she is working at the [[British Ministry of Magic|Ministry of Magic]] in 2020, she is at least 17 by then.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="Act1Scene5"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="Act1Scene5"/>
+|gender = Female<ref name="Act1Scene5"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Secretary]] to the [[Minister for Magic]]<ref name="Act1Scene5"/>
+|house = 
+|loyalty = [[British Ministry of Magic]]<ref name="Act1Scene5"/>
+}}
+{{Quote|You know, Ron says he thinks I see more of my secretary Ethel than him. Do you think there's a point where we made a choice — parent of the year or — Ministry official of the year?|[[Hermione Granger]] to [[Harry Potter]] in [[2020]]|Harry Potter and the Cursed Child}}
+'''Ethel''' was a [[Great Britain|British]] [[wizardkind|witch]] who worked as the [[secretary]] to [[Minister for Magic]] [[Hermione Granger]].<ref name="Act1Scene5"/>
+
+==Biography==
+In [[August]] [[2020]], [[Hermione Granger|Hermione]] remarked to [[Harry Potter]], Head of the [[Department of Magical Law Enforcement]], that her husband, [[Ronald Weasley|Ron]], said she saw more of her secretary at the Ministry than him.<ref name="Act1Scene5">{{CC|B|1|5}}</ref> In [[October]] of the same year, Hermione told Ethel to cancel her appointment with [[Gringotts Wizarding Bank]] [[goblin]] representatives upon learning of [[Albus Potter]] and [[Scorpius Malfoy]]'s disappearance.<ref name="Act3Scene17">{{CC|B|3|17}}</ref>
+
+==Appearances==
+*{{CC}} {{1st Mention}}
+*{{CC|P}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Minister for Magic and Support Staff}}
+
+[[es:Ethel]]
+[[pl:Ethel]]
+[[fr:Ethel]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Minister for Magic's Support Staff]]
+
+[[Category:Wizards]]

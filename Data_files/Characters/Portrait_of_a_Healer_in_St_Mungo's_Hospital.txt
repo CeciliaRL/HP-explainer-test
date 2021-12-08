@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = portrait
+|name = Portrait of a Healer in St Mungo's Hospital
+|born = [[Middle Ages]]<ref name="OOTP23"/>
+|died = [[Middle Ages]]<ref name="OOTP23"/>
+|blood =
+|nationality =
+|title = [[Healer]]<ref name="OOTP23"/>
+|alias =
+|signature =
+|species = [[Human]]<ref name="OOTP23"/>
+|gender = Male<ref name="OOTP23"/>
+|skin =
+|eyes =
+|hair =
+|height =
+|weight =
+|family =
+|romances =
+|wand =
+|animagus =
+|patronus =
+|boggart =
+|job = [[Healer]]<ref name="OOTP23"/>
+|house =
+|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="OOTP23"/>
+}}
+{{Dialogue a-b-a-b-a|Ron Weasley|Watch who you’re calling gruesome!|Healer|The only remedy is to take the liver of a toad, bind it tight about your throat, stand naked by the full moon in a barrel of eels’ eyes —|I have not got spattergroit!|But the unsightly blemishes upon your visage, young master —|They’re freckles! Now get back in your own picture and leave me alone!|The portrait speaking to Ron Weasley in St Mungo's|Harry Potter and the Order of the Phoenix}}
+This '''portrait of a Healer''' was hanging in the fourth floor in [[St Mungo's Hospital for Magical Maladies and Injuries]].<ref name="OOTP23"/>
+
+==Biography==
+He diagnosed [[Ronald Weasley|Ron Weasley]] with [[Spattergroit]] during a visit to the hospital at [[Christmas]] in [[December]] [[1995]], given the "unsightly blemishes" on his skin that would leave him uglier than he already was. The portrait suggested that Ron "take the [[Toad liver|liver of a toad]], bind it tight about his throat and stand naked by the full [[moon]] in a barrel of [[Eel eye|eels' eyes]]" as a [[Cure for Spattergroit|cure]]. Ron took this diagnosis as a great offence, and countered that they were only freckles.<ref name="OOTP23">{{OOTP|B|23}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Deceased individuals]]
+[[Category:Healers]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]
+[[pl:Portret uzdrowiciela w Klinice Magicznych Chorób i Urazów Szpitala Świętego Munga]]

@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:HPDH2-3802_(1).jpg|250px]]
+|name=Unidentified Hogwartian in a pointed hat during the Battle of Hogwarts
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DHF2"/>
+|gender=Male<ref name="DHF2"/>
+|height=
+|hair=
+|eyes=
+|skin=Light<ref name="DHF2"/>
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+}}
+This '''individual''' fought during the [[Battle of Hogwarts]] in [[1998]] against the [[Death Eaters]]. He was taking care of injured people during the one-hour armistice. He was also seen talking with a [[Unidentified white haired wizard during the Battle of Hogwarts|white haired man]]. It is unknown if he survived the battle.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

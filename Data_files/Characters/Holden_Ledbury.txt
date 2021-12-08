@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Holden Ledbury
+|born = [[31 August]] [[1982]] or earlier<ref name="age">He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Slytherin]]<ref name="HBPG"/>
+}}
+'''Holden Ledbury''' was a [[Wizardkind|wizard]] and [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+Along with [[Imogen Stretton]], he blocked access to an area of the school grounds during the [[1996–1997 school year]], telling [[Harry Potter]] that this was due to "''top secret Slytherin business.''"<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+The name "Holden" comes from a surname which was originally derived from a place name meaning "deep valley" in Old English. This is the name of the main character in J. D. Salinger's novel ''The Catcher in the Rye'' (1951), Holden Caufield.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ledbury, Holden}}
+
+[[pl:Holden Ledbury]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

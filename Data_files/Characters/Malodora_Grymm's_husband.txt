@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Malodora Grymm's husband
+|born = [[Middle Ages]]<ref name="POAG"/>
+|died = [[Middle Ages]]<ref name="POAG"/>
+|blood = [[Non-magic people|Muggle]]<ref name="POAG"/>
+|marital = Married<ref name="POAG"/>
+|nationality = 
+|alias = 
+|title = King<ref name="POAG"/>
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Malodora Grymm]] (wife) †<ref name="POAG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''[[King]]''' (fl. [[Middle Ages|Medieval times]]) was the husband of [[Malodora Grymm]]. A [[Hag]], Grymm used a [[Beautification Potion]] to transform herself into a beautiful woman, and [[Marriage|married]] him.<ref name="POAG">{{POA|G}}</ref>
+
+==Behind the scenes==
+*Malodora Grymm's husband is based on the [https://en.wikipedia.org/wiki/King_(Snow_White) King] from the tale of [[Wikipedia:Snow White|Snow White]].
+
+==Appearances==
+*{{POA|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Grymm, Malodora's husband}}
+
+
+[[fr:Époux de Malodora Grymm]]
+[[pl:Mąż Maladory Grymm]]
+[[Category:European individuals]]
+[[Category:Historical figures]]
+[[Category:Males|Grymm's husband]]
+[[Category:Married individuals|Grymm's husband]]
+[[Category:Royalty|Grymm's husband]]
+[[Category:Unidentified Muggles]]
+[[Category:Unnamed family members|Grymm's husband]]

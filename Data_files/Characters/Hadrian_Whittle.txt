@@ -1,0 +1,38 @@
+{{Individual infobox
+|name = Hadrian Whittle
+|species = [[Human]]
+|gender = Male
+|family = [[Winifred Whittle]] (possibly)
+|job = Author, [[Herbologist]]
+|loyalty = [[Whittle family]]
+|theme = wizard
+|hideb = y
+|hidep = 
+|hidef = y
+|hidem = y
+|hidea = 
+}}'''Hadrian Whittle''' was a [[Wizardkind|wizard]], [[Herbologist]] and the author of ''[[Magical Water Plants of the Highland Lochs]]''.<ref>[http://www.pottermania.jp/Gallery/2005Sekaiten/pages/MatsudoSekaiten001.htm Book prop image on Pottermania.jp]</ref>
+
+==Behind the scenes==
+*This character may have been named after [http://hadriangardendesign.com/ Hadrian Whittle], a British garden designer who has worked with [http://www.filmscapes.co.uk/ Filmscapes],<ref>[http://hadriangardendesign.com/data/1_1.htm About page on HadrianGardenDesign.com]</ref> a company which did landscaping work for the first five ''Harry Potter'' [[Harry Potter (film series)|films]].<ref>[http://www.filmscapes.co.uk/credits.php Credits list on Filmscapes.co.uk]</ref>
+*Whittle possibly wrote [[Magical Mediterranean Water-Plants and Their Properties|Magical Water Plants of the Mediterranean]] after the popular [[Magical Water Plants of the Highland Lochs]].
+
+==Etymology==
+The name "Hadrian" comes from the Roman cognomen Hadrianus, which meant "from Hadria" in Latin. Hadria was a town in northern Italy (it gave its name to the Adriatic Sea). A famous bearer of the name was Publius Aelius Hadrianus, better known as Hadrian, a 2nd-century Roman emperor who built a wall across northern Britain.
+
+==Appearances==
+*{{GOF|F}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Herbology}}
+
+[[es:Hadrian Whittle]]
+[[fr:Hadrian Whittle]]
+[[pl:Hadrian Whittle]]
+[[ru:Адриан Уиттл]]
+[[Category:Authors|Whittle, Hadrian]]
+[[Category:Herbologists|Whittle, Hadrian]]
+[[Category:Males|Whittle, Hadrian]]
+[[Category:Whittle family]]
+[[Category:Wizards]]

@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Newunidentified.jpg|250px]]
+|name = Wandkeeper
+|born = c. [[1920s]]-[[1940s]]<ref>A callsheet for auditions for the [[The Wizarding World of Harry Potter|Wizarding World of Harry Potter]] in Japan (transcription [http://www.snitchseeker.com/harry-potter-news/wizarding-world-of-harry-potter-japan-theme-park-actor-auditions-in-us-uk-australia-94561/ here]) lists the wandkeeper at Ollivanders as being portrayed as between his mid-40s and 60s.</ref>
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]] (likely)<ref name="Blood">He refers to a customer's [[tattoo]]s as [http://www.youtube.com/watch?v=_vyeuak78RM&feature=related "Odd Muggle... stuff"] and when a young girl refers to "the film" he says [http://www.youtube.com/watch?v=gd3rVqQk-WU&feature=related "I have no idea what you're talking about"]. He also refers to a thumbs-up as [http://www.youtube.com/watch?v=dlZ8WXf3e_g&feature=related "Muggle for 'yes'"]. As such, it is unlikely he grew up among [[Non-magic people|Muggle]]s.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WWHP"/>
+|alias = 
+|title = Wandkeeper<ref name="WWHP"/>
+|signature = 
+|species = [[Human]]<ref name="WWHP"/>
+|gender = Male<ref name="WWHP"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="WWHP"/>
+|eyes = 
+|skin = White<ref name="WWHP"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Ollivanders|Ollivanders Wand Shop]] branch proprietor<ref name="WWHP"/>
+|house = 
+|loyalty = [[Ollivanders|Ollivanders Wand Shop]]<ref name="WWHP"/>
+}}
+'''Wandkeepers''' were [[Wizardkind|wizards]] employed by [[Garrick Ollivander]]<ref>[http://www.houmatoday.com/article/20100621/ENTERTAINMENT/100629957?p=3&tc=pg "Theme park may turn people on to the books" (page 3 of 5)] at [http://www.houmatoday.com/ HoumaToday.com]</ref> to run the various branches of [[Ollivanders]] located throughout [[Wizarding world|wizarding]] [[Great Britain|Britain]], especially [[Hogsmeade]], and to a further extent, the main store in [[Diagon Alley]], whilst the [[wandmaker]] was away.<ref name="WWHP">{{WWHP}}</ref>
+
+==Magical abilities and skills==
+In order to be eligible for the job title of Wandkeeper, the person in question must have had an expertise in the following:
+*'''[[Charm]]s''': Must have been able to cast many charms proficiently, such as the [[Mending Charm]],<ref name="cody">[http://www.youtube.com/watch?v=_vyeuak78RM&feature=related "Ollivanders Wand Shop June 2nd"] on [http://www.youtube.com/ Youtube].</ref> [[Meteolojinx Recanto|weather-related charms]],<ref name="cody" /> [[Freezing Charm]]<ref name="immobulus">[http://www.youtube.com/watch?v=LGI7eQ96w8U&feature=related "Ollivanders Wand Shop in The Wizarding World of Harry Potter"] on [http://www.youtube.com/ Youtube].</ref> [[Herbivicus Charm]],<ref name="hayley">[http://www.youtube.com/watch?v=dZx85592Za8&feature=related "Wand Fitting at Ollivander's"] on [http://www.youtube.com/ Youtube].</ref> [[Levitation Charm]],<ref name="cody" /> [[Water-Making Spell]],<ref name="hayley" /> [[Wand-Lighting Charm]],<ref name="cody" /> ''[[Descendo]]''<ref name="hayley" /> and the [[Summoning Charm]].<ref name="Katie">[http://www.youtube.com/watch?v=QeKepV6rXUM&feature=related "Choosing a Wand at Ollivander's"] on [http://www.youtube.com/ Youtube].</ref>
+*'''[[Divination]]''': Must have been able to foresee costumers arriving in the shop.<ref name="cody" />
+*'''[[Nonverbal spell|Nonverbal magic]]''': Must have been able to cast nonverbal [[spell]]s smoothly, such as the [[Herbivicus Charm]]<ref name="hayley" /> and [[Freezing Charm]].<ref name="Katie" />
+*'''[[Wandlore]]''': Must have been knowledgeable in the complex science and [[magic]] of wandlore.<ref name="wandlore">[http://www.youtube.com/watch?v=6RPDBmZwzN4&feature=related "Ollivanders wand shop *third day*:: Universal Studios Harry Potter"] on [http://www.youtube.com/ Youtube].</ref>
+
+==Appearances==
+*{{WWHP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogsmeade}}
+
+[[es:Asociado de Ollivander no identificado]]
+[[pl:Współpracownicy Ollivandera]]
+
+[[Category:British individuals|Ollivander's associate]]
+[[Category:Males|Ollivander's associate]]
+[[Category:Ollivanders employees]]
+[[Category:Ranks and titles]]
+[[Category:Seers|Ollivander's associate]]
+[[Category:Unidentified individuals|Ollivander's associate]]
+[[Category:Wizards|Ollivander's associate]]

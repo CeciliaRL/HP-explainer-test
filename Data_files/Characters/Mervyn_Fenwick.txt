@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Mervyn Fenwick
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Keeper]]<ref name="dp2"/>
+|signature = 
+|species = [[Human]]<ref name="dp2"/>
+|gender = Male<ref name="dp2"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Benjy Fenwick]] (possible relative)
+*[[Marcus Fenwick]] (possible relative)
+*[[Robbie Fenwick]] (possible relative)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Keeper]] for the [[Tutshill Tornados]]<ref name="dp2"/>
+|house = 
+|loyalty = *[[Fenwick family]]
+*[[Tutshill Tornados]]<ref name="dp2"/>
+}}
+'''Mervyn Fenwick''' was the [[Keeper]] for the [[Tutshill Tornados]] in the [[1990s]].<ref name="dp2">''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'', Issue 2 (see [https://www.hp-lexicon.org/character/mervyn-fenwick/ this entry] on the Harry Potter Lexicon)</ref>
+
+He fell ill with a bout of sleeping sickness right before a match against the [[Ballycastle Bats]] in [[1999]].<ref name="dp2" /> This may have been caused by him receiving a blow from a [[Bludger]] directed at him by [[Finbar Quigley]].<ref name="dp2" />
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Fenwick, Mervyn}}
+
+[[es:Mervyn Fenwick]]
+[[pl:Mervyn Fenwick]]
+[[Category:British individuals]]
+[[Category:Fenwick family]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Wizards]]

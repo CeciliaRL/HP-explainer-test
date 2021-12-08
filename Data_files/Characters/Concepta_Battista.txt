@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:Gryffindor Captains Plaque.jpg|250px]]
+|name = Concepta Battista
+|born = Between [[1689]] and [[1693]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+**[[Gryffindor Quidditch team]]
+}}
+'''Concepta Battista''' (b. [[1680s]]/[[1690s|90s]]) was a [[Gryffindor]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1700s]]. She was once [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Gryffindor Quidditch team]] from [[1704]] to [[1708]].<ref name="HPE">{{HPE}} {{See image|File:Gryffindor Quidditch Captains Plaque.jpg}}</ref>
+
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+*{{HPE}} {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Oona Ballington]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Gryffindor Quidditch team]]
+|years=[[1704]]—[[1708]]
+|successor=[[Betty Bickering]]
+}}
+{{End box}}
+{{Hogwarts quidditch positions}}
+{{DEFAULTSORT:Battista, Concepta}}
+[[es:Concepta]]
+[[pl:Concepta Battista]]
+[[Category:17th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Sorted in the 1700s]]
+[[Category:Wizards]]

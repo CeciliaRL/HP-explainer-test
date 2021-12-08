@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Lockhart's flunkey.jpg|250px]]
+|name = Gilderoy Lockhart's helper
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COSF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSF"/>
+|gender = Male<ref name="COSF"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="COSF"/>
+|eyes = 
+|skin = Pale<ref name="COSF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Gilderoy Lockhart]]<ref name="COSF"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] and helper of [[Gilderoy Lockhart]]'s in the early [[1990s]]. On [[19 August]], [[1992]], this individual accompanied Lockhart into his book signing at [[Flourish and Blotts]], presenting [[Harry Potter]] with Lockhart's entire [[Gilderoy Lockhart's collected works|collected works]] (free of charge) on Lockhart's word.<ref name="COSF">{{COS|F}} - Chapter 6 (''Flourish and Blotts'')</ref>
+
+==Appearances==
+*{{COS|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Gilderoy Lockhart's fans]]
+[[Category:Males]]
+[[Category:Personal assistants]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

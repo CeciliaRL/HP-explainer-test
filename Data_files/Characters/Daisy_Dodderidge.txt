@@ -1,0 +1,87 @@
+{{Individual infobox
+|theme = wizard
+|image = Daisy Dodderidge.png
+|name = Daisy Dodderidge
+|born = [[1467]]<ref name="WOTM">[https://web.archive.org/web/20060316212102/http://www.jkrowling.com/textonly/en/wotm.cfm Wizard of the Month (Internet Archive)] at {{JKRS}}</ref><ref name="CFC"/>
+|died = [[1555]]<ref name="WOTM"/><ref name="CFC"/> (aged 87-88)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Blue
+|skin = White
+|family = *[[Damara Dodderidge]] (possibly)
+*[[Dodderidge family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Founder and owner of the [[Leaky Cauldron]]<ref name="CFC2" />
+|house = [[Gryffindor]] (possibly)<ref>Horace Slughorn states that family members are often Sorted into the same House in {{HBP|B|4}} - Daisy ''may'' have been Sorted into Gryffindor, as Damara, a possible relative, had a portrait hung in Gryffindor Tower. However, there are exceptions.</ref>
+|loyalty = *[[Dodderidge family]]
+*[[Leaky Cauldron]]
+}}
+'''Daisy Dodderidge''' ([[1467]]–[[1555]])<ref name="WOTM"/><ref name="CFC"/> was the [[Wizardkind|witch]] who built the [[Leaky Cauldron]] in a successful attempt to create a gateway between the [[Non-magic people|Muggle]] and [[wizarding world]]s.<ref name="CFC2">[[Chocolate Frog Card]]s {{see image|File:Daisy-Dodderidge-CFC-WOTC.jpg}}</ref> She was the original landlady of the pub<ref name="WOTM"/>, and the Leaky Cauldron soon became the primary entrance into [[Diagon Alley]].<ref name="CFC2"/>
+
+She was featured on a [[Chocolate Frog Card]] after her death in [[1555]].<ref name="CFC">[[Chocolate Frog Card]]s {{see image|File:Daisy Dodderidge-99-chocFrogCard.png}}</ref><ref name="CFC2"/>
+
+==Etymology==
+The name "Daisy" is simply from the English word for the white flower, ultimately derived from Old English ''dægeseage'' meaning "day eye". It was first used as a given name in the 19th century, at the same time many other plant and flower names were coined.
+
+==Behind the scenes==
+*Daisy Dodderidge's ''Wizard of the Month'' entry and Chocolate Frog Card from the video games gives her dates as 1467-1555, but the Wizard of the Coast Chocolate Frog Cards lists them as 1457-1555.<ref name="WOTM"/><ref name="CFC"/><ref name="CFC2"/>
+
+==Appearances==
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*''[[Wizard of the Month]]''
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dodderidge, Daisy}}
+
+
+{{Start box}}
+{{Succession box
+|predecessor=None
+|position=Landlady of the [[Leaky Cauldron]]
+|years=c. [[16th century|1500s]]
+|successor=Unknown, eventually [[Tom]]
+}}
+{{End box}}
+{{Leaky Cauldron}}
+
+{{Chocolate Frog Cards}}
+
+[[de:Daisy Dodderidge]]
+[[el:Ντέζη Ντόντεριντζ]]
+[[es:Daisy Dodderidge]]
+[[fi:Daisy Dodderidge]]
+[[fr:Daisy Dodderidge]]
+[[it:Daisy Dodderidge]]
+[[nl:Daisy Dodderig]]
+[[no:Daisy Dodderidge]]
+[[pl:Daisy Dodderidge]]
+[[ru:Дэйзи Доддеридж]]
+[[sv:Daisy Dodderidge]]
+[[zh:黛西·多德里奇]]
+[[Category:1467 births]]
+[[Category:1555 deaths]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Dodderidge family]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Leaky Cauldron employees]]
+[[Category:Pub landlords and landladies]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

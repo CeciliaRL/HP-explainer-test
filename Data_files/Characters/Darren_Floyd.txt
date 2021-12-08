@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Darren Floyd
+|hideb=
+|born=Between [[1976]] and [[1997]]<ref>[[Viktor Krum]], born 1976, is the oldest player in the 2014 World Cup; however, if Rice had been any younger than seventeen, he would be too young to play internationally.</ref>
+|died=
+|blood=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=Human<ref name="PM">{{PM}} - [[BRAZIL VERSUS WALES|BRAZIL_VERSUS_WALES]] (Archived)</ref>
+|gender=Male<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=Hide
+|family=
+|hidem=Hide
+|animagus=
+|boggart=
+|wand=
+|broom=
+|patronus=
+|hidea=
+|house=
+|occupation=
+|team=[[Welsh National Quidditch team|Wales]]<ref name="PM"/>
+|loyalty=
+}}
+'''Darren Floyd''' was a [[Wales|Welsh]] [[Wizardkind|wizard]] and a [[Beater]] for the [[Welsh National Quidditch team]] in the [[2014 Quidditch World Cup]]<ref name="PM"/>. During their match against [[Brazil]], he single-handedly prevented at least seventeen Brazilian goals. 
+
+After Brazil's victory, he had to help fellow Beater [[Iefan Rice]] drag their manager [[Gwenog Jones]] off the pitch after she attacked Brazilian manager [[José Barboza]] in retaliation for calling the Welsh Chasers "talentless hags".<ref name="PM"/>
+
+==Appearances==
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Floyd, Darren}}
+
+[[de2:Darren Floyd]]
+[[es:Darren Floyd]]
+[[fr:Darren Floyd]]
+[[pl:Darren Floyd]]
+[[ru:Даррен Флойд]]
+[[Category:20th century births]]
+[[Category:Beaters]]
+[[Category:Males]]
+[[Category:Welsh individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:LimPoWanted.jpg|250px]]
+|name=Lim Po
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Po family]]
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Lim Po''' was a [[wizardkind|wizarding]] criminal who operated in the [[1920s]].<ref name="fb-wanted">{{FB|F}} {{see image|File:LimPoWanted.jpg}}</ref>
+
+==Biography==
+In or around [[1926]], the [[International Wizarding Police]] issued a wanted poster for Po, which stated that he was wanted for "[[Muggle|No-Maj]] and [[House-elf|elf]] murder[s]" committed in [[Asia]] and the [[United States of America|United States]], as well as for "counterfeiting [[wand]]s."<ref name="fb-wanted" /> He was described as "powerful" and "extremely dangerous."<ref name="fb-wanted" /> A reward of 5000 [[dragot]]s was offered for information leading to his capture.<ref name="fb-wanted" />
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Po, Lim}}
+[[Category:Con artists]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Po family]]
+[[Category:Wizards]]

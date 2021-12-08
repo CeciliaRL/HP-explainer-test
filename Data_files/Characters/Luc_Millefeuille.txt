@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme=beauxbatons
+|image=
+|name=Luc Millefeuille
+|born=
+|died=
+|blood=
+|marital=
+|nationality=[[France|French]]<ref name="Pottermore"/>
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="Pottermore"/>
+|gender=Male<ref name="Pottermore"/>
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=Pâtissier<ref name="Pottermore"/>
+|house=
+|loyalty=[[Beauxbatons Academy of Magic]]<ref name="Pottermore"/>
+}}
+'''Luc Millefeuille''' was a [[France|French]] [[wizardkind|wizard]] and pâtissier who became famous for deliberately [[poison]]ing [[Non-magic people|Muggle]]s, as a form of [[Muggle-baiting]]. In his youth, he attended [[Beauxbatons Academy of Magic]].<ref name="Pottermore">{{WW|beauxbatons-academy-of-magic}}</ref>
+
+==Behind the scenes==
+*A [[Wikipedia:Mille-feuille|mille-feuille]] (more commonly called a vanilla slice, a cream slice, or a Napoleon, in the United Kingdom) is a pastry comprised of puff pastry, crème pâtissière, and glazed icing, in layers.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references ==
+{{Reflist}}
+{{DEFAULTSORT:Millefeuille, Luc}}
+[[de:Luc Millefeuille]]
+[[es:Luc Millefeuille]]
+[[pl:Luc Millefeuille]]
+[[fr:Luc Millefeuille]]
+[[Category:Beauxbatons students]]
+[[Category:Cooks]]
+[[Category:French individuals]]
+[[Category:Males]]
+[[Category:Muggle-baiting]]
+[[Category:Wizards]]

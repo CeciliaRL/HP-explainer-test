@@ -1,0 +1,81 @@
+{{Individual infobox
+|theme = grindelwald-acolyte
+|image = CarrowCOG.png
+|name = Carrow
+|born = Before [[1927]]
+|died = 
+|blood = [[Pure-blood]] or [[half-blood]] (possibly)<ref name="blood">The [[Carrow family]] was one of the [[Sacred Twenty-Eight]] families. If she was a member of this family, she had wizarding heritage.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin =
+|family = *[[Amycus Carrow]] (possible relative)
+*[[Alecto Carrow]] (possible relative)
+*[[Flora Carrow]] (possible relative)
+*[[Hestia Carrow]] (possible relative)
+[[Carrow family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Carrow family]]
+*[[Gellert Grindelwald]]
+**[[Alliance|The Alliance]]
+}}
+'''Carrow'''<ref name="name">[https://www.spotlight.com/0265-6755-3625 Actress Maja Bloom's Spotlight profile] - "2018, Feature Film, CARROW, FANTASTIC BEASTS: THE CRIMES OF GRINDELWALD, Warner Bros, David Yates"</ref> was a [[Dark Wizard|Dark Witch]] who lived in the [[1920s]], and was a member of the [[Carrow family]].<ref name="PM">[https://www.pottermore.com/features/a-guide-to-the-new-characters-from-fantastic-beasts-the-crimes-of-grindelwald Features: "A guide to the new characters from Fantastic Beasts: The Crimes of Grindelwald"] at {{PM}}</ref> She was a member of [[Gellert Grindelwald]]'s [[Alliance]], and one of the devoted [[Gellert Grindelwald's acolytes|acolytes]] that formed his inner circle.<ref name="COGS"/> 
+
+==Biography==
+Carrow became an ardent follower of [[Gellert Grindelwald]] at some point prior to [[1927]] and became one of his [[Gellert Grindelwald's army|acolytes]].<ref name="COGS"/>
+
+She accompanied Grindelwald to [[Paris]] and she took part along with the other acolytes in murdering a [[Non-magic people|Non-Magique]] [[Unidentified Non-Magique father|man]] and [[Unidentified Non-Magique mother|woman]], along with their [[Unidentified Non-Magique toddler|infant son]], whom she murdered personally on Grindelwald's orders with the [[Killing Curse]]. After murdering the family, they used their home as a temporary headquarters and safe house as they searched for [[Credence Barebone]].<ref name="COGS"/>
+
+She attended Grindelwald's rally at the [[Cimetière du Père-Lachaise]] in the [[Lestrange Mausoleum]] and [[Apparition|disapparated]] away after crossing the [[Protego Diabolica|enchanted fire]] that tested one's loyalty following the entrance of [[Auror]]s and did not participate in the subsequent [[Gellert Grindelwald's Paris rally|battle]] after that.<ref name="COGS">{{COG|S}}</ref>
+
+==Personality and traits==
+[[File:Carrow kills child.jpg|200px|thumb|left|Carrow seconds before killing a child]]
+Carrow was a dedicated follower of the Dark wizard Gellert Grindelwald and his beliefs in [[Wizarding supremacy]]. She was obedient to her master, and was even willing to commit the murder of an innocent child when instructed to do so. When she and several other acolytes seized control of a Parisian home belonging to a non-magical family the task of murdering the infant boy fell to Carrow. No verbal command was spoken, but she deduced Grindelwald's desire, and did not flinch from the task; executing the child swiftly with little to no display of emotion.<ref name="COGS"/>
+
+==Magical abilities and skills==
+*'''[[Dark Arts]]''': Carrow was proficient with dark magic, as she was able to cast the [[Killing Curse]] on a [[Unidentified Non-Magique toddler|male infant]], an [[Unforgivable Curses|Unforgivable Curse]] which requires significant [[magic]]al ability to perform as well as genuine malice.<ref name="COGS"/> 
+*'''[[Apparition]]''': Carrow was accomplished in apparition, as she was able to apparate successfully away from the [[Lestrange Mausoleum]].<ref name="COGS"/>
+
+==Behind the scenes==
+*Carrow is played by [[Maja Bloom]] in {{COG}}.<ref>{{IMDb|nm3007817|Maja Bloom}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Carrow}}
+*{{COG|S}} {{1st}}
+*{{COG}}
+*{{AM}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Gellert Grindelwald's army}}
+[[de2:Carrow (1920er)]]
+[[de:Carrow, Akolythin]]
+[[es:Carrow (años 1920)]]
+[[fr:Carrow (années 1920)]]
+[[pl:Carrow (lata 20.)]]
+[[pt-br:Carrow (década de 1920)]]
+[[ru:Кэрроу (1920-е)]]
+[[Category:Carrow family]]
+[[Category:Dark wizards]]
+[[Category:European individuals]]
+[[Category:Females]]
+[[Category:Gellert Grindelwald's Paris rally participants]]
+[[Category:Members of the Alliance]]
+[[Category:Murderers]]
+[[Category:Unforgivable curse users]]

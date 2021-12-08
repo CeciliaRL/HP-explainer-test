@@ -1,0 +1,36 @@
+{{Spoiler|HM|HL}}
+{{Conjecture}}
+{{Pet individual infobox
+|name = Forbidden Forest Mooncalf herd
+|image = Forbidden Forest Mooncalves impressed by the Mooncalf from the Magical Creatures Reserve.jpg
+|born = In or before [[1980s]]<ref name="OTM" />
+|died = 
+|alias = 
+|title = 
+|species = [[Mooncalf|Mooncalves]]<ref name="OTM" />
+|gender = 
+|height = 
+|hair = Grey<ref name="OTM" />
+|feathers = 
+|eyes = Blue<ref name="OTM" />
+|skin = 
+|family = 
+|loyalty = [[Forbidden Forest]]<ref name="OTM" />
+}}
+These '''[[Mooncalf|Mooncalves]]''' lived in the [[Forest Grove]] at least in the [[1980s]].<ref name="OTM">{{HM}}, Year ?, Side Quest "Over the Moon"</ref>
+
+==History==
+During the [[1980s]], these Mooncalves witnessed a dance of the [[Mooncalf at the Magical Creatures Reserve|Mooncalf from the Magical Creatures Reserve]] and [[Jacob's sibling]], after which they welcomed the Mooncalf into the herd.<ref name="OTM" />
+
+==Behind the scenes==
+*In a trailer for {{HL}}, set in the late [[19th century]], a student was shown feeding a group of Mooncalves in a forest. If the forest was the Forbidden Forest, this may have been the same herd.<ref name="HLtrailer">[https://www.youtube.com/watch?v=BsC-Rl9GYy0&feature=emb_title/ See this YouTube video]</ref>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Blue-eyed individuals]]
+[[Category:Forbidden Forest]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Mooncalves]]

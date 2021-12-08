@@ -1,0 +1,47 @@
+{{transcribed image|File:How to Woo Witches.png}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Mauricius Carneirus
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+*Pick-up guru
+*Author
+|house=
+|loyalty=
+}}
+'''Mauricius Carneirus''' was a [[wizardkind|wizarding]] pick-up guru.<ref name="artifactvault">{{HPV|A}} {{see image|File:How to Woo Witches.png}}</ref> He developed the "[[Carneirus Method]]" of wooing witches, which was covered in his book, ''[[How to Woo Witches]]''.<ref name="artifactvault" />
+
+==Behind the scenes==
+*This character was named after [[Mauricio Carneiro]], who worked as a costume illustrator for every [[Harry Potter films|''Harry Potter'' film]] from ''[[Harry Potter and the Goblet of Fire (film)|Goblet of Fire]]'' onward, and as a costumer for ''[[Harry Potter and the Order of the Phoenix (film)|Order of the Phoenix]]'' and ''[[Harry Potter and the Half-Blood Prince (film)|Half-Blood Prince]]''.<ref>"[http://www.imdb.com/name/nm1769188/ Mauricio Carneiro]" on IMDb</ref>
+
+==Appearances==
+*{{HPV|A}} {{comment|Name on book cover}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Cerneirus, Mauricius}}
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Wizards]]

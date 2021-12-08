@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Hector Bolobolo
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Manager and trainer for the [[Fijian National Quidditch team]]
+|house=
+|loyalty=[[Fijian National Quidditch team]]
+}}
+{{Quote|I'm going to kill him.|Hector Bolobolo's comment following [[Joseph Snuka]]'s performance on the [[Fijian National Quidditch team|Fiji]] vs. [[Nigerian National Quidditch team|Nigeria]] match|Pottermore}} 
+'''Hector Bolobolo''' was a Fijian wizard and the manager and trainer of the [[Fijian National Quidditch team]] in [[2014]].<ref name="PM">{{PM}} - [[NIGERIA VERSUS FIJI]] (Archived)</ref>
+
+==Biography==
+On the second match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], Fiji against [[Nigerian National Quidditch team|Nigeria]], his team suffered a blistering defeat due to [[Seeker]] [[Joseph Snuka]]'s choice to catch the [[Golden Snitch|Snitch]] when his [[Fijian National Quidditch team|team]] was losing 400 to 10. Amid the bewilderment of the commentators, the fury of the Fijian supporters and the jeers of the Nigerians, Bolobolo's only comment was "''I am going to kill him''".<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Bolobolo, Hector}}
+
+[[de:Hector Bolobolo]]
+[[fr:Hector Bolobolo]]
+[[pl:Hector Bolobolo]]
+
+[[Category:Fijian individuals]]
+[[Category:Males]]
+[[Category:Quidditch coaches]]
+[[Category:Quidditch managers]]
+[[Category:Wizards]]

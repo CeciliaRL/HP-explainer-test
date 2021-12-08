@@ -1,0 +1,27 @@
+{{HogwartsMysterySpoiler}}
+{{Pet individual infobox
+|image = [[File:Peacock.jpg|250px]]
+|name = Garrick Ollivander's peacock
+|born = Before [[1984]]<ref name="HM">{{HM}}</ref>
+|died = 
+|alias = 
+|title = 
+|species = [[Peacock]]
+|gender = Male
+|height = 
+|hair = 
+|feathers = Blue<ref name="PSG"/>
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Garrick Ollivander]]
+}}
+{{Quote|My peacock lives in the yard. My advice is to sneak up on him. The surprise makes him drop his feathers. I must warn you: NEVER use your wand against a peacock. You might hurt yourself.|[[Garrick Ollivander]]|Harry Potter and the Philosopher's Stone (video game)}} 
+[[Garrick Ollivander]] owned a pet '''[[peacock]] '''in the [[1980s]]<ref name="HM" /> and [[1990s]], whom he kept on the back room of his [[Ollivanders|shop]]. He was willing to sell three of its [[Peacock feather|feathers]] to [[Harry Potter]] at a cost of three [[Wizarding currency|Knuts]].<ref name="PSG">{{PS|G}} - PS1 version</ref>
+
+==Appearances==
+*{{PS|G}} {{1st}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[Category:Garrick Ollivander's possessions]][[Category:Males]][[Category:Peacocks]][[Category:Pets]]

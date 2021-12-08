@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:422qwc.jpg]]
+|name = Unidentified juggler at the 422nd Quidditch World Cup
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFF"/>
+|gender = Male<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Juggler<ref name="GOFF"/>
+|house = 
+|loyalty = [[Quidditch World Cup]]<ref name="GOFF"/>
+}}
+This '''juggler''' performed for the crowds at the [[1994 Quidditch World Cup|422nd Quidditch World Cup]] final in [[1994]]. Given that he dressed in red, he most likely supported the [[Bulgarian National Quidditch team]].<ref name="GOFF">{{GOF|F}} - Chapter 3 (''The Quidditch World Cup'')</ref>
+
+==Appearances==
+*{{GOF|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Entertainers]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Luxo Karuzos
+|hideb=1
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DHF1"/>
+|gender=Male<ref name="DHF1"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Lukas Karuzos]] (possibly)
+|hidem=1
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Illustrator<ref name="DHF1"/>
+|house=
+|loyalty=
+}}'''Luxo Karuzos'''<ref>See [http://www.flickr.com/photos/toddcreativeservices/7047445603/sizes/l/in/set-72157629381064550/ this image].</ref> (fl. [[15th century]]) was [[wizarding world|wizarding]] artist. He provided the original illustrations featured in the book {{TBB}}.<ref name="DHF1">{{DH|F1}} (see [[:File:DH1 Scrimgeour passing The Tales of Beedle the Bard book to Hermione Granger.jpg|this image]])</ref>
+
+==Behind the scenes==
+*This character was presumably named after Luca Caruso, the son of [[Miraphora Mina]], a graphic artist who worked on all eight [[Harry Potter (film series)|''Harry Potter'' films]].<ref name="talkswith">Rick Gerardy, ''Talks with Emanuel Hurwitz: 82 Years with the Violi'', Page 109</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}} {{Comment|Name seen on book cover}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Karuzos, Luxo}}
+
+[[fr:Luxo Karuzos]]
+[[pl:Luxo Karuzos]]
+[[Category:Artists]]
+[[Category:Males]]
+[[Category:Wizards]]

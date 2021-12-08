@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:PodricBatworthy2.jpg|250px]]
+|name = Podric Batworthy
+|born = 
+|died = After [[1401]]<ref name="pottermore-ordermerlin">{{WW|order-of-merlin}}</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Grand Sorcerer
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family =
+*[[Podric Batworthy XXIII]] (descendant)
+*[[Batworthy family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Podric Batworthy''', {{OM|First}}, {{c|[[Grand Sorcerer|Grand Sorc.]]}}, was a [[wizardkind|wizard]] whose [[portrait]] hung at [[Hogwarts Castle]] in the [[1990s]].<ref name="HPLE">{{HPLE|PA}}</ref> Batworthy lived in or after the [[15th century]], seeing as that was when the [[Wizengamot]] created the [[Order of Merlin]] award.<ref name="pottermore-ordermerlin"/>
+
+Podric Batworthy is, in all likelihood, an ancestor of [[Podric Batworthy XXIII]], who ran [[Beard Trimming]] in [[Diagon Alley]] in the [[1990s]].
+
+==Behind the scenes==
+*The portrait of Podric Batworthy appears to be based on [https://commons.wikimedia.org/wiki/File:Charles_Dickens_by_Daniel_Maclise.jpg an 1839 portrait of Charles Dickens by Daniel Maclise]. 
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{Portrait}}
+*{{HPLE}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Batworthy, Podric}}
+[[fr:Podric Batworthy]]
+[[pl:Podric Batworthy]]
+[[ru:Подрик Бэтворфи]]
+[[Category:Batworthy family]]
+[[Category:British individuals]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Order of Merlin recipients]]
+[[Category:Portraits]]
+[[Category:Wizards]]

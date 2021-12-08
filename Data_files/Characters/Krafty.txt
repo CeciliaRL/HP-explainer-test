@@ -1,0 +1,48 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=hogwarts-staff
+|image=Krafty.png
+|name=Krafty
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[House-elf]]<ref name="HM">{{HM|2|A SPECIAL CELEBRATION OF HOGWARTS TEACHERS!}}</ref>
+|gender=
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=Light<ref name="HM"/>
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=[[Hogwarts kitchens]] worker<ref name="HM"/>
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HM"/>
+}}
+{{Quote|Krafty worries that dinner will be late unless Krafty gets help right away!|Krafty regarding their duties as a house-elf|Harry Potter: Hogwarts Mystery}}
+'''Krafty''' was a [[house-elf]] that worked at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]]. They worked in the [[Hogwarts kitchens|kitchens]] along with the other [[Hogwarts house-elves]].<ref name="HM"/>
+
+==Biography==
+During the [[1985–1986 school year]], Krafty came to the [[Great Hall]] to ask [[Minerva McGonagall|Professor McGonagall]] for help in the [[Hogwarts kitchens|Kitchens]].<ref name="HM"/>
+
+==Physical appearance==
+The elf had long, pig-like ears and a pointy, beakish nose. They wore what appeared to be a potato sack emblazoned with a small Hogwarts crest.<ref name="HM"/>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Staff}}
+{{Character-stub}}
+[[Category:British individuals]]
+[[Category:Hogwarts employees]]
+[[Category:House-elves]]
+[[Category:Individuals of unknown or undetermined gender]]

@@ -1,0 +1,53 @@
+{{Youmay|Beatrix Bloxam's uncle|[[Nobby Leach]]}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Nobby
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="TBB"/>
+|gender = Male<ref name="TBB"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Beatrix Bloxam]] (niece)<ref name="TBB"/>
+*[[Beatrix Bloxam's father|Brother or brother-in-law]]<ref name="TBB"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|I must have been paralysed with horror.|[[Beatrix Bloxam]] on hearing '[[The Warlock's Hairy Heart]]' for the first time and learning of her uncle Nobby's indiscretions|The Tales of Beedle the Bard (real)}}
+
+'''Nobby''' was the uncle of [[Beatrix Bloxam]]. When Beatrix was a child, she overheard her [[Beatrix Bloxam's aunt|aunt]] tell her [[Beatrix Bloxam's cousins|cousins]] about a "dreadfully unsavoury affair" that involved Nobby, the local [[hag]], and a sack of [[Bouncing Bulb]]s. This may have contributed to her problems with sleepwalking.<ref name="TBB">{{TBB|H}}</ref>
+
+==Etymology==
+'''Nobby''' is a nickname for [[Norberta|Norbert]] or Nob [https://en.wikipedia.org/wiki/Nobby] [http://www.memidex.com/nobby]. The word '''nobby''' means ''stylish'', however the name could have also been derived from the word ''nob'', which is a slang word for the head, or a reference to a person of wealth and high social status.
+
+==Behind the scenes==
+*It is unlikely that Nobby was married to the aunt eavesdropped on by Beatrix. This aunt chose to discuss Nobby's scandalous behaviour with her children and probably would not have done so if Nobby had been their father.
+
+==Appearances==
+*{{TBB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[fr:Nobby]]
+[[ru:Нобби]]
+[[pl:Nobby]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

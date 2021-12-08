@@ -1,0 +1,35 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:1379 Second Wizard.png]]
+|name = Second semi-finalist of the 1379 duelling contest
+|died = [[1379]] (possibly)
+|species = [[Human]]
+|gender = Male
+|loyalty = [[1379 duelling contest]]<ref name="WBoS"/>
+|theme = wizard
+}}
+This '''individual''' was a [[wizardkind|wizard]] who, in [[1379]], partook in an [[1379 duelling contest|international duelling contest]] on [[Dartmoor]].<ref name="WBoS">{{WBS}}</ref>
+
+==Biography==
+The duelling was noted, by witnesses, to have been of a standard that few had ever seen before. As the contest progressed, only four contestants remained: this wizard, three more wizards, and an [[England|English]] witch, [[Elizabeth Smudgling]].<ref name="WBoS"/>
+
+[[File:1379 First Vs Second.png|250px|thumb|left|The second semi-finalist faces the [[First semi-finalist of the 1379 duelling contest|first semi-finalist]]]]
+
+This wizard was the second semi-finalist, and was to take part in the first [[Duelling|duel]]. Keeping in mind the judges' advice to "think big", the [[First semi-finalist of the 1379 duelling contest|first semi-finalist]] transformed himself into a [[Cattle|bull]] and charged him, who escaped [[death]] by quickly turning himself into a [[snake|viper]]. He then bit the first wizard on the leg, sending him crashing to the ground in pain.<ref name="WBoS" />
+
+[[File:Duelling contest 1379 2.png|250px|thumb|right|The second semi-finalist faces the [[Third semi-finalist of the 1379 duelling contest|third semi-finalist]]]]
+Next, he faced the [[Third semi-finalist of the 1379 duelling contest|third semi-finalist]], and brought a great storm cloud down from the sky, drenching his opponent in freezing-cold [[Water|rain]] and forcing him to evade bolts of lightning. The [[Third semi-finalist of the 1379 duelling contest|third wizard]] then got the idea to call a powerful cyclone, which not only blew away the storm, but also this individual, the [[Judges of the 1379 duelling contest|judges]], most of the spectators and several trees.<ref name="WBoS" />
+
+Considering that in the Middle Ages, before there was a [[British Ministry of Magic|Ministry of Magic]] to regulate such matters, [[duelling]] was usually fatal,<ref name="TBB">{{TBB|R}} - ''Albus Dumbledore on "''The Tale of the Three Brothers''"''</ref> and given his particularly violent defeat, it is likely this individual died.
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[es:Segundo semifinalista del Concurso de duelos de 1379]]
+[[pt-br:Segundo semifinalista do concurso de duelos de 1379]]
+[[Category:1379 deaths]]
+[[Category:Duellists]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

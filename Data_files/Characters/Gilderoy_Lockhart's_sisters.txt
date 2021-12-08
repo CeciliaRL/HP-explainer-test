@@ -1,0 +1,56 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = squib
+|image = 
+|name = Gilderoy Lockhart's sisters
+|born = Before [[1964]]
+|died = 
+|blood = [[Squib]]s<ref name="PMGL"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PMGL"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="PMGL"/>
+|gender = Females<ref name="PMGL"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Gilderoy Lockhart's father|Mr Lockhart]] (father)<ref name="PMGL"/>
+*[[Gilderoy Lockhart's mother|Mrs Lockhart]] (mother)<ref name="PMGL"/>
+*[[Gilderoy Lockhart]] (brother)<ref name="PMGL"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Lockhart family]]<ref name="PMGL"/>
+}}
+These two '''women''' were the older [[Squib]] sisters of [[Gilderoy Lockhart]].<ref name="PMGL">{{WW|gilderoy-lockhart}}</ref>
+
+==Biography==
+They are the daughters of [[Gilderoy Lockhart's father|Mr Lockhart]], a [[Non-magic people|Muggle]], and [[Gilderoy Lockhart's mother|Mrs Lockhart]], a [[Wizardkind|witch]]. Their mother doted on Gilderoy due to his [[magic]]al powers and treated him as her unashamed favourite, which implies she neglected her daughters to some degree; being Squibs may have influenced her thoughts on them, as squibs are commonly looked down on in the wizarding community.<ref name="PMGL"/>
+
+The [[Healer]] who looked after [[Gilderoy Lockhart|Lockhart]], [[Miriam Strout]], stated in [[December]] [[1995]] that he never got visitors at [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]].<ref name="OOTP23">{{OOTP|B|23}}</ref> This could mean that Lockhart's sisters were either deceased by then, or simply did not wish to see their brother.
+
+==Behind the scenes==
+*It is rare for squibs, even one, to be born into a magical lineage.<ref name="squib">"[http://web.archive.org/web/20120208051328/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=19 Squibs]" at {{JKRS}} (Internet Archive)</ref> The fact that these two out of three Lockhart siblings are squibs is noteworthy.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Lockhart, Gilderoy's sisters}}
+[[pl:Siostry Gilderoy'a Lockharta]]
+[[ru:Сёстры Локонс]]
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Lockhart family]]
+[[Category:Squibs]]
+[[Category:Unnamed family members]]

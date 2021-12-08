@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Vladimir Plot
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Owner of [[Vladimir Plot Plumbing Supplies]] (presumably)
+|house = 
+|loyalty = 
+}}
+'''Vladimir Plot''' was, presumably, the owner of the [[Vladimir Plot Plumbing Supplies]] shop located in [[Hogsmeade]].<ref>{{LEGO|Y1}} - Year 3 (''Hogsmeade'')</ref>
+
+==Etymology==
+The name "Vladimir" means "to rule with greatness", derived from the Slavic element volod "rule" combined with mer "great, famous". The second element has also been associated with mir meaning "peace" or "world". This was the name of an 11th-century Grand Prince of Kiev who is venerated as a saint because of his efforts to Christianize Russia. It was also borne by the founder of the former Soviet state, Vladimir Ilyich Lenin (1870-1924).
+
+==Appearances==
+*{{LEGO|Y1}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogsmeade}}
+
+{{DEFAULTSORT:Plot, Vladimir}}
+[[es:Vladimir Plot]]
+[[pl:Vladimir Plot]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

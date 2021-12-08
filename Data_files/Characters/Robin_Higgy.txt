@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Robin.png|250px]]
+|name = Robin Higgy
+|born = Between [[1719]] and [[1723]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+**[[Slytherin Quidditch team]]
+}}
+'''Robin Higgy''' (b. [[1710s]]/[[1720s]]) was a [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1730s]]. This individual was [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin]] [[Quidditch]] [[Slytherin Quidditch team|team]] from [[1732]] to [[1736]].<ref>{{HPPS}}, p. 349 {{see image|File:Slytherin Captains Plaque 2.jpg}}</ref>
+[[File:Slytherin Captains Plaque 2.jpg|236x236px|thumb|left|{{PAGENAME}}'s name appearing on a plaque]]
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Vicky Bishopper]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]]
+|years=[[1732]]—[[1736]]
+|successor=[[Mark Sommertime]]
+}}
+{{End box}}
+
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Higgy, Robin}}
+
+[[es:Robin Higgy]]
+[[pl:Robin Higgy]]
+[[pt-br:Robin Higgy]]
+[[ru:Робин Хигги]]
+[[fr:Robin Higgy]]
+[[Category:18th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 18th century]]
+[[Category:Wizards]]

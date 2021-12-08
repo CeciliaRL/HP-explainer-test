@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = P. Oxley
+|born = 
+|died = 
+|blood = [[Non-magic people|No-Maj]]<ref name="Archive">{{AM}} {{see image|File:Credence Barebone's Adoption Certificate.jpg}}</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="Archive" />
+|gender = Male<ref name="Archive" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = hidef
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Clerk<ref name="Archive" />
+|house = 
+|loyalty = *[[New York State Department of Health]]<ref name="Archive" />
+**[[Division of Vital Statistics]]<ref name="Archive" />
+}}
+'''P. Oxley''' was an American [[Non-magic people|No-Maj]] who worked as a clerk for the [[Division of Vital Statistics]] in the [[New York State Department of Health]]. On the [[25 October]], [[1905]], Oxley attested to and signed off on the certificate for the adoption of [[Credence Barebone]] by [[Mary Lou Barebone]] of the [[New Salem Philanthropic Society]], which had taken place [[21 October|four days earlier]].<ref name="Archive" />
+
+==Appearances==
+*{{AM}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Oxley, P.}}
+
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

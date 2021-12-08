@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Able Spudmore
+|born = In or before [[1923]]<ref name="birth">{{QTA|R|9}} - Able was probably born in or before 1923, since the company released its first broom in 1940 and he was likely of age by that point.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Randolph Spudmore]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Broomstick maker
+|house = 
+|loyalty = [[Spudmore family]]
+}}
+'''Able Spudmore''' was a [[Wizardkind|wizard]] who worked along with [[Ellerby]] and created the Black Forest Broomstick Company [[Ellerby and Spudmore]]. They first created the [[Tinderblast]] in [[1940]] and then the [[Swiftstick]] in [[1952]].<ref>{{QTA|R|9}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st mention}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Spudmore, Able}}
+
+[[pl:Able Spudmore]]
+[[fr:Abel Spudmore]]
+[[de:Able Spudmore]]
+[[Category:Broom-makers]]
+[[Category:Males]]
+[[Category:Spudmore family]]
+[[Category:Wizards]]

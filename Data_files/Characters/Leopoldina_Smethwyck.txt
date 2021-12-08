@@ -1,0 +1,75 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:Leopoldina Smethwyck.jpg|250px]]
+|name = Leopoldina Smethwyck
+|born = [[1829]]
+|died = [[1910]] (aged 80 - 81)
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Brown<ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+|eyes = 
+|skin = White<ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+|family = *[[Elliot Smethwyck]] (possibly)
+*[[Hippocrates Smethwyck]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch referee]]
+|house = 
+|loyalty = *[[Quidditch]]
+*[[Smethwyck family]]
+}}
+'''Leopoldina Smethwyck''' ([[1829]] - [[1910]]) was a [[Great Britain|British]] [[Wizardkind|witch]], who was well known for her career as a [[Quidditch referee]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+
+==Biography==
+Smethwyck was born in [[1829]], somewhere in the British isles, into the [[Wizardkind|wizarding]] [[Smethwyck family]]. She was the first witch in [[Great Britain]] to ever [[Quidditch referee|referee]] a [[Quidditch]] match. For this reason, she was featured on a silver [[Chocolate Frog Card]], as part of the [[Famous Witches and Wizards Cards]] series. Smethwyck [[Death|died]] in [[1910]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+
+During the [[1993–1994 school year]] at [[Hogwarts School of Witchcraft and Wizardry]], a [[portrait]] of her guarded a secret passage to a [[Bertie Bott's Every Flavour Beans|Every Flavour Beans]], [[Pumpkin Pasty|Pumpkin Pasties]], and [[Cauldron Cake]]s bonus room, with the password was ''Polyglot''.<ref name="POAG">{{POA|G}}</ref>
+
+==Behind the scenes==
+*The first time she refereed occurred some time before the Women's Rights Movement, although this might not matter in the [[wizarding world]].
+*She may be related to [[Elliot Smethwyck]] or [[Hippocrates Smethwyck]] or both, as they share the same surname.
+
+==Appearances==
+{{Imagecat|Images of Leopoldina Smethwyck}}[[File:Leopoldina_Smethwyck-70-chocFrogCard.png|thumb|Leopoldina Smethwyck's silver wizard card]]
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}} {{Portrait}}
+*{{PM}} {{FWC}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+
+{{DEFAULTSORT:Smethwyck,Leopoldina}}
+
+[[de:Leopoldina Smethwyck]]
+[[es:Leopoldina Smethwyck]]
+[[fi:Leopoldina Smethwyck]]
+[[fr:Léopoldine Smethwyck]]
+[[it:Leopoldina Smethwyck]]
+[[pl:Leopoldina Smethwyck]]
+[[pt-br:Leopoldina Smethwyck]]
+[[ru:Леопольдина Смезвик]]
+[[sv:Leopoldina Smethwyck]]
+[[Category:1829 births|Smethwyck, Leopoldina]]
+[[Category:1910 deaths|Smethwyck, Leopoldina]]
+[[Category:British individuals|Smethwyck, Leopoldina]]
+[[Category:Females|Smethwyck, Leopoldina]]
+[[Category:Portraits]]
+[[Category:Quidditch referees]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Smethwyck family]]
+[[Category:Wizards]]

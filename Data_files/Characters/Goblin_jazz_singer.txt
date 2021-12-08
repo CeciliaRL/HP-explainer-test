@@ -1,0 +1,36 @@
+{{Individual infobox
+|image = Goblin jazz singer.png
+|born = Before [[1926]]
+|nationality = [[United States of America|American]]
+|species = [[Goblin]]
+|gender = Female
+|hair = Dark brown
+|eyes = Black
+|skin = Dark
+|job = Jazz singer at [[The Blind Pig]]
+|loyalty = [[The Blind Pig]]
+|theme = goblin
+}}This '''singer''' was an [[United States of America|American]] female [[goblin]] who sung jazz at the wizarding speakeasy [[The Blind Pig]] during the [[1920s]]. She would use her [[wandless magic]] to create smoky images to accompany her singing.<ref name="FBS82">{{FB|S|82}}</ref>
+
+==Biography==
+She started working at the [[The Blind Pig]], sometime before [[1926]]. She was performing with a band of goblin musicians on [[6 December]] [[1926]] when [[Newton Scamander]] and his companions came to obtain information from [[Gnarlak]] regarding Newt's escaped [[beast]]s.<ref name="FBS82" />
+
+==Magical abilities and skills==
+*'''[[Wandless magic]]''': Being a [[Goblin]], she was shown to be proficient in wandless magic, being able to [[magic]]ally create smoky images to visually assist her musical performances, to a very precise and beautiful effect.
+
+==Behind the scenes==
+*The goblin was portrayed by [[Aretha Ayeh]] through motion reference and her singing voice was performed by [[Emmi]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+*She is the first female goblin featured in any [[Harry Potter universe|Harry Potter media]].
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}[[fr:Chanteuse du Cochon Aveugle]][[ru:Джазовая певица]]
+[[pl:Goblińska piosenkarka jazzowa]]
+[[Category:American individuals]]
+[[Category:Black-eyed individuals]]
+[[Category:Females]]
+[[Category:Musicians]]
+[[Category:Unidentified Goblins]]

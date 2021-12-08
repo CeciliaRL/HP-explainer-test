@@ -1,0 +1,45 @@
+{{Imageless}}
+{{Individual infobox
+|theme=giant
+|image=
+|name=Giant at the Battle of Hogwarts
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Giant]]<ref name="DHF2"/>
+|gender=Male<ref name="DHF2"/>
+|height=
+|hair=Bald (possibly)
+|eyes=
+|skin=Light<ref name="DHF2"/>
+|hidef=hide
+|family=
+|hidea=
+|job=
+|loyalty=*[[Giant colony]]<ref name="DHF2"/>
+*[[Tom Riddle|Lord Voldemort]]<ref name="DHF2"/>
+**[[Death Eaters]]<ref name="DHF2"/>
+}}This '''[[giant]]''' was a member of the [[Giant colony]] who fought in the [[Battle of Hogwarts]], fighting for [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]]. It is unknown if he survived the battle, but he possibly died.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*This giant is played by [[Matthew Bancroft]] in the [[Harry Potter and the Deathly Hallows: Part 2|film adaptation]] of {{DH}}, but he was not credited along with the other giants so only three of them are credited.
+*Bancroft's giant, unlike I, II and III, did not appear in the video game.
+*In {{LEGO|Y2}} this giant stands on the top of an area in a courtyard. He has to be shot with a catapult three times before he falls backwards into the [[Ravine]] below.<ref name="LEGOY2">{{LEGO|Y2}}</ref>
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+*{{LEGO|Y2}} {{C|Appears as generic giant}}
+
+==Notes and references==
+{{Reflist}}
+{{Giants}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:Death Eater allies]]
+[[Category:Giants]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]

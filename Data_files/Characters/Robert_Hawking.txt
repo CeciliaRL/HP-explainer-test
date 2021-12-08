@@ -1,0 +1,56 @@
+{{Imageless}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Robert Hawking
+|born = Between [[1975]] and [[1978]]<ref>To have been a Prefect in the 1993-1994 school year, he would have had to have been in his fifth year or up by that point, thus putting his possible range of birth dates between [[1 September]], [[1975]] and [[31 August]], [[1978]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *Hawking family
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Robert Hawking''' was a [[Wizardkind|student]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] between [[1987]] and [[1989]].
+
+==Biography==
+By the [[1993-1994 school year]], he had been made a [[Prefect]], and was tasked with patrolling areas of the school off limits to students.
+
+==Etymology==
+''Robert ''traces beck to Germanic name ''Hrodebert'',which means 'bright fame'.This could relate to him being a Prefect.
+
+''Hawking ''could mean 'person with a hawk-like manner', which he displays, as his job is to partol areas.
+==Appearances==
+
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Hawking, Robert}}
+
+[[es:Robert Hawking]]
+[[pl:Robert Hawking]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts prefects]]
+[[Category:Males]]
+[[Category:Sorted in the 1980s]]
+[[Category:Wizards]]

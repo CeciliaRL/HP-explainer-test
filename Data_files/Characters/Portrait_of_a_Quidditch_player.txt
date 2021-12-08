@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:QuidditchPlayerPortrait.jpg|250px]]
+|name = Portrait of a Quidditch player
+|born = 
+|died = Before the [[1990s]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Chaser]] (most likely)
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Quidditch player
+|house = [[Gryffindor]] (possibly)
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|Who do you think they're going to listen to? You two, or someone who's actually taken these benches on test flights and lived to tell the tale?|To the [[portrait of a female etiquette teacher]] and the [[portrait of a Professor]], on using [[enchanted bench]]es|The Wizarding World of Harry Potter}}
+This '''individual''' (fl. [[1862]]) was a [[wizardkind|wizard]] who was, in his lifetime, a young [[Quidditch]] player<ref name="mtv">[http://www.mtv.ca/moviehead/article.jhtml?id=25349 We Take You Inside The Wizarding World Of Harry Potter] on [http://www.mtv.ca/moviehead/ MTV.ca]</ref> He had a portrait of himself hung in [[Gryffindor Tower]] by the [[1990s]].<ref>See [http://www.flickr.com/photos/32005256@N03/4820782603/in/photostream/ this image]</ref>
+
+He seems to have been an adventurer in his youth: he claims to have taken [[enchanted bench]]es on test flights "and lived to tell the tale", to have flown a [[Chinese Fireball]] from the [[South Pole]] to the [[North Pole]] ("''my shoes didn't arrive until the next day''"), to have scored the winning goal in the 1862 [[League Cup|League Championship]] wearing nothing but a smile ("''The other side jinxed off all our robes''"), to have raced a dragon with a firework tied to its tail on an [[enchanted bench]] ("''In fact, the last time I raced one, it caught fire''"), and to have taken a party of ladies for a spin over the [[Himalayas]] on [[enchanted bench]] ("''If I knew where they landed, I would've brought them back, too''").<ref name="Parkpedia">[http://parkpedia.cc/harry-potter-and-the-forbidden-journey/ "Harry Potter and the Forbidden Journey"] at [http://parkpedia.cc/ Parkpedia]</ref>
+
+==Behind the scenes==
+*In {{WWHP}}, this portrait, along with the [[portrait of a female etiquette teacher]] and the [[Portrait of a Professor]], explains in magical terms how the ride portion of {{HPFJ}} will work.
+
+==Appearances==
+*{{WWHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts towers}}
+[[Category:British individuals|Quidditch player]]
+[[Category:Males|Quidditch player]]
+[[Category:Quidditch players]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards|Quidditch player]]

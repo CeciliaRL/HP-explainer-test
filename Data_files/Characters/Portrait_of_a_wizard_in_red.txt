@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Portrait of a wizard in red.jpg|250px]]
+|name=Portrait of a wizard in red
+|hideb=
+|born=
+|died=Before [[1991]] (possibly)
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+This '''individual''' was a [[Wizardkind|wizard]] whose portrait hung at [[Hogwarts Castle]] in the [[1990s]], near the [[Third-floor corridor]].<ref name="PSf16">{{PS|F}} - Chapter 16 (''Three-Headed Sentinel'')</ref>
+
+==Appearances==
+*{{PS|F}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts third floor}}
+[[es:Retrato de un mago de rojo]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

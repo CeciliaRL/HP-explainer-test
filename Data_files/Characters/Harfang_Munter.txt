@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme=durmstrang
+|image=
+|name=Harfang Munter
+|hideb=
+|born=Before [[1294]]<ref>{{GOF|B|12}} - The Triwizard Tournament was established some 700 years ago = c.[[1294]]</ref>
+|died=
+|blood=
+|alias=
+|title=*[[Professor]]<ref name="PM"/>
+*[[Headmaster]]<ref name="PM"/>
+|hidep=
+|species=[[Human]]<ref name="PM"/>
+|gender=Male<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Headmaster of [[Durmstrang Institute]]<ref name="PM"/>
+|house=
+|loyalty=[[Durmstrang Institute]]<ref name="PM"/>
+}}
+'''Professor Harfang Munter''' was the second [[Headmaster]] of [[Durmstrang Institute]]. He took over the school shortly after the mysterious death of his predecessor, founder [[Nerida Vulchanova]], a great [[Bulgaria]]n witch. He was a [[wizardkind|wizard]] of "dubious allegiance or nefarious intent", having stressed the importance of [[duelling]] and all forms of [[martial magic]] — something that the school is reputed for, even today, having kept it as an important part of its curriculum.<ref name="PM">{{WW|durmstrang-institute}}</ref>
+
+==Behind the scenes==
+*Harfang is a city of "civilized" giants in the Narnia universe of C. S. Lewis. ''Harfång'' is also a Swedish word, borrowed in other languages, such as French, used to refer to male snowy owls (literally: "hare-catcher"), the same species used for [[Hedwig]] in the movies.
+*Munter is the Danish, Swedish, German and Norwegian word for "cheerful", and while it is unlikely to be the cause of the name, it still provides irony in the fact that the Headmaster is described to be of villainous nature.
+*He shares a first name with Harfang Longbottom who married Callidora Black.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Nerida Vulchanova]]
+|position=[[Headmaster]] of [[Durmstrang Institute]]
+|years=
+|successor=Unknown, eventually [[Headteacher of Durmstrang Institute during 1792]]
+}}
+{{End box}}
+
+{{DEFAULTSORT:Munter, Harfang}}
+[[de:Harfang Munter]]
+[[es:Harfang Munter]]
+[[ru:Харфанг Мантер]]
+[[pl:Harfang Munter]]
+[[fr:Harfang Munter]]
+[[Category:Durmstrang Headmasters and Headmistresses]]
+[[Category:European individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

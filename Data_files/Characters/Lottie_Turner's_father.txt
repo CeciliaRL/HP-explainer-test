@@ -1,0 +1,63 @@
+{{MagicAwakenedSpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Lottie Turner's father MA.png]]
+|name = Lottie Turner's father
+|born = 
+|died = Between [[1996]] and [[2009]]{{MATimeRef}}
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="MA">{{MA|2}}</ref>
+|gender = Male<ref name="MA"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="MA"/>
+|eyes = Brown<ref name="MA"/>
+|skin = Light<ref name="MA"/>
+|family = *[[Lottie Turner]] (daughter)<ref name="MA"/>
+*[[Turner family]]<ref name="MA"/>
+|romances = 
+|animagus = [[Butterfly]]<ref name="MA"/>
+|boggart = 
+|wand = 
+|patronus = 
+|job = Artist<ref name="MA"/>
+|house = 
+|loyalty = [[Turner family]]<ref name="MA"/>
+}}
+'''Mr Turner''' was a [[Wizardkind|wizard]] who was the father of [[Lottie Turner]], an artist, and a [[butterfly]] [[Animagus]].<ref name="MA"/>
+
+==Biography==
+He used to say "you could tell a story with three colours and a good oxtail stippler", which meant a paintbrush.<ref name="MA"/>
+
+After his daughter [[Lottie Turner|Lottie]] was born, he often painted with her, and he would sometimes travel off to far places to paint. At some point, he drew himself in his [[butterfly]] [[Animagus]] form.<ref name="MA"/>
+
+He put up a fight when confronted by [[Bly]], a [[Dark Wizard]] in search of the Turner family's heirloom, but was eventually murdered. After Bly was captured inside [[Hogwarts Castle|Hogwarts]], he transformed back to himself in his [[portrait]] and spoke with Lottie, allowing her to keep the family heirloom, a brush.<ref name="MA"/>
+
+==Magical abilities and skills==
+*'''[[Transfiguration]]''': He was remarkably skilled in the art of [[Human Transfiguration]] that he was able to become an [[Animagus]] in the form of a [[butterfly]],<ref name="MA"/> an exceptional [[magic]]al feat considering the difficulty and patience required in becoming one.
+*'''[[Duelling]]''': He managed to put up a strong fight against the [[Dark Wizard]] [[Bly]], showing he had a certain level of skill in duelling, although Bly overpowered and murdered him.<ref name="MA"/>
+*'''Artistic skills''': He was a talented artist and would often paint [[portrait]]s with his daughter Lottie.<ref name="MA"/>
+
+==Appearances==
+*{{MA}} {{1st}} {{Flashback}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Animagi}}
+{{DEFAULTSORT:Turner, Lottie father}}
+[[Category:Animagi]]
+[[Category:Artists]]
+[[Category:Brown-eyed individuals]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Parents]]
+[[Category:Portraits]]
+[[Category:Turner family]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

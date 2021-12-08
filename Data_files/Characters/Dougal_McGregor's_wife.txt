@@ -1,0 +1,57 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Mrs McGregor
+|hideb=
+|born=No later than 1954<ref>The First Wizarding War began in 1970 and marriage age in Scotland is 16 placing her date of birth as no later than 1954. Since she, her husband, and their kids died in the 1970s, it is assumed that she had them after her legal age of marriage in 1970, which is 16.</ref> 
+|died=c. [[1970s]] or early [[1980s]]<ref>''[[Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies]]'' says she died "during the height" of the wizarding war. This is the late 70s to 1981.</ref>
+|blood=[[Non-magic people|Muggle]]
+|marital=Married
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Dougal McGregor's wife's father|Father]]
+*[[Dougal McGregor]] (husband) †
+*[[Dougal McGregor's father|Mr McGregor]] (father-in-law)
+*[[Dougal McGregor's children|Children]] †
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Mrs McGregor''' was a [[Non-magic people|Muggle]] woman who resided in [[Caithness]], [[Scotland]]. She was the daughter of a local farmer, and married the son of [[Dougal McGregor's father|another farmer]], [[Dougal McGregor]].<ref name="pottermore">{{PM}} biography of [[Minerva McGonagall]]  (transcription available [http://forums.darklordpotter.net/showpost.php?s=4a2e751bddc00f9618a0b1bb6d9ce6fc&p=481284&postcount=443 here])</ref>
+
+[[Dougal McGregor]] and his wife were murdered in a random anti-[[Non-magic people|Muggle]] attack by the Death Eaters during the height of the [[First Wizarding War]] in the [[1970s]], along with their [[Dougal McGregor's children|children]].<ref name="shortstories">[[Pottermore Presents]] - ''[[Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies]]'', Chapter 1 (''Minerva McGonagall'')</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*''[[Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies]]'' {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:McGregor}}
+
+[[fr:Épouse de Dougal McGregor]]
+[[pl:Pani McGregor]]
+[[Category:1970s deaths]]
+[[Category:Females]]
+[[Category:First Wizarding War casualties]]
+[[Category:Married individuals]]
+[[Category:McGregor family]]
+[[Category:Muggles]]
+[[Category:Murder victims]]
+[[Category:Scottish individuals]]
+[[Category:Unnamed family members]]

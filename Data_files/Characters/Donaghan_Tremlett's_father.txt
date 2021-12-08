@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mr Tremlett
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="fwc"/>
+|marital = Married<ref name="fwc"/>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="fwc"/>
+|gender = Male<ref name="fwc"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Donaghan Tremlett's mother|Mrs Tremlett]] (wife)<ref name="fwc"/>
+*[[Donaghan Tremlett]] (son)<ref name="fwc"/>
+*[[Donaghan Tremlett's spouse|Mrs or Mr Tremlett]] (son or daughter-in-law)<ref name="OOTP14">{{OOTP|B|14}}</ref>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Tremlett family]]<ref name="fwc"/>
+}}
+'''Mr Tremlett''' was a [[Non-magic people|Muggle]]. He was the father of [[Donaghan Tremlett]], a [[Muggle-born]] [[Wizardkind|wizard]] who played bass for a popular [[Wizarding world|wizarding]] band, [[Weird Sisters|The Weird Sisters]].<ref name="fwc">[http://harrypotter.tokenzone.com/set_2001/tokens/token_11.swf Flash card] from Harry Potter Magical Trading Cards</ref>
+
+==Appearances==
+*''[[Chocolate Frog Card|Famous Wizard Card]]'' {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Tremlett, Mr}}
+[[pl:Pan Tremlett]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Tremlett family|Father]]
+[[Category:Unnamed family members]]

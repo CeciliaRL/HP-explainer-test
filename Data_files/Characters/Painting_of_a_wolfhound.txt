@@ -1,0 +1,24 @@
+{{Conjecture}}
+{{Portrait individual infobox
+|name = Painting of a wolfhound
+|died = Before [[1995]] (possibly)
+|species = {{Wplink|Wolfhound}}<ref name="OOTP12"/>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP12"/>
+}}
+A '''painting of a {{Wplink|wolfhound}}''' was hung at [[Hogwarts School of Witchcraft and Wizardry]], near [[Cadogan|Sir Cadogan]]'s [[portrait]].<ref name="OOTP12"/>
+
+==History==
+In [[1995]], when [[Harry Potter]] was on his way to [[Divination (class)|Divination class]], Sir Cadogan tried to follow him by running through a neighbouring picture. However, the large and angry-looking [[dog]] inhabiting the painting chased him back into his own portrait.<ref name="OOTP12">{{OOTP|B|12}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}} {{Painting}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts seventh floor}}
+
+[[pl:Obraz wilczura]]
+[[es:Retrato de un perro lobero]]
+[[Category:Individual dogs]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Paintings of creatures]]

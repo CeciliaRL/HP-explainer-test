@@ -1,0 +1,35 @@
+{{Individual infobox
+|name = Joshua Sankara
+|born = Before [[1989]], [[Burkina Faso]]
+|nationality = [[Burkina Faso|Burkinabé]]
+|title = *[[Seeker]]
+*[[Minister for Magic]] (formerly)
+|species = [[Human]]
+|gender = Male
+|job = *[[Seeker]] for [[Burkinabé National Quidditch team|Burkina Faso]] 
+*[[Minister for Magic]] (formerly)
+|loyalty = *[[Burkinabé National Quidditch team]]
+*[[Burkinabé Ministry of Magic]] (formerly)
+|theme = quidditch-player
+}}'''Minister Joshua Sankara''' was a [[Burkina Faso|Burkinabé]] [[Wizardkind|wizard]] who played as [[Seeker]] for the [[Burkinabé National Quidditch team]] during the [[2006 Quidditch World Cup]]. When the team won the World Cup, Sankara was promptly named [[Minister for Magic]], although he resigned two days later since he would much rather play [[Quidditch]] than hold office at the [[Burkinabé Ministry of Magic]].<ref name="PM">{{PM}} - [[Quidditch World Cup 1990 - 2014]] (Archived)</ref>
+
+==Behind the scenes==
+*He may be named after Thomas Sankara, a former president of Burkina Faso.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Sankara, Joshua}}
+[[de:Josuah Sankara]]
+[[es:Joshua Sankara]]
+[[fr:Joshua Sankara]]
+[[ru:Жошуа Санкара]]
+[[pl:Joshua Sankara]]
+[[Category:Burkinabé Ministers for Magic]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Wizards]]

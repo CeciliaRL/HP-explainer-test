@@ -1,0 +1,38 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Unidentified Death Eaters
+|image = 
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">The Death Eaters as an organisation were extreme [[Pure-blood supremacy|pure-blood supremacists]] who violently hated all [[Muggle-born]]s and [[Non-magic people|Muggles]].</ref>
+|nationality = 
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]s<ref name="HPP"/>
+|gender = 
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|wand =
+|boggart =
+|animagus =
+|patronus = None<ref name="leakychat">[http://www.the-leaky-cauldron.org/2007/7/30/j-k-rowling-web-chat-transcript Leaky Cauldron: J.K. Rowling Webchat 30 July 2007]</ref>
+|house = 
+|job = 
+|loyalty = *[[Death Eaters]]<ref name="HPP"/>
+**[[Tom Riddle|Lord Voldemort]]<ref name="HPP"/>
+|theme = death-eater
+}}
+These '''three [[Death Eaters]]''' were chasing [[Sirius Black]] and [[James Potter I|James Potter]] three months before the birth of [[Harry Potter]] in [[1980]]. They were fended off when James and Sirius [[Levitation Charm|levitated]] the [[police car]] of PC [[Anderson]] and Sergeant [[Fisher]].<ref name="HPP">''[[Untitled charity auction story|Harry Potter prequel]]''</ref>
+
+==Appearances==
+*''[[Untitled charity auction story|Harry Potter Prequel]]'' {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified Death Eaters]]

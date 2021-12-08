@@ -1,0 +1,70 @@
+{{DISPLAYTITLE:Emma Vanity}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Slytherin House Captain's Plaque.jpg|250px]]
+|name = Emma Vanity
+|born = c. [[1960s]]<ref name="plaque"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]<ref name="plaque"/>
+|signature = 
+|species = [[Human]]<ref name="plaque"/>
+|gender = Female<ref name="plaque"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Emma Vanity (Gryffindor)]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="plaque"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="plaque"/>
+**[[Slytherin]]<ref name="plaque"/>
+**[[Slytherin Quidditch team]]<ref name="plaque"/>
+}}
+'''Emma Vanity''' was a [[Wizardkind|witch]] and [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1970s]]. She was [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin]] [[Quidditch]] [[Slytherin Quidditch team|team]] from [[1972]] to [[1976]].<ref name="plaque">See [[:File:Slytherin House Captain's Plaque.jpg|this image]] of a prop used in the films on display as part of {{HPE}}.</ref><ref>[http://ab.fanrus.com/SMI/ViP/september/51/213/ ''Harry Potter: The Exhibition'' report] {{Comment|in Russian}}</ref>
+
+==Etymology==
+The name "Emma" was originally a short form of Germanic names that began with the element ermen meaning "whole" or "universal". It was introduced to England by Emma of Normandy, who was the wife both of king Ethelred II (and by him the mother of Edward the Confessor) and later of king Canute. It was also borne by an 11th-century Austrian saint, who is sometimes called Hemma. After the Norman conquest this name became common in England. It was revived in the 18th century, perhaps in part due to Matthew Prior's poem ''Henry and Emma'' (1709). It was also used by [[Jane Austen]] for the central character, the matchmaker Emma Woodhouse, in her novel ''[[Emma]]'' (1816).
+
+==Behind the scenes==
+*This character is mentioned only on a prop plaque that was featured in at least one [[Harry Potter (film series)|''Harry Potter'' film]].<ref name="plaque" /> Her name is presumably a tribute to [http://www.imdb.com/name/nm0888985/ Emma Vane], who worked as a draughtsman on every film up until ''[[Harry Potter and the Half-Blood Prince (film)|Half-Blood Prince]]'', with the exception ''[[Harry Potter and the Chamber of Secrets (film)|Chamber of Secrets]]''.
+
+==Appearances==
+*''[[Harry Potter (book series)|Harry Potter]]'' [[Harry Potter (film series)|films]] {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Steve Laughalot]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin]] [[Quidditch]] [[Slytherin Quidditch team|team]]
+|years=[[1972]]-[[1976]]
+|successor=[[Lucinda Talkalot]]
+}}
+{{End box}}
+
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Vanity, Emma}}
+
+[[es:Emma Vanity]]
+[[pl:Emma Vanity]]
+[[pt-br:Emma Vanity (Sonserina)]]
+[[ru:Эмма Ванити]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Hogwarts students during the Marauders' era]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

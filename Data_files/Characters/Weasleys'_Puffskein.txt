@@ -1,0 +1,35 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:Puffskein.png|thumb]]
+|name = Weasley's Puffskein
+|born = Before [[1992]]
+|died = 
+|alias = 
+|title = 
+|species = [[Puffskein]]<ref name="CSps1" />
+|gender = 
+|height = 
+|hair = Custard-coloured fur<ref name="FB|R|An A-Z of Fantastic Beasts|Puffskein">{{FB|R}}, ''(An A-Z of Fantastic Beasts), Puffskein''</ref>
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Weasley family]] (owners)<ref name="CSps1" />
+}}
+{{Dialogue a-b-a|Ronald Weasley|I had one of them once.|Harry Potter|What happened to it?|Fred used it for [[Bludger]] practise.|Doodles on [[Harry Potter]]'s copy of {{FB}} (shared by [[Ronald Weasley]] because his fell apart).|Fantastic Beasts and Where to Find Them (real)}}
+This''' [[Puffskein]]''' belonged to the [[Weasley family]]<ref name="FB|R|An A-Z of Fantastic Beasts|Puffskein">{{FB|R}}, ''(An A-Z of Fantastic Beasts), Puffskein''</ref> in the early [[1990s]]. He was kept in the family's [[Weasleys' Puffskein patch|Puffskein patch]], where his favourite delicacies included wild bushes.<ref name="CSps1">{{COS|G}} - PS1 version</ref> Sometime before [[1992]], [[Fred Weasley]], along with his twin brother [[George Weasley|George]],<ref name="CSps1" /> used the family's Puffskein as a [[Bludger]] during [[Quidditch]] practice.<ref name="FB|R|An A-Z of Fantastic Beasts|Puffskein">{{FB|R}}, ''(An A-Z of Fantastic Beasts), Puffskein''</ref> [[Ginevra Weasley]] would in her youth look after the creature in its [[Weasleys' Puffskein patch|patch]] to make sure the twins did not do it again.<ref name="CSps1" />
+In [[August]], [[1992]], the Puffskein swallowed Ginny's [[Remembrall]], and escaped to a [[Ottery St Catchpole forest|small forest area]]. Ginny followed it and got lost, only to be found along with the Puffskein by [[Harry Potter]].<ref name="CSps1" />
+
+==See also==
+*[[Arnold]]
+
+==Appearances==
+*{{COS|G}} {{1st}} {{C|PS1 version}}
+*{{FB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Boursouf de Ron Weasley]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Puffskeins]]
+[[Category:Weasley family pets]]

@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Female Muggle
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HBPF"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBPF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPF"/>
+|gender = Female<ref name="HBPF"/>
+|height = 
+|weight = 
+|hair = White<ref name="HBPF"/>
+|eyes = 
+|skin = Pale<ref name="HBPF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''[[Non-magic people|Muggle]] woman''' was on the [[Millennium Bridge]] when it was destroyed by [[Death Eaters]] in [[1996]]. As the bridge collapsed, the woman ran for her life. It is unknown what happened to her afterwards.<ref name="HBPF">{{HBP|F}}</ref>
+
+==Behind the scenes==
+*She was portrayed by [[Ninette Finch]] in {{HBP|FA}}.
+*In {{LEGO|Y2}}, there were no [[Non-magic people|Muggles]] on the [[Millennium Bridge]] during its destruction, so the woman was omitted from the game.
+
+==Appearances==
+*{{HBP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified Muggles‎]]

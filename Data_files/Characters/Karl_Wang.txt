@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Karl Wang
+|hideb=
+|born=After [[1976]],<ref>Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref><br/>[[Norway]] (possibly)
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Keeper]] for the [[Norwegian National Quidditch team]]
+|house=
+|loyalty=[[Norwegian National Quidditch team]]
+}}'''Karl Wang''' was a Norwegian wizard and the [[Keeper]] for the [[2014]] [[Norwegian National Quidditch team]].
+
+==Biography==
+After their defeat on the second quarter-final match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], against [[Bulgarian National Quidditch team|Bulgaria]], Norwegian Seeker [[Sigrid Kristoffersen]] flew directly to the ground and banged her head on it until she was dragged to her feet by Karl Wang.<ref name="PM">{{PM}} - [[BULGARIA VERSUS NORWAY]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Wang, Karl}}
+
+[[de:Karl Wang]]
+[[es:Karl Wang]]
+[[fr:Karl Wang]]
+[[pl:Karl Wang]]
+[[ru:Карл Ванг]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Norwegian individuals]]
+[[Category:Wizards]]

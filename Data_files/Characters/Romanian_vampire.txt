@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=vampire
+|image=
+|name=Romanian vampire
+|hideb=
+|born=[[Romania]] (most likely)
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Vampire]]
+|gender=Male (most likely)
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|His classroom smelled strongly of garlic, which everyone said was to ward off a vampire he'd met in [[Romania]] and was afraid would be coming back to get him one of these days.|Description of [[Quirinus Quirrell]]'s D.A.D.A. classes.|Harry Potter and the Philosopher's Stone}}
+An alleged '''vampire in [[Romania]]''' was speculated by many of [[Professor]] [[Quirinus Quirrell]]'s students in the [[1991–1992 school year]] to be the reason for the strange smell of garlic that lingered in his [[Temporary Defence Against the Dark Arts classroom|classroom]].<ref>{{PS|B|8}}</ref> Even [[Rubeus Hagrid]] believed that a meeting with vampires in the [[Black Forest]] may have contributed to Quirrell's nervious behaviour and stuttering.<ref>{{PS|B|5}}</ref>
+
+==Appearances==
+*{{PS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Vampires]]

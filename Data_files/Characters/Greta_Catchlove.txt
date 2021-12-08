@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Greta Catchlove.JPG|250px]]
+|name = Greta Catchlove
+|born = [[1960]]<ref name="FWC">Catchlove's [[Chocolate Frog Card]] in {{COS|G}}.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = [[Gerda Curd]] (possibly)
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FWC"/>
+|gender = Female<ref name="FWC"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="FWC"/>
+|eyes = Blue<ref name="FWC"/>
+|skin = White<ref name="FWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author<ref name="FWC"/>
+|house = 
+|loyalty = 
+}}
+'''Greta Catchlove''' (b. [[1960]]) was a [[Wizardkind|witch]], who wrote the original edition of ''[[Charm Your Own Cheese]]''.<ref name="FWC" /> There was a portrait of Catchlove hung at [[Hogwarts Castle]], guarding a secret shortcut between the second-floor landing of the [[Grand Staircase]] and the [[Entrance Hall]] side room. The password required to gain access to said shortcut was "''Cheese Charmer''".<ref name="POAG">{{POA|G}} - PC version</ref>
+
+==Behind the scenes==
+*An author named [[Gerda Curd]] is credited with having produced a revised edition of ''Charm Your Own Cheese''.<ref name="JKRS">{{JKRS}} ([[Rumours!]] Magazine adverts.)</ref> It is possible that "Gerda Curd" is simply Catchlove's pen name.
+*If she attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], Catchlove might have been in the same year as the [[Marauders]], [[Lily J. Potter|Lily Evans]], and [[Severus Snape]]. If she was not, she was in the year behind them.
+
+==Etymology==
+"Greta" is a short form of ''Margareta''. A famous bearer of this name was Swedish actress Greta Garbo (1905-1990).
+
+==Appearances==
+{{Imagecat|Images of Greta Catchlove}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{Portrait}}
+*{{JKRS}} {{C|Possible mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Catchlove, Greta}}
+{{Hogwarts ground floor}}
+{{Chocolate Frog Cards}}
+[[de:Greta Catchglove]]
+[[fi:Greta Catchlove]]
+[[fr:Greta Grandamour]]
+[[pl:Greta Catchlove]]
+[[ru:Грета Кечлав]]
+[[Category:1960 births]]
+[[Category:Authors]]
+[[Category:Blue-eyed individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Cooks]]
+[[Category:Females]]
+[[Category:Portraits]]
+[[Category:Wizards]]

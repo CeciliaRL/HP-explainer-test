@@ -1,0 +1,44 @@
+{{Imageless}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Edwin Avarus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBC14"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC14"/>
+|gender = Male<ref name="FBC14"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Owner of the [[Cauldron Workshop]]<ref name="FBC14"/>
+|house = 
+|loyalty = [[Cauldron Workshop]]<ref name="FBC14"/>
+}}
+'''Edwin Avarus''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who was the owner of the [[Cauldron Workshop]] in [[Diagon Alley]].<ref name="FBC14">{{FBC|14}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley}}
+{{Character-stub}}
+{{DEFAULTSORT:Avarus, Edwin}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

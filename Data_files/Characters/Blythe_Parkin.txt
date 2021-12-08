@@ -1,0 +1,75 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Blythe Parkin.png]]
+|name = Blythe Parkin
+|born = Before [[1977]], [[England]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[England|English]]<ref name="QWC"/>
+|alias = 
+|title = [[Seeker]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Black<ref name="QWC"/>
+|eyes = Brown<ref name="QWC"/>
+|skin = White<ref name="QWC"/>
+|family = *[[Walter Parkin]] (possibly)
+*[[Walter Parkin's children]] (possibly)
+*[[Parkin family]]<ref name="QWC"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] for the [[English National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = *[[Parkin family]]<ref name="QWC"/>
+*[[English National Quidditch team]]<ref name="QWC"/>
+}}
+'''Blythe Parkin''' was an [[England|English]] [[Wizardkind|witch]] who played as [[Seeker]] on the [[English National Quidditch team]] in [[1994]]. Whilst playing [[Quidditch]], she [[Flight|flew]] on a Silver White [[Nimbus 2000]] [[broomstick]]. She may be a relative to [[Walter Parkin]] and his [[Walter Parkin's children|children]].<ref name="QWC">{{QWC}}</ref>
+
+By [[1996]], she was included on a [[Chocolate Frog Card]] for her achievements in the sport.<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+The name "Blythe" comes from a surname which meant "cheerful" in Old English.
+
+==Gallery==
+<gallery>
+Blythe_Parkin.jpg|Parkin on a Chocolate Frog card
+Blytheparkin3.JPG|Parkin standing on her [[Broomstick|broom]]
+</gallery>
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Parkin, Blythe}}
+
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Roderick Plumpton]]
+|position=[[Seeker]] of the [[English National Quidditch team]]
+|years=?-?
+|successor=Unknown
+}}
+{{End box}}
+{{Quidditch positions}}
+
+[[es:Blythe Parkin]]
+[[fr:Blythe Parkin]]
+[[pl:Blythe Parkin]]
+[[ru:Блайт Паркин]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Parkin family]]
+[[Category:Seekers]]
+[[Category:Wizards]]

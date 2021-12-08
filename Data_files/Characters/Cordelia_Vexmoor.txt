@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Cordelia Vexmoor from Fantastic Beasts Cases from the Wizarding World (.jpg|250px]]
+|name = 
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC12"/>
+|gender = Female<ref name="FBC12"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="FBC12"/>
+|eyes = Grey<ref name="FBC12"/>
+|skin = White<ref name="FBC12"/>
+|family = *[[Veronica Vexmoor]] (younger sister)<ref name="FBC12"/>
+*[[Vexmoor family]]<ref name="FBC12"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="FBC12"/>
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Vexmoor family]]<ref name="FBC12"/>
+*[[Merlin's Pride]]<ref name="FBC12"/>
+}}
+'''Cordelia Vexmoor''' was a [[Wizardkind|witch]] who was the heiress of the [[Vexmoor family]].<ref name="FBC12">{{FBC|12}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{Character-stub}}
+[[Category:Females]]
+[[Category:Grey-eyed individuals]]
+[[Category:Vexmoor family|Cordelia Vexmoor]]
+[[Category:Wizards]]
+{{DEFAULTSORT:Vexmoor, Cordelia}}
+[[ru:Корделия Вексмур]]

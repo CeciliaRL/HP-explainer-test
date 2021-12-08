@@ -1,0 +1,82 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Jocunda Sykes.png|250px]]
+|name = Jocunda Sykes
+|born = [[1915]]<ref name="COSG"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="QTA9"/>
+|gender = Female<ref name="QTA9"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="JKRS">{{JKRS}}</ref>
+|eyes = Blue<ref name="JKRS"/>
+|skin = White<ref name="JKRS"/>
+|family = *[[Alex Sykes (I)]] (possibly)
+*[[Alex Sykes (II)]] (possibly)
+*Sykes family
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Broomstick|Broom]] flyer<ref name="QTA9"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|Famous for flying across the Atlantic on a broomstick - the first person to do so.|[[Chocolate Frog Card]]|Harry Potter and the Prisoner of Azkaban (video game)}}
+'''Jocunda Sykes''' (b. [[1915]])<ref name="COSG"/> was a [[Wizardkind|witch]] who was famous for [[Flight|flying]] across the [[Atlantic Ocean]].<ref name="QTA9"/>
+
+==Biography==
+[[File:Jocunda Sykes Chocolate Frog Card.png|150px|thumb|left|Jocunda Sykes's [[Chocolate Frog Card]]]]
+She was the first [[Wizardkind|witch]] ever to [[Flight|fly]] across the [[Atlantic Ocean]] on a [[broomstick]], in [[1935]].<ref name="COSG">{{COS|G}}</ref> This made her, and the broomstick she flew across the Atlantic with, the [[Oakshaft 79]], famous throughout the [[Wizarding world]].<ref name="QTA9">{{QTA|R|9}}</ref>
+
+There was a bust of Sykes at the [[Hogwarts Castle]]'s [[Entrance Hall]], near the stairway leading to the [[Dungeons]].<ref name="POAG">{{POA|G}}</ref>
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': Sykes was a highly accomplished and gifted [[broomstick]] flyer, being the first [[Wizardkind|witch]] in wizarding history to fly across the [[Atlantic Ocean]] on a broom,<ref name="QTA9"/> an achievement for which she was immortalised on a [[Chocolate Frog Card]].<ref name="COSG"/>
+
+==Behind the scenes==
+*Jocunda is possibly the wizard counterpart of [[Wikipedia:Amelia Earhart|Amelia Earhart]], who is famous for flying across the Atlantic on a plane, the first woman to do so.
+*In the Danish version of the second game her name is misspelt "Jocunca Sykes".
+*The etymology of her first name, from the Latin for "congenial" or "delightful", is the source of the English ''jocund, ''generally suggesting a cheerful and carefree approach to life. Also, her last name is an anagram for "skies", though the "i" has been replaced by a "y" in order to make it look more like a well-respected name.
+
+==Appearances==
+{{Imagecat|Images of Jocunda Sykes}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{Statue}} {{FWC}}
+*{{QTA|R}} {{Mention}}
+*{{PM}} {{FWC}}
+*{{JKRS}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts ground floor}}
+{{Chocolate Frog Cards}}
+
+{{DEFAULTSORT:Sykes, Jocunda}}
+
+[[de2:Jocunda Sykes]]
+[[de:Jocunda Sykes]]
+[[es:Jocunda Sykes]]
+[[fr:Jocunda Sykes]]
+[[fi:Jocunda Sykes]]
+[[it:Jocunda Sykes]]
+[[pl:Jocunda Sykes]]
+[[ru:Джокунда Сайкс]]
+[[Category:1915 births]]
+[[Category:Blue-eyed individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Broom fliers]]
+[[Category:Busts]]
+[[Category:Centenarians]]
+[[Category:Females]]
+[[Category:Sykes family]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

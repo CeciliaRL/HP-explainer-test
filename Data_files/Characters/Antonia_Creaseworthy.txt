@@ -1,0 +1,64 @@
+{{Spoiler|WU|HM}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:AntoniaCreaseworthy.jpg|250px]]
+|name = Antonia Creaseworthy
+|born = 
+|died = Between [[1624]] and [[1986]]<ref name="death">J. K. Rowling explained at the [http://harrypotter.bloomsbury.com/author/interviews/individual1 2004 Edinburgh Book Festival] that all of the portraits at Hogwarts depict deceased individuals.</ref>
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *Dame
+*[[Headmaster|Headmistress]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Brown
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]] (unknown period)
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Dame Antonia Creaseworthy''' was a [[wizardkind|witch]] who lived in the [[17th century]].<ref name="HPLE">{{HPLE}} - ''[[The Paintings of Hogwarts: Masterpieces from the School of Witchcraft and Wizardry Sets]]'' {{see image|File:AntoniaCreaseworthyPortraitWithCaption.jpg}}</ref>. There were two [[portrait]]s of her at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="HPLE" /><ref name="mhop">{{MHP}} {{see image|File:AntoniaCreaseworthy.jpg}}</ref> She served as [[Headmaster|Headmistress]] of Hogwarts at an unknown point in time.<ref>Her full-body portrait is included in the Headmasters section of ''[[The Paintings of Hogwarts: Masterpieces from the School of Witchcraft and Wizardry Sets]]''</ref><ref>Her portrait has hung in the Headmaster's {{See image|File:HeadmastersOffice-Creaseworthy.jpg}}</ref>
+
+==Biography==
+Creaseworthy lived during the [[17th century]].<ref name="HPLE" /> During her life, she earned the title "Dame,"<ref name="mhop" /> the female equivalent of the honour of [[knight]]hood in [[Great Britain]].<ref name="damewiki">"[http://en.wikipedia.org/wiki/Dame_%28title%29 Dame (title)]" on Wikipedia</ref>
+
+Her name was carved into a wood panel on the wall of [[Sybill Trelawney|Professor Trelawney's]] [[Divination (class)|Divination]] [[Divination Classroom|classroom]] at some point.<ref name="HPLE2">{{HPLE|G}} {{see image|File:DivinationGraffitiWall.jpg}}</ref>
+
+In the winter of [[1993]], Creaseworthy's name appeared on the [[Marauder's Map]],<ref name="poamap">{{POA|F}} {{see image|File:AntoniaCreaseworthyMap.jpg}}</ref> possibly indicating that she was still alive at this point, or lingering at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] as a [[ghost]].<ref>In {{HBP}}, Chapter 24, Harry notices on the Marauder's Map that [[Draco Malfoy]] is in a boys' bathroom with [[Myrtle Warren]], thereby confirming that the Map shows ghosts.</ref>
+
+Two [[portrait]]s of Creaseworthy were hung within [[Hogwarts Castle]] sometime after her [[death]].<ref name="death" /><ref name="HPLE" /><ref name="mhop" /> One was a full-body portrait painted in [[1624]], in which Creaseworthy was depicted as wearing an orange robe and leaning on a chair.<ref name="HPLE" /> The other was a small portrait in which Creaseworthy was depicted as wearing a blue dress, green shawl/robe, and feathered headdress.<ref name="mhop" />
+
+==Appearances==
+*{{COS|F}} {{1st}} {{Portrait}}
+*{{POA|F}} {{comment|name appears on Marauder's Map}}
+*''[[The Paintings of Hogwarts: Masterpieces from the School of Witchcraft and Wizardry Sets]]'' {{Portrait}}
+*{{HM}} {{Portrait}}
+*{{WU}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Creaseworthy, Antonia}}
+[[es:Antonia Creaseworthy]]
+[[pl:Antonia Creaseworthy]]
+[[ru:Антония Крисворфи]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Nobility]]
+[[Category:Portraits]]
+[[Category:Wizards]]

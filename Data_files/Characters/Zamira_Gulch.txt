@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = daily-prophet
+|image = 
+|name = Zamira Gulch
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Female<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Author<ref name="DP"/>
+*Advice columnist for the ''[[Daily Prophet]]''<ref name="DP"/>
+|house = 
+|loyalty = ''[[Daily Prophet]]''<ref name="DP"/>
+}}
+'''Zamira Gulch''' was a [[Great Britain|British]] [[Wizardkind|witch]] the author of ''[[Practical Household Magic]]''. She also wrote for the ''[[Daily Prophet]]'s'' advice column, giving readers who wrote in tips on how to solve common magical problems, while [[Grizel Hurtz]], [[Helbert Spleen]], and [[Dempster Wiggleswade]] fielded other topics. In one issue, she responded to a letter from [[Elveira Elkins]], who was having difficulty getting a [[Fixing Charm]] to work. Gulch concluded that Elkins let her mind wander too much when casting the spell and should probably just stick to using nails instead.<ref name="DP">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[1 June]], [[1999]], Problem Page</ref>
+
+==Etymology==
+The name Zamira Gulch is likely a play on a character from the 1939 film ''The Wizard of Oz'', Almira Gulch (who, in the film, was dreamed as the Wicked Witch of the West by the film's protagonist, Dorothy).
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Daily Prophet employees}}
+{{DEFAULTSORT:Gulch, Zamira}}
+[[es:Zamira Gulch]]
+[[pl:Zamira Gulch]]
+[[pt-br:Zamira Gulch]]
+[[Category:Advice columnists]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Daily Prophet staff]]
+[[Category:Females]]
+[[Category:Wizards]]

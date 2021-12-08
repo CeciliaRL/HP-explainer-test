@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Angelus Peel
+|born = before [[1860]], [[Canada]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Canada|Canadian]]
+|alias = 
+|title = [[Seeker]]
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] for the [[Canadian National Quidditch team]]
+|house = 
+|loyalty = [[Canadian National Quidditch team]]
+}}
+'''Angelus Peel''' was a [[Canada|Canadian]] [[Wizardkind|wizard]] and a [[Seeker]] for the [[Canadian National Quidditch team]].<ref>{{PM}}</ref>
+
+==Biography==
+During the [[1877 Quidditch World Cup]], Peel woke with his [[Knee-Reversal Hex|knees on back-to-front]] and no recollection of how it had happened.<ref>{{PM}}</ref>
+
+==Appearances==
+*{{PM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Peel, Angelus}}
+
+[[de:Angelus Peel]]
+[[de2:Angelus Peel]]
+[[pl:Angelus Peel]]
+[[fr:Angelus Peel]]
+[[Category:Canadian individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Wizards]]

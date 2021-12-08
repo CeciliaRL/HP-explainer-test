@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = K. Bundy
+|born = c. [[1970s]]- [[1980s]]<ref name="QTA"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="QTA"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="QTA"/>
+}}
+'''K. Bundy''' was a [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in the [[1990s]]. Bundy borrowed the library copy of {{QTA}} after [[Fawcett|S. Fawcett]]. It was to be returned on [[10 October]].<ref name="QTA">{{QTA}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bundy, K.}}
+[[pl:K. Bundy]]
+[[fr:K. Bundy]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

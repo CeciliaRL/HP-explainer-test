@@ -1,0 +1,67 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Cyprian Youdle.jpg|250px]]
+|name = Cyprian Youdle
+|born = [[1312]]<ref name="COSG"/>
+|died = [[1357]] (aged 44-45)<ref name="COSG"/> <br/>[[Norfolk]], [[England]]
+|blood = 
+|marital = 
+|nationality = [[England|English]]<ref name="QTA6"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="COSG"/>
+|eyes = 
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch referee]]<ref name="QTA6"/>
+|house = 
+|loyalty = 
+}}
+'''Cyprian Youdle''' ([[1312]]–[[1357]])<ref name="COSG"/> was an [[England|English]] [[Wizardkind|wizard]] and [[Quidditch referee]] from [[Norfolk]], the only known referee to have been killed during a [[Quidditch]] match, during a friendly [[Quidditch]] match between local [[Wizardkind|wizards]] in [[1357]]. The [[Cyprian Youdle's killer|caster]] of the [[curse]] was never caught, but was suspected to be one of the members in the crowd.<ref name="QTA6">{{QTA|R|6}}</ref>
+
+By the 1990s, he was featured on a [[Chocolate Frog Card|Famous Wizard Card]].<ref name="COSG">{{COS|G}}</ref>
+
+==Etymology==
+The name "Cyprian" comes from the Roman family name Cyprianus which meant "from Cyprus" in Latin. Saint Cyprian was a 3rd-century bishop of Carthage and a martyr under the emperor Valerian.
+
+==Appearances==
+{{Imagecat|Images of Cyprian Youdle}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{QTA|R}} {{Mention}}
+*{{PM}} {{FWC}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Youdle, Cyprian}}
+
+{{Chocolate Frog Cards}}
+[[de:Cyprian Youdle]]
+[[fr:Cyprien Yodel]]
+[[it:Cyprian Youdle]]
+[[fi:Cyprian Youdle]]
+[[pl:Cyprian Youdle]]
+[[ru:Киприан Йодль]]
+[[pt-br:Ciprião Youdle]]
+[[Category:1312 births]]
+[[Category:1357 deaths]]
+[[Category:English individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Quidditch referees]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizards]]

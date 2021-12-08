@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Nikola Vassileva
+|born = After [[1976]]<ref>Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Bulgarian National Quidditch team]]
+|house = 
+|loyalty = [[Bulgarian National Quidditch team]]
+}}
+'''Nikola Vassileva''' was a Bulgarian witch and a [[Chaser]] for the [[2014]] [[Bulgarian National Quidditch team]]. During the second quarter-final match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], against [[Norwegian National Quidditch team|Norway]], Nikola Vassileva scored both of Bulgaria's goals, which Norwegian [[Chaser]] [[Lars Lundekvam]] soon equalised. Seeker [[Viktor Krum]], soon after, caught the [[Golden Snitch|Snitch]], making Bulgaria the victor.<ref name="PM">{{PM}} - [[BULGARIA VERSUS NORWAY]] (Archived)</ref>
+
+==Appearances==
+
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Vassileva, Nikola}}
+
+[[de:Nikola Vassileva]]
+[[fr:Nikola Vassileva]]
+[[pl:Nikola Vassileva]]
+[[Category:Bulgarian individuals]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:Wizards]]

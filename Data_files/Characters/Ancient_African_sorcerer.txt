@@ -1,0 +1,26 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Ancient African sorcerer
+|species = [[Human]]
+|gender = Male
+|job = [[Spell creation|Spell developer]] (most likely)
+|theme = wizard
+|hideb = hide
+|hidep = 
+|hidef = hide
+|hidem = hide
+|hidea = 
+}}
+This '''ancient African sorcerer''' (fl. early [[1600s]]) was a [[Wizardkind|wizard]] from somewhere in [[Africa]], who was responsible for teaching [[Eldon Elsrickle]], a thief hailing from [[London]], about the [[Unlocking Charm]]. The Charm was not known in [[Great Britain]], and when Elsrickle returned, he conducted a series of mysterious robberies, earning him the sobriquet "The Spectral Thief of Old London Town".<ref name="WBoS">{{WBS}} - see [http://www.youtube.com/watch?v=m9LNQV7cGIA&feature=relmfu this video]</ref>
+
+==Appearances==
+*{{WBS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[pl:Stary afrykański czarodziej]]
+[[Category:African individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Spell inventors]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

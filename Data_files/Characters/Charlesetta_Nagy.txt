@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme=convict
+|image=[[File:Charlesetta Nagy - wanted poster.png|250px]]
+|name=Charlesetta Nagy
+|born=
+|died=
+|blood=
+|marital=
+|alias=Mother
+|title=
+|signature=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+}}
+'''Charlesetta Nagy''', also known by the nickname '''Mother''', was a [[wizardkind|wizarding]] criminal who operated in the [[1920s]].<ref name="wwmm">{{WWMM|1}} {{see image|File:Charlesetta Nagy - wanted poster.png}}</ref>
+
+==Biography==
+In [[1926]], the [[Magical Congress of the United States of America]] issued a wanted poster for Nagy, which stated that she was wanted for [[spell]] forging and [[house-elf|elf]] trafficking.<ref name="wwmm" /> The poster warned that she was "unpredictable" and would "likely resist arrest."<ref name="wwmm" /> A reward of 4,500 [[Dragot]]s was offered for help that led to her arrest.<ref name="wwmm" />
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Nagy, Charlesetta}}
+[[Category:American individuals]]
+[[Category:Con artists]]
+[[Category:Females]]
+[[Category:Wizards]]

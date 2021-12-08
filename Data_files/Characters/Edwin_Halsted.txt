@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Edwin Halsted
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Choreographer
+|house=
+|loyalty=
+}}
+'''Edwin Halsted''' was a [[Muggle|No-Maj]] choreographer in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:Two to Tango.png}}</ref>
+
+He choreographed a production of the musical ''[[Two to Tango]]'' that was staged at [[The Kingly Court]] in [[Times Square]] in [[New York]] in [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Halsted, Edwin}}
+[[Category:Choreographers]]
+[[Category:Males]]
+[[Category:Muggles]]

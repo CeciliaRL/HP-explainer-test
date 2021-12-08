@@ -1,0 +1,76 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Iolanthe Peverell.png|250px]]
+|name = Iolanthe Peverell
+|born = 
+|died = 
+|blood = 
+|marital = Married
+|nationality = [[England|English]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ignotus Peverell's son|Peverell]] (father) †
+*[[Hardwin Potter]] (husband) †
+*[[Linfred of Stinchcombe]] (father-in-law) †
+*[[Hardwin Potter's siblings|Six siblings-in-law]] †
+*Either a son, daughter or a sister or a paternal aunt or a female cousin<ref>According to Pottermore, Iolanthe inherited the Cloak of Invisibility due to a "lack of male heirs in her generation." As far as we know, only her father's uncle, Cadmus, fathered at least one child - who would eventually become the precursor to the Gaunt family -  which would imply, as J.K. Rowling confirmed [http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html "Peverell blood would run through many wizarding families"], that Iolanthe had at ''least'' one other female relative - whether this be a sister, aunt, cousin, daughter - on the Peverell side (or through the Potters) to spread the Peverell blood to a different family. It is also possible that Hardwin and Iolanthe had a child together.</ref>
+*[[Ignotus Peverell]] (paternal grandfather) †
+*[[Peverell family]]
+*[[Potter family]] (in-laws)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Peverell family]]
+*[[Potter family]]
+}}
+'''Iolanthe Potter''' (née '''Peverell''')<ref name="Pottermore" /> was an [[England|English]] [[Wizardkind|witch]] and the granddaughter of [[Ignotus Peverell]]. 
+
+==Biography==
+Described as "beautiful", she lived in [[Godric's Hollow]]. Due to the lack of male heirs, she, the eldest of her generation, inherited her [[Ignotus Peverell|grandfather]]'s [[Cloak of Invisibility]]. Upon her marriage to [[Hardwin Potter]], she explained that, in the tradition of the Peverell family, possession of the cloak was kept secret. Hardwin honoured her family's tradition, and, from then on, the cloak was passed to the eldest child of each new generation in the [[Potter family]].<ref name="Pottermore">{{WW|the-potter-family}}</ref>
+
+[[Henry Potter]], a member of the [[Wizengamot]] from [[1913]] to [[1921]] and the great-grandfather of [[Harry Potter]], was a direct descendant of Hardwin and Iolanthe.<ref name="Pottermore" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{CC}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Ignotus Peverell's son|Peverell]]
+|years=?-?
+|position=Owner of the [[Cloak of Invisibility]]
+|successor=Unknown, eventually [[Henry Potter]]
+}}
+{{End box}}
+{{Deathly Hallows Owners}}
+
+{{DEFAULTSORT:Peverell, Iolanthe}}
+[[de:Iolanthe Peverell]]
+[[es:Iolanthe Peverell]]
+[[fr:Iolanthe Peverell]]
+[[pl:Iolanthe Peverell]]
+[[ru:Иоланта Певерелл]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Peverell family]]
+[[Category:Potter family]]
+[[Category:Wizards]]

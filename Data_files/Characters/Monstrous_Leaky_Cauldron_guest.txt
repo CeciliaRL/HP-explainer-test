@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Individual infobox
+|image=
+|theme=individual
+|name=Monstrous Leaky Cauldron guest
+|hideb=hide
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=*Beastly [[Human]] (possibly)<ref name="POAF"/>
+*[[Creature]] (possibly)<ref name="POAF"/>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Leaky Cauldron]]<ref name="POAF"/>
+}}
+{{Dialogue a-b-a|Maid|Housekeeping!|Guest|ROAR-AW!|I'll come back later.|The [[Leaky Cauldron]] [[Young Witch Maid|maid]] to the guest|Harry Potter and the Prisoner of Azkaban (film)}}
+This '''[[Human|person]]''' or '''[[creature]]''' (fl. [[1993]]) was a tenant (or belonged to a tenant) at the [[Leaky Cauldron]] during the summer of [[1993]]. As the [[Young Witch Maid|day maid]] did her rounds, she knocked on the door to the room in which this was accommodated, and the response was a loud roar and the door shut in her face.<ref name="POAF">{{POA|F}}</ref>
+
+==Appearances==
+*{{POA|F}} {{1st}} {{Comment|Heard}}
+==Notes and references==
+{{Reflist}}
+[[Category:Creatures]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]

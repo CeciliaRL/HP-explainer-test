@@ -1,0 +1,40 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Hedley Fleetwood
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WBoS"/>
+|gender = Male<ref name="WBoS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Fleetwood]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = [[Woolly mammoth]]<ref name="WBoS"/>
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Hedley Fleetwood''' was a [[wizardkind|wizard]]. His [[Patronus Charm|Patronus]] took the form of a [[woolly mammoth]], which was considered notable, as it was extremely rare for Patronuses to take the shape of extinct creatures.<ref name="WBoS">{{WBS}}</ref>
+
+==Appearances==
+*{{WBS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Fleetwood, Hedley}}
+[[fr:Hedley Fleetwood]]
+[[pl:Hedley Fleetwood]]
+[[Category:Males]]
+[[Category:Wizards]]

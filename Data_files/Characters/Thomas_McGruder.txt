@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Thomas McGruder
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+{{Quote|What's stupider than two [[Hufflepuff]]s flying a broom backwards? A [[Gryffindor]] trying to play [[Quidditch]]!|McGruder in the [[Stone Bridge]]|Harry Potter and the Half-Blood Prince (video game)}}
+'''Thomas McGruder''' was a [[Wizardkind|wizard]] and [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+During the [[1996–1997 school year]], he blocked the door at one end of the [[Stone Bridge]], forcing [[Harry Potter]] to [[Duelling|duel]] with him in order to get past.
+
+==Etymology==
+The name "Thomas" is the Greek form of the Aramaic name תָּאוֹמָא (Ta'oma') which meant "twin".
+
+==Appearances==
+*{{POA|G}} {{1st}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:McGruder, Thomas}}
+[[pl:Thomas McGruder]]
+[[fr:Thomas McGruder]]
+
+[[Category:British or Irish individuals]]
+[[Category:Bullies]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

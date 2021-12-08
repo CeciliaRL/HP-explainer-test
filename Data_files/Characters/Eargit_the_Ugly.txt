@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = goblin
+|image = [[File:Eargit the Ugly.jpg|250px]]
+|name = Eargit the Ugly
+|born = c. [[14th century]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = Brown
+|skin = Greyish-brown
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Spokesgoblin
+|house = 
+|loyalty = [[Wizards' Council]]
+}}
+'''Eargit the Ugly''' (fl. [[14th century]]) was the [[goblin]] representative at the [[14th century]] summit of the [[Wizards' Council]]. He was featured on a rare [[Chocolate Frog Card]].<ref>{{POA|G}}</ref>
+
+==Behind the scenes==
+*Interestingly, Eargit the Ugly's clothes are manifestly anachronistic, being off by about five-hundred years — his suit is something a man in the mid-to-late 19th century or 20th century would wear and definitely not what one would wear in the 14th century (in which it was common and fashionable to wear woollen overgowns, tunics, or kirtles over doublets).
+
+==Appearances==
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}{{Chocolate Frog Cards}}
+
+[[de:Eargit der Hässliche]]
+[[es:Eargit el Feo]]
+[[fr:Eargit l'Affreux]]
+[[fi:Eargit the Ugly]]
+[[pl:Eargit Paskudny]]
+
+[[Category:Brown-eyed individuals]]
+[[Category:Famous Goblins Chocolate Frog Cards]]
+[[Category:Goblins]]
+[[Category:Males]]

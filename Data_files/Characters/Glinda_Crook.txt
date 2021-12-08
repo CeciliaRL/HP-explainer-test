@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Glinda Crook
+|born = Before [[1982]]<ref name="age">As she worked for the [[Campaign for Greater Freedom for Wizards]] by [[1999]], she was likely over 17.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Female<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Activist for the [[Campaign for Greater Freedom for Wizards]]<ref name="DP"/>
+|house = 
+|loyalty = [[Campaign for Greater Freedom for Wizards]]<ref name="DP"/>
+}}
+{{Quote|[[Merlin's beard]], surely we can celebrate one night of the year without worrying about the blessed [[Non-magic people|Muggles]].|Crook's opposition to Ministry Hallowe'en restrictions|The Daily Prophet (real-world)}}
+'''Glinda Crook''' was a [[Wizardkind|witch]] who worked for the [[Campaign for Greater Freedom for Wizards]]. She spoke on behalf of the organisation in the ''[[Daily Prophet]]'', stating its opposition to new [[British Ministry of Magic|Ministry of Magic]] regulations, which were intended to limit [[magic]]al activity on [[Hallowe'en]].<ref name="DP">{{DP}}, [[1999]], Page 1</ref>
+
+==Etymology==
+*Glinda means "pure; good" in Welsh.
+*The last name Crook originates from the byname "Krókr" which means "crook; bend" in Old Norse.
+
+==Behind the scenes==
+*The name Glinda might have been taken from the character [[Wikipedia:Glinda|Glinda the Good Witch]] in the Oz books first written by L. Frank Baum.
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Crook, Glinda}}
+
+[[Category:Activists]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Wizards]]

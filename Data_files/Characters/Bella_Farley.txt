@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Bella Farley
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Jake Farley]] (unknown)
+*[[Charlie Farley]] (unknown)
+*[[Madge Farley]] (unknown)
+*[[Gemma Farley]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Farley family]]
+}}
+'''Bella Farley'''<ref>Closed captions on the DVD/Blu-ray of {{DH|F1}}</ref> was a [[Wizardkind|witch]] reported missing along with her relatives [[Jake Farley|Jake]], [[Charlie Farley|Charlie]], and [[Madge Farley|Madge]] on the ''[[Potterwatch]]'' radio programme in [[1997]]. Her disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.
+
+==Etymology==
+"Bella" is the short form of Isabella and other names ending in bella. It is also associated with the Italian word meaning "beautiful".
+
+==Appearances==
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Farley, Bella}}
+
+[[fr:Bella Farley]]
+[[pl:Bella Farley]]
+[[Category:British individuals]]
+[[Category:Farley family]]
+[[Category:Females]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

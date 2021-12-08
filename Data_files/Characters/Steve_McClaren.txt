@@ -1,0 +1,40 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Stephen McClaren
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Manager of the [[England national football team]]
+|loyalty=[[England national football team]]}}
+
+{{Quote|John is almost certainly ruled out. His knee locked towards the end of training and he could not complete the session.|Steve McClaren on John Terry's injury, as quoted by ''[[The Guardian]]'', [[July]] [[1996]]|Harry Potter Limited Edition}}
+
+'''Stephen "Steve" McClaren''' was the manager of the [[England national football team]] by [[July]] of [[1996]]. When the team's captain [[John Terry]] could not complete a practise due to a reoccurrence of a knee injury, McClaren made the decision to replace him with [[Sol Campbell]] for the upcoming group E fixture against the [[Russia national football team]] in [[Moscow]].<ref>{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Behind the scenes==
+*In the real world, Steve McClaren managed the England national football team from [[4 May]], [[Between 2010 and 2017|2006]] to [[22 November]], 2007. In 1996, McClaren was working as the assistant manager of {{wplink|Derby County F.C.}}
+
+==Appearances==
+*{{HBP|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

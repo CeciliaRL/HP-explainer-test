@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Gillian Ossett
+|born = between [[1 September]] [[1978]]-[[31 August]] [[1982]] (most likely)<ref>She was at least in her first year at Hogwarts during the [[1993-1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+}}
+{{Dialogue a-b-a|Gillian Ossett|Hi, [[Harry Potter|Harry]]. I just love [[Wizard's Chess|Wizard Chess]]. That's why I've collected so many chess pieces. Do you need any? I've got spare ones that I can swap.|Harry Potter|No, I don't want to swap with you|No problem, [[Harry Potter|Harry]]. I'll be here later if you change your mind.|Harry Potter talk with Gillian Ossett in [[Classroom 3C|Defence Against the Dark Arts Classroom]].|Harry Potter and the Half-Blood Prince (video game)}}
+'''Gillian Ossett''' was a [[Hufflepuff]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+As a lover of [[Wizard's Chess]], she collected chess pieces, and traded her extra ones with other students for various objects. She could usually be found in the [[Defence Against the Dark Arts]] [[Classroom 3C|classroom]] during the [[1996-1997 school year]].
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Ossett, Gillian}}
+[[pl:Gillian Ossett]]
+[[fr:Gillian Ossett]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

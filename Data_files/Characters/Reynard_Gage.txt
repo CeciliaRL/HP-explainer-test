@@ -1,0 +1,41 @@
+{{Individual infobox
+|image = Reynard Gage.jpg
+|name = Reynard Gage
+|blood = [[Pure-blood]] (likely)<ref>As he married into the pure-blood extremist Lestrange family, he very likely had to be a pure-blood himself.</ref>
+|marital = Married
+|nationality = [[France|French]]
+|species = [[Human]]
+|gender = Male
+|family = *[[Josette Gage]] (wife)
+*[[Louis Gage]] (son)
+*[[Mathis Gage]] (son)
+*[[Corvus Lestrange (II)|Corvus Lestrange]] (father-in-law)
+*[[Minette Lestrange]] (mother-in-law)
+*[[Manon Perrot]] (sister-in-law)
+*[[Corvus Lestrange (III)|Corvus Lestrange]] (brother-in-law)
+*[[Laurelle Perrot]] (niece)
+*[[Odile Perrot]] (niece)
+*[[Huguette Perrot]] (niece)
+*[[Corvus Lestrange (IV)|Corvus Lestrange]]
+*[[Gage family]]
+*[[Lestrange family]] (in-laws)
+|loyalty = [[Gage family]]
+|theme = wizard
+}}'''Reynard Gage''' was a [[France|French]] [[Wizardkind|wizard]] and a member of the [[Gage family]]. He was the husband of [[Josette Gage]] and the father of two sons: [[Louis Gage|Louis]] and [[Mathis Gage]].<ref>{{COG}} {{see image|File:The art of CoG lestrange.jpeg}}</ref>
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Gage, Reynard}}
+[[fr:Reynard Gage]]
+[[pl:Reynard Gage]]
+[[ru:Рейнард Гаж]]
+
+[[Category:French individuals]]
+[[Category:Gage family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

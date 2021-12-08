@@ -1,0 +1,53 @@
+{{WizardsUniteSpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Brilliant Azkaban Escapee WU.png]]
+|name = Unidentified Azkaban Escapee
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FightingForces"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FightingForces"/>
+|gender = Male<ref name="FightingForces"/>
+|height = 
+|weight = 
+|hair = None (bald)<ref name="FightingForces"/>
+|eyes = 
+|skin = White<ref name="FightingForces"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="FightingForces"/>
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''individual''' was a [[Wizardkind|wizard]] imprisoned in [[Azkaban]] for an unknown crime.<ref name="FightingForces"/> 
+
+==History==
+[[File:Azkaban_Prisoner_Number_WU.png|thumb|left|This prisoner's Azkaban number plate]]
+He was known to have escaped during one of the [[Death Eaters|Death Eater]]-led raids at the height of [[Tom Riddle|Voldemort]]’s reign, but otherwise, he was historically inconsequential.<ref name="FightingForces">{{WU}} "Brilliant Event: Fighting Forces"</ref>
+
+In [[October]] [[2019]], however, [[Calamity|the Calamity]] chose to focus on him. As [[Constance Pickering]] found out, the number of the prisoner, also captured by the Calamity, belonged to this individual.<ref name="FightingForces"/>
+
+==Behind the scenes==
+*It is possible that he is [[Gareth Greengrass]]' [[Gareth Greengrass' brother|brother]].
+
+==Appearances==
+*{{WU}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Azkaban escapees]]
+[[Category:British individuals]]
+[[Category:Foundables]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

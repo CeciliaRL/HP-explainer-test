@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Unidentified wizard
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|nationality=[[Great Britain|British]]<ref name="GOFF"/>
+|species=[[Human]]<ref name="GOFF"/>
+|gender=Male<ref name="GOFF"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=f
+|family=
+|hidem=m
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Department of International Magical Co-operation]] employee<ref name="GOFF"/>
+|house=
+|loyalty=*[[British Ministry of Magic]]<ref name="GOFF"/>
+**[[Department of International Magical Co-operation]]
+}}This '''individual''' was a [[Wizardkind|wizard]] who worked for [[Bartemius Crouch Senior|Bartemius Crouch Snr]] until Crouch's death in [[1995]].<ref name="GOFF">{{GOF|F}}</ref>
+
+==Biography==
+In [[1981]] after [[Tom Riddle|Lord Voldemort]]'s downfall he attended the trial of [[Igor Karkaroff]] in which Karkaroff named [[Death Eaters]].<ref name="GOFF"/>
+
+In [[1994]] he attended the [[Quidditch World Cup]] between [[Ireland]] and [[Bulgaria]]. When the [[Dark Mark]] appeared in the sky he helped [[Bartemius Crouch Senior|Bartemius Crouch Snr]] and some other wizards and witches to find the "[[Bartemius Crouch Junior|man]]" in the ruins of the [[Roberts's campsite|campsite]] owned by [[Roberts]].<ref name="GOFF"/>
+
+==Behind the scenes==
+*He is portrayed by [[Campbell Graham]] in {{GOF|FA}}.
+
+==Appearances==
+*{{GOF|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 5 employees}}
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:British individuals]]
+[[Category:Department of International Magical Co-operation personnel]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

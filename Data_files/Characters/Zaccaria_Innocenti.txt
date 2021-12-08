@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Zaccaria Innocenti
+|born=Before 79 AD<ref name="castaspell"/>
+|died=
+|blood=
+|alias=
+|title=[[Warlock]]<ref name="castaspell"/>
+|species=[[Human]]<ref name="castaspell"/>
+|gender=Male<ref name="castaspell"/>
+|nationality = [[Italy|Roman]]<ref name="castaspell"/>
+|skin=
+|eyes=
+|hair=
+|weight=
+|height=
+|family=
+|romances=
+|wand=
+|animagus=
+|boggart=
+|patronus=
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|The "Dancing Feet" spell has its origins in ancient Italy, but is best remembered for its improper usage by Warlock Zaccaria Innocenti who is credited with conjuring a 'dance' within Mt. Vesuvius in 79 AD.|Reason for Mt. Vesuvius's eruption<ref name="Cast-a-Spell">[http://harrypotter.warnerbros.com/hogwarts/library/castaspell.html ''Tarantallegra'' entry on the Cast-a-Spell kit found in the Library section of the Harry Potter Official Site.]</ref>}}
+'''Zaccaria Innocenti''' (fl. [[First millennium A.D.|79 AD]]) was an ancient [[Italy|Roman]] [[warlock]] who lived during the [[First millennium A.D.|1st century AD]].<ref name="castaspell">[http://web.archive.org/web/20100906055932/http://harrypotter.warnerbros.com/hogwarts/library/castaspell.html ''Tarantallegra'' entry on the Cast-a-Spell kit found in the Library section of the Harry Potter Official Site]</ref> 
+
+==Biography==
+He misused the [[Dancing Feet Spell]] in [[First millennium A.D.|79 AD]], conjuring a 'dance' within [[Mount Vesuvius|Mt. Vesuvius]],<ref name="castaspell" /> resulting in its eruption, which destroyed the Roman cities of [[Wikipedia:Pompeii|Pompeii]] and [[Wikipedia:Herculaneum|Herculaneum]], killing at least 1500 people.<ref>[http://en.wikipedia.org/wiki/Vesuvius Mount Vesuvius] on Wikipedia</ref> His improper usage of the spell is what he and the spell is most remembered for.<ref name="castaspell"/> Whether or not he was one of the eruption's casualties is unknown. 
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': Zaccaria was proficient with the casting of the [[Dancing Feet Spell]], that inadvertently triggered the explosion of [[Mount Vesuvius]] which killed at least 1500 people.<ref name="castaspell"/>
+
+==Etymology==
+"Zaccaria" is the Italian form of Zechariah,<ref>[http://www.behindthename.com/submit/view.php?name=zaccaria Zaccaria] on Behind the Name</ref> a Hebrew name meaning "God remembers",<ref>[http://www.behindthename.com/php/find.php?name=zechariah Zechariah] on Behind the Name</ref> while Innocenti is an Italian surname that derives from the Italian word for "innocent" (''innocente'').<ref>[http://www.ancestry.com/facts/INNOCENTI-name-meaning.ashx Innocenti] on Ancestry.com</ref> Neither is consistent with the [[Wikipedia:Roman naming conventions|naming conventions]] of ancient Rome, but this may be explained as wizarding names not necessarily adhering to non-magical naming conventions.
+
+==Appearances==
+*''[http://harrypotter.warnerbros.com/ Harry Potter Official Site]'' {{1st Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Innocenti, Zaccaria}}
+[[es:Zaccaria Innocenti]]
+[[pl:Zaccaria Innocenti]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Roman individuals]]
+[[Category:Warlocks]]
+[[Category:Wizards]]

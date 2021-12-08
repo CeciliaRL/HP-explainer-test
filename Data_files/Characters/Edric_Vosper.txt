@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = Edric_Vosper.jpg
+|name = Edric Vosper
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[England|English]]<ref name="QWC"/>
+|alias = 
+|title = [[Chaser]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="QWC"/>
+|eyes = Brown<ref name="QWC"/>
+|skin = Light<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[English National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[English National Quidditch team]]<ref name="QWC"/>
+}}
+'''Edric Vosper''' was an [[England|English]] [[Wizardkind|wizard]] who played as a [[Chaser]] on the [[English National Quidditch team]] during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]].<ref name="QWC">{{QWC}}</ref> He was immortalised on a [[Chocolate Frog Card]] by [[1996]].<ref name="HBPG">{{HBP|G}} - NDS version</ref>
+
+==Etymology==
+The name "Edric" comes from Old English ''ead'', meaning "rich", "blessed" and ''ric,'' "ruler". After the Norman conquest this Old English name was not commonly used. It has occasionally been revived in modern times.
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{FWC}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Vosper, Edric}}
+[[fr:Edric Vosper]]
+[[pl:Edric Vosper]]
+[[Category:20th century births]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

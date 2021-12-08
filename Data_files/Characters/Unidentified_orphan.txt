@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Unidentified orphan
+|born = [[1920s]] (most likely)
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HBPF"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPF"/>
+|gender = Male<ref name="HBPF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Wool's Orphanage]]<ref name="HBPF"/>
+}}
+This '''orphan''' lived in [[Wool's Orphanage]], [[London]] during the [[1930s]].<ref name="HBPF">{{HBP|F}}</ref>
+
+==Behind the scenes==
+*The character was portrayed by [[Ashley Whitehead]] in {{HBP|FA}}.
+*This character is likely either [[Dennis Bishop]], [[Eric Whalley]] or [[Billy Stubbs]].
+
+==Appearances==
+*{{HBP|F}} {{1st}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1920s births|Orphan]]
+[[Category:British individuals|Orphan]]
+[[Category:Males|Orphan]]
+[[Category:Orphans]]
+[[Category:Unidentified Muggles|Orphan]]
+[[Category:Wool's Orphanage residents]]

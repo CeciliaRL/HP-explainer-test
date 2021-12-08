@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified St Mungo's girl patient's father
+|born = 
+|died = 
+|blood = 
+|nationality = [[Great Britain|British]]<ref name="OOTP22"/>
+|alias = 
+|title = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="OOTP22"/>
+|gender = Male<ref name="OOTP22"/>
+|height = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Winged St Mungo's patient|Daughter]]<ref name="OOTP22"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="OOTP22"/>
+}}
+{{Quote|A harassed-looking wizard was holding his small daughter tightly by the ankle while she flapped around his head using the immensely large, feathery wings that had sprouted right out the back of her romper suit.|This wizard in St Mungo's|Harry Potter and the Order of the Phoenix}}
+This harassed looking '''[[Wizardkind|wizard]]''' was the father of a patient in [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]]. He had to carry his [[Winged St Mungo's patient|daughter]] like a balloon to get treatment because she had sprouted wings.<ref name="OOTP22">{{OOTP|B|22}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Padre de la paciente no identificada de San Mungo]]
+[[Category:British individuals]]
+[[Category:Males|St Mungo's girl patient's father]]
+[[Category:Parents]]
+[[Category:Unidentified individuals|St Mungo's girl patient's father]]
+[[Category:Wizards|St Mungo's girl patient's father]]

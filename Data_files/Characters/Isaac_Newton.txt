@@ -1,0 +1,46 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Isaac Newton
+|hideb=hide
+|born=[[4 January]] [[1643]]
+|died=[[31 March]] [[1727]]
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Physicist
+|loyalty=
+}}
+'''Isaac Newton''' ([[4 January]] [[1643]] – [[31 March]] [[1727]]) was an [[England|English]] [[Non-magic people|Muggle]] physicist and mathematician, famous for his formulation of the [[Wikipedia:Newton's laws of motion|three laws of motion]], and for discovering [[gravity]].<ref>"[https://en.wikipedia.org/wiki/Isaac_Newton Isaac Newton]" on Wikipedia</ref>
+
+The work of Newton was among the subject matter covered in the book ''[[A Brief History of Time]]'' by [[Stephen Hawking]].<ref name="poa-film">{{POA|F}} - Chapter 4 (''The Leaky Cauldron'') (see [[:File:A Brief History of Time.jpg|this image]] and [http://s3.amazonaws.com/bonanzleimages/afu/images/0386/6162/brief_history_of_time_back.jpg this image])</ref>
+
+==Behind the scenes==
+*In real life, Isaac Newton spent a great deal of time studying [[alchemy]], writing and transcribing around a million words on the subject over the course of his lifetime.<ref>"[http://www.perimeterinstitute.ca/videos/why-did-isaac-newton-believe-alchemy Why did Isaac Newton Believe in Alchemy?]" from the Perimeter Institute for Theoretical Physics</ref> [[J. K. Rowling]] briefly mentioned him on {{PM}} as one of the real historical figures who sought to make a [[Philosopher's Stone]].<ref name="PS">{{WW|the-philosophers-stone}}</ref>
+
+==Appearances==
+*{{POA|F}} {{1st Mention}} {{C|Mentioned on book cover}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Newton, Isaac}}
+[[Category:1643 births]]
+[[Category:1727 deaths]]
+[[Category:Astronomers]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Physicists]]

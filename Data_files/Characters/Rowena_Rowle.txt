@@ -1,0 +1,55 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Rowena Rowle
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Damocles Rowle]] (possibly)
+*[[Euphemia Rowle]] (possibly)
+*[[Thorfinn Rowle]] (possibly)
+*[[Regina Rowle]] (possibly)
+*[[Rowle family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Rowle family]]
+*[[British Ministry of Magic]]
+}}
+'''Rowena Rowle''' was a [[Great Britain|British]] [[Wizardkind|witch]] who worked at the [[British Ministry of Magic]] in the [[2010s]].<ref name="WU">{{WU}}</ref>
+
+== Biography ==
+At some point in the [[Calamity]], she lets a [[Calamity Investigator]] into the [[Department of Mysteries]] to share theories about [[Grim Fawley]]. As she monologues, the Investigator stares into the Tank of Brains - accidentally inspiring one to leap onto them. Rowena saves the Investigator.<ref name="WU"/>
+
+==Behind the scenes==
+*Unless they are related, it is possible that the name "Rowena Rowle" is a continuity error and is supposed to be Regina.
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Rowle, Rowena}}
+
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Ministry of Magic employees]]
+[[Category:Rowle family]]
+[[Category:Wizards]]

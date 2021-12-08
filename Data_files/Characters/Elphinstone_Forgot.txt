@@ -1,0 +1,44 @@
+{{transcribed image|File:Nux_Myristica.jpg}}
+{{Individual infobox
+|image=
+|theme=individual
+|name=Elphinstone Forgot
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=Admiral
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=Naval officer
+|house=
+|loyalty=
+}}
+'''Elphinstone Forgot''' was an admiral in an unknown navy. His name was written on the label of a bottle of [[Nux Myristica]], presumably indicating that he gathered it, or that it once belonged to him.<ref>''[[Advanced Potion-Making]]'' stickerbook between pages 44-45 of {{HPFW}} {{see image|File:Nux_Myristica.jpg}}.</ref>
+
+==Appearances==
+*{{HPFW}} {{comment|name seen on label}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Forgot, Elphinstone}}
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Military personnel]]

@@ -1,0 +1,40 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = CommonWelshGreenAtTheMagicalCreaturesReserve.jpg
+|name = Common Welsh Green at the Magical Creatures Reserve
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Common Welsh Green]]<ref name="HTBD">{{HM}}, Year ?, Side Quest "Here There Be Dragons"</ref>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = Yellow<ref name="HTBD"/>
+|skin = Green<ref name="HTBD"/>
+|family = 
+|loyalty = [[Magical Creatures Reserve]]<ref name="HTBD"/>
+}}
+This '''[[Common Welsh Green]]''' lived in the [[Magical Creatures Reserve]] in the [[1980s]].<ref name="HTBD"/>
+
+==Biography==
+In the [[1980s]], [[Jacob's sibling]] would often bond with and feed this [[Common Welsh Green]].<ref name="HTBD"/>
+
+[[File:CaringForCommonWelshGreen.jpg|150px|thumb|left|[[Jacob's sibling]] and [[Penny Haywood]] caring for this Common Welsh Green]]
+At some point, [[Rubeus Hagrid]] used up nearly all of [[Pomona Sprout|Professor Sprout]]'s dragon dung to fertilise the [[pumpkin]] patch in [[Rubeus Hagrid's garden|his garden]]. Jacob's sibling went caring for this Common Welsh Green with [[Penny Haywood]] and collected enough dragon dung for Hagrid.<ref name="HTBD"/>
+
+At the same time, there was a dragon attack on a [[Non-magic people|Muggle]] village and the [[British Ministry of Magic|Ministry]] believed it was this Common Welsh Green. Jacob's sibling and Penny used the bag dung to proof what it was doing when the attack occurred to [[Albus Dumbledore]], who was convinced and brought the matter to court, clearing the charges.<ref name="HTBD"/>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Creature-stub}}
+{{Magical Creatures Reserve}}
+[[Category:Individual dragons]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Magical Creatures Reserve]]
+[[Category:Yellow-eyed individuals]]

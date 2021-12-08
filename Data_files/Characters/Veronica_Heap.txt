@@ -1,0 +1,40 @@
+{{Transcribed image|File:Marauder's_Map_POA_ILL.png}}
+{{Individual infobox
+|theme = individual
+|image = Vheap.png
+|name = Veronica Heap
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Veronica Heap''' was an individual who visited the the [[Hogwarts Library]] during the [[1993-1994 school year]] as seen on the [[Marauder's Map]] .<ref>''[[Harry Potter and the Prisoner of Azkaban|Harry Potter and the Prisoner of Azkaban (illustrated edition)]]'', chapter 10</ref>
+
+==Appearances==
+*{{POA|IE}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Heap, Veronica}}
+[[Category:Females]]

@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = George Coutas
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''George Coutas'''<ref>Closed captions on the DVD/Blu-ray of {{DH|F1}}</ref> was a [[Wizardkind|wizard]] who was reported missing on the ''[[Potterwatch]]'' wireless programme in [[1997]]. His disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.
+
+==Etymology==
+The name "George" comes from the Greek name Γεωργιος (Georgios) which was derived from the Greek word γεωργος (georgos) meaning "farmer, earthworker", itself derived from the elements γη (ge) "earth" and εργον (ergon) "work". Saint George was a 3rd-century Roman soldier from Palestine who was martyred during the persecutions of emperor Diocletian. Later legends describe his defeat of a dragon, with which he was often depicted in medieval art.
+
+==Appearances==
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Coutas, George}}
+
+[[fr:George Coutas]]
+[[pl:George Coutas]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

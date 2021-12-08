@@ -1,0 +1,47 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Muggle Artefact Smuggler
+|born = Before [[1990]]<ref name="HM712A1"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM712A1">{{HM|7|12|Muggle Artefact Smuggler}}</ref>
+|gender = Male<ref name="HM712A1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Artefact smuggler<ref name="HM712A1"/>
+|house = 
+|loyalty = 
+}}
+This '''[[Wizardkind|wizard]]''' smuggled [[Non-magic people|Muggle]] artefacts, [[Charm|enchanted]] them and sold them back to Muggles during the [[1990–1991 school year]].<ref name="HM712A1"/>
+
+==Biography== 
+During the [[1990–1991 school year]], this wizard sold a [[cursed kettle]] to an oblivious [[Unidentified Muggle witness|Muggle]]. The wizard was seen by a [[Unidentified witness (II)|witness]] on the [[Charing Cross Road]] and also outside the [[Leaky Cauldron]].<ref name="HM712A1"/>
+
+[[Jacob's sibling]] helped investigate and track down the wizard as a part of the [[Ministry of Magic student programme]], and at the end of the assignment, [[Alastor Moody]] reported that he would soon be apprehended.<ref name="HM712A1"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Criminals]]
+[[Category:Males]]
+[[Category:Muggle-baiting]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,54 @@
+{{Individual infobox
+|image = [[File:Ruby_FB1.png|250px]]
+|name = Ruby
+|born = 
+|died = 
+|alias = 
+|title = 
+|marital = 
+|blood = 
+|signature = 
+|nationality = [[United States of America|American]]<ref name="fb68" />
+|species = [[Human]]<ref name="fb68" />
+|gender = Female<ref name="fb68" />
+|eyes = 
+|hair = 
+|skin = 
+|weight = 
+|height = 
+|family = 
+|romances = [[Sam (Obliviator)|Sam]]<ref name="fb68" />
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|house = 
+|job = Employee of the [[Magical Congress of the United States of America]]<ref name="fb68" />
+|loyalty = [[Magical Congress of the United States of America]]<ref name="fb68" />
+|theme = macusa
+}}
+'''Ruby''' was an [[United States of America|American]] [[Wizardkind|witch]] who lived in the early [[20th century]].<ref name="fb68">{{FB|S|68}}</ref>
+
+==Biography==
+In [[1926]], Ruby was in a relationship with [[Sam (Obliviator)|Sam]], an [[Obliviator]] who worked for the [[Magical Congress of the United States of America]].<ref name="fb68" /> Unbeknownst to her, however, Sam was also romantically involved with his another woman [[Cecily]].<ref name="fb68" /> [[Queenie Goldstein]], a [[Legilimency|Legilimens]], uncovered Sam's infidelity by reading his mind, and convinced him not to [[Memory Charm|wipe the memory]] of the [[Non-magic people|No-Maj]] [[Jacob Kowalski]] by threatening to expose his secret to Ruby as she appeared smiling at him.<ref name="fb68" />
+
+==Behind the scenes==
+*Ruby was portrayed by [[Stephanie Aspin]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'', but was not listed in the film's end credits.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+[[de:Ruby (MACUSA)]]
+[[ru:Руби]]
+[[de2:Ruby]]
+[[fr:Ruby]]
+[[es:Ruby (bruja)]]
+[[pl:Ruby]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Wizards]]

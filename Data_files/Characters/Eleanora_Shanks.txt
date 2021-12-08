@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme=wizard
+|image=[[Eleanora Shanks.jpg|250px]]
+|name=Eleanora Shanks
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=Crazy Lamb
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=Light
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+
+'''Eleanora Shanks''', also known by the nickname '''Crazy Lamb''', was an American [[wizardkind|wizarding]] criminal who operated in the [[1920s]].
+
+==Biography==
+In or around [[1926]], the [[Magical Congress of the United States of America]] issued a wanted poster for Shanks stating that she had escaped from the [[New York Witches' Penitentiary]], and was wanted for [[Muggle|No-Maj]] murder. It offered a reward of 1500 [[Dragot]]s for information leading to her capture.
+
+When Shanks was booked and photographed, she was assigned the MACUSA Reg No 8153, but individuals were informed that she may appear much older as the picture was take some time ago.<ref>''[[Inside the Magic: The Making of Fantastic Beasts and Where to Find Them]]'' {{see image|File:Eleanora Shanks - wanted poster.png}}</ref>
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+*''[[Inside the Magic: The Making of Fantastic Beasts and Where to Find Them]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Shanks, Eleanora}}
+
+[[fr:Eleanora Shanks]]
+[[ru:Элеанора Шанкс]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Murderers]]
+[[Category:New York Witches' Penitentiary convicts]]
+[[Category:Wizards]]

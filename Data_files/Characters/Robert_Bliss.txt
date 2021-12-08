@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Robert Bliss
+|born = In or prior to [[1977]]<ref name="eighteen">The age of majority in Muggle Britain is 18 years. To be working for a newspaper in 1995, this individual must have been 18 or older at the time.</ref>
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Reporter for the ''[[Daily Express]]''
+|house = 
+|loyalty = 
+}}
+'''Robert Bliss''' was a [[Non-magic people|Muggle]] reporter who co-wrote a front-page article with [[Amanda Pettet]] about the heat wave that swept over [[Great Britain]] for the ''[[Daily Express]]'' in the summer of [[1995]].<ref name="HPLE">{{HPLE|G}} (see [[:File:DailyExpress.png|this image]])</ref>
+
+==Behind the scenes==
+*This character was presumably named after [[Rob Bliss]], who worked as a concept artist on the film adaptations of [[Harry Potter and the Philosopher's Stone (film)|''Philosopher's Stone'']], [[Harry Potter and the Chamber of Secrets|''Chamber of Secrets'']], [[Harry Potter and the Prisoner of Azkaban (film)|''Prisoner of Azkaban'']], [[Harry Potter and the Order of the Phoenix|''Order of the Phoenix'']], and [[Harry Potter and the Half-Blood Prince (film)|''Half-Blood Prince'']].<ref>"[http://www.imdb.com/name/nm0088528/ Rob Bliss]" on IMDb</ref>
+
+==Appearances==
+*{{OOTP|F}} {{Mention}}
+*{{HPLE}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Bliss, Robert}}
+[[Category:British individuals]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Muggles]]

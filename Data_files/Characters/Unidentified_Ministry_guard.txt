@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Ministry guard
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="CC"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="CC"/>
+|gender = Male<ref name="CC"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Security guard at the [[British Ministry of Magic]]<ref name="CC"/>
+|house = 
+|loyalty = [[British Ministry of Magic]]<ref name="CC"/>
+}}
+This unidentified '''guard''' worked at the [[British Ministry of Magic]] in [[2020]]; he was guarding [[Minister for Magic]] [[Hermione Granger]]'s office when [[Albus Potter]], [[Scorpius Malfoy]], and [[Delphini]] broke into the ministry [[Polyjuice Potion|disguised]] as the [[trio]].<ref name="CC">{{CC|B|1|18}}</ref>
+
+==Appearances==
+*{{CC}} {{1st}}
+*{{CC|P}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowany strażnik Brytyjskiego Ministerstwa Magii]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Security guards]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

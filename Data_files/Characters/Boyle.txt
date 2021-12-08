@@ -1,0 +1,25 @@
+{{Individual infobox
+|name = Boyle
+|blood = [[Muggle|No-Maj]]
+|marital = Unmarried
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Female
+|theme = muggle
+}}
+{{Quote|"It was horrifying!" sobs Miss Boyle, "I can't believe he is dead! The place was in chaos, nobody knew what was happening or what to do!"|Miss Boyle talks about the [[Fundraising Dinner for the Re-election of Senator Henry Shaw|Shaw Fundraising Dinner]], quoted on the [[7 December]], [[1926]] issue of ''[[The New York Star]]''|Fantastic Beasts and Where to Find Them (film)}}
+'''Miss Boyle''' was a [[United States of America|American]] [[Non-magic people|No-Maj]] woman who was part of the upper echelons of [[New York]] society in the [[1920s]].<ref name="NewYorkStar">{{CB}} {{see image|File:The New York Star - Tuesday December 1926.png}}</ref>
+
+==Biography==
+She was one of the attendees of the [[Fundraising Dinner for the Re-election of Senator Henry Shaw|fundraising dinner]] for the re-election of [[Henry Shaw Junior|Senator Henry Shaw]] in December 1926. When the function was interrupted by [[Credence Barebone]]'s [[Obscurus]]'s attack on the Senator, Miss Boyle was at a loss as to what to do as chaos ensued. She later was quoted in a report on the incident published in ''[[The New York Star]]''.<ref name="NewYorkStar"/>
+
+==Appearances==
+*{{FBC}} {{Comment|Mentioned in a newspaper}}
+*{{CB}} {{Comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Unmarried individuals]]

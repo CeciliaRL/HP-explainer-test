@@ -1,0 +1,68 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = Helen Dawlish.jpg
+|name = Helen Dawlish
+|born = [[31 August]] [[1983]] or earlier<ref name="born">She was at least in her first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Female<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[John Dawlish]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="POAG"/><ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAG"/>
+**[[Ravenclaw]]<ref name="POAG"/>
+**[[Duelling Club]]<ref name="HBPG"/>
+*[[Dawlish family]]
+}}
+'''Helen Dawlish''' was a [[Wizardkind|witch]], member of the [[Dawlish family]] who was a [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She was also a member of the [[Duelling Club]].<ref name="HBPG"/>
+
+==Biography==
+In [[1993]], she could be found in the [[Fat Lady's Corridor]].<ref name="POAG">[[Harry Potter and the Prisoner of Azkaban (PlayStation 2, Xbox, GameCube)]]</ref> She was a fan of [[Gilderoy Lockhart]], and spent the summer of [[1996]] reading his books, of which ''[[Magical Me]]'' was her favourite. After returning to school for the [[1996–1997 school year]], she ran a [[Duelling Club]] in the [[Middle Courtyard|Transfiguration Courtyard]], which also included [[Shoma Ichikawa]] and [[Rhonda Fladbury]]. She offered [[sloth brain]]s as a reward to everyone who beat her in a [[Duelling|duel]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+The name "Helen" is the English form of the Greek ‘Ελενη (''Helene''), probably from Greek ‘ελενη (''helene'') "torch" or "corposant", or possibly related to σεληνη (''selene'') "moon". In Greek mythology Helen was the daughter of Zeus and Leda, whose kidnapping by Paris was the cause of the Trojan War.
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (PlayStation 2, Xbox, GameCube)|console versions]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+*If Helen is indeed related to John Dawlish, her mandatory attendance at Hogwarts, where she was at the mercy of the Carrows, presumably played a part in his cooperation with the Death Eater-controlled Ministry.
+
+==Appearances==
+*{{POA|G}} {{c|console versions only}} {{1st}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Duelling Club}}
+{{DEFAULTSORT:Dawlish, Helen}}
+
+[[es:Helen Dawlish]]
+[[ru:Хелен Долиш]]
+[[pl:Helen Dawlish]]
+[[fr:Helen Dawlish]]
+[[pt-br::Helen Dawlish]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Dawlish family|Helen]]
+[[Category:Duelling Club members]]
+[[Category:Females]]
+[[Category:Gilderoy Lockhart's fans]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

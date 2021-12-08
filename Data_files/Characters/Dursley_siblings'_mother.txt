@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mrs Dursley
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Marjorie Dursley]] (daughter)
+*[[Vernon Dursley]] (son)
+*[[Petunia Dursley|Petunia Dursley (née Evans)]] (daughter-in-law)
+*[[Dudley Dursley]] (grandson)
+*[[Dudley Dursley's wife|Granddaughter-in-law]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Dursley family]]
+}}
+'''Mrs Dursley''' was the mother of [[Marjorie Dursley|Marjorie]] and [[Vernon Dursley]]. Vernon proposed to [[Petunia Dursley|Petunia Evans]] in this woman's sitting room in [[1977]].<ref name="pm-dursleys">{{PM}} - "[https://www.pottermore.com/writing-by-jk-rowling/vernon-and-petunia-dursley Vernon & Petunia Dursley]"</ref><ref name="date">The date of the proposal can be deduced from a reference in the {{WW|vernon-and-petunia-dursley}} to Lily still being in her [[seventh year]] at Hogwarts ([[1977]]-[[1978]]) at the time of the engagement, as well as a deleted scene on disc two of the Blu-ray edition of {{DH|F1}}, in which Petunia tells Harry, "I have lived in this house for twenty years", indicating the Dursleys were married and settled at [[4 Privet Drive]] by the end [[1977]], since the scene is set in [[1997]].</ref>
+
+==Etymology==
+[[Wikipedia:Dursley|Dursley]] is a town in Gloucestershire, England. [[J. K. Rowling]] has commented that she visited the place as a child and hated it, which likely affected her choice of surname for the awful family, remarking "I don't imagine I'm very popular in Dursley".<ref>[[Wikipedia:Dursley]]</ref><ref>[http://www.darkmark.com/c.c?l=interview2&t=J.K.%20Rowling:%20BBC%20Online%20Chat 2001 BBC Online Chat]</ref> The town is known for its Victorian history in coal mining. Rowling chose the name because it sounded "dull and forbidding".
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[es:Madre de los hermanos Dursley]]
+[[fr:Mère de Vernon et Marjorie Dursley]]
+[[pl:Pani Dursley]]
+{{DEFAULTSORT:Dursley, Vernon and Marjorie's mother}}
+[[Category:British individuals]]
+[[Category:Dursley family]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

@@ -1,0 +1,32 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Giant Battle of hogwarts.jpg|250px]]
+|name = Giant at the Battle of Hogwarts
+|species = [[Giant]]<ref name="DHF2"/>
+|gender = Male<ref name="DHF2"/>
+|skin = Light<ref name="DHF2"/>
+|loyalty = *[[Giant colony]]<ref name="DHF2"/>
+*[[Death Eaters]]<ref name="DHF2"/>
+|theme = giant
+}}This '''[[Giant]]''' was a member of the [[Giant colony]] who fought in the [[Battle of Hogwarts]] fighting for [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]].<ref name="DHF2">{{DH|F2}}</ref>
+
+==Biography==
+Along with the rest of the [[Giant colony]], he fought in the [[Battle of Hogwarts]] on [[2 May]], [[1998]]. During the bloody and violent battle, he destroyed the [[Suit of armour|suits of armour]] with one of the [[Quidditch]] goal hoops.<ref name="DHF2>{{DH|F2}}</ref> His fate after the battle is unknown, although it is possible that he was killed during the battle. 
+
+==Behind the scenes==
+*This giant is played by [[Philip Wright]] in the [[Harry Potter and the Deathly Hallows: Part 2|film adaptation]] of {{DH}}.<ref>[http://www.imdb.com/name/nm0942712/ Philip Wright at IMDB]</ref>
+*In {{LEGO|Y2}} he also appears with a [[Quidditch]] goal hoop, but instead he stands in front of an entrance and blocks it. The trio uses a phonogragh to make him dance then kill him with a [[Portable Swamp]] in a [[Weasley box]].
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+*{{DH|G2}}
+*{{LEGO|Y2}} {{C|Appears as generic [[Giant]]}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Giants}}
+[[Category:Death Eater allies]]
+[[Category:Giants]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]

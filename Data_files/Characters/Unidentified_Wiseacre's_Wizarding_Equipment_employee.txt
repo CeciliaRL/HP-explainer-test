@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:Wiseacre's employee.jpg|250px]]
+|name=Wiseacre's Wizarding Equipment employee
+|nationality=[[Great Britain|British]]<ref name="LEGOY1"/>
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="LEGOY1"/>
+|gender=Male<ref name="LEGOY1"/>
+|height=
+|hair=Grey<ref name="LEGOY1"/>
+|eyes=
+|skin=White<ref name="LEGOY1"/>
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Employee at [[Wiseacre's Wizarding Equipment]]<ref name="LEGOY1"/>
+|house=
+|loyalty=[[Wiseacre's Wizarding Equipment]]<ref name="LEGOY1"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who worked at [[Wiseacre's Wizarding Equipment]] during the early [[1990s]].<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+
+==Behind the scenes==
+*It is unknown if this individual owned the shop or simply worked there. If the former is correct, his last name may be [[Wiseacre]].
+
+==Appearances==
+*{{LEGO|Y1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley North Side}}
+
+[[es:Empleado no identificado de Equipamiento Mágico de Sabihondos]]
+[[Category:British individuals|Wiseacre's Wizarding Equipment employee]]
+[[Category:Males|Wiseacre's Wizarding Equipment employee]]
+[[Category:Unidentified individuals|Wiseacre's Wizarding Equipment employee]]
+[[Category:Wizards|Wiseacre's Wizarding Equipment employee]]

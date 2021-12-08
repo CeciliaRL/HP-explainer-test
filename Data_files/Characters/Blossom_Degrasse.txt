@@ -1,0 +1,55 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Blossom Degrasse
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/> 
+|gender = Female<ref name="WU"/> 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Author<ref name="WU"/>
+*[[Herbologist]]<ref name="WU"/>
+*[[Potioneer]]<ref name="WU"/>
+|house = 
+|loyalty =[[Statute of Secrecy Task Force]]<ref name="WU"/> 
+}}
+'''Blossom Degrasse''' was a [[Wizardkind|witch]], who was a famous [[herbologist]], author and [[Potioneer|potion master]].<ref name="WU">{{WU}}</ref>
+
+==Biography==
+In late [[2010s]], she released the book "''[[A Humble Guide for Potion Brewing You Cannot Live Without]]''".<ref name="WU"/>
+
+At some point during [[Calamity]], she met a member of the [[Statute of Secrecy Task Force]] and lauded their role in fighting the Calamity. She also sent a request for [[dragon-hide gloves]] to the SOS Task Force.<ref name="WU"/>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Herbology}}
+{{Potions}}
+{{DEFAULTSORT:Degrasse, Blossom}}
+
+[[es:Blossom Degrasse]]
+[[pl:Blossom Degrasse]]
+[[Category:Authors]]
+[[Category:Females]]
+[[Category:Herbologists]]
+[[Category:Potioneers]]
+[[Category:Wizards]]

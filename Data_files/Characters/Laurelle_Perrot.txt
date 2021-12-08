@@ -1,0 +1,39 @@
+{{Individual infobox
+|name = Laurelle Perrot
+|blood = [[Pure-blood]]
+|nationality = [[France|French]]
+|species = [[Human]]
+|gender = Female
+|family = *[[Manon Perrot]] (mother)
+*[[Sebastien Perrot]] (father)
+*[[Odile Perrot]] (sister)
+*[[Huguette Perrot]] (sister)
+*[[Josette Gage]] (maternal aunt)
+*[[Corvus Lestrange (III)|Corvus Lestrange]] (maternal uncle)
+*[[Reynard Gage]] (maternal uncle by marriage)
+*[[Eglantine Lestrange]] (maternal aunt by marriage)
+*[[Louis Gage]] (cousin)
+*[[Mathis Gage]] (cousin)
+*[[Corvus Lestrange (IV)|Corvus Lestrange]] (cousin)
+*[[Clarisse Lestrange]] (second cousin)
+*[[Falco Tremblay]] (second cousin)
+*[[Corvus Lestrange (III)|Corvus Lestrange]] (maternal grandfather)
+*[[Minette Lestrange]] (maternal grandmother)
+|loyalty = *[[Perrot family]]
+*[[Lestrange family]]
+|theme = wizard
+|image = Laurelle Perrot.JPG}}
+'''Laurelle Perrot''' was a [[France|French]] [[Wizardkind|witch]] and a member of the [[pure-blood]] [[Perrot family]]. She was the daughter of [[Manon Perrot]] and [[Sebastien Perrot]], and the sister of [[Odile Perrot|Odile]] and [[Huguette Perrot]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref>
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Perrot, Laurelle}}
+[[fr:Laurelle Perrot]]
+[[pl:Laurelle Perrot]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Perrot family|Laurelle]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

@@ -1,0 +1,38 @@
+{{Individual infobox
+|image = [[File:Ninon Saucet.png]]
+|name = Ninon Saucet
+|nationality = [[France|French]]
+|title = [[Beater]]
+|species = [[Human]]
+|gender = Female
+|hair = Black
+|eyes = Brown
+|skin = White
+|job = [[Beater]] for the [[French National Quidditch team]]
+|loyalty = [[French National Quidditch team]]
+|theme = quidditch-player
+|bgcolor1 = 
+|bgcolor2 = 
+|hideb = 
+|hidef = f
+|hidem = m
+}}'''Ninon Saucet''' was a [[France|French]] [[Wizardkind|witch]], famous for being a [[Beater]] for the [[French National Quidditch team]].<ref>{{QWC}}</ref>
+
+==Appearances==
+*{{QWC}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Saucet, Ninon}}
+
+[[es:Ninon Saucet]]
+[[fr:Ninon Saucet]]
+[[pl:Ninon Saucet]]
+[[Category:Beaters]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Wizards]]

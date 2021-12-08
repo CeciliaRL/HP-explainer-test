@@ -1,0 +1,41 @@
+{{Youmay|the Muggle vandal|[[Sean (disambiguation)|another individual with the same name]]}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Sean
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Sean''' was a [[Non-magic people|Muggle]] who spray-painted his name onto the wall of a pedestrian tunnel in [[Little Whinging]].<ref>See [[:File:SeanGraffiti.jpg|this image]].</ref>
+
+==Appearances==
+*{{OOTP|F}} {{Comment|Name seen in graffiti}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Sean]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

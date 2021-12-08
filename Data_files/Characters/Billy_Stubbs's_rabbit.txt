@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = pet
+|image = 
+|name = Billy Stubbs's rabbit
+|born = 
+|died = [[1930s]]<br/>[[Wool's Orphanage]], [[London]]<ref name="HBP13"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Rabbit]]<ref name="HBP13"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Billy Stubbs]] (owner)<ref name="HBP13"/>
+}}
+{{Dialogue a-b-a|Mrs Cole|Billy Stubbs's rabbit... well, Tom ''said'' he didn't do it, and I don't see how he could have done, but even so, it didn't hang itself from the rafters, did it?|Albus Dumbledore|I shouldn't think so, no.|But I'm jiggered if I know how he got up there to do it. All I know is he and Billy had argued the day before.|Albus Dumbledore and Mrs Cole discuss issues the latter has had with Tom Riddle|Harry Potter and the Half-Blood Prince}}
+This '''[[rabbit]]''' was owned by [[Billy Stubbs]] sometime in the [[1930s]]. After Billy got into an argument with [[Tom Riddle]], Riddle used [[magic]] of some form to hang the rabbit from the rafters of [[Wool's Orphanage]]. [[Cole|Mrs Cole]] would later recount the story of this happening to [[Albus Dumbledore]] when he came to inform Riddle of how he was in fact a [[Wizardkind|wizard]] and of the existence [[Hogwarts School of Witchcraft and Wizardry]].<ref name="HBP13">{{HBP|B|13}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Stubbs, Billy's rabbit}}
+[[fr:Lapin de Billy Stubbs]]
+[[Category:1930s deaths]]
+[[Category:Deaths by hanging]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Pets]]
+[[Category:Rabbits]]

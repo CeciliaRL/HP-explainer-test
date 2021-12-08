@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Jason Charmer
+|born = Between [[1705]] and [[1709]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+**[[Gryffindor Quidditch team]]
+}}
+'''Jason Charmer''' (b. [[1700s]]) was a [[Gryffindor]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1720s]]. He was once [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Gryffindor Quidditch team]] from [[1720]] to [[1724]].<ref>{{HPE}} {{See image|File:Gryffindor Quidditch Captains Plaque.jpg}}</ref>
+
+[[File:Gryffindor Quidditch Captains Plaque.jpg|200px|thumb|left|Jason Charmer's name appearing on a plaque]]
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+*{{HPE}} {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Mike Boon]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Gryffindor Quidditch team]]
+|years=[[1720]]—[[1724]]
+|successor=[[Sophia Prickett]]
+}}
+{{End box}}
+{{Hogwarts quidditch positions}}
+{{DEFAULTSORT:Charmer, Jason}}
+[[fr:Jason Charmer]]
+[[pl:Jason Charmer]]
+[[Category:1700s births]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Males]]
+[[Category:Sorted in the 18th century]]
+[[Category:Wizards]]

@@ -1,0 +1,44 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme =  wizard
+|image =  
+|name = Sloan Travers
+|born =  
+|died = 
+|blood = 
+|marital =  
+|nationality =  
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender =  
+|height = 
+|weight = 
+|hair =  
+|eyes =  
+|skin =  
+|family =*[[Travers]] (possibly)
+*[[Torquil Travers]] (possibly)
+*[[Travers family]]
+|romances =  
+|animagus = 
+|boggart = 
+|wand = 
+|patronus =  
+|job =  
+|house =  
+|loyalty = 
+}}
+{{Quote|Sloan Travers told me about a friend of a friend who botched the spell and became half wizard, half naked mole-rat.|[[Constance Pickering]]|Harry Potter: Wizards Unite}}
+'''Sloan Travers''' was a [[Wizardkind|witch or wizard]] who knew [[Constance Pickering]]. When they heard she was trying to be an [[Animagus]], they told her about a friend of a friend who had botched the [[Animagus Spell|spell]] and became a half wizard, half {{w|naked mole-rat}}. Constance then decided not to continue and did not drink the [[Animagus Potion|potion]] needed to complete the process.<ref name="WU">{{WU}}, [[Brilliant Event: The New Marauders]]</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Travers, Sloan}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Travers family|Sloan]]
+[[Category:Wizards]]

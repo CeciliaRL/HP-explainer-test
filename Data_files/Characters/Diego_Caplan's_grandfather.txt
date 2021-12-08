@@ -1,0 +1,46 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Diego Caplan's grandfather
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM"/>
+|gender = Male<ref name="HM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Diego Caplan's grandmother|Wife or co-grandparent]]
+*[[Diego Caplan's father|Son or son-in-law]]
+*[[Diego Caplan]] {{C|grandson}}
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = Caplan family
+}}
+This '''individual''' was a [[Wizardkind|wizard]] and the grandfather of [[Diego Caplan]]. He was a proficient [[Duelling|duellist]] and inspired Diego to pursue the [[magic]]al art himself.<ref name="HM">{{HM}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Caplan, Diego grandfather}}
+[[Category:Duellists]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

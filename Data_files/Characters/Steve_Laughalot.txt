@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Slytherin House Captain's Plaque.jpg|250px]]
+|name = Steve Laughalot
+|born = c. [[1950s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+**[[Slytherin Quidditch team]]
+}}
+'''Steve Laughalot''' was a [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1960s]] and [[1970s]]. He was [[Quidditch Captain|Captain]] of the [[Slytherin Quidditch team]] from [[1968]] to [[1972]].<ref>See [[:File:Slytherin House Captain's Plaque.jpg|this image]] of a prop used in the films on display as part of {{HPE}}.</ref><ref>[http://ab.fanrus.com/SMI/ViP/september/51/213/ ''Harry Potter: The Exhibition'' report] {{Comment|in Russian}}</ref>
+
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Stuart Craggy]]
+|position=[[Quidditch Captain|Captain]] of the [[Slytherin Quidditch team]]
+|years=[[1968]]-[[1972]]
+|successor=[[Emma Vanity (Slytherin)|Emma Vanity]]
+}}
+{{End box}}
+
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Laughalot, Steve}}
+
+[[pt-br:Steve Laughalot]]
+[[es:Steve Laughalot]]
+[[pl:Steve Laughalot]]
+[[ru:Стив Лоэлот]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

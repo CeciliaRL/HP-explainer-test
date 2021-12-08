@@ -1,0 +1,30 @@
+{{conjecture}}
+{{Individual infobox
+|image = [[File:Snatcher 3.jpeg|250px]]
+|blood = [[Half-blood]] or [[Pure-blood]]<ref name="blood">[[Snatchers]] hunted [[Muggle-born]]s, so himself was not one.</ref>
+|name = Unidentified Snatcher (III)
+|species = [[Human]]<ref name="DH23"/>
+|gender = Male<ref name="DH23"/>
+|hair = 
+|skin = 
+|job = [[Snatchers|Snatcher]]<ref name="DH23"/>
+|loyalty = [[Snatchers]]<ref name="DH23"/>
+|theme = snatcher
+}}
+This '''individual''' was a [[Snatchers|Snatcher]], in [[1998]]. He was among the group of Snatchers, led by [[Fenrir Greyback]], who captured [[Harry Potter]], [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]] and brought them to [[Malfoy Manor]].<ref name="DH23">{{DH|B|23}}</ref> He later participated in the [[Battle of Hogwarts]] on [[2 May]] [[1998]].<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*This individual is played by [[Adam Brashaw]] in {{DH|F1}}​<ref name=IMDb>[www.imdb.de/name/nm3470481/ Unidentified Snatcher on IMDB]</ref> and ''[[Harry Potter and the Deathly Hallows: Part 2|Part 2]]''.<ref name=IMDb/>
+*In {{LEGO|Y2}}, he is the only [[Snatchers|Snatcher]] in the game to be playable apart from Greyback and Scabior.
+
+==Appearances==
+*{{DH}} {{1st}}
+*{{DH|F1}}
+*{{DH|F2}}
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}[[pt-br:Sequestrador não identificado (III)]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:Males]]
+[[Category:Unidentified snatchers]]

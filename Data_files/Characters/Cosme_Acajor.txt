@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme=wizard
+|image=Cosme acajor still.png
+|name=Cosme Acajor
+|born=
+|died=
+|blood=
+|marital=
+|nationality=[[France|French]]
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=[[Wandmaker]]
+|house=
+|loyalty=[[Baguettes Magiques de Cosme Acajor]]
+}}
+'''Cosme Acajor''' (fl. [[1927]]) was a [[France|French]] [[wizardkind|wizard]] and [[wandmaker]], the proprietor of [[Baguettes Magiques de Cosme Acajor]], in [[Place Cachée]], [[Paris]].<ref name="AM">{{AM}}</ref>
+
+==Appearances==
+*{{COG}} {{1st Mention}}
+*{{AM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Acajor, Cosme}}
+
+[[pl:Cosme Acajor]]
+
+[[Category:French individuals]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Wandmakers]]
+[[Category:Wizards]]

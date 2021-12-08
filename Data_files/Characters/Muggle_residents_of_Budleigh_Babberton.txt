@@ -1,0 +1,35 @@
+{{Conjecture}}
+{{Family infobox
+|image = [[File:BudleighBabbertonFamily.png|250px]]
+|name = Muggle residents of Budleigh Babberton
+|blood = [[Non-magic people|Muggle]]<ref name="HBP4"/>
+|family members = *Husband<ref name="LEGOY2">{{LEGO|Y2}}</ref>
+*Wife<ref name="LEGOY2"/>
+*Son<ref name="LEGOY2"/>
+*Daughter<ref name="LEGOY2"/>
+|loyalty = [[Budleigh Babberton]]<ref name="HBP4"/>
+}}
+{{Quote|I've been on the move for a year. Never stay in one place more than a week. Move from Muggle house to Muggle house — the owners of this place are on holiday in the Canary Islands — it's been very pleasant, I'll be sorry to leave.|[[Horace Slughorn]] to [[Albus Dumbledore]].|Harry Potter and the Half-Blood Prince (film)}}
+
+This '''family''' was a [[Non-magic people|Muggle]] one, comprised of a couple and two children. They resided in a [[Muggle house where Horace Slughorn stayed|house]] in [[Budleigh Babberton]].<ref name="HBP4"/>
+
+==History==
+In [[1996]], while these [[Non-magic people|Muggles]] were on holiday in the [[Canary Islands]], [[Horace Slughorn]] hid in their home from [[Death Eaters]] attempting to recruit him.<ref name="HBP4">{{HBP|B|4}}</ref>
+
+==Behind the scenes==
+*In the [[Harry Potter and the Half-Blood Prince|novel]], the narrator tells us that "If Harry had not known who lived there, he would have guessed at a rich, fussy old lady", given the contents of the house: soft chairs and footstools, drinks and books, boxes of chocolates and plump cushions. It is unknown if the furniture belonged to these [[Non-magic people|Muggles]] or if it was [[Horace Slughorn|Slughorn's]], as he was known to bring at least some furniture with him (i.e. the grand piano).
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+*{{HBP|F}} {{Mention}}
+*{{LEGO|Y2}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}[[de2:Muggelbewohner von Budleigh Babberton]]
+[[fr:Propriétaires de la maison de Budly Babberton]]
+[[pl:Rodzina mugoli mieszkająca w Budleigh Babberton]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Males]]
+[[Category:Muggle families]]
+[[Category:Unidentified Muggles]]

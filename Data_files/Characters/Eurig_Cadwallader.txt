@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Eurig Cadwallader
+|hideb=Hide
+|born=after [[1976]], [[Wales]]
+|died=
+|blood=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=Human<ref name="PM">{{PM}} - [[WALES VERSUS GERMANY|WALES_VERSUS_GERMANY]] (Archived)</ref>
+|gender=Male<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Cadwallader]] (possible relative)
+|hidem=h
+|animagus=
+|boggart=
+|wand=
+|broom=
+|patronus=
+|hidea=
+|house=
+|occupation=[[Seeker]]<ref name="PM"/>
+|team=[[Welsh National Gobstones Team]]<ref name="PM"/>
+|loyalty=
+}}
+'''Eurig Cadwallader''' was a [[Wales|Welsh]] [[Wizardkind|wizard]] who played as [[Seeker]] for the [[Welsh National Quidditch team]] in the [[2014 Quidditch World Cup]]<ref name="PM"/>.
+
+==Biography==
+Despite catching the [[Golden Snitch|Snitch]] a very short time into the game, few of her teammates or supporters showed much interest even though Wales had advanced into the quarter-finals due to the fact that [[Thorsten Pfeffer]] had performed a botched [[Wronski Feint]] just eleven minutes previously<ref name="PM" />.
+
+==Behind the scenes==
+*It is possible that the [[Cadwallader]] mentioned in ''Half-Blood Prince'' as playing Chaser for the Hufflepuff team is this very same Eurig Cadwallader, given their similarities in age and surname, and the fact that Hogwarts students come only from Britain, with Wales being in Britain.
+
+==Appearances==
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Cadwallader, Eurig}}
+
+[[de:Eurig Cadwallader]]
+[[pl:Eurig Cadwallader]]
+[[fr:Eurig Cadwallader]]
+[[Category:20th century births]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Welsh individuals]]
+[[Category:Wizards]]

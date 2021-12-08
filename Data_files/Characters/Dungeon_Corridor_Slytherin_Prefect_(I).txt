@@ -1,0 +1,59 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Dungeon prefect.png|250px]]
+|name = Dungeon Corridor Slytherin Prefect (I)
+|born = Between [[1 September]] [[1975]] - [[31 August]] [[1978]] (most likely)<ref>He was a Prefect during the 1993 - 1994 school year, indicating he was in his fifth, sixth, seventh, or a repeat year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]<ref name="POAG"/>
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = Black<ref name="POAG"/>
+|eyes = Brown<ref name="POAG"/>
+|skin = White<ref name="POAG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="POAG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAG"/>
+**[[Slytherin]]<ref name="POAG"/>
+**[[Slytherin Quidditch team]]<ref name="POAG"/>
+}}
+{{Dialogue a-b|Slytherin Prefect|Draco! Hang on! You know the plan you had about swapping the Quidditch ball crate for one with jinxed balls?  Well, Flint and Derrick have done it! They've put the real crate in the courtyard in front of the [[Clock Tower]].|Draco Malfoy|The Cup's ours! Let's go and wipe out Gryffindor!|The prefect speaking with [[Draco Malfoy]]|Harry Potter and the Prisoner of Azkaban (video game)}}
+This '''[[Wizardkind|wizard]]''' attended [[Hogwarts School of Witchcraft and Wizardry]] and was a member of [[Slytherin|Slytherin House]].<ref name="POAG"/>
+
+==Biography==
+In his [[fifth year]], he was made a [[Prefect]], and, during the [[1993–1994 school year]], he often patrolled the [[Dungeon Corridor]] outside the [[Potions Classroom|Potions Dungeon]] with [[Dungeon Corridor Slytherin Prefect (II)|a fellow Slytherin Prefect]].<ref name="POAG"/>
+
+He was in on [[Draco Malfoy]]'s plan of stealing the [[Quidditch]] crate from [[Rolanda Hooch]]'s [[Rolanda Hooch's office|office]] and switching it with one with [[jinx]]ed balls. He informed Malfoy after a [[Potions (class)|Potions]] lesson that [[Marcus Flint]] and [[Peregrine Derrick]] that they had acted on his plan and hidden the real crate in the [[Clock Tower]] [[Clock Tower Courtyard|Courtyard]]. They then proceeded to the [[Quidditch pitch|Quidditch stadium]].<ref name="POAG">{{POA|G}}</ref>
+
+==Behind the scenes==
+*As Draco implied that the prefect was part of the [[Slytherin Quidditch team]], as well as the fact that he knew about Draco's plan and that Flint and Derrick had acted upon it, it is possible that he was [[Adrian Pucey]] or [[Graham Montague]], whom he was similar in appearance to.
+*The prefect was voiced by [[Lewis MacLeod]] in the video game adaptation of {{POA}}.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+
+==Notes and references==
+{{Reflist}}
+{{Head boys and prefects}}
+[[es:Prefecto de Slytherin del Corredor de las Mazmorras (I)]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Bullies]]
+[[Category:Hogwarts prefects]]
+[[Category:Males]]
+[[Category:Sorted in the 1980s]]
+[[Category:Unidentified Slytherins]]

@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=K. Rammelle
+|born=
+|died=
+|blood=
+|marital=
+|nationality=[[France|French]]
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=Confectioner
+|house=
+|loyalty=[[Confiserie Enchantée de K. Rammelle]]
+}}
+{{Quote|Révélation de M. K. Rammelle — l'ingrédient secret de mes caramels|A headline of ''[[Le Cri de la Gargouille]]'', [[1927]]|Fantastic Beasts: Crimes of Grindelwald}}
+'''K. Rammelle''' (fl. [[1927]]) was a [[France|French]] [[wizardkind|wizard]] and the proprietor of [[Confiserie Enchantée de K. Rammelle]], in [[Place Cachée]], [[Paris]].
+
+In [[1927]], K. Rammelle revealed the secret ingredient of his [[caramel]]s in an interview for the newspaper ''[[Le Cri de la Gargouille]]''.<ref>{{COG}} {{see image|File:Le Cri De La Gargouille.jpg}}</ref>
+
+==Behind the scenes==
+*K. Rammelle is a pun on the word "[[Wikipedia:Caramel|caramel]]", a dark-orange confectionery product made by heating sugar.
+
+==Appearances==
+*{{COG}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Rammelle, K.}}
+[[Category:Confectioners]]
+[[Category:French individuals]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

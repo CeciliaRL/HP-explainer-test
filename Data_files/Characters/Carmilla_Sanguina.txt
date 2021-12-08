@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = vampire
+|image = [[File:CarmillaSanguina.jpg|thumb]]
+|name = Carmilla Sanguina
+|born = [[1561]]<ref name="POAG">{{POA|G}}</ref>
+|died = [[1757]] (aged 195-196)<ref name="POAG">{{POA|G}}</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Honorific#Lady|Lady]]<ref name="POAG">{{POA|G}}</ref>
+|signature = 
+|species = [[Vampire]]<ref name="POAG">{{POA|G}}</ref>
+|gender = Female<ref name="POAG">{{POA|G}}</ref>
+|height = 
+|weight = 
+|hair = Black<ref name="POAG">{{POA|G}}</ref>
+|eyes = Yellow<ref name="POAG">{{POA|G}}</ref>
+|skin = Pale<ref name="POAG">{{POA|G}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Lady Carmilla Sanguina''' ([[1561]]-[[1757]]) was an infamous [[vampire]] who bathed in the [[blood]] of her victims, believing it would retain her youth and beauty.<ref name="POAG">{{POA|G}}</ref>
+
+==Etymology==
+*The surname Sanguina is derived from the Latin ''sanguineus'', which means "of blood," "bloody," or "bloodthirsty."
+
+==Behind the scenes==
+*Lady Sanguina may have been been inspired by [[Wikipedia:Elizabeth Báthory|Erzsébet Báthory]], a 16th-century Hungarian countess who was accused of killing young women, then bathing in their blood.
+*''[[Wikipedia:Carmilla|Carmilla]]'' is a Gothic 19th-century novel written by Sheridan Lefanu and starring a female vampire with that name. The story has been adapted to cinema and comic-books, with the character (or similar characters with the same name) appearing in other franchises.
+
+==Appearances==
+[[File:Sanguina.JPG|thumb|Carmilla Sanguina's [[Chocolate Frog Card]]]]
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+
+[[de:Lady Carmilla Sanguina]]
+[[fi:Carmilla Sanguina]]
+[[es:Carmilla Sanguina]]
+[[fr:Lady Carmilla Sanguina]]
+[[pl:Carmilla Sanguina]]
+[[ru:Леди Кармилла Сангвина]]
+[[pt-br:Carmilla Sanguina]]
+{{DEFAULTSORT:Sanguina, Carmilla}}
+[[Category:1561 births]]
+[[Category:1757 deaths]]
+[[Category:Centenarians]]
+[[Category:Famous Vampires Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Murderers]]
+[[Category:Nobility]]
+[[Category:Vampires]]
+[[Category:Yellow-eyed individuals]]

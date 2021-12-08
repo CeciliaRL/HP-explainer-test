@@ -1,0 +1,71 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:Lysandra Black.jpg|230 px|Lysandra's name on the Black family tree]]
+|name=Lysandra Black (née Yaxley)
+|hideb=
+|born=
+|died=[[1919]] or later<ref>Her youngest daughter was born in that year.</ref>
+|blood=[[Pure-blood]]<ref name="BFT">''[[House of Black|Black family tree]]''</ref>
+|marital=Married
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="BFT" />
+|gender=Female<ref name="BFT" />
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Arcturus Black II]] (husband)<ref name="BFT" />
+*[[Callidora Black]] (daughter)<ref name="BFT" />
+*[[Cedrella Black]] (daughter)<ref name="BFT" />
+*[[Charis Black]] (daughter)<ref name="BFT" />
+*[[Phineas Nigellus Black]] (father-in-law)<ref name="BFT" />
+*[[Ursula Flint]] (mother-in-law)<ref name="BFT" />
+*[[Septimus Weasley]] (son-in-law)<ref name="BFT" />
+*[[Harfang Longbottom]] (son-in-law)<ref name="BFT" />
+*[[Caspar Crouch]] (son-in-law)<ref name="BFT" />
+*[[Corban Yaxley]] (possibly)
+*[[Arthur Weasley]] (grandson)<ref name="BFT" />
+*[[Arthur Weasley's brothers|2 other grandsons]]<ref name="BFT" />
+*[[Yaxley family]]
+*[[House of Black]]
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=*[[House of Black]]<ref name="BFT" />
+*[[Yaxley family]]
+}}
+'''Lysandra Black''' (née '''Yaxley''') (fl. 1915-1919) was a [[pure-blood]] [[Wizardkind|witch]] who married [[Arcturus Black II]]. The couple had three children together: [[Callidora Black|Callidora]], [[Cedrella Black|Cedrella]], and [[Charis Black]]. Through Cedrella, who was disowned for marrying "[[blood traitor]]" [[Septimus Weasley]], she is the maternal grandmother of [[Arthur Weasley]]. Lysandra may be related to the [[Death Eaters|Death Eater]] [[Corban Yaxley]], and, through her daughters, the [[Longbottom family|Longbottom]] and [[Crouch family|Crouch]] families.<ref name="BFT" />
+
+==Etymology==
+Lysandra is the feminine form of the Greek name [[Wikipedia:Lysander (disambiguation)|Lysander]], meaning "a release of man" or "liberty".<ref>[http://www.behindthename.com/name/lysander Behind the Name: Lysander]</ref> It was the name of Spartan general and a character in William Shakespeare's ''A Midsummer Night's Dream''.
+
+==Appearances==
+*{{OOTP|F}} {{Comment|Appears on the Black family tapestry}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Yaxley, Lysandra}}
+
+[[de:Lysandra Black]]
+[[fr:Lysandra Yaxley]] 
+[[ru:Лисандра Яксли]]
+[[pl:Lysandra Black]]
+
+[[Category:20th century deaths]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:House of Black]]
+[[Category:Married individuals]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]
+[[Category:Yaxley family]]
+[[Category:Parents]]

@@ -1,0 +1,61 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = Marina Sanchez from Harry Potter Hogwarts Mystery.jpg
+|name = Marina Sanchez
+|born = Between [[1 September]] [[1972]] and [[31 August]] [[1973]]<ref name="HM">{{HM}}</ref>
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref>{{HM|6|27|t}}</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM" />
+|gender = Female<ref name="HM" />
+|height = 
+|weight = 
+|hair = Brown<ref name="HM" />
+|eyes = Dark<ref name="HM" />
+|skin = Tan<ref name="HM" />
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Dragon Club]]<ref name="HM" />
+**[[Sphinx Club]]<ref name="HM6Welcome">{{HM|6|WELCOME TO THE SPHINX CLUB}}</ref>
+}}
+'''Marina Sanchez''' was a [[Wizardkind|witch]] and a student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]].<ref name="HM" />
+
+==Biography==
+Marina Sanchez started attending Hogwarts on [[1 September]] [[1984]] and was [[Sorting ceremony|Sorted]] into an unknown [[Hogwarts Houses|House]].<ref name="HM" />
+
+During her third year, Marina took [[Care of Magical Creatures]] as one of her electives.<ref name="HM" />
+
+During the [[1989–1990 school year]], her [[sixth year]], Marina proceeded to take [[Nastily Exhausting Wizarding Test|N.E.W.T.]] level [[Charms (class)|Charms]], [[Herbology (class)|Herbology]], [[Transfiguration (class)|Transfiguration]], [[History of Magic]] and [[Care of Magical Creatures]].<ref name="HM" />
+
+==Behind the scenes==
+*Her House is the same as that of [[Jacob's sibling]], which is chosen by the player in the game.
+*Marina replaces [[Rowan Khanna]] on the Leaderboard and classes after Year 6 Chapter 18.
+
+==Appearances==
+{{Imagecat|Images of Marina Sanchez}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Sanchez, Marina}}
+[[ru:Марина Санчез]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Dragon Club]]
+[[Category:Females]]
+[[Category:Sphinx Club]]
+[[Category:Sorted in 1984]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

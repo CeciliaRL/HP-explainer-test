@@ -1,0 +1,52 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = portrait
+|image = Portrait of a medieval couple.jpg
+|name = Witch and Wizard Couple
+|born = 
+|died = Between [[1485]] and [[1603]]<ref>Their clothing is of the Tudor Style, so to be wearing it their had to be from that period.</ref>
+|blood = 
+|marital = Married (possibly)<ref name="PSf13"/>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="PSf13"/>
+|gender = *Male<ref name="PSf13"/>
+*Female<ref name="PSf13"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="PSf13"/>
+|eyes = 
+|skin = Light<ref name="PSf13"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''[[Wizardkind|Wizard and Witch]] Couple'''<ref name="HPLE"/> was a [[portrait]] of a wizard and a witch, who, given their clothing style, were assumed to have lived at some time during the Tudor Period.<ref name="PSf13"/>
+
+The portrait, painted by [[Roderick Plumpton]],<ref name="HPLE">{{HPLE|PA}}</ref> hung at [[Hogwarts Castle]] in the [[1990s]], close to the ground-floor landing of the [[Grand Staircase]].<ref name="PSf13">{{PS|F}} - Chapter 13 (''Nick and Other Residents'')</ref>
+
+==Appearances==
+*{{PS|F}} {{1st}} {{Portrait}}
+*{{COS|F}} {{Portrait}}
+*{{POA|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+*{{HPLE|PA}} {{1st ID}} {{Portrait}}
+*{{HM}} {{Mention}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts ground floor}}
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

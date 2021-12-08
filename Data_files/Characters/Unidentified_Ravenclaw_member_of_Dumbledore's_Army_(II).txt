@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Notability}}
+{{Individual infobox
+|theme = ravenclaw
+|image = Unidentified Ravenclaw member of Dumbledore's Army(II).png
+|name = Unidentified student
+|born = On or before [[2 May]] [[1981]] (possibly)
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">He attended Hogwarts during the Death Eaters control of it, so he was not [[Muggle-born]].</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF2"/>
+|gender = Male<ref name="DHF2"/>
+|height = 
+|weight = 
+|hair = Black<ref name="DHF2"/>
+|eyes = 
+|skin = Light<ref name="DHF2"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="DHF2"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+**[[Ravenclaw]]<ref name="DHF2"/>
+*[[Dumbledore's Army]]<ref name="DHF2"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] and student at [[Hogwarts School of Witchcraft and Wizardry]] who was a member of [[Ravenclaw]] [[Hogwarts Houses|house]].<ref name="DHF2">{{DH|F2}}</ref>
+
+==Biography==
+He was [[Sorting ceremony|sorted]] into [[Ravenclaw]], possibly in [[1991]] or [[1992]]. In [[1998]], he became a member of [[Dumbledore's Army]] and fought during the [[Battle of Hogwarts]] on the [[2 May]], against [[Tom Riddle|Lord Voldemort]]'s [[Death Eaters]]. It is unknown if he survived the battle or not.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+*{{LEGO|Y2}} {{C|Appears as a generic [[Ravenclaw]] student}}
+
+==Notes and references==
+{{Reflist}}
+{{Dumbledore's Army}}
+[[es:Chico de Ravenclaw no identificado miembro del Ejército de Dumbledore en 1997-1998 (II)]]
+[[Category:20th century births]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British or Irish individuals]]
+[[Category:Dumbledore's Army]]
+[[Category:Males]]
+[[Category:Unidentified Ravenclaws]]
+[[Category:Wizards]]

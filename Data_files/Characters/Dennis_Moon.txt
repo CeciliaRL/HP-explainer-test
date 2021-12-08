@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Dennis Moon
+|hideb=hide
+|born=after [[1976]], [[New Zealand]]
+|died=
+|blood=
+|alias=
+|title=[[Chaser]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Lily Moon]] (possibly)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Chaser]] for the [[New Zealand National Quidditch team]]
+|house=
+|loyalty=*[[New Zealand National Quidditch team]]
+*[[Moon family]]
+}}
+'''Dennis Moon''' was a wizard from New Zealand who played as a [[Chaser]] for the [[2014]] [[New Zealand National Quidditch team]]. During the first round match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], against [[Bulgarian National Quidditch team|Bulgaria]], Moon was sent off by referee [[Georgios Xenakis]]. New Zealand lost the match 410 - 170. His manager [[Charlie Baverstock]] proclaimed himself 'madder than a bloke who's been locked in a box of [[Fwooper]]s' after the sending off.<ref name="PM">{{PM}} - [[BULGARIA VERSUS NEW ZEALAND]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Moon, Dennis}}
+[[de:Dennis Moon]
+[[pl:Dennis Moon]]
+[[fr:Dennis Moon]]
+[[Category:Chasers]]
+[[Category:Males]]
+[[Category:Moon family]]
+[[Category:New Zealand individuals]]
+[[Category:Wizards]]

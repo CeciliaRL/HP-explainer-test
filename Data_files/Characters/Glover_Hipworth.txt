@@ -1,0 +1,75 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:Glover Hipworth.jpg|250px]]
+|name = Glover Hipworth
+|born = [[1742]]
+|died = [[1805]] (aged 62  - 63)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey (formerly dirty blond)
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Potioneer]]
+|house = 
+|loyalty = 
+}}
+{{Quote|Glover Hipworth (1742 – 1805): Inventor of the Pepperup Potion, cure for the common cold.|[[Chocolate Frog Card]]|Harry Potter and the Chamber of Secrets (video game)}}
+'''Glover Hipworth''' ([[1742]] – [[1805]]) was a [[Wizardkind|wizard]] who specialised in [[Potion]] development. He became famous for the invention of the [[Pepperup Potion]], the cure for the [[common cold]].<ref name="COSG">{{COS|G}}</ref>
+
+==Biography==
+===Early life===
+Glover Hipworth was born in [[1742]]. If he enrolled at [[Hogwarts School of Witchcraft and Wizardry]], he attended the school from around [[1753]]-[[1760]], under [[Headmaster|Headmistress]] [[Dilys Derwent]].
+
+===Adulthood===
+{{Quote|Madam Pomfrey, the nurse, was kept busy by a sudden spate of colds among the staff and students. Her Pepperup potion worked instantly, though it left the drinker smoking at the ears for several hours afterward.|Description|Harry Potter and the Chamber of Secrets}}It is likely Hipworth studied further into [[Potion|Potion-making]], becoming a fully-fledged [[potioneer]] in his adult years.
+
+Sometime in the late [[18th century|eighteenth]] or early [[19th century|nineteenth]] centuries, Glover Hipworth developed the [[Pepperup Potion]], based on an earlier remedy by [[12th century]] [[potioneer]] [[Linfred of Stinchcombe]], used today as an efficacious [[magic]]al remedy for the common cold.<ref name="COSG">{{COS|G}}</ref>
+
+By the [[1990s]], Hipworth was featured on a [[Chocolate Frog Card]], which pictured him symbolically sneezing, in a reference to his achievement.<ref name="COSG">{{COS|G}}</ref> In the [[1993–1994 school year]] a [[portrait]] of him guarded a secret room in the [[Dungeons]], at [[Hogwarts Castle]]; the password was ''Gesundheit'' (the German word for "health", also used for "Bless you").<ref name="POAG">{{POA|G}}</ref>
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': Hipworth was a professional [[Potioneer]] and was highly proficient in the art of brewing potions, having invented the [[Pepperup Potion]], a [[Healing magic|Healing]] potion which remedies the effects of the [[Common cold]]. For his achievement, he was included on a [[Chocolate Frog Card]], showing the great level of talent he possessed in this branch of [[magic]] and [[science]].
+
+==Appearances==
+{{Imagecat|Images of Glover Hipworth}}[[File:Glover_Hipworth-58-chocFrogCard.png|thumb|Glover Hipworth immortalised on a bronze [[Chocolate Frog Card]]]]
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{Portrait}}
+*{{PM}} {{FWC}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Hipworth, Glover}}
+
+{{Potions}}
+{{Chocolate Frog Cards}}
+
+[[de:Glover Hipworth]]
+[[fr:Glover Hipworth]]
+[[fi:Glover Hipworth]]
+[[it:Glover Hipworth]]
+[[pl:Glover Hiphworth]]
+[[pt-br:Glover Hipworth]]
+[[ru:Гловер Хипворт]]
+[[Category:1742 births]]
+[[Category:1805 deaths]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Inventors]]
+[[Category:Males]]
+[[Category:Potioneers]]
+[[Category:Wizards]]

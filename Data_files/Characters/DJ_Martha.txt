@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = DJ Martha
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = {{W|Disc jockey}}
+|house = 
+|loyalty = [[Spellbound (group)|Spellbound]]
+}}
+'''DJ Martha''' was a [[wizardkind|wizarding]] {{W|disc jockey}}, active in the [[1990s]].
+
+==Biography==
+In [[September]] of [[1993]], DJ Martha was scheduled to feature in the [[Spellbound (group)|Spellbound]] ''[[Witch Way?]]'' musical tour.<ref name="DPref">{{MHP}} {{see image|File:DailyProphetWitchWayReference.png}}</ref>
+
+==Appearances==
+*{{POA|F}} {{C|Mentioned on the ''[[Daily Prophet]]''}}
+
+==Notes and references==
+{{Reflist}}
+[[es:DJ Martha]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Musicians]]
+[[Category:Wizards]]

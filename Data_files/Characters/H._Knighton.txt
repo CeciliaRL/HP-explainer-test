@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = H. Knighton
+|born = 
+|died = Before [[24 December]], [[1997]]
+|blood = 
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHG1"/>
+|gender = Male<ref name="DHG1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[H. Knighton's wife|Mrs Knighton]] (wife)<ref name="DHG1"/>
+*[[H. Knighton's offspring|At least one child]]<ref name="DHG1"/>
+*[[Hamish Knighton]] (possibly)<ref name="DHG1"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Philosopher<ref name="DHG1"/>
+|house = 
+|loyalty = [[Knighton family]]<ref name="DHG1"/>
+}}
+{{Quote|H. Knighton. Father, husband, philosopher.|Knighton's epitaph.|Harry Potter and the Deathly Hallows: Part 1 (video game)}}
+'''H. Knighton''' (d. in or prior to [[1997]]) was a philosopher. During his life, he lived in [[Godric's Hollow]], and had [[H. Knighton's wife|a wife]] and [[H. Knighton's offspring|at least one child]]. He was buried in the local graveyard.<ref name="DHG1">{{DH|G1}}</ref>
+
+==Appearances==
+*{{DH|G1}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Knighton, H.}}
+[[pl:H. Knighton]]
+[[fr:H. Knighton]]
+[[Category:British individuals]]
+[[Category:Buried at Godric's Hollow graveyard]]
+[[Category:Knighton family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Philosophers]]

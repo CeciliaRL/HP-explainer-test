@@ -1,0 +1,64 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = death-eater
+|image = [[File:250px-Meeting-1-.jpg|250px]]
+|name = Unidentified Male Death Eater at Malfoy Manor (I)
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">The [[Death Eaters]] were known for their strong hatred of all [[Muggle-born]]s and [[Non-magic people|Muggles]].</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH1"/>
+|gender = Male<ref name="DH1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|job = 
+|house = 
+|loyalty = *[[Death Eaters]]<ref name="DH1"/>
+*[[Tom Riddle|Lord Voldemort]]<ref name="DH1"/>
+}}
+{{Quote|The Order's got one thing right, then, eh?|This Death Eater regarding the Death Eater's [[Fall of the Ministry of Magic|infiltration of the Ministry]]|Harry Potter and the Deathly Hallows}}
+This '''individual''' was a [[Dark Wizard]] and [[Death Eaters|Death Eater]], who served as one of Lord Voldemort's servants during the [[Second Wizarding War]].<ref name="DH1"/>
+
+==Biography==
+[[File:Death Eaters seated at Malfoy Manor.jpg|180px|left|The Man with other fellow Death Eaters in a meeting]]
+He was present during the meeting at [[Malfoy Manor]] sitting between [[Draco Malfoy]] and [[Corban Yaxley]], where he made derisive comments about the [[Order of the Phoenix]]'s intelligence, provoking malicious laughter from all present.<ref name="DH1">{{DH|B|1}}</ref>
+
+This man was one of the Death Eaters who [[Attack at the Burrow|invaded the Burrow]] and attacked the guests of the [[Wedding of William Weasley and Fleur Delacour|wedding]] of [[William Weasley|Bill Weasley]] and [[Fleur Delacour]].<ref name="DHF1">{{DH|F1}}</ref>
+[[File:HPDH2-0239.jpg|100px|thumb|The Death Eater talking with Hermione disguised as Bellatrix]]
+Later, he met [[Hermione Granger]] in [[Diagon Alley]] and said "Madam Lestrange" with a nod, since Hermione had taken [[Polyjuice Potion]] to look like [[Bellatrix Lestrange]] in order to enter the [[Lestrange Vault]] and he did not know she was an impostor, though he did seem somewhat confused by her polite response. He was among the Death Eaters in the [[Forbidden Forest]] during the [[Battle of Hogwarts]] who watched as [[Harry Potter]] turned himself over to [[Tom Riddle|Voldemort]]. He was later seen when Voldemort brought Harry's supposedly dead body back to Hogwarts and took part in the final battle where he was defeated by [[Minerva McGonagall]].<ref name="DHF2">{{DH|F2}}</ref> He was possibly killed or imprisoned in [[Azkaban]] after the battle.<ref name="DH36">{{DH|B|36}}</ref>
+
+==Physical appearance==
+He was described as squat, meaning he was short and chubby. He had a wheezy laugh and no hair on his head besides a beard and moustache.<ref name="DH1"/>
+
+==Behind the scenes==
+*This Death Eater is portrayed by [[Graham Duff]].
+*In Behind the Scenes of the film {{DH|F2}}, this Death Eater seems to be shot with the [[Full Body-Bind Curse]] cast by [[Minerva McGonagall]] and falls forwards close to where [[Molly Weasley]] is fighting. Although it is from a behind the scenes clip, it could possibly be a part of the Deleted Scenes, Exclusive Scenes or Behind the Scenes.
+*Although in the book he is described as squat, in the film he is almost completely opposite: tall and chubby. In fact, he is one of the tallest [[Death Eaters]].
+*In a behind the scenes clip, this man is seen [[Apparition|disapparating]] alongside several others as the [[Malfoy family]] leaves. He leaves as Bellatrix begins to scream, however, he is still fighting until he is [[jinx]]ed seconds before Bellatrix's final fight.
+
+==Appearances==
+*{{DH}} {{1st}}
+*{{DH|F1}}
+*{{DH|F2}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowany śmierciożerca w Dworze Malfoyów (III)]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British individuals]]
+[[Category:Males|Death Eater]]
+[[Category:Meeting at Malfoy Manor participants]]
+[[Category:Unidentified Death Eaters]]

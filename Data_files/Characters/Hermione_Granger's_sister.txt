@@ -1,0 +1,49 @@
+{{Noncanon|Character}}
+{{Cut content}}
+{{Conjecture}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Miss Granger
+|blood=[[Non-magic people|Muggle]]
+|born=After 19 September [[1979]]
+|died=
+|height=
+|hair=
+|eyes=
+|skin=
+|species=[[Human]]
+|gender=Female
+|hidef=
+|hidem=
+|family=*[[Hermione Granger's mother|Mrs Granger]] (mother)
+*[[Hermione Granger's father|Mr Granger]] (father)
+*[[Hermione Granger]] (sister)
+*[[Ronald Weasley|Ron Weasley]] (brother-in-law)
+*[[Rose Granger-Weasley|Rose Weasley]] (niece)
+*[[Hugo Granger-Weasley|Hugo Weasley]] (nephew)
+|wand=
+|animagus=
+|patronus=
+|boggart=
+|job=
+|house=
+|loyalty=[[Granger family]]
+}}
+'''Miss Granger''' was a [[Non-magic people|Muggle]], second daughter of [[Hermione Granger's father|Mr]] and [[Hermione Granger's mother|Mrs Granger]] and the younger sister of [[Hermione Granger]].
+
+==Behind the scenes==
+*[[J. K. Rowling]] stated in an interview that she had initially planned for Hermione to have a younger sister, but by the time {{OOTP}} was released, she still had not made an appearance and Rowling felt it was "too late" by that point.<ref>[http://www.accio-quote.org/articles/2004/0304-wbd.htm JK Rowling's World Book Day Chat, March 4, 2004]</ref>
+
+==Appearances==
+*{{PS}} {{Comment|Early drafts}}
+*''[[J. K. Rowling]] Interview'' {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Granger's sister}}
+[[pl:Siostra Hermiony Granger]]
+[[fr:Sœur d'Hermione Granger]]
+[[Category:Females]]
+[[Category:Granger family]]
+[[Category:Muggles]]

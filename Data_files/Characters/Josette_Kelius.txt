@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:Josette Kelius2.jpg|250px]]
+|name=Josette Kelius
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Josette Kelius''' was an [[United States of America|American]] [[wizardkind|wizarding]] criminal who operated in the [[1920s]].<ref name="cob">{{CB|119}} {{See image|File:Josette Kelius - Wanted Poster.png}}</ref>
+
+In [[1926]], the [[Magical Congress of the United States of America]] issued a wanted poster for Josette Kelius, stating that she was wanted for "atrocities against the wizarding community," and describing her as a "vicious wizard" and a "malicious killer."<ref name="cob" /> A reward of 4500 [[Dragot]]s was offered for information leading to her capture.<ref name="cob" />
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Kelius, Josette}}
+[[fr:Josette Kelius]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Murderers]]
+[[Category:Wizards]]

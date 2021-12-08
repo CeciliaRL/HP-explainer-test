@@ -1,0 +1,69 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Falco Aesalon1.jpg|250px]]
+|name = Falco Aesalon
+|born = Ancient [[Greece]]<ref name="POAG"/>
+|died = Ancient [[Greece]]<ref name="POAG"/>
+|blood = 
+|marital = 
+|nationality = [[Greece|Greek]]<ref name="POAG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="POAG"/>
+|eyes = 
+|skin = White<ref name="POAG"/>
+|family = 
+|romances = 
+|animagus = [[Falcon]]<ref name="POAG"/>
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Falco Aesalon''' was an Ancient [[Greece|Greek]] [[Wizardkind|wizard]]. Being able to transform into a [[falcon]] at will, he was the first recorded [[Animagus]]. For this spectacular [[magic]]al feat, he was placed on a [[Chocolate Frog Card]].<ref name="POAG">{{POA|G}}</ref>
+
+==Magical abilities and skills==
+*'''[[Transfiguration]]''': Falco mastered the art of [[Human Transfiguration|Self-Transfiguration]] and became an [[Animagus]], showing him to have been exceptionally gifted in this highly difficult and complex branch of [[magic]], given the immense skill and dedication required to successfully become an Animagus.<ref name="POAG"/>
+*'''[[Potion]]s''': Having become an Animagus, he would have needed to have successfully brewed the [[Animagus potion]], a potion known for being highly advanced, complex and time-consuming, showing his great level of skill in potion-making.
+
+==Etymology==
+''Falco Aesalon'' is the former scientific name of the [[Europe]]an Merlin, before it and the American Merlin were reclassified as the same species.<ref>[[Wikipedia:Merlin (bird)|Merlin]] at [[Wikipedia:Main Page|Wikipedia]]</ref>
+
+==Behind the scenes==
+*Its unknown whether Falco was the first wizard to discover the process of becoming an Animagus, or if other Animagi that were not recorded in magical history did it before him.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Transfiguration}}
+{{Animagi}}
+{{DEFAULTSORT:Aesalon, Falco}}
+
+[[da:Falco Aesalon]]
+[[de:Falco Aesalon]]
+[[es:Falco Aesalon]]
+[[fi:Falco Aesalon]]
+[[fr:Falco Aesalon]]
+[[nl:Falco Aesalon]]
+[[no:Falco Aesalon]]
+[[pl:Falco Aesalon]]
+[[ru:Фалько Эсалон]]
+[[sv:Falco Aesalon]]
+[[zh:法尔科·艾萨伦]]
+[[Category:Animagi]]
+[[Category:B.C. era births]]
+[[Category:Deceased individuals]]
+[[Category:Gold Chocolate Frog Cards]]
+[[Category:Greek individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

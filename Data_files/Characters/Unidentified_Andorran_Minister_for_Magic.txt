@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Andorran Minister for Magic
+|born = Before [[1978]] {{c|likely}}<ref>He was likely of age by the time he became Minister.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Andorra]]n<ref name="GOF28"/>
+|alias = 
+|title = [[Minister for Magic]]<ref name="GOF28"/>
+|signature = 
+|species = [[Human]]<ref name="GOF28"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Andorran [[Minister for Magic]]<ref name="GOF28"/>
+|house = 
+|loyalty = [[Andorran Ministry of Magic]]<ref name="GOF28"/>
+}}
+{{Quote|Now, if you could bring me that memo from the Andorran Minister of Magic, I think I will have time to draft a response...|[[Bartemius Crouch Senior]] in his delirium|Harry Potter and the Goblet of Fire}}
+This '''individual''' served as the [[Minister for Magic]] for [[Andorra]] during [[1995]].<ref name="GOF28"/>
+
+That same year, they sent a memo to [[Bartemius Crouch Senior]], which he mentioned drafting a response to during his delirium.<ref name="GOF28">{{GOF|B|28}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Andorran Ministers for Magic]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

@@ -1,0 +1,57 @@
+{{Individual infobox
+|name = Joseph Snuka
+|born = After [[1976]]<ref name="age">Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref>
+|died =
+|alias =
+|signature =
+|blood =
+|nationality = [[Fiji]]an<ref name="PM"/>
+|title = [[Seeker]]<ref name="PM"/>
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|skin = 
+|eyes = 
+|hair = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|wand =
+|animagus =
+|boggart =
+|patronus =
+|house = 
+|job = [[Seeker]] for the [[Fijian National Quidditch team]]<ref name="PM"/>
+|loyalty = [[Fijian National Quidditch team]]<ref name="PM"/>
+|theme = quidditch-player
+}}
+{{Quote|Pity Fijian Seeker Joseph Snuka as he tries to justify his side's bruising 400 - 160 defeat at the hands of tournament favourites Nigeria.|[[Ginevra Weasley|Ginny Potter]], "Nigeria Versus Fiji" (''[[Daily Prophet]]'', [[14 May]] [[2014]])|Pottermore}} 
+'''Joseph Snuka''' was a [[Fiji]]an [[Wizardkind|wizard]] who played as the [[Seeker]] for the [[2014]] [[Fijian National Quidditch team]].<ref name="PM"/>
+
+==Biography==
+During the second match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], against [[Nigerian National Quidditch team|Nigeria]], Snuka chose to capture the Snitch in the 141st minute, when his team was losing 400 to 10, much to the bewilderment of the commentators, the fury of the Fijian supporters and the jeers of the Nigerians.<ref name="PM">{{PM}} - [[NIGERIA VERSUS FIJI]] (Archived)</ref>
+
+Snuka had previously been dubbed an egoist by teammates, and his reputation was only tarnished further with his actions during the match. After the match, Fijian manager and trainer [[Hector Bolobolo]]'s only comment was "''I'm going to kill him''".<ref name="PM"/>
+
+==Personality and traits==
+Snuka was, according to his teammates, an egoist, and was therefore likely very vain, confident and self-centred.<ref name="PM"/>
+
+==Etymology==
+"Joseph" comes from the [[Latin]] "''Ioseph''", which translates, through a variety of translations, to the Hebrew name "''Yosef''", meaning "''he will add". ''Joseph was a common biblical name in both Christian and Jewish societies.<ref name="BtN">[http://www.behindthename.com/name/joseph "Joseph" at BehindtheName.com]</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Snuka, Joseph}}
+[[de:Joseph Snuka]]
+[[es:Joseph Snuka]]
+[[fr:Joseph Snuka]]
+[[pl:Joseph Snuka]]
+[[ru:Джозеф Снука]]
+[[Category:Fijian individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Wizards]]

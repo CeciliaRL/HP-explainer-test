@@ -1,0 +1,43 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = 
+|born = [[1986]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Andre Egwu]] (brother)
+*[[Andre Egwu's grandmother|Grandmother]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''individual''' was the sister of [[Andre Egwu]]. In his [[third year]], Andre bought a piece of clothing for her, though he later gave it to [[Jacob's sibling]].<ref>{{HM|3|3}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Egwu, Andre's sister}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Unnamed family members]]

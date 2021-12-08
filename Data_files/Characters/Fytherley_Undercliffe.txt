@@ -1,0 +1,60 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:FytherleyUndercliffe2.JPG|250px]]
+|name = Fytherley Undercliffe
+|born = Pre 1531
+|died = In or before [[1992]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, Undercliffe must have died sometime in or before [[1992]], given his portrait's appearance in the [[Headmaster's office]] in {{COS|FA}}.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = *[[Professor]]
+*[[Headmaster]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] (formerly)
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|Virtutes, Archangeli, Angeli, Principatus, Dominationes, Seraphin, Cherubin, Throni.|Inscription on Professor Undercliffe's portrait|Harry Potter Limited Edition}}
+'''Professor Fytherley Undercliffe''' was a [[wizardkind|wizard]] and a [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] in the [[16th century|sixteenth century]].<ref name="HPLE">{{HPLE|PA}}</ref>
+
+Undercliffe had a [[portrait]] that was painted in [[1531]].<ref name="HPLE" /> It was hung in the [[Headmaster's Office]] at Hogwarts after his death.<ref name="HPLE" /><ref name="DOD" />
+
+==Behind the scenes==
+*The portrait seems to be a direct reference to [http://upload.wikimedia.org/wikipedia/commons/d/d9/Archdeacon_by_Repin.jpg an 1877 portrait of an Orthodox protodeacon holding a walking stick], by [[Wikipedia:Ilya Repin|Ilya Yefimovich Repin]]. The same portrait appears at the [[Grand Staircase]] in {{POA|F}} when the [[Fat Lady]] is missing.
+*On the DVD of {{COS|F}}, Professor Undercliffe's portrait is erroneously referred to as a portrait of "''Salazar Slytherin himself''". Why this mistake was made is, as of yet, unclear.
+*The inscription on Professor Fytherley Undercliffe's portrait frame, "''Virtutes, Archangeli, Angeli, Principatus, Dominationes, Seraphin, Cherubin, Throni''" are all names of eight [[Wikipedia:Christian angelic hierarchy|hosts of angels]].
+
+==Appearances==
+*{{COS|F}} {{Portrait}}
+*{{POA|F}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+*{{HM}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Undercliffe, Fytherley}}
+
+[[es:Fytherley Undercliffe]]
+[[pl:Fytherley Undercliffe]]
+[[fr:Fytherley Undercliffe]]
+[[ru:Файверли Андерклифф]]
+[[Category:British individuals]]
+[[Category:Deceased individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Wizards]]

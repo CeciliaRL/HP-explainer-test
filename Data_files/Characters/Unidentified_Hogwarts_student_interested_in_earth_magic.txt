@@ -1,0 +1,56 @@
+{{conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = Earth magic boy.png
+|name = Unidentified Hogwarts student interested in earth magic
+|born = [[1980]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Blonde
+|eyes = Green
+|skin = Fair
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]] or [[Slytherin]]<ref>There are students similar to this individual in both the Ravenclaw and Slytherin tables during the [[Sorting ceremony]].</ref>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|I want to get into earth magic. I love to dig.|This Hogwarts student|Harry Potter and the Philosopher's Stone (video game)}}
+This '''individual''' was a [[Wizardkind|wizard]] and student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He was [[Sorting ceremony|Sorted]] into either [[Ravenclaw]] or [[Slytherin]], and was very keen on the subject of [[earth magic]] which he expected to study in the [[1991–1992 school year]].<ref name="PSgbc"/>
+
+==Biography==
+===Early life===
+{{Quote|Chugga chugga, chugga chugga, woo woo!|The boy, while [[Hogwarts Express|en route]] to [[Hogwarts Castle]], on [[1 September]], [[1991]]|Harry Potter and the Philosopher's Stone (video game)}}
+This individual was born no later than [[1980]].<ref name="PSgbc">{{PS|G}} - Game Boy Colour</ref>
+
+===Hogwarts years===
+{{Quote|Good for you, Harry. He had it coming.|The boy after [[Harry Potter]] beat [[Draco Malfoy]] in a duel|Harry Potter and the Philosopher's Stone (video game)}}
+He started at [[Hogwarts School of Witchcraft and Wizardry]] in or before [[1991]] and was to be [[Sorting ceremony|Sorted]] into either [[Ravenclaw]] or [[Slytherin]]. He was not very fond of [[Draco Malfoy]], congratulating [[Harry Potter]] after the latter beat him in a [[Duelling|duel]].<ref name="PSgbc"/>
+
+He was expecting to join the [[earth magic]] classes in the start of the [[1991–1992 school year]]. While en route to Hogwarts on [[1 September]], [[1991]], he sat on a compartment while picking his nose and eating his bogeys.<ref name="PSgbc"/>
+
+==Appearances==
+*{{PS|G}} {{1st}} {{C|GBC version}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Green-eyed individuals]]
+[[Category:Males]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

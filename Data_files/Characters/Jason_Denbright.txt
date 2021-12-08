@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Jason Denbright
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DHF1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF1"/>
+|gender = Male<ref name="DHF1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Alison Denbright]] (unknown)<ref name="DHF1"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Denbright family]]<ref name="DHF1"/>
+}}
+'''Jason Denbright''' was a [[Wizardkind|wizard]] reported missing along with his relative, [[Alison Denbright|Alison]], on the ''[[Potterwatch]]'' wireless programme in [[1997]]. His disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.<ref name="DHF1">{{DH|F1}}</ref>
+
+==Etymology==
+The name "Jason" comes from the Greek name Ιασων (''Iason''), which was derived from Greek ιασθαι (''iasthai'') "to heal". In Greek mythology Jason was the leader of the Argonauts. After his uncle Pelias overthrew his father as king of Iolcos, Jason went in search of the Golden Fleece in order to win back the throne. During his journeys he married the sorceress Medea, who helped him gain the fleece and kill his uncle, but who later turned against him when he fell in love with another woman.
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Denbright, Jason}}
+
+[[fr:Jason Denbright]]
+[[pl:Jason Denbirght]]
+
+[[Category:British individuals]]
+[[Category:Denbright family]]
+[[Category:Males]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Broom flyer
+|born = 
+|died = [[1991]] (possibly)<ref name="death">This individual could have died from their accident, but they could have also survived, as their death was not explicitly stated in the Daily Prophet.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSF"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Professional broom flier (possibly)<ref name="PSF"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|Unfortunate broom flyer hit by muggle helicopter.|''[[Daily Prophet]]'' headline|Harry Potter and the Philosopher's Stone (film)}}
+This '''individual''' (d. [[1991]], possibly) was a [[wizardkind|wizard or witch]] who, in [[1991]] crashed into a [[Non-magic people|Muggle]] [[helicopter]] during a [[broomstick]] [[flight]]. For this reason, they made ''[[Daily Prophet]]'' headlines.<ref name="PSF">{{PS|F}} - see [[:File:DPpropPSback.jpg|this image]].</ref>
+
+==Appearances==
+*{{PS|F}} {{1st Mention}} {{C|Mentioned on a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Broom fliers]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

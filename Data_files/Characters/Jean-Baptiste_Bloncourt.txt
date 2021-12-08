@@ -1,0 +1,42 @@
+{{Individual infobox
+|name = Jean-Baptiste Bloncourt
+|born = After [[1976]]<ref>Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref>, [[Haiti]] (possibly)
+|nationality = [[Haiti]]an
+|title = [[Beater]]
+|species = [[Human]]
+|gender = Male
+|job = [[Beater]] for the [[Haitian National Quidditch team]]
+|loyalty = [[Haitian National Quidditch team]]
+|theme = quidditch-player
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidem = hide
+|hidea = 
+}}
+{{Quote|​'Only the Seeker may capture the Snitch and any other player catching it will forfeit the game' is a tenet drummed into every schoolboy or girl who plays Quidditch, but Bloncourt appeared to lose his head at this point, wrestling the Snitch out of his undergarments and holding it up triumphantly as though this would indemnify him for the blunders he had made. Haiti was instantly disqualified.|[[Ginevra Weasley|Ginny Potter]], "[[BRAZIL VERSUS HAITI]]" (''[[Daily Prophet]]'', [[15 May]] [[2014]])|Pottermore}} 
+'''Jean-Baptiste Bloncourt''' was a [[Haiti]]an [[Wizardkind|wizard]] who played as a [[Beater]] for the [[2014]] [[Haitian National Quidditch team]]. During the third match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], Haiti versus [[Brazilian National Quidditch team|Brazil]], Jean-Baptiste Bloncourt showed his ineptitude, and cost his team the championship.<ref name="PM">{{PM}} - [[BRAZIL VERSUS HAITI]] (Archived)</ref>
+
+==Biography==
+In the first hour of the match, Bloncourt mis-hit a ferocious [[Bludger]], sending it hurtling toward his own teammate, [[Keeper]] [[Lenelle Paraison]]. Paraison was left with a broken nose.<ref name="PM"/> Four hours into the match, the Haitian [[Seeker]] [[Sylvian Jolicoeur]] came within inches of capturing the Snitch and securing the win, but another of Bloncourt's misaimed [[Bludger]]s knocked him out cold. To make matters worse, the [[Golden Snitch|Snitch]] proceeded to get caught up in Bloncourt's sleeve, who incurred in [[Snitchnip]] when he wrestled it out of his undergarments and grabbed it. The team was immediately disqualified.<ref name="PM"/> Following the match, Bloncourt was reported to be hiding in an undisclosed location.<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Bloncourt, Jean-Baptiste}}
+
+[[de:Jean-Baptiste Bloncourt]]
+[[es:Jean-Baptiste Bloncourt]]
+[[fr:Jean-Baptiste Bloncourt]]
+[[pl:Jean−Baptiste Bloncourt]]
+[[ru:Жан-Батист Блонкур]]
+
+[[Category:20th century births]]
+[[Category:Beaters]]
+[[Category:Haitian individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

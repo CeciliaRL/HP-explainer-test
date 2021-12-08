@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Dennis Aldermaston's mother
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Dennis Aldermaston]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mrs Aldermaston''' was the mother of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] student [[Dennis Aldermaston]]. In 1996, her son hoped to receive a new [[broomstick]] from her for [[Christmas]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Behind the scenes==
+*This particular individual is only mentioned in the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{HBP|G}} {{1st Mention}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Aldermaston, Dennis' mother}}
+
+[[pl:Matka Dennisa Aldermastona]]
+[[Category:Females|Aldermaston, Mrs]]
+[[Category:Parents‎|Aldermaston's mother]]
+[[Category:Unnamed family members‎|Aldermaston's mother]]
+[[Category:Wizards|Aldermaston's mother]]

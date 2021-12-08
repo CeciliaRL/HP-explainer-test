@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = gringotts
+|image = 
+|name = Gringotts spokesgoblin
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Spokesgoblin]]
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]
+}}
+{{Quote|But we're not telling you what was in there, so keep your noses out if you know what's good for you.|The [[Goblin]]|Harry Potter and the Philosopher's Stone}}
+
+This '''goblin''' was a [[spokesgoblin]] employed by [[Gringotts Wizarding Bank]] in the early [[1990s]]. After the [[Break-in of Gringotts Wizarding Bank (1991)|break-in]] at the bank on [[31 July]], [[1991]], this spokesgoblin gave an interview to the ''[[Daily Prophet]]'', advising wizards to keep their noses out of [[Gringotts Wizarding Bank|Gringotts]] business.<ref name="PS8">{{PS|B|8}}</ref>
+
+==Appearances==
+*{{PS}} {{Mention}}
+*{{PS|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+
+[[es:Duende vocero de Gringotts no identificado]]
+[[fr:Porte-parole des gobelins]]
+[[ru:Пресс-секретарь банка «Гринготтс»]]
+[[Category:British individuals]]
+[[Category:Gringotts employees]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Plot to steal the Philosopher's Stone participants]]
+[[Category:Unidentified Goblins]]

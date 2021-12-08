@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Franklin Greenwood
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Author
+|house=
+|loyalty=
+}}
+'''Franklin Greenwood''' was a [[Muggle|No-Maj]] author in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:TheNewYorkAffair.jpg}}</ref>
+
+He conceived a story idea in collaboration with [[Mattie Lovett]].<ref name="poster" /> This served as the basis for a book by author [[Maxwell Lima]].<ref name="poster" /> Lima's book was in turn adapted into the musical ''[[The New York Affair]]'' by playwright [[Maurice Willard]].<ref name="poster" /> 
+
+==Appearances==
+*{{FB|F}} {{1st Mention}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Greenwood, Franklin}}
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Muggles]]

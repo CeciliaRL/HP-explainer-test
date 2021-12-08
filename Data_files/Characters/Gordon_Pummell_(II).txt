@@ -1,0 +1,50 @@
+{{Youmay|the [[Slytherin]] student|[[Dudley Dursley]]'s friend [[Gordon]]}}
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Gordon Pummell
+|born = [[31 August]] [[1985]] or earlier<ref>He must have at least been in his first year in 1996.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Gordon Pummell (I)]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+'''Gordon Pummell''' was a [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He blocked access to areas of the school grounds that were off limits during the [[1996–1997 school year]].
+
+==Etymology==
+The name "Gordon" comes from a Scottish surname which was originally derived from a place name meaning "great hill". It was originally used in honour of Charles George Gordon (1833-1885), a British general who died defending the city of Khartoum in Sudan.
+
+==Appearances==
+*{{HBP|G}} {{Comment|Nintendo DS version only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pummell, Gordon}}
+[[fr:Gordon Pummell]]
+[[pl:Gordon Pummell (II)]]
+
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

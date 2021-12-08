@@ -1,0 +1,62 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Slytherinprefect.png|250px]]
+|name = Third-floor corridor Slytherin Prefect (II)
+|born = Between [[1 September]] [[1975]] and [[31 August]] [[1978]] (most likely)<ref name="age">As he was a Prefect, he was at least in his fifth year in 1993, meaning he started at Hogwarts in around 1987-1989 and born circa 1975-1978.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]<ref name="POAG"/>
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = Black<ref name="POAG"/>
+|eyes = Brown<ref name="POAG"/>
+|skin = White<ref name="POAG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="POAG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAG"/>
+**[[Slytherin]]<ref name="POAG"/>
+**[[Slytherin Quidditch team]]<ref name="POAG"/>
+}}
+This '''[[Wizardkind|wizard]]''' (born c. [[1976]]-[[1978]])<ref name="age"/> attended [[Hogwarts School of Witchcraft and Wizardry]], beginning in, at latest, [[1989]].<ref name="POAG"/>
+
+==Biography==
+He was [[Sorting ceremony|Sorted]] into [[Slytherin|Slytherin]] House, his [[Head of House]] being [[Severus Snape]], and was made a [[Prefect]] in his [[fifth year]].
+
+During the [[1993–1994 school year]], he patrolled the [[third-floor corridor]], while his Head of House patrolled the [[Gunhilda of Gorsemoor Corridor]] at least one night. [[Harry Potter]], [[Ronald Weasley]] and [[Hermione Granger]] had to sneak past him multiple times, most notably after secretly obtaining [[Fairy wings]].<ref name="POAG">{{POA|G}} - Console versions</ref>
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Felix Rosier]]
+|position=Male [[Prefect#Slytherin|prefect of Slytherin House]]<br/>(along with two other male Slytherins in different years taking the post)
+|years=at least [[1993]]–[[1994]]
+|successor=Unknown, eventually [[Draco Malfoy]]
+}}
+{{End box}}
+{{Head boys and prefects}}
+[[es:Prefecto de Slytherin  del Corredor del Tercer Piso|es:Prefecto de Slytherin del Corredor del Tercer Piso]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Hogwarts prefects]]
+[[Category:Males]]
+[[Category:Sorted in the 1980s]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

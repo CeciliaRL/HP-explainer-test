@@ -1,0 +1,32 @@
+{{Individual infobox
+|image = [[File:Alain Lacroix.png]]
+|name = Alain Lacroix
+|nationality = [[France|French]]
+|title = [[Beater]]
+|species = [[Human]]
+|gender = Male
+|hair = Brown
+|eyes = Green
+|skin = White
+|job = [[Beater]] for the [[French National Quidditch team]]
+|loyalty = [[French National Quidditch team]]
+}}'''Alain Lacroix''' was a [[France|French]] [[Wizardkind|wizard]] famous for being a [[Beater]] for the [[French National Quidditch team]].<ref>{{QWC}}</ref>
+
+==Appearances==
+*{{QWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Lacroix, Alain}}
+
+[[es:Alain Lacroix]]
+[[fr:Alain Lacroix]]
+[[pl:Alain Lacroix]]
+[[ru:Ален Лакруа]]
+[[Category:Beaters]]
+[[Category:French individuals]]
+[[Category:Green-eyed individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

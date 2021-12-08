@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Toby Gleaves
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Olivia Gleaves]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+__NOTOC__
+'''Toby Gleaves'''<ref>Closed captions on the DVD/Blu-ray of {{DH|F1}}</ref> was a [[Wizardkind|wizard]] who was reported missing along with his relative, [[Olivia Gleaves|Olivia]], on the ''[[Potterwatch]]'' wireless programme in [[1997]]. His disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.
+
+==Behind the scenes==
+*This character is presumably a tribute to a relative of Peter Gleaves, an ADR mixer who worked on every [[Harry Potter films|''Harry Potter'' film]], excepting ''[[Harry Potter and the Philosopher's Stone (film)|Philosopher's Stone]]'' and ''[[Harry Potter and the Goblet of Fire (film)|Goblet of Fire]]''.<ref>[http://www.imdb.com/name/nm0322367 Peter Gleave's profile on IMDb]</ref>
+==Appearances==
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Gleaves, Toby}}
+
+[[fr:Toby Gleaves]]
+[[pl:Toby Gleaves]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

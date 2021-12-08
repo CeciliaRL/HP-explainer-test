@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:EditorofWitchWeekly.jpg|250px]]
+|name = Tobias Misslethorpe
+|born = 
+|died = In or prior to [[1993]]<ref name="death">J. K. Rowling stated at the [http://harrypotter.bloomsbury.com/author/interviews/individual1 2004 Edinburgh Book Festival] that all portraits at Hogwarts are of deceased individuals. As Misslethorpe's portrait first appeared in {{POA|FA}}, it can be inferred that he died in or prior to [[1993]], the year in which the first portion of the novel is set.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = White
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Editor of ''[[Witch Weekly Magazine|Witch Weekly]]''
+|house = 
+|loyalty = ''[[Witch Weekly Magazine|Witch Weekly]]''
+}}
+'''Tobias Misslethorpe'''<ref name="LE">{{HPLE}}</ref> was a [[Wizardkind|wizard]] and the founding editor of ''[[Witch Weekly Magazine|Witch Weekly]]''.<ref name="portrait">{{POA|F}} {{see image|File:Tobias Misslethorpe.jpg}}</ref> His portrait was painted by [[Oliver Cartwright]].<ref name="LE"/>
+
+==Biography==
+===Life===
+During his lifetime, Misslethorpe founded ''[[Witch Weekly Magazine|Witch Weekly]]'', a popular magazine for [[wizardkind|witches]], serving as its first editor.<ref name="portrait" />
+
+===Legacy===
+Misslethorpe died sometime in or prior to [[1993]].<ref name="death" /> A [[portrait]] of him, painted by the artist [[Oliver Cartwright]], was hung at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="portrait" />
+
+==Etymology==
+The name "Tobias" is the Greek form of Tobiah. This is the name of the hero of the apocryphal Book of Tobit in many English versions of the Old Testament. It relates how Tobias, with the help of the archangel Raphael, is able to drive away a demon who has been plaguing Sarah, who subsequently becomes his wife. It is also known that he shares the same first name as that of [[Tobias Snape]], who is the [[Non-magic people|Muggle]] father of [[Severus Snape]].
+
+==Behind the scenes==
+*Misslethorpe's portrait was based on an [http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/10/3/1349274716566/disraeliportrait.jpg 1881 elegiac of Prime-Minister Benjamin Disraeli], by [[Wikipedia:John Everett Millais|John Everett Millais]] (1829–1896). The face, however, was modelled after [[Barry Wilkinson]], the props master on all eight [[Harry Potter films|''Harry Potter'' films]].<ref>[http://www.flickr.com/photos/tonyridder/7537611422/ The Making of Harry Potter photo] on Flickr</ref>
+*This character's portrait can be seen in the "The Quest of [[Cadogan|Sir Cadogan]]" feature on Disc 2 of the ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'' DVD.
+
+==Appearances==
+*{{POA|F}} {{Portrait}}
+*{{POA|G}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+*{{DH|G2}}<ref>Tobias himself has escaped during the [[Battle of Hogwarts]], but his portrait is there.</ref>
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Misslethorpe, Tobias}}
+
+{{Hogwarts unknown locations}}
+
+[[fr:Tobias Misslethorpe]]
+[[pl:Tobias Misslethorpe]]
+[[Category:British individuals]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

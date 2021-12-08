@@ -1,0 +1,43 @@
+
+{{Transcribed image|File:StefanHoghedge.jpg}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:StefanHoghedge.jpg|250px]]
+|name=Stefan Hoghedge
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Stefan Hoghedge''' was a [[Wizardkind|wizard]] whose name was carved into wood panelling on a wall of [[Sybill Trelawney|Professor Trelawney]]'s [[Divination]] classroom.<ref>{{POA|F}} - Chapter 21 (''Professor Trelawney's Prediction'')</ref>
+
+==Appearances==
+*{{POA|F}} {{Comment|Name seen on wood panelling}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Hoghedge, Stefan}}
+[[pl:Stefan Hoghedge]]
+[[Category:Males]]
+[[Category:Wizards]]

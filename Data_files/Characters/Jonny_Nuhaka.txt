@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Jonny Nuhaka - card HBP-NDS.png|250px]]
+|name = Jonny Nuhaka
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Australia]]n<ref name="QWC"/><ref name="HBPG"/>
+|alias = 
+|title = [[Keeper]]<ref name="QWC"/><ref name="HBPG"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/><ref name="HBPG"/>
+|gender = Male<ref name="QWC"/><ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HBPG"/>
+|eyes = 
+|skin = Light<ref name="HBPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Keeper]] for the [[Australian National Quidditch team]]<ref name="QWC"/><ref name="HBPG"/>
+|house = 
+|loyalty = [[Australian National Quidditch team]]<ref name="QWC"/><ref name="HBPG"/>
+}}
+'''Jonny Nuhaka''' was an Australian [[Wizardkind|wizard]] who played as the [[Keeper]] for the [[Australian National Quidditch team]] during the [[1994 Quidditch World Cup|four-hundred and twenty-second]] [[Quidditch World Cup]], in [[1994]].<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Nuhaka's [[Chocolate Frog Card]] could be won by beating [[David Nolton]] at a [[Quidditch]] challenge.<ref name="HBPG">{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Etymology==
+[[wikipedia:Nuhaka|Nuhaka]] is the [[wikipedia:Māori_language|Māori]] name for a small settlement in New Zealand's Hawke's Bay Region. It is also the name of a [[wikipedia:Nuhaka_River|river]] in the same area.
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{FWC}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Nuhaka, Jonny}}
+
+[[es:Jonny Nuhaka]]
+[[fr:Jonny Nuhaka]]
+[[pl:Jonny Nuhaka]]
+[[Category:Australian individuals]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Wizards]]

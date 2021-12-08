@@ -1,0 +1,40 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Lauren Wakefield
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Wakefield family]]
+|hidea=
+|job=Circus performer
+|loyalty=
+}}
+'''Lauren Wakefield''' was a [[Non-magic people|Muggle]] circus performer. She was one of the performers whose talents were featured in [[Le Cirque du Vaga Lume]].<ref name="HPLE">{{HPLE|G}} {{see image|File:LeCirqueduVagaLumePoster.jpg}}</ref>
+
+==Behind the scenes==
+*This character was named after [[Lauren Wakefield]], a graphic artist who worked on ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]'', and both parts of ''[[Harry Potter and the Deathly Hallows (film)|Harry Potter and the Deathly Hallows]]''.
+
+==Appearances==
+*{{DH|F1}} {{Mentioned on a poster}}
+*{{HPLE}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Wakefield, Lauren}}
+[[Category:Circus performers]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Wakefield family|Lauren]]

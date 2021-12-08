@@ -1,0 +1,67 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Hortensia Milliphutt
+|hideb=
+|born=Before [[1824]]
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office.</ref>
+|alias=
+|title=[[Minister for Magic]]
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Minister for Magic]] ([[1841]] - [[1849]])
+|house=
+|loyalty=[[British Ministry of Magic]]
+}}
+'''Minister Hortensia Milliphutt''' was a [[wizardkind|witch]] who, from [[1841]] to [[1849]], served as [[Minister for Magic]] of [[British Ministry of Magic|Britain]] and [[Ireland]], being elected at least twice but defeated for re election in 1849.
+
+==Biography==
+She had the distinction of being the Minister who introduced the most legislation during her term in office. Much of this new legislation was useful, but her political downfall came when she started passing regulations on hat pointiness and other wearisome laws.<ref>{{WW|ministers-for-magic}}</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Radolphus Lestrange]]
+|position=[[Minister for Magic]]
+|years=[[1841]]-[[1849]]
+|successor=[[Evangeline Orpington]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Milliphutt, Hortensia}}
+
+
+[[de:Hortensia Milliphutt]]
+[[es:Hortensia Milliphutt]]
+[[fr:Hortensia Milliphutt]]
+[[pl:Hortensia Milliphutt]]
+[[ru:Гортензия Миллифут]]
+[[pt-br:Hortensia Milliphutt]]
+[[zh:霍滕西亚·米里法特]]
+
+[[Category:British Ministers for Magic]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Legislators]]
+[[Category:Wizards]]

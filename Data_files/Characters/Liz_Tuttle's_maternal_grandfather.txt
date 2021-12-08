@@ -1,0 +1,45 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Lit Tuttle's grandfather
+|born=Before [[1973]]
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=*[[Liz Tuttle's maternal grandmother|Wife]]
+*[[Liz Tuttle's mother|Daughter]]
+*[[Liz Tuttle]] (granddaughter)
+*[[Liz Tuttle's sister|Granddaughter]]
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=[[Tuttle family]]
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who lived in [[Somalia]]. He had at least one child, a daughter, whom he home-schooled at magic. Through her, he had at least two granddaughters, one of whom was Liz.<ref name="HM515">{{HM|5|15|d}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Tuttle, Liz maternal grandfather}}
+[[Category:Somalian individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Man in Borgin and Burkes HBPF.jpg]]
+|name = Unidentified man in Borgin and Burkes in 1996
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPF"/>
+|gender = Male<ref name="HBPF"/>
+|height = 
+|weight = 
+|hair = Light<ref name="HBPF"/>
+|eyes = 
+|skin = Light<ref name="HBPF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Shop assistant in [[Borgin and Burkes]]<ref name="HBPF"/>
+|house = 
+|loyalty = [[Borgin and Burkes]]<ref name="HBPF"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who worked in the shop [[Borgin and Burkes]] in at least [[1996]].<ref name="HBPF">{{HBP|F}}</ref>
+
+==Behind the scenes==
+*He was either [[Borgin]] or an assistant.
+
+==Appearances==
+*{{HBP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,82 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Ottaline Gambol
+|nationality=[[Great Britain|British]]
+|born=Before [[1810]]
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="pottermore">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office)</ref>
+|alias=
+|title=Minister
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Minister for Magic]] ([[1827]] - [[1835]])
+|house=
+|loyalty=[[British Ministry of Magic]]
+}}
+'''Minister Ottaline Gambol''' was a [[Great Britain|British]] [[Minister for Magic]] who was in office from [[1827]] to [[1835]]. Fascinated with [[Non-magic people|Muggle]] technology, she was "daring and controversial" and proposed the train as a solution to the age-old dilemma of how to transport hundreds of students to [[Hogwarts School of Witchcraft and Wizardry]] without attracting non-magic attention, leading to the creation of the [[Hogwarts Express]].<ref name="Pottermore">Hogwarts Express information on Pottermore (transcription available [http://welp-pottermore.tumblr.com/post/9147590569/the-hogwarts-express here])</ref>
+
+==Biography==
+===Early life===
+Ottaline Gambol was born sometime prior to [[1810]], somewhere in the [[Great Britain|British Isles]], to at least one magical parent. It is likely she attended [[Hogwarts School of Witchcraft and Wizardry]] in her youth.
+
+===As Minister for Magic===
+Ms. Gambol rose to the office of [[Minister for Magic]] in [[1827]] and proved to be effective in the solution of the problem of how to transport hundreds of students to and from [[Hogwarts Castle]] without attracting the [[Non-magic people|Muggle]]s' attention.<ref name="Pottermore" />
+
+Gambol was elected Minister at least twice by the British and Irish Wizarding community.
+
+[[Portkey]]s had been arranged at collecting points all over Britain and Ireland ever since the imposition of the [[International Statute of Wizarding Secrecy|International Statute of Secrecy]] in [[1692]]. However, Portkeys proved not to be the ideal solution to the problem of school transportation (up to a third of students would fail to arrive every year, as well as many students were prone to [[Portkey-sickness]]). A return to the unregulated travel of the past was impossible, as well as other magical routes into the school (like the usage of [[Floo Powder]]) were strongly resisted by successive [[Headmaster]]s, who were concerned the security of the Castle would be breached.<ref name="Pottermore" />
+
+[[File:Hogsmeadestation2.PNG|thumb|left|The [[Hogwarts Express]] at [[Hogsmeade station|Hogsmeade Station]]]]
+Three years into her time in office, in [[1830]],<ref name="Act1Scene11">{{CC|B|1|11}}</ref> Minister Gambol made a daring and controversial suggestion to solve the problem: intrigued by the [[Non-magic people|Muggle]] technology, the Minister saw the potential of using a train as a secure and comfortable alternative to [[Portkey]]s. Thus the [[Hogwarts Express]] came to be. Where the locomotive was actually obtained from remains unknown, but there are classified files at the [[British Ministry of Magic Headquarters|Ministry of Magic]] pertaining to [[Ministry of Magic operation to acquire the Hogwarts Express|a large-scale operation]] involving one hundred and sixty-seven [[Memory Charm]]s, as well as the biggest [[Concealment Charm]] ever performed in Britain. The morning after this operation, the residents of [[Hogsmeade]] awoke to find a [[Hogsmeade station|railway station]] that had not been there previously and Muggle railway employees in [[Crewe]] had the feeling they had misplaced something, which stayed with them for the rest of the year.<ref name="Pottermore" />
+
+During her tenure around the year [[1830]] she hired the [[Trolley witch]] to both sell sweets and ensure all students arrived at Hogwarts.<ref name="Act1Scene11"/>
+
+Gambol left office in [[1835]].
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{CC}} {{Mention}}
+*{{CC|P}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Josephina Flint]]
+|position=[[Minister for Magic]]
+|years=[[1827]] - [[1835]]
+|successor=[[Radolphus Lestrange]]
+}}
+{{End box}}
+
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Gambol, Ottaline}}
+
+[[de:Ottaline Gambol]]
+[[es:Ottaline Gambol]]
+[[fr:Ottaline Gambol]]
+[[pl:Ottaline Gambol]]
+[[pt-br:Ottaline Gambol]]
+[[ru:Отталин Гэмбл]]
+[[zh:奥塔莱恩·甘布尔]]
+[[Category:British Ministers for Magic]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Wizards]]

@@ -1,0 +1,53 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = squib
+|image = 
+|name = Constance Pickering's brother
+|born = 
+|died = 
+|blood = [[Squib]]<ref name="WU"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WU"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Male<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Constance Pickering's mother|Mother]]<ref name="ChristmasCalamity"/>
+*[[Constance Pickering's older brother|Older brother]]<ref name="FirstYearAtHogwarts"/>
+*[[Constance Pickering]] (sister)<ref name="WU"/>
+*[[Constance Pickering's sister|Sister]]<ref name="WU"/>
+*[[Constance Pickering's grandmother|Grandmother]]<ref name="ChristmasCalamity">{{WU}} "Brilliant Event: Christmas Calamity"</ref>
+*[[Matthias Pickering]] (grandfather)<ref name="FirstYearAtHogwarts">{{WU}} "Brilliant Event: First Year at Hogwarts"</ref>
+*[[Constance Pickering's Muggle grandfather|Grandfather]]<ref>{{WU}} "Brilliant Event: Darkness Risings"</ref>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Pickering family]]
+}}
+{{Quote|Did you know I once had a Crup called Ross? I did. But we had to give him away when my brother turned out to be a squib and Ross just wouldn't stop nipping his bum. Scarred my brother for life. I miss Ross.|[[Constance Pickering]]|Harry Potter: Wizards Unite}}
+This '''individual''' was the brother of [[Constance Pickering]].
+
+==Biography==
+When they both were children, Constance had a pet [[Crup]] called [[Ross (Crup)|Ross]]. The family had to give him away when Constance's brother turned out to be a [[Squib]], and Ross just would not stop nipping his backside, which scarred him for life.<ref name="WU">{{WU}} "Brilliant Event: Baby Beasts"</ref>
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pickering, Constances Squib brother}}
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Pickering family]]
+[[Category:Squibs]]

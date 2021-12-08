@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|image = Tudor Malfoy 2.png
+|name = Tudor Malfoy (II)
+|born = Before [[1997]]<ref name="DHF1"/>
+|died = 
+|blood = [[Pure-blood]]<ref name="WW">{{WW|the-malfoy-family}}</ref>
+|nationality = 
+|marital = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF1"/>
+|gender = Female<ref name="DHF1"/>
+|hair = Black<ref name="DHF1"/>
+|eyes = Green<ref name="DHF1"/>
+|skin = Pale<ref name="DHF1"/>
+|height = 
+|weight = 
+|family = [[Malfoy family]]<ref name="DHF1"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Malfoy family]]<ref name="DHF1"/>
+|theme = portrait
+}}
+This '''individual''' was a [[Wizardkind|witch]] who was a member of the [[pure-blood]] [[Malfoy family]].<ref name="DHF1"/>
+
+==Biography==
+This witch was born or married into the Malfoy family presumably at some point during the Tudor period. After her [[death]], a [[portrait]] of her was placed in [[Malfoy Manor]].<ref name="DHF1">{{DH|F1}}</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Green-eyed individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Malfoy family]]
+[[Category:Pure-bloods]]
+[[Category:Unidentified portraits]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

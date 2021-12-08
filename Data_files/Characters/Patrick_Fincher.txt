@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Patrick Fincher
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = 
+}}
+'''Patrick Fincher''' was a [[Ravenclaw]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He played informal [[Quidditch]] matches with other students during the [[1996–1997 school year]].
+
+==Etymology==
+The name "Patrick" is from the Latin name Patricius, which meant "nobleman". This name was adopted in the 5th-century by Saint Patrick, whose birth name was Sucat. He was a Romanized Briton who was captured and enslaved in his youth by Irish raiders. After six years of servitude he escaped home, but he eventually became a bishop and went back to Ireland as a missionary. He is traditionally credited with Christianizing the island, and is regarded as Ireland's patron saint.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Fincher, Patrick}}
+[[pl:Patrick Fincher]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

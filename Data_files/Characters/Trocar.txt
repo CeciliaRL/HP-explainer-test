@@ -1,0 +1,49 @@
+{{Cut content}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Trocar
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{Template:GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="PM"/>
+|signature = 
+|species = [[Vampire]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Professor|Teacher]] at [[Hogwarts School of Witchcraft and Wizardry]]<ref name="PM"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="PM"/>
+}}
+'''Professor Trocar''' was a [[vampire]], and a [[Professor|teacher]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PM">{{WW|vampires}}</ref>
+
+==Behind the scenes==
+*Trocar made an appearance only on [[J. K. Rowling]]'s earliest planning notes for the books, and disappeared from her plans fairly early on, since she "''did not think much of him as a character''".<ref name="PM"/>
+*A [[Wikipedia:Trocar|trocar]] is a medical device inserted into arteries or cavities to extract bodily fluids.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Trocar]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts employees]]
+[[Category:Males]]
+[[Category:Non-canonical characters]]
+[[Category:Professors]]
+[[Category:Vampires]]

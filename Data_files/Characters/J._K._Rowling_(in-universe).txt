@@ -1,0 +1,65 @@
+{{Real world subject}}
+{{Youmay|the fictional individual|the [[J. K. Rowling|Harry Potter series' author]] of the same name}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = J. K. Rowling
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Children's High Level Group]]
+*[[Comic Relief (in-universe)|Comic Relief]]
+*[[Wizarding Examinations Authority]]
+}}
+{{Quote|Professor Dumbledore seems to have been writing for a Wizarding audience, so I have occasionally inserted an explanation of a term or fact that might need clarification for Muggle readers.|J. K. Rowling, ''The Tales of Beedle the Bard''|The Tales of Beedle the Bard (real)}}
+'''J. K. Rowling''' was a [[Non-magic people|Muggle]] author. Despite being a Muggle, she had a connection to the [[wizarding world]] for an unknown reason, and was an acquaintance of [[Albus Dumbledore]].
+
+==Biography==
+J. K. Rowling authored ''[[Wizards' Book]]''<ref name="JKRS">{{JKRS}} - "Links" section</ref> and the [[2008]] edition of {{TBB}}.<ref name="TBB">{{TBB|R}} - ''Introduction''</ref> Along with [[Comic Relief (in-universe)|Comic Relief]], she set up a fund in [[Harry Potter]]'s name for proceeds from the sales of special copies of {{FB}} and {{QTA}} to be used to help struggling children worldwide.<ref name="FBE">{{FB|E}}</ref><ref name="QTAE">{{QTA|E}}</ref> She would later associate with another charity, the [[Children's High Level Group]], to distribute royalties from the sale of ''The Tales of Beedle the Bard''.
+
+Rowling was also apparently associated with the [[Wizarding Examinations Authority]], as her signature appeared on completion certificates for the [[Wizards' Ordinary Magic and Basic Aptitude Test]].
+
+{{Quote|J.K. Rowling is a world authority on Quidditch and has been writing about the sport since 1990. Royston Idlewild, former player and International Director of the ICWQC, described her as ‘perhaps the only person in the world who knows more about Quidditch than I do.’|Description|Pottermore}}
+
+In addition to this, Rowling had access to a [[computer]] on which she frequently used the [[internet]].<ref name="PPA">[http://press.pottermore.com/quidditch/pottermorereleaseshistoryofthequidditchworldcup.pdf Pottermore Press Announcement: "Pottermore Releases History of the Quidditch World Cup"]</ref> She was the Quidditch correspondent for {{PM}}, and provided information for them on the [[Quidditch World Cup]] to share with [[Non-magic people|Muggles]]; in addition to this, she gave insight into Muggle sports from a wizarding perspective as well.<ref name="PPA" />
+
+She had knowledge of magical history, and wrote the book [[Magic in North America]].
+
+==Behind the scenes==
+*As this individual is the in-universe counterpart of [[J. K. Rowling]], it is likely she also authored [[Seven-volume biography of Harry Potter|the in-universe counterpart of the ''Harry Potter'' series]].
+
+==Appearances==
+*{{FB|R}} {{1st Mention}}
+*{{QTA|R}} {{Mention}}
+*{{TBB|R}} {{Mention}}
+*{{JKRS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Rowling, J. K.}}
+[[de2:J. K. Rowling (innerhalb des Universums)]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Philanthropists]]

@@ -1,0 +1,40 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=individual
+|name=Patricia Rakepick's mother
+|born=
+|died=
+|image=
+|blood=
+|title=
+|alias=
+|signature=
+|nationality=
+|title=
+|species=[[Human]]<ref name="HM634"/>
+|gender=Female<ref name="HM634"/>
+|skin=
+|eyes=
+|height=
+|weight=
+|wand=
+|animagus=
+|patronus=
+|boggart=
+|romances=
+|family=[[Patricia Rakepick]] (daughter)<ref name="HM634"/>
+|job=
+|house=
+|loyalty=Rakepick family<ref name="HM634"/>
+}}
+This '''individual''' was the mother of [[Patricia Rakepick]]. In the [[1989–1990 school year]], [[Jacob's sibling]] was working on [[Polyjuice Potion|impersonating]] her daughter to infiltrate [[R]], and told [[Jae Kim]] and [[Nymphadora Tonks]] that she would not be able to tell the difference between them.<ref name="HM634">{{HM|6|34}}</ref> 
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

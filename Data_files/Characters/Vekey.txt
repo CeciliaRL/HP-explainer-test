@@ -1,0 +1,43 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = Vekey.jpg
+|name = Vekey
+|born =
+|died =
+|blood =
+|marital =
+|nationality = [[Great Britain|British]]<ref name="HM"/>
+|alias =
+|title =
+|signature =
+|species = [[House-elf]]<ref name="HM">{{HM|5|VALENTINE'S DAY BALL}}</ref>
+|gender = 
+|height =
+|weight =
+|hair =
+|eyes =
+|skin = Light<ref name="HM"/>
+|family =
+|animagus =
+|boggart =
+|wand =
+|patronus =
+|job = [[Hogwarts kitchens]] worker<ref name="HM"/>
+|house =
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HM"/>
+}}
+{{Quote|[[Jae Kim]] seems upset... can Vekey help him feel better?|Vekey|Harry Potter: Hogwarts Mystery}}
+'''Vekey''' was a [[house-elf]] that worked at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]]. They worked in the [[Hogwarts kitchens|kitchens]] along with the other [[Hogwarts house-elves]]. Shortly before [[Valentine's Day]], [[Retch]] asked Vekey be their Valentine. Vekey, however, was unaware what a Valentine was.<ref name="HM"/>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Staff}}
+{{Character-stub}}
+[[Category:British individuals]]
+[[Category:Hogwarts employees]]
+[[Category:House-elves]]
+[[Category:Individuals of unknown or undetermined gender]]

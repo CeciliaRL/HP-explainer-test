@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = quidditch-player
+|name = Hildegarde Lafarge
+|image = [[File:Hildegarde Lafarge.png]]
+|born = Before [[1977]], [[France]] (possibly)
+|died = 
+|blood = 
+|nationality = [[France|French]]<ref name="QWC"/> 
+|title = [[Chaser]]<ref name="QWC"/>
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|eyes = Brown<ref name="QWC"/>
+|hair = Black<ref name="QWC"/>
+|skin = Olive<ref name="QWC"/>
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[French National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[French National Quidditch team]]<ref name="QWC"/>
+}}
+'''Hildegarde Lafarge''' was a [[France|French]] [[Wizardkind|witch]] famous for being a [[Chaser]] in the [[French National Quidditch team]] during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]].<ref name="QWC">{{QWC}}</ref>
+
+==Etymology==
+The name "Hildegarde" is derived from the Germanic elements ''hild'' "battle" and ''gard'' "enclosure". Saint Hildegard was a 12th-century mystic from Bingen in Germany who was famous for her writings and poetry and also for her prophetic visions.
+
+==Appearances==
+{{Imagecat|Images of Hildegarde Lafarge}}
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Lafarge, Hildegarde}}
+[[fr:Hildegarde Lafarge]]
+[[pl:Hildegarde Lafarge]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Wizards]]

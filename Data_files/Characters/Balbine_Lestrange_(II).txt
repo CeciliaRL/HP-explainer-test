@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = wizard
+|image = BALBINE LESTRANGE.jpg
+|name = Balbine Lestrange
+|born = 
+|died = 
+|blood = [[Pure-blood]] (probably)
+|marital = Unknown
+|nationality = [[France|French]]
+|alias = 
+|title = 
+|signature = 
+|species = Human
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin =
+|family = *[[Fulcran Lestrange (II)|Fulcran Lestrange]] (father)
+*[[Sotère Lestrange|Sotére Lestrange]] (mother)
+*[[Pucine Lestrange (II)|Pucine Lestrange]] (sister)
+*[[Fulcran Lestrange (III)|Fulcran Lestrange]] (brother)
+*[[Quintilla Lestrange]] (second cousin/sister-in-law)
+*[[Cyrille Lestrange (IV)|Cyrille Lestrange]] (second cousin)
+*[[Floxel Lestrange]] (second cousin)
+*[[Nozéa Lestrange]] (niece)
+*[[Fulcran Lestrange (I)|Fulcran Lestrange]] (paternal grandfather)
+*[[Pucine Lestrange (I)|Pucine Lestrange]] (paternal grandmother)
+*[[Lestrange family]]
+*Petit family
+|loyalty = *[[Lestrange family]]
+*Petit family
+}}
+'''Balbine Lestrange''' was a [[France|French]] [[Wizardkind|witch]] and a member of the [[pure-blood]] [[Lestrange family]]. She was the daughter of [[Fulcran Lestrange (II)|Fulcran Lestrange]] and [[Sotère Lestrange|Sotére Lestrange]] and sister of [[Pucine Lestrange (II)|Pucine Lestrange]] and [[Fulcran Lestrange (III)|Fulcran Lestrange]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref> She shared the same first name with her great-aunt, [[Balbine Lestrange (I)|Balbine Leroy]].
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}[[fr:Balbine Lestrange II]]
+[[pl:Balbine Lestrange II]]
+[[Category:Females]]
+[[Category:Lestrange family]]
+[[Category:Wizards]]
+{{DEFAULTSORT:Lestrange, Balbine (II)}}

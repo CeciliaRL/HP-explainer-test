@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Sir Percivale
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Sir
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Knights of the Round Table|Knight of the Round Table]]
+|house = 
+|loyalty = [[Arthur]]
+}}
+'''Sir Percivale''' was one of the [[Knights of the Round Table]] who served [[Arthur|King Arthur]] in medieval times. He served alongside fellow knights [[Lancelot (knight)|Lancelot]], [[Bedivere]], and [[Cadogan]].<ref>{{WW|sir-cadogan}}</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Sir Percivale]]
+[[Category:British individuals]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Nobility]]

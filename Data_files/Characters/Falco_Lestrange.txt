@@ -1,0 +1,62 @@
+{{Individual infobox
+|theme=wizard
+|image=FALCO LESTRANGE.jpg
+|name=Falco Lestrange
+|born=
+|died=
+|blood = [[Pure-blood]]<ref>He was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|marital=Married
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=Brown
+|eyes=
+|skin=Light
+|family=
+*[[Corvus Lestrange (I)|Corvus Lestrange]] (father)
+*[[Corvus Lestrange (II)|Corvus Lestrange]] (brother)
+*[[Heloise Lestrange]] (mother)
+*[[Salomé Lestrange]] (wife)
+*[[Eglantine Lestrange]] (daughter)
+*[[Leonie Tremblay|Leonie Lestrange]] (daughter)
+*[[Bernard Tremblay]] (son-in-law)
+*[[Cyrille Lestrange (I)|Cyrille Lestrange]] (uncle)
+*[[Darenne Lestrange]] (aunt)
+*[[Clarisse Lestrange]] (granddaughter)
+*[[Falco Tremblay]] (grandson)
+*[[Lestrange family]]
+*[[Volant family]] (in-laws)
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=*[[Lestrange family]]
+*[[Volant family]]
+|nationality = [[France|French]]}}
+'''Falco Lestrange''' was a [[France|French]] [[wizardkind|wizard]] and a member of the [[pure-blood]] [[Lestrange family]]. He was the son of [[Corvus Lestrange (I)|Corvus Lestrange]] and [[Heloise Lestrange]]. He had a brother [[Corvus Lestrange (II)|Corvus]]. He married [[Salomé Lestrange|Salomé Volant]] and had two children with her: two daughters, [[Eglantine Lestrange|Eglantine]] and [[Leonie Tremblay|Leonie]].<ref>{{COG}} {{see image|File:LestrangeFamilyTree HighRes.png}}</ref>
+
+==Etymology==
+His name is derived from Old High German falko meaning "hawk; falcon".
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Lestrange, Falco}}
+
+[[fr:Falco Lestrange]]
+[[pl:Falco Lestrange]]
+[[ru:Фалько Лестрейндж]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Lestrange family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=snatcher
+|image=[[File:DSC00351.jpg|250px]]
+|name=Unidentified Male Snatcher during the Battle of Hogwarts
+|hideb=
+|born=
+|died=[[2 May]], [[1998]]<ref name="DHF2"/>
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="blood">[[Snatchers]] hunted [[Muggle-born]]s, so he was not one himself.</ref>
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DHF2"/>
+|gender=Male<ref name="DHF2"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=Unknown
+|patronus=
+|hidea=
+|job=[[Snatchers|Snatcher]]<ref name="DHF2"/>
+|house=
+|loyalty=[[Snatchers]]<ref name="DHF2"/>
+}}
+This '''[[Wizardkind|wizard]]''' was a [[Snatchers|Snatcher]] who fought during the [[Battle of Hogwarts]]. He took part in the [[Skirmish at the Wooden Bridge|skirmish]] at the [[Wooden Bridge]], chasing after [[Neville Longbottom]]. He died when the bridge collapsed.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*He is portrayed by [[Mike Gentry]] in the [[Harry Potter and the Deathly Hallows: Part 2|second part of the film adaptation]] of {{DH}}.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pt-br:Sequestrador masculino não identificado durante a Batalha de Hogwarts]]
+[[Category:Battle of Hogwarts fatalities]]
+[[Category:Killed by Neville Longbottom]]
+[[Category:Males]]
+[[Category:Unidentified snatchers]]

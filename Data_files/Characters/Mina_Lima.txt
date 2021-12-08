@@ -1,0 +1,30 @@
+{{Transcribed image|File:MinaLimaQuibbler.jpg}}
+{{Youmay|the witch|[[MinaLima Design|the real-world company she is named after]]}}
+{{Individual infobox
+|name = Mina Lima
+|alias = [[Stubby Boardman]] (allegedly)<ref name="HBPF"/>
+|species = [[Human]]
+|gender = Female
+|family = [[Edwardus Lima]] (possibly)
+|loyalty = [[Lima family]]
+|theme = wizard
+}}'''Mina Lima''' was presumably a famous [[Wizardkind|witch]]. ''[[The Quibbler]]'' ran an article in [[1996]] which claimed that she was the same person as [[Stubby Boardman]]. However, the veracity of this claim is doubtful, given the fact that the magazine published the exact same claim regarding [[Sirius Black]] the [[1995|year]] before.<ref name="HBPF">{{HBP|F}} {{see image 2 |File:MinaLimaQuibbler2.jpg|File:MinaLimaQuibbler.jpg}}</ref>
+
+==Behind the scenes==
+*This character's name is presumably a tribute to the [[Harry Potter films|''Harry Potter'' film]] graphic artists [[Miraphora Mina]] and [[Eduardo Lima]]. Their company [[MinaLima Design]] has continued to make beautiful design work and their blog features all of their inspirations and design ideas.
+
+==Appearances==
+*{{HBP|F}} {{1st Mention}} {{C|Name seen in magazine}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lima, Mina}}
+
+[[de2:Mina Lima]]
+[[es:Mina Lima]]
+[[pl:Mina Lima]]
+[[pt-br:Mina Lima]]
+[[ru:Мина Лима]]
+[[Category:Females]]
+[[Category:Lima family|Mina]]
+[[Category:Wizards]]

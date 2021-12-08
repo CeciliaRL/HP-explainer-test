@@ -1,0 +1,30 @@
+{{Pet individual infobox
+|image = 
+|name = Modesty Rabnott's hippogriff
+|born = In or before [[1260s|1269]]<ref name="QTA4"/>
+|died = 
+|alias = 
+|title = 
+|species = [[Hippogriff]]<ref name="QTA4"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Modesty Rabnott]] (owner)<ref name="QTA4"/>
+}}
+This '''[[hippogriff]]''' was owned by the [[Wizardkind|witch]] [[Modesty Rabnott]].<ref name="QTA4"/>
+
+==Biography==
+In [[1260s|1269]], Rabnott lost her house due to not being able to afford to pay a fine. She flew this hippogriff to [[Aberdeen]] to stay with her sister, [[Prudence]].<ref name="QTA4">{{QTA|B|4}}</ref>
+
+==Appearances==
+*{{QTA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Hippogriffs]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Pets]]

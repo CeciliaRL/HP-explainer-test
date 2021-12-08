@@ -1,0 +1,48 @@
+{{Noncanon|Character}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Professor Marazion
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]
+*[[Headmaster]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster|Head]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Professor Marazion'''<ref name="CCJ">{{CC|J}}</ref><ref name="TLC2019">Pocock, Emma (1 November 2019). [http://www.the-leaky-cauldron.org/2019/11/01/preview-harry-potter-and-the-cursed-child-the-journey/ "PREVIEW: ‘Harry Potter and the Cursed Child: The Journey’"]. ''[[The Leaky Cauldron (website)|The Leaky Cauldron]]''. Retrieved on 24 May 2021.</ref> succeeded [[Minerva McGonagall]] in the post of [[Headmaster|Head]] of [[Hogwarts School of Witchcraft and Wizardry]]. This individual became Headmaster or Headmistress some time between [[2008]]<ref>{{TBB}}, page xi, xiv - McGonagall gives permission for Dumbledore's notes to be published for 2008 edition</ref> and [[2017]] after Minerva McGonagall went into retirement as she was "getting on a bit".<ref>[http://www.msnbc.msn.com/id/19959323/ MSNBC Interview with J.K. Rowling]</ref>
+
+==Behind the scenes==
+*Although [[J. K. Rowling]] initially said in interviews that McGonagall was "getting on a bit" and that Hogwarts had a new Headmaster by the time of the Epilogue in {{DH}} (set in [[2017]]), this was later retconned in {{CC}}, which has McGonagall in office as late as [[2020]].
+*[[Jack Thorne]]'s original draft of the {{CC}} script featured this individual, and first named him as "Professor Marazion". Rowling herself vetoed this character by saying "''I think Marazion doesn't fit. I think we need Professor McGonagall.''"<ref name="CCJ"/><ref name="TLC2019"/>
+
+==Appearances==
+*''[[J. K. Rowling]] Interview'' {{1st Mention}}
+*''{{CC}} {{C|Early drafts}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Następca Minerwy McGonagall]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Wizards]]

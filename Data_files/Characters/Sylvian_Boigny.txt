@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme=quidditch-player
+|image=
+|name=Sylvian Boigny
+|hideb=hide
+|born=After [[1976]],<ref name="age">[[Viktor Krum]], born [[1976]], was the oldest player at the [[2014 Quidditch World Cup]].</ref> [[Ivory Coast]] (possibly)
+|died=
+|blood=
+|alias=
+|title = [[Seeker]]<ref name="PM"/>
+|hidep=
+|species=[[Human]]<ref name="PM"/>
+|gender=Female<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Seeker]] for the [[Ivorian National Quidditch team]]<ref name="PM"/>
+|house=
+|loyalty=[[Ivorian National Quidditch team]]<ref name="PM"/>
+|nationality = [[Ivory Coast|Ivorian]]<ref name="PM"/>
+}}
+'''Sylvian Boigny''' was an [[Ivory Coast|Ivorian]] [[Wizardkind|witch]] who played as the [[Seeker]] for the [[2014]] [[Ivorian National Quidditch team]]. During the first match of the [[2014 Quidditch World Cup]] against [[Norwegian National Quidditch team|Norway]], Boigny was beaten by her opposite [[Sigrid Kristoffersen]] to the [[Golden Snitch]] after 128 minutes of play, securing a win for Norway.<ref name="PM">{{PM}} - [[NORWAY VERSUS IVORY COAST]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Boigny, Sylvian}}
+[[de:Sylvian Boigny]]
+[[fr:Sylvian Boigny]]
+[[pl:Sylvian Boigny]]
+[[ru:Сильвиан Бойгни]]
+[[Category:Females]]
+[[Category:Ivorian individuals]]
+[[Category:Seekers]]
+[[Category:Wizards]]

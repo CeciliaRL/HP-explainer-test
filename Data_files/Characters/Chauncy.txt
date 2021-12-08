@@ -1,0 +1,50 @@
+{{HogwartsMysterySpoiler}}
+{{Youmay|the Hufflepuff student|[[Chauncey Oldridge]]}}
+{{Individual infobox
+|theme = hufflepuff
+|image = Chauncy.jpg
+|name = Chauncy
+|born = [[31 August]] [[1974]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="y2sq"/>
+|gender = Male<ref name="y2sq"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="y2sq"/>
+|eyes = Hazel<ref name="y2sq"/>
+|skin = White<ref name="y2sq"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="y2sq"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="y2sq"/>
+**[[Hufflepuff]]<ref name="y2sq"/>
+}}
+'''Chauncy''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|sorted]] into [[Hufflepuff]].<ref name="y2sq">{{HM|2|A Sweet Assignment}} {{c|Hufflepuff players only}}</ref>
+
+==Biography==
+In or before the [[1985–1986 school year]], he helped [[Philip]] preparing for a [[Charms (class)|Charms]] exam, and he wanted give him some sweets in return.<ref name="y2sq"/>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+[[ru:Чонси]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Wizards]]

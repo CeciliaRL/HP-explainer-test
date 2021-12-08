@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Goliath's slayer
+|born = Israel<br />Biblical times<ref name="POAG"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''boy''' slew the [[giant]] mercenary [[Goliath]] using only a [[catapult]] during the [[Israelite-Philistine war|war]] between the [[Israelites]] and [[Philistines]] in [[Bible|Biblical]] times.<ref name="POAG">{{POA|G}}</ref>
+
+==Behind the scenes==
+*In the book [[Wikipedia:Books_of_Samuel|1 Samuel]] of the {{wplink|Old Testament}}, [[David (king)|King David]] slays the giant Goliath with a slingshot as a child, but the [[Chocolate Frog Card]] for Goliath only refers to the giant's slayer as a "young boy" and does not explicitly name David. This may have to do with the fact that in 2 Samuel, [[Wikipedia:Elhanan, son of Jair|Elhanan, son of Jair]] is credited for killing Goliath, rather than David. Alternatively, the producers of the game in which the card appears may have wished to avoid naming David to avoid offending religious sensibilities.
+*Giants in the ''Harry Potter'' universe are said to be between twenty and twenty five feet tall. According to a common interpretation of the Bible, Goliath was about 9 feet 9 inches, making him extremely short by giant standards (but still taller than the {{w|Robert Wadlow|tallest recorded human}}), suggesting that he may have been a [[Half-giant]]. Other interpretations place his height at about 6 feet 7 inches, a more realistic height for a human who was still extremely tall by the standards of the time, making the term "Giant" descriptive.
+*Though David's weapon is sometimes depicted as a [[catapult]], historically it was more likely to have been a {{w|Sling (weapon)|sling}} weapon.
+
+==Appearances==
+*{{POA|G}} {{1st Mention}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Asesino de Goliath]]
+[[fr:Tueur de Goliath]] 
+[[pl:Dawid]]
+[[Category:B.C. era births]]
+[[Category:Biblical figures]]
+[[Category:Humans]]
+[[Category:Males]]

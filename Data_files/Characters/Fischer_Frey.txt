@@ -1,0 +1,66 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = slytherin
+|image = Fisher Frey from Harry Potter Magic Awakened.png
+|name = Fischer Frey
+|born = Between [[1 September]] [[1996]] and [[31 August]] [[1997]]{{MATimeRef}}
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="MA"/>
+|gender = Male<ref name="MA"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="MA"/>
+|eyes = Brown<ref name="MA"/>
+|skin = Pale<ref name="MA"/>
+|family = *[[Colby Frey]] (younger twin brother)<ref name="MA"/>
+*Frey family
+|romances = 
+|animagus = 
+|boggart = 
+|wand = [[Fischer Frey's wand|12¼, Ash, Unicorn hair]]<ref name="info">{{MA}} - [https://mp.weixin.qq.com/s/tJWhnBOxIdZGbesIk1mBJw Frey brothers' character profile]</ref>
+|patronus = [[Crocodile]]<ref name="info"/>
+|job = 
+|house = [[Slytherin]]
+|loyalty = *Frey family<ref name="MA"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="MA"/>
+**[[Slytherin]]<ref name="MA"/>
+}}
+'''Fischer Frey''' was a [[Wizardkind|wizard]] who started attending [[Hogwarts School of Witchcraft and Wizardry]] in [[2008]]{{MATimeRef}} and was a member of [[Slytherin]] house. He was the older<ref name="MA138">{{MA|1|38}}</ref> [[Twins|twin]] brother of [[Colby Frey]].<ref name="MA">{{MA}}</ref>
+
+==Biography== 
+At the age of eleven, he and Colby began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[Slytherin]] house. They befriended [[Cassandra Vole]], and she led their group in bullying their fellow students including [[Daniel Page]].<ref name="MA"/>
+
+They went to the [[Hogwarts Library|Library]] one night to find a newspaper article about Daniel. Daniel, [[Ivy Warrington]] and their [[Unidentified 2000s Hogwarts student|friend]] found out that they had broken curfew and went to find out why. They watched the group at a distance, until Colby noticed and told Cassandra.<ref name="MA"/>
+
+==Personality and traits==
+Fischer had a mean-spirited personality and enjoyed bullying others with this friends.<ref name="MA"/> He was known to like [[Defence Against the Dark Arts]] and [[Quidditch]], and dislike [[History of Magic]] at Hogwarts.<ref name="info"/>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': Fischer was able to produce a corporeal [[Patronus Charm|Patronus]] in the form of a [[crocodile]], an exceptional [[magic]]al feat for a Hogwarts student.<ref name="info"/>
+*'''[[Defence Against the Dark Arts]]''': Fischer was known to enjoy the subject of Defence Against the Dark Arts at Hogwarts.<ref name="info"/>
+
+==Possessions==
+*'''[[Fischer Frey's wand|Wand]]''': Fischer's [[wand]] was 12¼ inches, made of [[ash]] with a [[unicorn hair]] [[Wand core|core]].<ref name="info"/>
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Frey, Fischer}}
+[[ru:Фишер Фрей]]
+[[Category:1990s births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Bullies]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in 2008]]
+[[Category:Twins]]
+[[Category:Wizards]]

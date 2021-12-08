@@ -1,0 +1,49 @@
+{{Youmay|the broom-maker|[[Barnaby (disambiguation)|someone of the same name]]}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Barnaby Ollerton
+|born = Prior to [[1926]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Bob Ollerton]] (brother)
+*[[Bill Ollerton]] (brother)
+*[[Gifford Ollerton]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Broom-maker]]
+|house = 
+|loyalty = [[Ollerton family]]
+}}
+'''Barnaby Ollerton''' (fl. 1926) was a [[Wizardkind|wizard]] who, along with his brothers [[Bob Ollerton|Bob]] and [[Bill Ollerton]], founded the [[Cleansweep Broom Company]] in [[1926]].<ref>{{QTA|R|9}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ollerton, Barnaby}}
+[[de:Barnaby Ollerton]]
+[[fr:Barnaby Ollerton]]
+[[pl:Barnaby Ollerton]]
+[[pt-br:Barnabé Ollerton]]
+[[Category:British individuals]]
+[[Category:Broom-makers]]
+[[Category:Males]]
+[[Category:Ollerton family]]
+[[Category:Wizards]]

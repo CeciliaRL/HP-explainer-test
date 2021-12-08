@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Old man
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="TBB"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="TBB"/>
+|gender = Male<ref name="TBB"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Old man's family (The Wizard and the Hopping Pot)|Family]]<ref name="TBB"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Dialogue a-b|Old man|'Tis my old donkey, sir. Lost, she is, or stolen, and without her I cannot take my wares to market, and my family will go hungry tonight.|Wizard|And I am hungry now!|The old man and the [[Wizard (The Wizard and the Hopping Pot)|Wizard]]|The Tales of Beedle the Bard (real)}}
+
+The '''old man''' was a character in the tale ''[[The Wizard and the Hopping Pot]]'' by [[Beedle the Bard]]. His [[Old man's donkey (The Wizard and the Hopping Pot)|donkey]] either ran away or was stolen, and he asked the [[Wizard (The Wizard and the Hopping Pot)|Wizard]] to help him, for without the donkey to carry his wares to the market, his family would starve. The Wizard rudely refused to help him.<ref name="TBB">{{TBB|R}} - Chapter 1 (''The Wizard and the Hopping Pot'')</ref>
+
+==Appearances==
+*{{TBB|R}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Tales of Beedle}}
+
+[[es:Anciano (El Mago y el Cazo Saltarín)]]
+[[Category:Fictional characters]]
+[[Category:Males]]
+[[Category:The Wizard and the Hopping Pot]]
+[[Category:Unidentified Muggles]]

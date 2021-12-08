@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Dr Ubbly
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+*Inventor
+*Potioneer
+|house=
+|loyalty=
+}}
+'''Dr Ubbly''' was a [[potioneer]] that created the medicinal [[Dr Ubbly's Oblivious Unction|Oblivious Unction]] potion. The potion was applied by [[Poppy Pomfrey]] to help [[Ronald Weasley|Ron Weasley]] heal after he was attacked by brains during the [[Battle of the Department of Mysteries]] in [[1996]].<ref>{{OOTP|B|38}}</ref>
+
+==Appearances==
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Potions}}
+
+[[es:Dr Ubbly]]
+[[fr:Dr Oubbly]]
+[[pl:Ubbly]]
+[[Category:Doctors]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Inventors]]
+[[Category:Potioneers]]
+[[Category:Wizards]]

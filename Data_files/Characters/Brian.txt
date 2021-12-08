@@ -1,0 +1,44 @@
+{{Cut content}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Brian
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Brian''' was a boy who lived at [[Godric's Hollow]]. On the night of [[31 October]] [[1981]], he dressed up as a [[vampire]] for a [[Hallowe'en]] party in his house: mistaking a hooded [[Tom Riddle|Lord Voldemort]] for a friend who was late for the party, he approached him, only to be stricken with fear as he peered into the man's hood and quickly stumbled back into his yard.<ref name=":0" />
+
+==Behind the scenes==
+*Brian was present in some earlier drafts of {{PS|FA}}, he was, however, cut from newer edits and is not seen in the final version.<ref name=":0">{{HPPS}}, Page 24 {{see image|File:Brian_Ref.jpg}}</ref>
+
+==Appearances==
+*{{PS|F}} {{Comment|Earlier drafts}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Non-canonical characters]]

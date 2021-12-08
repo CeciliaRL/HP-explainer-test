@@ -1,0 +1,44 @@
+{{Individual infobox
+|name = Barnabus Finkley
+|image = 
+|born = 
+|died = 
+|blood = 
+|nationality = 
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="DH18"/>
+|gender = Male<ref name="DH18"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|house = 
+|job = 
+|loyalty = [[Barnabus Finkley Prize for Exceptional Spell-Casting]]<ref name="DH18"/>
+|theme = wizard
+}}
+'''Barnabus Finkley''' was a [[Wizardkind|wizard]] and the [[Barnabus Finkley Prize for Exceptional Spell-Casting]] was named in his honour. Thus, he was presumably an exceptional [[spell]]-caster.<ref name="DH18">{{DH|B|18}}</ref>
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{DH|F1}} {{C|Mentioned in book}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Finkley, Barnabus}}
+[[de:Barnabus Finkley]]
+[[fr:Barnabus Finkley]]
+[[pl:Barnabus Finkley]]
+[[ru:Варнава Финкли]]
+[[Category:Males]]
+[[Category:Wizards]]

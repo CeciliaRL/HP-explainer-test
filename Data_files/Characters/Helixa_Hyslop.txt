@@ -1,0 +1,52 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Helixa Hyslop
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WBoS"/>
+|gender = Female<ref name="WBoS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Syna Hyslop]] (twin sister)<ref name="WBoS"/>
+*Other unnamed relatives<ref name="WBoS"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Spell creation|Spell inventor]]<ref name="WBoS"/>
+|house = 
+|loyalty = 
+}}
+'''Helixa Hyslop''' was a [[wizardkind|witch]] who, along with her twin sister, [[Syna Hyslop|Syna]], invented the [[Doubling Charm]].<ref name="WBoS">{{WBS}}</ref>
+
+==Biography==
+The twins were an eccentric pair who lived together in a mansion all of their lives and preferred to keep to themselves. After they died, their relatives discovered that there were two identical copies of everything in their home, right down to the set of hand-written instructions for the Doubling Spell that they each left on one of the pair of matching tables in the kitchen.<ref name="WBoS"/>
+
+==Appearances==
+*{{WBS}} {{1st Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Charms}}
+{{DEFAULTSORT:Hyslop, Helixa}}
+[[es:Helixa Hyslop]]
+[[fr:Helixa Hyslop]]
+[[pl:Helixa Hyslop]]
+[[Category:Females]]
+[[Category:Hyslop family]]
+[[Category:Spell inventors]]
+[[Category:Twins]]
+[[Category:Wizards]]

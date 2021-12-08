@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Bagby
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Female<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Patrick Bagby]] (son)<ref name="HBPG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *Bagby family<ref name="HBPG"/>
+*[[Quidditch]]<ref name="HBPG"/>
+}}
+{{Quote|Mum says if I tried harder, I could be a good [[Seeker]] - but I'm not that keen on [[Quidditch]].|Patrick talking about his mother and the [[Quidditch]]|Harry Potter and the Half-Blood Prince (video game)}}
+'''Mrs Bagby''' was the mother of the [[Hufflepuff]] student [[Patrick Bagby]]. She loved [[Quidditch]] and would have loved for her son to have been [[Seeker]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Behind the scenes==
+*This particular individual was only mentioned in the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{HBP|G}} {{1st Mention}} {{Comment|NDS version only}}
+
+==Notes and references==
+{{Reflist}}[[pl:Matka Patricka Bagby'ego]]{{DEFAULTSORT:Bagby, Patrick's mother}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

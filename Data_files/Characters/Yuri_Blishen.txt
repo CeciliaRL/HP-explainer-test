@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Yuri Blishen
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Blishen family]]
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+Author
+|house=
+|loyalty=
+}}
+
+'''Yuri Blishen''' was the author of ''[[Advanced Rune Translation]]''.<ref>{{HPLE}}</ref>
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{Comment|Name seen on book cover}}
+*{{MHP}} {{Mention}}
+*{{HPLE}} {{C|Name seen on book cover}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Blishen, Yuri}}
+[[es:Yuri Blishen]]
+[[pl:Yuri Blishen]]
+[[fr:Yuri Blishen]]
+[[Category:Authors]]
+[[Category:Blishen family|Yuri]]
+[[Category:Males]]
+[[Category:Wizards]]

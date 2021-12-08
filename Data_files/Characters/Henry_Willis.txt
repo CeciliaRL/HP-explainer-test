@@ -1,0 +1,41 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=Henry Willis.jpg
+|name=Henry Willis
+|born=[[27 April]] [[1821]]<ref name="wiki">{{wikilink|Henry Willis}}</ref>
+|died=[[11 February]] [[1901]]<ref name="wiki"/>
+|blood=
+|marital=
+|nationality=English<ref name="wiki"/>
+|alias="Father" Willis<ref name="wiki"/>
+|title=
+|signature=
+|species=
+|gender=
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|romances=
+|job=Organ builder<ref name="wiki"/>
+|loyalty=
+}}
+'''Henry Willis''', also known as '''"Father" Willis''' ([[27 April]] [[1821]] – [[11 February]] [[1901]]) was a [[Great Britain|British]] organ builder, the foremost of the [[Wikipedia:Victorian era|Victorian era]].<ref name="wiki"/>
+
+There was an organ built by Henry Willis at the [[New York City Hall|City Hall]], in [[New York]].<ref>{{FB|F}} {{See image|File:Henry Willis.jpg}}</ref> In [[1926]], during [[Henry Shaw Junior]]'s re-election [[Fundraising Dinner for the Re-election of Senator Henry Shaw|fundraising dinner]], a strange, haunting noise started to issue from the organ pipes at the end of the room, interrupting Shaw's speech, just before [[Obscurus|a huge and bestial rush of wind]] burst forth from beneath the organ, smashing up the party and killing Shaw.<ref name="FB58">{{FB|S|58}}</ref>
+
+==Appearances==
+*{{FB|F}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Willis, Henry}}
+[[Category:1821 births]]
+[[Category:1901 deaths]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Musicians]]

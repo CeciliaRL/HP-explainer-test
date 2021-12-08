@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = Hugo Mattingley.jpg
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref name="age">He was at least in his first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = Light brown<ref name="HBPG"/>
+|eyes = 
+|skin = White<ref name="HBPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Ravenclaw]]<ref name="HBPG"/>
+}}
+'''Hugo Mattingley''' was a [[Wizardkind|wizard]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="POAG">{{POA|G}}</ref> He was usually seen spending time in the [[Middle Courtyard|Transfiguration Courtyard]] during the [[1996–1997 school year]]. He was a fan of [[Gilderoy Lockhart]]. Unlike most people who thought that the [[Potions Master]] [[Horace Slughorn]] was a stakeholder, Trevor thought that he was a good teacher.<ref name="HBPG">{{HBP|G}}</ref>
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|console versions]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console version}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Mattingley, Hugo}}
+[[pl:Hugo Mattingley]]
+[[fr:Hugo Mattingley]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gilderoy Lockhart's fans]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

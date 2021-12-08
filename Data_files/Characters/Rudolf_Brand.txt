@@ -1,0 +1,47 @@
+{{Individual infobox
+|name = Rudolf Brand
+|image = [[File:Rudolf_Brand.png]]
+|born = Before [[1936]], [[Germany]] (possibly)
+|died = 
+|nationality = [[Germany|German]]<ref name="QTA7"/>
+|marital = 
+|title = [[Quidditch Captain]]<ref name="QTA7"/>
+|species = [[Human]]<ref name="QTA7"/>
+|gender = Male<ref name="QTA7"/>
+|skin = 
+|eyes = 
+|hair =
+|weight = 
+|height = 
+|family = [[Igor Brand]] (possibly)
+|wand = 
+|patronus = 
+|boggart = 
+|animagus = 
+|house = 
+|job = [[Captain]] of the [[Heidelberg Harriers]]<ref name="QTA7"/>
+|loyalty = *[[Heidelberg Harriers]]<ref name="QTA7"/>
+*[[Brand family]]<ref name="QTA7"/>
+|theme = quidditch-player
+}}'''Rudolf Brand''' was a [[Germany|German]] [[wizardkind|wizard]] who was the [[Quidditch]] [[Captain]] of the [[Heidelberg Harriers]]. Following a seven-day match against the [[Holyhead Harpies]] in [[1953]], he proposed to his opposite number, [[Gwendolyn Morgan]]. She, in response, concussed him with her [[Cleansweep Five]] [[broomstick]].<ref name="QTA7">{{QTA|R|7}}</ref>
+
+==Etymology==
+"Rudolf" is from the Germanic name ''Hrodulf'', which was derived from the elements ''hrod'' "fame" and ''wulf'' "wolf". It was borne by three kings of Burgundy, as well as several Habsburg rulers of the Holy Roman Empire and [[Austria]].
+
+==Appearances==
+*{{QTA|R}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Brand, Rudolf}}
+[[de:Rudolf Brand]]
+[[es:Rudolf Brand]]
+[[fr:Rudolf Brand]]
+[[pl:Rudolf Brand]]
+[[pt-br:Rodolfo Brand]]
+[[ru:Рудольф Бранд]]
+[[Category:Brand family]]
+[[Category:German individuals]]
+[[Category:Males]]
+[[Category:Quidditch Captains]]
+[[Category:Wizards]]

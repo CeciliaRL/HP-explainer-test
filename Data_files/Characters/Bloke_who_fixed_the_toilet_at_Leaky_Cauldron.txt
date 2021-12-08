@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Bloke who fixed the toilet at Leaky Cauldron
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="POAF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAF"/>
+|gender = Male<ref name="POAF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employee at the [[Leaky Cauldron]]<ref name="POAF"/>
+|house = 
+|loyalty = [[Leaky Cauldron]]<ref name="POAF"/>
+}}
+{{Dialogue a-b-a-b-a-b-a|Fred|Oh, not a [[soul]].|George|Unless you count [[Tom]]. . .|. . .the [[Day maid at Leaky Cauldron|day maid]]. . .|. . .the [[Night maid at the Leaky Cauldron|night maid]]. . .|. . .the [[Cook at the Leaky Cauldron|cook]]. . .|. . .the bloke who fixed the toilet. . .|. . .and that [[Leaky Cauldron wizard from Belgium|wizard from Belgium]].|[[Fred and George Weasley]]|Harry Potter and the Prisoner of Azkaban (film)}}
+This '''individual''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who worked as an employee for the [[Leaky Cauldron]]. He fixed the toilet at the [[Leaky Cauldron]] in [[1993]]. [[Ronald Weasley]] showed him the [[Daily Prophet articles|Daily Prophet article]] of his holiday in [[Egypt]].<ref name="POAF">{{POA|F}}</ref>
+
+==Appearances==
+*{{POA|F}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Leaky Cauldron}}
+[[es:Plomero que reparó el baño del Caldero Chorreante]]
+[[Category:British individuals]]
+[[Category:Leaky Cauldron employees]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

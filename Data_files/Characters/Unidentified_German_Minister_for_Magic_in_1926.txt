@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Unidentified German Minister of Magic
+|born = Before [[1909]]<ref name="age">He was likely of age before becoming Minister.</ref>
+|died =   
+|blood = 
+|nationality = [[Germany|German]]<ref name="FBF"/>
+|marital = 
+|alias =  
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBF"/>
+|gender = Male<ref name="gender">In German, a female Minister is called a Ministerin.</ref>
+|height = 
+|hair = 
+|eyes =  
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = German [[Minister for Magic]]<ref name="FBF"/>
+|house = 
+|loyalty = [[German Ministry of Magic]]<ref name="FBF"/>
+}}
+This '''individual''' was a [[Germany|German]] [[wizardkind|wizard]] who served as the German [[Minister for Magic]], and thus head of the [[German Ministry of Magic|German wizarding government]], in [[1926]].<ref name="FBF"/>
+
+In that year, he was called to an emergency meeting, as was reported in a [[German]]-language wizarding newspaper by [[Julia Dehoff]].<ref name="FBF">{{FB|F}} {{see image|File:GermanWizardingNewspaper.jpg}}</ref>
+
+==Appearances==
+*{{FB|F}} {{1st Mention}} {{Mention|newspaper}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Ministre de la Magie allemand]]
+[[Category:German Ministers for Magic]]
+[[Category:Males]]
+[[Category:Wizards]]

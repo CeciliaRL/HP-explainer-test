@@ -1,0 +1,51 @@
+{{Youmay|the famous house-elf|[[Hokey]], [[Hepzibah Smith]]'s [[house-elf]]}}
+{{Individual infobox
+|theme = house-elf
+|image = [[File:Hooky.jpg|250px]]
+|name = Hooky the House-Elf
+|born = Before [[1993]]<ref name="POAG"/>
+|died =
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="POAG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[House-elf]]<ref name="POAG"/>
+|gender = Male<ref name="gender">According to the Portuguese version of the game.</ref>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Servant (presumably)<ref name="POAG"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|Hooky the House-Elf!|[[Hermione Granger]] after finding his statue|Harry Potter and the Prisoner of Azkaban (video game)}}
+'''Hooky''' was a famous [[house-elf]],<ref name="POAG">{{POA|G}} - Console versions</ref> though what he achieved or was well-known for is unknown.
+
+==History==
+A small statue of Hooky was located in the [[dungeons]] of [[Hogwarts Castle]], at the bottom of a corridor full of [[Wiggenweld Potion]]s, [[Potions (class)|Potions]] equipment, and ingredients. However, it is unlikely that he worked there at the [[Hogwarts School of Witchcraft and Wizardry|school]] due to [[Hermione Granger]]'s absent knowledge of his kind in the castle.<ref name="POAG"/>
+
+Hooky's statue was one of those required by Hermione in order to complete a challenge set by [[Fred Weasley|Fred]] and [[George Weasley]] during the [[1993–1994 school year]]. Every time she found a set of three statues, she was allowed to read a chapter of ''[[The Dark Forces: A Guide to Self-Protection]]''.<ref name="POAG"/>
+
+==Appearances==
+*{{POA|G}} {{1st}} {{Statue}} {{C|Console versions}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts below ground floor}}
+[[ru:Хуки]]
+[[fr:Hooky]]
+[[es:Hooky]]
+[[Category:British individuals]]
+[[Category:House-elves]]
+[[Category:Males]]
+[[Category:Statues]]

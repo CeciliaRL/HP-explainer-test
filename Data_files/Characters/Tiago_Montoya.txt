@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Harry Potter- Quidditch World Cup 03.jpg|250px]]
+|name = Tiago Montoya
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Spain|Spanish]]<ref name="QWC"/>
+|alias = 
+|title = [[Beater]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Dark brown<ref name="QWC"/>
+|eyes = 
+|skin = White (Tanned)<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] of the [[Spanish National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[Spanish National Quidditch team]]<ref name="QWC"/>
+}}
+'''Tiago Montoya''' was a [[Spain|Spanish]] [[Wizardkind|wizard]] who played as a [[Beater]] on the [[Spanish National Quidditch team]] in [[1994]].<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Montoya's [[Chocolate Frog Card]] could be won by beating [[Gladys Prescott]] at a [[Quidditch]] challenge.<ref name="HBPG">{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Etymology==
+''Tiago'' is Portuguese for "James". ''Montoya'' is a common Spanish surname derived from "monte", the Spanish word for hill.<ref>[http://heraldicahispana.com/ApA/monedero-montoya.htm Heraldic Hispana]</ref>
+
+Together with teammate [[Inigo Fuente Marrero|Iñigo Fuente]], this character's name may be a reference to Íñigo Montoya from the fantasy comedy romance novel (and [[wikipedia:The Princess Bride (film)|film]]) ''[[wikipedia:The Princess Bride|The Princess Bride]]''.
+
+==Appearances==
+*{{QWC}} {{1st}} 
+*{{HBP|G}} {{C|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Montoya, Tiago}}
+
+[[es:Tiago Montoya]]
+[[fr:Tiago Montoya]]
+[[pl:Tiago Montoya]]
+[[ru:Тьяго Монтойя]]
+[[Category:Beaters]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Males]]
+[[Category:Spanish individuals]]
+[[Category:Wizards]]

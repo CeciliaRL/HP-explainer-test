@@ -1,0 +1,73 @@
+{{Individual infobox
+|theme = wizard
+|image = Clarisse.png
+|name = Clarisse Lestrange (née Tremblay)
+|born = No later than [[December]] [[1879]] - [[March]] [[1880]]<ref>{{COG|S|103}}: Leta says that Corvus "remarried not three months after her [Laurena's] death", which would imply that Clarisse is ''at least'' 17 and of age at the time. Laurena died sometime between September and December 1896, so Clarisse was (at least) 17 between December 1896 (three months after the ''earliest'' Laurena could have died) and March 1897 (three months after the ''latest'' Laurena could have died). March 1897 - 17 = March 1880, which is the latest date she can be born.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Blonde<ref>{{COG|S|103}}</ref>
+|eyes = 
+|skin = 
+|family = *[[Bernard Tremblay]] (father)<ref name="family tree">[[Lestrange family]] tree {{See image|File:Lestrange family tree.png}}</ref>
+*[[Leonie Tremblay]] (mother)<ref name="family tree"/>
+*[[Falco Tremblay]] (brother)<ref name="family tree"/>
+*[[Corvus Lestrange (IV)|Corvus Lestrange]] (husband/paternal second cousin & maternal first cousin)<ref name="family tree"/>
+*[[Corvus Lestrange (V)|Corvus Lestrange]] (son/second cousin once removed & first cousin once removed)<ref name="family tree"/>
+*[[Leta Lestrange]] (stepdaughter/second cousin once removed & first cousin once removed)<ref name="family tree"/>
+*[[Falco Lestrange]] (grandfather)<ref name="family tree"/>
+*[[Salomé Lestrange]] (grandmother)<ref name="family tree"/>
+*[[Eglantine Lestrange]] (aunt/mother-in-law)<ref name="family tree"/>
+*[[Tremblay family]]
+*[[Lestrange family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Tremblay family]]
+*[[Lestrange family]]
+}}
+'''Clarisse Lestrange''' (née '''Tremblay''') was a [[wizardkind|witch]] and a member of the [[pure-blood]] [[Lestrange family]]. She was the daughter of [[Bernard Tremblay]] and [[Leonie Tremblay|Leonie Lestrange]], and the sister of [[Falco Tremblay|Falco]]. She married [[Corvus Lestrange (IV)|Corvus Lestrange]] and had a son with him, [[Corvus Lestrange (V)|Corvus]].<ref name="FB88">{{FB|S|88}}</ref><ref name="FB96">{{FB|S|96}}</ref><ref name="COGteaser">{{COG}} {{see image|File:LestrangeFamilyTree HighRes.png}}</ref>
+
+==Biography==
+Clarisse Tremblay was the second wife of [[Corvus Lestrange (IV)|Corvus Lestrange]], her first cousin.<ref name="COGteaser" /> She married him after his first wife, Laurena, had died in childbirth. In [[1901]], at the age of at least twenty one, she gave birth to a son, named Corvus after his father.<ref name="COGteaser" /> At some point thereafter, her son was separated from his family.<ref name="FB88" /><ref name="FB96" /> Her later fate is unknown.
+
+==Etymology==
+*The name Clarisse stems from the Latin word "clarus", meaning "bright or clear."
+*Tremblay is a topographical name that stems from the Old French word "tremblaie", meaning "aspen" or "a place planted with aspens."
+==Behind the scenes==
+*Clarisse Tremblay is played by [[Sabine Crossen]] in {{COG}}. The character is named "Mrs Lestrange" on her resume.<ref>[http://www.imdb.com/name/nm1644336/ IMDb]</ref>
+
+==Appearances==
+*{{FB|S}} {{1st Mention}}
+*{{FB|F}} {{Mention}}
+*{{COG|S}} {{1st}} {{1st ID}} {{Flashback}}
+*{{COG}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lestrange, Clarissel}}
+
+[[de:Clarisse Lestrange]]
+[[es:Clarisse Tremblay]]
+[[pl:Clarisse Lestrange]]
+[[fr:Clarisse Tremblay]]
+[[ru:Кларисса Лестрейндж]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Lestrange family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Tremblay family]]
+[[Category:Wizards]]

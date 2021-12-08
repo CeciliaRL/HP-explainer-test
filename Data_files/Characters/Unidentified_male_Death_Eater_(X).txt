@@ -1,0 +1,40 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = death-eater
+|image = 
+|name = Unidentified male Death Eater
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]] (most likely)<ref name="Blood">The Death Eaters and Voldemort were known to despite [[Muggle-born]]s and [[Non-magic people|Muggles]], and espouse [[pure-blood supremacy]].</ref>
+|nationality = 
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="OOTP20"/>
+|gender = Male<ref name="OOTP20"/>
+|skin = 
+|eyes = 
+|hair = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus =  
+|boggart = 
+|wand = 
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|job = 
+|house = 
+|loyalty = *[[Tom Riddle|Lord Voldemort]]<ref name="OOTP20"/>
+**[[Death Eaters]]<ref name="OOTP20"/>
+}}
+This unnamed '''[[Death Eaters|Death Eater]]''' and [[Walden Macnair]] were sent by [[Tom Riddle|Lord Voldemort]] to convince the [[Giant]]s to join him in [[1995]]. They arrived and tried to convince the new [[Gurg]] [[Golgomath]] to join them. He eventually agreed and then told this Death Eater and Macnair how [[Rubeus Hagrid]] and [[Olympe Maxime]] had tried to convince the old Gurg [[Karkus]] to join the [[Order of the Phoenix]] led by [[Albus Dumbledore]]. Then this Death Eater and Macnair started searching the caves but soon after Hagrid and Maxime left.<ref name="OOTP20">{{OOTP|B|20}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males|Death eater]]
+[[Category:Unidentified Death Eaters|Male Death Eater (X)]]

@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme=quidditch-player
+|image=
+|name=Petrova Porskoff
+|hideb=yes
+|born=
+|died=
+|blood=
+|alias=
+|nationality=[[Russia]]n<ref name="QTA"/>
+|title=[[Chaser]]<ref name="QTA"/>
+|hidep=
+|species=[[Human]]<ref name="QTA"/>
+|gender=Female<ref>http://www.babynames.org.uk/russian-girl-baby-names-m-z.htm</ref>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=yes
+|family=
+|hidem=yes
+|animagus=
+|boggart=
+|wand=
+|broom=
+|patronus=
+|hidea=
+|house=
+|job=[[Chaser]]<ref name="QTA"/>
+|team=
+|loyalty=
+}}'''Petrova Porskoff''' was a [[Russia]]n [[Wizardkind|witch]] and [[Chaser]]. The [[Porskoff Ploy]] was named after Porskoff, and the likelihood is that Porskoff invented that [[Quidditch]] tactic.<ref name="QTA">{{QTA|R}}</ref>
+
+==Behind the scenes==
+*Petrova is a Russian surname, not a given name. Additionally, surnames ending in -off (Westernised spelling of the traditional -ov suffix) are male, while those ending in -ova (like Petrova) are female.
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Porskoff, Petrova}}
+
+[[de:Petrova Porskoff]]
+[[fr:Petrova Porskoff]]
+[[pl:Pietrowna Porskowa]]
+[[ru:Пётр Порсков]]
+[[pt-br:Petrova Porskoff]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:Russian individuals]]
+[[Category:Wizards]]

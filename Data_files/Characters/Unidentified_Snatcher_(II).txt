@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=snatcher
+|image=[[File:Unidentified Snatcher II.png]]
+|name=Unidentified Snatcher (II)
+|hideb=
+|born=
+|died=
+|blood=[[Half-blood]] or [[Pure-blood]]<ref name="blood">As a Snatcher, he would not have been [[Muggle-born]], as they were hunted by Snatchers.</ref>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DH23"/>
+|gender=Male<ref name="DH23"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=1
+|family=
+|hidem=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=1
+|job=[[Snatchers|Snatcher]]<ref name="DH23"/>
+|house=
+|loyalty=[[Snatchers]]<ref name="DH23"/>
+}}
+This '''individual''' was one of [[Fenrir Greyback]]'s [[snatchers]] who helped capture [[Harry Potter|Harry]], [[Ronald Weasley|Ron]] and [[Hermione Granger|Hermione]].<ref name="DH23">{{DH|B|23}}</ref>
+
+==Behind the scenes==
+*This snatcher was played by [[Chase Armitage]] in {{DH|F1}}.
+
+==Appearances==
+*{{DH}} {{1st}}
+*{{DH|F1}}
+
+==Notes and references==
+{{Reflist}}[[pt-br:Sequestrador não identificado (II)]]
+[[Category:British individuals]]
+[[Category:Males|Snatcher (II)]]
+[[Category:Unidentified snatchers]]

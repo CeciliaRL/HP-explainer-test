@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:94-merton_graves.png|250px]]
+|name = Merton Graves
+|born = [[1978]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Brown
+|skin = White
+|family = [[Gondulphus Graves]] (possibly) <br/> [[Percival Graves]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Cellist for the [[Weird Sisters|The Weird Sisters]]
+|house = 
+|loyalty = *[[Weird Sisters|The Weird Sisters]]
+*[[Graves family]]
+}}
+'''Merton Graves''' (b. [[1978]]) was a [[Wizardkind|wizard]] and the cellist for the popular [[Wizarding world|wizarding]] band [[Weird Sisters|The Weird Sisters]].<ref>{{PS|G}}</ref><ref>{{COS|G}}</ref>
+
+==Behind the scenes==
+*If he attended [[Hogwarts School of Witchcraft and Wizardry]], he would have been in school from around [[1989]] to [[1996]], making him a [[third year]] during [[Harry Potter]]'s first year there, and a [[sixth year]] during the [[Triwizard Tournament]], when the [[Weird Sisters]] performed at Hogwarts for the [[Yule Ball]].
+*Merton Graves and [[Herman Wintringham]] were absent from {{GOF|FA}}, and did not play with the [[Weird Sisters]].
+*It's possible he is a relative of the ''[[Fantastic Beasts (film series)|Fantastic Beasts and Where to Find Them]]'' character [[Percival Graves]].
+
+==Etymology==
+The name "Merton" is from a surname which was derived from a place name meaning "town on a lake" in Old English.
+
+==Appearances==
+*{{PS|G}} 
+*{{COS|G}} {{1st}}
+*{{GOF}} {{Comment|Unnamed}}
+
+==Notes and references==
+{{Reflist}}
+
+
+{{Weird Sisters}}
+{{Chocolate Frog Cards}}
+{{DEFAULTSORT:Graves, Merton}}
+[[de:Merton Graves]]
+[[es:Merton Graves]]
+[[fi:Merton Graves]]
+[[fr:Merton Graves]]
+[[pl:Merton Graves]]
+[[Category:1978 births]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Brown-eyed individuals]]
+[[Category:Graves family|Merton]]
+[[Category:Males]]
+[[Category:Weird Sisters]]
+[[Category:Wizards]]

@@ -1,0 +1,49 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = John Bunyan
+|born = [[30 November]] [[1628]] ([[Christening|baptised]])
+|died = [[31 August]] [[1688]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Writer
+|house = 
+|loyalty = 
+}}
+'''John Bunyan''' ([[Christening|baptised]] [[30 November]] [[1628]] - [[31 August]] [[1688]]) was an [[England|English]] writer and Baptist preacher best known for his [[1678]] [[Christianity|Christian]] allegorical novel ''[[The Pilgrim's Progress]]''.<ref name="wikipedia">"[https://en.wikipedia.org/wiki/John_Bunyan John Bunyan]" on Wikipedia</ref>
+
+[[Albus Dumbledore]] kept a multi-volume edition of ''The Pilgrim's Progress'' on his desk in the [[Headmaster's office]] at [[Hogwarts Castle]].<ref name="MHP">{{MHP}} {{see image|File:Tales and Fantasies by Robert Louis Stevenson.jpg}}</ref>
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{C|Mentioned on book cover}}
+*{{MHP}} {{C|Mentioned on book cover}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Bunyan, John}}
+[[Category:1628 births]]
+[[Category:1688 deaths]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Clergy]]
+[[Category:Males]]
+[[Category:Muggles]]

@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Hazel Stickney
+|born = [[31 August]] [[1982]] or earlier<ref name="age">She was at least in her first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Female<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="POAG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAG"/>
+**[[Ravenclaw]]<ref name="POAG"/>
+}}
+'''Hazel Stickney''' was a [[Wizardkind|witch]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She was seen walking around the school during the [[1993-1994 school year]].<ref name="POAG">{{POA|G}}</ref>
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Stickney, Hazel}}
+[[pl:Hazel Stickney]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

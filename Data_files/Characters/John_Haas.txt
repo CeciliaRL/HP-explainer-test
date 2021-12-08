@@ -1,0 +1,32 @@
+{{Real world subject}}
+{{Individual infobox
+|name = John A. Haas
+|born = c. [[1903]]
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|job = Bookkeeper for the [[Columbia Bank]]
+|loyalty = [[Columbia Bank]] (formerly)
+|theme = muggle
+}}
+'''John A. Haas''' (born c. [[1903]]) was an [[United States of America|American]] [[Muggle|No-Maj]] man who worked as a bookkeeper for the [[Columbia Bank]] in [[New York]] in the [[1920s]].<ref name="fb-paper">"[http://www.gazette-du-sorcier.com/Compte-rendu-ouverture-de-l-exposition-Harry-Potter-a-Bruxelles-pour-Noel Compte-rendu : ouverture de l’exposition Harry Potter à Bruxelles pour Noël]" from the Gazette du Sorcier {{see image|File:New York Chronicle - Monday Dec 1926 (HQ).png}}</ref><ref name="eveningworld">[http://chroniclingamerica.loc.gov/lccn/sn83030193/1922-11-21/ed-1/seq-1/ Front page of the 21 November 1922 issue of ''The Evening World''] from Chronicling America</ref>
+
+==Biography==
+On [[6 December]] [[1926]], Haas was arraigned in the Centre Street Police Court for the crime of defrauding the Columbia Bank of $121,000 along with his alleged accomplice, [[William Friend]].<ref name="fb-paper" /><ref name="eveningworld" /> [[Mayer]] and [[Brown]], the detectives in charge of the case, stated they had never seen such a "slovenly, almost unbelievably simple" system of forging accounting records to hide fraud as that used by Haas and Friend.<ref name="fb-paper" /><ref name="eveningworld" /> Another man, [[Joseph Friend|Joseph H. Friend]], was also sought by police in relation to the case, having disappeared soon after hearing of Haas' dismissal from the Columbia Bank on [[2 December|December 2]].<ref name="fb-paper" /><ref name="eveningworld" /> The case was reported in the 6 December 1926 issue of the ''[[New York Chronicle]]''.<ref name="fb-paper" />
+
+==Behind the scenes==
+*The text of the article mentioning John A. Haas in the [[:File:New York Chronicle - Monday Dec 1926 (HQ).png|prop issue]] of the ''[[New York Chronicle]]'' featured in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'' was taken from the real [[21 November]] [[1922]] issue of ''[[wikipedia:The Evening World|The Evening World]]''.<ref name="eveningworld" /> This represents an anachronism, as the film is set in [[1926]], but the actual events referenced occurred in 1922.
+
+==Appearances==
+*{{FB|F}} {{comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Haas, John A.}}
+[[Category:1903 births]]
+[[Category:Accountants]]
+[[Category:American individuals]]
+[[Category:Articles containing anachronistic information]]
+[[Category:Con artists]]
+[[Category:Males]]
+[[Category:Muggles]]

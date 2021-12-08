@@ -1,0 +1,30 @@
+{{WizardsUniteSpoiler}}
+{{Pet individual infobox
+|image = Barny the Fruitbat in Butterbeer advert.jpg
+|name = Barny the Fruitbat
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Fruit bat]]<ref name="QTA7"/>
+|gender = Male<ref name="QTA7"/>
+|height = 
+|hair = Black or brown
+|feathers = 
+|eyes = Black or brown
+|skin = 
+|family = 
+|loyalty = [[Ballycastle Bats]]<ref name="QTA7"/>
+}}
+'''Barny the [[Fruit bat|Fruitbat]]''' was the mascot for the [[Ballycastle Bats]] [[Quidditch]] [[Quidditch team|team]]. Barny was also featured in advertisements for [[Butterbeer]], with the slogan ''Barny says: I'm just batty about Butterbeer!''<ref name="QTA7">{{QTA|B|7}}</ref>
+
+==Appearances==
+*{{QTA}} {{1st Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Barny]] 
+[[pl:Gacek Stodolak]]
+[[Category:Bats]]
+[[Category:Males]]
+[[Category:Mascots]]

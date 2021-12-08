@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Quidditch Player
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Beater]]<ref name="WU"/>
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Female<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="WU"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="WU"/>
+**[[Gryffindor]]<ref name="WU"/>
+***[[Gryffindor Quidditch team]]<ref name="WU"/>
+}}
+This '''girl''' was a [[Wizardkind|witch]] and student at [[Hogwarts School of Witchcraft and Wizardry]] circa the [[2010]]s.<ref name="WU">{{WU}} "Brilliant Event: The Quidditch Cup"</ref>
+
+==Biography==
+During her time at Hogwarts, she was [[Sorting ceremony|sorted]] into [[Gryffindor]] [[Hogwarts Houses|House]]. At some point by the [[2019–2020 school year]], she became the [[Beater]] of [[Gryffindor Quidditch team]].<ref name="WU"/>
+
+On the eve of the final [[Gryffindor Quidditch team|Gryffindor]]-[[Slytherin Quidditch team|Slytherin]] matches of the [[Inter-House Quidditch Cup|Hogwarts Inter-House Quidditch Cup]] she expressed concern that the school's [[Bludger]]s might be affected by the [[Calamity]]. [[Headmaster|Headmistress]] [[Minerva McGonagall]] assured her that they will be every bit as vicious as usual.<ref name="WU"/>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+[[Category:21st century births]]
+[[Category:Beaters]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:Gryffindor Quidditch Captains Plaque.jpg]]
+|name = Filemina Alchin
+|born = Between [[1681]] and [[1685]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+**[[Gryffindor Quidditch team]]
+}}
+'''Filemina Alchin''' (b. [[1670s]]/[[1680s|80s]]) was a [[Gryffindor]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1690s]]. She was once [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Gryffindor Quidditch team]] from [[1692]] to [[1696]].<ref>{{HPE}} {{See image|File:Gryffindor Quidditch Captains Plaque.jpg}} and {{see image|File:Gryffindor Captains Plaque.jpg}}</ref>
+
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+*{{HPE}} {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Astrix Alixan]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Gryffindor Quidditch team]]
+|years=[[1692]]—[[1696]]
+|successor=[[Angelina Appleby]]
+}}
+{{End box}}
+
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Alchin, Filemina}}
+
+[[es:Filemina Alchin]]
+[[fr:Filemina Alchin]]
+[[pl:Filemina Alchin]]
+[[pt-br:Filemina Alchin]]
+[[Category:17th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Sorted in the 17th century]]
+[[Category:Wizards]]

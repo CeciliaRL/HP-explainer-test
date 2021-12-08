@@ -1,0 +1,34 @@
+{{Individual_infobox
+|image = VaultsGuardian.png
+|name = Vaults Guardian
+|born = Before [[1992]]
+|died = [[August]] [[1992]]<br/>[[Spellbook vault]], [[Gringotts Wizarding Bank]], [[Diagon Alley]], [[London]], [[England]]<ref name="COSG"/>
+|species = [[Giant Fire Crab]]<ref name="COSG"/>
+|eyes = Yellow<ref name="COSG"/>
+|job = [[Gringotts Wizarding Bank|Gringotts]] Security Guard<ref name="COSG"/>
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="COSG"/>
+|theme = gringotts
+}}
+{{Quote|The spellbook for ''Incendio'' is behind this door, but so is the Vaults Guardian. If you want to unlock the door, you'll need five gemstones to create a special key. I cannot help you find them.|A Gringotts [[Goblin]]|Harry Potter and the Chamber of Secrets (video game)}}
+The '''Vaults Guardian''' was a [[Giant Fire Crab]] placed in [[Spellbook vault|one of the vaults]] of [[Gringotts Wizarding Bank]] to guard the [[Incendio spellbook|spellbook]] for the [[Fire-Making Spell]] contained within. Gaining access to the vault required a [[Spellbook vault key|special key made of five different coloured gemstones]].<ref name="COSG">{{COS|G}} {{C|GBA version}}</ref>
+
+==Behind the scenes==
+*In the GBA version of [[Harry Potter and the Chamber of Secrets (video game)|the video game adaptation]] of {{COS}}, [[Harry Potter]] had to defeat this creature to learn the Fire-Making Spell and clear the [[cobweb]]s blocking the entrance to [[Vault 687]].
+
+==Appearances==
+*{{COS|G}} {{1st}} {{C|GBA version}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+
+[[es:Guardián de las bóvedas]]
+[[Category:1992 deaths]]
+[[Category:Deaths by explosion]]
+[[Category:Deaths by fire]]
+[[Category:Fire Crabs]]
+[[Category:Gringotts employees]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Killed by Harry Potter]]
+[[Category:Security guards]]
+[[Category:Yellow-eyed individuals]]

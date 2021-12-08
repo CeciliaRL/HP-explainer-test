@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:QCM Keiko Takahashi.jpg|250px]]
+|name = Keiko Takahashi
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Japan]]ese
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Pale
+|family = [[Minaka Hirakata|Minaka Takahashi]] (sister)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[Japanese National Quidditch team]]
+|house = 
+|loyalty =*[[Mahoutokoro]]<ref>{{WW|mahoutokoro}}</ref>
+ *[[Japanese National Quidditch team]]
+}}
+'''Keiko Takahashi''' was a [[Japan]]ese [[Wizardkind|witch]] who played as a [[Beater]] on the [[Japanese National Quidditch team]].<ref>{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Takahashi's [[Chocolate Frog Card]] could be won by beating [[Felicity Eastchurch]] at an [[Exploding Snap]] challenge.<ref>{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Appearances==
+*{{QWC}}
+*{{HBP|G}} {{C|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Takahashi, Keiko}}
+
+[[es:Keiko Takahashi]]
+[[fr:Keiko Takahashi]]
+[[pl:Keiko Takahashi]]
+[[ru:Кэйко Такахаси]]
+[[Category:Beaters]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Japanese individuals]]
+[[Category:Mahoutokoro students]]
+[[Category:Wizards]]

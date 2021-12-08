@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Jennifer Winston
+|hideb=
+|born=
+|died=Reported missing in [[1997]]
+|blood=
+|alias=
+|title=
+|hidep=
+|species=
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=1
+|family=
+|hidem=1
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=1
+|job=
+|house=
+|loyalty=
+}}
+'''Jennifer Winston'''<ref>Closed captions on the DVD/Blu-ray of {{DH|F1}}</ref> was a [[Wizardkind|witch]] who was reported missing on the ''[[Potterwatch]]'' wireless programme in [[1997]]. Her disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.
+
+==Appearances==
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Jennifer Winston]]
+[[fr:Jennifer Winston]]
+{{DEFAULTSORT:Winston, Jennifer}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

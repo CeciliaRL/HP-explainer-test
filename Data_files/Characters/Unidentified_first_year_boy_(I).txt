@@ -1,0 +1,55 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Unidentified first year boy.png]]
+|name = Unidentified first year boy
+|born = Between [[1 September]] [[1973]] and [[31 August]] [[1974]]<ref name="HM2">{{HM|2|Q1|9}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown<ref name="HM2"/>
+|eyes = Blue<ref name="HM2"/>
+|skin = Light<ref name="HM2"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]] or [[Slytherin]]
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''[[Wizardkind|wizard]]''' was a student who attended [[Hogwarts School of Witchcraft and Wizardry]] during [[Jacob's sibling]]'s time at school.<ref name="HM2"/>
+
+==Biography==
+{{Quote|An autograph from Wigtown Wanderer [[Ethan Parkin]]? Brilliant!|This boy to [[Skye Parkin]]|Harry Potter: Hogwarts Mystery}}
+He was born somewhere in [[Great Britain]] or [[Ireland]] during the early [[1970s]]. He began attending [[Hogwarts School of Witchcraft and Wizardry]] in the [[1985–1986 school year]].<ref name="HM2"/>
+
+In his first year, he spotted [[Skye Parkin]] and [[Jacob's sibling]] in the [[common room]] of his house. Skye told the boy to leave and tell no one, which he agreed to do when Skye promised him an autograph from [[Ethan Parkin|her father]].<ref name="HM2"/>
+
+==Behind the scenes==
+*Which house he is in depends on that of [[Jacob's sibling]] (chosen by the player). If Jacob's sibling is in [[Gryffindor]], [[Hufflepuff]] or [[Slytherin]], this boy is in [[Ravenclaw]]. If [[Jacob's sibling]] is in Ravenclaw, he is in Slytherin.
+*He is a fan of the [[Quidditch team]] [[Wigtown Wanderers]].<ref name="HM2"/>
+*It is possible that he is [[Teddy Taylor]].
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Sorted in 1985]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

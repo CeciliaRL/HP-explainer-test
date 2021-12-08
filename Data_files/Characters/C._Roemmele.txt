@@ -1,0 +1,53 @@
+{{Transcribed image|File:DudleyAward1.jpg}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = C. Roemmele
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = [[Headmaster|Headmistress]]
+|signature = [[File:C. Roemmele sig.png|180px]]
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Headmistress of [[St. Grogory's Primary School]]
+|house = 
+|loyalty = [[St. Grogory's Primary School]]
+}}
+'''C. Roemmele'''<ref name="hppts">{{HPPS}}, p. 403 {{see image|File:DudleyAward1.jpg}}</ref> was a [[Non-magic people|Muggle]] woman who was headmistress of [[St. Grogory's Primary School]] in the early [[1990s]].<ref name="PS2"/>
+
+==Biography==
+She once sent a letter to [[Vernon Dursley|Vernon]] and [[Petunia Dursley]] informing them that their nephew and ward, [[Harry Potter]], had been "climbing school buildings," when he had in fact [[underage magic|unintentionally]] [[Flight|flown]] onto the school roof while trying to hide from his cousin [[Dudley Dursley|Dudley]] and his [[Dudley Dursley's gang|gang]].<ref name="PS2">{{PS|B|2}}</ref>
+
+On [[22 June]], [[1991]], Roemmele presented Dudley with [[Headteacher's Award|an award]] for "always eating up his lunch."<ref name="hppts">{{HPPS}}, p. 403 {{see image|File:DudleyAward1.jpg}}</ref>
+
+==Behind the scenes==
+*This character is referred to simply as "Harry's headmistress" in {{PS}}. Her name was first revealed on a prop award certificate featured in this novel's [[Harry Potter and the Philosopher's Stone (film)|film adaptation]].
+
+==Appearances==
+*{{PS}} {{1st Mention}} {{Comment|As "Harry's headmistress"}}
+*{{PS|F}} {{1st ID}} {{Comment|Name seen on award certificate}}
+*{{HPPS}} {{Comment|Name seen on award certificate}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Roemmele, C.}}
+[[pl:C. Roemmele]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Headmistresses]]
+[[Category:Muggles]]

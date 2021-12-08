@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Winston
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Winston's niece|Niece]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Winston''' was the uncle of a [[Winston's niece|female Hogwarts student]]. He once had a [[curse]] placed on him and never could get rid of it.<ref>{{PS|G}} - GBC version</ref>
+
+==Etymology==
+The name "Winston" is from a surname derived from an English place name, which was in turn derived from the Old English given name Wynnstan meaning "joy stone". A famous bearer was Winston Churchill (1874-1965), the British [[Prime Minister]] during World War II. This name was also borne by the fictional Winston Smith, the protagonist in [[George Orwell]]'s 1949 novel ''1984''.
+
+==Appearances==
+*{{PS|G}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Winston]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,38 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Chester Hidland
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Playwright
+|house=
+|loyalty=
+}}
+'''Chester Hidland''' was an [[United States of America|American]]<ref>The critical quote on the [[:File:Oh, Rosana!.png|prop poster]] for the play featured in the film ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'' hails it as "one of the great works of the American musical theatre," suggesting that those directly involved in the play's creation, including Hidland, were American.</ref> [[Muggle|No-Maj]] playwright. He adapted a book by [[Edmund Major II]] into the musical play ''[[Oh, Rosana!]]''.<ref name="rosana">{{FB|F}} {{See image|File:Oh, Rosana!.png}}</ref>
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Hidland, Chester}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Playwrights]]

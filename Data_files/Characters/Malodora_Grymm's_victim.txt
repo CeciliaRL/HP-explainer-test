@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Malodora Grymm's victim
+|born = [[Middle Ages]]<ref name="POAG"/>
+|died = [[Middle Ages]]<ref name="POAG"/>
+|blood = [[Non-magic people|Muggle]]<ref name="POAG"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Female<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''girl''' was said to have been the most beautiful in the kingdom. After the [[Hag]] [[Malodora Grymm]], wife of [[Malodora Grymm's husband|the King]], became aware of her beauty through her [[talking mirror]], she used a [[poison]]ed [[Apple (fruit)|apple]] which she gave to her, which put her into a deep sleep. She appears to have been inserted into the [[Non-magic people|Muggle]] fairy tale, ''[[Snow White and the Seven Dwarves]]''.<ref name="POAG">{{POA|G}}</ref>
+
+==Appearances==
+*{{POA|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Victime de Malodora Grymm]]
+[[pl:Magiczne lustro Malodory Grymm]]
+[[Category:European individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Sleep]]
+[[Category:Unidentified Muggles]]

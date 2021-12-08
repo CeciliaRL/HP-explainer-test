@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Boy who kept a bezoar in his pocket's brother
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSgba"/>
+|gender = Male<ref name="PSgba"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Boy who kept a bezoar in his pocket|Brother]]<ref name="PSgba"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|My brother told me if you take off fast enough, you can look back and see the top of your head.|Shortly before his first [[Flying (class)|Flying]] lesson|Harry Potter and the Philosopher's Stone (video game)}}
+This '''individual''' was the older brother of a [[Ravenclaw]] [[first year]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]] in the [[1991–1992 school year]].<ref name="PSgba">{{PS|G}} - GBA version</ref>
+
+In [[1991]], before the [[first year|first-years']] first [[Flying (class)|Flying]] lesson, his brother spent some time chatting about it in the [[Dungeons]]. According to him, this individual had told him that it was possible for one to take off with such speed that one could look back and see the top of one's head.<ref name="PSgba"/>
+
+==Appearances==
+*{{PS|G}} {{1st Mention}} {{C|GBA version}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unnamed family members]]

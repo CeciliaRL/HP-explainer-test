@@ -1,0 +1,78 @@
+{{Conjecture}}
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|name = Talbott Winger's mother
+|image = 
+|born = 
+|died = Between [[1978]]<ref>{{HM|3|Birds Of A Feather|3}} - Talbott mentioned that his father snuck a poem he wrote in a newspaper when he was six years old. As Talbott was born in [[1972]] or [[1973]], the earliest he could have turned six was [[1978]]. As such, Talbott's father was still alive in 1978. As both of Talbott's parents died in the same attack, she was also alive in 1978.</ref> and [[1981]]
+|marital = Married
+|blood = 
+|alias = 
+|title = [[Healer]]
+|nationality = [[Great Britain|British]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|skin = 
+|hair = 
+|height = 
+|eyes = 
+|weight = 
+|family = *[[Talbott Winger's father|Husband]] †
+*[[Talbott Winger]] (son)
+*[[Winger family]]
+|romances = [[Talbott Winger's father|Husband]] †
+|animagus = [[White Swan]]<ref name="HM3A"/>
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Healer]]
+|house = 
+|loyalty = *[[Winger family]]
+*[[St Mungo's Hospital for Magical Maladies and Injuries]]
+|theme = st-mungo-employee
+}}
+'''Talbott Winger's mother''' was a [[Wizardkind|witch]] who opposed [[Tom Riddle|Lord Voldemort]] during the [[First Wizarding War]], though neither she nor [[Talbott Winger's father|Talbott's father]] joined any defence organisation.
+
+==Biography==
+At some point in her life, she trained to become [[Healer]], and worked as one at [[St Mungo's Hospital for Magical Maladies and Injuries]], a [[Wizardkind|wizarding]] hospital in [[London]]. She was also an [[Animagus]], and in preparation for an attack, taught her son how to become one.<ref name="HM3A"/>
+
+She grew [[pumpkin]]s in her garden.<ref name="garden date">{{HM}}, Garden Date with Talbott</ref>
+
+She and her husband were vehemently opposed to the [[Dark Wizard]] [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]]' reign of terror across [[Great Britain]], although she and her husband, for some reason, did not join the [[Order of the Phoenix]]. One day, she and Talbott's father were murdered by [[Death Eaters]], though their son managed to escape, due to Animagus ability to transform into an [[Eagle]] at will, allowing him to fly away to safety.<ref name="HM3A">{{HM|3|Become an Animagus|3}} {{c|info only revealed should the player choose to participate this time-limited Side Quest, and reach a specific stage before the task ended.}}</ref>
+
+In the [[1986–1987 school year]], [[Barnaby Lee]] made up the claim that Talbott's mother was a [[Mermaid]].<ref name="HM3A1">{{HM|3|Become an Animagus|1}}</ref>
+
+==Personality and traits==
+She was evidently a mothering and kind soul, as shown by her work as a [[Healer]], and by nurturing upbringing of her son. She evidently [[love]]d and cared about her son Talbott immensely and his welfare, as she taught her son to become an Animagus, in order to help him escape danger should he have needed to, an ability which saved her son's life. She was also clearly a very powerful and accomplished witch in her own right, as shown by her career path and her very remarkable ability to have become an Animagus.
+
+==Magical abilities and skills==
+*'''[[Healing magic]]''': As a professional [[Healer]] employed at [[St Mungo's Hospital for Magical Maladies and Injuries]], she would have been an expert in the art of medical [[magic]], including with [[healing spell]]s, healing potions and other magical remedies.
+*'''[[Transfiguration]]''': Talbott's mother was remarkably skilled in [[Human Transfiguration|Self-Transfiguration]] that she was able to become an [[Animagus]]. She could transform into a [[White Swan]] at will.<ref name="HM3A"/> In addition, she would have received at least an "[[Exceeds Expectations]]" or an "[[Outstanding]]" in this [[Transfiguration (class)|subject]] at both [[Ordinary Wizarding Level|O.W.L.]] and [[Nastily Exhausting Wizarding Test|N.E.W.T.]] level, as it is a compulsory requirement for Healer training.<ref name="OOTP29">{{OOTP|B|29}}</ref>
+*'''[[Potion]]s''': For her career, she would have been very skilled and knowledgeable in the brewing of various healing potions. She would have received either an "Exceeds Expectations" or "Outstanding" at both O.W.L. and N.E.W.T. level in the [[Potions (class)|subject]], as is the requirement for all Healers.<ref name="OOTP29"/> She would have also successfully brewed the [[Animagus potion]] in order to complete her Animagus training, a potion known for being very time-consuming and complex, showing her to have been highly proficient in the art of potion-making.
+*'''[[Herbology]]''': As part of her job, she believed in using fresh herbal ingredients for healing, so she kept a garden in her home of magical and mundane plants. It also influenced Talbott to be interested in the subject at Hogwarts. She would have received either an "Exceeds Expectations" or "Outstanding in this subject at both N.E.W.T and O.W.L. level, as it is a compulsory requirement for Healer training.<ref name="OOTP29"/>
+*'''[[Charm]]s''': As a Healer, she would have achieved either an "Exceeds Expectations" or "Outstanding" at both O.W.L. and N.E.W.T. level in this [[Charms (class)|subject]], as it is a compulsory requirement for Healer training.<ref name="OOTP29"/>
+*'''[[Defence Against the Dark Arts]]''': She would received either an "Exceeds Expectations" or "Outstanding" at both O.W.L. and N.E.W.T. level in this subject, as it is a compulsory subject requirement for all Healers.<ref name="OOTP29"/> She would have been proficient with medicating or curing health conditions and injuries caused by [[Dark Arts|dark magic]], such as by using [[counter-curse]]s.
+
+==Appearances==
+*{{HM}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Animagi}}
+{{St Mungo's}}
+{{DEFAULTSORT:Winger, Talbott mother}}
+[[es:Madre de Talbott Winger]]
+[[fr:Mère de Talbott Winger]]
+[[Category:Animagi]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:First Wizarding War casualties]]
+[[Category:Healers]]
+[[Category:Married individuals]]
+[[Category:Murder victims]]
+[[Category:St Mungo's employees]]
+[[Category:Unnamed family members]]
+[[Category:Winger family]]
+[[Category:Wizards]]
+[[Category:Parents]]

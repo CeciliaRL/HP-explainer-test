@@ -1,0 +1,38 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|name = Erie Yenning
+|born = Before [[2003]]
+|nationality = [[Great Britain|British]]
+|title = [[Magical Law Enforcement Officer|Officer]]
+|species = [[Human]]
+|gender = 
+|hair = 
+|job = Employee in the [[Misuse of Muggle Artefacts Office]]
+|loyalty = *[[British Ministry of Magic]]
+**[[Department of Magical Law Enforcement]]
+***[[Misuse of Muggle Artefacts Office]]
+|theme = mom
+}}
+'''Erie Yenning'''<ref>{{WU}} ([https://us.v-cdn.net/6031576/uploads/3CZS7223VG6G/screen-shot-2020-07-20-at-4-09-52-pm.png See here])</ref>''' '''(fl. [[2003]]) was a [[Great Britain|British]] [[Wizardkind|wizard or witch]] who worked in the [[Misuse of Muggle Artefacts Office]] at the [[British Ministry of Magic|Ministry of Magic]].<ref name="OTP7">{{WU}}</ref>
+
+==Biography==
+
+=== Early life ===
+Born somewhere in the [[Great Britain|British Isles]], Erie Yenning was the scion of a family of unknown wizarding descent. Like most other magical children born in the wizarding community of Great Britain, they presumably attended [[Hogwarts School of Witchcraft and Wizardry]] during their formative years,<ref>“Attendance is now compulsory for every young witch and wizard,” [Lupin] replied. “That was announced yesterday. It’s a change, because it was never obligatory before. Of course, nearly every witch and wizard in Britain has been educated at Hogwarts, but their parents had the right to teach them at home or send them abroad if they preferred.”- Remus Lupin, {{DH}}.</ref> and may have chosen to take [[Muggle Studies]], given their future occupation.
+
+=== Working for the Ministry ===
+Sometime after they turned seventeen, Erie joined the [[British Ministry of Magic|Ministry of Magic]] in [[London]] and became an [[Officer]] in the [[Department of Magical Law Enforcement]], in which capacity they worked for the [[Misuse of Muggle Artefacts Office]] along with others such as [[Myra Curio]]. While not as involved with the [[Statute of Secrecy Task Force]] as said colleague, Erie did become friendly with at least one of its members, whom they encountered at the Ministry during working hours. At some point, Yenning gifted this [[Calamity Investigator]] with a set of [[Dragon]]-fire tampered, [[Non-magic people|Muggle]]-made cauldrons that allowed for super-heated potion-making, which, while they normally would destroy most potions during the brewing process, proved to increase the effectiveness of the [[Potent Exstimulo Potion]].<ref name="OTP7" />
+
+==Behind the scenes==
+*As the name Erie is unisex, it is uncertain what the gender of this person is.
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Yenning, Erie}}
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Misuse of Muggle Artefacts Office personnel]]
+[[Category:Statute of Secrecy Task Force]]
+[[Category:Wizards]]

@@ -1,0 +1,82 @@
+{{individual infobox
+|theme=wizard
+|name=Roxanne Weasley
+|image=[[File:RoxanneWeasley.png|250px]]
+|hideb=
+|born=[[2000s]]
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[George Weasley]] (father)
+*[[Angelina Johnson]] (mother)
+*[[Fred Weasley II]] (brother)
+*[[William Weasley|Bill Weasley]] (paternal uncle)
+*[[Charles Weasley]] (paternal uncle)
+*[[Percy Weasley]] (paternal uncle)
+*[[Fred Weasley]] (paternal uncle) †
+*[[Ronald Weasley]] (paternal uncle)
+*[[Ginevra Weasley|Ginny Potter]] {{c|née [[Weasley family|Weasley]]}} (paternal aunt)
+*[[Fleur Delacour|Fleur Weasley]] {{c|née [[Delacour family|Delacour]]}} (paternal aunt by marriage)
+*[[Audrey Weasley]] (paternal aunt by marriage)
+*[[Harry Potter]] (paternal uncle by marriage)
+*[[Hermione Granger]] (paternal aunt by marriage)
+*[[Victoire Weasley]] (cousin)
+*[[Dominique Weasley]] (cousin)
+*[[Louis Weasley]] (cousin)
+*[[Molly Weasley II]] (cousin)
+*[[Lucy Weasley]] (cousin)
+*[[Rose Granger-Weasley]] (cousin)
+*[[Hugo Granger-Weasley]] (cousin)
+*[[James Potter II|James Sirius Potter]] (cousin)
+*[[Albus Potter|Albus Severus Potter]] (cousin)
+*[[Lily L. Potter|Lily Luna Potter]] (cousin)
+*[[Arthur Weasley]] (paternal grandfather)
+*[[Molly Weasley]] (paternal grandmother)
+*[[Angelina Johnson's father|Mr Johnson]] (maternal grandfather)
+*[[Weasley family]]
+*Johnson family
+|hidem
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=*[[Weasley family]]
+*[[Johnson family]]
+}}
+'''Roxanne Weasley''' (b. [[2000s]]) was the daughter of [[George Weasley]] and [[Angelina Johnson|Angelina Weasley]] (née Johnson). She had an older brother, [[Fred Weasley II|Fred]], who was named after her [[Fred Weasley|late uncle]].<ref name=WFT> [http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article3105517.ece Times Online - The Unwritten Story of Harry's Friends and Their Children]</ref> She may have shared her parents' love of [[Quidditch]], playing as either a [[Beater]] or a [[Chaser]].<ref>{{PM}} - [https://www.pottermore.com/features/the-weasley-family-tree The Weasley Family Tree]: ''"As her parents shared a love of Quidditch, it’s possible that they passed this on to their daughter. The question is, would Roxanne have played as a Beater or a Chaser?''"</ref>
+
+==Etymology==
+[[Wikipedia:Roxanne|Roxanne]] is an English spelling of the French name ''Roxane'', which in turn comes from the Greek name ''Roxana'', derived from the Persian ''Roshanak'', meaning "bright" or "dawn". Roxana was the name of [[Wikipedia:Alexander the Great|Alexander the Great]]'s first wife.<ref>[http://www.behindthename.com/name/roxana Behind the Name: Roxana]</ref> Also, Roxanne is the name of a main character in Edmond Rostand's play ''[[Wikipedia:Cyrano de Bergerac|Cyrano de Bergerac]]'', who is the love interest of the eponymous hero.
+
+==Appearances==
+*''[[J.K. Rowling: A Year in the Life]]'' {{1st Mention}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Weasley, Roxanne}}
+[[de:Roxanne Weasley]]
+[[es:Roxanne Weasley]]
+[[fr:Roxanne Weasley]]
+[[it:Roxanne Weasley]]
+[[ru:Роксана Уизли]]
+[[pl:Roxanne Weasley]]
+[[Category:2014 Quidditch World Cup attendees]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:House of Black descendants]]
+[[Category:Prewett family descendants]]
+[[Category:Weasley family]]
+[[Category:Wizards]]

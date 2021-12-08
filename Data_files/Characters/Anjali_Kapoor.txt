@@ -1,0 +1,50 @@
+{{Imageless}}
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Anjali Kapoor
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = 
+}}
+'''Anjali Kapoor''' was a [[Gryffindor]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She was seen walking around the school during the [[1993-1994 school year]].
+
+==Etymology==
+Anjali is an Indian name of Sanskrit origin, it means "homage" or "tribute". Kapoor is a North Indian surname, widely found in the state of {{w|Punjab}}.
+
+==Behind the scenes==
+*Based on her name, she is most likely of [[India]]n descent.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Kapoor, Anjali}}
+[[pl:Anjali Kapoor]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Wizards]]

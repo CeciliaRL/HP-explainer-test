@@ -1,0 +1,53 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = quidditch-player
+|image = Lachlan MacKenzie.png
+|name = Lachlan MacKenzie
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Scotland|Scottish]]<ref name="MJM"/>
+|alias = 
+|title = [[Keeper]] (formerly)<ref name="MJM"/>
+|signature = 
+|species = [[Human]]<ref name="MJM"/>
+|gender = Male<ref name="MJM"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="MJM"/>
+|eyes = Brown<ref name="MJM"/>
+|skin = Light<ref name="MJM"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Keeper]] for the [[Banchory Bangers]] (formerly)<ref name="MJM"/>
+|house = 
+|loyalty = [[Banchory Bangers]] (formerly)<ref name="MJM"/>
+}}
+'''Lachlan MacKenzie''' was a [[Scotland|Scottish]] [[Wizardkind|wizard]] who was the former star [[Keeper]] of the disbanded [[Quidditch]] team the [[Banchory Bangers]]. 
+
+==Biography==
+Along with the other former members of the team, he attempted to steal a [[Hebridean Black]] [[dragon]] from [[Martin MacFusty]] and the [[MacFusty clan]] in order to use it as the team's mascot in hopes of returning the team to glory, but were prevented from doing so by [[Jacob's sibling]].<ref name="MJM">{{HM|6|More Than Just a Mascot}}</ref>
+
+==Magical abilites and skills==
+*'''[[Flight|Flying]]''': Given how he played the position of [[Keeper]] of the [[Banchory Bangers]],<ref name="MJM"/> he presumably had some ability flying a [[broomstick]], although his team were known for their poor skills.<ref name="QTA5">{{QTA|R|5}}</ref>
+
+==Behind the scenes==
+*If he was educated, he most likely went to [[Hogwarts School of Witchcraft and Wizardry]] as the [[Banchory Bangers]] were based in [[Scotland]] which Hogwarts resided in.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Stub}}
+{{Quidditch positions}}
+{{DEFAULTSORT:MacKenzie, Lachlan}}
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Scottish individuals]]
+[[Category:Wizards]]

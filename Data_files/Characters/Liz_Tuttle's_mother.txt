@@ -1,0 +1,64 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Tuttle
+|born = Before [[1973]]
+|died = 
+|blood = [[Pure-blood]] or [[half-blood]]<ref name="Blood">Both of her parents were wizards, her grandparents' blood status is unknown.</ref>
+|marital = 
+|nationality = [[Somalia]]n/[[Great Britain|British]]<ref name="HM51"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM51"/>
+|gender = Female<ref name="HM51"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Liz Tuttle's maternal grandfather|Father]]
+*[[Liz Tuttle's maternal grandmother|Mother]]
+*[[Lana Tuttle]] (daughter)
+*[[Liz Tuttle]] (daughter)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Tuttle family]]
+}}
+'''Mrs Tuttle''' was a [[Great Britain|British]] [[Wizardkind|witch]] and a [[Seer]]. She had at least two daughters, [[Lana Tuttle|Lana]] and [[Liz Tuttle|Liz]], who did not inherit her gift, to her disappointment.<ref name="HM51">{{HM|5|1}}</ref>
+
+==Biography==
+At some point in her early life, she lived in [[Somalia]] and was home-schooled in [[magic]] by her parents.<ref name="HM515">{{HM|5|15}}</ref>
+
+In her youth, Liz was taught [[astrology]] by her mother; after this, Liz "[would] never trust [[Mercury]] again".<ref name="HM716a">{{HM|7|16|a}}</ref> When Liz started her [[third year]] at [[Hogwarts School of Witchcraft and Wizardry]], her mother forced her to take [[Divination (class)|Divination]] as an elective.<ref name="HM62">{{HM|6|2|d}}</ref>
+
+==Magical abilities and skills==
+*'''[[Divination]]''': Liz Tuttle's mother was a [[Seer]], meaning she was naturally gifted with the [[Inner Eye]] and could receive genuine [[vision]]s of the future.<ref name="HM51"/>
+*'''[[Wandless magic]]''': Accoding to Liz, her mother was capable of performing wandless magic, which her parents taught her how to do in Somalia.<ref name="HM72">{{HM|7|2}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Divination}}
+
+{{DEFAULTSORT:Tuttle, Mrs}}
+
+[[de2:Mutter von Liz Tuttle]]
+[[es:Madre de Liz Tuttle]]
+[[Category:Somalian individuals]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Home-schooled individuals]]
+[[Category:Parents]]
+[[Category:Seers]]
+[[Category:Tuttle family]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

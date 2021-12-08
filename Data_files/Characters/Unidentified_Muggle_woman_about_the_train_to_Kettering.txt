@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|image = KetteringWoman.png
+|name = Unidentified Muggle woman about the train to Kettering
+|born = 
+|died = 
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|blood = [[Non-magic people|Muggle]]<ref name="COSG"/>
+|nationality = [[Great Britain|British]]<ref name="COSG"/>
+|species = [[Human]]<ref name="COSG"/>
+|gender = Female<ref name="COSG"/>
+|hair = Brown<ref name="COSG"/>
+|skin = Light<ref name="COSG"/>
+|eyes = Blue<ref name="COSG"/>
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|family = 
+|romances = 
+|house = 
+|job = 
+|loyalty = 
+|theme = muggle
+}}
+{{Quote|I saw the strangest [[House-elf|creature]] just now, hiding in the shadows. It looked to be part baby and part [[bat]], very creepy!|The Muggle woman after catching a glimpse of [[Dobby]]|Harry Potter and the Chamber of Secrets (GBC)}}
+This '''woman''' was a [[Great Britain|British]] [[Non-magic people|Muggle]] who witnessed a secrecy breach in [[1992]].<ref name="COSG">{{COS|G}} - GBC version</ref>
+
+==Biography==
+On [[September|1 September]], [[1992]], this woman stood near [[Platform Nine]] in [[King's Cross Station]] in [[London]], looking for the train going to [[Kettering]], but found a guide-board that showed it. She also glimpsed [[Dobby]] hiding in the shadows after he [[Blocked Barrier|blocked the barrier]] to [[Platform Nine and Three-Quarters]], unknowingly exposing herself to [[wizarding world]], describing him as a creepy "part baby and part [[bat]]" [[House-elf|creature]].<ref name="COSG"/>
+
+==Behind the scenes==
+*The woman's description of Dobby may be a reference to "Bat Boy" a fictional character created by the American tabloid magazine The [[wikipedia: Weekly World News|Weekly World News]]. Bat Boy also first appeared in 1992.
+
+==Appearances==
+*{{COS|G}} {{1st}} {{C|GBC version}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Secrecy breaches]]
+[[Category:Unidentified Muggles‎]]

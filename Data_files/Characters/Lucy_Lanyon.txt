@@ -1,0 +1,42 @@
+{{Imageless}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Lucy Lanyon
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]] or [[Ireland|Irish]]<ref name="FBC"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC"/>
+|gender = Female<ref name="FBC"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family =  
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Vendor at [[Zonko's Joke Shop]]<ref name="FBC"/>
+|house = 
+|loyalty = [[Zonko's Joke Shop]]<ref name="FBC"/>
+}}
+'''Lucy Lanyon''' was a [[Wizardkind|witch]] who was a vendor at [[Zonko's Joke Shop]]. She was involved in a case about a big flying creature seen over a train station.<ref name="FBC">{{FBC|11}}</ref>    
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}} 
+{{Hogsmeade}}
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Wizards]]
+{{Character-stub}}

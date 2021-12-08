@@ -1,0 +1,72 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:JarlethHobart.png|250px]]
+|name = Jarleth Hobart
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WonderbookGameDeubt"/>
+|alias = 
+|title = [[Warlock]]<ref name="WonderbookGameDeubt"/>
+|signature = 
+|species = [[Human]]<ref name="WonderbookGameDeubt"/>
+|gender = Male<ref name="WonderbookGameDeubt"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="WonderbookGameDeubt"/>
+|eyes = Green<ref name="WonderbookGameDeubt"/>
+|skin = Light<ref name="WonderbookGameDeubt"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Spell creation|Spell inventor]]<ref name="WonderbookGameDeubt"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|He eventually realised that he had invented a spell that would lift objects into the air and could cause them to hover for varying lengths of time, depending on their weight, and the skill of the spellcaster.|[[Miranda Goshawk]], ''[[Book of Spells]]''|Wonderbook: Book of Spells}}
+'''Jarleth Hobart''' (fl. [[1544]]) was a [[Great Britain|British]] [[warlock]], who became famous for the [[spell creation|creation]] of the [[Levitation Charm]], ''Wingardium Leviosa''.<ref name="WonderbookGameDeubt">[http://www.youtube.com/watch?v=qFbYrN1bPJg&feature=related "Wonderbook - E3 2012: Game Debut"] from [http://www.youtube.com/user/gametrailers?feature=watch GameTrailers]</ref>
+
+==Biography==
+[[File:HobartLevitating.jpg|180px|thumb|left|Hobart's first public use of the charm, on himself, in [[1544]]]]
+On [[16 July]], [[1544]], Hobart invited a large crowd of wizards, among which was the [[Chief Warlock of the Wizengamot in 1544|Chief Warlock of the Wizengamot]], to witness his "maiden flight" — a public demonstration of his own revolutionary charm on himself. He climbed onto the roof of his local church and, after several speeches and a rousing performance of the [[God Save the Queen|national anthem]] he leapt and, having cast the spell, was left hovering in mid-air. At first, he seemed to have succeeded<ref name="WonderbookGameDeubt"/> but, after having spent nearly three minutes watching him hanging in mid-air, the crowd grew impatient to see him move somewhere, and booed him.<ref name="WonderbookJarieth">[http://www.youtube.com/watch?v=cUS79K7jT4Q&feature=related "Sony Wonderbook: A Book of Spells by JK Rowling"] at [http://www.youtube.com/ Youtube]</ref> In response to the catcalls, Hobart tried to move in midair, and started performing vigorous swimming movements, which produced no effect. Mistakingly believing that his clothes were making him heavier and impeding his movement, Hobart stripped thus making him fall ten feet onto the ground below, as it were the clothes that were holding him up in the air — ''they'' had been charmed by the Levitation Charm, not Hobart himself. He fell completely naked on the ground, breaking sixteen bones, and went on to receive a fine for "outrageous silliness" from the [[Chief Warlock of the Wizengamot in 1544|Chief Warlock]].<ref name="WonderbookGameDeubt"/>
+
+Hobart returned home, humiliated, where he realised that his spell could make objects levitate for varying lengths of time, depending on the skill of the spellcaster and on the weight of the object. He also concluded that small animals or even children could be levitated, but that they had no control whatsoever of their movement once airbourne.<ref name="WonderbookGameDeubt"/>
+
+He thus made a second announcement, and an even larger crowd gathered to see his second demonstration of the spell (hoping for another laugh at his expense). Hobart's demonstration was, at first, by far more successful than the first one: he showed the onlookers how he could easily levitate objects ranging from small rocks to fallen trees. Hobart decided that, for a finale, he would levitate the [[Chief Warlock of the Wizengamot in 1544|Chief Warlock]]'s hat — what he managed to levitate, however, was the Chief's wig, exposing his bald head to the gathered crowd. The Chief was not amused, and was determined to [[Duelling|duel]] Hobart, but the warlock Levitated the Chief's robes over his head, and ran for it.<ref name="WonderbookGameDeubt"/>
+
+==Magical abilities and skills==
+*'''[[Spell creation]]''': Jarleth had accomplished the [[magic]]al art of creating new [[spell]]s, being the famous inventor of the [[Levitation Charm]], an incredibly impressive magical achievement given the immense complexity, danger and skill required in the development of spells.<ref name="WonderbookGameDeubt"/>
+*'''[[Charm]]s''': Jarleth was highly proficient in charm-work, being the first [[Wizardkind|wizard]] who invented and first made use of the highly practical and useful [[Levitation Charm]], having learnt how to make objects [[Levitation|fly]].<ref name="WonderbookGameDeubt"/>
+
+==Etymology==
+''Jarlath ''is a common Irish name, first used by Saint Iarlaithe mac Loga. Hence, it is probable that Hobart is Irish.
+
+Hobart is a form of Hubert [http://webspace.webring.com/people/ge/edgarbook/names/frames.html].
+
+==Behind the scenes==
+*In [[J. K. Rowling]]'s ''{{wplink|The Silkworm}}'', one of the major characters, Owen Quine, is an author who has published a novel titled ''Hobart's Sin''.
+*Interestingly, Jarleth Hobart's story bears some similarity to the legendary account of {{wplink|João Torto}}, a Portuguese man who, in 1540, reportedly jumped from the top of Viseu Cathedral to test his self-designed flying apparatus, later succumbing to his injuries.
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Charms}}
+{{DEFAULTSORT:Hobart, Jarleth}}
+[[es:Jarleth Hobart]]
+[[fr:Jarleth Hobart]]
+[[ru:Джарлет Хобарт]]
+[[pl:Jarleth Hobart]]
+[[pt-br:Jarleth Hobart]]
+[[Category:British individuals]]
+[[Category:Green-eyed individuals]]
+[[Category:Levitation]]
+[[Category:Males]]
+[[Category:Spell inventors]]
+[[Category:Warlocks]]
+[[Category:Wizards]]

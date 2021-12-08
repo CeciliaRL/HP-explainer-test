@@ -1,0 +1,47 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Alexander Pope
+|hideb=
+|born=[[21 May]], [[1688]]
+|died=[[30 May]], [[1744]] (aged 56)
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Poet
+|loyalty=
+}}
+'''Alexander Pope''' ([[21 May]], [[1688]]—[[30 May]], [[1744]]) was a [[Non-magic people|Muggle]] poet, best known for his satirical verse and for his translation of Homer.<ref>[[Wikipedia:Alexander Pope|"Alexander Pope"]] on [[Wikipedia:Main page|Wikipedia]]</ref>
+
+[[Albus Dumbledore]] was well read with Pope's work, quoting him ("''hope springs eternal''") on his analysis of the popular wizarding tale ''[[The Tale of the Three Brothers]]'', by [[Beedle the Bard]].<ref>{{TBB|R}} - ''Albus Dumbledore on "''The Tale of the Three Brothers''"''</ref>
+
+==Appearances==
+*{{TBB|R}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Alexander Pope]]
+[[de2:Alexander Pope]]
+[[es:Alexander Pope]]
+[[pl:Alexander Pope]]
+[[fr:Alexander Pope]]
+[[Category:1688 births|Pope, Alexander]]
+[[Category:1744 deaths]]
+[[Category:Authors|Pope, Alexander]]
+[[Category:English individuals|Pope, Alexander]]
+[[Category:Males|Pope, Alexander]]
+[[Category:Muggles|Pope, Alexander]]
+[[Category:Poets|Pope, Alexander]]
+[[Category:Deceased individuals]]

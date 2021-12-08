@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Lara Von Sigg
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[United States of America|American]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Reporter for ''[[The Wizard's Voice]]''
+|house = 
+|loyalty = ''[[The Wizard's Voice]]''
+}}
+'''Lara Von Sigg''' was an [[United States of America|American]] [[Wizardkind|witch]] and reporter for the ''[[The Wizard's Voice]]'' in [[1926]].<ref name="newspaper">{{FB|F}} {{See image|File:The Wizard's Voice - 6 Dec 1926.png}}</ref> Reporting from [[Houston]], she wrote an article revealing the secret [[wand core]] used by [[New Orleans]] [[wandmaker]] [[Violetta Beauvais]] to be [[rougarou]] [[Rougarou hair|hair]], which was published in the [[6 December]] 1926 issue of the newspaper.<ref name="newspaper" />
+
+==Appearances==
+*{{FB|F}} {{C|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Sigg, Lara Von}}
+[[fr:Lara Von Sigg]]
+[[pl:Lara Von Sigg]]
+[[ru:Лара фон Сигг]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Journalists]]
+[[Category:The Wizard's Voice staff]]
+[[Category:Wizards]]

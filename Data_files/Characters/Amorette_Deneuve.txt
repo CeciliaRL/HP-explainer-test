@@ -1,0 +1,51 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Amorette Deneuve
+|born=
+|died=
+|blood=
+|marital=
+|nationality=
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="WU"/>
+|gender=Female<ref name="WU"/>
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=Author, expert on [[Love]]<ref name="WU"/>
+|house=
+|loyalty=
+}}
+{{Quote|What makes us yearn for the comfort of others? Why does a broken heart hurt so? Love imbues itself into our very bones, our very souls. I believe that love is the greatest and most dangerous magic in the world.|Amorette Deneuve to [[Grim Fawley]]|Harry Potter: Wizards Unite}}
+'''Amorette Deneuve''' was a [[Wizardkind|witch]] and the foremost expert on [[Love Potion|love potions]] and [[Entrancing Enchantments|spells]]; she had many published works about [[Love]], among them, ''[[First Love, First Loss]]''.<ref name="WU">{{WU}} (see [https://wizardsunite.gamepress.gg/guide/mysteries-chapter-1-foundables-spell this])</ref>
+
+Even though he was originally of the opinion that Deneuve's work was "''sentimental blather''", [[Grim Fawley]] contacted Amorette Deneuve following the disappearance of his wife, [[Penelope Fawley|Penelope]].<ref name="WU"/>
+
+==Behind the scenes==
+
+* Shortly after the outbreak of the [[Calamity]] and the establishment of the [[Statute of Secrecy Task Force]], [[Gareth Greengrass]] commented on an article in the [[Quibbler]] with the headline; ''"The [[Unspeakable|Unspeakables]] Expand in Secret! What Are They Hiding?''", and confirmed the truth of it, saying; "''We had a 143 year old retire because he kept forgetting everything - literally, everything. Another member wanted to go and write novels. So, we replaced them both - with [[Grim Fawley|Grim]] and [[Regina Rowle]].''"<ref>{{WU}}</ref> Considering that Amorette specialises in love, a topic studied in the [[Department of Mysteries]], it is possible that she is this second member they replaced, and that the content of her books pertains at least partially to declassified research material from back then.  
+
+*
+
+== Appearances==
+
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Deneuve, Amorette}}
+[[Category:Authors]]
+[[Category:Females]]
+[[Category:Theoreticians]]
+[[Category:Wizards]]

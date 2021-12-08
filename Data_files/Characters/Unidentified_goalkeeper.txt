@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Unidentified goalkeeper
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="DHG1"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHG1"/>
+|gender = Male (most likely)<ref name="DHG1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Professional goalkeeper<ref name="DHG1"/>
+|house = 
+|loyalty = Football<ref name="DHG1"/>
+}}
+{{Quote|And it's two-nil to City, the goal bouncing in off the post and past the keeper's outstretched arms!|Match report from [[Unidentified Muggle football commentator|a football commentator]] on a [[Non-magic people|Muggle]] radio broadcast.|Harry Potter and the Deathly Hallows: Part 1 (video game)}}
+This '''individual''' was a [[Non-magic people|Muggle]] and a professional goalkeeper. On [[1 August]], [[1997]], this individual's team played against [[City (football club)|City]], and suffered at least two goals.<ref name="DHG1">{{DH|G1}}</ref>
+
+==Appearances==
+*{{DH|G1}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

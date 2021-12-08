@@ -1,0 +1,35 @@
+{{Individual infobox
+|image = JODELLE VOLANT.jpg
+|name = Jodelle Lestrange
+|blood = [[Pure-blood]] 
+|nationality = [[France|French]]
+|marital = Married
+|species = [[Human]]
+|gender = Female
+|family = *[[Floxel Lestrange]] (husband)
+*[[Quintilla Lestrange]] (daughter)
+*[[Fulcran Lestrange (III)|Fulcran Lestrange]] (son-in-law)
+*[[Cyrille Lestrange (IV)|Cyrille Lestrange]] (brother-in-law)
+*[[Cyrille Lestrange (III)|Cyrille Lestrange]] (father-in-law)
+*[[Luminosa Lestrange]] (mother-in-law)
+*[[Nozéa Lestrange]] (granddaughter)
+|loyalty = *[[Volant family]]
+*[[Lestrange family]]
+|theme = wizard
+}}
+'''Jodelle Lestrange''' (née '''Volant''') was a [[France|French]] [[Wizardkind|witch]] and a member of the [[pure-blood]] [[Lestrange family]]. She married [[Floxel Lestrange]] and had a daughter with him, [[Quintilla Lestrange|Quintilla]].<ref>{{COG}} {{see image|File:LestrangeFamilyTree HighRes.png}}</ref>
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Lestrange, Jodelle}}
+[[fr:Jodelle Volant]]
+[[pl:Jodelle Lestrange]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Lestrange family]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Volant family]]
+[[Category:Wizards]]

@@ -1,0 +1,40 @@
+{{Pet individual infobox
+|image = 
+|name = Morfin Gaunt's second snake
+|born = Before [[1925]]
+|died = 
+|alias = "Little snakey"<ref name="HBP10"/>
+|title = 
+|species = [[Adder]]<ref name="HBP10"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = [[Morfin Gaunt]] (owner)<ref name="HBP10"/>
+|loyalty = [[Morfin Gaunt]] (owner)<ref name="HBP10"/>
+}}
+The second pet '''[[snake]]''' of [[Morfin Gaunt]] was the replacement of [[Morfin Gaunt's first snake|another late snake]]. The snake was an [[Adder]].<ref name="HBP10">{{HBP|B|10}}</ref>
+
+==History==
+When [[Bob Ogden]] came to visit the [[Gaunt Shack]], Morfin was twisting it in his fingers, singing to it in [[Parseltongue]]:<br />
+
+"''Hissy, hissy, little snakey''<br />
+''slither on the floor,''<br />
+''you be good to Morfin,''<br />
+''or he'll nail you to the door.''"<ref name="HBP10"/>
+
+The snake's final fate is unknown, but the day it heard the song was the same day Morfin was placed under arrest by the [[Magical Law Enforcement Patrol|Wizard police]], along with [[Marvolo Gaunt|his father]]. It was evident that the arrest was beneficial for the snake, as it was spared the gruesome, inhumane fate of being nailed.<ref name="HBP10"/>
+
+==Appearances==
+*{{HBP}} {{1st}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}[[fr:Deuxième serpent de Morfin Gaunt]]
+[[pt-br:egunda Cobra de Morfino Gaunt]]
+[[ru:Змея Морфина Мракса]]
+[[Category:Gaunt family pets]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Morfin Gaunt's possessions]]
+[[Category:Snakes]]

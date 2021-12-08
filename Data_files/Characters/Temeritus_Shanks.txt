@@ -1,0 +1,81 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Termeritus Shanks Portrait.jpg|250px]]
+|name = Temeritus Shanks
+|born = 
+|died = Before [[1991]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OP"/>
+|gender = Male<ref name="OP"/>
+|height = 
+|weight = 
+|hair = Red<ref name="OP"/>
+|eyes = Dark<ref name="OP"/>
+|skin = Pale<ref name="OP"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="OP"/>
+}}
+{{Dialogue a-b-a|Temeritus|Ere, blimey, if it isn't Harry Potter! Read all about you I has. Everything. Always in the paper you are.|Harry Potter|Er, yeah. Only, most of it's not true.|Not true?! Not true?! Aw, it's in black and white innit? Got to be true.|Termeritus believed everything he read|Harry Potter and the Order of the Phoenix (video game)}}
+
+'''Temeritus Shanks'''<ref name="LE">{{HPLE}}</ref> was a [[Wizardkind|wizard]]. He seemed to like reading newspapers, and was interested in knowing the headlines of the day. He believed every word he read in the ''[[Daily Prophet]]'', including the stories about [[Harry Potter]] and [[Albus Dumbledore]] published during the [[1995–1996 school year]]. There are [[portrait]]s of him hung on the walls of [[Hogwarts Castle]].<ref name="OP"/>
+
+==Biography==
+===[[1992–1993 school year]]===
+In early [[1993]], Shanks had a portrait at the [[Grand Staircase]], hung immediately below the ground-floor landing.<ref name="COSF">{{COS|F}} - Chapter 22 (''The Diary'')</ref>
+
+===[[1993-1994 school year]]===
+In [[September]] of [[1993]], Shanks had a portrait on the seventh floor.<ref name="POAG">{{POA|G}}</ref>
+
+===[[1995–1996 school year]]===
+By [[1995]], Shanks had a portrait hung at the [[Hogwarts Library]], guarding a shortcut to the fourth-floor corridor, under the password "''No news is good news''". Said shortcut was reserved to the staff only. When [[Harry Potter]], who was being highly discredited by the ''[[Daily Prophet]]'' at the time, asked if he could use this secret passageway, Shanks made an exception for the student was constantly featured on the paper. The portrait agreed to give the student the password in exchange for the headline of the day ("''TRAGIC DEMISE OF MINISTRY OF MAGIC WORKER''", concerning [[Broderick Bode]]'s assassination).<ref name="OP">{{OOTP|G}}</ref>
+
+Shanks had another portrait at the [[Grand Staircase]], concealing a secret passage to the [[Clock Tower Courtyard]]. Its password was "''Audaces fortuna iuvat''".<ref name="OP GBA">{{OOTP|G}} - GBA version</ref>
+
+===[[1996–1997 school year]]===
+Shanks's portrait was kept at the same place at the [[Hogwarts Library|Library]], but hiding a different shortcut, leading to the [[Grand Staircase]]. The new password was "''Happy Headlines''".<ref name="HBP">{{HBP|G}}</ref> The same shortcut could also lead to the second-floor corridor.<ref name="HBP NDS">{{HBP|G}} - NDS version</ref> When Shanks heard [[Harry Potter]] talking to [[Hermione Granger]] about [[Draco Malfoy]]'s mysterious endeavours at the seventh floor, he gladly told him the new password in order to help him on what he deemed a "big scoop".<ref name="HBP" />
+
+==Personality and traits==
+Temeritus Shanks was quite a naive and gullible wizard, believing everything he read on the papers.<ref name="OP" /> Despite this he was brave, speaking [[Tom Riddle|Lord Voldemort]]'s name out loud when he was at large.<ref name="HBP" /> He would gladly help students in matters he deemed to be sensational, to the point of giving his password to them despite the passageway being reserved only to the staff.<ref name="HBP" />
+
+==Behind the scenes==
+*Shanks may have passed away sometime prior to [[1991]] as many portraits hung at [[Hogwarts Castle]] depict deceased individuals.
+*Temeritus was voiced in both the [[Harry Potter and the Order of the Phoenix (video game)|video game version]] of {{OOTP}} and the [[Harry Potter and the Half-Blood Prince (video game)|video game adaptation]] of {{HBP}} video games by [[Jonathan Kydd]].
+*Shanks's portrait was based on a real-world [http://upload.wikimedia.org/wikipedia/commons/9/9d/King_James_I_of_England_and_VI_of_Scotland_by_Arnold_van_Brounckhorst.jpg portrait of a young King James I] of England.<ref name="LE"/>
+
+==Appearances==
+*{{PS|F}} {{1st}} {{Portrait}}<ref>Seen under the entrance to the [[Grand Staircase]].</ref>
+*{{COS|F}} {{Portrait}}
+*{{COS|G}} {{Comment|PS1 version only}} {{Portrait}}
+*{{POA|G}} {{Portrait}}
+*{{OOTP|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{Portrait}} {{1st ID}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Shanks, Temeritus}}
+
+{{Hogwarts ground floor}}
+{{Hogwarts second floor}}
+{{Hogwarts third floor}}
+{{Hogwarts fourth floor}}
+{{Hogwarts sixth floor}}
+
+[[es:Temeritus Shanks]]
+[[fr:Temeritus Shanks]]
+[[pl:Temeritus Shanks]]
+[[Category:British individuals|Shanks, Termeritus]]
+[[Category:Males|Shanks, Termeritus]]
+[[Category:Portraits|Shanks, Termeritus]]
+[[Category:Wizards|Shanks, Termeritus]]

@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Morag
+|born = c. [[1981]] (most likely)<ref name="birth">Given that the class is [[Match to needle spell|Transfiguring matches]], it is most likely Morag is in her first year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]], [[Slytherin]] or [[Hufflepuff]]<ref name="House">Although it is not apparent to whom McGonagall is talking to, the only girls in the classroom are in these Houses.</ref>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|Morag, please don't light the matches. No, no, no. Hold your wands to the left, not the right.|[[Minerva McGonagall]]|Harry Potter and the Chamber of Secrets (video game)}}
+'''Morag''' (c. [[1981]]) was a [[wizardkind|witch]] and a [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] student in her youth. She was [[Sorting ceremony|sorted]] into either [[Ravenclaw]], [[Slytherin]] or [[Hufflepuff]] on [[1 September]], [[1992]].<ref name="CSpc">{{COS|G}} - PC version</ref>
+
+Sometime in late [[1992]], during a [[Transfiguration]] class about [[Match to needle spell|Transfiguring a matchstick]] Morag tried to [[Fire-Making Spell|light]] hers, and was scolded for it by [[Minerva McGonagall|Professor McGonagall]].<ref name="CSpc"/>
+
+==Behind the scenes==
+*It is possible that Morag is [[Morag MacDougal]], a student in Harry Potter's year. She may have repeated her first year.
+
+==Appearances==
+*{{COS|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Hufflepuff boy
+|born = On or before [[31 August]] [[1983]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFF"/>
+|gender = Male<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = Black<ref name="GOFF"/>
+|eyes = 
+|skin = Light<ref name="GOFF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="GOFF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+}}
+{{Quote|Potter stinks!|The boy|Harry Potter and the Goblet of Fire (film)}}
+This '''boy''' was a [[Wizardkind|wizard]] and student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]] and was sorted into [[Hufflepuff]]. He and [[Hufflepuff boy that blames Harry Potter (I)|his friend]] blamed [[Harry Potter]] for being a champion in the [[Triwizard Tournament]].<ref name="GOFF">{{GOF|F}}</ref>
+
+==Appearances==
+*{{GOF|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Hufflepuffs]]
+[[Category:Wizards]]

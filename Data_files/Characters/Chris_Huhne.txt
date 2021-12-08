@@ -1,0 +1,48 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Chris Huhne
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Environment spokesman for the [[Liberal Party]]
+|house = 
+|loyalty = [[Liberal Party]]
+}}
+'''Chris Huhne''' was a British politician and the environment spokesman for the [[Liberal Party]] in the [[1990s]]. In July of [[1996]], the leader of the party, [[Menzies|Sir Menzies]], resigned from his post and Huhne (whose supporters briefed against Sir Menzies) announced his candidacy to the leadership of the party, as did [[Nick Clegg]], home affairs spokesman. These events were covered by ''[[The Guardian]]''.<ref>{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Behind the scenes==
+*The listing of [[Wikipedia:Chris Huhne|Chris Huhne]] as a candidate to the leadership of the Liberal Party in 1996 is anachronistic, as at the time Huhne had not yet started his political career, and was a City entrepreneur.
+
+==Appearances==
+*{{HBP|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Huhne, Chris}}
+[[pl:Chris Huhne]]
+[[Category:Articles containing anachronistic information]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Politicians]]

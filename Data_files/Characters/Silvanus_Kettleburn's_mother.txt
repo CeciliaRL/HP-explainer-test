@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Silvanus Kettleburn's mother
+|born = 
+|died = 
+|blood = 
+|marital = Married
+|nationality = [[Great Britain|British]]<ref name="PM"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Female<ref name="PM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Silvanus Kettleburn]] (son)
+*[[Silvanus Kettleburn's father|Mr Kettleburn]] (husband)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Kettleburn family]]<ref name="PM"/>
+}}
+This '''woman''' was a [[Wizardkind|witch]] and the mother of [[Silvanus Kettleburn]], former [[Care of Magical Creatures]] [[Professor]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PM">{{PM}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{PP|H}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[pl:Pani Kettleburn]]{{DEFAULTSORT:Kettleburn, Silvanus mother}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Kettleburn family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

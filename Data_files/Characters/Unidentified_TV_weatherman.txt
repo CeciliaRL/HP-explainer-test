@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = TVWeatherman.jpg
+|name = Unidentified TV weatherman
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Black
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Meteorologist
+|house = 
+|loyalty = 
+}}
+{{Quote|It is HOT. That's right. Hot everywhere. There's sweat. There's stifling.|TV Weatherman|Harry Potter and the Order of the Phoenix (film)}}
+
+This '''TV weatherman''' was giving the weather forecast the [[2 August|day]] two [[Dementor]]s [[Attack in Little Whinging|attacked]] [[Harry Potter]] and [[Dudley Dursley]] in [[Little Whinging]]. [[Petunia Dursley]] was watching him on television when the two got to [[4 Privet Drive]].<ref>{{OOTP|F}}</ref>
+
+==Behind the scenes==
+*The weatherman was portrayed by [[Miles Jupp]] in {{OOTP|FA}}.
+
+==Appearances==
+*{{OOTP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Wettermann]]
+[[fr:Présentateur météo]]
+[[pt-br:Meteorologista de TV não identificado]]
+[[Category:British individuals|TV weatherman]]
+[[Category:Journalists|Weatherman]]
+[[Category:Males|TV weatherman]]
+[[Category:Meteorologists]]
+[[Category:Unidentified Muggles|TV weatherman]]

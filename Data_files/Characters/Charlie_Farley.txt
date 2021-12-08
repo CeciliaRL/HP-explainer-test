@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Charlie Farley
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Bella Farley]] (unknown)
+*[[Jake Farley]] (unknown)
+*[[Madge Farley]] (unknown)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Farley family]]
+}}
+'''Charlie Farley'''<ref>Closed captions on the DVD/Blu-ray of {{DH|F1}}</ref> was a [[Wizardkind|wizard]] reported missing along with his relatives [[Bella Farley|Bella]], [[Jake Farley|Jake]], and [[Madge Farley|Madge]] on the ''[[Potterwatch]]'' radio programme in [[1997]]. His disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.
+
+==Appearances==
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Farley, Charlie}}
+
+[[fr:Charlie Farley]]
+[[pl:Charlie Farley]]
+[[Category:British individuals]]
+[[Category:Farley family]]
+[[Category:Males]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

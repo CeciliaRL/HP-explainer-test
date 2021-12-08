@@ -1,0 +1,23 @@
+{{Individual infobox
+|name = Oona
+|nationality = [[England|English]]
+|species = [[Human]]
+|gender = Female
+|job = Barmaid
+|theme = wizard
+}}'''Oona''' (fl. [[12th century]]) was an [[England|English]] [[Wizardkind|witch]] lived in the same village as [[Goodwin Kneen]], and worked in the local inn as a Barmaid. After the ''Kwidditch'' (''[[Quidditch]]'') team won a match against a team from [[Ilkley]], she gave the team free [[mead]].<ref name="QTA3">{{QTA|R|3}}</ref>
+
+==Etymology==
+The name "Oona" is possibly derived from Irish uan meaning "lamb".
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[de:Oona]]
+[[fr:Oona]]
+[[pl:Oona]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Wizards]]

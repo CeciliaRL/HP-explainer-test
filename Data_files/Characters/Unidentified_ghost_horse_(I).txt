@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=spirit
+|image=[[File:HighwaymanGhost.jpg|250px]]
+|name=Unidentified ghost horse
+|hideb=hide
+|born=
+|died=Before [[1993]]
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=*[[Horse]] (formerly)
+*[[Ghost horse]]
+|gender=
+|height=
+|hair=Greyish-silver
+|eyes=Greyish-silver
+|skin=Greyish-silver
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Ghost of a highwayman]]
+}}
+This '''horse''' was a [[ghost horse]] belonging to the [[ghost of a highwayman]].<ref>{{POA|F}}</ref><ref>{{LEGO 1}}</ref>
+
+==Behind the scenes==
+*This [[ghost horse]] is played by [[Doris]].
+*If its rider is in fact [[Wikipedia:Dick Turpin|Richard "Dick" Turpin]] this horse is possibly Turpin's black horse Black Bess.
+
+==Appearances==
+*{{POA|F}} {{1st}}
+*{{LEGO|Y1}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Grey-eyed individuals]]
+[[Category:Historical figures]]
+[[Category:Horses]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified ghosts]]

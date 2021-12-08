@@ -1,0 +1,39 @@
+{{Transcribed image|File:Marauder's_Map_POA_ILL.png}}
+{{Individual infobox
+|theme = individual
+|image = Jomauh agardh.png
+|name = Johann Agardh
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAIE"/>
+|gender = Male<ref name="POAIE"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Johann Agardh''' was an individual seen walking along the Main Landing by the [[Hogwarts Library|Library]] on the [[Marauder's Map]] in the [[1993-1994 school year]].<ref name="POAIE">{{POA|IE}} - chapter 10 - ''The Marauder's Map''</ref>
+
+==Appearances==
+*{{POA|IE}} {{1st Mention}} {{C|Name seen on the Marauder's Map}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Agardh, Johann}}
+[[Category:Males]]

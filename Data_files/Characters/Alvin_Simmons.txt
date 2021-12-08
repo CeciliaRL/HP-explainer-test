@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Alvin Simmons
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Theatre director
+|house=
+|loyalty=
+}}
+'''Alvin Simmons''' was a [[Muggle|No-Maj]] theatre director in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:It's Just Heavenly.png}}</ref>
+
+He directed a production of the musical ''[[It's Just Heavenly]]'' that was staged at the [[Pegasi Theatre]] in [[New York]] in [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Simmons, Alvin}}
+[[Category:Directors]]
+[[Category:Males]]
+[[Category:Muggles]]

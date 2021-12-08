@@ -1,0 +1,33 @@
+{{HogwartsMysterySpoiler}}
+{{Pet individual infobox
+|image = [[File:Hungarian Horntail - HM6 The Dragon's Treaure.png|thumb]]
+|name = Hungarian Horntail in the Dragon Sanctuary
+|born = Pre [[1990]]<ref name="DT">{{HM|6|THE DRAGON'S TREASURE}}</ref>
+|died = 
+|alias = 
+|title = 
+|species = [[Hungarian Horntail]]<ref name="DT"/>
+|gender = Female<ref name="DT"/>
+|height = 
+|hair = 
+|feathers = 
+|eyes = Yellow<ref name="DT"/>
+|skin = Black and yellow<ref name="DT"/>
+|family = 
+|loyalty = [[Romanian Dragon Sanctuary]]<ref name="DT"/>
+}}
+{{Dialogue a-b-a|Charlie Weasley|Oh no... it's back...|Jacob's sibling|Blimey, it's a young one isn't it?|That only makes it more dangerous! The young ones are quicker and more vicious!|Charlie Weasley and Jacob's sibling regarding this dragon in its lair|Harry Potter: Hogwarts Mystery}}
+The '''[[Hungarian Horntail]] in the [[Romanian Dragon Sanctuary|Dragon Sanctuary]]'''<ref name="RCB">{{HM|6|THE RISE OF A CURSE-BREAKER}}</ref> once mistook [[Urgruff's egg]] as a [[dragon egg]].<ref name="DT"/>
+
+==Biography==
+Before or during the [[1989–1990 school year]], this Horntail mistook [[Urgruff's egg]] as a [[dragon egg]] due to its extraordinary resemblance. Tasked by the [[Gringotts Wizarding Bank]], [[William Weasley|Bill]] and [[Charles Weasley|Charlie Weasley]], [[Jacob's sibling]] and their friends arrived at the Sanctuary to retrieve the egg. While they were rescuing Charlie from a cave, the Horntail stepped in and [[Skirmish at the Romanian Dragon Sanctuary|attacked]] Jacob's sibling. After Jacob's sibling won, Charlie showed them he had already found the egg from the cave.<ref name="DT"/>
+
+==Appearances==
+{{Imagecat|Images of the Hungarian Horntail in the Dragon Sanctuary}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Individual dragons]]
+[[Category:Yellow-eyed individuals]]

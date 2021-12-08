@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = Jason Huntingdon.jpg
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref name="age">He was at least in his first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HBPG"/>
+|eyes = 
+|skin = White<ref name="HBPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Ravenclaw]]<ref name="HBPG"/>
+}}
+'''Jason Huntingdon''' was a [[Wizardkind|wizard]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Biography==
+In [[1996]], on the [[Hogwarts Express]], Jason stole a pair of [[Luna Lovegood]]'s [[Spectrespecs]], which he did not know how to use. [[Harry Potter]] retrieved them giving him a periodical in return. Once at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], Jason was usually spending time at the [[Great Hall]] and at the [[Viaduct Entrance]]. Jason traded an [[Armadillo bile]] with Harry Potter.<ref name="HBPG"/>
+
+==Etymology==
+The name "Jason" is from the Greek name Ιασων (Iason), which was derived from Greek ιασθαι (iasthai) "to heal". In Greek mythology Jason was the leader of the Argonauts. After his uncle Pelias overthrew his father as king of Iolcos, Jason went in search of the Golden Fleece in order to win back the throne. During his journeys he married the sorceress Medea, who helped him gain the fleece and kill his uncle, but who later turned against him when he fell in love with another woman.
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|console versions]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS and PSP versions]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions only}}
+*{{HBP|G}} {{C|NDS and PSP version only}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Huntingdon, Jason}}[[fr:Jason Huntingdon]]
+[[pl:Jason Huntingdon]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Bullies]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

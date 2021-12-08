@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:DietrichFrenzen.png|250px]]
+|name = Dietrich Frenzen
+|born = Prior to [[1977]]<ref>He has to be at least seventeen years old to have graduated a wizarding school, but due to his white hair and beard it is obvious he is older than that.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = White
+|eyes = Blue
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch]] [[Quidditch referee|referee]]
+|house = 
+|loyalty = *[[Quidditch]]
+}}
+'''Dietrich Frenzen''' was a [[Wizardkind|wizard]] who was hired as a [[Quidditch]] [[Quidditch referee|referee]] in or prior to [[1994]].
+
+==Physical appearance==
+Frenzen had short white hair and silvery-white stubble covering his rather tan, round face. His prominent cheekbones and dark, bushy eyebrows gave an impression of pride, and his dark eyes shone.
+
+==Etymology==
+''Dietrich'' is the [[Germany|German]] form of Theodoric, which in turn means "ruler of the people"<ref name="DIETRICH">[http://www.behindthename.com/name/dietrich Dietrich] on [http://www.behindthename.com/ Behind the Name]</ref><ref name="THEODORIC">[http://www.behindthename.com/name/theodoric Theodoric] on [http://www.behindthename.com/ Behind the Name]</ref>.
+
+==Appearances==
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+{{DEFAULTSORT:Frenzen, Dietrich}}
+
+[[pl:Dietrich Frenzen]]
+[[Category:Character stubs]]
+[[Category:Males]]
+[[Category:Quidditch referees]]
+[[Category:Wizards]]

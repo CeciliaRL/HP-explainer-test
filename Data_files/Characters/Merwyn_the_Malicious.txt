@@ -1,0 +1,72 @@
+{{Individual infobox
+|theme = dark-wizard
+|image = [[File:Merwyn the Malicious.jpg|250px]]
+|name = Merwyn the Malicious
+|born = [[First millennium A.D.|962]] or later,<ref>On the Pottermore timeline of the wizarding world, although no excact dates are given, he is listed after known students of Hogwarts, impfying that he, like them, was eleven or older around the school's founding. </ref>
+|died = [[Middle Ages|Medieval Ages]]
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Dark
+|eyes = White<ref name="COSG">{{COS|G}}</ref>
+|skin = Pale<ref name="COSG">{{COS|G}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Spell creation|Spell inventor]]
+|house = 
+|loyalty = [[Dark Arts]]
+}}
+'''Merwyn the Malicious''' was a [[Middle Ages|medieval]] [[Dark Wizard]] credited with the [[Spell creation|invention]] of many unpleasant [[jinx]]es and [[hex]]es.<ref name="COSG">{{COS|G}}</ref><ref name="PM">{{PM}}</ref>
+
+==Biography==
+[[File:Merwyn_The_Malicious-12-chocFrogCard.png|thumb|140px|left|Merwyn the Malicious immortalised on a bronze Chocolate Frog Card]]
+Merwyn was born sometime during the [[Middle Ages]]. During his lifetime, he was a practitioner of the [[Dark Arts]] and a [[Dark Wizard]], having [[Spell creation|invented]] many unpleasant [[jinx]]es and [[hex]]es. He also possessed a hooked [[wand]]. For his infamy, he was immortalised on a bronze [[Chocolate Frog Card]].<ref name="COSG">{{COS|G}}</ref><ref name="PM">{{PM}}</ref> A [[portrait]] of Merwyn hung at [[Hogwarts Castle]], guarding a secret shortcut between the third-floor landing of the [[Grand Staircase]] and the [[Entrance Hall]] side room. The password required to gain access to said shortcut was "''Malevolence''".<ref>{{POA|G}} - PC version</ref>
+
+==Magical abilities and skills==
+*'''[[Dark Arts]]''': Merwyn the Malicious was a notorious [[Dark Wizard]] in the [[Middle Ages]], and thus was highly proficient and well-versed in dark magic and with the casting of [[dark charm]]s. He invented numerous unpleasant [[jinx]]es and [[hex]]es in his lifetime, earning him his sinister reputation.
+*'''[[Spell creation]]''': Merwyn mastered the immensely difficult and advanced [[magic]]al art of inventing new [[spell]]s, having successfully created many unpleasant [[jinx]]es and [[hex]]es during his lifetime, for which he was famous for, gaining him recognition on a bronze [[Chocolate Frog Card]] for his magical achievements.
+
+==Etymology==
+Merwyn is a Welsh name, said to be a form of the name [[Merlin]].
+
+==Appearances==
+{{Imagecat|Images of Merwyn the Malicious}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}} {{Portrait}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts ground floor}}
+{{Hogwarts third floor}}
+{{Chocolate Frog Cards}}
+
+[[de:Marvin der Böse]]
+[[de2:Marvin der Böse]]
+[[fr:Merwyn le Malicieux]]
+[[fi:Merwyn the Malicious]]
+[[it:Merwyn il Malvagio]]
+[[ru:Мервин Злобный]]
+[[es:Merwyn el Malicioso]]
+[[pl:Merwyn Malicious]]
+[[pt-br:Merwyn, O Malicioso]]
+[[Category:Black-eyed individuals]]
+[[Category:British or Irish individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Dark wizards]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Spell inventors]]

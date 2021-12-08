@@ -1,0 +1,39 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Matelot
+|born = Before [[1927]]<ref name="AM"/>
+|died = 
+|blood = 
+|nationality = 
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="AM"/>
+|gender = 
+|eyes = 
+|hair = 
+|skin = 
+|weight = 
+|height = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|job = Actor<ref name="AM"/>
+|house = 
+|loyalty = 
+}}
+'''''The Marvellous Matelot''''' was a performer who had a show on at the [[Brobeck Theatre]] in [[1927]]. The two and a half hour show was on each day from Monday to Thursday with performances in the afternoon and evening, with all seats reserved.<ref name="AM">{{AM}}</ref>
+
+==Appearances==
+*{{COG}} {{1st Mention}} {{Comment|name on poster}}
+*{{AM}} {{Comment|name on poster}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Actors]]
+[[Category:Individuals of unknown or undetermined gender]]

@@ -1,0 +1,69 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Maximilian Crowdy
+|hideb=
+|born=Before [[1753]]
+|died=[[1781]]
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office.</ref>
+|alias=
+|title=[[Minister for Magic]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Maximilian Crowdy's children|Nine children]]
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Minister for Magic|British Minister for Magic]] ([[1770]] - [[1781]])
+|house=
+|loyalty=[[British Ministry of Magic]]
+}}
+'''Minister Maximilian Crowdy''' was [[Minister for Magic]] from [[1770s|1770]] to [[1781]], elected by the [[Great Britain|British]] and [[Ireland|Irish]] [[Wizardkind|Wizarding]] population at least twice.  A father of nine, Crowdy was a charismatic leader who routed out several [[Pure-blood supremacy|extremist pure-blood]] groups planning [[Non-magic people|Muggle]] attacks. His mysterious [[death]] in office has been the subject of numerous books and conspiracy theories.<ref>{{WW|ministers-for-magic}}</ref>
+
+==Biography==
+Maximilian Crowdy was the sitting Minister for Magic in [[1777]], when [[United States of America|American]] wizards argued for and against interventionism in the [[Revolutionary War]]. When [[Elizabeth McGilliguddy|President Elizabeth McGilliguddy]] sought the advice of the Ministry of Magic to find out whether they intended to intervene on their side, Minister Crowdy replied with only a four-word message — "''Sitting this one out''". McGilliguddy replied back with an even shorter message — "''Mind you do''". Neither [[Magical Congress of the United States of America|MACUSA]] or the Ministry of Magic intervened in the war.<ref name="PottermoreHistory3">[https://www.pottermore.com/writing-by-jk-rowling/macusa Pottermore - Writing by J.K. Rowling: "The Magical Congress of the United States of America (MACUSA)"]</ref>
+
+==Behind the scenes==
+*Mr Crowdy is a minor character in [[J. K. Rowling|Robert Galbraith]]'s ''[[Wikipedia:The Cuckoo's Calling|The Cuckoo's Calling]]'', a graphic designer who runs Crowdy Graphics, downstairs from Cormoran Strike's office on Denmark Street.
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Hesphaestus Gore]]
+|position=[[Minister for Magic]]
+|years=[[1770]] - [[1781]]
+|successor=[[Porteus Knatchbull]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Crowdy, Maximilian}}
+
+[[de:Maximilian Crowdy]]
+[[es:Maximilian Crowdy]]
+[[fr:Maximilian Crowdy]]
+[[pl:Maximilian Crowdy]]
+[[pt-br:Maximilian Crowdy]]
+[[ru:Максимилиан Крауди]]
+[[zh:马克西米兰·克劳迪]]
+[[Category:1781 deaths]]
+[[Category:British Ministers for Magic]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

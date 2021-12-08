@@ -1,0 +1,45 @@
+{{Imageless}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Janice Pepper
+|born = 
+|died = 
+|blood =  [[Muggle-born]]<ref name="FBC"/>
+|marital = 
+|nationality = [[Great Britain|British]] or [[Ireland|Irish]]<ref name="FBC"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC"/>
+|gender = Female<ref name="FBC"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family =
+*[[Hugo Pepper]] (brother)<ref name="FBC"/>
+*[[Pepper family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty =  Pepper family<ref name="FBC"/>
+}}
+'''Jacice Pepper''' was a [[Muggle-born]] [[Wizardkind|witch]] who had a brother, [[Hugo Pepper]] who was a [[Non-magic people|Muggle]]. She was in [[Scotland]] when she saw a big flying creature over a train station.<ref name="FBC">{{FBC|11}}</ref>   
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}} 
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Muggle-borns]]
+[[Category:Wizards]]
+{{Character-stub}}
+{{DEFAULTSORT:Pepper, Janice}}

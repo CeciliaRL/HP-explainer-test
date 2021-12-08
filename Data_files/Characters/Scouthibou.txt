@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=hogwarts-staff
+|image=
+|name=Scouthibou
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Owl]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=School owl
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|Obedient to Sirius's wish of hearing about anything odd at Hogwarts, Harry sent him a letter by brown owl that night, explaining all about Mr Crouch breaking into Snape's office, and Moody and Snape's conversation.|Description|Harry Potter and the Goblet of Fire}}
+'''Scouthibou'''<ref>{{GOF|B|26}}; French translation </ref> was a [[brown owl|brown]] [[Hogwarts School of Witchcraft and Wizardry|Hogwarts school]] [[owl]] that inhabited the [[Owlery]] in the mid-[[1990s]]. 
+
+==History==
+In early [[1995]], [[Harry Potter]] sent [[Sirius Black]] a letter on the odd events at Hogwarts surrounding [[Severus Snape]] and [[Alastor Moody]] via this owl.<ref>{{GOF|B|26}}</ref>
+
+==Behind the scenes==
+*This owl is only named in the French translation of {{GOF}}, by [[Jean-François Ménard]]. The owl remains unidentified in the original English version.
+*The suffix "''hibou''" is French for "owl".
+
+==Appearances==
+*{{GOF}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[fr:Scouthibou]]
+[[Category:Articles with new content from official translations]]
+[[Category:Males]]
+[[Category:Owls]]

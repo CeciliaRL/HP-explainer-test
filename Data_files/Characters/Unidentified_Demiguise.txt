@@ -1,0 +1,54 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|name = Unidentified Demiguise
+|image = Unidentified Demiguise.png
+|born = Before [[1987]]<ref name="ASIH">{{HM|3|A SCANDAL IN HOGSMEADE}}</ref>
+|died = 
+|alias = *[[Butterscotch]] Bandit<ref name="ASIH"/>
+*Prank Plunderer<ref name="ASIH"/>
+*[[Mallowsweet]] Marauder<ref name="ASIH"/>
+*[[Sugar]] Shoplifter {{C|possibly}}<ref name="ASIH"/>
+*Candy Crook {{C|possibly}}<ref name="ASIH"/>
+*Sweet Tooth Thief {{C|possibly}}<ref name="ASIH"/>
+|species = [[Demiguise]]<ref name="ASIH"/>
+|gender = 
+|hair = White<ref name="ASIH"/>
+|eyes = Black<ref name="ASIH"/>
+|height = 
+|title = 
+|skin = Light<ref name="ASIH"/>
+|family = 
+|loyalty = 
+}}
+This '''[[Demiguise]]''' was involved in a theft during the [[1986–1987 school year]].<ref name="ASIH"/>
+
+==Biography==
+During the [[1986–1987 school year]] this [[Demiguise]] stole various items from the area around [[Hogsmeade]] and [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] at around the time that [[Jules Egwu]] arrived in the village to visit her cousin [[Andre Egwu|Andre]].<ref name="ASIH"/>
+
+Among the items it took were [[Butterscotch]] from the [[Three Broomsticks Inn]], [[Sugar Quill]] from [[Zonko's Joke Shop]], and [[Mallowsweet]] from [[Penny Haywood]]'s personal stock. After learning of the thefts, Jules and Andre, along with Andre's friend, [[Jacob's sibling]], decided to investigate. They were joined by Penny after the theft of her items.<ref name="ASIH"/>
+
+During the investigation, Jacob's sibling deduced that the thief may be a Demiguise as it left white hairs at each scene and none of the group saw anything during their initial attempt to lure it out, despite being in a [[Hogwarts greenhouses|Hogwarts Greenhouse]] with a clear view of the entire area. This indicated that the thief might be able to become [[Invisibility|invisible]].<ref name="ASIH"/>
+
+As Demiguises were highly intelligent and had the ability to [[Precognitive sight|see the future]], they were difficult to trap, so they had to plan an unpredictable trap to do so. They accomplished this by setting up a decoy trap in the greenhouse while dipping the candy meant to lure the [[creature]] there in a [[Sleeping Draught]].<ref name="ASIH"/>
+
+[[File:Unidentified Demiguise put to sleep.jpg|250px|thumb|left|This Demiguise put to sleep]]
+As expected, the creature ate the candy trail while avoiding the decoy, which it perceived as the danger. Once it fell asleep it became visible, allowing the group to capture it.<ref name="ASIH"/>
+
+Jules decided to take it with her when she returned to [[Japan]], where she and her parents were living, as that was part of the creature's natural habitat range. She planned to ask her parents, who were [[Magizoologist]]s, to find a suitable place to release it.<ref name="ASIH" />
+
+==Behind the scenes==
+*Before the creature was determined to be a Demiguise, [[Liz Tuttle]] talked about naming an invisible creature "Viz" if she had encountered one. However, it is unknown if Liz actually met and named this Demiguise after it was captured.
+*The fact that it only stole sweet things indicates that it had a taste for sugar. It isn't clear if this is unique to this individual, or if it's a common trait of the species.
+*The side quest's title "A Scandal in Hogsmeade" is likely a reference to the famous Sherlock Holmes story "A Scandal in Bohemia".
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Stub}}
+[[Category:Black-eyed individuals]]
+[[Category:Demiguises]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]

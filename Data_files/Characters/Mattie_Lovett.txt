@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Mattie Lovett
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Author
+|house=
+|loyalty=
+}}
+'''Mattie Lovett''' was a [[Muggle|No-Maj]] author in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:TheNewYorkAffair.jpg}}</ref>
+
+She conceived a story idea in collaboration with [[Franklin Greenwood]].<ref name="poster" /> [[Maxwell Lima]] wrote a book based on Lovett and Greenwood's idea.<ref name="poster" /> Lima's book was in turn adapted into the musical ''[[The New York Affair]]'' by playwright [[Maurice Willard]].<ref name="poster" /> 
+
+==Appearances==
+*{{FB|F}} {{1st Mention}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lovett, Mattie}}
+[[Category:Authors]]
+[[Category:Females]]
+[[Category:Muggles]]

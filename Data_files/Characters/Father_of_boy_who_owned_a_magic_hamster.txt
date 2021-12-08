@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Boy who owned a magic hamster's father
+|born = 
+|died = 
+|blood = 
+|marital = Married<ref name="PSG"/>
+|nationality = [[Great Britain|British]]<ref name="PSG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSG"/>
+|gender = Male<ref name="PSG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Mother of boy who owned a magic hamster|Wife]]<ref name="PSG"/>
+*[[Boy who owned a magic hamster|Son]]<ref name="PSG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Saving on the light bill by using Lumos helped [[Boy who owned a magic hamster's mother|mum]] and dad save enough [[Galleon]]s to send me here.|His son shortly before [[Quirinus Quirrell]]'s [[Defence Against the Dark Arts]] lesson concerning the [[Wand-Lighting Charm]].|Harry Potter and the Philosopher's Stone (video game)}}
+This '''individual''' was a [[Wizardkind|wizard]] who lived in the [[Great Britain|British Isles]]. He later got married to [[Boy who owned a magic hamster's mother|a witch]] and in c. [[1980]] he had [[Boy who owned a magic hamster|a son]]. They were presumably very poor as they saved on the [[Electricity|light bill]] by using the [[Wand-Lighting Charm]], ''Lumos'', to save [[Galleon]]s to be able to afford their son's trip to [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PSG">{{PS|G}}</ref>
+
+==Appearances==
+*{{PS|G}} {{Comment|GBA version}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

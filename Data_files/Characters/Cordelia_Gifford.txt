@@ -1,0 +1,57 @@
+{{Imageless}}
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Cordelia Gifford
+|born = Between [[31 August]] [[1982]] and [[31 August]] [[1985]]<ref name="age">She was at least in her first year at Hogwarts during the [[1993–1994 school year]] and at most in her seventh year during the [[1996–1997 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/><ref name="HBPG"/>
+|gender = Female<ref name="POAG"/><ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="POAG">{{POA|G}} {{C|Console versions}}</ref><ref name="HBPG"/>
+|loyalty = *Gifford family
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAG"/><ref name="HBPG"/>
+**[[Ravenclaw]]<ref name="POAG"/><ref name="HBPG"/>
+}}
+'''Cordelia Gifford''' was a [[Wizardkind|witch]] and [[Ravenclaw]]<ref name="POAG"/> student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She competed in the school [[Gobstones]] tournament during the [[1996–1997 school year]].<ref name="HBPG">{{HBP|G}} - {{C|NDS version}}</ref>
+
+==Etymology==
+The name "Cordelia" comes from ''Cordeilla'', possibly a Celtic name of unknown meaning. According to Geoffrey of Monmouth, Cordeilla was the youngest of the three daughters of King Lear and the only one to remain loyal to her father. When adapting the character for his play 'King Lear' (1606), Shakespeare altered the spelling to Cordelia.
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|console versions]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts Gobstones}}
+{{DEFAULTSORT:Gifford, Cordelia}}
+[[pl:Cordelia Gifford]]
+[[fr:Cordelia Gifford]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gobstones players]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

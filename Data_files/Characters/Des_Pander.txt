@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:DesPander.jpg|250px]]
+|name=Des Pander
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=Dutch
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Des Pander''', also known by the nickname '''Dutch''', was an American [[wizardkind|wizarding]] criminal who operated in the [[1920s]].
+
+In or around [[1926]], the [[Magical Congress of the United States of America]] issued a wanted poster for Dutch, which stated that he was wanted for grand larceny and [[Muggle|No-Maj]] murder. It described him as "most menacing, "extremely dangerous," and a "malicious killer." A reward of 5000 [[Dragot]]s was offered for information leading to his capture.<ref>{{FB|F}} {{See image|File:DesPander.jpg}}</ref>
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Pander, Des}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Wizards]]

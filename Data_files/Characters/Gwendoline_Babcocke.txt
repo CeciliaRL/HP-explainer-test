@@ -1,0 +1,35 @@
+{{Individual infobox
+|image = [[File:Gwendoline Babcocke.png|250px]]
+|name = Gwendoline Babcocke
+|marital = Unmarried<ref name="FBC7"/>
+|nationality = [[Scotland|Scottish]]<ref name="FBC7"/>
+|species = [[Human]]<ref name="FBC7"/>
+|gender = Female<ref name="FBC7"/>
+|hair = Purple<ref name="FBC7"/>
+|eyes = Brown<ref name="FBC7"/>
+|skin = White<ref name="FBC7"/>
+|family = [[Gwendoline Babcocke's mother|Mother]]<ref name="FBC7"/>
+|job = Shop assistant at [[The Magic Neep]]<ref name="FBC7"/>
+|loyalty = [[The Magic Neep]]<ref name="FBC7"/>
+|theme = wizard
+}}'''Gwendoline Babcocke''' was a [[Scotland|Scottish]] [[wizardkind|witch]] that worked as a shop assistant at [[The Magic Neep]] in [[Hogsmeade]].<ref name="FBC7"/>
+
+==Biography==
+She received several notes and gifts such as chocolates and lavender perfume from an anonymous admirer, including an night-time invitation to the [[Boathouse]] at [[Hogwarts School of Witchcraft and Wizardry]] which caught [[fire]] just as she arrived.<ref name="FBC7">{{FBC|7}}</ref>
+
+Enamoured with [[dragon]]s, she owned a copy of ''[[Dragon Breeding for Pleasure and Profit]]'' but would never leave Hogsmeade to work with them as it would break [[Gwendoline Babcocke's mother|her mum]]'s heart. In addition to her interest in [[magic]]al [[beast]]s, she said she was a natural at the [[Stinging Jinx]].<ref name="FBC7"/>
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Babcocke, Gwendoline}}
+[[pl:Gwendoline Babcocke]]
+[[fr:Gwendoline Babcocke]]
+[[ru:Гвендолин Бабкок]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Greengrocers]]
+[[Category:Scottish individuals]]
+[[Category:Unmarried individuals]]
+[[Category:Wizards]]

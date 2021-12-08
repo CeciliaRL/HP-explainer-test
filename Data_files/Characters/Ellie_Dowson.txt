@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Ellie Dowson
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Rob Dowson]] (unknown)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Dowson family]]
+}}
+'''Ellie Dowson'''<ref>Closed captions on the DVD/Blu-ray of {{DH|F1}}</ref> was a [[Wizardkind|witch]] reported missing along with her relative, [[Rob Dowson|Rob]], on the ''[[Potterwatch]]'' radio programme in [[1997]]. Her disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.
+
+==Behind the scenes==
+*This character is presumably a tribute to a relative of [[Mike Dowson]], a sound mixer who worked on the final three [[Harry Potter films|''Harry Potter'' films]].<ref>[http://www.imdb.com/name/nm0236236 Mike Dowson's profile on IMDb]</ref>
+
+==Appearances==
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Dowson, Ellie}}
+
+[[fr:Ellie Dowson]]
+[[pl:Ellie Dowson]]
+[[Category:British individuals]]
+[[Category:Dowson family]]
+[[Category:Females]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

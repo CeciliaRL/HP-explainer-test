@@ -1,0 +1,60 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Fortinbras
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="Y3SQ"/>
+|signature = 
+|species = [[Human]]<ref name="Y3SQ"/>
+|gender = Female<ref name="Y4SQ">{{HM|4|Nearly Headless Nick}}</ref>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Charms Master]] at [[Hogwarts School of Witchcraft and Wizardry]]<ref name="Y3SQ"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="Y3SQ"/>
+}}
+'''Professor Fortinbras''' was a [[Wizardkind|witch]] and [[Charms (class)|Charms]] [[professor]] at [[Hogwarts School of Witchcraft and Wizardry]] at some point between the [[15th century|15th]] and [[19th century|19th]] centuries.<ref name="Y3SQ"/>
+
+==Biography==
+Fortinbras was a former [[Charms Master]] at [[Hogwarts School of Witchcraft and Wizardry]], who taught sometime vaguely between the [[15th century]] and [[19th century]]. [[Nicholas de Mimsy-Porpington|Sir Nicholas de Mimsy-Porpington]] knew her, and she sometimes talked about the [[Cursed Vaults]] while he was listening. Sir Nicholas told [[Jacob's sibling]] and [[Angelica Cole]] about her in [[1987]]. At some point in her teaching career, she came to believe (correctly) that the fabled [[Cursed Vaults]] were real and wrote her fears and suspicions about them in a [[Folio of Fortinbras|folio]] that she left behind in [[Charms Classroom|her old classroom]]. At the time, teachers and students alike formed a 'circle of trust' that worked together in researching the vaults, with the [[Potions Master]] of the day, Professor [[Bartholomew]], being her closest confidant. Her loyalty to him was such that she even sought to conceal his identity so that her colleague would not be implicated in the conspiracy.<ref name="Y3SQ">{{HM|3|Nearly Headless Nick}}</ref>
+
+==Etymology==
+*[[Wikipedia:Fortinbras|Fortinbras]] is the name of a fictional character in [[Wikipedia:William Shakespeare|William Shakespeare]]'s tragedy ''[[Wikipedia:Hamlet|Hamlet]]''; Fortinbras is a [[Norway|Norwegian]] crown prince who, at the end of the play, is to be crowned ruler of [[Denmark]] following the [[death]] of nearly all the major characters.
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=[[Charms Master]]
+|years= Unknown
+|successor=Unknown, eventually [[Filius Flitwick]]
+}}
+{{End box}}
+{{Staff}}
+{{Charms}}
+[[ru:Фортинбрас]]
+[[Category:British or Irish individuals]]
+[[Category:Charms Masters at Hogwarts]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Wizards]]

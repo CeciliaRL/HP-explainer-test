@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme=quidditch-player
+|image=
+|name=Fernando Diaz
+|hideb=
+|born=After [[1976]], [[Brazil]] (possibly)<ref name="PM"/>
+|died=
+|blood=
+|alias=
+|title=[[Chaser]]<ref name="PM"/>
+|hidep=
+|nationality=[[Brazil]]ian<ref name="PM"/>
+|species=[[Human]]<ref name="PM"/>
+|gender=Male<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Chaser]] for the [[Brazilian National Quidditch team]]<ref name="PM"/>
+|house=
+|loyalty=[[Brazilian National Quidditch team]]<ref name="PM"/>
+}}
+'''Fernando Diaz''' was a [[Brazil]]ian [[wizardkind|wizard]] and a [[Chaser]] for the [[2014]] [[Brazilian National Quidditch team]]. He, along with fellow Chaser [[Alejandra Alonso]], was described as one of [[Brazil]]'s finest by [[Ginevra Weasley|Ginny Potter]] for her article in the [[Daily Prophet]] on the [[American National Quidditch team|USA]]-Brazil game.<ref name="PM">[http://insider.pottermore.com/2014/05/read-ginny-potters-match-reports-from.html "Read Ginny Potter's match reports from the 2014 Quidditch World Cup every day this week"] at [http://insider.pottermore.com {{PM}} Insider]</ref>
+
+==Biography==
+During the [[BRAZIL VERSUS HAITI|Brazil vs Haiti]] match, him and his fellow Brazil Chasers, [[Alejandra Alonso]] and [[Gonçalo Flores]], made as many as thirty attempts to score during the beginning of the game, although they only made ten goals. [[Ginevra Weasley|Ginny Potter]] also commended all three Brazilian Chasers for keeping their heads during the [[BRAZIL VERSUS WALES|Brazil vs Wales]] match that was deemed the most contentious match of the tournament.<ref name="PM"/>
+
+In the semifinal match between Brazil and the [[United States of America]], Diaz and Alonso both dropped the [[Quaffle]] twice, something that was common in that match due to the nerves associated with the possibility of Brazil's reaching the World Cup final for the first time since [[1982]].<ref name="PM"/>
+
+==Etymology==
+*[[Wikipedia:Diaz|Diaz]] is a common Spanish surname, cognate to the Portuguese and Brazilian [[Wikipedia:Dias|Dias]].
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Diaz, Fernando}}
+[[de:Fernando Diaz]]
+[[es:Fernando Diaz]]
+[[fr:Fernando Diaz]]
+[[pl:Fernando Diaz]]
+[[ru:Фернандо Диаз]]
+[[Category:Brazilian individuals]]
+[[Category:Chasers]]
+[[Category:Males]]
+[[Category:Wizards]]

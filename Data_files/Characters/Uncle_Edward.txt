@@ -1,0 +1,26 @@
+{{Individual infobox
+|name = Uncle Edward
+|born = [[Amortality|Amortal]]
+|died = [[Amortality|Amortal]]
+|nationality = [[United States of America|American]]
+|species = [[Poltergeist]]
+|gender = Male
+|theme = spirit
+|hideb = 
+|hidep = 
+|hidef = 
+|hidem = y
+|hidea = 
+}}'''Uncle Edward''' was an [[United States of America|American]] [[poltergeist]] who haunted a [[New York]] [[wizardkind|wizarding]] family.<ref name="dec6sunrise">{{FB|F}} {{See image|File:The New York Ghost - 6 Dec 1926 - Sunrise Early Edition.png}}</ref>
+
+Although usually calm in temperament, one day in [[1926]] he had an argument with the family he haunted during a [[picnic]] in [[Central Park]], and proceeded to throw baked goods at passing [[Muggles|No-Majs]], disappearing afterwards.<ref name="dec6sunrise" /> The incident was reported in the [[6 December]] 1926 morning edition of ''[[The New York Ghost]]'' as possibly jeopardising [[International Statute of Wizarding Secrecy|wizarding secrecy]].<ref name="dec6sunrise" />
+
+==Appearances==
+*{{FB|F}} {{comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Oncle Edward]]
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Poltergeists]]

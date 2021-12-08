@@ -1,0 +1,102 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Gunhilda of Gorsemoor.jpg|250px]]
+|name = Gunhilda de Gorsemoor
+|born = [[1556]]<ref name="COSG">{{COS|G}}</ref>
+|died = [[1639]] (aged 82-83)<ref name="COSG"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = The One-Eyed Witch<ref name="POA10"/>
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = *Red (formerly)
+*Grey (formerly)
+*Bald
+|eyes = Green<ref name="COSG"/>
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Healer]]<ref name="COSG"/>
+|house = 
+|loyalty = 
+}}
+'''Gunhilda de Gorsemoor''' ([[1556]] – [[1639]]) was a one-eyed, hump-backed [[Wizardkind|witch]] and [[Healer]] who discovered a [[Dragon pox cure|cure]] for [[Dragon Pox]].<ref name="COSG">{{COS|G}}</ref>
+
+==Biography==
+===Early life===
+Not much is known about Gunhilda de Gorsemoor's early life. She was born in [[1556]].<ref name="COSG"/>
+
+Gunhilda shared her name with [[Gunhilda Kneen]], an eleventh-century witch who came down with a "touch" of [[Dragon Pox]], and as a result couldn't play in a [[Quidditch]] match.<ref name="QTA3">{{QTA|R|3}}</ref>
+
+===As a Healer===
+[[File:Gunhilda of Gorsemoor USA Card.jpg|207x207px|thumb|left|Gunhilda, treating a sick [[Wizardkind|wizard]]]]
+At some point in her life, Gunhilda became a [[Healer]]. She was seen as a talented and hard-working Healer by everyone who knew her. As a gifted [[potioneer]], Gunhilda became very famous for her development of the cure for [[dragon pox]], a disease that in worst cases killed many wizards, including [[Chauncey Oldridge]]<ref name="COSG"/> and, more recently, [[Abraxas Malfoy]].<ref name="HBP9">{{HBP|B|9}}</ref> Although effective, Gunhilda's cure had not eradicated the disease.<ref name="A. Malfoy">Seen as [[Abraxas Malfoy]] died of it in the twentieth century.</ref>
+
+===Death and legacy===
+[[File:Statue of Gunhilda of Gorsemoor (also known as One-Eyed Witch).JPG|250px|thumb|This statue of Gunhilda could be found at [[Hogwarts Castle]]]]
+After her death in [[1639]], everyone who knew her felt great sorrow. The great Healer might have died but she was not forgotten; her cure for [[Dragon Pox]] continued saving lives many centuries after her death. For this, Gunhilda was featured in a [[Chocolate Frog Card]].<ref name="COSG"/> A statue of Gunhilda could be found in the [[Gunhilda of Gorsemoor Corridor]] on the third-floor at [[Hogwarts Castle]]. When one tapped the statue's hump with a [[wand]] and casted the opening [[charm]] ''[[Dissendium]]'', a [[One-Eyed Witch Passage|secret passage]] would be opened, leading to the basement of [[Honeydukes|Honeydukes Sweetshop]] in [[Hogsmeade]], which was used by [[Harry Potter]] in the [[1993–1994 school year]]<ref name="POA10">{{POA|B|10}}</ref> and a group of students in the [[2009–2010 school year]].<ref name="MA">{{MA}}</ref>
+
+==Magical abilities and skills==
+*'''[[Healing magic]]''': Gunhilda was a gifted [[Healer]], as she famously invented a [[Dragon pox cure]], showing her expertise in the art of medical magic.<ref name="COSG"/>
+*'''[[Potion]]s''': Gunhilda was also a highly talented [[Potioneer]], as she created the [[Dragon pox cure]], a healing potion which worked as the [[Antidote|cure]] for the often lethal disease [[Dragon Pox]].<ref name="COSG"/>
+
+==Etymology==
+The name "Gunhilda" is from the Old Norse name ''Gunnhildr'', derived from the elements ''gunnr'' "war" and ''hildr'' "battle".
+
+==See also==
+*[[One-Eyed Witch Passage]]
+
+==Appearances==
+{{Imagecat|Images of Gunhilda de Gorsemoor}}
+*{{PS|F}} {{Statue}}<ref>Seen covered with cobwebs when the trio go to the [[Third-floor corridor|Forbidden Corridor]] the first time.</ref>
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA}} {{Statue}}
+*{{POA|F}} {{Statue}}
+*{{POA|G}} {{Statue}} {{FWC}}
+*{{OOTP|G}} {{Statue}}
+*{{HBP|G}} {{Statue}}
+*{{PM}} {{Statue}} {{FWC}}
+*{{WWHP}} {{Statue}}
+*{{MA}} {{Statue}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts third floor}}
+{{Potions}}
+{{Chocolate Frog Cards}}
+
+{{DEFAULTSORT:Gorsemoor, Gunhilda of}}
+
+[[de:Gunhilda von Gorsemoor]]
+[[fr:Gunhilda de Gorsemoor]]
+[[it:Gunhilda di Gorsemoor]] 
+[[fi:Gunhilda of Gorsemoor]]
+[[pl:Gunhilda z Gorsemoor]]
+[[es:Gunhilda de Gorsemoor]]
+[[ru:Ганхильда из Горсмура]]
+[[pt-br:Gunhilda de Gorsemoor]]
+[[Category:1556 births]]
+[[Category:1639 deaths]]
+[[Category:Amputees]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Healers]]
+[[Category:Historical figures]]
+[[Category:Hogwarts corridor namesakes]]
+[[Category:Inventors]]
+[[Category:Potioneers]]
+[[Category:Statues]]
+[[Category:Wizards]]

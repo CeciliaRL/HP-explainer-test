@@ -1,0 +1,32 @@
+{{Individual infobox
+|image = [[File:Lemus Pinutius2.jpg|250px]]
+|name = Lemus Pinutius
+|nationality = [[United States of America|American]]
+|alias = The Vampire
+|species = [[Human]]
+|gender = Male
+|skin = Light
+|theme = wizard
+|hideb = 
+|hidep = 
+|hidef = 
+|hidem = hide
+|hidea = 
+}}
+'''Lemus Pinutius''', also known by the nickname '''The Vampire''', was a [[wizardkind|wizarding]] criminal who operated in the [[1920s]].
+
+==Biography==
+In or around [[1926]], the [[International Wizarding Police]] issued a wanted poster for Pinutius, which stated that he was wanted for grand larceny and [[Muggle|No-Maj]] smuggling in [[Europe]], [[Africa]], and [[Asia]]. It described him as a "powerful wizard" who was "[[wand]]ed and extremely dangerous." It offered a reward of 5000 [[Dragot]]s for information leading to his capture.<ref>''[[Inside the Magic: The Making of Fantastic Beasts and Where to Find Them]]'' {{see image|File:Lemus Pinutius - wanted poster.png}}</ref>
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+*''[[Inside the Magic: The Making of Fantastic Beasts and Where to Find Them]]''
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pinutius, Lemus}}
+[[fr:Lemus Pinutius]]
+[[Category:American individuals]]
+[[Category:Criminals]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,44 @@
+{{Cut content}}
+{{Individual infobox
+|theme = individual
+|image=
+|name=Ned
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Shrunken head|Shrunken Head]]<ref name="POAF"/>
+|gender=Male<ref name="POAF"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|So I says to him, 'Careful, Ned. Don't want to go losing your head!'|[[Shrunken heads in the Three Broomsticks|Shrunken head in the Three Broomsticks]]|Harry Potter and the Prisoner of Azkaban (film)}}
+'''Ned''' was a [[Shrunken head|Shrunken Head]]. He was a friend of one of the [[Shrunken heads in the Three Broomsticks]].<ref name="POAF">[http://www.imsdb.com/scripts/Harry-Potter-and-the-Prisoner-of-Azkaban.html ''Prisoner of Azkaban'' script] on IMSDb</ref>
+
+==Behind the scenes==
+*This Shrunken Head is mentioned only in the script of ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]''. The Shrunken Head's line about it was cut from the film.
+
+==Appearances==
+*{{POA|F}} {{C|Script only, cut from final release}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Ned]]
+[[Category:Males]]
+[[Category:Shrunken Heads]]

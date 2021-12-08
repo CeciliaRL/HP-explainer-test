@@ -1,0 +1,73 @@
+{{Spoiler|HM|WU}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Rancorous Carpe
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WW"/>
+|gender = Male<ref name="WW"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Hogwarts Caretaker|Caretaker]] of [[Hogwarts Castle]]<ref name="WW"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="WW"/>
+}}
+'''Rancorous Carpe''' was the [[Hogwarts Caretaker|caretaker]] of [[Hogwarts School of Witchcraft and Wizardry]] in [[1876]].<ref name="WW"/> Carpe was the protagonist of the last and most disastrous attempt to have [[Peeves]], the resident [[poltergeist]], removed from the Castle.<ref name="WW"/>
+
+==Biography==
+In [[1876]], Carpe designed an elaborate [[Rancorous Carpe's trap|trap]] in an attempt to capture and remove [[Peeves]] the poltergeist from Hogwarts; the trap included an assortment of weapons which the caretaker believed would be irresistible to Peeves, as well as a vast enchanted bell jar reinforced by various [[Containment Charm]]s. He believed it would work, but instead Peeves burst through the bell jar, scattering the corridor with broken glass and firing random weapons acquired from the trap. The castle had to be evacuated, and it wasn't until the [[Headmaster|Headmistress]], Professor [[Eupraxia Mole]], agreed to sign a [[Peeves's contract|contract]] allowing Peeves to swim in the boys' toilet once each week, to have first choice of stale bread from the [[Hogwarts kitchens|kitchens]] for throwing purposes, and giving him a new custom-made hat by [[Bonhabille|Madame Bonhabille]] of [[Paris]], that the poltergeist agreed to stand down.<ref name="WW">{{WW|peeves}}</ref>
+
+Following this incident, Rancorous Carpe took early retirement, citing "health reasons".<ref name="WW"/>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': In his elaborate [[Rancorous Carpe's trap|trap]] which he designed in a failed attempt to capture [[Peeves]], he reinforced the bell jar within it with various [[Containment Charm]]s, showing he appeared to be skilled with charms.<ref name="WW"/>
+
+==Etymology==
+*''Rancourous ''is an English adjective which means "characterized by bitterness and resentment",which is a description that fits many caretakers at Hogwarts.
+*''Carpe ''may also be made to fit the exclamation ''Carpe diem!''. It is used to urge someone to use what they have to succeed.This is how he planned to capture Peeves.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{HM}} {{Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Hankerton Humble]]
+|position=[[Hogwarts Caretaker|Caretaker]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=c. [[1876]]
+|successor=Unknown, eventually [[Apollyon Pringle]]
+}}
+{{End box}}
+{{Staff}}
+
+{{DEFAULTSORT:Carpe, Rancorous}}
+[[de:Rancorous Carpe]]
+[[es:Rancorous Carpe]]
+[[fr:Aygron Carpet]]
+[[pl:Rancorous Carpe]]
+[[Category:British or Irish individuals]]
+[[Category:Historical figures]]
+[[Category:Hogwarts Caretakers]]
+[[Category:Males]]
+[[Category:Wizards]]

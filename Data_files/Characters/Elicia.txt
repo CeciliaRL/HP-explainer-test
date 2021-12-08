@@ -1,0 +1,29 @@
+{{Individual infobox
+|image = [[File:Elicia.jpg|250px]]
+|name = Elicia
+|blood = [[Non-magic people|Muggle]]
+|nationality = [[Great Britain|Britain]]
+|species = [[Human]]
+|gender = Female
+|hair = Brown
+|eyes = Blue
+|skin = Light
+|job = Actress
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = y
+|hidea = 
+}}'''Elicia''' was a popular [[Great Britain|Britain]] [[Non-magic people|Muggle]] [[television]] actress during the [[1990s]]. She gave an interview in an issue of the [[Great Britain|British]] periodical ''[[Radio Times]]'' that was published sometime during the summer of [[1997]]. The interview explored how she achieved such great success in her career.<ref>{{HPLE|G}} {{see image|File:RadioTimes.jpg}}</ref>
+
+==Behind the scenes==
+*This character was presumably named after Elicia Scales, who worked as an archivist on {{HBP}}, {{DH|F1}}, and {{DH|F2}}.<ref>"[http://www.imdb.com/name/nm2915578/ Elicia Scales]" on IMDb.com</ref>
+
+==Appearances==
+*{{DH|F1}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Actors]]
+[[Category:Females]]
+[[Category:Muggles]]

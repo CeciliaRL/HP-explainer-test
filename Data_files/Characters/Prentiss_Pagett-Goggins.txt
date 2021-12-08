@@ -1,0 +1,49 @@
+{{MagicAwakenedSpoiler}}
+{{Imageless}}
+{{Individual infobox
+|theme = portrait
+|image = 
+|name = Prentiss Pagett-Goggins
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Lady<ref name="MA">{{MA}}</ref>
+|signature = 
+|species = [[Human]]<ref name="MA"/>
+|gender = Female<ref name="MA"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="MA"/>
+}}
+{{Quote|There were so many people who cared for me... people who would dust me every day and wipe smudges off my frame.|Prentiss Pagett-Goggins|Harry Potter: Magic Awakened}}
+'''Lady Prentiss Pagett-Goggins''' was a [[witch]]. There was a [[portrait]] of her inside the [[Hogwarts Castle]].<ref name="MA"/>
+
+==Biography==
+The portrait of Prentiss Pagett-Goggins had once been placed in a house which [[Fire|burned]] down over a century ago. She was then moved to the [[Hogwarts Castle]], but was stashed down into the [[dungeons]] due to her keep ordering wizards to get her [[tea]].<ref name="MA"/>
+
+Before [[Hallowe'en]] in [[2009]], she was invited to Sir [[Nicholas de Mimsy-Porpington]]'s [[Nicholas de Mimsy-Porpington's five-hundred and seventeenth Deathday Party|517th Deathday Party]]. When a group of students came to the dungeons to search for a map for their [[History of Magic]] assignment, she responded when [[Unidentified Muggle-born Hogwarts student|one of them]] asked about it. She asked them to move her back to the [[Grand Staircase]], which Sir Nicholas agreed since she was not his favourite either. Upon return, she said her old neighbours had talked about the map, but they had been moved away during the [[Battle of Hogwarts]]. She described the place where one of them was moved to, which was identified as the [[Chamber of Secrets]] by the student. She reunited with her neighbours, namely [[Basil Aurelius III]] and [[Harold]], after the students found them and returned them to their original place.<ref name="MA"/>
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pagett-Goggins, Prentiss}}
+[[Category:Females]]
+[[Category:Nobility]]
+[[Category:Portraits]]
+[[Category:Wizards]]

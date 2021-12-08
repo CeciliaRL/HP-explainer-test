@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Alison Denshaw
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her [[first year]] at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="house">{{POA|G}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+'''Alison Denshaw''' was a [[Wizardkind|witch]] and [[Gryffindor]]<ref name="house" /> student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She competed in the school [[Exploding Snap]] tournament during the [[1996–1997 school year]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+The name "Alison" is the Norman French diminutive of ''Aalis''. It has often been construed to mean "truthful". It was common in England and France in the Middle Ages, and was later revived in the 20th century. Variant spellings have substituted "y" for "i", or included an extra "l" in the spelling.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}} {{1st}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts Exploding Snap}}
+{{DEFAULTSORT:Denshaw, Alison}}
+
+[[pl:Alison Denshaw]]
+[[de2:Alison Denshaw]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Exploding Snap players]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

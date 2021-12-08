@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = snatcher
+|image = 
+|name = Unidentified Snatcher (V)
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">[[Snatchers]] hunted [[Muggle-born]]s, so himself was not one.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF1"/>
+|gender = Male<ref name="DHF1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Snatchers|Snatcher]]<ref name="DHF1"/>
+|house = 
+|loyalty = [[Snatchers]]<ref name="DHF1"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who became an [[Snatchers|Snatcher]] during the [[Second Wizarding War]].<ref name="DHF1">{{DH|F1}}</ref> It is unknown if he was killed or imprisoned in [[Azkaban]] later after the end of it in [[1998]].
+
+==Behind the scenes==
+*The snatcher was played by [[Sam Parham]] in {{DH|F1}}.
+
+==Appearances==
+*{{DH|F1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[pt-br:Sequestrador não identificado (V)]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified snatchers]]

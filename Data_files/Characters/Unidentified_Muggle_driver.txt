@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = Muggle.png
+|name = Unidentified Muggle driver
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="COSF"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COSF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSF"/>
+|gender = Male<ref name="COSF"/>
+|height = 
+|weight = 
+|hair = Black<ref name="COSF"/>
+|eyes = 
+|skin = White<ref name="COSF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Taxi Driver<ref name="COSF"/>
+|house = 
+|loyalty = 
+}}
+This '''individual''' was a [[Non-magic people|Muggle]] taxi driver who worked in [[London]] during the early [[1990s]].<ref name="COSF"/>
+
+==Biography==
+In [[1992]], he witnessed [[Harry Potter]] and [[Ronald Weasley]] leave [[King's Cross Station]] in the flying [[Flying Ford Anglia|Ford Anglia]] on [[1 September]], [[1992]]. He was sitting in his cab, and was stunned by what he saw, leaning out his window to get a better look.<ref name="COSF">{{COS|F}}</ref>
+
+The [[Evening Prophet]] later reported on the [[FLYING FORD ANGLIA MYSTIFIES MUGGLES|incident]], stating that the flying car had been seen by ''"no less than seven Muggles."''<ref name="COSF"/>
+
+==Behind the scenes==
+*This individual, along with [[Angus Fleet]], was presumably one of the [[Non-magic people|Muggles]] that [[Molly Weasley]] mentioned to her son [[Ronald Weasley|Ron]], saying that he caused [[Arthur Weasley]] to face an inquiry at [[British Ministry of Magic|work]].<ref name="CS6">{{COS|B|6}}</ref>
+
+==Appearances==
+*{{COS|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals|Muggle driver]]
+[[Category:Males|Muggle driver]]
+[[Category:Unidentified Muggles|Muggle driver]]

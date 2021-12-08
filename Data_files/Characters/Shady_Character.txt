@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:ShadyCharacter.png|250px]]
+|name = Shady Character
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="PM"/>
+|eyes = Dark<ref name="PM"/>
+|skin = White<ref name="PM"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="PM"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] and student at [[Hogwarts School of Witchcraft and Wizardry]] who, while aboard the [[Hogwarts Express]], would engage in friendly [[Duelling|duels]] with fellow students.<ref name="PM">{{PM}} - PlayStation Home</ref>
+
+==Appearances==
+*{{PM}} {{Comment|PlayStation Home}}
+
+==Notes and references==
+{{Reflist}}
+{{stub}}
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Arthur Weasley's contact at the Floo Regulation Panel
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Floo Regulation Panel]] employee
+|house = 
+|loyalty = *[[British Ministry of Magic|Ministry of Magic]]
+*[[Department of Magical Transportation]]
+}}
+{{Quote|I had your fireplace connected to the Floo Network, you see — just for an afternoon, you know, so we could get Harry. Muggle fireplaces aren't supposed to be connected, strictly speaking — but I've got a useful contact at the Floo Regulation Panel and he fixed it for me.|[[Arthur Weasley]] to [[Vernon Dursley]] in the summer of [[1994]].|Harry Potter and the Goblet of Fire}}
+
+This '''individual''' was an employee at the [[Floo Regulation Panel]] at the [[British Ministry of Magic|Ministry of Magic]] in the [[1990s]]. At [[Arthur Weasley]]'s request, this individual was responsible for the afternoon-long connection of the fireplace at [[4 Privet Drive]] to the [[Floo Network]] on [[24 August]], [[1994]].<ref name="GF4">{{GOF|B|4}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Ministry Level 6 employees}}
+
+[[es:Contacto de Arthur Weasley en el panel regulatorio de la Red Flu]]
+[[pt-br:Contato de Arthur Weasley na Comissão de Regulamentação da Rede de Flu]]
+[[Category:British individuals]]
+[[Category:Department of Magical Transportation personnel]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

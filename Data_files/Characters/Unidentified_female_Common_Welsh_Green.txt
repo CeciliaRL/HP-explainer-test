@@ -1,0 +1,37 @@
+{{Conjecture}}
+{{WizardsUniteSpoiler}}
+{{Pet individual infobox
+|image = Brilliant Welsh Green WU.png
+|name = Unidentified female Common Welsh Green
+|born = Pre [[1994]]
+|died = 
+|alias = 
+|title = 
+|species = [[Dragon]] ([[Common Welsh Green]])<ref name="GOF20"/>
+|gender = Female<ref name="GOF20"/>
+|height = 
+|hair = None<ref name="GOF20"/>
+|feathers = 
+|eyes = Black
+|skin = Green<ref name="GOF20"/>
+|family = 
+|loyalty = 
+}}
+This unidentified '''Common Welsh Green''' was the female [[dragon]] that [[Fleur Delacour]] had to get past in the [[Triwizard Tournament|First Task]] of the [[1994]] [[Triwizard Tournament]]. Fleur attempted to put her into a [[bewitched sleep]] but was only partly successful. Fleur escaped with the tournament's [[golden egg]] but the dragon caught Fleur's skirt and set it on [[fire]] during the task.<ref name="GOF20">{{GOF|B|20}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}} {{Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+*{{HPV|CR}} {{Mention}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Vert gallois du Tournoi des Trois Sorciers]]
+[[Category:Articles with conjectural titles]]
+[[Category:Black-eyed individuals]]
+[[Category:Females]]
+[[Category:Foundables]]
+[[Category:Triwizard Tournament dragons|Welsh]]

@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Dehoff
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Dehoff family]]
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Inventor
+|house=
+|loyalty=
+}}
+'''Dehoff''' was a [[wizardkind|wizard or witch]] who invented [[bimetal alchemical thread]]. This [[magic]]al fibre, which Dehoff patented, was invisible to [[Dark Wizard]]s, and as such was used to make the protective product [[Hex-a-Gone]]. However, Hex-a-Gone had "extremely complicated and laborious instructions" that had to be carefully followed, and could result in unintended home "hexidents" if used improperly. Dehoff would not be held legally responsible for such "hexidents."<ref name="HPLE">{{HPLE|G}} {{see image|File:Hex-a-Gone.png}}</ref>
+
+==Behind the scenes==
+*This character was named after [[Julia Dehoff (real-world)|Julia Dehoff]], who worked as a draughtsman on several [[Harry Potter films|''Harry Potter'' films]].<ref>"[http://www.imdb.com/name/nm0215005/ Julia Dehoff]" on IMDb</ref>
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{Comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Dehoff]]
+[[Category:Dehoff family]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Inventors]]
+[[Category:Wizards]]

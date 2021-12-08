@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = J. Pippin
+|born = Prior to [[1753]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Potioneer]]
+|house = 
+|loyalty = [[J. Pippin's Potions]]
+}}
+'''J. Pippin''' (fl. [[1753]]) was a [[potioneer]] and presumable founder of the [[J. Pippin's Potions]] chain of apothecaries.<ref name="WWHP">[http://parksleuth.com/photos/?album=1&cover=0 "The Wizarding World of Harry Potter" photos] at [http://parksleuth.com/ ParkSleuth.com]</ref>
+
+==Appearances==
+[[File:JPippins.jpg|250px|thumb|right|J. Pippins sign in [[Diagon Alley]]]]
+*{{PS|F}} {{Name on sign}}
+*{{COS|F}} {{Name on sign}}
+*{{HBP|F}} {{Name on sign}}
+*{{DH|G2}} {{Name on sign}}
+*{{LEGO|Y1}} {{Name on sign}}
+*{{LEGO|Y2}} {{Name on sign}}
+*{{WWHP}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Pippin, J.}}
+{{Potions}}
+{{Diagon Alley}}
+{{Hogsmeade}}
+[[es:J. Pippin]]
+[[pl:J. Pippin]]
+[[Category:British individuals|Pippins, J.]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Potioneers|Pippins, J.]]
+[[Category:Shop owners]]
+[[Category:Wizards|Pippins, J.]]

@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Gwen_Morgan.png]]
+|name = Gwendolyn Morgan
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="QTA7"/>
+|alias = 
+|title = [[Quidditch Captain]]<ref name="QTA7"/>
+|signature = 
+|species = [[Human]]<ref name="QTA7"/>
+|gender = Female<ref name="QTA7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Valmai Morgan]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Professional [[Quidditch]] player for the [[Holyhead Harpies]]<ref name="QTA7"/>
+|house = 
+|loyalty = [[Holyhead Harpies]]<ref name="QTA7"/>
+}}
+'''Gwendolyn Morgan''' was a [[wizardkind|witch]] who played [[Quidditch]] for the [[Holyhead Harpies]], and was the team Captain in [[1953]]. Following a seven day match against the [[Germany|German]] team [[Heidelberg Harriers]] in 1953, the Harriers Captain, [[Rudolf Brand]], proposed marriage to her. She promptly concussed him with her [[Cleansweep Five]].<ref name="QTA7">{{QTA|R|7}}</ref>
+
+==Etymology==
+The name "Gwendolyn" means "white ring", derived from the Welsh elements gwen "white, fair, blessed" and dolen "ring". This was the name of a mythical queen of the Britons who defeated her husband in battle, as told by Geoffrey of Monmouth.
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Morgan, Gwendolyn}}
+
+[[de:Gwendolyn Morgan]]
+[[fr:Gwendolyn Morgan]]
+[[pl:Gwendolina Morgan]]
+[[pt-br:Gwendolyn Morgan]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Morgan family]]
+[[Category:Quidditch Captains]]
+[[Category:Wizards]]

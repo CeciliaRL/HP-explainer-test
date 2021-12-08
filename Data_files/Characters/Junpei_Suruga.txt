@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="house">{{POA|G}} {{C|PS2 version}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Slytherin]]
+}}
+'''Junpei Suruga''' was a [[Slytherin]]<ref name="house" /> student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+He competed in the school [[Wizard Skittles]] tournament during the [[1996–1997 school year]].
+
+==Etymology==
+Junpei is a male name of Japanese origin, meaning "pure, genuine".
+
+==Behind the scenes==
+Given his name, he is most likely of Japanese descent.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Suruga, Junpei}}
+
+[[pl:Junpei Suruga]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizard Skittles Players]]
+[[Category:Wizards]]

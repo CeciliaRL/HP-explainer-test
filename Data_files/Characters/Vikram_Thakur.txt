@@ -1,0 +1,57 @@
+{{Imageless}}
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref name="age">He was at least in his first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="house">{{POA|G}} {{C|Console version}}</ref><ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Slytherin]]<ref name="HBPG"/>
+}}
+'''Vikram Thakur''' was a [[Wizardkind|wizard]] and a [[Slytherin]]<ref name="house" /> student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He competed in the school [[Gobstones]] tournament during the [[1996–1997 school year]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+The name "Vikram" means "stride, pace" or "valour" in Sanskrit. This is another name of the Hindu god Vishnu. This was also the name of a semi-legendary 1st-century BC king (full name Vikramaditya) of Ujjain in India.
+The surname "Thakur" is a North Indian surname and a title which means "lord".
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|console version]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+*Based on his name, he is most likely of Indian descent.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts Gobstones}}
+{{DEFAULTSORT:Thakur, Vikram}}
+[[fr:Vikram Thakur]]
+[[pl:Vikram Thakur]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

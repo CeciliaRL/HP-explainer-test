@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Lydia Scarlett - FB-C.png|250px]]
+|name = Lydia Scarlett
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = The Slip
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = Brown
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Lydia Scarlett''' was a [[Great Britain|British]] [[wizardkind|witch]] who was tried by the [[Wizengamot]] for trying to rob a private vault at [[Gringotts Wizarding Bank]].<ref>{{FBC|8|1}}</ref>
+
+==Appearances==
+*{{FBC}}
+
+==Notes and references==
+{{Reflist}}
+{{Stub}}
+{{DEFAULTSORT:Scarlett, Lydia}}
+[[pl:Lydia Scarlett]]
+[[fr:Lydia Scarlett]]
+[[ru:Лидия Скарлетт]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Criminals]]
+[[Category:Females]]
+[[Category:Wizards]]

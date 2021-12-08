@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Violeta Stitch
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author
+|house = 
+|loyalty = 
+}}
+'''Violeta Stitch''' was a [[wizardkind|witch]] and the author of ''[[Extreme Incantations]]'', a [[Charms (class)|Charms]] spellbook.<ref>[http://www.imsdb.com/scripts/Harry-Potter-and-the-Prisoner-of-Azkaban.html ''Prisoner of Azkaban'' script] on IMSDb (archived [http://web.archive.org/web/20090216093016/http://imsdb.com/scripts/Harry-Potter-and-the-Prisoner-of-Azkaban.html here] via the Internet Archive's Wayback Machine)</ref>
+
+==Behind the scenes==
+*This character is mentioned only in the script of ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]''. The cover of ''Extreme Incantations'' — and thus its author's name — is not shown in the film.
+
+==Appearances==
+*{{POA|F}} {{Comment|Script}}
+
+==Notes and references==
+{{Reflist}}
+{{Charms}}
+{{DEFAULTSORT:Stitch, Violeta}}
+[[es:Violeta Stitch]]
+[[fr:Violeta Stitch]]
+[[pl:Violeta Stitch]]
+[[ru:Виолета Ститч]]
+[[Category:Authors]]
+[[Category:Females]]
+[[Category:Wizards]]

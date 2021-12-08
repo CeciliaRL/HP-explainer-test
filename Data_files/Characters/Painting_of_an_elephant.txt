@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:Painting of an elephant.jpg|250px]]
+|name = Painting of an elephant
+|born = 
+|died = Before [[1993]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Elephant]]<ref name="PA13"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Grey<ref name="PA13"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''[[portrait|painting]] of an {{Wplink|elephant}}''' hung at [[Hogwarts School of Witchcraft and Wizardry]] in [[1993-1994 school year]], on the seventh-floor level of the [[Grand Staircase]], among paintings of other animals such as a [[Painting of a caged monkey|caged monkey]], a [[Painting of a tiger|tiger]] and [[Painting of a hippopotamus|a hippopotamus]]. When the [[Fat Lady]] was attacked by [[Sirius Black]] this elephant was one of them that was shocked.<ref name="PA13">{{POA|F}} - Chapter 13 (''Flight of the Fat Lady'')</ref>
+
+==Appearances==
+*{{POA|F}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts seventh floor}}
+[[es:Pintura de un elefante]]
+[[pl:Obraz słonia]]
+[[Category:Elephants]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Paintings of creatures]]

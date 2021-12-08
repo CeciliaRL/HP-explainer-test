@@ -1,0 +1,62 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=individual
+|image=Credence Barebone's aunt holding Corvus Lestrange (V).png
+|name=Credence Barebone's aunt
+|born=Before [[1901]]
+|died=[[1901]]<ref name="COG105"/>
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="COG105"/>
+|gender=Female<ref name="COG105"/>
+|height=
+|hair=Dark<ref name="COG105"/>
+|eyes=
+|skin=
+|family=*[[Credence Barebone's mother]] (sister or sister-in-law)
+*[[Credence Barebone]] (nephew)<ref name="COG105"/>
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=[[Credence Barebone]]<ref name="COG105"/>
+}}
+{{Quote|[[Irma Dugard|Irma]]? They want us to put on life jackets!|Credence's aunt minutes prior before her death|Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay}}
+This '''woman''' was an aunt of [[Credence Barebone]].<ref name="COG105"/>
+
+==Biography==
+This woman was caring for her nephew [[Credence Barebone|Credence]] in [[1901]]. At some point during a [[ship voyage to America]] in 1901, the ship she and Credence went on sank during a storm. Unbeknownst to her, her nephew was switched in the crib with another [[Corvus Lestrange (V)|baby]] by a young [[Leta Lestrange]]. The life boat she went on capsized and she drowned when she dived under the [[water ]]to try to save baby Corvus, whom she believed was her nephew.<ref name="COG105"/>
+
+Credence survived and ended up being raised by an unrelated woman in [[New York]], known as [[Mary Lou Barebone]], who treated Credence abusively.<ref name="COG105"/>
+
+==Physical description==
+The aunt of Credence Barebone was described being a dark-haired young woman. She wore a nightdress and life jacket minutes prior before her death.<ref name="COG105">{{COG|S|105}}</ref>
+
+==Personality==
+Judging by her actions, the aunt was shown to have taken her responsibility as her nephew's caretaker very serious to the point that she willingly risk her own life to save the child she believed to be him.<ref name="COG105"/>
+
+==Behind the scenes==
+*She is played by [[Linda Santiago]] in {{COG}}.<ref name="COG">[http://www.imdb.com/name/nm1205451/ IMDB]</ref>
+*The Dumbledore siblings, Albus, Aberforth and Ariana, are known to have had a maiden aunt, [[Honoria]]; if Credence is indeed their brother, it is possible this individual could be her. 
+*It is only shown in the credits and in the ''The Crimes of Grindelwald'' screenplay that she is Credence's aunt. It is never stated whether Leta revealed this to Newt Scamander and Tina Goldstein, so it is possible the latter are unaware of that fact by the end of that film.
+
+==Appearances==
+{{Imagecat|Images of Credence Barebone's aunt}}
+*{{COG|S}} {{1st}} {{Flashback}}
+*{{COG}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Tía de Credence Barebone]]
+[[fr:Tante de Croyance Bellebosse]]
+[[pl:Ciotka Credence'a Barebone'a]]
+[[Category:1901 deaths]]
+[[Category:Deaths by drowning]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Unnamed family members]]

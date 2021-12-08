@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Roland Kegg.jpg|250px]]
+|name = Roland Kegg
+|born = [[1903]]<ref name="COSG">{{COS|G}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[England|English]]
+|alias = 
+|title = President
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Blond<ref name="COSG">{{COS|G}}</ref>
+|eyes = 
+|skin = White<ref name="COSG">{{COS|G}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[English National Gobstones Team|English Gobstones Team]]
+}}
+'''Roland Kegg''' (b. [[1903]]) was an [[England|English]] [[Wizardkind|wizard]] who was President of the [[English National Gobstones Team|English Gobstones Team]]. For his achievement he was commemorated on a bronze [[Chocolate Frog Card]].<ref name="COSG">{{COS|G}}</ref>
+
+==Etymology==
+The name "Roland" means "famous land" from the Germanic elements ''hrod'' "fame" and land. Roland was a semi-legendary French hero whose story is told in the medieval epic 'La Chanson de Roland', in which he is a nephew of Charlemagne killed in battle with the Saracens. This name was introduced to England by the Normans.
+
+==Appearances==
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+{{Character-stub}}
+
+{{DEFAULTSORT:Kegg, Roland}}
+
+[[de:Roland Kegg]]
+[[fi:Roland Kegg]]
+[[es:Roland Kegg]]
+[[fr:Roland Tonneau]]
+[[it:Roland Kegg]]
+[[pl:Roland Kegg]]
+[[ru:Роланд Кегг]]
+[[Category:1903 births]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:English individuals]]
+[[Category:Gobstones players]]
+[[Category:Males]]
+[[Category:Wizards]]

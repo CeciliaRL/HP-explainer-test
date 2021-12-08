@@ -1,0 +1,50 @@
+{{DISPLAYTITLE:Jamie Wolpert}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Jamie Wolpert
+|born = In or prior to [[1978]]<ref name="eighteen">The age of majority in Muggle Britain is 18 years. To be working for a newspaper in 1996, this individual must have been 18 or older at the time.</ref>
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HPLE"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HPLE"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HPLE"/>
+|gender = Male<ref name="HPLE"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Nigel Wolpert]] (Possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Journalist for ''[[The Guardian]]''<ref name="HPLE"/>
+|house = 
+|loyalty = *''[[The Guardian]]''<ref name="HPLE"/>
+*[[Wolpert family]]
+}}
+'''Jamie Wolpert''' was a [[Non-magic people|Muggle]] journalist who, in the summer of [[1996]], wrote the front-page article about the collapse of the [[Millennium Bridge]] for ''[[The Guardian]]''.<ref name="HPLE">{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Behind the scenes==
+*This character was named after [[Jamie Wolpert]], who worked behind-the-scenes as an assistant to [[David Yates]] on ''[[Harry Potter and the Order of the Phoenix (film)|Harry Potter and the Order of the Phoenix]]'' and ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]'', and as a book consultant on {{DH|F1}} and ''[[Harry Potter and the Deathly Hallows: Part 2|Part 2]]''. He also had a cameo as a [[Unidentified newspaper vendor|''Daily Prophet'' newspaper vendor]] at the [[British Ministry of Magic|Ministry of Magic]] in ''Harry Potter and the Order of the Phoenix''.<ref>"[http://www.imdb.com/name/nm1660828/ Jamie Wolpert]" on IMDb</ref>
+
+==Appearances==
+*{{HBP|F}} {{1st Mention}}
+*{{HPLE}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Wolpert, Jamie}}
+[[ru:Джейми Вольперт]]
+[[pl:Jamie Wolpert (mugol)]]
+[[Category:British individuals]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Wolpert family]]

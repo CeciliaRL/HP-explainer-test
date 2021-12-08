@@ -1,0 +1,53 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|image = 
+|name = Kit Gerrard
+|born = 
+|died = 
+|blood = 
+|nationality = [[Great Britain|British]]<ref name="WU"/>
+|alias = 
+|marital = 
+|signature = 
+|title = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Male<ref name="WU"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|house = 
+|job = Reporter for the [[Daily Prophet]]<ref name="WU"/>
+|loyalty = [[Daily Prophet]]<ref name="WU"/>
+|theme = daily-prophet
+}}
+'''Kit Gerrard''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who was reporter from the [[Daily Prophet]].<ref name="WU">{{WU}} "Brilliant Event: Hogwarts for the Holidays"</ref>
+
+==Biography==
+[[File:London Five Missing.png|150px|left|thumb|The ''[[Daily Prophet]]'' reports the disappearance of Kit Gerrard, among others]]
+He were one of the wizards who mysteriously vanished during the [[London Five]] sometime during the mid-to-late [[2010s]]. His disappearance occurred within a few hours of the four Aurors. It was the first instance of people having gone mysteriously missing since the [[Second Wizarding War]], and hence came as a great shock to the [[Wizardkind|wizarding community]] of [[Great Britain]] at large. 
+
+An investigation was launched by the [[British Ministry of Magic]] to try and locate Gerrard and their fellow victims. As time passed, however, the Ministry met a dead end when the trail went cold, and it was generally felt by many that the chance of finding Gerrard grew increasingly smaller, causing the despair of their family to increase and turn into outrage when the case was closed. As [[Gareth Greengrass]] indeed speculated, it is very likely that Gerrard was deceased, as of [[2018]], though there was a small chance they were still alive.<ref name="WU trailer img">{{WU}} {{See image|file:WU trailer documents ref.png}}</ref>
+
+In December [[2020]], during another surge of [[Calamity]], Gerrard was found inside the portrait of [[Merlin]] in the [[Grand Staircase]] in [[Hogwarts Castle]]. Unfortunately, he could not be able to remember anything about himself or how he got there.<ref name="WU"/>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Gerrard, Kit}}
+{{Daily Prophet}}
+[[Category:British individuals]]
+[[Category:Daily Prophet staff]]
+[[Category:Journalists]]
+[[Category:London Five]]
+[[Category:Males]]
+[[Category:Wizards]]

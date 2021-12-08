@@ -1,0 +1,48 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Flavius Flint
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">Flint was the surname of a known pure-blood family in the [[Sacred Twenty-Eight]], and he joined [[The Unforgivable]], who had connections to the [[Death Eaters]]. He was unlikely to be anything less than a [[Half-blood]].</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="AWP" />
+|gender = Male<ref name="AWP" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Flint family]]<ref name="AWP" />
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Flint family]]<ref name="AWP" />
+*[[The Unforgivable]] {{c|formerly}}<ref name="AWP" />
+}}
+'''Flavius Flint''' was a [[Wizardkind|wizard]] who was once involved in [[the Unforgivable]]. He later defected, turning into an informant for the [[British Ministry of Magic]] until he was caught and put into a safe house. However, he was eventually kidnapped by the Unforgivable.<ref name="AWP">[[Brilliant Event: A Weasley Predicament]]</ref> 
+
+==Biography==
+At an unknown date, Flavius Flint joined [[The Unforgivable]]. At one point, he decided to defect and agreed to be an informant for the [[British Ministry of Magic|Ministry]]. The Unforgivable eventually found out that he had betrayed them. When they kidnapped [[Ronald Weasley]], they demanded full control of the [[Calamity]] and they wanted Flint and [[Kit Gerrard]] in exchange for Ron.<ref name="AWP" />
+
+[[Harry Potter]] debated giving Flint and Gerrard to the Unforgivable, because he was worried that they would hurt Ron if they declined. However, [[Hermione Granger]] decided that she and [[Constance Pickering]] would use [[Polyjuice Potion]] to take the places of Gerrard and Flint and infiltrate the Unforgivable. They put Gerrard and Flint in a safe house, while Harry gave her and Constance in exchange for Ron. However, the Unforgivable found out about their deception. While Harry, Hermione and Constance fought The Unforgivable, Flint and Gerrard were kidnapped.<ref name="AWP" />
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Flint, Flavius}}
+[[Category:British individuals]]
+[[Category:Flint family]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,66 @@
+{{SODSpoiler}}
+{{Individual infobox
+|theme = ilvermorny
+|image = LallyHicksCOG.png
+|name = Eulalie Hicks
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[United States of America|American]]
+|alias = Lally<ref name="pm"/>
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Charms (class)|Charms]]<ref name="charms">{{Tweet|leaky|The Leaky Cauldron|1092562512799846406|What can Jessica Williams tell us about Ilvermorny's Professor Eulalie ('Lally') Hicks? She's a Charms professor, for one!}}</ref> [[professor]] at [[Ilvermorny School of Witchcraft and Wizardry|Ilvermorny]]
+|house = 
+|loyalty = [[Ilvermorny School of Witchcraft and Wizardry]]
+}}
+'''Professor Eulalie "Lally" Hicks''' was an [[United States of America|American]] [[Wizardkind|witch]] and a [[Charms (class)|Charms]] [[professor]] at [[Ilvermorny School of Witchcraft and Wizardry]] in the late [[1920s]].<ref name="pm">{{Tweet|jk_rowling|J. K. Rowling|988186644355473409|Professor Eulalie (Lally) Hicks of Ilvermorny School of Witchcraft and Wizardry with some random woman during the interval of #CursedChildNYC}}</ref>
+
+==Biography==
+Hicks began teaching at [[Ilvermorny School of Witchcraft and Wizardry]] as the [[Charms (class)|Charms]] [[Professor]] sometime prior to [[1927]].
+[[File:Eulalie Hicks, COG.png|250px|thumb|left|Lally speaking to Nicolas in his home]]
+In early [[September]] [[1927]], [[Nicolas Flamel]] had a conversation with Eulalie Hicks via [[Nicolas Flamel's phoenix-embossed book|his magical book]]. She urged him to help [[Newton Scamander]] and told Flamel that "they all believed in him".<ref name="COGA86">{{COG|S|86}}</ref>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': As a [[Professor]] of [[Charms (class)|Charms]] at [[Ilvermorny School of Witchcraft and Wizardry]], Hicks would have been highly accomplished, knowledgeable and talented in this branch of [[magic]], meaning she would have been able to perform a large amount of these [[spell]]s successfully, along with the [[Theory of Charms]].<ref name="charms"/>
+
+==Etymology==
+*"Eulalie" is the French form of "Eulalia", which is derived from Greek ''ευλαλος'' (eulalos) meaning "sweetly-speaking", itself from ''ευ'' (eu) "good" and ''λαλεω'' (laleo) "to talk".
+*The surname "Hicks" is an English patronymic derived from "Hick", which is from the medieval personal name "Hicke", a pet form of "Richard" (meaning "powerful ruler"). "Hicks" is a widespread surname in England, and is common in the southwest and southern Wales.
+
+==Behind the scenes==
+*Eulalie Hicks is played by [[Jessica Williams]] in a cameo in {{COG}}, and also in a larger and more significant role in {{SOD}}.<ref>{{Tweet|jk_rowling|J. K. Rowling|988189731556126720|You only see a HINT of Lally in Fantastic Beasts 2. Her true glory is revealed in FB3.}}</ref>
+
+==Appearances==
+*{{COG|S}} {{1st}}
+*{{COG}}
+*{{SOD}}
+
+==Notes and references==
+{{Reflist}}
+{{Ilvermorny}}
+{{DEFAULTSORT:Hicks, Eulalie}}
+[[de: Eulalie Hicks]]
+[[de2:Eulalie Hicks]]
+[[es:Eulalie Hicks]]
+[[fr:Eulalie Hicks]]
+[[pl:Eulalia Hicks]]
+[[ja:ユーラリー・ヒックス]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Ilvermorny professors]]
+[[Category:Wizards]]

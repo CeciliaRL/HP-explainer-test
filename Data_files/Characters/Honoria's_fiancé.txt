@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Honoria's fiancé
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="TBB"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="TBB"/>
+|gender = Male<ref name="TBB"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = [[Honoria]] (formerly)<ref name="TBB"/>
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Improper Use of Magic Office]] employee<ref name="TBB"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="TBB"/>
+**[[Improper Use of Magic Office]]<ref name="TBB"/>
+}}
+The '''fiancé''' of [[Honoria]] was a [[Wizardkind|wizard]] who worked in the [[Improper Use of Magic Office]]. Honoria called off their engagement, telling people it was because she learned "he had a [[Hairy Heart]]" (a [[Wizarding world|wizarding]] expression for an unfeeling person), but rumour had it that she had really been disturbed to catch him in the middle of fondling some [[Horklump]]s.<ref name="TBB">{{TBB|H}}</ref>
+
+==Appearances==
+*{{TBB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+[[es:Novio de Honoria]]
+[[Category:British individuals]]
+[[Category:Improper Use of Magic Office personnel]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

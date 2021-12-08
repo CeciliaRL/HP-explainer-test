@@ -1,0 +1,54 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = Unidentified third year Slytherin boy.png
+|name = Unidentified third year Slytherin boy
+|born = Between [[1 September]] [[1974]] and [[31 August]] [[1975]]<ref name="HM520">{{HM|5|20}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM520"/>
+|gender = Male<ref name="HM520"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="HM520"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HM520"/>
+**[[Slytherin]]<ref name="HM520"/>
+}}
+This '''[[Wizardkind|wizard]]''' attended [[Hogwarts School of Witchcraft and Wizardry]] during the [[1980s]].<ref name="HM520"/>
+
+==Biography==
+This individual was born between [[1 September]] [[1974]] and [[31 August]] [[1975]]. In [[1986]], he began attending [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|Sorted]] into [[Slytherin]].<ref name="HM520"/>
+
+===1988–1989 school year===
+{{Quote|Have you studied [[Apparition]]? I imagine that this felt something like that...|This boy to [[Jacob's sibling]]|Harry Potter: Hogwarts Mystery}}
+During his third school year, this boy was missing after he was leaving [[Defence Against the Dark Arts]] [[Classroom 3C|class]]. Like [[Beatrice Haywood]] before, he went ended up inside a painting in the [[Grand Staircase]].<ref name="HM520"/> 
+
+Near the end of the year, he was freed from the portrait with the other victims.<ref name="HM531">{{HM|5|31}}</ref>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Sorted in 1988]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

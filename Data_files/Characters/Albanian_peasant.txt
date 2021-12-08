@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Albanian peasant
+|hideb=
+|born=
+|died=After [[1946]]<ref name="livechat"/>
+|blood=[[Non-magic people|Muggle]]<ref name="livechat"/>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="livechat"/>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=hide
+|job=
+|loyalty=
+|nationality = [[Albania]]n<ref name="livechat"/>
+}}
+This '''peasant''' was a [[Non-magic people|Muggle]] who was born in [[Albania]]. When [[Tom Riddle|Tom Marvolo Riddle]] had found [[Rowena Ravenclaw]]'s [[Rowena Ravenclaw's Diadem|diadem]], he killed the peasant and used the [[death]] to turn the priceless relic into a [[Horcrux]].<ref name="livechat">[https://archive.org/stream/J.k.RowlingChatTranscript/ChatJkRowling_djvu.txt Bloomsbury Live Chat transcript]</ref>
+
+==Behind the scenes==
+*[[Albus Dumbledore]] speculated that Voldemort was reserving the creation of his Horcruxes via significant murders.<ref name="HBP23">{{HBP|B|23}}</ref> This means that this individual played an important role in Voldemort's life, or that Dumbledore's speculation was incorrect (as he admitted he was not perfect, proven with his incorrect belief that Voldemort used [[Frank Bryce]]'s murder to create his [[Nagini|final Horcrux]] when it was in fact [[Bertha Jorkins]]).
+
+==Appearances==
+*''[[Bloomsbury Live Chat]]'' {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[nl:Albanese boer]]
+[[pl:Albański rolnik]]
+[[Category:20th century deaths]]
+[[Category:Albanian individuals]]
+[[Category:Horcrux victims]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Unidentified Muggles‎]]

@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Quidditch World Cup programme seller
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFF"/>
+|gender = Male<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Salesman<ref name="GOFF"/>
+|house = 
+|loyalty = [[Quidditch World Cup]]<ref name="GOFF"/>
+}}
+{{Quote|Get your Quidditch World Cup programmes here! Only five Silver-Sickles.|The wizard.|Harry Potter and the Goblet of Fire (film)}}
+This '''individual''' was a [[Wizardkind|wizard]] salesman who, on the final of the [[1994]] [[Quidditch World Cup]] was selling the programme of the event.<ref name="GOF7">{{GOF|B|7}}</ref><ref name="GOFF">{{GOF|F}}</ref>
+
+==Appearances==
+*{{GOF}} {{Comment|Indirectly}}
+*{{GOF|F}} {{Comment|Heard only}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

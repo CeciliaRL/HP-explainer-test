@@ -1,0 +1,51 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Winifred Warrington
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="MA">{{MA}}</ref>
+|gender = Female<ref name="MA"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Warrington sisters' father|Father]]
+*[[Ivy Warrington]] (sister)
+*[[Warrington sisters' grandmother|Grandmother]]
+*[[Cassius Warrington]] (possible relative)
+*[[Warrington family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Warrington family]]
+}}
+'''Winifred Warrington''' was a witch,  the daughter of a [[Non-magic people|Muggle]] [[Warrington sisters' father|father]]. Her [[Warrington sisters' grandmother|grandmother]] and her sister, [[Ivy Warrington]] were witches.<ref name="MA" />
+
+During her childhood, Winifred accidentally caused herself to vanish, and their grandmother put a [[Memory Charm]] on her so she would forget what happened to her, but it caused her to completely forget Winifred.<ref name="MA" /> 
+
+==Behind the scenes==
+*It is possible that she was related to [[Cassius Warrington]].  
+
+==Appearances==
+
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Warrington, Winifred}}
+[[Category:Females]]
+[[Category:Warrington family]]
+[[Category:Wizards]]

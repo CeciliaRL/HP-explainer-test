@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = E. Lima
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HPLE"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Lima family]]<ref name="HPLE"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Duelling|Duellist]]<ref name="HPLE"/>
+|house = 
+|loyalty = 
+}}
+'''E. Lima''' was a [[wizardkind|wizard or witch]] who competed in [[Duelling|duels]]. The ''[[Daily Prophet]]'' published a special report in [[1996]] about a duel between E. Lima and [[M. Mina]] that was the final match of a duelling competition.<ref name="HPLE">{{HPLE|G}} {{see image|File:DailyProphetWizardingDuellingFinal.png}}</ref>
+
+==Behind the scenes==
+*This character was named after [[Eduardo Lima]], a graphic artist who worked on every [[Harry Potter films|''Harry Potter'' film]] from ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'' onward.
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{1st Mention}} {{comment|Mentioned in a newspaper}}
+*{{HPLE|G}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Lima, E.}}
+
+[[de2:E. Lima]]
+[[es:E. Lima]]
+[[pl:E. Lima]]
+[[vi:E. Lima]]
+[[pt-br:E. Lima]]
+[[Category:Duellists]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Lima family|E.]]
+[[Category:Wizards]]

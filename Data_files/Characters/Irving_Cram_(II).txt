@@ -1,0 +1,52 @@
+{{Youmay|the Slytherin Hogwarts student|[[Irving Cram (I)|the other student of the same name]]}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Irving Cram.jpg|100px]]
+|name = Irving Cram
+|born = [[31 August]] [[1985]] or earlier<ref>He must have at least been in his first year in 1996.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Irving Cram (I)]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+*[[Cram family]]
+}}
+'''Irving Cram''' was a [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He stood guard over places that were off limits during the [[1996-1997 school year]].
+
+==Etymology==
+The name "Irving" is from a Scottish surname which was in turn derived from a Scottish place name.
+
+==Appearances==
+*{{HBP|G}} {{Comment|Nintendo DS version only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Cram, Irving}}
+[[fr:Irving Cram]]
+[[pl:Irving Cram (II)]]
+[[Category:British or Irish individuals]]
+[[Category:Cram family]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

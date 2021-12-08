@@ -1,0 +1,47 @@
+{{Youmay|the Muggle musician|[[Alice Tolipan (witch)|the Hogwarts student]] or [[Alice (disambiguation)|other Alices]]}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Alice Tolipan
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Musician
+|house = 
+|loyalty = 
+}}
+'''Alice Tolipan''' was a [[Non-magic people|Muggle]] musician. Along with [[Luca Caruso (Muggle)|Luca Caruso]], she provided the music for the [[Regency Playhouse]]'s adapted production of ''[[Romeo and Juliet]]'', which was staged during the summer of [[1997]].<ref>{{HPLE|G}} {{see image|File:Romeo&JulietDetail.png}}</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Tolipan, Alice}}
+
+[[de2:Alice Tolipan (Muggel)]]
+[[pl:Alice Tolipan (mugolka)]]
+[[vi:Alice Tolipan (Muggle)]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Musicians]]

@@ -1,0 +1,50 @@
+{{merge|Unidentified Hogwarts students at the Battle of Hogwarts|A user went creating [[Unidentified Hogwarts students at the Battle of Hogwarts|that page]] back in mid Feb 2014, and this page fit the bill. Just putting up a notice and will be properly merging it by the end of the month.}}
+{{Conjecture}}
+{{Individual infobox
+|theme = hufflepuff
+|image = Unidentified Hufflepuff girl at the Battle of Hogwarts.png
+|name = Unidentified Hufflepuff girl
+|born = On or prior to [[2 May]] [[1981]] (likely)<ref name="birth">Only of age students were allowed to fight in the Battle of Hogwarts, though some underage students took part.</ref>
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">As [[Muggle-born]]s were banned from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] during the [[Carrow family|Carrows]] rule.</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF2"/>
+|gender = Female<ref name="DHF2"/>
+|height = 
+|weight = 
+|hair = Red<ref name="DHF2"/>
+|eyes = 
+|skin = Pale<ref name="DHF2"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="DHF2"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]<ref name="DHF2"/>
+}}
+This '''girl''' was a [[Wizardkind|witch]] and student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]], who was a member of [[Hufflepuff]] house. She participated in the [[Battle of Hogwarts]] and survived.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*She was portrayed by [[Jade Stanger]] in {{DH|F2}}.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hufflepuff girl at the Battle of Hogwarts}}
+[[Category:20th century births]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Sorted in the 1990s]]
+[[Category:Unidentified Hufflepuffs]]
+[[Category:Wizards]]

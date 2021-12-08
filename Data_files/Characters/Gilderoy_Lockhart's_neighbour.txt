@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Gilderoy Lockhart's neighbour
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COSG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|The most efficient way of [[De-gnoming|dealing with]] this [[Gnome|potato-headed garden blight]] is to [[Knockback Jinx|''Flipendo'']] the little blighter, grab him by the legs and fling him over a low wall or hedgerow – preferably not into your neighbour's smaller and less cared for garden!|[[Gilderoy Lockhart]], ''[[Marauding with Monsters]]''|Harry Potter and the Chamber of Secrets (video game)}}
+This '''individual''' lived next-door to [[Gilderoy Lockhart]]. According to Lockhart, [[Gilderoy Lockhart's neighbour's garden|his garden]] was much smaller and less cared for than [[Gilderoy Lockhart's garden|his]].<ref name="COSG">{{COS|G}} - Console versions</ref>
+
+==Appearances==
+*{{COS|G}} {{1st Mention}} {{C|Console versions}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Sąsiad Gilderoya Lochharta]]
+[[Category:British individuals|Lockhart's neighbour]]
+[[Category:Humans|Lockhart's neighbour]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals|Lockhart's neighbour]]

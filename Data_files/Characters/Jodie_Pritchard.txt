@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Jodie Pritchard
+|hideb=
+|born=Prior to [[1992]]
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=Hide
+|family=[[Graham Pritchard]] (possible relative)
+|hidem=Hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Author (possibly)
+|house=
+|loyalty=[[Pritchard family]]
+}}
+'''Jodie Pritchard''' was a [[Wizardkind|witch]] who was wrongly credited as having authored the book ''[[The Philosophy of the Mundane: Why the Muggles Prefer Not to Know]]'',<ref name="HPLE">{{HPLE|G}} (see [[:File:PhilosophyOfTheMundane.png|this image]])</ref> which was authored by [[Professor]] [[Mordicus Egg]].
+
+Alternatively, Jodie Pritchard might just have been the publisher of the [[1992]] version of the book.
+
+==Appearances==
+*{{COS|F}} {{1st Mention}} {{C|Name seen on book cover}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]'' {{Mention}} {{C|Name seen on book cover}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pritchard, Jodie}}
+[[ru:Джоди Притчард]]
+[[Category:Authors]]
+[[Category:Females]]
+[[Category:Pritchard family]]
+[[Category:Wizards]]

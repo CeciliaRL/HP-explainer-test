@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Andrew Cleveley
+|born = [[1 September]] [[1975]] - [[31 July]] [[1982]]<ref>He was at Hogwarts in the 1993-1994 school year. 1 September is the earliest birthday to not be able to go to Hogwarts that year upon turning 11. 31 July is the latest birthday to be able to go to Hogwarts that year upon turning 11.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Brown
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+'''Andrew Cleveley''' was [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He was seen walking around the school during the [[1993–1994 school year]].
+
+==Etymology==
+The name "Andrew" comes from the Greek name Ανδρεας (''Andreas''), which was derived from ανηρ (''aner'') "man" (genitive ανδρος (''andros'') "of a man"). This name has been common (in various spellings) throughout the Christian world, and it became very popular in the Middle Ages. Saint Andrew is regarded as the patron of Scotland, Russia, Greece and Romania. The name has been borne by three kings of Hungary, American president Andrew Jackson (1767–1845), and, more recently, English composer Andrew Lloyd Webber (1948-).
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Cleveley, Andrew}}
+[[pl:Andrew Cleveley]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Wizards]]

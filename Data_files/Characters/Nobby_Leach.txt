@@ -1,0 +1,73 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Nobby Leach
+|hideb=
+|born=Pre [[1945]]
+|died=
+|blood=[[Muggle-born]]<ref name="pottermore"/>
+|alias=
+|title=[[Minister for Magic]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Minister for Magic]] ([[1962]] - [[1968]])
+|house=
+|loyalty=[[British Ministry of Magic]]
+}}
+
+'''Minister Nobby Leach''' was the [[Great Britain|British]] [[Minister for Magic]] between [[1962]] and [[1968]]. He was the first [[Muggle-born]] [[Minister for Magic]] to ever hold office.
+
+==Biography==
+===Early life===
+Leach was born into a [[Non-magic people|Muggle]] family in [[Great Britain]], sometime in or prior to [[1945]]. He was somehow trained in the [[magic]]al arts and eventually managed to become the [[Minister for Magic]] for Britain and [[Ireland]], being elected at least once.
+
+===As Minister for Magic===
+In [[1962]], Leach was the first [[Muggle-born]] to be appointed to the post of [[Minister for Magic]]. Several of the oldest members of the [[Wizengamot]] resigned government posts in protest of his appointment.<ref name="PM">{{WW|ministers-for-magic}}</ref> Though Leach was believed to have played a part in England's 1966 World Cup Win, he denied these claims, stating that he had no part whatsoever.<ref name="PM" /> He left his post in [[1968]] due to a shady plot, of which [[Abraxas Malfoy]] was believed part<ref name="pottermore">{{WW|the-malfoy-family}}</ref>, that resulted in his contracting a mysterious illness.<ref name="PM" />
+
+==Etymology==
+*''Nobby ''is a diminutive form of the name ''Norbert'', meaning both "north" and "bright".
+*''Leach ''could refer to a sub-class of worm and an ingredient in [[Polyjuice Potion]], [[leech|the leech]]. Surname from a mediæval doctor (reference to use of leeches in bloodletting).
+
+==Appearances==
+*{{JKRS}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Ignatius Tuft]]
+|position=[[Minister for Magic]]
+|years=[[1962]]-[[1968]]
+|successor=[[Eugenia Jenkins]]
+}}
+{{End box}}
+{{Minister for Magic}}
+{{DEFAULTSORT:Leach, Nobby}}
+[[de2:Nobby Leach]]
+[[de:Nobby Leach]]
+[[es:Nobby Leach]]
+[[fr:Nobby Leach]]
+[[pl:Nobby Leach]]
+[[pt-br:Nobby Leach]]
+[[ru:Нобби Лич]]
+[[zh:诺比·利奇]]
+[[Category:British Ministers for Magic]]
+[[Category:Males]]
+[[Category:Muggle-borns]]
+[[Category:Wizards]]

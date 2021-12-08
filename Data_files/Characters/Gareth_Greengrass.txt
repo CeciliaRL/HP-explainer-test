@@ -1,0 +1,95 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = Gareth Greengrass.png
+|name = Gareth Greengrass
+|born = 
+|died = [[September]], [[2021]]<ref name="POTV">{{WU}}, [[Brilliant Event: Prisoner of the Vow]]</ref>
+|blood = 
+|marital = Married
+|nationality = [[Great Britain|British]]
+|alias = Edward Scot<ref name="SR">{{WU}} - [[Brilliant Event: Secrets Revealed]]</ref>  
+|title = [[Minister]]<ref name="Minister">Addressed as "Minister" by Hermione Granger, as seen in [https://www.youtube.com/watch?v=jw8-aE3x6CQ&lc=z23gctorqn3mjhz3uacdp434hiu5tsobblpcv5rzsj1w03c010c here].</ref>
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = Brown
+|skin = White
+|family = *[[Gareth Greengrass' brother|Brother]]<ref name="POTV"/>
+*[[Aquila Greengrass]] (wife) †
+*[[Cereus Greengrass]] (daughter)
+*[[Greengrass family]]
+|romances = [[Aquila Greengrass]] (wife) †
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = * Senior [[Unspeakable]] (formerly)
+*[[Head of Department|Head]] of [[Department of Mysteries]]<ref name="SR" />
+|house = 
+|loyalty = *[[Greengrass family]]
+*[[British Ministry of Magic]]
+**[[Department of Mysteries]]
+**[[Department of International Magical Co-operation]] (as Edward Scot)
+*[[The Unforgivable]] 
+}}
+'''Minister'''<ref name="Minister" /> '''Gareth Greengrass''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who worked as a Senior [[Unspeakable]] in the [[Department of Mysteries]] and later [[Head of Department|Head]]<ref name="SR" /> of the [[Department of Mysteries]] at the [[British Ministry of Magic]].<ref name="WU">{{WU}} (see [https://wizardsunite.gamepress.gg/guide/mysteries-chapter-1-foundables-spell this])</ref> 
+
+==Biography==
+
+===Early life=== 
+
+Gareth was born into the [[Greengrass family]], one of the [[Sacred Twenty-Eight|oldest pure-blooded families]] in [[Great Britain|Britain]]. He presumably attended [[Hogwarts School of Witchcraft and Wizardry]] during his formative years.<ref> {{DH|B|11}} - "Attendance is now compulsory for every young witch and wizard," [Lupin] replied. "That was announced yesterday. It's a change, because it was never obligatory before. Of course, nearly every witch and wizard in Britain has been educated at Hogwarts, but their parents had the right to teach them at home or send them abroad if they preferred."</ref> Upon completing his magical education, Gareth joined the [[British Ministry of Magic]]. 
+
+===Career=== 
+
+Gareth successfully landed a job as a [[research assistant]] and eventually worked his way up to the point where he earned a place as a [[Unspeakable]] in the [[Department of Mysteries]]. A gifted employee, he would dedicate most of his adult life to conducting confidential research into the mysteries of magic, and eventually rose to a place of seniority in the department, becoming a Senior Unspeakable.
+
+Gareth married [[Aquila Greengrass]] and they had a daughter, [[Cereus Greengrass]]. By [[2019]], Aquila had died. Cereus had a [[blood malediction]] for which Gareth was desperate to find a cure. 
+
+===The Calamity=== 
+
+At an unknown date, Gareth joined [[The Unforgivable]]. 
+
+By [[2015]], he had stolen the appearance of [[Kensington Millbottom]] and took on the persona of 'Edward Scot'. He lived a double life, being both Gareth and 'Edward' when needed, deceiving everyone. 'Edward' joined the [[Department of International Magical Co-operation]], working up to be the Lead Liaison Minister.<ref name="SR" />
+
+Gareth joined a council that oversaw the investigation into the disappearance of [[Grim Fawley]]'s wife [[Penelope (Grim Fawley's wife)|Penelope]] and four other people known as the [[London Five]]. He promised Grim that he would do everything in his power to find Penelope, and that no cost would be spared. However, the council called off the investigation before she was found and recommended Grim take time off work to recover and care for [[Grim Fawley's children|his children]].<ref>{{WU}} ([https://youtu.be/bW3-J9k0pp4?t=630 see video])</ref> Grim had a grudge against Gareth's persona 'Edward Scot' and suspected he was involved in the failed London Five investigation.<ref>{{WU}} - [https://wizardsuniteworld.com/foundables/note-page/ Grim Fawley's note]</ref>  
+
+Around [[January]] of [[2021]], Gareth's persona 'Edward Scot' received word from the [[French Ministry of Magic]] of a large breach in the [[International Statute of Wizarding Secrecy]].  Muggle reporter, [[Brice Badeaux]], documented [[Calamity]] activity and released his findings. He had even successfully photographed a local agent of the [[Statute of Secrecy Task Force]] in the process of returning [[Foundable]]s, causing non-magical news to begin reporting a series of exposés. 'Edward' was serving the Calamity World Centre and notified the [[Calamity Management Team]] and the local SOS Task Force, to help the French Ministry.<ref name="WU" />
+
+===Capture=== 
+Greengrass was later suspected to be a member of [[The Unforgivable]], an organisation suspected of causing the Calamity. [[Hermione Granger]] slipped Greengrass [[Veritaserum]], causing him to say he was in the Unforgivable, so he was taken into custody. However, confession under Veritaserum did not count in court, so [[Harry Potter]] began questioning Greengrass who kept claiming he was innocent.<ref name="Unforgivable">{{WU}} - In [[Brilliant Event: Unforgivable Truth]]</ref>
+
+[[Constance Pickering]] found evidence that he was involved in Ron's kidnapping. In that time, Greengrass had obtained a [[wand]], and used the [[Imperius Curse]] to get out. He took [[Polyjuice Potion]] and transformed into 'Edward'. Hermione and Constance worked out he was going to try and escape, and Harry saw and stopped 'Edward' running away. He denied being Greengrass until the effect of the Polyjuice Potion ceased.<ref name="SR" />
+
+Greengrass wouldn't divulge the secrets of the Unforgivable until Harry vowed to find a way to save his daughter and open a case into his brother's imprisonment. He began cooperating, but only to tell Harry about himself and what he had done. When Harry took an [[Unbreakable Vow]] to help Cereus, he led Harry to a journal which contained everything he knew about the Unforgivable and the Calamity. When Harry began reading the journal, Greengrass was killed due to an Unbreakable Vow he had broken not to tell anyone about the Unforgivable.<ref name="POTV" /> 
+
+==Magical abilities and skills==
+*'''[[Dark Arts]]''': Greengrass was capable of casting of the [[Imperius Curse]], one of the [[Unforgivable Curses]],<ref name="SR"/> which required both [[magic]]al talent and willpower to perform successfully.<ref name="GOF14">{{GOF|B|14}}</ref> 
+
+==Appearances==
+{{Imagecat|Images of Gareth Greengrass}}
+*{{WU}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 9 employees}}
+{{Character-stub}}
+{{DEFAULTSORT:Greengrass, Gareth}}
+[[Category:2021 deaths]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Criminals]]
+[[Category:Dark wizards]]
+[[Category:Deceased individuals]]
+[[Category:Department of International Magical Co-operation personnel]]
+[[Category:Greengrass family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Statute of Secrecy Task Force]]
+[[Category:Unforgivable curse users]]
+[[Category:Unspeakables]]

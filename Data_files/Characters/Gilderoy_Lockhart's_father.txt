@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mr Lockhart
+|born = Before [[1946]] (most likely)
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Gilderoy Lockhart's mother|Mrs Lockhart]] (wife)
+*[[Gilderoy Lockhart]] (son)
+*[[Gilderoy Lockhart's sisters|Two daughters]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Lockhart family]]
+}}
+'''Mr Lockhart''' was the [[Non-magic people|Muggle]] father of [[Gilderoy Lockhart]] and [[Gilderoy Lockhart's sisters|two older Squib daughters]].<ref name="PM">{{WW|gilderoy-lockhart}}</ref>
+
+The [[Healer]] who looked after [[Gilderoy Lockhart|Gilderoy]] at [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]], [[Miriam Strout]], stated he never got visitors in [[December]] [[1995]].<ref name="OOTP23">{{OOTP|B|23}}</ref> This meant that either his father was deceased by then, or that he did not wish to visit his son.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Lockhart, Gilderoy's father}}
+
+[[pl:Pan Lockhart]]
+[[Category:British individuals]]
+[[Category:Lockhart family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

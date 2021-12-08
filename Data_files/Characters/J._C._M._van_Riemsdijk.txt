@@ -1,0 +1,46 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=J. C. M. van Riemsdijk
+|hideb=
+|born=[[16 December]] [[1841]]<ref name="geni">"[https://www.geni.com/people/Johan-Cornelis-Marius-van-Riemsdijk/6000000033583728948 Johan Cornelis Marius van Riemsdijk]" from Geni.com</ref>
+|died=[[30 June]] [[1895]]<ref name="geni" />
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=*[[Wikipedia:Jonkheer|Jonkheer]]
+*Meester
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Musician and author
+|loyalty=
+}}
+
+[[Wikipedia:Jonkheer|Jonkheer]] '''Johan Cornelis Marius van Riemsdijk''' ([[16 December]] [[1841]] – [[30 June]] [[1895]]) was a [[Netherlands|Dutch]] [[Non-magic people|Muggle]] musician and author.<ref name="geni" /><ref name="nmi">"[http://www.nederlandsmuziekinstituut.nl/en/collections/467 Johan Cornelis Marius van Riemsdijk (1841-1895)]" from the Nederlands Muziek Instituut</ref><ref name="hple">{{HPLE|G}} {{See image|File:Eene Bydrage tot de Geschiedenis der Toonkunst in Nederland.png}}</ref>
+
+A copy of his book ''[[Het Stads-Muziek-Collegie te Utrecht (Collegium-Musicum-Ultrajectinum): Eene Bydrage tot de Geschiedenis der Toonkunst in Nederland]]'' could be found in the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Hogwarts Library|library]] by the [[1990s]].<ref name="hple" />
+
+==Appearances==
+*[[Harry Potter (film series)|''Harry Potter'' films]] {{C|Mentioned on book cover}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:J. C. M. van Riemsdijk]]
+{{DEFAULTSORT:Riemsdijk, J. C. M. van}}
+[[Category:1841 births]]
+[[Category:1895 deaths]]
+[[Category:Authors]]
+[[Category:Dutch individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Musicians]]
+[[Category:Nobility]]

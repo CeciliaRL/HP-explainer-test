@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="house">{{POA|G}} {{C|PS2 version}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+'''Declan Haworth''' was a [[Ravenclaw]]<ref name="house" /> [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+He competed in the school [[Wizard Skittles]] tournament during the [[1996–1997 school year]].
+
+==Etymology==
+The name "Declan" is an anglicised form of Irish ''Deaglán'', which is of unknown meaning. Saint Declan was a 5th-century missionary to Ireland.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Haworth, Declan}}
+[[pl:Declan Haworth]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizard Skittles Players]]
+[[Category:Wizards]]

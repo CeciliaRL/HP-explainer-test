@@ -1,0 +1,36 @@
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Unidentified Muggle child in Zoo‎ 
+|hideb=hide
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]<ref name="PSF"/>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="PSF"/>
+|gender=Female<ref name="PSF"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=hide
+|job=
+|loyalty=}}
+This '''individual''' was a female [[Non-magic people|Muggle]] child who visited the [[Zoo]] on [[23 June]], [[1991]]. She was frightened by the [[Boa constrictor at the Zoo|boa constrictor]] that was [[Underage magic|accidentally]] set free by [[Harry Potter]].<ref name="PSF">{{PS|F}}</ref>
+
+==Behind the scenes==
+*The girl is played by [[Kieri Kennedy]] in {{PS|FA}}.
+
+==Appearances==
+*{{PS|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Unidentified Muggles‎]]

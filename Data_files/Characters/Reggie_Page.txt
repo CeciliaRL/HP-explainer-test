@@ -1,0 +1,54 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = squib
+|image = DanielPage'sBrother.jpeg
+|name = Reggie Page
+|born = 
+|died = 
+|blood = [[Squib]]<ref name="MA"/>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="MA"/>
+|gender = Male<ref name="MA"/>
+|height = 
+|weight = 
+|hair = Dark<ref name="MA"/>
+|eyes = 
+|skin = White<ref name="MA"/>
+|family = *[[Page siblings' father|Mr Page]] (father)
+*[[Page siblings' mother|Mother]]
+*[[Daniel Page's sister|Sister]] 
+*[[Daniel Page]] (younger brother)
+*[[Page family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Page family]]<ref name="MA"/>
+}}
+'''Reggie Page''' was a [[Squib]] born to a [[Non-magic people|Muggle]] [[Page siblings' father|father]] and [[Page siblings' mother|a witch]]. He had a [[Daniel Page's sister|sister]] and one brother who was a wizard, [[Daniel Page]].<ref name="MA">{{MA}} ([https://www.youtube.com/watch?v=PeXSF4kpCqk see video])</ref>
+
+==Biography==
+[[File:The Bloody Pages.png|220x220px|thumb|left|A Muggle newspaper reporting the arrests in the Page family]]
+Born and raised somewhere in the [[Great Britain|British Isles]], Reggie was the elder son of a [[Non-magic people|Muggle]] father and a [[Wizardkind|witch]] mother. He had a [[Daniel Page's sister|sister]] and a younger brother, [[Daniel Page]]. Unlike Daniel, he wasn't born with any magical abilities. He attended a Muggle primary school.<ref name="MA"/>
+
+His father was involved in illicit activities and in due time, he joined in. At some point, they were eventually caught by the Muggle [[police]] and arrested. His mother tried to intervene using magic so they could escape, scaring the police and violating the [[International Statute of Wizarding Secrecy]].<ref name="MA"/>
+
+While they were tried and sentenced to a Muggle prison, her violation of the Statute of Secrecy led to her being sentenced to [[Azkaban]]. The family's arrest was covered by a Muggle newspaper, dubbing them "The Bloody Pages".<ref name="MA"/>
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Page, Reggie}}
+[[Category:British or Irish individuals]]
+[[Category:Convicts]]
+[[Category:Males]]
+[[Category:Page family]]
+[[Category:Squibs]]

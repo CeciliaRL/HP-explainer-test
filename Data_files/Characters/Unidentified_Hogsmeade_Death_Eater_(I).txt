@@ -1,0 +1,60 @@
+{{Notability}}
+{{Conjecture}}
+{{Individual infobox
+|theme=death-eater
+|image=[[File:HogsmeadeDeathEater.jpg]]
+|name=Unidentified Hogsmeade Death Eater
+|hideb=
+|born=
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="Blood">The [[Death Eaters]] were known for their intense hatred and opposition to [[Muggle-born]]s.</ref>
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DHF2"/>
+|gender=Male<ref name="DHF2"/>
+|height=
+|hair=Black<ref name="DHF2"/>
+|eyes=
+|skin=White<ref name="DHF2"/>
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|hidea=
+|job=
+|house=
+|loyalty=*[[Death Eaters]]<ref name="DHF2"/>
+**[[Tom Riddle|Lord Voldemort]]<ref name="DHF2"/>
+}}
+{{Quote|POTTER!|the [[Death Eaters|Death Eater]] screaming at [[Harry Potter]]|Harry Potter and the Deathly Hallows: Part 2}}
+This '''individual''' was a [[Dark Wizard]] and [[Death Eaters|Death Eater]] who guarded [[Hogsmeade|Hogsmeade Village]] in [[1998]] when [[Tom Riddle|Voldemort]] took control over the [[British Ministry of Magic|Ministry]].<ref name="DHF2"/>
+
+==Biography==
+He and [[Unidentified Hogsmeade Death Eater (II)|another Death Eater]] were searching for [[Harry Potter]], [[Ronald Weasley]], and [[Hermione Granger]] when the [[trio]] tried to find a safe place in the village.<ref name="DHF2"/>
+
+He later fought in the [[Battle of Hogwarts]], where he was seen participating in the [[Onslaught at the Viaduct]], where he casts the [[Cruciatus Curse]]. He was later called back to the [[Forbidden Forest]]. He was also present at Voldemort's speech of [[Harry Potter]]'s "dead" body. After Harry revealed himself to be alive, he was seen [[Apparition|apparating]] away, although he was later seen inside the [[Great Hall]], implying he was only transporting to the inside of the castle.<ref name="DHF2">{{DH|F2}}</ref>
+
+After Voldemort's defeat and death, he was possibly killed or imprisoned in [[Azkaban]] for his crimes as a Death Eater.
+
+==Magical abilities and skills==
+*'''[[Apparition]]''': He was capable of Apparition, like most accomplished adult [[Wizardkind|wizards]]. He apparated away from [[Hogwarts Castle]] when he realised the [[Death Eaters]] were defeated in the [[Battle of Hogwarts]].<ref name="DHF2"/>
+*'''[[Dark Arts]]''': Being a Death Eater, he would have been accomplished with dark magic,<ref name="DHF2"/> likely including the [[Unforgivable Curses]].
+*'''[[Duelling]]''': He participated in the first half of the [[Battle of Hogwarts]], meaning he was skilled in [[Martial magic|magical combat]] to an extent, as he did survive.<ref name="DHF2"/>
+
+==Behind the scenes==
+*He is played by [[Benn Northover]] in {{DH|F2}}.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Death Eaters]]

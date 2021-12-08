@@ -1,0 +1,60 @@
+{{Individual infobox
+|image = 
+|name = Samuel G. Quahog
+|born = [[1997]] or earlier<ref name="age">Age requirement for [[Magical Congress of the United States of America|MACUSA]] presidents is seventeen.</ref>
+|died = 
+|nationality = [[United States of America|American]]<ref name="PM9June"/>
+|alias = 
+|signature = 
+|title = President<ref name="PM9June"/>
+|species = [[Human]]<ref name="PM9June"/>
+|gender = Male<ref name="PM9June"/>
+|skin = 
+|eyes = 
+|hair = 
+|weight =
+|height = 
+|family =
+|romances =
+|wand = 
+|animagus = 
+|boggart = 
+|patronus = 
+|job = [[President of the Magical Congress of the United States of America]]<ref name="PM9June"/>
+|house = 
+|loyalty = [[Magical Congress of the United States of America]]<ref name="PM9June"/>
+|theme = macusa
+}}
+{{Quote|We are delighted to report that this prank has ended in a friendly and cooperative fashion, and trust that Hans is none the worse for his little adventure.|President Samuel G. Quahog's statement, when [[Hans|Hans the Augurey]] was given back to Liechtenstein during the [[2014 Quidditch World Cup]]|Pottermore}}
+'''President Samuel G. Quahog''' was an [[United States of America|American]] [[Wizardkind|wizard]] and, as [[President of the Magical Congress of the United States of America|President]] of the [[Magical Congress of the United States of America]], the head of the US wizarding government.<ref name="PM9June">{{PM}} - [[RETURN OF HANS THE AUGUREY]] (Archived)</ref>
+
+==Biography==
+Following the American victory over [[Liechtenstein National Quidditch team|Liechtenstein]] on the quarter-finals of the [[2014 Quidditch World Cup]], the Liechtenstein mascot, a large and gloomy [[Augurey]] called [[Hans]], was kidnapped by high-spirited American fans celebrating their team's historic triumph.<ref name="PM8June">{{PM}} - [http://www.pottermore.com/en/daily-prophet/qwc2014/2014-06-08/late-breaking-news New from J.K. Rowling: "''LATE BREAKING NEWS''" (''Evening Prophet'', 08 June 2014)]</ref> Hans was put back in his customised pen the following day, [[9 June]] [[2014]], but not before negotiations for his return reached the highest levels: the Liechtenstein Minister for Magic [[Otto Obermeier]] and President Samuel G. Quahog had to exchange terse owls so that the bird was returned home. Even though President Quahog termed it was done in a "''friendly and cooperative fashion''", Minister Obermeier insisted that if any ill effects were discovered on [[Hans]], Liechtenstein would "''of course lobby the [[International Confederation of Wizards' Quidditch Committee|ICWQC]] for the USA's immediate disqualification from the World Cup''".<ref name="PM9June"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Seraphina Picquery]]
+|position=[[President of the Magical Congress of the United States of America|President of MACUSA]]
+|years=c. [[2014]]
+|successor=Unknown
+}}
+{{End box}}
+{{MACUSA}}
+
+{{DEFAULTSORT:Quahog, Samuel G.}}
+
+[[de:Samuel G. Quahog]]
+[[es:Samuel G. Quahog]]
+[[ru:Сэмюэль Дж. Куахог]]
+[[fr:Samuel G. Quahog]]
+[[pl:Samuel G. Quahog]]
+[[Category:20th century births]]
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Presidents of the Magical Congress of the United States of America]]
+[[Category:Wizards]]

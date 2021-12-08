@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=death-eater
+|image=[[File:DeathEaterHogsmeade.jpg]]
+|name=Unidentified Hogsmeade Death Eater (II)
+|hideb=
+|born=
+|died=[[2 May]] [[1998]],<br /> [[Hogwarts Castle]]<ref name="DHF2"/>
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="Blood">The [[Death Eaters]] were violently opposed to all [[Muggle-born]]s and [[Non-magic people|Muggles]].</ref>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DHF2"/>
+|gender=Male<ref name="DHF2"/>
+|height=
+|hair=Bald<ref name="DHF2"/>
+|skin=Pale<ref name="DHF2"/>
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|hidea=
+|job=
+|house=
+|loyalty=*[[Death Eaters]]<ref name="DHF2"/>
+*[[Tom Riddle|Lord Voldemort]]<ref name="DHF2"/>
+}}
+This '''[[Dark Wizard]]''' (d. [[2 May]] [[1998]]) was a [[Death Eaters|Death Eater]] of [[Tom Riddle|Lord Voldemort]] who fought in the [[Second Wizarding War]]. He guarded [[Hogsmeade]] village with [[Unidentified Hogsmeade Death Eater (I)|another Death Eater]] on [[1 May|1]] and [[2 May]] [[1998]]. He also fought during the Battle of Hogwarts, and manged to survive until the second part of the Battle, where he stood by [[Antonin Dolohov]] watching the Hogwarts Defenders as they believed [[Harry Potter]] was "dead". He was killed during the battle.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*This [[Death Eaters|Death Eater]] is played by [[Ian Peck]] in {{DH|F2}}.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+*{{LEGO|Y2}} {{C|Appears as a generic [[Death Eaters|Death Eater]]}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts fatalities]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Death Eaters]]

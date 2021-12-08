@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Nicholas Saunders
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidea=
+|job=Circus performer
+|loyalty=
+}}
+'''Nicholas Saunders''' was a [[Non-magic people|Muggle]] circus performer. He was one of the performers whose talents were featured in [[Le Cirque du Vaga Lume]].<ref name="HPLE">{{HPLE|G}} {{see image|File:LeCirqueduVagaLumePoster.jpg}}</ref>
+
+Saunders also adapted the [[William Shakespeare]] play ''[[Twelfth Night]]'' for the [[Shakespeare in Shaftsbury]] event that was held as part of the [[Soho Play Summer Art Festival]] in [[London]] in [[1997]].<ref>''Harry Potter and the Deathly Hallows: Part 1 - Behind the Magic'' {{see image|File:ShakespearePoster.jpg}}</ref>
+
+==Behind the scenes==
+*This character was named after [[Nicholas Saunders]], a graphic artist who worked on ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]'', as well as {{DH|F1}}.
+
+==Appearances==
+*{{DH|F1}} {{Mentioned on a poster}}
+*{{HPLE}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Saunders, Nicholas}}
+[[Category:Circus performers]]
+[[Category:Males]]
+[[Category:Muggles]]

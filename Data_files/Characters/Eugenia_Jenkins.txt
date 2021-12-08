@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Eugenia Jenkins
+|born = Before [[1951]]<ref name="WW"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WW"/>
+|alias = 
+|title = [[Minister for Magic]]<ref name="WW"/>
+|signature = 
+|species = [[Human]]<ref name="WW"/>
+|gender = Female<ref name="WW"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Minister for Magic|British Minister for Magic]] ([[1968]]-[[1975]])<ref name="WW"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="WW"/>
+*[[Jenkins family]]<ref name="WW"/>
+}}
+'''Minister Eugenia Jenkins''' was [[Minister for Magic]] between [[1968]] and [[1975]]. She dealt competently with the [[pure-blood]] riots during the [[Squib Rights marches]] in the late [[1960s|sixties]]. However, when confronted with the first rise of [[Tom Riddle|Lord Voldemort]], she was ousted from office, being deemed inadequate to the challenge.<ref name="WW">{{WW|ministers-for-magic}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Nobby Leach]]
+|position=[[Minister for Magic]]
+|years=[[1968]] - [[1975]]
+|successor=[[Harold Minchum]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Jenkins, Eugenia}}
+
+[[de:Eugenia Jenkins]]
+[[de2:Eugenia Jenkins]]
+[[es:Eugenia Jenkins]]
+[[fr:Eugenia Jenkins]]
+[[pl:Eugenia Jenkins]]
+[[pt-br:Eugênia Jenkins]]
+[[ru:Юджина Дженкинс]]
+[[zh:尤金尼娅·詹肯斯]]
+
+[[Category:British Ministers for Magic]]
+[[Category:Females]]
+[[Category:Jenkins family]]
+[[Category:Wizards]]

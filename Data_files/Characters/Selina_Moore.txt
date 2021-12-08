@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Selina Moore
+|born = [[1 September]] [[1975]] - early [[July]] [[1982]]<ref>She attended Hogwarts during the 1993-1994 school year. 1 September is the earliest possible birthday to not be able to go to Hogwarts that year upon turning 11. Sometime in early July is the latest possible birthday to be able to go to Hogwarts that year upon turning 11.</ref><br />
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Female<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="POAG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+'''Selina Moore''' was a [[Wizardkind|witch]] and [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="POAG">{{POA|G}}</ref>
+
+==Etymology==
+Selina is the English spelling "Celine," a short form of the French name Marcelline, which ultimately descends from the Roman name [[Marcus (disambiguation)|Marcus]].
+
+Selina can also be a Latinized English variant of "Selene," a Greek name that means "moon" and the name given to the Titaness who represented the Moon.
+
+==Appearances==
+*{{POA|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Moore, Selina}}
+[[pl:Selina Moore]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 20th century]]
+[[Category:Wizards]]

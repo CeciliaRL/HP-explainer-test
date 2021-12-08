@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Thomson's nephew
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=[[Thomson]] (uncle or aunt)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Co-owner of [[Thomson & Nephew Ltd.]]
+|house=
+|loyalty=
+}}
+The '''nephew''' of [[Thomson]] was an [[England|English]] [[Non-magic people|Muggle]]. He helped his uncle or aunt run the [[London]]-based clock-making firm [[Thomson & Nephew Ltd.]]. One of the company's clocks was installed at [[King's Cross Station]] by [[1992]].<ref name="cosf-clock">{{COS|F}} {{see image|File:KingsCrossClock.jpg}}</ref>
+
+==Appearances==
+*{{COS|F}} {{Comment|Mentioned on a clock face}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Thomson}}
+[[Category:Clockmakers]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Unnamed family members]]

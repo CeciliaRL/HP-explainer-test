@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = Yolanda Reedham.jpg
+|name = Yolanda Reedham
+|born = [[31 August]] [[1982]] or earlier<ref name="age">She was at least in her first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Female<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="HBPG"/>
+|eyes = 
+|skin = White<ref name="HBPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Ravenclaw]]<ref name="HBPG"/>
+}}
+'''Yolanda Reedham''' was a [[Wizardkind|witch]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She could usually be found in the [[Classroom 1B|Transfiguration Classroom]] during the [[1996-1997 school year]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+The name "Yolanda" comes from the medieval French name Yolande, which was possibly a form of the name Violante, which was itself a derivative of Latin viola "violet". Alternatively, it could be of Germanic origin.
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|console versions]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console version}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Reedham, Yolanda}}
+[[pl:Yolanda Reedham]]
+[[fr:Yolanda Reedham]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gilderoy Lockhart's fans]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

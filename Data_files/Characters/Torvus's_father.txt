@@ -1,0 +1,49 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = centaur
+|image = 
+|name = Torvus's father
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Centaur]]<ref name="HM46"/>
+|gender = Male<ref name="HM46"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Torvus]] (son)<ref name="HM46"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Forbidden Forest centaur colony]]<ref name="HM46"/>
+}}
+'''Torvus's father''' was a [[centaur]] who lived in the [[Forbidden Forest]].<ref name="HM46"/>
+
+==Biography==
+When his son [[Torvus]] was young, he told him about a [[Cursed Vaults|Cursed Vault]] located in the forest, and also told him not to approach it.<ref name="HM46"/>
+
+He inherited [[Torvus's arrow|an arrow]] that had been in his family for a long time.<ref name="HM46">{{HM|4|6}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Centaurs]]
+[[Category:Forbidden Forest]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

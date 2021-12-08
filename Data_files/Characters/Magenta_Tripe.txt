@@ -1,0 +1,67 @@
+{{Youmay|the matriarch of the [[House of Black]]|an [[Magenta Comstock|experimental artist Magenta Comstock]]}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Unidentified Black (I) 2.jpg|250px]]
+|name = Magenta Black (née Tripe)
+|born = 
+|died = 
+|blood = [[Pure-blood]]
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Licorus Black]] (husband)
+*[[Misapinoa Black]] (possible daughter)
+*[[Jimbo Blishwick]] (possible son-in-law)
+*[[Arcturus Black I]] (possible son) 
+*[[Cygnus Black I]] (possible son)
+*[[Ella Max]] (possible daughter-in-law)
+*[[Sirius Black I]] (possible grandson)
+*[[Phineas Nigellus Black]] (possible grandson)
+*[[Elladora Black]] (possible granddaughter)
+*[[Iola Black]] (possible granddaughter)
+*[[House of Black]] (descendents)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[House of Black]]
+}}
+'''Magenta Black''' (née '''Tripe''') (fl. [[19th century]]) was a [[pure-blood]] [[Wizardkind|witch]] married to the pure-blood wizard, [[Licorus Black]], who was the earliest known member of the [[House of Black]]. Her name appears on the [[Black Family Tapestry|Black family tree tapestry]] that hangs in the ancestral home of [[12 Grimmauld Place]]. It is possible that she was [[Misapinoa Black|Misapinoa]], [[Cygnus Black I|Cygnus I]] and [[Arcturus Black I|Arcturus I]]'s mother.<ref>See [[:File:Licorus Black.jpg|this image]].</ref>
+==Etymology==
+[[wikipedia:Magenta|Magenta]] is a bright pinkish purple colour. (Scientifically, it is a precisely equal mixture of red and blue; it is one of the three subtractive primary colours (CMY/CMYK colour spaces) and one of the three pure additive secondary colours (RGB colour space).) [[wikipedia:Tripe|Tripe]] (from French ''tripe'') is a type of edible offal from the stomachs of various farm animals. It is also used in modern English as a fairly polite synonym for nonsense.
+
+==Behind the scenes==
+[[File:Magenta Tripe.jpg|thumb|left|Another view of Tripe's name on the Black family tree]]
+*This character appears only on the version of the Black family tree shown in {{OOTP|FA}}. She was not included on the version of the tree which [[J. K. Rowling]] gave to a charity auction in 2006<ref>"[http://www.hplex.info/wizards/blackfamilytree.html Black Family Tree]" on The Harry Potter Lexicon</ref>. However, according to director [[David Yates]], Rowling provided the filmmakers with a copy of the Black family tree going back eight generations<ref>"[http://web.archive.org/web/20071218224958/http://www.the-leaky-cauldron.org/2007/5/24/empire-magazine-feature-on-ootp 'Empire' Magazine Feature on OotP]" from The Leaky Cauldron</ref>. The filmmakers presumably received a more complete version of the tree than the one auctioned off, which only goes back six generations.
+
+==Appearances==
+
+*{{OOTP|F}} {{Comment|Appears on Black family tapestry}}
+*{{HPFW}} {{Comment|Appears on Black family tapestry}}
+*{{HPPS}} {{Comment|Appears on Black family tapestry}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Tripe, Magenta}}
+[[ru:Магента Трип]]
+[[pl:Magenta Black]]
+[[fr:Magenta Tripe]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:House of Black]]
+[[Category:Married individuals]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

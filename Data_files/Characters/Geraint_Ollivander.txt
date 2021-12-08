@@ -1,0 +1,74 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Geraint Ollivander
+|born = Middle Ages
+|died = 
+|blood = [[Pure-blood]]<ref>{{WW|pure-blood}} - The [[Ollivander family]] are listed among the [[Sacred Twenty-Eight]].</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ollivander (382 B.C. era)|Ollivander]] (ancestor)
+*[[Gerbold Ollivander]] (descendant)
+*[[Gervaise Ollivander]] (descendant)
+*[[Garrick Ollivander]] (descendant)
+*[[Garrick Ollivander's son|Mr Ollivander]] (descendant)
+*[[Garrick Ollivander's daughter|Ms. Ollivander]] (descendant) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Wandmaker]]
+|house = 
+|loyalty = 
+}}
+{{Quote|The great mediaeval wandmaker, Geraint Ollivander, wrote that he was always honoured to match a cypress wand, for he knew he was meeting a witch or wizard who would die a heroic death.|[[Garrick Ollivander]].|Pottermore}}
+
+'''Geraint Ollivander''' was a great [[wandmaker]] who lived in the Middle Ages. Geraint came from a [[Ollivander family|long line]] of [[wizardkind|wizards]] who began [[Ollivanders|selling wands]] in [[B.C. era|382 B.C]].<ref name="pottermore">{{WW|wand-woods}} (transcription available [http://archive.is/20130109102909/lady-slytherin-forever.tumblr.com/post/8977740275/wand-woods-off-of-pottermore here])</ref>
+
+==Biography==
+===Early life===
+Geraint Ollivander was born in the Middle Ages, somewhere in [[Great Britain]]. He was born into the [[wizardkind|wizarding]] [[Ollivander family]], who had been in the [[Ollivanders|wand-making business]] since [[B.C. era|382 B.C]].<ref name="pottermore"/>
+
+===Career as a wandmaker===
+Geraint took up the [[Ollivanders|family business]] in [[London]], studying further into [[wandlore]] and becoming an accomplished wandmaker. He considered it an honour to match a [[wizardkind|witch or wizard]] with a wand made from the [[wand wood|wood]] of the [[cypress]] tree because it indicated he had met someone who was going to die heroically, and left that fact in his writings.<ref name="pottermore"/>
+
+==Etymology==
+*"Geraint" is a name of unknown origin, possibly a Welsh form of the Late Roman name "Gerontius" deriving from Greek γέρων (gérōn), meaning "old man". [[Wikipedia:Geraint|Geraint]] was the name of a figure various Welsh legends. He was also incorprorated into later Arthurian tales as one of the knights of the Round Table and the husband of [[Wikipedia:Enide|Enid]].<ref name="BTN">[http://www.behindthename.com/name/geraint "Geraint"] and [http://www.behindthename.com/name/gerontius "Gerontius"] on [http://www.behindthename.com/ Behind the Name]</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Ollivander (382 B.C. era)|Ollivander]]
+|position=Proprietor of [[Ollivanders]]
+|years=Middle Ages
+|successor=Unknown, eventually [[Gerbold Ollivander]]
+}}
+{{End box}}
+{{DEFAULTSORT:Ollivander, Geraint}}
+
+[[de: Geraint Ollivander]]
+[[ru:Джерейнт Олливандер]]
+[[pl:Geraint Ollivander]]
+[[fr:Geraint Ollivander]]
+[[Category:British individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Ollivander family|Geraint]]
+[[Category:Wizards]]

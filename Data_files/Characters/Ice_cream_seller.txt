@@ -1,0 +1,44 @@
+{{conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Ice cream seller
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = British
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female<ref name="PS2">{{PS|B|2}}</ref>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Ice cream seller
+|house = 
+|loyalty = [[Zoo]]
+}}
+There was an '''ice cream salesclerk''' at the [[zoo]] entrance, selling ice creams in her van.
+
+On [[23 June]], [[1991]], she sold two chocolate ice creams to [[Dudley Dursley]] and [[Piers Polkiss]] and a cheap lemon ice lolly to [[Harry Potter]], only because she asked him what he wanted before [[Vernon Dursley]] could hurry him away.<ref name="PS2"/>
+
+==Appearances==
+*{{PS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Vendeuse de glaces du zoo]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Ice cream]]
+[[Category:Unidentified Muggles‎]]

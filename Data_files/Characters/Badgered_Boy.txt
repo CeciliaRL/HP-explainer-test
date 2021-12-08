@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Badgered Boy.jpg|250px]]
+|name = Badgered Boy
+|born = [[31 August]] [[1981]] or earlier <ref name="year">He attended Hogwarts School of Witchcraft and Wizardry in 1992, meaning he was at least 11 years old.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = *[[Human]]<ref name="COS11"/>
+*[[Badger]]<ref name="COS11"/>
+|gender = Male<ref name="TCG"/>
+|height = 
+|weight = 
+|hair = *Unknown (human)
+*White (badger)<ref name="TCG">{{TCG}}</ref>
+|eyes = 
+|skin = *Unknown (human)
+*Black and white (badger)<ref name="TCG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="COS11"/>
+}}
+{{Quote|Professor McGonagall was shouting at [[Unidentified boy who transfigured his friend|someone]] who, by the sound of it, had turned his friend into a badger.|Description|Harry Potter and the Chamber of Secrets}}
+
+This '''individual''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. In [[1992]], he was [[Transfiguration|transfigured]] by [[Unidentified boy who transfigured his friend|his friend]] into a [[badger]]. He was later seen, still with black and white striped hair.<ref name="COS11">{{COS|B|11}}</ref>
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+*{{TCG}} {{1st ID}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

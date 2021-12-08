@@ -1,0 +1,52 @@
+{{Youmay|Hogwarts student| [[Felix Brunt (I)|Hogwarts Prefect]]}}{{Individual infobox
+|theme = wizard
+|image = 
+|name = Felix Brunt
+|born = In or prior to [[1985]],<ref>He was at least in his first year at [[Hogwarts School of Witchcraft and Wizardry]] in [[1996]]</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Felix Brunt (I)]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Felix Brunt''' was a [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He competed in the school [[Gobstones]] tournament during the [[1996-1997 school year]].
+
+==Etymology==
+"Felix" is from a Roman cognomen meaning "lucky, successful" in Latin. It was acquired as an agnomen, or nickname, by the 1st-century BC Roman general Sulla. Due to its favourable meaning, this name was popular among early Christians, being borne by many early saints and four popes. It has been used in England since the Middle Ages, though it has been more popular in continental Europe. A notable bearer was the German composer Felix Mendelssohn (1809-1847).
+
+==Appearances==
+*{{HBP|G}} {{Comment|Nintendo DS version only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts Gobstones}}
+{{DEFAULTSORT:Brunt, Felix}}
+
+[[fr:Felix Brunt]]
+[[pl:Felix Brunt (II)]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gobstones players]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

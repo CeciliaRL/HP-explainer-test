@@ -1,0 +1,51 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Galileo Galilei
+|born = [[15 February]] [[1564]]
+|died = [[8 January]] [[1642]]
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Italy|Italian]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Physicist
+|house = 
+|loyalty = 
+}}
+'''Galileo Galilei''' ([[15 February]] [[1564]] – [[8 January]] [[1642]]) was an [[Italy|Italian]] [[Non-magic people|Muggle]] astronomer, physicist, and engineer.<ref name="wikipedia">"[https://en.wikipedia.org/wiki/Galileo_Galilei Galileo Galilei]" on Wikiedia</ref> He was famous for his improvements to the [[telescope]] and for the role he played in making {{wplink|heliocentrism}} (the concept that the [[Orrery|Earth]] and other planets revolve around the Sun) the widely-accepted scientific model.<ref name="wikipedia" />
+
+The work of Galileo was among the many topics covered in the book ''[[A Brief History of Time]]'' by [[Stephen Hawking]].<ref name="poa-film">{{POA|F}} - Chapter 4 (''The Leaky Cauldron'') (see [[:File:A Brief History of Time.jpg|this image]] and [http://s3.amazonaws.com/bonanzleimages/afu/images/0386/6162/brief_history_of_time_back.jpg this image])</ref>
+
+==Behind the scenes==
+*[[Firenze]] may have been named after the Italian name for the city of {{wplink|Florence}}, where Galileo lived the final days of his life.
+
+==Appearances==
+*{{POA|F}} {{1st Mention}} {{C|Mentioned on book cover}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Galilei, Galileo}}
+[[pt-br:Galileu Galilei]]
+[[Category:1564 births]]
+[[Category:1642 deaths]]
+[[Category:Astronomers]]
+[[Category:Italian individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Physicists]]

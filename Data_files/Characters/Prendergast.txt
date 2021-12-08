@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Prendergast
+|born = [[1890]] or earlier<ref name="age">He reprimanded Newt, who began at Hogwarts in [[1908]]. As he was in a position to do so, he must have been born, at the latest, in 1890, as Hogwarts teachers can begin teaching at age 18, after graduating.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COG18"/>
+|gender = Male<ref name="COG18"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Hogwarts School of Witchcraft and Wizardry]] employee<ref name="COG18"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="COG18"/>
+}}
+{{Dialogue a-b-a-b|Newt Scamander|Well, there are no strange creatures —|Leta Lestrange|<nowiki>'</nowiki>— only blinkered people'. How long did you get in detention for saying that to Prendergast?|You know, I think it was a month that time.|And I set off a Dungbomb under his desk so I could join you, do you remember?|[[Newton Scamander]] and [[Leta Lestrange]] at the [[British Ministry of Magic|Ministry of Magic]], [[1927]]|Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay}}
+'''Prendergast '''was a [[Wizardkind|wizard]] who worked at [[Hogwarts School of Witchcraft and Wizardry]] in around the [[1910s]] in an unknown capacity.
+
+==Biograhy==
+He once gave [[Newton Scamander]] a month's worth of detention for arguing that there are no such thing as strange [[creature]]s, just blinkered people. [[Leta Lestrange]] later set off a [[dungbomb]] under Prendergast's desk so she could join Newt in detention.<ref name="COG18">{{COG|S|18}}</ref>
+
+==Appearances==
+*{{COG|S}} {{1st Mention}}
+*{{COG}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Staff}}
+[[de2:Prendergast]]
+[[pl:Prendergast]]
+[[ru:Прендергаст]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts employees]]
+[[Category:Males]]
+[[Category:Wizards]]

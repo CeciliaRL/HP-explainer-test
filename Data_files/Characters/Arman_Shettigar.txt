@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Arman Shettigar
+|born = [[31 August]] [[1982]] or earlier<ref name="age">He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="house">{{POA|G}} {{C|Console version}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Ravenclaw]]<ref name="HBPG"/>
+}}
+'''Arman Shettigar''' was a [[Wizardkind|wizard]] and [[Ravenclaw]]<ref name="house" /> student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+He competed in the school's [[Gobstones]] tournament during the [[1996-1997 school year]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+The name "Arman" means "dream" in Kazakh, of [[Persia]]n origin.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console version only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts Gobstones}}
+{{DEFAULTSORT:Shettigar, Arman}}
+[[pl:Arman Shettigar]]
+[[fr:Arman Shettigar]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gobstones players]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

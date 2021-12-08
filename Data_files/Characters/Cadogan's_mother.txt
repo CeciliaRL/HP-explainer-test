@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Cadogan's mother
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PPG"/>
+|gender = Female<ref name="PPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Cadogan's father|Husband]]<ref name="PPG"/>
+*[[Cadogan|Sir Cadogan]] (son)<ref name="PPG"/>
+*[[Cadogan's children|Seventeen rumoured grandchildren]]<ref name="PPG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''[[Wizardkind|witch]]''' was the mother of [[Cadogan|Sir Cadogan]], a [[Knights of the Round Table|Knight of the Round Table]] famous for his defeat of the [[Wyvern of Wye]].<ref name="PPG">{{PP|G}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{PP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Matka Cadogana]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = [[File:Marilyn.JPG|250px]]
+|name = Marilyn
+|born = [[31 August]] [[1980]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSG"/>
+|gender = Female<ref name="PSG"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="PSG"/>
+|eyes = 
+|skin = White<ref name="PSG"/>
+|family = *[[Arthur (Hufflepuff student)|Arthur]] (brother)<ref name="PSG"/>
+*[[Albert]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="PSG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSG"/>
+**[[Hufflepuff]]<ref name="PSG"/>
+}}
+{{Quote|Hi, my name is Marilyn. I have a lovely collection of beetle pincers!|Marilyn|Harry Potter and the Philosopher's Stone (video game)}}
+'''Marilyn''' was a [[Wizardkind|witch]] and eccentric [[Hufflepuff]] student at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] during the [[1990s]]. She collected [[beetle]] pincers in her spare time as a hobby.<ref name="PSG">{{PS|G}} {{C|PC version}}</ref> She had a younger brother named [[Arthur (Hufflepuff student)|Arthur]], who were both described by other students as "being a bit off", meaning others found them somewhat strange.<ref name="COSG">{{COS|G}} {{C|PC version}}</ref>
+==Behind the scenes==
+*While Marilyn appears to be Caucasian and blonde, her brother Arthur is of black African descent.
+
+==Appearances==
+*{{PS|G}} {{1st}} {{C|PC version}}
+*{{COS|G}} {{Mention}} {{C|PC version}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Marilyn (Spiel1)]]
+[[fr:Marilyn]]
+[[ru:Мэрилин]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Wizards]]

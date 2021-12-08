@@ -1,0 +1,54 @@
+
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:1379FirstWizard.png|250px]]
+|name=First semi-finalist of the 1379 duelling contest
+|hideb=
+|born=
+|died=[[1379]] (possibly)
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[1379 duelling contest]]
+}}
+This '''individual''' was a [[wizardkind|wizard]] who, in [[1379]], partook in an [[1379 duelling contest|international duelling contest]] on [[Dartmoor]].<ref name="WBoS">{{WBS}}</ref>
+
+The duelling was noted, by witnesses, to have been of a standard that few had ever seen before. As the contest progressed, only four contestants remained: this wizard, three more wizards, and an [[England|English]] witch, [[Elizabeth Smudgling]].<ref name="WBoS"/>
+
+[[File:1379 First Vs Second.png|250px|thumb|left|The first semi-finalist faces the [[Second semi-finalist of the 1379 duelling contest|second semi-finalist]]]]
+
+This wizard was the first semi-finalist, and was to take part in the first [[Duelling|duel]]. Keeping in mind the judges' advice to "think big", he transformed himself into a [[Cattle|bull]] and charged the [[Second semi-finalist of the 1379 duelling contest|second wizard]], who escaped [[death]] by quickly turning himself into a [[snake|viper]]. The [[Second semi-finalist of the 1379 duelling contest|second wizard]] bit the first on the leg, sending him crashing to the ground in pain.<ref name="WBoS" />
+
+Considering that in the Middle Ages, before there was a [[British Ministry of Magic|Ministry of Magic]] to regulate such matters, [[duelling]] was usually fatal,<ref name="TBB">{{TBB|R}} - ''Albus Dumbledore on "''The Tale of the Three Brothers''"''</ref> and given his particularly violent defeat, it is likely this individual died.
+
+==Appearances==
+*{{PM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Primer semifinalista del Concurso de duelos de 1379]]
+[[pl:Pierwszy półfinalista Turnieju Pojedynków z 1379]]
+[[pt-br:Primeiro semifinalista do concurso de duelos de 1379]]
+[[Category:1379 deaths]]
+[[Category:Duellists]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

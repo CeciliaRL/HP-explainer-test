@@ -1,0 +1,39 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Brice Badeaux
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="WU Triwizard"/>
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="WU Triwizard"/>
+|gender = Male<ref name="WU Triwizard"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|boggart = 
+|job = Journalist<ref name="WU Triwizard"/>
+|loyalty = 
+}}
+'''Brice Badeaux''' was a [[Non-magic people|Muggle]] journalist who worked in the [[21st century]].<ref name="WU Triwizard"/>
+
+==Biography==
+In the winter period of [[2020]]-[[2021]], during the [[Calamity]], he became witness to multiple [[Foundable]] traces and reported them [[Internet|online]] in a serious breach of the [[International Statute of Wizarding Secrecy]]. This was in spite of [[Statute of Secrecy Task Force]] members taking all [[Muggle-Repelling Charm|precautions against discovery]]. When caught with a [[Triwizard Tournament|Triwizard]] [[golden egg]] Foundable, he attempted to run away with his evidence, but was caught and [[Memory Charm|obliviated]]. Brice seemed to have foreknowledge regarding the [[wizarding world]] and knew that he would be stopped and obliviated, raising concerns that he had been aided by [[The Unforgivable]], a secret cabal of apparent [[Dark Wizard]]s who appeared to manipulate the Calamity for their own gain.<ref name="WU Triwizard">{{WU}} ([[Brilliant Event: Triwizarding Secrets|Brilliant Event: Triwizard Secrets]])</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Secrecy breaches]]

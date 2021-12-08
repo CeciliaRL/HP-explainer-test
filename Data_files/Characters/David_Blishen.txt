@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = David Blishen
+|born = In or prior to [[1978]]<ref name="eighteen">The age of majority in Muggle Britain is 18 years. To be working for a newspaper in 1996, this individual must have been 18 or older at the time.</ref>
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Blishen family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Photographer for ''[[The Guardian]]''
+|house = 
+|loyalty = 
+}}
+'''David Blishen''' was a [[Non-magic people|Muggle]] photographer who, in the summer of [[1996]] took the large front-page picture of the aftermath of the collapse of the [[Millennium Bridge]] for ''[[The Guardian]]''.<ref name="HPLE">{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Appearances==
+*{{HBP|F}} {{Mention}}
+*{{HPLE}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Blishen, David}}
+[[es:David Blishen]]
+[[pl:David Blishen]]
+[[Category:Blishen family|David]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Photographers]]

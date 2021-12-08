@@ -1,0 +1,21 @@
+{{conjecture}}
+{{Individual infobox
+|name = Portrait of witch in a meadow
+|species = [[Human]]<ref name="OOTP28"/>
+|gender = Female<ref name="OOTP28"/>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP28"/>
+|theme = portrait
+}}
+A '''[[portrait]] of a [[Wizardkind|witch]] in a meadow''' hung in [[Hogwarts Castle]] in [[1996]], next to a portrait of some wizards playing cards. The occupant was described as ''soppy-looking''.<ref name="OOTP28"/>
+
+==History==
+The portrait was heavily damaged in 1996 when an [[Weasleys' Wildfire Whiz-bangs|enchanted firework]], set off by [[Fred and George Weasley]], was hit with a [[Stunning Spell]] cast by [[Dolores Umbridge]] in an attempt to stop it; instead of being frozen, the [[spell]] instead caused the firework to explode with such force that it blasted a hole in the witch's painting. She ran for it just in time, seeking refuge in her neighbouring portrait depicting two wizards playing cards. It is unknown if the portrait was repaired afterwards.<ref name="OOTP28">{{OOTP|B|28}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[pl:Obraz czarownicy na łące]]
+[[Category:Females]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

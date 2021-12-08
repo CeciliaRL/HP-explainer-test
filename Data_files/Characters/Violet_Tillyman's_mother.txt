@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Violet Tillyman's mother
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Violet Tillyman]] (daughter)
+*[[Albert Tillyman]] (son-in-law)
+*[[Violet Tillyman's seven children|Seven grandchildren]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''woman''' was a [[wizardkind|witch]] who lived during the [[19th century]]. She had a daughter, [[Violet Tillyman|Violet]], who married a man named [[Albert Tillyman]].<ref name="PM">{{WW|the-floo-network}}</ref>
+
+In [[1855]], Violet had a terrible fight with her husband, and [[Floo Network|leapt into the living-room fireplace]] of her home in tears and declared — between sobs and hiccoughs — that she wanted to go to her mother's. However, she never arrived there, and after two weeks Albert went to his mother-in-law's house via the Floo Network in search of her. Violet's mother told Albert that her daughter had never shown up. Initially, Albert refused to believe her, yelling and angrily searching the house, but in the end he accepted that she was telling the truth. A public campaign was launched to try to locate Violet, but nobody seemed to know anything about her whereabouts, and she remained missing.<ref name="PM" />
+
+It only was after Albert's death in [[1875]] that Violet came forward and publicly revealed her story. Due to her distressed, sobbing words, she had accidentally come out of the fireplace of [[Myron Otherhaus]] of [[Bury St Edmunds]], [[Wikipedia:Suffolk|Suffolk]], instead of being transported to "Mother's house" as she had intended. She and Myron fell in love instantly, and lived together in seclusion for the next twenty years, having [[Violet Tillyman's seven children|seven children]].<ref name="PM" />
+
+==Behind the scenes==
+*On the account of [[Violet Tillyman]]'s disappearance on {{PM}}, it is stated that Violet's mother "claimed that Violet had never arrived" at her home, and that she "appeared to be telling the truth." This leaves open the possibility that she wasn't telling the truth, and that she had been contacted by Violet and was aware that she was in fact residing with Myron Otherhaus, but chose not to reveal this information.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Tillyman, Violet's mother}}
+[[fr:Mère de Violette Tillyman]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

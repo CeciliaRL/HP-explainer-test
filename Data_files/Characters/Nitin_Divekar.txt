@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Nitin Divekar
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = 
+}}
+'''Nitin Divekar''' was a [[Hufflepuff]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He was seen walking around the school during the [[1993-1994 school year]].
+
+==Etymology==
+Nitin is a male given name of Indian origin. It means "master of the right path". Divekar is an Indian surname, most often found in the state of Maharashtra.
+
+==Behind the scenes==
+*Based on his name, he is most likely of [[India]]n descent.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Divekar, Nitin}}
+[[pl:Nitin Divekar]]
+[[Category:British or Irish individuals]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified wizard
+|born = 
+|died = Before [[1970s]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="QTAR"/>
+|gender = Male<ref name="QTAR"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Unidentified freckle-faced six year old|Son]]<ref name="QTAR"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Quidditch]]<ref name="QTAR"/>
+*[[Stooging]]<ref name="QTAR"/>
+}}
+{{Quote|One freckle-faced six-year-old left the hall in tears. 'I loved stooging,' he sobbed to the ''Daily Prophet''. 'Me and me dad like watching them Keepers flattened. I don't want to go to Quidditch no more.'|''[[Daily Prophet]]''|Quidditch Through the Ages (real)}}
+This '''individual''' was a [[Wizardkind|wizard]] who liked [[Stooging]] in the game of [[Quidditch]], but after it was banned as a foul in [[1884]], his son wrote an angry letter to the [[Daily Prophet]] in which he said that they wasn't going to [[Quidditch]] any more.<ref name="QTAR">{{QTA|R|6}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pt-br:Pai do garotinho de seis anos e cara sardenta]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

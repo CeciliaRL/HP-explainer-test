@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme=individual
+|image=
+|name=Mrs Parry
+|born=Before [[1927]]<ref name="IMDb"/>
+|died=
+|blood=
+|marital=
+|nationality=
+|alias=
+|title=
+|signature=
+|species=
+|gender=Female<ref name="IMDb"/>
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+}}
+'''Mrs Parry''' was a female individual that lived in [[1927]].<ref name="IMDb">[https://www.imdb.com/name/nm10270229/?ref_=ttfc_fc_cl_t100/ Internet Movie Database]</ref>
+
+==Behind the scenes==
+*Mrs Parry was played by [[Henny Hardy]] in {{COG}}.
+
+==Appearances==
+*{{COG}} {{1st}} 
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Humans]]

@@ -1,0 +1,57 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = vampire
+|image = [[File:Count Vlad Drakul.jpg|250px]]
+|name = 
+|born = [[1390]]<ref name="POAG"/>
+|died = Unknown<ref name="POAG"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Count<ref name="POAG"/>
+|signature = 
+|species = [[Vampire]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="POAG"/>
+|eyes = Yellow<ref name="POAG"/>
+|skin = White<ref name="POAG"/>
+|family = [[Vlad the Impaler]] (son)<ref name="POAG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Count Vlad Drakul''' (b. [[1390]]) was a notorious [[vampire]] who inspired the author [[Bram Stoker]] to create his famous character [[Count Dracula]]. Drakul had a son, [[Vlad the Impaler]], who presumably shared his father's notorious reputation.<ref name="POAG">{{POA|G}}</ref>
+
+==Behind the scenes==
+*[[Wikipedia:Vlad II Dracul|Vlad II Dracul]], (Vlad the Dragon) was a "voivode" (duke or prince) of Wallachia (a region that corresponds with modern-day Southern Romania), and reigned from 1436 to 1442, and again from 1443 to 1447.
+*In reality, there are [[Wikipedia:Dracula#Background|various theories]] as to Stoker's inspiration for Dracula. He was inspired by a Wallachian duke named Dracula (i.e. Dracul's son or Dragon's son), so it is Dracul's son Vlad the Impaler who is more commonly considered the source of inspiration.
+
+==Appearances==
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+{{DEFAULTSORT:Dragul, Vlad}}
+[[de:Graf Vlad Drakul]]
+[[fr:Comte Vlad Dracula]]
+[[fi:Vlad Dracula]]
+[[nl:Vlad Drakul]]
+[[es:Vlad Drácula]] 
+[[pl:Vlad Drakul]]
+[[ru:Граф Влад Дракула]]
+[[Category:1390 births]]
+[[Category:Famous Vampires Chocolate Frog Cards]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Nobility]]
+[[Category:Vampires]]
+[[Category:Yellow-eyed individuals]]

@@ -1,0 +1,55 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Slytherin chess champion.jpg|250px]]
+|name = Slytherin Wizard's Chess champion
+|born = Between [[1 September]] [[1977]] and [[31 August]] [[1984]] (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTPG"/>
+|gender = Male<ref name="OOTPG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="OOTPG"/>
+|eyes = Brown<ref name="OOTPG"/>
+|skin = Black<ref name="OOTPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="OOTPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTPG"/>
+**[[Slytherin]]<ref name="OOTPG"/>
+}}
+{{Quote|I don't believe that!|The Wizard's Chess champion is defeated|Harry Potter and the Order of the Phoenix (video game)}}
+The '''Slytherin Wizard's Chess champion''', as the title suggests, refers to the [[Wizard's Chess]] Champion for [[Slytherin|Slytherin House]], at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="OOTPG">{{OOTP|G}}</ref>
+
+==Biography==
+The boy came to be educated at [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|Sorted]] into [[Slytherin|Slytherin House]]. His [[Head of House]] was [[Professor]] [[Severus Snape]], the [[Potions (class)|Potions]] [[Potions Master|Master]], and he shared a dormitory with four other boys in his year in the [[Slytherin Dungeon]]. He was skilled in [[Wizard's Chess]] and could be usually found playing at the [[Great Hall]].<ref name="OOTPG"/>
+
+==See also==
+*[[Gryffindor Wizard's Chess champion]]
+*[[Ravenclaw Wizard's Chess champion]]
+[[fr:Champion d'échecs de Serpentard]]
+
+==Appearances==
+*{{OOTP|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Bullies]]
+[[Category:Brown-eyed individuals]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

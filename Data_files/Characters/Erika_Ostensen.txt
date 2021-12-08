@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:ErikaOstensen.JPG|250px]]
+|name = Erika Ostensen
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = White<ref name="QWC"/>
+|eyes = 
+|skin = Pale<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch]] [[Quidditch referee|referee]]<ref name="QWC"/>
+|house = 
+|loyalty = [[Quidditch]]
+}}
+'''Erika Ostensen''' was a [[Wizardkind|witch]] and [[Quidditch]] [[Quidditch referee|referee]].<ref name="QWC">{{QWC}}</ref>
+
+==Appearances==
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+{{DEFAULTSORT:Ostensen, Erika}}
+[[Category:Females]]
+[[Category:Quidditch referees]]
+[[Category:Wizards]]

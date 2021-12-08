@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Unidentified Headmaster with Scroll.png|250px]]
+|name = Unidentified Headmaster with scroll
+|born = 
+|died = Before [[1990s]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, this headmaster must have died sometime in or before the [[1990s]], given his portrait's appearance in the [[Headmaster's office]] set at {{MHP}}.</ref>
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]
+*[[Headmaster]]
+|signature = 
+|species = [[Human]]
+|gender = Male<ref name="HPLEPA">{{HPLE|PA}}</ref>
+|height = 
+|weight = 
+|hair = White<ref name="HPLEPA"/>
+|eyes = 
+|skin = Light<ref name="HPLEPA"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]]
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''[[Wizardkind|wizard]]''' was appointed [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] at some unknown time. After his death,<ref name="DOD" /> his [[portrait]] was hung in the [[Headmaster's office]], in order to give advice to the current head. He was depicted sitting and holding a scroll.
+
+==Appearances==
+*{{HPLE}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}[[pl:Niezidentyfikowany dyrektor ze zwojem]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

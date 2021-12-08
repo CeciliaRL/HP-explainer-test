@@ -1,0 +1,55 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Goshawk family.png|250px]]
+|name = Miranda Goshawk's mother
+|born = Before [[1915]]<ref name="year1915">Presuming a 9-month-long gestation period for every Goshawk sister, the very latest the eldest sister could have been born is December, 1915. Thus, this individual must have been born before this year.</ref>
+|died = In or after [[1921]]<ref name="year1920">Miranda Goshawk (this individual's last daughter) was born in 1921.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WBoS"/>
+|gender = Female<ref name="WBoS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Miranda Goshawk's father|Mr Goshawk]] (husband)<ref name="WBoS"/>
+*[[Diadema Goshawk]] (daughter)<ref name="WBoS"/>
+*[[Miranda Goshawk]] (daughter)<ref name="WBoS"/>
+*[[Romilda Goshawk]] (daughter)<ref name="WBoS"/>
+*[[Tangwystl Goshawk]] (daughter)<ref name="WBoS"/>
+*[[Goshawk sisters|Five other daughters]]<ref name="WBoS"/>
+*[[Miranda Goshawk's aunts and uncles|Siblings-in-law]]<ref name="WBoS"/>
+*[[Miranda Goshawk's cousins|Nieces and nephews]]<ref name="WBoS"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Goshawk family]]<ref name="WBoS"/>
+}}
+'''Mrs Goshawk''' (fl. [[1915]]-[[1921]]) was the wife of [[Miranda Goshawk's father|Mr Goshawk]], and the mother of the [[Goshawk sisters|nine Goshawk sisters]], including [[Diadema Goshawk|Diadema]], [[Romilda Goshawk|Romilda]], [[Tangwystl Goshawk|Tangwystl]] and [[Miranda Goshawk]].<ref name="WBoS"/>
+
+This individual had several [[Miranda Goshawk's aunts and uncles|siblings-in-law]] and, through their marriages, many [[Miranda Goshawk's cousins|nieces and nephews]].<ref name="WBoS">{{WBS}}</ref>
+
+==Appearances==
+*{{WBS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Goshawk, Mrs}}
+[[es:Madre de Miranda Goshawk]]
+[[pl:Pani Goshawk]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Goshawk family]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

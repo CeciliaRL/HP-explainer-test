@@ -1,0 +1,42 @@
+{{Notability}}
+{{Conjecture}}
+{{Individual infobox
+|theme = death-eater
+|image = [[File:Death eater.jpg|250px]]
+|name = Unidentfied male Death Eater during the Battle of Hogwarts (II)
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Death Eaters|Death Eater]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|job = 
+|house = 
+|loyalty = *[[Death Eaters]]
+*[[Tom Riddle|Lord Voldemort]]
+}}
+[[File:Death eaterjgv.jpg|thumb|left|The Death Eater in the crowd]]
+This '''[[Dark Wizard]]''' was a [[Death Eaters|Death Eater]] and one of [[Tom Riddle|Lord Voldemort]]'s servants during the [[Second Wizarding War]]. He fought during the [[Battle of Hogwarts]] in [[1998]], although it is unknown if he was killed during the battle, abandoned the battle or was defeated, arrested and sentenced to imprisonment in [[Azkaban]] for his crimes as as a Death Eater.<ref>{{DH|F2}}</ref>
+
+==Appearances==
+*{{DH|F2}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]
+[[Category:Unidentified Death Eaters]]

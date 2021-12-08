@@ -1,0 +1,54 @@
+
+{{Individual infobox
+|theme=mom
+|image=[[File:Ralston Potter.png|250px]]
+|name=Ralston Potter
+|hideb=
+|born=Before [[1595]]
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]<ref name="Pottermore"/>
+|gender=Male<ref name="Pottermore"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Potter family]]<ref name="Pottermore"/>
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Member of the [[Wizengamot]] ([[1612]]-[[1652]])<ref name="Pottermore"/>
+|house=
+|loyalty=*[[Potter family]]<ref name="Pottermore"/>
+*[[Wizengamot]]<ref name="Pottermore"/>
+}}
+'''Ralston Potter''' was a member of the [[Wizengamot]] from [[1612]] to [[1652]]. He was a staunch advocate of the [[International Statute of Wizarding Secrecy]], in contrast to his more militant peers, who wished to declare war against [[Non-magic people|Muggle]]s.<ref name="Pottermore">{{WW|the-potter-family}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Potter, Ralston}}
+[[de:Ralston Potter]]
+[[ru:Ралстон Поттер]]
+[[pl:Ralston Potter]]
+[[fr:Ralston Potter]]
+[[Category:Articles with information from Pottermore]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Peverell family descendants]]
+[[Category:Potter family|Ralston]]
+[[Category:Wizards]]
+[[Category:Wizengamot members]]

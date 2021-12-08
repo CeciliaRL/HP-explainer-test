@@ -1,0 +1,70 @@
+{{Youmay|the founder of the [[Society for the Reformation of Hags]]|the [[Honoria|aunt]] of [[Albus Dumbledore]]}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:HonoriaNutcombe.jpg|250px]]
+|name = Honoria Nutcombe
+|born = [[1665]]
+|died = [[1743]] (aged 77-78)
+|blood = 
+|marital = 
+|nationality = 
+|alias = Honouria Nutcombe
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = White
+|eyes = 
+|skin = Green
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Philanthropist
+|house = 
+|loyalty = [[Society for the Reformation of Hags]]
+}}
+'''Honoria Nutcombe''' (first name alternatively spelt "'''Honouria'''")<ref name="PS">Her [[Chocolate Frog Card|Famous Wizard Card]] in the [[Harry Potter and the Philosopher's Stone (video game)|video game adaptation]] of {{PS}} lists her as "Honouria" Nutcombe.</ref> ([[1665]] – [[1743]]) was a [[Wizardkind|witch]]<ref>[[Chocolate Frog Card]] found under the "Famous Witches" section, rather than "Hags"</ref> who founded the [[Society for the Reformation of Hags]].
+
+==Behind the scenes==
+*Honoria was depicted with green skin in all of her appearances, although she was a human [[Wizardkind|witch]]. It is possible that her skin colour changed due to an illness or a potion, or that she had some hag ancestry.
+
+==Appearances==
+{{Imagecat|Images of Honoria Nutcombe}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*''[[Wizard of the Month]]''
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Nutcombe, Honoria}}
+
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Donaghan Tremlett]]
+|position=[[Wizard of the Month]]
+|years=[[August]] [[2004]]
+|successor=[[Uric the Oddball]]
+}}
+{{End box}}
+{{Chocolate Frog Cards}}[[de:Honoria Nutcombe]]
+[[fr:Honoria Nutcombe]]
+[[it:Honoria Nutcombe]]
+[[fi:Honoria Nutcombe]]
+[[pl:Honoria Nutcombe]]
+[[ru:Онория Наткомб]]
+[[Category:1665 births]]
+[[Category:1743 deaths]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Philanthropists]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

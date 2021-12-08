@@ -1,0 +1,22 @@
+{{Individual infobox
+|name = Andy P. Young
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|job = Vice president of [[Steen National Bank]]
+|loyalty = Steen National Bank
+|theme = muggle
+}}'''Andy P. Young''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who served as the vice president of [[Steen National Bank]] in [[New York]] in [[1926]].<ref>{{CB|46}}</ref>
+
+==Appearances==
+*{{FB|F}} {{1st Mention}} {{C|Mentioned on a document}}
+*{{CB}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Young, Andy P.}}
+[[Category:American individuals]]
+[[Category:Bankers]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Steen National Bank employees]]

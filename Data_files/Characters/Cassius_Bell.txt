@@ -1,0 +1,76 @@
+{{Individual infobox
+|theme = grindelwald-acolyte
+|image = Cassius Bell.png
+|name = Cassius Bell
+|born = Before [[1927]]<ref name="COG">{{COG|S}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COG"/>
+|gender = Male<ref name="COG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="COG"/>
+|patronus = 
+|job = [[Auror]]<ref name="spotlight"/><ref name="actor"/>
+|house = 
+|loyalty = *[[Bell family]]
+*[[British Ministry of Magic]] (formerly)
+**[[Department of Magical Law Enforcement]]
+***[[Auror Office]]
+*[[Gellert Grindelwald]]
+**[[Alliance|The Alliance]]
+}}
+'''Cassius Bell'''<ref name="spotlight">[https://www.spotlight.com/8817-8941-5567 Actor Christopher Birks' Spotlight profile] - "Film, Cassius 'Young Auror' Bell, FANTASTIC BEASTS: THE CRIMES OF GRINDELWALD, Warner Bros., David Yates"</ref><ref name="actor">[http://christopherbirks.co.uk/cv/ CV] - Actor Christopher Birks' official website</ref> was a [[Wizardkind|wizard]] and [[Auror]] who lived in the early 20th century who eventually joined the [[Dark Wizard]], [[Gellert Grindelwald]].
+
+==Biography==
+===Early life===
+Cassius Bell was presumably born at some point prior to [[1910]] and became an [[Auror]] at some point after his seventeenth birthday, though it is unclear which wizarding government he served.
+
+===Global wizarding war===
+In [[1927]], Cassius Bell was part of the group of Aurors, led by British Auror [[Theseus Scamander]], who attempted to break up a rally held by the [[dark wizard]] [[Gellert Grindelwald]] in the [[Lestrange Mausoleum]] in the [[Paris]]ian cemetery [[Cimetière du Père-Lachaise]]. Before entering the mausoleum, Scamander ordered his men to go easy on the crowd, reminding them it was not illegal to simply listen to Grindelwald's speech. The group then marched inside, with Bell close behind Scamander.<ref name="COG" />
+
+Upon entering the sunken auditorium like space in which Grindelwald was addressing his supporters, Bell and the other Aurors silently spread out along the wall of the chamber's upper most level. The dark wizard spotted the group's arrival and invited them to come closer. Bell looked around at the other Aurors in shock upon hearing this, but Scamander began making his way down one of the stairways in the auditorium toward Grindelwald, and Bell followed suit, descending first down a separate stairway with his wand drawn.<ref>{{COG}} - See the 9 frames of this sequence: From shot [https://movie-screencaps.com/fantastic-beasts-the-crimes-of-grindelwald-2018/73#foobox-1/160/crimes-grindewald-movie-screencaps.com-13120.jpg?strip=all 161/181] to shot [https://movie-screencaps.com/fantastic-beasts-the-crimes-of-grindelwald-2018/73#foobox-1/168/crimes-grindewald-movie-screencaps.com-13128.jpg?strip=all 169/181]</ref>
+
+As the group moved forward, Grindelwald riled the crowd against the Aurors, prompting a [[Red-haired young witch|young witch]] to attack Bell. The Auror defended himself with the [[Killing Curse]], immediately killing his assailant and causing the crowd in the auditorium to cry out in shock. As they moved in around him he panicked and stumbled back up the stairway away from the witch's corpse.<ref>{{COG}} - See the 10 frames of this sequence: From shot [https://movie-screencaps.com/fantastic-beasts-the-crimes-of-grindelwald-2018/74#foobox-1/5/crimes-grindewald-movie-screencaps.com-13145.jpg?strip=all 6/181] to shot [https://movie-screencaps.com/fantastic-beasts-the-crimes-of-grindelwald-2018/74#foobox-1/14/crimes-grindewald-movie-screencaps.com-13154.jpg?strip=all 15/181]</ref><ref>{{COG|S|114}} - ''"But one of the jumpiest young AURORS has made eye contact with the YOUNG RED-HAIRED WITCH. She is angry, as twitchy as he is, fingering her wand. ''[...]'' He ''[Gellert Grindelwald]'' is deliberately playing on the unstable YOUNG RED-HAIRED WITCH’S feelings. The YOUNG AUROR raises his wand a few inches. He can sense her desire for violence— ''[...]'' And it happens. She raises her wand, but the YOUNG AUROR [[curse]]s first. To the horror of her companions, she falls, dead."''</ref> Grindelwald then approached the woman's body and told his supporters to [[Apparition|apparate]] away and spread the word that it was law enforcement who was violent, not he. After the crowd had escaped, Grindelwald created a ring of [[Protego Diabolica|dark magical fire]] around himself that only his loyal followers could pass through unharmed.<ref name="COG" />
+
+Theseus gave the order to attack as Grindelwald's followers escaped into the circle of fire and Apparated away. The [[Dark Wizard]] then began manipulating the black [[Fire|flames]] to lash out at the attacking Aurors, killing many of them. Bell watched the flame kill two Aurors as they attempted to apparate away, then turned calmly toward Grindelwald's ring of fire and descended towards it.<ref>{{COG}} - See the 18 frames of this sequence: From shot [https://movie-screencaps.com/fantastic-beasts-the-crimes-of-grindelwald-2018/76#foobox-1/100/crimes-grindewald-movie-screencaps.com-13600.jpg?strip=all 101/181] to shot [https://movie-screencaps.com/fantastic-beasts-the-crimes-of-grindelwald-2018/76#foobox-1/117/crimes-grindewald-movie-screencaps.com-13617.jpg?strip=all 118/181]</ref> Grindelwald ultimately escaped, leaving his foes to battle the flame, which he had left to destroy Paris.
+
+==Magical abilities and skills==
+*'''[[Auror]] skills''': As an [[Auror]], Bell would have been highly accomplished and [[Auror training|trained]] in the skills required needed for this career, in particular with [[Martial magic|offensive and defensive magic]].<ref name="COG"/>
+*'''[[Dark Arts]]''': Bell was capable of casting the [[Killing Curse]] proficiently,<ref name="COG"/> an [[Unforgivable Curses|Unforgivable Curse]] which required a high amount of [[magic]]al skill and determination to perform.<ref name="GOF14">{{GOF|B|14}}</ref>
+
+==Behind the scenes==
+*Cassius Bell is played by [[Christopher Birks]] in {{COG}}.<ref name="spotlight" /><ref name="actor" /> The name of the character is occasionally omitted in credits, with the role referred as "Young Auror".
+*It is possible that he is related to [[Katie Bell]].
+*Given the second instalment of the [[Fantastic Beasts (film series)|''Fantastic Beasts'' films]] is set in [[New York]], [[Paris]] and [[London]], he may have worked for the [[British Ministry of Magic|British]] or [[French Ministry of Magic|French]] [[Ministry of Magic|Ministries of Magic]], or the [[Magical Congress of the United States of America]]. It is also possible that he worked for another wizarding government.
+
+==Appearances==
+*{{COG|S}} {{1st ID|YOUNG AUROR}}
+*{{COG}} 
+
+==Notes and references==
+{{Reflist}}
+[[es:Cassius Bell]]
+[[fr:Cassius Bell]]
+[[pl:Cassius Bell]]
+[[ru:Кассиус Белл]]
+[[Category:Aurors]]
+[[Category:Bell family]]
+[[Category:Gellert Grindelwald's Paris rally participants]]
+[[Category:Males]]
+[[Category:Members of the Alliance]]
+[[Category:Unforgivable curse users]]
+[[Category:Wizards]]
+{{DEFAULTSORT:Bell, Cassius}}

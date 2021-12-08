@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Cooper children
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DP" />
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="DP" />
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Buckley Cooper's brother|Mr Cooper]] (father)<ref name="DP" />
+*[[Buckley Cooper]] (uncle)<ref name="DP" />
+*[[Hortense Cooper]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Cooper family]]<ref name="DP"/>
+}}
+The '''children''' of [[Buckley Cooper's brother|Mr Cooper]] became a target of their uncle, [[Buckley Cooper]], who wanted to get revenge for the [[curse]]d [[broomstick]] he had been given by their father.<ref name="DP"/> In a letter to the ''[[Daily Prophet]]'s'' advice column, Buckley asked whether he would be able to get away with kidnapping the children and [[Transfiguration|transforming]] them into [[vampire]] [[ferret]]s, and was told that he would not.<ref name="DP">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[1 June]], [[1999]], Problem Page</ref>
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Cooper family]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unnamed family members‎]]
+[[Category:Wizards]]

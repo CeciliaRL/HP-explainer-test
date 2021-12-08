@@ -1,0 +1,44 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = ThestralAtTheMagicalCreaturesReserve.jpg
+|name = Thestral at the Magical Creatures Reserve
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Thestral]]<ref name="TDH">{{HM}}, Year ?, Side Quest "The Dark Horse"</ref>
+|gender = 
+|height = 
+|hair = Black<ref name="TDH"/>
+|feathers = 
+|eyes = White<ref name="TDH"/>
+|skin = Black<ref name="TDH"/>
+|family = 
+|loyalty = [[Magical Creatures Reserve]]<ref name="TDH"/>
+}}
+This '''[[Thestral]]''' lived in the [[Magical Creatures Reserve]] in the [[1980s]].<ref name="TDH"/>
+
+==Biography==
+In the [[1980s]], [[Jacob's sibling]] would often bond with and feed this [[Thestral]].<ref name="TDH"/>
+
+At some point during [[Jacob's sibling]]'s time at Hogwarts, [[Albus Dumbledore]] asked [[Rubeus Hagrid|Hagrid]] to give a presentation on Thestrals to the [[International Confederation of Wizards]], hoping to clear up some of the misconceptions around them. More specifically that even a Thestral with limited exposure to strangers will be comfortable working with a large group of them.<ref name="TDH" />
+
+To this end, Hagrid asked Jacob's sibling and [[Merula Snyde]] to help prepare a Thestral at the [[Magical Creatures Reserve]] for the presentation.<ref name="TDH" /> Merula had strong objections working with the creature because of negative assosiations with them due to "an incident" between her [[Dark Wizard|Dark wizard]] parents and an [[Auror]]. She initially only agreed for the potential [[House points]]. However, after meeting it she became upset, which in turn upset the Thestreal and it flew off.
+
+Though Hagrid was discouraged, Jacob's sibling decided to use this as an opportunity: they could use convincing Merula as practice for convincing the Confederation. Though she was reluctant to get close to it again, she eventually agreed. Their argument swayed her and she began to warm up to the creature, even smiling a little while she worked with it.
+
+When Professor Dumbledore came to collect Hagrid and the Thestral to travel to the conference, he revealed that he knew of the tragic experience in Merula's past and had deliberately arranged for her to work with it; to allow her to face her fear and see that good things, such as being able to work with a gentle creature like a Thestral, could come even from terrible events.   
+
+Hagrid later reported that he considered the presentation a huge success, though given that prejudices against the creatures still seemed to be common in later years, it's unclear how accurate his assessment was.<ref name="TDH" />
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Creature-stub}}
+{{Magical Creatures Reserve}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Magical Creatures Reserve]]
+[[Category:Thestrals]]

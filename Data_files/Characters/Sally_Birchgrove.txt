@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Sally Birchgrove
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her [[first year]] at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="POAG">{{POA|G}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+'''Sally Birchgrove''' was a [[Wizardkind|witch]] and [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="POAG"/>
+
+==Biography==
+She played informal [[Quidditch]] matches with other students during the [[1996–1997 school year]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+The name "Sally" is a diminutive of the name ''Sarah'' which means "lady" or "princess" in Hebrew.
+
+==Appearances==
+*{{POA|G}} {{1st}}
+*{{HBP|G}} {{Comment|NDS version only}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Birchgrove, Sally}}
+[[fr:Sally Birchgrove]]
+[[pl:Sally Birchgrove]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Quidditch players]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

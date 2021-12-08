@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme=wizard
+|name=Mrs Boot
+|image=
+|nationality=[[Ireland|Irish]]<ref name="Pottermore" />
+|species=[[Human]]<ref name="Pottermore" />
+|gender=Female<ref name="Pottermore" />
+|eyes=
+|hair=
+|born=
+|died=Mid-[[1620s]] to early [[1630s]]<ref name="Pottermore" />
+|family=*[[Boot brothers' father|Mr Boot]] (husband)<ref name="Pottermore" />
+*[[Chadwick Boot]] (son)<ref name="Pottermore" />
+*[[Webster Boot]] (son)<ref name="Pottermore" />
+*[[Josefina Calderon]] (daughter-in-law)<ref name="Pottermore" />
+*[[Webster Boot's wife|Mrs Boot]] (daughter-in-law)<ref name="Pottermore" />
+*[[Terry Boot]] (possible descendant)<ref name="Pottermore" />
+*[[Boot family]]<ref name="Pottermore" />
+|blood=
+|title=
+|alias=
+|hidem=1
+|wand=[[Boot brothers' mother's wand|Unknown wood, unknown length]], [[unicorn hair]]<ref name="Pottermore" />
+|boggart=
+|patronus=
+|animagus=
+|job=
+|loyalty=[[Boot family]]<ref name="Pottermore" />
+}}'''Mrs Boot''' (d. mid-[[1620s]] to early [[1630s]]) was an [[Ireland|Irish]] [[wizardkind|witch]] who travelled to the [[United States of America|New World]] with the [[Plymouth settlement]] in the [[17th century]]. She was the mother of [[Chadwick Boot|Chadwick]] and [[Webster Boot]], two founders of [[Ilvermorny School of Witchcraft and Wizardry]].<ref name="Pottermore" />
+
+==Biography==
+Mrs Boot and [[Boot brothers' father|her husband]] were originally from [[Ireland]]. In the [[1620s]], they decided to move to the [[United States of America|New World]] with their young sons, [[Chadwick Boot|Chadwick]] and [[Webster Boot|Webster]], in search of an adventure. They travelled with the [[Plymouth settlement]], befriending [[James Steward]], an [[England|English]] [[Non-magic people|Muggle]], on their journey across the [[Atlantic Ocean]].<ref name="Pottermore">{{WW|ilvermorny}}</ref>
+
+However, when the family left the settlement to venture into the nearby woods for their adventure, they were attacked by a [[Hidebehind]]. Mrs Boot and her husband were killed, but their sons were saved by [[Isolt Sayre]] and [[William (Pukwudgie)|William the Pukwudgie]], and subsequently nursed back to health.<ref name="Pottermore" />
+
+Isolt returned to the site of the attack a two weeks later, intending to give the brothers' parents a decent burial, only to find James Steward in the process of digging graves. James had become concerned when his friends went missing, and thus went looking for them in the woods.<ref name="Pottermore" />
+
+Mrs Boot's sons were adopted by Isolt and James. Isolt took her [[wand]], which had a [[unicorn]] [[Unicorn hair|tail hair]] [[wand core|core]], along with her husband's wand. However, both wands were broken and their cores eventually died, meaning they could not be passed on to the couple's sons. Nonetheless, Isolt was able to study the couple's wands, and this helped her to craft new wands for her adopted sons.<ref name="Pottermore" />
+
+Mrs Boot's sons would go on to help found [[Ilvermorny School of Witchcraft and Wizardry]]. Through her son Chadwick, she become an ancestor of [[Calderon-Boot family]], and through her son Webster, an ancestor of later British Boots (including [[Terry Boot]]).<ref name="Pottermore" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Boot, Mrs}}
+[[de:Mrs Boot]]
+[[fr:Mère de Chadwick et Webster Boot]]
+[[pl:Pani Boot]]
+[[pt-br:Sra. Boot]]
+[[Category:17th century deaths]]
+[[Category:American individuals]]
+[[Category:Boot family|Boot, Mrs]]
+[[Category:Deaths by creature]]
+[[Category:Emigrants]]
+[[Category:Females]]
+[[Category:Irish individuals]]
+[[Category:Married individuals]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]
+[[Category:Parents]]

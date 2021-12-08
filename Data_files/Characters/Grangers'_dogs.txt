@@ -1,0 +1,20 @@
+{{Cut content}}
+{{Conjecture}}
+{{Individual_infobox
+|name = Grangers' dogs
+|born = Before [[1997]]
+|species = [[Dog]]s
+|family = [[Hermione Granger's parents]] (owners)
+|loyalty = [[Granger family]]
+|theme = pet
+}}
+These '''two [[dog]]s''' were owned by [[Hermione Granger's father|Mr]] and [[Hermione Granger's mother|Mrs Granger]], and lived with them in [[Sydney]], [[Australia]].<ref>[http://allbyourselves.wordpress.com/2011/01/11/harry-potter-and-the-deathly-hallows-part-1-movie-script/ ''Harry Potter and the Deathly Hallows: Part 1'' script]</ref> It is unclear if they obtained the dogs as part of their new life caused by having their [[False memory spell|memories modified]], or if they were owned by the family prior to this.
+
+==Appearances==
+*{{DH|F1}} {{Mention}} {{C|Cut from final film}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Granger family possessions]]
+[[Category:Individual dogs]]
+[[Category:Individuals of unknown or undetermined gender]]

@@ -1,0 +1,62 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Henry VI
+|hideb=
+|born=[[6 December]] [[1421]]
+|died=[[21 May]] [[1471]] (aged 49)
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=King of [[England]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[William I]] (ancestor)
+*[[Henry VII]] (half-nephew)
+|hidea=hide
+|job=
+|loyalty=
+}}
+'''Henry VI of England''' ([[6 December]] [[1421]] – [[21 May]] [[1471]]) was [[King]] of [[England]] from [[1422]] to [[1461]] and again from [[1470]] to [[1471]].<ref>"[http://en.wikipedia.org/wiki/Henry_VI_of_England Henry VI of England]" on Wikipedia</ref>
+
+He had a large, white [[rabbit]] as an advisor, which may have contributed to the widespread perception that he was [[insanity|mad]].<ref name="TBB">{{TBB|R}}</ref> However, it is possible that this rabbit was actually [[Lisette de Lapin]], a [[France|French]] [[Wizardkind|witch]] who escaped from prison in [[Animagus]] form after being convicted of witchcraft by [[Non-magic people|Muggle]]s.<ref name="TBB" />
+
+==Etymology==
+The name "Henry" comes from the Germanic name Heimirich which meant "home ruler", composed of the elements heim "home" and ric "power, ruler". It was later commonly spelled Heinrich, with the spelling altered due to the influence of other Germanic names like Haganrich, in which the first element is hagan "enclosure".
+
+==Appearances==
+*{{TBB|R}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=([[Richard I|←]]) Henry V
+|position=King of England
+|years=[[1422]]-[[1461]]
+|successor=Edward IV
+}}
+{{Succession box
+|predecessor=Edward IV
+|position=King of England
+|years=[[1470]]-[[1471]]
+|successor=Edward IV ([[Henry VII|→]])
+}}
+{{End box}}
+
+[[pt-br:Henrique VI de Inglaterra]]
+[[pl:Henryk VI]]
+[[Category:1421 births]]
+[[Category:1471 deaths]]
+[[Category:English individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Royalty]]

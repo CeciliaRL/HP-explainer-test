@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Angelo Benitez
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Actor
+|house=
+|loyalty=
+}}
+'''Angelo Benitez''' was a [[Muggle|No-Maj]] actor in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:Two to Tango.png}}</ref><ref name="neonsign">{{FB|F}} {{See image|File:OrpheumNewYork.jpg}}</ref> 
+
+He starred in a production of the musical ''[[Two to Tango]]'' that was staged at [[The Kingly Court]] in [[Times Square]] in [[New York]] in [[1926]].<ref name="poster" /><ref name="neonsign" />
+
+==Appearances==
+*{{FB|F}} {{Comment|Mentioned on a poster and sign}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Benitez, Angelo}}
+[[Category:Actors]]
+[[Category:Males]]
+[[Category:Muggles]]

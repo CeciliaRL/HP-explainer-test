@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Unidentified 1992–1993 Music teacher
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="COSG"/>
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Music]] professor at [[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSG"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSG"/>
+}}
+This '''[[professor]]''' taught [[Music]] at [[Hogwarts School of Witchcraft and Wizardry]] during the [[1992–1993 school year]].<ref name="COSG">{{COS|G}} - GBC version</ref>
+
+==Behind the scenes==
+*This individual may have been [[Filius Flitwick]], the [[Charms Master]]  who was conductor of the [[Frog Choir|Hogwarts Choir]] in the [[1990s]].
+*It is also possible that he is one of the many unidentified teachers that appeared in the [[Harry Potter (film series)|films]].  
+
+==Appearances==
+*{{COS|G}} {{1st Mention}} {{C|GBC version}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Staff}}
+
+[[pl:Nauczyciel muzyki]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Musicians]]
+[[Category:Professors]]
+[[Category:Unidentified Hogwarts employees]]
+[[Category:Wizards]]

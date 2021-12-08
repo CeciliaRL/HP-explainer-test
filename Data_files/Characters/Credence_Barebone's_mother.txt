@@ -1,0 +1,62 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Credence Barebone's mother
+|born = Early [[1880s]] at the latest<ref>As she was old enough to bear a child in around [[1901]]</ref>
+|died = Prior to [[1926]] (possibly)
+|blood = 
+|nationality = 
+|alias = 
+|title = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="FB88"/>
+|gender =  Female<ref name="FB88"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = *[[Credence Barebone's aunt]] (sister or sister-in-law)
+*[[Credence Barebone]] (son)<ref name="FB88"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|I am not your ma! Your mother was a wicked, unnatural woman.|Mary Lou Barebone mentioning to Credence what his mother was like|Fantastic Beasts and Where to Find Them: The Original Screenplay}}
+This '''[[Wizardkind|witch]]''' was [[Credence Barebone]]'s biological mother.<ref name="FB88">{{FB|S|88}}</ref>
+
+==History==
+Sometime in [[1901]], she gave birth to [[Credence Barebone]].<ref name="FB88"/>
+
+At some point, [[Mary Lou Barebone]] became aware of the fact she was a witch.<ref> Mary would not have known that Credence's mother was a 'wicked, unnatural woman'.</ref>
+
+===After death===
+She was mentioned to Credence by [[Mary Lou Barebone]], seconds before getting ready to abuse him after suspecting [[Modesty Barebone]]'s [[Modesty Barebone's wand|toy wand]] was his.<ref name="FB88"/>
+
+It is unknown what happened to her, but it is possible that she died prior to [[1926]], as Mary Lou referred to her in the past tense.<ref name="FB88"/>
+
+While looking for his true identity, [[Credence Barebone]] searched all around [[Europe]] for his mother, with information from his [[Credence Barebone's adoption certificate|adoption certificate]].<ref name="COGS">{{COG|S}}</ref>
+
+==Behind the scenes==
+*If Credence was indeed a [[Dumbledore family|Dumbledore]], this woman could have been [[Kendra Dumbledore]], although this is currently unproven.
+
+==Appearances==
+*{{FB|S}} {{1st mention}}
+*{{FB|F}} {{Mention}}
+*{{COG|S}} {{Mention}}
+*{{COG|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Madre de Credence Barebone]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

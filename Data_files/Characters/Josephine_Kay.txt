@@ -1,0 +1,19 @@
+{{Transcribed image|File:Marauder's_Map_POA_ILL.png}}
+{{Individual_infobox
+|theme = individual
+|name = Josephine Kay
+|born =
+|gender = Female
+|house = 
+|image = Josephine Kay.png
+}}
+
+'''Josephine Kay''' was an individual seen just outside the entrance to the [[Hogwarts Library|Library]] on the [[Marauder's Map]] in the [[1993-1994 school year]]. <ref>{{POA|B|10}} (Illustrated edition)</ref> 
+
+==Appearances==
+*{{POA}} {{C|Illustrated edition}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Josephine Kay]]
+[[Category:Females]]

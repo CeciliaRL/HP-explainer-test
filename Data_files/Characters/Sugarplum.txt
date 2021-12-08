@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Sugarplum.png|200px]]
+|name = Mr Sugarplum
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = Blue
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Owner of [[Sugarplum's Sweets Shop]]
+|house = 
+|loyalty = [[Sugarplum's Sweets Shop]]
+}}
+'''Mr Sugarplum''' was a [[Great Britain|British]] [[Wizardkind|wizard]] and the shopkeeper of [[Sugarplum's Sweets Shop]] in [[Diagon Alley]].<ref name="PSG">{{PS|G}}</ref>
+
+==Appearances==
+*{{PS|G}} {{1st}} {{Comment|GBC version only}}
+*{{COS|F}} {{Comment|Name appears on sign}}
+*{{LEGO|Y1}} {{Name on sign}}
+*{{LEGO|Y2}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Diagon Alley}}
+
+[[de2:Sugarplum]]
+[[fr:Bonbec]]
+[[es:Sugarplum]]
+[[pl:Sugarplum]]
+[[vi:Mận Đường]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Confectioners]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

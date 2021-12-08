@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Storeroom-1.jpg|150px]]
+|name=Storeroom´s portrait
+|hideb=
+|born=
+|died=Before [[1991]] (possibly)
+|blood=
+|alias=
+|title=
+|hidep=1
+|species=[[Human]]<ref name="PSG"/><ref name="COSG"/>
+|gender=Male<ref name="PSG"/><ref name="COSG"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=1
+|family=
+|hidem=1
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSG"/><ref name="COSG"/>
+}}
+This '''[[portrait]] of an unidentified bearded [[Wizardkind|wizard]]''' was situated in the corner of a [[Storeroom]] on the sixth floor at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+
+==Appearances==
+*{{PS|G}} {{1st}}
+*{{COS|G}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts sixth floor}}
+
+[[es:Retrato en el depósito (sexto piso)]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

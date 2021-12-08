@@ -1,0 +1,50 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Chiara Lobosca's mother
+|born = before [[1970s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Chiara Lobosca's father|Mr Lobosca]] (partner)
+*[[Chiara Lobosca]] (daughter)
+*Lobosca family
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Obliviator]]
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+*Lobosca family
+}}
+This '''individual''' was a [[Great Britain|British]] [[Wizardkind|witch]] and the mother of [[Chiara Lobosca]]. She worked as an Obliviator for the [[British Ministry of Magic]].<ref>{{HM|2|Lone Wolf}}</ref>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': This individual was was highly accomplished with charm-work, given how she successfully cast the [[Memory Charm]] on [[Selina]].
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lobosca, Chiara mother}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Obliviators]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

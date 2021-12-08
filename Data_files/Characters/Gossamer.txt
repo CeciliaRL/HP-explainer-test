@@ -1,0 +1,44 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:Gossamer.png|250px]]
+|name = Gossamer
+|born = 
+|died = 
+|nationality = 
+|blood = 
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = 
+|gender = Male<ref name="MA112">{{MA|1|12}}</ref>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="MA112"/>
+}}
+'''Gossamer''' was an individual whose [[portrait]] was hung in [[Hogwarts Castle]].<ref name="MA112"/>
+
+==Biography==
+He was unpopular among the other portraits for his chaotic personality. As a punishment, his portrait was removed from the [[Grand Staircase]], put into chains and hidden in one of the [[Hogwarts Houses|House]] [[common room]]s.<ref name="MA112"/>
+
+Decades later, in [[2008]], it was found by a group of students who freed him. He continued his mischievous behaviour, angering other portraits, including an [[angry wizard]]. When the students met him again, he suggested organising a search party as one of the witches and wizards he had talked to went away, but after the students pointed out they had left probably to get away from him, he was saddened and thought he was [[curse]]d to remain friendless forever. When [[Argus Filch]] found the students and released a [[trio of Red Caps]] on them, they [[Attack beside Gossamer's portrait|battled]] them to prevent them from getting Gossamer, which moved him and accepted the students being his friends. He suggested they place him in a more secluded place, and he end up being moved back to a [[common room]].<ref name="MA112"/>
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]
+[[Category:Portraits]]

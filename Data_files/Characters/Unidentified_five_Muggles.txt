@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Unidentified five Muggles
+|born = 
+|died = Early [[1998]]<ref name="DH22"/>
+|blood = [[Non-magic people|Muggles]]<ref name="DH22"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DH22"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="DH22"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''family of five muggles''' lived in the town of [[Gaddley]].<ref name="DH22"/>
+
+==Biography==
+They were murdered by [[Death Eaters]] or their supporters in early [[1998]], presumably for amusement or sport. [[Non-magic people|Muggle]] authorities wrongly attributed the deaths to a gas leak. Their deaths were reported on ''[[Potterwatch]]'' in March of [[1998]], with [[Order of the Phoenix]] members informing the broadcaster [[Lee Jordan]] their deaths were in fact caused by the [[Killing Curse]].<ref name="DH22">{{DH|B|22}}</ref>
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[de2:Fünf unbekannte Muggel]]
+[[Category:1998 deaths]]
+[[Category:British individuals]]
+[[Category:Deaths by Killing Curse]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Muggle families]]
+[[Category:Murder victims]]
+[[Category:Second Wizarding War casualties]]
+[[Category:Unidentified Muggles]]

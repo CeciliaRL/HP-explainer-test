@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Little Hangleton milkman.jpg|250px]]
+|name = Unidentified milkman
+|born =
+|died = [[1994]]<br/>[[Riddle House]], [[Little Hangleton]], [[England]], [[Great Britain]]<ref name="LEGOY1"/>
+|blood = [[Non-magic people|Muggle]]<ref name="LEGOY1"/>
+|nationality = [[Great Britain|British]]<ref name="LEGOY1"/>
+|title = 
+|alias =
+|signature = 
+|species = [[Human]]<ref name="LEGOY1"/>
+|gender = Male<ref name="LEGOY1"/>
+|skin = White<ref name="LEGOY1"/>
+|eyes = 
+|hair = 
+|weight = 
+|height = 
+|family =
+|romances = 
+|job = Milkman<ref name="LEGOY1"/>
+|loyalty = [[Little Hangleton]]<ref name="LEGOY1"/>
+|theme = muggle
+}}
+This '''individual''' was a [[Great Britain|British]] [[Non-magic people|Muggle]] man, who served [[Little Hangleton]] in the capacity of milkman in the late [[20th century]].<ref name="LEGOY1">{{LEGO|Y1}} - Year 4</ref> 
+
+==Behind the scenes==
+*This individual replaces the role of [[Frank Bryce]] in {{LEGO|Y1}}. Despite this, it is highly likely that he still existed [[canon]]ically as the Milkman of Little Hangleton.
+*Instead of noticing the lights on on the second floor, the milkman notices empty [[milk]] bottles on the front steps of the [[Riddle House]].
+*His death at the hands of [[Tom Riddle|Lord Voldemort]] cannot be considered canonical, as no echo of him emerges from Voldemort's wand during the [[Duel in Little Hangleton]], and further in canon, it was Frank Bryce who was murdered during that incident. 
+
+==Appearances==
+*{{LEGO|Y1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Laitier de Little Hangleton]]
+[[ru:Молочник из Литтл-Хэнглтона]]
+[[Category:British individuals]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Little Hangleton]]
+[[Category:Males]]
+[[Category:Milkmen]]
+[[Category:Unidentified Muggles‎]]

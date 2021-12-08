@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Waitress at Treats.JPG|250px]]
+|name = Waitress at Treats
+|born = Before [[1996]]<ref name="HBPF"/>
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HBPF"/>
+|alias = 
+|title = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBPF"/>
+|signature = 
+|species = [[Human]]<ref name="HBPF"/>
+|gender = Female<ref name="HBPF"/>
+|hair = Brown<ref name="HBPF"/>
+|eyes = Brown<ref name="HBPF"/>
+|skin = Dark<ref name="HBPF"/>
+|height = 
+|weight = 
+|family = 
+|romances = 
+|job = Waitress at [[Treats]]<ref name="HBPF"/>
+|loyalty = [[Treats|Treats Café]]<ref name="HBPF"/>
+|theme = muggle
+}}
+{{Dialogue a-b|Waitress|Harry Potter... Who's Harry Potter?|Harry Potter|Oh, no one. Bit of a tosser, really.|[[Harry Potter|Harry]] answering the waitress's question|Harry Potter and the Half-Blood Prince (film)}}
+This '''waitress''' was a female [[Non-magic people|Muggle]] employee at [[Treats|Treats Café]],<ref name="script">The café is named on the [http://warnerbros2009.warnerbros.com/assets/screenplays/hpathbp_screenplay.pdf ''Half-Blood Prince'' script] released on the [http://warnerbros2009.warnerbros.com/#/movies/harrypotter/foryourconsideration/ Warner Bros. Awards website]</ref> a café in [[Surbiton Station]] in [[1996]]. She flirted with [[Harry Potter]] during the summer of [[1996]] and came close to discovering the [[wizarding world]].<ref name="HBPF"/>
+
+==Biography==
+[[File:Harry_café_HBP_2.jpg|200px|thumb|left|Harry Potter reads the Daily Prophet in the café]]
+She flirted with [[Harry Potter]] in [[Treats|Treats Café]], at [[Surbiton Station]], at some point in the summer of [[1996]]. Harry was a regular at the café in which she worked as he found taking trains kept his mind off things and would often spend nights there. She almost became aware of the existence of the [[Wizarding world]] when Harry allowed her to see a copy of the ''[[Daily Prophet]]'' with moving images, but she brushed off her suspicions due to working late.<ref name="HBPF">{{HBP|F}} - Chapter 1 (''Who's Harry Potter?'')</ref>
+
+==Behind the scenes==
+*The waitress was portrayed by [[Elarica Gallacher]] in {{HBP|FA}}.
+*The waitress was not in the book, nor was the entire scene at Treats Café.
+*She was also included in {{LEGO|Y2}} although the restaraunt [[Treats]] does not appear, she appears sitting by Harry putting lipstick on her lips. She is a playable character only in the consoles versions.<ref name="LEGOY2">{{LEGO|Y2}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Waitress at Treats}}
+*{{HBP|F}} {{1st}}
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Serveuse de Treats]]
+[[pl:Kelnerka z kawiarni Przysmaki]]
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Unidentified Muggles]]
+[[Category:Waitstaff]]

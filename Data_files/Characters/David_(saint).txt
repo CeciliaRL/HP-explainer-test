@@ -1,0 +1,47 @@
+{{Real world subject}}
+{{Individual infobox
+|image=
+|name=David
+|theme=individual
+|hideb=
+|born=c. [[First millennium A.D.|500]]<ref name="wiki1">"[https://en.wikipedia.org/wiki/Saint_David Saint David]" on Wikipedia</ref>
+|blood=
+|died=c. [[First millennium A.D.|589]]<ref name="wiki1" />
+|marital=
+|alias=
+|title=[[Wikipedia:Saint|Saint]]<ref name="FBC5"/>
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|family=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''David''' (c. [[First millennium A.D.|500]] – c. [[First millennium A.D.|589]]) was a [[Wales|Welsh]] bishop.<ref name="wiki1" /> He was venerated as a [[saint]] in the [[wikipedia:Catholicism|Catholic]], [[wikipedia:Anglicanism|Anglican]], and [[wikipedia:Eastern Orthodox Church|Eastern Orthodox]] churches.<ref name="wiki1" />
+
+[[St David's Hospital]] in [[England]] was presumably named in his honour.<ref name="FBC5">{{FBC|5}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:500 births]]
+[[Category:589 deaths]]
+[[Category:Clergy]]
+[[Category:Historical figures]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Saints]]
+[[Category:Welsh individuals]]

@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Cadogan's father
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PPG"/>
+|gender = Male<ref name="PPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Cadogan's mother|Wife]]<ref name="PPG"/>
+*[[Cadogan|Sir Cadogan]] (son)<ref name="PPG"/>
+*[[Cadogan's children|Seventeen rumoured grandchildren]]<ref name="PPG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''[[Wizardkind|wizard]]''' was the father of [[Cadogan|Sir Cadogan]], a [[Knights of the Round Table|Knight of the Round Table]] famous for his defeat of the [[Wyvern of Wye]].<ref name="PPG">{{PP|G}}</ref>
+
+==Behind the scenes==
+*Cadogan is a family name of Welsh and Irish origin.<ref>[http://www.behindthename.com/name/cadogan "Cadogan"] at [http://www.behindthename.com/ Behind the Name]</ref> This could mean that [[Cadogan|Sir Cadogan]]'s family — at least on the paternal side — hailed from Wales or Ireland. Whether Cadogan's father himself was Welsh or Irish is unconfirmed.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{PP|G}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Ojciec Cadogana]]
+[[Category:British individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Jarrett
+|born = c. [[1970s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Chaser]]<ref name="PSG"/>
+|signature = 
+|species = [[Human]]<ref name="PSG"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSG"/>
+}}
+'''Jarrett''' was a [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Wizardkind|student]] in the early [[1990s]]. He or she played [[Chaser]] for one of the School´s [[Quidditch]] [[Quidditch team|teams]].<ref name="PSG">{{PS|G}}</ref>
+
+==Appearances==
+*{{PS|G}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+
+[[es:Jarrett]]
+[[pl:Jarrett]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Chasers]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

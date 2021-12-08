@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = giant
+|image = Cyclops.png
+|name = Cyclops
+|born = Ancient [[Greece]]
+|died = Ancient [[Greece]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Giant]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = Brown
+|skin = Tan
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Cyclops''' was a one-eyed [[Giant]] from Ancient [[Greece]]. He lived in a cave at the foot of [[Mount Etna]]. He was slain by the Greek hero, [[Odysseus]], who used several [[sheep]] to help him do this task.<ref>{{POA|G}}</ref>
+
+==Behind the scenes==
+*Cyclops is based on {{wplink|Polyphemus}}, a cyclops that appears in Greek mythology, most prominently in {{wplink|Homer}}'s ''{{wplink|Odyssey}}''. In the ''Odyssey'', Polyphemus was not slain by Odysseus, but merely blinded; and cyclopes are a separate species from giants.
+
+==Appearances==
+*{{POA|G}} {{FWC}}
+*{{OOTP|G}} {{Comment|[[Exploding Snap]] [[Famous Witches and Wizards Cards|Famous Wizards Card]]}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+{{Giants}}
+
+[[de:Zyklop]]
+[[fi:Kyklooppi]]
+[[fr:Cyclope]]
+[[nl:Cycloop]]
+[[pl:Cyklop]]
+[[pt-br:Ciclope]]
+[[ru:Циклоп]]
+[[Category:B.C. era births]]
+[[Category:B.C. era deaths]]
+[[Category:Brown-eyed individuals]]
+[[Category:Famous Giants Chocolate Frog Cards]]
+[[Category:Giants]]
+[[Category:Greek individuals]]
+[[Category:Males]]

@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified Animagus
+|born = [[1920s]] or earlier
+|died = 
+|blood = 
+|nationality = [[France|French]]
+|marital = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COG"/>
+|gender = Male<ref name="COG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|animagus = [[Duck]] (possibly)<ref name="COG"/>
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Un magicien Animagus dans l'affaire du canard|''[[Le Cri de la Gargouille]]'', [[1927]]|Fantastic Beasts: The Crimes of Grindelwald}}
+This '''individual''' was a [[Wizardkind|wizard]] and an [[Animagus]] who lived in the early [[20th century]]. In 1927, ''[[Le Cri de la Gargouille]]'' reported that he was somehow implicated in the "''affaire du [[duck|canard]]''".<ref name="COG">{{COG}} {{see image|File:Le Cri De La Gargouille.jpg}}</ref>
+
+==Behind the scenes==
+*The newspaper title that mentions this individual is probably a pun: "[[Wiktionary:canard#French|canard]]", which means "duck" in French, can also refer to an untrustworthy newspaper, or a false or misleading report.
+
+==Appearances==
+*{{COG}} {{1st Mention}} {{C|Mentioned in newspaper article}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Animagi]]
+[[Category:French individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

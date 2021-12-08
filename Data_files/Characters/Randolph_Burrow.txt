@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:RandolphBurrow.png|250px]]
+|name = Randolph Burrow
+|born = [[31 August]] [[1982]] or earlier,<ref name="age">He would have been in at least his first year in 1993, although as first years don't usually make the Quidditch team, it's more than likely he was in his second year or higher.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Chaser]]<ref name="QWC">{{QWC}}</ref>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="QWC"/>
+|eyes = Green<ref name="QWC"/>
+|skin = White<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="QWC"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="QWC"/>
+**[[Ravenclaw]]<ref name="QWC"/>
+**[[Ravenclaw Quidditch team]]<ref name="QWC"/>
+}}
+'''Randolph Burrow''' was a [[Wizardkind|wizard]] and [[Ravenclaw]] student who attended [[Hogwarts School of Witchcraft and Wizardry]]. He was a [[Chaser]] on the [[Ravenclaw Quidditch team]] during the [[1993–1994 school year]].<ref name="QWC"/>
+
+==Etymology==
+*From the Germanic elements ''rand'' meaning "rim (of a shield)" and ''wulf'' meaning "wolf". The Normans brought this name to England, where there existed already an Old Norse cognate ''Randúlfr'', which had been introduced by Scandinavian settlers. Randolf became rare after the Middle Ages, though it was revived in the 18th century (usually in the spelling ''Randolph'').
+*A burrow is a hole or tunnel dug in the ground by a small animal, such as a rabbit or mole, for habitation or refuge.
+
+==Appearances==
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Burrow, Randolph}}
+[[de:Randolph Burrow]]
+[[es:Randolph Burrow]]
+[[fr:Randolph Burrow]]
+[[pl:Randolph Burrow]]
+[[ru:Рэндольф Барроу]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Chasers]]
+[[Category:Green-eyed individuals]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

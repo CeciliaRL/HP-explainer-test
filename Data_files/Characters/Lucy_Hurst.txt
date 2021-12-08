@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = 
+|born = Pre [[31 August]] [[1983]]<ref>She was at least in her first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="house">{{POA|G}} {{C|PS2 version}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+'''Lucy Hurst''' was a [[Gryffindor]]<ref name="house" /> [[wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+During the [[1996–1997 school year]], she competed in the school [[Exploding Snap]] tournament, and also played informal [[Quidditch]] matches with other students.
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|PlayStation 2 version]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts Exploding Snap}}
+{{DEFAULTSORT:Hurst, Lucy}}
+[[pl:Lucy Hurst]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Exploding Snap players]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Quidditch players]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

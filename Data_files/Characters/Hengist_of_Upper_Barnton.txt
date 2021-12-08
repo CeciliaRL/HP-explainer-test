@@ -1,0 +1,55 @@
+{{Youmay|the [[Giant]] who lived in the 15th century|[[Hengist of Woodcroft|the founder of Hogsmeade]] or [[Hengist Rawkes|the portrait at Hogwarts]]}}
+{{Individual infobox
+|theme = giant
+|image = [[File:Hengist of Upper Barnton.png|250px]]
+|name = Hengist of Upper Barnton
+|born = 
+|died = In or before [[1441]]
+|blood = 
+|marital = 
+|nationality = [[England|English]]<ref name="POAG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Giant]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="POAG"/>
+|eyes = Blue<ref name="POAG"/>
+|skin = Light<ref name="POAG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Hengist of Upper Barnton''' (d. in or before [[1441]]) was a [[Giant]] from [[Upper Barnton]] in the [[15th century|fifteenth century]]. He was killed by the famous giant-slayer, [[Gifford Ollerton]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+==Behind the scenes==
+*[[wikipedia:Hengest|Hengist]], or Hengest, was the name of a semi-legendary Jute or Frisian warrior who supposedly answered the call of King Vortigern to fight the Picts, and then became the first King of Kent during the 5th century. He, or other people with that name, was featured both in the epic poem ''Beowulf'' (8th to 11th century), and later in the mythology of King Arthur along with a supposed brother, Horsa.
+*The word "Hengest" or "Hengist" is common Germanic for "stallion".
+
+==Appearances==
+*{{PS|G}} {{FWC mention}} {{Comment|[[Gifford Ollerton]]}}
+*{{COS|G}} {{FWC mention}} {{Comment|[[Gifford Ollerton]]}}
+*{{POA|G}} {{1st}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+{{Giants}}
+[[de:Hengist von Upper Barton]]
+[[es:Hengist de Upper Barnton]]
+[[fr:Hengist de Barnton]] 
+[[fi:Upper Bartonin Hengist]]
+[[pl:Hengist z Upper Barnton]]
+[[Category:Blue-eyed individuals]]
+[[Category:English individuals]]
+[[Category:Famous Giants Chocolate Frog Cards]]
+[[Category:Giants]]
+[[Category:Males]]

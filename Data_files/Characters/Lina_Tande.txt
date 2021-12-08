@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = Lina Tande.jpg
+|name = Lina Tande
+|born = [[31 August]] [[1982]] or earlier<ref name="age">She was at least in her first year at Hogwarts during the [[1993]]-[[1994]] school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Female<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Sujita Tande]] (possibly)
+*[[Tande family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="HBPG"/>
+|loyalty = *[[Tande family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]<ref name="HBPG"/>
+}}
+'''Lina Tande''' (born c. [[1982]]) was a [[Wizardkind|witch]] and [[Hufflepuff]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She allowed [[Harry Potter]] to borrow her [[Cleansweep Broom Company|Cleansweep]] in exchange for two [[Wizard's Chess|chess]] pieces in [[1996]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+The name "Lina" means either "palm tree" or "tender" in Arabic, and "absorbed, united" in Sanskrit. Tande nickname for someone with prominent or otherwise remarkable teeth, from tand 'tooth'.
+
+==Behind the scenes==
+*Based on her name, it can be presumed that she is of Indian descent.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console version}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Tande, Lina}}
+[[es:Lina Tande]]
+[[pl:Lina Tande]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Sorted in the 1990s]]
+[[Category:Tande family]]
+[[Category:Wizards]]

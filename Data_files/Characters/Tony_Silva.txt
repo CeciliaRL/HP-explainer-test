@@ -1,0 +1,44 @@
+{{Individual infobox
+|image = [[File:TonySilva.png|250px]]
+|name = Tony Silva
+|born = After [[1976]]<ref>Viktor Krum, born 1976, was the oldest player in the 2014 Quidditch World Cup.</ref>, [[Brazil]] (possibly)
+|nationality = [[Brazil]]ian
+|title = [[Seeker]]
+|species = [[Human]]
+|gender = Male
+|hair = Dark
+|skin = Tan
+|job = [[Seeker]] for the [[Brazilian National Quidditch team]]
+|loyalty = *[[Brazilian National Quidditch team]]
+*[[Castelobruxo]]
+|theme = quidditch-player
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidem = hide
+|hidea = 
+}}
+{{Quote|Wales's chances were finally dashed by a stunning Snitch capture by Brazilian Seeker Tony Silva, who performed a spectacular dive in the 131st minute of the match to seize victory from under his counterpart Eurig Cadwallader's nose.|[[Ginevra Weasley|Ginny Potter]], "[[BRAZIL VERSUS WALES]]" (''[[Daily Prophet]]'', [[4 June]] [[2014]]).|Pottermore}} 
+'''Tony Silva''' was a [[Brazil]]ian [[wizardkind|wizard]] and the [[Seeker]] for the [[2014]] [[Brazilian National Quidditch team]].
+
+==Biography==
+On the first match of the quarter-finals, Brazil versus [[Welsh National Quidditch team|Wales]], on [[4 June]], [[2014]], Silva performed a spectacular dive in the 131st minute and caught the [[Golden Snitch|Snitch]] from under rival [[Seeker]] [[Eurig Cadwallader]]'s nose.<ref name="PM">{{PM}} - [[BRAZIL VERSUS WALES|BRAZIL_VERSUS_WALES]] (Archived)</ref>
+
+==Behind the scenes==
+*Given that "Tony" is a possible diminutive of the Brazilian Portuguese name "Antônio",<ref>[http://www.behindthename.com/name/tony "Tony"] at [http://www.behindthename.com/ Behind the Name]</ref> this might be Tony Silva's actual name.
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Silva, Tony}}
+[[de:Tony Silva]]
+[[pl:Tony Silva]]
+[[fr:Tony Silva]]
+[[Category:Brazilian individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Wizards]]

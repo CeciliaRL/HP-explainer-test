@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Kajol Bhatt
+|born = [[31 August]] [[1982]] or earlier,<ref>She was at least in her [[first year]] at Hogwarts during the [[1993–1994 school year]]r.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Female<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="POAG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAG"/>
+**[[Gryffindor]]<ref name="POAG"/>
+}}
+'''Kajol Bhatt''' was a [[Wizardkind|witch]] and [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She was seen walking around the school during the [[1993-1994 school year]].<ref name="POAG">{{POA|G}}</ref>
+
+==Etymology==
+Kajol is a female [[India]]n name, which means "eye liner" or "mascara". Bhatt is an Indian surname meaning "priest".
+
+==Behind the scenes==
+*Based on her name, it can be presumed that she is of Indian descent.
+
+==Appearances==
+*{{POA|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Bhatt, Kajor}}
+[[pl:Kajol Bhatt]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Wizards]]

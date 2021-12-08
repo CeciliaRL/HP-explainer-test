@@ -1,0 +1,63 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Ismelda Murk's sister
+|born = before [[1970]] (most likely)<ref name="age">She had already left Hogwarts when her sister Ismelda was in her fifth year, meaning she was most likely at least three years older than her.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]<ref name="HMC"/>
+|signature = 
+|species = [[Human]]<ref name="HMC"/>
+|gender = Female<ref name="HMC"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ismelda Murk's father|Father]]<ref name="HMC"/>
+*[[Ismelda Murk's mother|Mother]]<ref name="HMC"/>
+*[[Ismelda Murk]] (younger sister)<ref name="HMC"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employee of the [[British Ministry of Magic]]<ref name="HMC"/>
+|house = [[Gryffindor]]<ref name="HMC"/>
+|loyalty = *Murk family
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HMC"/>
+**[[Gryffindor]]<ref name="HMC"/>
+*[[British Ministry of Magic]]<ref name="HMC"/>
+}}
+{{Quote|Pity I can't [[Transfiguration|Transfigure]] my sister into a [[Murtlap]]. She's got the personality of one.|[[Ismelda Murk]]|Harry Potter: Hogwarts Mystery}}
+This '''individual''' was the older sister of [[Ismelda Murk]]. She attended [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting Ceremony|sorted]] into [[Gryffindor]].
+
+==Biography==
+She was made a [[Prefect]] and, at some point after graduation, joined the [[British Ministry of Magic]].<ref name="HMC"/>
+
+Her parents were very proud of her achievements, causing them to neglect their younger daughter.<ref name="HMC">{{HM|5|Crushed}}</ref>
+
+Sometime during [[1989–1990 school year]], she wanted to visit Ismelda at Hogwarts.<ref>{{HM|6|25}} - Care of Magical Creatures Class "Jackalope"</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Murk, Ismelda's sister}}
+
+{{Ministry employees of unknown Department}}
+
+[[fr:Sœur d'Ismelda Murk]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Hogwarts prefects]]
+[[Category:Ministry of Magic employees]]
+[[Category:Murk family]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

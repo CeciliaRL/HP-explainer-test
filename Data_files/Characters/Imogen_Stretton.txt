@@ -1,0 +1,56 @@
+
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Imogen Stretton
+|born = [[1 September]] [[1978]] - [[31 August]] [[1982]] (most likely)<ref>She attended Hogwarts during the 1993-1994 school year and the 1996-1997 school year. 1 September is the earliest possible birthday to not be able to go to Hogwarts that year upon turning 11. 31 August is the latest possible birthday to be able to go to Hogwarts that year upon turning 11.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Jeremy Stretton]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Stretton family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+'''Imogen Stretton''' was a [[Slytherin]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]].
+
+==Biography==
+She attended during the [[1993–1994 school year]] and blocked access to an area of the school grounds along with [[Holden Ledbury]] in the [[1996–1997 school year]].
+
+==Etymology==
+The name "Imogen" was the name of a princess in the play ''Cymbeline'' (1609) by Shakespeare. He based her on a legendary character named Innogen, but the name was printed incorrectly and never corrected. The name Innogen is probably derived from Gaelic inghean meaning "maiden".
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Stretton, Imogen}}
+
+[[pl:Imogen Stretton]]
+[[ru:Имоджен Стреттон]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Stretton family]]
+[[Category:Wizards]]

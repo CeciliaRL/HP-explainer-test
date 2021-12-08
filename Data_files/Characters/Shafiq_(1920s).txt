@@ -1,0 +1,31 @@
+{{Individual infobox
+|theme = mom
+|image = Yaxley (COG).jpg
+|name = Shafiq
+|born = Before [[1927]]
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="shafiq">The [[Shafiq family]] was one of the Sacred 28 families. If he was a member of this family, he had wizarding heritage. He could have not been a Squib as he was part of the Ministry of Magic.</ref>
+|species = [[Human]]
+|gender = Male
+|loyalty = [[Shafiq family]]<ref name="shafiq"/>
+}}
+{{Dialogue a-b-a|Shafiq|How have you been?|Theseus Scamander|You sly dog, I hear you're moving upstairs!|Where'd you hear about it?!|Shafiq greets [[Theseus Scamander]]|Fantastic Beasts: The Crimes of Grindelwald}}
+'''Shafiq''' was a British [[wizardkind|wizard]] born into the prominent [[Shafiq family]], and a [[British Ministry of Magic|Ministry of Magic]] official.
+
+==Biography==
+[[File:Theseus shaking hands with Shafiq and Yaxley.png|250px|left|thumb|Shafiq with Theseus Scamander, Yaxley and his wife]]
+In [[1927]], Shafiq attended a wizarding ball and stood socialising with [[Yaxley (1920s)|Yaxley]] and [[Yaxley's wife|his wife]] when the group was greeted by [[Theseus Scamander]]. Shafiq enthusiastically embraced Scamander, who congratulated him on "moving upstairs", possibly referring to a promotion at the [[British Ministry of Magic]].<ref name="COG">{{COG}}</ref>
+
+==Behind the scenes==
+*Shafiq was portrayed by [[Aykut Hilmi]] in {{COG}}.<ref>http://www.imdb.com/name/nm2833846/?ref_=ttfc_fc_cl_t43</ref>
+
+==Appearances==
+*{{COG}} {{1st}} {{Deleted scenes}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Shafiq]]
+[[pl:Shafiq]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Shafiq family]]

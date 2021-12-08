@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme=individual
+|image=
+|name=Calid
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|nationality=[[Persia]]n
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Jasichus]] (father)
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Alchemist
+|house=
+|loyalty=
+}}
+'''Calid''' was a [[Persia]]n [[alchemy|alchemist]] and the son of [[Jasichus]].<ref name="HPVA">{{HPV|A}} {{See image|File:TheDeclineOfPaganMagic.png}}</ref> His advice on the correct measurement of "[[fire]]" was referenced in a block of text featured on the back cover of the book ''[[The Decline of Pagan Magic]]''.<ref name="HPVA" />
+
+==Behind the scenes==
+*This character is referenced in a block of text on the back cover of a prop book featured in {{DH|F1}}. The text in question was taken from an [[1889]] English translation of the [[French]] book ''Le livre des figures hiéroglyphiques'' (''The Book of Hieroglyphic Figures''), which was first published in [[1612]], and has been attributed to [[Nicolas Flamel]] (c. [[1330]] – [[1418]]).<ref>''[https://archive.org/stream/b24887092#page/18/mode/2up Nicholas Flammel: His Exposition of the Hieroglyphical Figures...]'' copy on the Internet Archive</ref><ref name="wiki1">"[https://en.wikipedia.org/wiki/Nicolas_Flamel Nicolas Flamel]" on Wikipedia</ref>
+*[[wikipedia:Calid|Calid]] is a legendary figure to whom [[alchemy|alchemical]] writings have been attributed. He has been associated with an actual historical figure, Khalid ibn Yazid (died [[First millennium A.D.|708 A.D.]]), an [[Wikipedia:Umayyad Caliphate|Umayyad]] [[prince]] who took an interest in alchemy and helped to translate the existing body of alchemical literature into [[wikipedia:Arabic|Arabic]].<ref name="wiki2">"[https://en.wikipedia.org/wiki/Calid Calid]" on Wikipedia</ref>
+*As Calid was an alchemist, it is highly likely he was a [[Wizardkind|wizard]], but this has not been confirmed in canon. 
+
+==Appearances==
+*{{DH|F1}} {{C|Name appears on book cover}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Alchemists]]
+[[Category:Historical figures]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Persian individuals]]

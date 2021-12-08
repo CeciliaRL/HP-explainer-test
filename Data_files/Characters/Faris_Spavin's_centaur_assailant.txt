@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = centaur
+|image = 
+|name = Fairs Spavin's centaur assailant
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PM"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Centaur]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''[[centaur]]''' sometime between [[1865]] and [[1903]] kicked the then-current [[Minister for Magic]] of [[Great Britain]] and [[Ireland]], [[Faris Spavin]], in retaliation for [[Faris Spavin's joke]] about a centaur, a [[ghost]], and a [[dwarf]].<ref name="PM">{{PM}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Centaurs]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]

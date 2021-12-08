@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Amos Hopkins.jpg|250px]]
+|name = Amos Hopkins
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBC10"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC10"/>
+|gender = Male<ref name="FBC10"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="FBC10"/>
+|eyes = Brown<ref name="FBC10"/>
+|skin = Light<ref name="FBC10"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Amos Hopkins''' was an aggressive [[Great Britain|British]] [[Wizardkind|wizard]].<ref name="FBC10">{{FBC|10}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hopkins, Amos}}
+{{Character-stub}}
+[[ru:Амос Хопкинс]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Hopkins family]]
+[[Category:Males]]
+[[Category:Wizards]]

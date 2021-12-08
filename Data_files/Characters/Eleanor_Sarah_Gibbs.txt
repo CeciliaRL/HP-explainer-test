@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Eleanor Sarah Gibbs
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+__NOTOC__
+'''Eleanor Sarah Gibbs'''<ref>Closed captions on the DVD/Blu-ray of {{DH|F1}}</ref> was a [[Wizardkind|witch]] who was reported missing on the ''[[Potterwatch]]'' wireless programme in [[1997]]. Her disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.
+
+==Etymology==
+The name "Eleanor" is from the Old French form of the Provençal name ''Aliénor''. It was first borne by the influential Eleanor of Aquitaine (12th century), who was the queen of Louis VII, the king of France, and later Henry II, the king of England. She was named Aenor after her mother, and was called by the Provençal phrase alia Aenor "the other Aenor" in order to distinguish her from her mother.
+
+==Behind the scenes==
+*This character is presumably a tribute to a relative of Dominic Gibbs. Gibbs worked as a sound effects editor on ''[[Harry Potter and the Order of the Phoenix (film)|Harry Potter and the Order of the Phoenix]]'' and ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]'', and as a sound designer on {{DH|F1}} and {{DH|F2}}.<ref>[http://www.imdb.com/name/nm0316657/ Dominic Gibbs's profile on IMDb]</ref>
+
+==Appearances==
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Gibbs, Eleanor Sarah}}
+
+[[fr:Eleanor Sarah Gibbs]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

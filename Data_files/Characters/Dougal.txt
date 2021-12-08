@@ -1,0 +1,41 @@
+{{Youmay|the Demiguise|[[Dougal (disambiguation)|another individual of the same name]]}}
+{{Pet individual infobox
+|image = [[File:Demiguise-FB.png|250px]]
+|name = 
+|born = Before [[December]] [[1926]]
+|died = 
+|alias = 
+|title = 
+|species = [[Demiguise]]
+|gender = Male
+|height = 
+|hair = Silver
+|feathers = 
+|eyes = Brown
+|skin = Beige
+|family = 
+|loyalty = [[Newton Scamander]]
+}}
+'''Dougal''' was a male [[Demiguise]] that accompanied [[Newton Scamander|Newt Scamander]] as he researched [[Magizoology]] and visited [[New York]] in [[1926]].<ref name="FBS"/>
+
+==Biography==
+[[File:Dougal's container.png|250px|thumb|right|Dougals container in Newt's suitcase]]
+He was one of the creatures that escaped [[Newton Scamander's suitcase|Newt Scamander's suitcase]] and had to be recaptured after causing a disturbance in a local department store.<ref name="FBS">{{FB|S}}</ref>
+
+==Personality and traits==
+Dougal seemed to be a rather kind-hearted and benevolent [[creature]], as he kindly took care of a young [[Occamy]] by giving it food and tending to its needs.<ref name="FBS"/>
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Dougal, Demiguise]]
+[[fr:Dougal]]
+[[pl:Dougal]]
+[[Category:Brown-eyed individuals]]
+[[Category:Demiguises]]
+[[Category:Males]]
+[[Category:Newton Scamander's suitcase]]
+[[Category:Pets]]

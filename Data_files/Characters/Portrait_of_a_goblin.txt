@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:Portrait of a goblin.jpg|250px]]
+|name = Portrait of a goblin
+|born = 
+|died = Before [[1991]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]<ref name="LEGOY1"/>
+|gender = Male<ref name="LEGOY1"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="LEGOY1"/>
+|eyes = Black<ref name="LEGOY1"/>
+|skin = Light<ref name="LEGOY1"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]] (possibly)
+}}
+This '''goblin''' was depicted in portrait hung at [[Hogwarts Castle]] in the early [[1990s]]. There was also a large portrait of this goblin at [[Gringotts Wizarding Bank]], in [[Diagon Alley]], [[London]].<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+
+==Appearances==
+*{{LEGO|Y1}} {{1st}} {{Portrait}}
+*{{LEGO|Y2}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Portret goblina]]
+[[Category:Black-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Goblins]]
+[[Category:Unidentified portraits]]

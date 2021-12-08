@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Little Whinging postman
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="GOF3"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="GOF3"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF3"/>
+|gender = Male<ref name="GOF3"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Postman<ref name="GOF3"/>
+|house = 
+|loyalty = [[Little Whinging]]<ref name="GOF3"/>
+}}
+{{Dialogue a-b-a|Vernon Dursley|Look at this.|Harry Potter|She did put enough stamps on, then.|The postman noticed. Very interested to know where this letter came from, he was. That’s why he rang the doorbell. Seemed to think it was funny.|Vernon Dursley regarding this postman's reaction to Molly Weasley's letter|Harry Potter and the Goblet of Fire}}
+This '''individual''' was a [[Non-magic people|Muggle]] postman, whose route in [[Little Whinging]] included [[Privet Drive]]. In the summer of [[1994]], the postman delivered a [[Molly Weasley's letter to Vernon and Petunia Dursley|letter]] to the [[Dursley family]], although he chose to ring the doorbell and deliver the letter personally instead of leaving it in the mailbox. The letter in question had been sent by [[Molly Weasley]], who chose to use [[Muggle Mail|Muggle post]] instead of an [[owl]], and was absolutely covered in postage stamps save for a small space where she had written their address. The postman had found this as rather amusing, although [[Vernon Dursley]] did not.<ref name="GOF3">{{GOF|B|3}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Cartero de Little Whinging]]
+[[Category:British individuals]]
+[[Category:Little Whinging]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

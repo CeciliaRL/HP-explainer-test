@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|image=[[File:Pot.jpg|250px]]
+|name=Young woman
+|theme=muggle
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]<ref name="TBB"/>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="TBB"/>
+|gender=Female<ref name="TBB"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Young woman's child (The Wizard and the Hopping Pot)|Child]]<ref name="TBB"/>
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|My baby is grievously ill. Won't you please help us? Your father bade me come if troubled –|The young woman to the [[Wizard (The Wizard and the Hopping Pot)|Wizard]]|The Tales of Beedle the Bard (real)}}
+The '''young woman''' was a character in the tale ''[[The Wizard and the Hopping Pot]]'' by [[Beedle the Bard]]. Her [[Young woman's child (The Wizard and the Hopping Pot)|baby]] was very ill, and when she asked the [[Wizard (The Wizard and the Hopping Pot)|Wizard]] for help, he slammed the door on her.<ref name="TBB">{{TBB|W}}</ref>
+
+==Appearances==
+*{{TBB|R}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Tales of Beedle}}
+
+[[es:Joven (El Mago y el Cazo Saltarín)]]
+[[pt-br:Jovem mulher (O Bruxo e o Caldeirão Saltitante)]]
+[[Category:Females]]
+[[Category:Fictional characters]]
+[[Category:Parents]]
+[[Category:The Wizard and the Hopping Pot]]
+[[Category:Unidentified Muggles]]

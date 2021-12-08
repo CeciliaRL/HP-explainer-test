@@ -1,0 +1,33 @@
+{{Pet individual infobox
+|image = 
+|name = Fleetwing
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Hippogriff]]
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Hogwarts Hippogriff herd]]
+}}
+'''Fleetwing''' was a [[Hippogriff]] and probably part of the [[Hogwarts Hippogriff herd]].
+
+==Behind the scenes==
+*Fleetwing was only listed on a list of Hippogriff names handwritten by [[J. K. Rowling]]. It is possible that he/she was an early version of [[Buckbeak]].<ref>{{JKRS}}</ref>
+
+==Appearances==
+*{{POA}} {{Comment|Early drafts (possibly)}}
+*{{JKRS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Fleetwing]]
+[[Category:Articles derived from cut content]]
+[[Category:Hippogriffs]]
+[[Category:Individuals of unknown or undetermined gender]]

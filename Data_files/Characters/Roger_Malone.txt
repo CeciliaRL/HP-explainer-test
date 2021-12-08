@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Roger Malone
+|born = between [[1 September]] [[1979]] and [[31 August]] [[1980]] 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]] or [[Ravenclaw]]<ref name=house>Though his house is unseen on {{HPM}} and ungiven on {{PM}}, it is known that the list of students in Harry's year contained five males and five females in each house. Ravenclaw lacks two known males, and [[Oliver Rivers]] and Roger Malone are the only males whose houses are ungiven. However [[Anthony Goldstein]] and [[Michael Corner]] (whose houses were initially Hufflepuff) were moved to Ravenclaw, therefore two of the original Ravenclaw students ([[Stephen Cornfoot]], [[Kevin Entwhistle]], Roger Malone and Oliver Rivers) were moved to Hufflepuff.</ref>
+|loyalty = *Malone family
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Roger Malone''' (c. [[1979]]-[[1980]]) was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]].<ref name="pottermore">{{WW|the-original-forty}}</ref> He was in the same year as [[Harry Potter]] and was Sorted into either [[Hufflepuff]] or [[Ravenclaw]] house.<ref name=house />
+
+==Etymology==
+The name "Malone" comes from an Irish surname, an anglicised form of Ó Maoil Eoin meaning "descendent of a disciple of Saint John".
+
+==Behind the scenes==
+*Roger Malone can been deduced to have been listed as a [[Ravenclaw]] on the list of students in a page of [[J. K. Rowling]]'s notes shown on {{HPM}}. However, as two listed Hufflepuffs ([[Anthony Goldstein]] and [[Michael Corner]]) had their houses changed to Ravenclaw in the novels as published, two of those listed as Ravenclaws must have been changed to Hufflepuff. Malone may be one of those whose house was changed.
+
+==Appearances==
+*{{HPM}} {{1st Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Malone, Roger}}
+[[de:Roger Malone]]
+[[fr:Roger Malone]]
+[[pl:Roger Malone]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Sorted in 1991]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

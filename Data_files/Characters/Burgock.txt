@@ -1,0 +1,46 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = gringotts
+|image = Burgock.jpg
+|name = Burgock
+|born = Pre-[[1990]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HM6"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]<ref name="HM6"/>
+|gender = Male<ref name="HM6"/>
+|height = 
+|weight = 
+|hair = Red<ref name="HM6"/>
+|eyes = 
+|skin = White<ref name="HM6"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employee at [[Gringotts Wizarding Bank]]<ref name="HM6"/>
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="HM6"/>
+}}
+'''Burgock''' was a [[Goblin]] who worked at [[Gringotts Wizarding Bank]] at some point in [[1989]] or [[1990]]. Like most goblins, he was rather suspicious of most [[Wizardkind|wizards]], including the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] students that visited the bank looking for [[William Weasley|Bill Weasley]]. He did, however, appear quite friendly with his colleague and fellow goblin, [[Odbert]].<ref name="HM6">{{HM|6|THE DRAGON'S TREASURE|1}}</ref>
+
+Burgock suffered from a [[bronze]] [[allergy]]; for that reason, he made an effort to propose the abolishment of the [[knut]].<ref name="HM6"/>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+[[fr:Burgock]]
+[[ru:Бургок]]
+[[Category:British individuals]]
+[[Category:Goblins]]
+[[Category:Gringotts employees]]
+[[Category:Males]]

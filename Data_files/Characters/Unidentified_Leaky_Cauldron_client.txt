@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Copia_de_pedrafilosofal-stills10.jpg|250px]]
+|name = Leaky Cauldron client
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PSF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSF"/>
+|gender = Male<ref name="PSF"/>
+|height = 
+|weight = 
+|hair = White<ref name="PSF"/>
+|eyes = 
+|skin = White<ref name="PSF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Leaky Cauldron]]<ref name="PSF"/>
+}}This '''[[Wizardkind|wizard]]''' was one of the habitual clients of the [[Leaky Cauldron]]. In [[1991]] he commented with [[Dedalus Diggle]] on the return of [[Harry Potter]] as he was accompanied by [[Rubeus Hagrid|Hagrid]] to access [[Diagon Alley]].<ref name="PSF">{{PS|F}}</ref>
+
+==Relationships==
+[[File:Digel.jpg|100px|thumb|left|The wizard talking to Dedalus at the [[Leaky Cauldron]] in [[1991]]]]
+He appeared to have a friendly relationship with [[Dedalus Diggle]] and [[Rubeus Hagrid]], and was likely also on cordial terms with [[Tom]], the Leaky Cauldron barman.<ref name="PSF"/>
+
+==Appearances==
+*{{PS|F}} {{1st}}
+*{{LEGO|Y1}} {{C|Nintendo DS}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowany klient Dziurawego Kotła]]
+[[Category:British individuals|Leaky Cauldron client]]
+[[Category:Males|Leaky Cauldron client]]
+[[Category:Unidentified individuals|Leaky Cauldron client]]
+[[Category:Wizards|Leaky Cauldron client]]

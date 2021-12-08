@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:UnidentifiedPortrait.jpg|250px]]
+|name = Count
+|born = 
+|died = Before [[1992]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Count
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Dialogue a-b|Hermione|No, Harry. Even in the wizarding world hearing voices isn't a good sign.|Count in portrait|She's right, you know.|[[Hermione Granger]] and [[portrait]] after [[Harry Potter]] hears voices|Harry Potter and the Chamber of Secrets (film)}}
+
+This '''[[portrait]] of a count''' hangs next to the first-floor landing of the [[Grand Staircase]] of [[Hogwarts Castle]]. In [[1992]], [[Hermione Granger]] told [[Harry Potter]] that it was not a good sign to hear voices, even in the [[Wizarding world]], unaware that the voices he was hearing was really the [[Parseltongue]] of [[Salazar Slytherin's Basilisk]] going through the school's pipes. The subject of this portrait agreed with her.<ref>{{COS|F}}</ref>
+
+==Behind the scenes==
+*This individual was played by [[David Tysall]] in {{COS|FA}}.<ref>[http://www.aveleyman.com/FilmCredit.aspx?FilmID=25820 Aveleyman - A website of movie and TV screen captures]</ref>
+*This portrait's subject may have passed away sometime prior to [[1992]], as many portraits hung at [[Hogwarts Castle]] depict deceased individuals. This individual's clothing suggests he lived during the sixteenth or seventeenth century.
+
+==Appearances==
+*{{COS|F}} {{Portrait}}
+*{{POA|F}} {{Portrait}}<ref>"''The Quest of Sir Cadogan''" feature on Disc 2 of the {{POA|F}} DVD.</ref>
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+*{{LEGO|Y1}} {{Portrait}}
+*{{LEGO|Y2}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts first floor}}
+[[es:Retrato de un conde]]
+[[pl:Hrabia]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Nobility]]
+[[Category:Portraits]]
+[[Category:Wizards]]

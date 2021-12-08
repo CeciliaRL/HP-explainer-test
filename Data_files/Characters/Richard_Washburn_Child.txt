@@ -1,0 +1,53 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Richard Washburn Child
+|hideb=
+|born=[[5 August]] [[1881]]
+|died=[[31 January]] [[1935]]
+|blood=[[Muggle|No-Maj]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Author and diplomat
+|house=
+|loyalty=
+}}
+'''Richard Washburn Child''' ([[5 August]] [[1881]] – [[31 January]] [[1935]]) was an [[United States of America|American]] [[Muggle|No-Maj]] author and diplomat.<ref name="wiki1">"[https://en.wikipedia.org/wiki/Richard_Washburn_Child Richard Washburn Child]" on Wikipedia</ref>
+
+He had been appointed as the U.S. ambassador to [[Italy]] by [[1926]].<ref name="fb-chronicle">"[http://www.gazette-du-sorcier.com/Compte-rendu-ouverture-de-l-exposition-Harry-Potter-a-Bruxelles-pour-Noel Compte-rendu : ouverture de l’exposition Harry Potter à Bruxelles pour Noël]" from the Gazette du Sorcier {{see image|File:New York Chronicle - Monday Dec 1926 (HQ).png}}</ref><ref name="eveningworld">[http://chroniclingamerica.loc.gov/lccn/sn83030193/1922-11-21/ed-1/seq-1/ Front page of the 21 November 1922 issue of ''The Evening World''] from Chronicling America</ref> On [[6 December]] of that year, he spoke at the plenary session of the [[Near East Peace Conference]], explaining that the U.S. was "much interested" in observing settlement of the [[Near East]], but was not authorised to join committees, sign reports, or vote on decisions.<ref name="fb-chronicle" /><ref name="eveningworld" />
+
+==Behind the scenes==
+*[[wikipedia:Richard Washburn Child|Richard Washburn Child]] served as the U.S. ambassador to [[Italy]] from May [[1921]] to February [[1924]] in real life.<ref name="wiki1" /> This makes the reference to him in an article in the [[:File:New York Chronicle - Monday Dec 1926 (HQ).png|prop issue]] of the ''[[New York Chronicle]]'' featured in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'' anachronistic, as the film is set in [[December]] [[1926]], two years after his ambassadorship ended. However, it can be presumed that Child's ambassadorship lasted longer in the [[Harry Potter universe|''Harry Potter'' universe]], as did Harding's presidency.
+*The text of the article mentioning Child in the prop issue of the ''New York Chronicle'' was taken from the real [[21 November]] [[1922]] issue of ''[[wikipedia:The Evening World|The Evening World]]'' and documents an actual historical event (albeit anachronistically).<ref name="eveningworld" />
+
+==Appearances==
+*{{FB|F}} {{comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Child, Richard Washburn}}
+[[Category:1881 births]]
+[[Category:1935 deaths]]
+[[Category:American individuals]]
+[[Category:Articles containing anachronistic information]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Politicians]]

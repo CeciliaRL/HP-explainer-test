@@ -1,0 +1,37 @@
+{{Pet individual infobox
+|image = Bowtruckles.png
+|name = Tom
+|born = Pre [[1926]]
+|died = 
+|alias = 
+|title = 
+|species = [[Bowtruckle]]<ref name="bowtruckles">{{FB|F}}</ref>
+|gender = Male
+|height = 
+|hair = 
+|feathers = 
+|eyes = Black
+|skin = 
+|family = *[[Pickett]]<ref name="bowtruckles"/>
+*[[Finn]]<ref name="bowtruckles"/>
+*[[Poppy]]<ref name="bowtruckles"/>
+*[[Marlow]]<ref name="bowtruckles"/>
+*[[Titus]]<ref name="bowtruckles"/>
+|loyalty = [[Newton Scamander|Newt Scamander]]
+}}
+'''Tom''' was one of the six [[Bowtruckle]]s kept by [[Newton Scamander|Newt Scamander]], along with [[Pickett]], [[Titus]], [[Finn]], [[Poppy]], and [[Marlow]].<ref>[https://twitter.com/FantasticBeasts/status/794333143096442880 Twitter - Fantastic Beasts]</ref>
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}} 
+
+==Notes and references==
+{{Reflist}}
+[[de2:Tom (Bowtruckle)]]
+[[fr:Tom (Botruc)]]
+[[pl:Tom (nieśmiałek)]]
+[[ru:Том (лукотрус)]]
+[[Category:Bowtruckles]]
+[[Category:Males]]
+[[Category:Newton Scamander's suitcase]]
+[[Category:Pets]]

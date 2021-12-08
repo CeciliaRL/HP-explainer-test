@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gringotts
+|image = [[File:GringottsGoblin.png|250px]]
+|name = Gringotts Goblin Guard
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Guard<ref name="PS5"/>
+|signature = 
+|species = [[Goblin]]<ref name="PS5"/>
+|gender = Male<ref name="PS5"/>
+|height = 
+|weight = 
+|hair = White<ref name="PSG">{{PS|G}}</ref>
+|eyes = 
+|skin = Light<ref name="PSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Goblin guard of [[Gringotts Wizarding Bank]]<ref name="PS5"/>
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="PS5"/>
+}}
+{{Quote|Welcome to Gringotts, Mr Potter. To access the vaults, you must collect all [[Gringotts Wizarding Bank paperwork forms|the forms]], and then hand them to the Goblin outside the door.|The Goblin greeting [[Harry Potter]]|Harry Potter and the Philosopher's Stone (video game)}}
+This '''[[goblin]]''' was a guard at [[Gringotts Wizarding Bank]] in [[1991]]. He wore a uniform of scarlet and gold, and stood by the bank's outer doors to greet visitors. He was described as having a pointed beard, a swarthy, clever face, and was about a head shorter than [[Harry Potter]] was when he was eleven.<ref name="PS5">{{PS|B|5}}</ref>
+
+==Behind the scenes==
+*In {{PS|FA}} he appears outside [[Vault 713]] in a photo in the [[Daily Prophet]]. He is seen talking to the [[Gringotts Head Goblin|Head Goblin]] and then walking away. The goblin was played by [[Binde Johal]] in the film.
+*In the film and game he doesn't have a pointed beard.
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|F}} {{Comment|Seen in [[Daily Prophet]]}}
+*{{PS|G}} {{Comment|PS1 version only}}
+*{{DH}} {{Possible}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+
+[[es:Duende guardia de Gringotts no identificado]]
+[[ru:Гоблин-швейцар]]
+[[Category:British individuals]]
+[[Category:Gringotts employees]]
+[[Category:Males]]
+[[Category:Security guards]]
+[[Category:Unidentified Goblins]]

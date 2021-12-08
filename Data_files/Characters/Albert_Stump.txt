@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:AlbertGibberingStump2.jpg|250px]]
+|name = Albert Gibbering Stump
+|born = [[1662]]
+|died = After [[1700]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Google Stump]] (possibly)
+*[[Grogan Stump]] (possible descendant)
+*[[Tobias Stump]] (possible descendant)
+*[[Stump family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Stump family]]
+}}
+'''Albert Gibbering Stump''', {{OM|}}, (b. [[1662]]) was a [[wizardkind|wizard]] whose [[portrait]] (dated [[1700]], when Albert was 38) hung at [[Hogwarts Castle]] during the [[1990s]].<ref name="HPLE">{{HPLE|PA}}</ref>
+
+==Biography==
+Albert was part of the prominent wizarding [[Stump family]] and, as such, was most likely related to [[Grogan Stump]], [[Google Stump]] and [[Tobias Stump]].
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{Portrait}}
+*{{HPLE}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Stump, Albert Gibbering}}
+[[es:Albert Stump]]
+[[pl:Albert Gibbering Stump]]
+[[ru:Альберт Гибберинг Стамп]]
+[[Category:1662 births]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Order of Merlin recipients]]
+[[Category:Portraits]]
+[[Category:Stump family]]
+[[Category:Wizards]]

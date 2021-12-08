@@ -1,0 +1,36 @@
+{{HogwartsMysterySpoiler}}
+{{Pet individual infobox
+|image = Crup pups chewing on 220.png
+|name = Rubeus Hagrid's Crups
+|born = Before [[1985]]<ref name="Comet"/>
+|species = [[Crup]]s<ref name="Comet"/>
+|gender = 
+|hair = Brown and white<ref name="Comet"/>
+|eyes =
+|skin = 
+|family = 
+|loyalty = [[Rubeus Hagrid]] (owner)<ref name="Comet"/>
+}}
+These '''[[Crup]]s''' were owned by [[Rubeus Hagrid]] in the [[1980s]].<ref name="Comet">{{HM|2|Q1|9}}</ref><ref name="PDT">{{HM|3|Puppy-Dog Tales}}</ref>
+
+==History==
+===Adoption===
+Hagrid adopted these Crups from a friend whose Crup had a litter of puppies sometime prior to the start of the [[1985–1986 school year]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].<ref name="PDT"/>
+
+===Case of the Missing Comet===
+During the 1985–1986 school year, these Crups were teething. They [[Case of the Missing Comet|chewed up]] a [[Comet 220]] [[broomstick]] which [[Skye Parkin]] had intended to give to [[Jacob's sibling]], to allow her friend to play [[Quidditch]] on their own broom. Afterwards, [[Rubeus Hagrid|Hagrid]] felt responsible, so he and [[Rolanda Hooch|Madam Hooch]] bought the student a [[Comet 260]] broomstick to replace it.<ref name="Comet" />
+
+===Tricks exhibition===
+Before the Crups were sent to their final owners, Hagrid let several students care for and train them, and held a [[tricks exhibition]] to show their achievements. He intended to give one to Jacob's sibling, to allow them to take part, but then realized that they were all spoken for. However Jacob's sibling adopted their [[Jacob's sibling's Crup|own crup]] and was able to take part, ultimately winning the competition.<ref name="PDT" />
+
+==Appearances==
+
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Creature-stub}}
+[[Category:Crups]]
+[[Category:Hagrid's pets]]
+[[Category:Individual dogs]]
+[[Category:Individuals of unknown or undetermined gender]]

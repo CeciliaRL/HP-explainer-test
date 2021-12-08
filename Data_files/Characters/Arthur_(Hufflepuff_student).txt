@@ -1,0 +1,56 @@
+{{Youmay|the [[Hufflepuff]] student|[[Arthur Weasley]]}}
+{{Individual infobox
+|theme = hufflepuff
+|image = Arthur.JPG
+|name = Arthur
+|born = On or prior to [[31 August]] [[1981]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Black<ref name="COSG"/>
+|eyes = Brown<ref name="COSG"/>
+|skin = Dark<ref name="COSG"/>
+|family = *[[Marilyn]] (sister)<ref name="COSG"/>
+*[[Albert]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="COSG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSG"/>
+**[[Hufflepuff]]<ref name="COSG"/>
+}}
+'''Arthur''' was an eccentric [[Wizardkind|wizard]] and [[Hufflepuff]] student who attended [[Hogwarts School of Witchcraft and Wizardry]] in [[1992]]. He was the younger brother of [[Marilyn]] and collected beetle pincers like his sister, although he raved that his collection was much better than hers. He also owned a "smashing" collection of non-magical cricket balls.<ref name="COSG">{{COS|G}} {{C|PC version}}</ref>
+
+Arthur and his sister were both described by other students as "a bit off."<ref name="COSG"/>
+
+==Etymology==
+The meaning of the name ''Arthur'' is unknown. It could be derived from British ''art'' "bear" combined with ''viros'' "man", or it could be related to Irish ''art'' "stone". Alternatively it could be related to an obscure Roman family name ''Artorius''. Arthur is the name of the central character in Arthurian legend, a 6th-century king of the Britons who presided over the knights of the Round Table.
+
+==Behind the scenes==
+*While Arthur appears to be of African descent, Marilyn is Caucasian and blonde.
+
+==Appearances==
+*{{COS|G}} {{1st}} {{C|PC version}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Arthur (Spiel 2)]]
+[[pl:Artur (Hufflepuff)]]
+[[fr:Arthur]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Wizards]]

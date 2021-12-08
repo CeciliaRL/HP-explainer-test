@@ -1,0 +1,37 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Muggle mother OOTP.png]]
+|name = Unidentified Muggle woman
+|born = Prior to [[1995]]<ref name="OOTPF"/>
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="OOTPF"/>
+|nationality = [[Great Britain|British]]<ref name="OOTPF"/>
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="OOTPF"/>
+|gender = Female<ref name="OOTPF"/>
+|hair = Brown<ref name="OOTPF"/>
+|skin = Light<ref name="OOTPF"/>
+|eyes = 
+|height = 
+|weight = 
+|family = [[Unidentified Muggle woman (III)'s son|Son]]<ref name="OOTPF"/>
+|romances = 
+|job = 
+|loyalty = 
+|theme = muggle
+}}
+{{Dialogue a-b-c|Woman|Come on guys, time to go home. Come on, love, off you get.|Boy|Do we have to?|Woman|Yes, we do. I'll make your favourite dinner to compensate.|The woman and [[Unidentified Muggle woman (III)'s son|her son]]|Harry Potter and the Order of the Phoenix (film)}}
+This '''woman''' was a [[Non-magic people|Muggle]] who lived at [[Magnolia Crescent]]. In [[1995]], she told [[Unidentified Muggle woman (III)'s son|her son]] that it was time to go home, and that she would prepare his favourite dinner to compensate for the early leave of the park.<ref name="OOTPF">{{OOTP|F}} - Chapter 1 (''Dudley Demented'')</ref>
+
+==Appearances==
+*{{OOTP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Unidentified Muggles‎]]

@@ -1,0 +1,57 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified Werewolf
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP22"/>
+|alias = 
+|title = 
+|signature = 
+|species = *[[Human]] (formerly)<ref name="OOTP22"/>
+*[[Werewolf]]<ref name="OOTP22"/>
+|gender = Male<ref name="OOTP22"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="OOTP22"/>
+}}
+{{Dialogue a-b-a-c-a|Arthur Weasley|But that fellow over there. Bitten by a werewolf, poor chap. No cure at all.|Molly Weasley|A werewolf? Is he safe in a public ward? Shouldn’t he be in a private room?|It’s two weeks till full moon, they’ve been talking to him this morning, the Healers, you know, trying to persuade him he’ll be able to lead an almost normal life. I said to him — didn’t mention names, of course — but I said I knew a werewolf personally, very nice man, who finds the condition quite easy to manage....|George Weasley|What did he say?|Said he’d give me another bite if I didn’t shut up.|Arthur, Molly and [[George Weasley]] talking about this werewolf in St Mungos|Harry Potter and the Order of the Phoenix}}
+This '''[[Great Britain|British]] [[Wizardkind|wizard]]''' was bitten by a [[werewolf]] in late [[1995]], thus unfortunately becoming one himself.<ref name="OOTP22"/>
+
+==Biography==
+He was admitted to [[St Mungo's Hospital for Magical Maladies and Injuries]], in the [['Dangerous' Dai Llewellyn Ward: Serious Bites|'Dangerous' Dai Llewellyn Ward.]] [[Arthur Weasley]] was also a patient in St Mungo's at the time, having narrowly survived an [[Attack on Arthur Weasley|attack]] by [[Tom Riddle|Voldemort]]'s [[snake]], [[Nagini]]. Arthur's wife [[Molly Weasley|Molly]] was concerned about a werewolf being in a public ward, but Arthur reminded her during their visit that the full [[moon]] was still two weeks away at the time. The [[Healer]]s at St Mungo's spoke with the man, trying to persuade him that he would be able to live an almost normal life. For his part, Arthur spoke with the man and told him that he personally knew a werewolf who was a very decent individual and that they found the [[Lycanthropy|condition]] quite easy to manage. The man apparently grew annoyed with Arthur and angrily told him he would give him another bite if he did not stop talking.<ref name="OOTP22">{{OOTP|B|22}}</ref>
+
+When [[Harry Potter|Harry]], [[Hermione Granger|Hermione]], the [[Weasley family|Weasleys]], and a few members of the [[Order of the Phoenix|Order]] visited Arthur again on [[Christmas]], fellow werewolf [[Remus Lupin]] strolled over to the individual and spoke to him for a while, most likely to explain to him and/or console him over his new condition.<ref name="OOTP23">{{OOTP|B|23}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{St Mungo's}}
+
+[[fr:Loup-garou de Ste Mangouste]]
+[[pl:Niezidentyfikowany wilkołak]]
+[[pt-br:Lobisomem não identificado]]
+[[ru:Сосед Артура Уизли]]
+[[Category:British individuals|Werewolf]]
+[[Category:Males|Werewolf]]
+[[Category:St Mungo's patients]]
+[[Category:Unidentified individuals|Werewolf]]
+[[Category:Werewolf victims]]
+[[Category:Werewolves]]
+[[Category:Wizards]]

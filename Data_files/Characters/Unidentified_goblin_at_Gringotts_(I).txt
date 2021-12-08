@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = gringotts
+|image = 
+|name = Unidentified goblin
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = Black
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Banker at [[Gringotts Wizarding Bank]]
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]
+}}
+This '''goblin''' worked at the British [[Gringotts Wizarding Bank]] in the [[1990s]] after [[Tom Riddle|Voldemort]] fell in [[1981]] and later rose to power and took over the [[British Ministry of Magic|Ministry of Magic]] in [[1998]].
+
+==Biography==
+On [[31 July]], [[1991]], this [[goblin]] was present at [[Gringotts Wizarding Bank]] when [[Harry Potter]] came to pick up his money in [[Vault 687]].<ref name="PSF">{{PS|F}}</ref>
+
+The goblin continued working in [[Gringotts Wizarding Bank|Gringotts]] when [[Tom Riddle|Lord Voldemort]] took over the [[Wizarding world]] and was present when [[Harry Potter]], [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]] went to Gringotts to [[Break-in of Gringotts Wizarding Bank (1998)|steal]] [[Helga Hufflepuff's Cup]] in the [[Lestrange Vault]].<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*The goblin was played by [[Mike Edmonds]] in the film adaptation of {{PS}} and [[Harry Potter and the Deathly Hallows: Part 2|Part 2]] of the film adaptation of {{DH}}.
+
+==Appearances==
+*{{PS|F}} {{1st}}
+*{{DH|F2}}
+*{{LEGO|Y1}} {{C|Appears as a generic [[goblin]]}}
+*{{LEGO|Y2}} {{C|Appears as a generic [[goblin]]}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+
+[[es:Duende no identificado en Gringotts (I)]]
+[[Category:Bankers]]
+[[Category:British individuals]]
+[[Category:Gringotts employees]]
+[[Category:Males]]
+[[Category:Unidentified Goblins]]

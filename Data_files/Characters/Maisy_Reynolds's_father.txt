@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Maisy Reynolds's father
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="script"/>
+|gender = Male<ref name="script"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Maisy Reynolds]] (daughter)<ref name="script"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Put a smile on, Miss Reynolds. Wouldn't want me to have to pay a visit to Daddy again, would you?|[[Alecto Carrow]] to [[Maisy Reynolds]].|Harry Potter and the Deathly Hallows: Part 2}}
+'''Mr Reynolds''' was the father of [[Maisy Reynolds]].<ref name="script"/>
+
+At some point during the [[1997-1998 school year]], her daughter Maisy disobeyed [[Alecto Carrow]], then a teacher at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]], which made the [[Death Eaters|Death Eater]] "pay a visit" to her father. Alecto Carrow would, afterwards, threaten to do it again if Maisy challenged her.<ref name="script">[http://pt.scribd.com/doc/163084623/HARRY-POTTER-AND-THE-DEATHLY-HALLOWS-PART-2-by-screenplay-Steve-Kloves#scribd ''Harry Potter and the Deathly Hallows - Part 2'' screenplay by Steve Kloves]</ref>
+
+==Appearances==
+*{{DH|F2}} {{1st Mention}} {{Comment|Original screenplay}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Reynolds}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

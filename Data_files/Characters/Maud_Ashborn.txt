@@ -1,0 +1,48 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Maud Ashborn
+|born = 
+|died = [[2002]]<ref name="WUPPandAUI"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Healer]]<ref name="WUPPandAUI"/>
+|signature = 
+|species = [[Human]]<ref name="WUPPandAUI"/>
+|gender = Female<ref name="WUPPandAUI"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Healer]]<ref name="WUPPandAUI"/>
+|house = 
+|loyalty = 
+}}
+'''Maud Ashborn''' was a [[Wizardkind|witch]] and a world-renowned [[Healer]].<ref name="WUPPandAUI">{{WU}}, Adversaries Event: [[Peter Pettigrew]] and Ancient [[Ukrainian Ironbelly]]</ref>
+
+==Biography==
+Maud Ashborn was murdered in [[2002]]. Her killer was never caught.<ref name="WUPPandAUI"/>
+
+In [[2021]], during the [[Calamity]], [[Harry Potter]] saw a recurring nightmare [[memory]], in which an unidentified wizard pleaded Maud to cure his daughter of her [[Blood malediction|blood curse]]. Maud, however, said that the [[magic]] simply did not exist.<ref name="WU Narcissa Malfoy">{{WU}}, Adversaries Event: [[Narcissa Malfoy]]</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ashborn, Maud}}
+[[Category:2002 deaths]]
+[[Category:Females]]
+[[Category:Healers]]
+[[Category:Murder victims]]
+[[Category:Wizards]]

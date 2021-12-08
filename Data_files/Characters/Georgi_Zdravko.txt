@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Georgi Zdravko
+|hideb=
+|born=After [[1976]], [[Bulgaria]]
+|died=
+|blood=
+|alias=
+|title=[[Keeper]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Keeper]] for the [[Bulgarian National Quidditch team]]
+|house=
+|loyalty=[[Bulgarian National Quidditch team]]
+}}'''Georgi Zdravko'''<ref>{{PM}} - [[2014 Quidditch World Cup final]] (Archived)</ref> was a Bulgarian [[wizardkind|wizard]] and the [[Keeper]] on the [[2014]] [[Bulgarian National Quidditch team]].
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Etymology==
+*Georgi (hard G on both counts) is the Bulgarian version of George.
+*Zdravko is a male given name, from ''здрав ['zdrav]'' ("strong", "healthy").
+
+==Behind the scenes==
+*Zdravko is a male given name. The derivative surname is Zdravkov.
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Zdravko, Georgi}}
+
+[[de:Georgi Zdravko]]
+[[de2:Georgi Zdravko]]
+[[es:Georgi Zdravko]]
+[[fr:Georgi Zdravko]]
+[[pl:Georgi Zdravko]]
+[[ru:Георгий Здравко]]
+[[zh:格奧爾基·茲德拉夫科]]
+[[Category:Bulgarian individuals]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,45 @@
+{{MagicAwakenedSpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = 
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="Video">{{MA}} (see [https://www.youtube.com/watch?v=HcI-QubwG-g&t=441s this video])</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="Video" />
+|gender = Male<ref name="Video" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Cassandra Vole]] (niece)<ref name="Video" />
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''unnamed individual''' was a [[Non-magic people|Muggle]] and the uncle of [[Cassandra Vole]]. She thought he was hilarious, but it caused her to think Muggles were "silly".<ref name="Video" />
+
+==Behind the scenes==
+*It is unknown if he was the sibling of a parent of Cassandra, who in this case would be Muggle or Muggle-born, or married to an aunt or uncle of Cassandra.
+
+==Appearances==
+*{{MA}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Unnamed family members]]

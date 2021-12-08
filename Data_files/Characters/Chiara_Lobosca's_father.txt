@@ -1,0 +1,51 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Chiara Lobosca's father
+|born = before [[1970s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Chiara Lobosca's mother|Mrs Lobosca]]
+*[[Chiara Lobosca]] (daughter)
+*Lobosca family
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Arithmancer]]
+|house = 
+|loyalty = Lobosca family
+}}
+This '''individual''' was a [[Wizardkind|wizard]] and the father of [[Chiara Lobosca]]. He worked as an [[Arithmancer]].
+
+==Biography==
+After seeing Chiara with a wizard in the night, [[Jacob's sibling]] thought that he may have been Chiara's father. He turned out to have been [[Remus Lupin]] instead.
+<ref>{{HM|2|Lone Wolf}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Arithmancy}}
+{{DEFAULTSORT:Lobosca, Chiara father}}
+[[Category:Arithmancers]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

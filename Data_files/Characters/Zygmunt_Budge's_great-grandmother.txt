@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:ZygmuntBudge'sGreat-grandmother.png|250px]]
+|name = Zygmunt Budge's great-grandmother
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="BSlaughingpotion"/>
+|gender = Female<ref name="BSlaughingpotion"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="BSlaughingpotion"/>
+|eyes = 
+|skin = Light<ref name="BSlaughingpotion"/>
+|family = *[[Zygmunt Budge]] (great-grandson)<ref name="BSlaughingpotion"/>
+*[[Zygmunt Budge's mother|Mrs Budge]] (granddaughter or granddaughter-in-law)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|I am not a big laugher myself, but laughing potions may have their uses beyond foolish recreation. I set myself the challenge of refining an old Laughing Potion handed down by my distressingly giggly great-grandmother.|[[Zygmunt Budge]], ''[[Book of Potions]]''|Wonderbook: Book of Potions}}
+This '''[[Wizardkind|witch]]''' (fl. c. [[16th century|1500s]]) was the great-grandmother of [[Zygmunt Budge]], one of the most accomplished [[Potioneer]]s ever known. She was remembered by her great-grandson as a "''distressingly giggly''" persona, in sharp contrast to his own personality.<ref name="BSlaughingpotion">{{WBS}} - see [https://www.youtube.com/watch?v=X6W3FZULBtU&index=18&list=PLu-YMfPspAuGcYXaC2J1A2gb-0Zp34GI3 this video]</ref>
+
+Budge's great-grandmother had an old recipe for the [[Laughing Potion]] that she handed down to him as a child. In his adult years in reclusion in the [[Hermetray|Isle of Hermetray]], Budge set himself the challenge of refining that recipe. He later used it on a [[Non-magic people|Muggle]] neighbour from the [[Isle of Harris]] who thought himself funny and was determined to make fun of him — a drink from Budge's potion made him laugh for a week straight, after which he retired to a silent monastery, having developed an aversion for all things funny.<ref name="BSlaughingpotion"/>
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': This witch was very accomplished with the [[magic]] of potion making, having taught her grandson [[Zygmunt Budge]] much about brewing potions, as well as having devised her own recipe for the [[Laughing Potion]].<ref name="BSlaughingpotion"/>
+
+==Appearances==
+*{{WBP}} {{1st}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Budge, Zygmunt's great-grandmother}}
+[[pl:Prababcia Zygmunta Budge'a]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

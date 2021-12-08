@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:AngusMcMangus.png|250px]]
+|name = Angus McMangus
+|born = c. [[1921]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WBS"/>
+|alias = Angry Angus McMangus<ref name="WBS"/>
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WBS"/>
+|gender = Male<ref name="WBS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="WBS"/>
+}}
+{{Quote|Oh, Angus McMangus, you should have been great!<br/>With talents aplenty — success on a plate!<br/>We all thought you'd garner great grades quite securely —<br/>But Angus McMangus, your spells turned out poorly.|Miranda Goshawk, "The Ballad of Angus McMangus"|Wonderbook: Book of Spells}}'''Angus McMangus''' was the character that [[Miranda Goshawk]]'s poem "[[The Ballad of Angry Angus McMangus]]" centres around. Like all characters in these conundrums, Angus was based off a real person, with only his name changed for his protection, in this case a classmate's of Miranda's. Great things were expected from him, but he lacked the patience to achieve them.<ref name="WBS">{{WBS}}</ref>
+
+==Biography==
+The student Angus McMangus was based on was born somewhere in [[Great Britain]] in or around [[1921]]. He attended [[Hogwarts School of Witchcraft and Wizardry]] sometime around [[1932]], being in the same year as Miranda Goshawk. Everyone around him, including himself, expected him to excel in his studies; Miranda described him as having "success on a plate".<ref name="WBS"/>
+
+However, in his first [[Charms (class)|Charms class]], he got frustrated when his first attempt at casting a [[spell]] failed and began to shout and complain. This behaviour continued for each of his classes, giving up after a single mistake. Though his teachers tried to get him to calm down, they were unsuccessful, and his anger finally led him to snap his own [[wand]] in two.<ref name="WBS"/>
+
+Miranda would later remember her former classmate when composing conundrums for the ''[[Book of Spells]]''. Changing his name to Angus McMangus, she wrote the poem "The Ballad of Angry Angus McMangus" about his exploits, including it at the end of chapter three.<ref name="WBS"/>
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT: McMangus, Angus}}
+[[pl:Angus McMangus]]
+[[Category:1921 births]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

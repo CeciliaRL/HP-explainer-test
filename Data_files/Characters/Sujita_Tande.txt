@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Sujita Tande
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Lina Tande]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Tande family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+'''Sujita Tande''' was a [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She was seen walking around the school during the [[1993-1994 school year]].
+
+==Etymology==
+Sujita is an Indian name meaning 'great conqueror'.
+Tande nickname for someone with prominent or otherwise remarkable teeth, from tand 'tooth'.
+
+==Behind the scenes==
+*This student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|PlayStation 2 version]] of {{POA}}.
+*Based on her name, it can be presumed that she is of [[India]]n descent.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Tande, Sujita}}
+
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Tande family]]
+[[Category:Wizards]]

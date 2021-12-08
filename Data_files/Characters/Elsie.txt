@@ -1,0 +1,34 @@
+{{Youmay|the creature owned by Newton Scamander|[[Elsie (disambiguation)|other people with the same name]]}}
+{{Pet individual infobox
+|image = 
+|name = Elsie
+|born = Before September [[1927]]
+|died = 
+|alias = 
+|title = 
+|species = 
+|gender = Female<ref name="COG33"/>
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Newton Scamander|Newt Scamander]] (owner)<ref name="COG33"/>
+}}
+'''Elsie''' was a female [[creature]] kept by [[Newton Scamander|Newt Scamander]] in the menagerie beneath his [[Newton Scamander's apartment|apartment]] in [[1927]].<ref name="COG33" />
+
+==Biography==
+In [[1927]] whilst talking to [[Bunty]] in the basement of his [[9 Sherringford Square|house]], Newt asked about Elsie, to which Bunty replied, that her [[Faeces|droppings]] were nearly normal again.<ref name="COG33">{{COG|S|33}}</ref>
+
+==Appearances==
+*{{COG|S}} {{1st Mention}}
+*{{COG}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Elsie]]
+
+[[pl:Elsie]]
+[[Category:Females]]
+[[Category:Newton Scamander's possessions]]
+[[Category:Pets]]

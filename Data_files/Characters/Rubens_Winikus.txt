@@ -1,0 +1,39 @@
+{{Transcribed image|File:SkeleGro.jpg}}
+{{Individual infobox
+|theme=wizard
+|name=Rubens Winikus
+|nationality=
+|born=
+|species=[[Human]]<ref name="COSF"/>
+|gender=Male<ref name="COSF"/>
+|eyes=
+|hair=
+|skin=
+|height=
+|weight=
+|family=[[Ruth Winikus]] (possibly)
+|wand=
+|boggart=
+|animagus=
+|patronus=
+|job=*[[Potioneer]]<ref name="COSF"/>
+*Founder of [[Rubens Winikus and Company Inc.]]<ref name="COSF"/>
+|affiliation=[[Rubens Winikus and Company Inc.]]<ref name="COSF"/>
+}}
+'''Rubens Winikus''' was presumably the founder of [[Rubens Winikus and Company Inc.]], a corporation which manufactured and sold [[potion]]s, including [[Skele-Gro]], of which they were the sole producer.<ref name="COSF">{{COS|F}}</ref>
+
+==Behind the scenes==
+*This character is mentioned only on the label of a bottle featured in {{COS|FA}}. His name is presumably a tribute to [[Ruth Winick]], who worked as a graphic artist on ''[[Harry Potter and the Philosopher's Stone (film)|Philosopher's Stone]]'' and ''Chamber of Secrets'', and as a draughtsman on ''[[Harry Potter and the Prisoner of Azkaban (film)|Prisoner of Azkaban]]'' and ''[[Harry Potter and the Goblet of Fire (film)|Goblet of Fire]]''.<ref>[http://www.imdb.com/name/nm0935101/ Ruth Winick]" at IMDb</ref>
+
+==Appearances==
+*{{COS|F}} {{1st Mention}} {{Comment|Name appears on bottle label}}
+
+==Notes and references==
+{{Reflist}}
+{{Potions}}
+
+[[es:Rubens Winikus]]
+[[pl:Rubens Winikus]]
+[[Category:Males|Winikus, Rubens]]
+[[Category:Potioneers|Winikus, Rubens]]
+[[Category:Wizards|Winikus, Rubens]]

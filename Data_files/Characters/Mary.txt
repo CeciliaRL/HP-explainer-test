@@ -1,0 +1,58 @@
+{{Real world subject}}
+{{Individual infobox
+|image=
+|name=Mary
+|theme=individual
+|hideb=
+|born=
+|died=
+|blood=
+|marital=Widowed
+|alias=
+|title=[[Saint]]
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|family=
+[[Jesus]] (son)  
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Mary''', also known as '''Saint Mary''' or the '''Virgin Mary''', was the mother [[Jesus]], the son of [[God]] according to the [[Bible]] and the central figure of [[Christianity]].<ref name="wikipedia">"[https://en.wikipedia.org/wiki/Mary_%28mother_of_Jesus%29 Mary (mother of Jesus)]" on Wikipedia</ref> She was venerated as a [[saint]] in the [[wikipedia:Catholicism|Catholic]], [[wikipedia:Anglicanism|Anglican]], and [[wikipedia:Eastern Orthodox Church|Eastern Orthodox]] churches.<ref name="wikipedia" /> 
+
+[[St. Mary's Church Hall]], where [[Emanuel Hurwitz|Emanuel]] and [[Kay Hurwitz]] once performed along with the [[Dollis Chamber Ensemble]], was presumably named after her.<ref>{{DH|F1}} {{see image|File:Emanuel&KayHurwitzConcertPoster.jpg}}</ref>
+
+[[File:MaryMedallion.jpg|250px|thumb|left|A medallion depicting Mary, mother of [[Jesus]]]]
+
+One of the known works by artist [[Haniball Carathi]] was a "little piece" depicting "our Ladie" (i.e., Mary) with the presumably infant Jesus "upon her right hand."<ref name="lc">''Label Collection'' book in the {{HPWC}} box set {{see image|File:BelchPowder.jpg}}.</ref> A catalogue listing for this work was incorporated into the label of the [[Belch Powder]] box.<ref name="lc" />
+
+A medallion depicting Mary was among the many objects scattered about the interior of the [[Old Bell Tower|old bell tower]] near the [[Chudley Cannons]]' [[Chudley Cannons' training grounds|training grounds]].<ref name="medallion">{{FBC}} {{See image|File:MaryMedallion.jpg}}</ref>
+
+==Etymology==
+The name "Mary" is the usual English form of Maria, which was the [[Latin]] form of the New Testament [[Greece|Greek]] names Μαριάμ (Mariam) and Μαρία (Maria) - the spellings are interchangeable - which were from the Hebrew name מִרְיָם (Miryam). The meaning is not known for certain, but there are several theories including "sea of bitterness", "rebelliousness", and "wished for child". However it was most likely originally an [[Egypt]]ian name, perhaps derived in part from ''mry'', "beloved" or ''mr'', "[[love]]".
+
+==Appearances==
+*{{DH|F1}} {{Mentioned on a poster}}
+*{{HPLE}} {{Mentioned on a poster}}
+*{{FBC}} {{Engraving}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:B.C. era births]]
+[[Category:Biblical figures‎]]
+[[Category:Females|Mary, Saint]]
+[[Category:Humans|Mary, Saint]]
+[[Category:Saints|Mary, Saint]]
+[[Category:Widowed individuals]]

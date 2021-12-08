@@ -1,0 +1,31 @@
+{{Individual infobox
+|image = Housewife.jpg
+|name = Unidentified housewife
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Female
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidea = 
+}}This '''Housewife''' was an [[United States of America|American]] [[Muggle|No-Maj]] who lived in [[New York]] in [[1926]].<ref name="FBS">{{FB|S}}</ref>
+
+==History==
+She was one of the witnesses when some of Newt Scamander's creatures escaped from his briefcase that year.<ref name="FBS">{{FB|S}}</ref>
+
+When a [[NYPD Police Officer No. 743|policeman]] asked questions about the situation, the Housewife told him that she thought she heard a gas explosion, as she often had problems with them during her life as a housewife, telling the officer she would not take the children back in their apartment until the problem was fixed.<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+The Housewife was portrayed by [[Anne Wittman]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Unidentified Muggles]]

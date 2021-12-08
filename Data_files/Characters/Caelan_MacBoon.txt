@@ -1,0 +1,45 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Caelan MacBoon
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBR"/>
+|alias = 
+|title = 
+|signature = 
+|species = *[[Human]]<ref name="FBR"/>
+*[[Quintaped]] {{C|Possibly}}<ref name="FBR"/>
+|gender = Male<ref name="FBR"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Quintius MacBoon]] (uncle)<ref name="HM">{{HM}}</ref>
+*[[MacBoon clan]]<ref name="FBR"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[MacBoon clan]]<ref name="FBR"/>
+}}
+'''Caelan MacBoon''' was a [[Wizardkind|wizard]] and [[Quintius MacBoon]]'s nephew. According to legend, Quintius killed the head of the [[McClivert clan]], [[Dugald McClivert]] in a drunken [[Duelling|duel]]. The [[death]] led to the McClivert clan [[Transfiguration|transfiguring]] the MacBoons into extremely dangerous [[flesh]]-eating [[beast]]s known as [[Quintaped]]s, presumably including Caelan.<ref name="FBR">{{FB|R}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:MacBoon, Caelan}}
+[[Category:British individuals]]
+[[Category:MacBoon family]]
+[[Category:Males]]
+[[Category:Wizards]]

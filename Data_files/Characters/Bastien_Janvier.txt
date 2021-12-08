@@ -1,0 +1,34 @@
+{{Youmay|the Quidditch player|[[Bastien (disambiguation)|someone of the same name]]}}
+{{Individual infobox
+|image = [[File:Bastien Janvier 2.png]]
+|name = Bastien Janvier
+|nationality = [[France|French]]<ref name="QWC"/>
+|title = [[Keeper]]<ref name="QWC"/>
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|job = [[Keeper]] for the [[French National Quidditch team]]<ref name="QWC"/>
+|loyalty = [[French National Quidditch team]]<ref name="QWC"/>
+|theme = quidditch-player
+}}
+'''Bastien Janvier''' was a [[France|French]] [[Wizardkind|wizard]] famous for being a [[Keeper]] for the [[French National Quidditch team]] during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]].<ref name="QWC">{{QWC}}</ref>
+
+==Etymology==
+''Janvier'' is [[France|French]] for "January".
+
+==Appearances==
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Janvier, Bastien}}
+
+[[es:Bastien Janvier]]
+[[fr:Bastien Janvier]]
+[[pl:Bastien Janvier]]
+[[ru:Бастьен Жанвье]]
+[[Category:French individuals]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Wizards]]

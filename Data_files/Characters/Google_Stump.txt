@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Google Stump.jpg|250px]]
+|name = Google Stump
+|born = 
+|died = After [[1700]]<ref name="HPLE">{{HPLE|PA}}</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = 
+|skin = White
+|family = *[[Tobias Stump]] (possibly)
+*[[Grogan Stump]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Google Stump''' (fl. [[1700]])<ref name="HPLE">{{HPLE|PA}}</ref> was a shy and stuttering [[Wizardkind|wizard]]. 
+
+==History==
+[[File:Google Stump.JPG|100px|thumb|left|His portrait]]
+He had some portraits of himself hung in [[Hogwarts Castle]]. In [[1994]] one of them hung in the [[Tapestry Corridor]] and by [[1995]], a [[portrait]] was in the [[Viaduct Entrance]]. Stump's portrait guarded a secret passage from there to the first floor corridor. He never told anyone the password. When confronted by [[Harry Potter]], who asked if he was really doing his job if no one used his shortcut, the portrait told the student the password. The password, ''Volo futurus unus'', meaning in Latin "''I want to be alone''", brings out the shyness of the [[Wizardkind|wizard]]. Later in the school year, he directed [[Harry Potter]], [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]] to the portrait of [[Giffard Abbott]] to obtain the [[password]] to access the shortcut behind [[Percival Pratt]]'s portrait.<ref name="OOTPG">{{OOTP|G}}</ref>
+
+==Behind the scenes==
+*He may have been related to former [[Minister for Magic]] [[Grogan Stump]].
+*This individual died sometime prior to [[1991]], as the portraits hung at [[Hogwarts Castle|Hogwarts]] depict deceased individuals.<ref>[http://www.accio-quote.org/articles/2004/0804-ebf.htm JK Rowling  at the Edinburgh Book Festival Sunday August 15 2004] - Q: All the paintings we have seen at Hogwarts are of dead people... JKR: "They are all of dead people;"</ref>
+*His first name is Google, possibly derived from the popular search engine Google. This is further implied when one of the other portraits describes him as a "man with answers."
+
+==Appearances==
+*{{PS|F}} {{Portrait}} {{1st}}<ref>Seen when Hermione says, ''Staircases change, remember''.</ref>
+*{{PS|G}} {{Portrait}}<ref>''{{PS|G}} - PS1 version -- In the hall leading the the [[First-Floor Girls' Toilets]] in which a troll chase Harry.</ref>
+*{{POA|F}} {{Portrait}}
+*{{POA|G}} {{Comment|PC version}} {{Portrait}}
+*{{GOF|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Stump, Google}}
+
+{{Hogwarts ground floor}}
+{{Hogwarts first floor}}
+[[pl:Google Stump]]
+[[fr:John Mirow]]
+[[ru:Гугль Стамп]]
+[[Category:British individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Stump family]]
+[[Category:Wizards]]

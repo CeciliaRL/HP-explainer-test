@@ -1,0 +1,37 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Danielle
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Dancer
+|house=
+|loyalty=
+}}
+'''Danielle''' was a [[Non-magic people|Muggle]] dancer in the early [[20th century]]. She was to support [[Hilda Kendrick]] with fellow dancer [[Natalya]] in a production of ''[[Oh, Rosana!]]'' slated to open at the [[Brockman Theatre]] in [[New York]] on [[4 January]] [[1927]].<ref name="rosana">{{FB|F}} {{See image|File:Oh, Rosana!.png}}</ref>
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Danielle}}
+[[Category:Dancers]]
+[[Category:Females]]
+[[Category:Muggles]]

@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Slytherin House Captain's Plaque.jpg|250px]]
+|name = Jody Jacknife
+|born = c. [[1950s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+**[[Slytherin Quidditch team]]
+}}
+'''Jody Jacknife''' was a [[Slytherin]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1960s]]. She was [[Quidditch Captain|Captain]] of the [[Slytherin]] [[Quidditch]] [[Slytherin Quidditch team|team]] from [[1960]] to [[1964]].<ref>See [[:File:Slytherin House Captain's Plaque.jpg|this image]] of a prop used in the films on display as part of {{HPE}}.</ref><ref>[http://ab.fanrus.com/SMI/ViP/september/51/213/ ''Harry Potter: The Exhibition'' report] {{Comment|in Russian}}</ref>
+
+==Behind the scenes==
+*This character was presumably named after Jody Jackman, an art department coordinator on every [[Harry Potter (film series)|''Harry Potter'' film]], excepting ''[[Harry Potter and the Philosopher's Stone (film)|Harry Potter and the Philosopher's Stone]]''.<ref>"[http://www.imdb.com/name/nm1227854/ Jody Jackman]" on IMDb</ref>
+
+==Appearances==
+*[[Harry Potter (film series)|''Harry Potter'' films]] {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Rufus Winickus]]
+|position=[[Quidditch Captain|Captain]] of the [[Slytherin]] [[Quidditch]] [[Slytherin Quidditch team|team]]
+|years=[[1960]]-[[1964]]
+|successor=[[Stuart Craggy]]
+}}
+{{End box}}
+
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Jacknife, Jody}}
+
+[[es:Jody Jacknife]]
+[[pl:Jody Jacknife]]
+[[pt-br:Jody Jacknife]]
+[[de2:Jody Jacknife]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

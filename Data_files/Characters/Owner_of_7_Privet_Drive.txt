@@ -1,0 +1,21 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Owner of 7 privet drive
+|blood = [[Non-magic people|Muggle]]<ref name="OOTP1"/>
+|marital = Married<ref name="OOTP1"/>
+|nationality = [[England|English]]<ref name="OOTP1"/>
+|alias = Mrs Number Seven (by [[Harry Potter]])<ref name="OOTP1"/>
+|species = [[Human]]<ref name="OOTP1"/>
+|gender = Female<ref name="OOTP1"/>
+|theme = muggle
+}}This '''[[Non-magic people|Muggle]] woman''' was the owner of [[7 Privet Drive]]. [[Petunia Dursley]] enjoyed spying on her. [[Harry Potter]] referred to her as "Mrs Number Seven".<ref name="OOTP1">{{OOTP|B|1}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Właścicielka Privet Drive 7]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Muggles]]

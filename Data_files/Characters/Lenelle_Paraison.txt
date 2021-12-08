@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme=quidditch-player
+|image=
+|name=Lenelle Paraison
+|hideb=hide
+|born=after [[1976]]<ref>Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref>, [[Haiti]] (possibly)
+|died=
+|nationality=[[Haiti]]an
+|blood=
+|alias=
+|title=[[Keeper]]
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Keeper]] for the [[Haitian National Quidditch team]]
+|house=
+|loyalty=[[Haitian National Quidditch team]]
+}}'''Lenelle Paraison''' was a [[Haiti]]an [[wizardkind|witch]] who played as the [[Keeper]] for the [[2014]] [[Haitian National Quidditch team]]. She was one of only three female Keepers that took part in the [[2014 Quidditch World Cup]].<ref name="Insider">[http://insider.pottermore.com/2014/05/read-ginny-potters-match-reports-from.html "Read Ginny Potter's match reports from the 2014 Quidditch World Cup every day this week"] at [http://insider.pottermore.com Pottermore Insider]</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Paraison, Lenelle}}
+
+[[de:Lenelle Paraison]]
+[[es:Lenelle Paraison]]
+[[fr:Lenelle Paraison]]
+[[pl:Lenelle Paraison]]
+[[ru:Ленелль Парайсон]]
+
+[[Category:20th century births]]
+[[Category:Females]]
+[[Category:Haitian individuals]]
+[[Category:Keepers]]
+[[Category:Wizards]]

@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=individual
+|image=[[File:2HeadedBaby.jpg]]
+|name=2-Headed Baby
+|hideb=y
+|born=Before [[1927]]
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male (most likely)<ref name="gender">In the [[:File:Circus Arcanus.png|Circus Arcanus poster]], the twins are depicted as wearing sailor hats and shirts, fashions typically reserved for baby boys.</ref>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Circus performers
+|house=
+|loyalty=[[Circus Arcanus]]
+}}
+The '''2-Headed Baby''' was a name given to a set of ischiopagous conjoined twins. They were part of the [[Circus Arcanus]], a travelling [[Wizarding world|wizards']] freak show, and visited the [[United States of America|United States]] with it for the first in [[November]]-[[December]] [[1926]].<ref name="poster">[http://store.minalima.com/shop/fantastic-beasts/limited-edition-prints/no-maj-street-posters/circus-arcanus-museum-of-human-oddities-poster/ MinaLima Store - Circus Arcanus - Museum of Human Oddities Poster] {{see image|File:Circus Arcanus.png}}</ref>
+
+==Behind the scenes==
+*Their performance in a wizarding circus may suggest that 2-headed wizards had special magical abilities that one-headed wizards did not have, or their inclusion may be based on just their unusual physique.
+*The 2-Headed Baby is an example of conjoined twins.
+
+==Appearances==
+*{{FB|F}} {{1st}} {{Drawing}}
+
+==Notes and references==
+{{Reflist}}[[fr:Bébé à deux têtes]]
+[[Category:Circus performers]]
+[[Category:Males]]
+[[Category:Twins]]

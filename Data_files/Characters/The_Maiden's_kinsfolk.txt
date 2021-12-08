@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image = O Coração Peludo do Mago2.jpg
+|name = The Maiden's kinsfolk
+|hideb =
+|born =
+|died =
+|blood =
+|alias =
+|title =
+|hidep =
+|species = [[Human]]s<ref name="TBB"/>
+|gender = *Males<ref name="TBB"/>
+*Females<ref name="TBB"/>
+|height =
+|hair =
+|eyes =
+|skin =
+|hidef =
+|family = [[Maiden]]<ref name="TBB"/>
+|hidem = hide
+|animagus =
+|boggart =
+|wand =
+|patronus =
+|hidea = hide
+|job =
+|house = 
+|loyalty = [[Maiden]]<ref name="TBB"/>
+}}
+{{Quote|[[Maiden (The Warlock's Hairy Heart)|Her]] kinsfolk, however, deemed theirs a most suitable match and, eager to promote it, accepted the warlock's invitation to a great feast in the maiden's honour.|The [[Maiden (The Warlock's Hairy Heart)|Maiden]]'s kinsfolk|The Tales of Beedle the Bard (real)}}
+The '''kinsfolk''' or family of a [[Maiden (The Warlock's Hairy Heart)|Maiden]] were minor protagonists of the children's tale, ''[[The Warlock's Hairy Heart]]'' in {{TBB}}.<ref name="TBB">{{TBB|H}}</ref>
+
+==History==
+{{Quote|...a maiden answering his every wish arrived in the neighbourhood to visit her kinsfolk.|The Maiden |The Tales of Beedle the Bard (real)}}
+The Maiden met the [[Warlock (The Warlock's Hairy Heart)|Warlock]] while visiting her family.<ref name="TBB"/> Though she regarded him with a kind of grotesque fascination, her family deemed them a suitable match and accepted the Warlock's invitation to a great feast in the maiden's honour.<ref name="TBB"/>
+
+==Appearances==
+*{{TBB|R}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Tales of Beedle}}
+
+[[de2:Verwandte]]
+[[es:Parientes (El Corazón Peludo del Brujo)]]
+[[Category:Females]]
+[[Category:Fictional characters]]
+[[Category:Males]]
+[[Category:The Tales of Beedle the Bard]]
+[[Category:Wizards]]

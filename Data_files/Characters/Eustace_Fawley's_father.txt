@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mr Fawley
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[half-blood]] (most likely)<ref name="status">The Fawley family is one of the names found in the ''[[Pure-Blood Directory]]'' made in the 1930s, meaning he is most likely a wizard who is either pure-blood or half-blood.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBC7"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC7"/>
+|gender = Male<ref name="FBC7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Eustace Fawley]] (son)<ref name="FBC7"/>
+*[[Eustace Fawley's uncle|Brother or brother-in-law]]<ref name="FBC7"/>
+*[[Fawley family]]<ref name="FBC7"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Fawley family]]<ref name="FBC7"/>
+}}
+'''Mr Fawley''' was a [[Great Britain|British]] [[Wizardkind|wizard]] and a member of the [[Fawley family]].<ref name="status" />
+
+==Biography==
+He was part of the [[Fawley family]], who appeared in the ''[[Pure-Blood Directory]]'' as belonging to the [[Sacred Twenty-Eight]].
+
+He had at least one child, a son, [[Eustace Fawley|Eustuce]], to whom he gave his best set of [[gobstones]] to take to [[Hogwarts School of Witchcraft and Wizardry]]. Eustace lost the gobstones in a [[fire]] at the [[boathouse]].<ref name="FBC7">{{FBC|7}}</ref>
+
+==Etymology==
+
+Fawley is a name derived from the Old English word fugelere which means "hunter of wild birds, fowler".
+
+==Appearances==
+*{{FBC}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Fawley, Mr}}
+[[Category:British individuals]]
+[[Category:Fawley family]]
+[[Category:Gobstones players]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

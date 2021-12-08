@@ -1,0 +1,25 @@
+{{Notability}}
+{{Conjecture}}
+{{Individual infobox
+|theme=spirit
+|name = Unidentified Ghosts
+|died = Before [[1991]]
+|species = *[[Human]]s (formerly)
+*[[Ghost]]s
+|gender = Females
+|skin = Pale
+}}
+These female '''[[ghost]]s''' often haunted the corridors of [[Hogwarts Castle|Hogwarts]] during the [[1991-1992 school year|1991-1992]] and [[1992-1993 school year]]s. They could be found haunting various places of the castle at night, including classrooms and the [[Hogwarts Library]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+
+==Behind the scenes==
+*They never appear in any of the [[Harry Potter (book series)|books]] or [[Harry Potter (film series)|films]]. They appear to be simply generic representations of ghosts to haunt the castle provided in the first two video games.
+
+==Appearances==
+*{{PS|G}} {{1st}}
+*{{COS|G}}
+
+==Notes and references==
+{{Reflist}}[[es:Fantasma no identificado (I)]]
+[[Category:Females]]
+[[Category:Unidentified ghosts]]
+[[Category:Wizards]]

@@ -1,0 +1,36 @@
+{{HogwartsMysterySpoiler}}
+{{Youmay|the goblin rebel|[[Bogrod]], the Gringotts employee}}
+{{Individual infobox
+|theme = goblin
+|image = 
+|name = Bodrod the Bearded
+|born = 
+|died = 
+|blood = 
+|alias = 
+|title = 
+|species = [[Goblin]]<ref name="GOF31"/>
+|gender = Male<ref name="GOF31"/>
+|height = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|boggart = 
+|job = [[Goblin Rebellions|Goblin rebel]]<ref name="GOF31"/>
+|loyalty = 
+}}
+'''Bodrod the Bearded''' was a [[goblin]] [[Goblin Rebellions|rebel]]. [[Ronald Weasley]] gave his name along with [[Urg the Unclean]] as examples of the kind of names which goblins have, after he was unable to remember all of the goblin rebels' names for his [[fourth year]] [[History of Magic]] [[Fourth year exams|final exams]] and had to make some up.<ref name="GOF31">{{GOF|B|31}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Bodrod der Bärtige]]
+[[fr:Borbog le Barbu]]
+[[pl:Bodrod Brodaty]]
+[[ru:Бодрод Бородатый]]
+[[Category:Goblin rebels]]
+[[Category:Males]]

@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Royden Poke
+|born = before [[1982]]<ref>As he was employed by the Ministry by [[1999]] he was presumably over 17.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Rutherford Poke]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Representative of the [[Department for the Regulation and Control of Magical Creatures]]
+|house = 
+|loyalty = *[[British Ministry of Magic|Ministry of Magic]]
+*[[Department for the Regulation and Control of Magical Creatures]]
+}}
+{{Quote|Don't ask me what started it. I thought we were getting along fine until I heard [[Chipping Clodbury riot|the first explosion]].|Royden Poke|Daily Prophet Newsletters}}
+
+'''Royden Poke''' was a [[Wizardkind|wizard]] employed by the [[British Ministry of Magic|Ministry of Magic]]<ref name=":0">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[1 June]], [[1999]], Page 1</ref>. Representing the [[Department for the Regulation and Control of Magical Creatures]], he was part of the Ministry delegation that met with the [[Brotherhood of Goblins]] in [[Chipping Clodbury]] to discuss a [[Bill of Goblin Rights|Goblin Bill of Rights]]<ref name=":0" /> (meeting that erupted into a [[Chipping Clodbury riot|riot]]).
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Ministry Level 4 employees}}
+{{DEFAULTSORT:Poke, Royden}}
+[[es:Royden Poke]]
+[[pl:Royden Poke]]
+[[Category:British individuals]]
+[[Category:Department for the Regulation and Control of Magical Creatures personnel]]
+[[Category:Males]]
+[[Category:Poke family|Royden]]
+[[Category:Wizards]]

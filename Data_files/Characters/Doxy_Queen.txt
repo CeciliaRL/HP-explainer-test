@@ -1,0 +1,37 @@
+{{HogwartsMysterySpoiler}}
+{{Pet individual infobox
+|name = Doxy Queen 
+|image = Doxy Queen HM.png
+|born = In or before [[1990]]/[[1991]]<ref name="HM718"/>
+|died = [[1990]]/[[1991]], [[Prefects' Bathroom]], [[Hogwarts Castle]]<ref name="HM718"/>
+|alias = 
+|title = Queen<ref name="HM718"/>
+|species = [[Doxy]]<ref name="HM718"/>
+|gender = Female<ref name="HM718"/>
+|skin = Brown<ref name="HM718"/>
+|height = 
+|hair = Pink<ref name="HM718"/>
+|eyes = Green<ref name="HM718"/>
+|feathers = 
+|family = Many doxy children (mother)<ref name="HM718"/>
+|loyalty = 
+}}
+{{Dialogue a-b-c-d|Doxy Queen|Bzzt!|Victor Ketsueki|Fantastic! I do enjoy a good challenge.|Chiara Lobosca|Once we have the Doxy Queen on her own, we can douse her with the Doxycide.|Jacob's sibling|Less talk, more Knockback Jinxes! We need to save [[Pitts]] and get rid of that Doxy Queen!|[[Victor Ketsueki]], [[Chiara Lobosca]] and [[Jacob's sibling]] confronting the Doxy Queen and her swarm in the Hogwarts Kitchens|Harry Potter: Hogwarts Mystery}}
+The '''Doxy Queen''' was a female [[doxy]] who was served as the birthing mother and commander of many doxies who infested [[Hogwarts Castle]] in the [[1990–1991 school year]]. She laid her [[Doxy egg|eggs]] heavily in the [[Hogwarts kitchens]].<ref name="HM718">{{HM|7|18}}</ref>
+
+[[Jacob's sibling]] and their friends sought to exterminate her in order to eliminate the doxy infestation that was plaguing Hogwarts. After failing to douse her in [[Doxycide]] in the kitchens, they found her again in the [[Prefect's Bathroom]], where Jacob's sibling managed to kill her by using the [[Knockback Jinx]] to make her fall into a bath infused with the [[potion]] in the [[water]].<ref name="HM718"/>
+
+==Behind the scenes==
+*The characters in {{HM}} consider the best way to douse her in Doxycide is to directly pour the potion over her, which in fact proves to be highly impractical in the game, but also somewhat [[canon]]ically strange, considering the potion is administered as a spray.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Creature-stub}}
+[[Category:1990s deaths]]
+[[Category:Deaths by drowning]]
+[[Category:Doxies]]
+[[Category:Green-eyed individuals]]
+[[Category:Females]]

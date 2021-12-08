@@ -1,0 +1,29 @@
+{{Individual infobox
+|name = Smirnoff
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|job = Banker
+|theme = muggle
+|hideb = hide
+|hidep = 
+|hidef = hide
+|hidem = hide
+|hidea = hide
+}}'''Smirnoff''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who worked as a banker in the early [[20th century]]. He encountered [[Newton Scamander|Newt Scamander]] during his time in [[New York]], and asking him if he needed assistance, to which Newt replied no, he was just "looking for [[Niffler|something]]".<ref name="snitchseeker">"[http://www.mugglenet.com/2015/10/fantastic-beasts-and-where-to-find-them-roundup-goodbye-liverpool/ 'Fantastic Beasts and Where to Find Them' Roundup: Goodbye, Liverpool?]" from Mugglenet</ref>
+
+==Behind the scenes==
+*Smirnoff is portrayed by [[Denis Khoroshko]] in ''[[Fantastic Beasts (film series)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|F}} {{1st Mention}}
+*{{FB|S}}
+
+==Notes and references==
+{{Reflist}}[[pl:Smirnoff]]
+[[Category:Articles with information from Fantastic Beasts and Where to Find Them (film)]]
+[[Category:American individuals]]
+[[Category:Bankers]]
+[[Category:Males]]
+[[Category:Muggles]]

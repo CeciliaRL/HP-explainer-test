@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme=wizard
+|image=Falco Tremblay.jpg
+|name=Falco Tremblay
+|born=
+|died=
+|blood=[[Pure-blood]] (most likely)
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+*[[Bernard Tremblay]] (father)<ref name="family tree">[[Lestrange family]] tree {{See image|File:Lestrange family tree.png}}</ref>
+*[[Leonie Tremblay]] (mother)<ref name="family tree"/>
+*[[Clarisse Lestrange]] (sister)<ref name="family tree"/>
+*[[Corvus Lestrange (IV)|Corvus Lestrange]] (brother-in-law/first cousin)<ref name="family tree"/>
+*[[Leta Lestrange]] (step-niece/first cousin once removed)<ref name="family tree"/>
+*[[Corvus Lestrange (V)|Corvus Lestrange]] (nephew/first cousin once removed)<ref name="family tree"/>
+*[[Eglantine Lestrange]] (maternal aunt/mother-in-law)<ref name="family tree"/>
+*[[Falco Lestrange]] (maternal grandfather)<ref name="family tree"/>
+*[[Salomé Lestrange]] (maternal grandmother)<ref name="family tree"/>
+*[[Tremblay family]]
+*[[Lestrange family]]
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+*[[Tremblay family]]
+*[[Lestrange family]]
+|nationality=[[France|French]]
+}}
+'''Falco Tremblay''' was a [[France|French]] [[Wizardkind|wizard]], the son of [[Leonie Tremblay]] and [[Bernard Tremblay]] and the brother of [[Clarisse Lestrange|Clarisse Tremblay]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref> He was probably named after his grandfather, [[Falco Lestrange]].
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Tremblay, Falco}}
+[[fr:Falco Tremblay]]
+[[pl:Falco Tremblay]]
+[[ru:Фалько Трембли]]
+[[Category:French individuals]]
+[[Category:Males]]
+[[Category:Pure-bloods]]
+[[Category:Tremblay family|Falco]]
+[[Category:Wizards]]

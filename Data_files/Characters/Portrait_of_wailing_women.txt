@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Portrait of wailing egyptians.jpg|250px]]
+|name=Portrait of wailing women
+|hideb=
+|born=
+|died=Before [[1993]] (possibly)
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Females
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+This '''portrait''' depicted a group of three [[wikipedia:Middle Eastern|Middle Eastern]] women loudly wailing.
+
+==History==
+This portrait hung at [[Hogwarts Castle]] in the [[1990s]], on the seventh-floor landing of the [[Grand Staircase]], between a [[portrait of a witch flying to the moon]] and a [[portrait of two lovers in a graveyard]].<ref name="PA13">{{POA|F}} - Chapter 13 (''Flight of the Fat Lady'')</ref>
+
+==Behind the scenes==
+*One of the women in the portrait was portrayed by [[Sally Samad]].<ref name="sallysamad">[http://www.castingcallpro.com/uk/actor/profile/sally-samad Sally Samad's profile on Casting Call Pro]</ref> Her casting agency profile lists her role as "Burbur [sic] Lady."<ref name="sallysamad" /> The [[wikipedia:Berbers|Berbers]] are an ethnic group indigenous to [[Africa|North Africa]], including [[Egypt]], and their traditional dress is consistent with costumes worn by the actresses in the portrait.<ref>"[https://en.wikipedia.org/wiki/Berbers Berbers]" on Wikipedia</ref>
+
+==Appearances==
+*{{POA|F}} {{1st}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts seventh floor}}
+
+[[es:Retrato de egipcios lamentándose]]
+[[pl:Portret zawodzących kobiet]]
+
+[[Category:Egyptian individuals]]
+[[Category:Females]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

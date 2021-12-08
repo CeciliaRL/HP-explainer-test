@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Horace Slughorn's friend
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|A chum of mine was sledging down Claxby Hill. We had a very long, homemade, Norwegian-style sledge...|[[Horace Slughorn]] at [[Three Broomsticks Inn|The Three Broomsticks]]|{{HBP|F}}}}
+
+This '''individual''' was a ''"chum"'' of [[Horace Slughorn]]'s. One time, he and [[Horace Slughorn|Slughorn]] went sledging at [[Claxby Hill]].<ref>{{HBP|F}} - Chapter 11</ref>
+
+==Appearances==
+*{{HBP|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals|Slughorn's friend]]
+[[Category:Males|Slughorn's friend]]
+[[Category:Unidentified individuals|Slughorn's friend]]
+[[Category:Wizards|Slughorn's friend]]

@@ -1,0 +1,68 @@
+{{Individual infobox
+|name = Dorcus Twelvetrees
+|born = Before [[1773]],<ref>Based on the fact that she had already graduated from Ilvermorny in 1790.</ref> [[North America]]
+|died = 
+|title = 
+|marital = 
+|alias =
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">Since her father was a wizard, she was not a [[Muggle-born]] witch.</ref>
+|nationality = [[United States of America|American]]<ref name="pottermore-rappaport" />
+|species = [[Human]]<ref name="pottermore-rappaport" />
+|gender = Female<ref name="pottermore-rappaport" />
+|hair =
+|skin =
+|eyes = 
+|height = 
+|weight = 
+|family = *[[Aristotle Twelvetrees]] (father)<ref name="pottermore-rappaport" />
+*[[Twelvetrees family]]<ref name="pottermore-rappaport" />
+|patronus = 
+|boggart = 
+|animagus = 
+|wand = [[Dorcus Twelvetrees's wand|Unknown length, wood and wand core]]<ref name="pottermore-rappaport" />
+|house = 
+|loyalty = *[[Ilvermorny School of Witchcraft and Wizardry]]<ref name="pottermore-rappaport" />
+*[[Twelvetrees family]]<ref name="pottermore-rappaport" />
+|theme = ilvermorny
+}}
+'''Dorcus Twelvetrees''' was an [[United States of America|American]] [[wizardkind|witch]] who lived during the [[18th century]].<ref name="pottermore-rappaport">"[https://www.pottermore.com/collection-episodic/history-of-magic-in-north-america-en History of Magic in North America: Rappaport's Law]" on {{PM}}</ref> The daughter of [[Aristotle Twelvetrees]], she was responsible for one of the greatest ever breaches of the [[International Statute of Wizarding Secrecy|International Statute of Secrecy]], which led to the passage of [[Rappaport's Law]].<ref name="pottermore-rappaport" />
+
+==Biography==
+===Early life===
+Dorcus was born into a [[Twelvetrees family|wizarding family]] sometime in the [[18th century]].<ref name="pottermore-rappaport" /> She attended [[Ilvermorny School of Witchcraft and Wizardry]], but did not do well academically, and apparently did not go on to pursue a career afterwards.<ref name="pottermore-rappaport" /> At the time her father, [[Aristotle Twelvetrees]], rose to the office of [[Keeper of Treasure and Dragots]] under [[President of the Magical Congress of the United States of America|President]] [[Emily Rappaport]], Dorcus was still living with her parents, and rarely used [[magic]].<ref name="pottermore-rappaport" /> Described as "pretty" but "dim", her primary interests included fashion, styling her [[Human hair|hair]], and organising parties.<ref name="pottermore-rappaport" />
+
+===Bartholomew Barebone affair===
+Dorcus met [[Bartholomew Barebone]], a handsome [[Muggle|No-Maj]] at a neighbourhood [[picnic]] one day. She was instantly smitten and performed "[[spell|little tricks]]" for him.<ref name="pottermore-rappaport" /> Interpreting his interest as nothing more than politeness and curiosity, she duly answered his "artless" queries.<ref name="pottermore-rappaport" /> In the course of these interactions, she revealed to him the locations of Ilvermorny and the headquarters of the [[Magical Congress of the United States of America]]. She also provided him information about the [[International Confederation of Wizards]] and the manners in which the wizarding community endeavoured to hide itself from the [[Muggle world|No-Maj world]].<ref name="pottermore-rappaport" />
+
+Unbeknownst to her, Bartholomew was in fact descended from a [[Scourers|Scourer]] line, meaning that he vehemently believed in the existence of [[magic]], and that all witches and wizards were evil.<ref name="pottermore-rappaport" /> Having manipulated Dorcus into revealing as much about the [[wizarding world]] as he could, he proceeded to steal her [[wand]].<ref name="pottermore-rappaport" /> He showed the wand to as many newspaper reporters as possible, and a few were motivated to publish pictures of it, describing it as having a "kick like a [[mule]]" when waved.<ref name="pottermore-rappaport" /> He also printed and distributed leaflets listing the wizarding addresses Dorcus had revealed to him, and sent letters to important No-Majs, prompting some to investigate whether the "evil occult parties" he described were actually occurring.<ref name="pottermore-rappaport" />
+
+After shooting at a group of No-Majs he wrongly assumed to be [[Magical Congress of the United States of America]] employees, Bartholomew was arrested by No-Maj authorities, but the damage had already been done.<ref name="pottermore-rappaport" /> The MACUSA was left struggling to cope with one of the most massive breaches of the [[International Statute of Wizarding Secrecy|International Statute of Secrecy]] in history.<ref name="pottermore-rappaport" /> They attempted to [[Memory Charm|modify]] the memories of all No-Majs exposed to the leaked information, but, as President Rappaport testified at a public inquiry, there was no way to be certain they had obliviated everyone.<ref name="pottermore-rappaport" />
+
+===Imprisonment and later life===
+Many within the magical community advocated imprisoning Dorcus for life for her actions.<ref name="pottermore-rappaport" /> Some even called for her to be executed.<ref name="pottermore-rappaport" /> However, she ultimately spent only a year in prison, emerging a traumatised and thoroughly disgraced woman.<ref name="pottermore-rappaport" /> She lived out the rest of her days in isolation, with only a mirror and a [[parrot]] to keep her company.<ref name="pottermore-rappaport" />
+
+The Twelvetrees-Barebone affair prompted the passage of [[Rappaport's Law]] in [[1790]].<ref name="pottermore-rappaport" /> This law banned American wizards and witches from [[marriage|marrying]] or befriending No-Majs, and led to the total segregation of the No-Maj and wizarding communities in the United States.<ref name="pottermore-rappaport" />
+
+==Appearances==
+*{{PM}} {{1st mention}}
+*{{WW}} {{Mention}}
+*{{FB|F}} {{c|Mentioned on a newspaper}}
+*{{LEGO|D}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Twelvetrees, Dorcus}}
+[[de:Dorcus Twelvetrees]]
+[[es:Dorcus Twelvetrees]]
+[[pl:Dorka Twelvetrees]]
+[[ru:Доркас Твелвтрис]]
+[[fr:Dorcus Douzebranches]]
+[[Category:18th century births]]
+[[Category:American individuals]]
+[[Category:Convicts]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Ilvermorny students]]
+[[Category:Secrecy breaches]]
+[[Category:Twelvetrees family]]
+[[Category:Wizards]]

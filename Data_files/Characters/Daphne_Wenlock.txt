@@ -1,0 +1,43 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Daphne Wenlock
+|born = 
+|died = 
+|blood = 
+|nationality = [[England|English]]<ref name="WU"/>
+|marital = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Female<ref name="WU"/>
+|hair = 
+|skin = 
+|eyes = 
+|height = 
+|weight = 
+|family = [[Bridget Wenlock]] (likely ancestor)<ref name="WU"/>
+|romances = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|house = Pub landlady<ref name="WU"/>
+|job = 
+|loyalty = Wenlock family<ref name="WU"/>
+}}
+'''Daphne Wenlock''' was an [[England|English]] [[Wizardkind|witch]], who was presumably a descendent of [[Bridget Wenlock]]. By [[2020]], she was the landlady of a [[Wizarding world|wizarding]] inn at number seven, Aldwych Road, [[Tinworth]].<ref name="WU">{{WU}}</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Wenlock, Daphne}}
+{{Character-stub}}
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Pub landlords and landladies]]
+[[Category:Wizards]]

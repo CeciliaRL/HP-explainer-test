@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = 
+|born = [[31 July]] [[1979]] - 31 July [[1982]]<ref>He was at least in his first year at Hogwarts during the [[1993–1994 school year]] and was at school during the [[1996–1997 school year]]. [[31 July]] is the latest possible birthday to be able to send a return owl to the acceptance letter to go to school that year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="house">{{POA|G}} {{C|PS2 version}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Hufflepuff]]
+}}
+'''Graham Romsey''' was a [[Hufflepuff]]<ref name="house" /> [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He competed in the school [[Exploding Snap]] tournament during the [[1996–1997 school year]].
+
+==Etymology==
+The name "Graham" comes from a Scottish surname which was originally derived from an English place name which probably meant "gravelly homestead" in Old English. The surname was first taken to Scotland in the 12th century by the Norman baron William de Graham. A famous bearer was Alexander Graham Bell (1847-1922), the Scottish-Canadian-American inventor who devised the telephone.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts Exploding Snap}}
+{{DEFAULTSORT:Romsey, Graham}}
+[[pl:Graham Romsey]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Exploding Snap players]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

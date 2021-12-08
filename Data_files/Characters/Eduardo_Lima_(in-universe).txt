@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:EduardoLimaInUniverse.jpg|250px]]
+|name = Eduardo Lima
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HPLE"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HPLE"/>
+|gender = Male<ref name="HPLE"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[E. Lima]] (possibly)
+*[[Edwardus Lima]] (possibly)
+*[[Mina Lima]] (possibly)
+*[[Eduardo Lima Filho]] (possible son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Eduardo Lima''' was a [[Great Britain|British]] [[wizardkind|wizard]] who the [[British Ministry of Magic|Ministry of Magic]] kept tabs on while it was under [[Fall of the Ministry of Magic|Death Eater control]] in [[1997]]. His file was signed by Chief Registration Authority [[F. L. Wakefield]].<ref name="HPLE">{{HPLE|G}} {{See image|File:EduardoLimaMinistryPaperwork.JPG}}</ref>
+
+==Behind the scenes==
+*This character is tribute to [[Eduardo Lima]], a graphic artist who worked on every film from ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'' onward, and whose photo is featured in the prop file.
+
+==Appearances==
+*{{DH|F1}} {{1st}} {{Photograph}}
+*{{HPLE}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Lima, Eduardo}}
+
+[[de2:Eduardo Lima (innerhalb des Universums)]]
+[[es:Eduardo Lima (mago)]]
+[[pl:Eduardo Lima (czarodziej)]]
+[[pt-br:Eduardo Lima (bruxo)]]
+[[Category:British individuals]]
+[[Category:Lima family|Eduardo]]
+[[Category:Males]]
+[[Category:Wizards]]

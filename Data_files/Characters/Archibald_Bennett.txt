@@ -1,0 +1,51 @@
+{{Transcribed image|File:ArchibaldBennettSign.jpg}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Archibald Bennett
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSF"/>
+|gender = Male<ref name="PSF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Wigmaker, Shopkeeper<ref name="PSF"/>
+|house = 
+|loyalty = *[[Diagon Alley]]<ref name="PSF"/>
+*[[Hogsmeade]]<ref name="LEGOY1">{{LEGO|Y1}}</ref><ref name="LEGOY2">{{LEGO|Y2}}</ref>
+}}
+'''Archibald Bennett''' was a wigmaker who ran a shop in [[Diagon Alley]]<ref name="PSF">{{PS|F}}</ref> and in [[Hogsmeade]].<ref name="LEGOY1"/><ref name="LEGOY2"/>
+
+==Etymology==
+The name "Archibald" was derived from the Germanic elements ''ercan'' "genuine" and ''bald'' "bold". The first element was altered due to the influence of Greek names beginning with the element αρχος (''archos'') meaning "master". This name was brought to England by the Normans. It first became common in Scotland in the Middle Ages.
+
+==Appearances==
+*{{PS|F}} {{Name on sign}}
+*{{LEGO|Y1}} {{Name on sign}}
+*{{LEGO|Y2}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley}}
+{{Hogsmeade}}
+{{DEFAULTSORT:Bennett, Archibald}}
+[[es:Archibald Bennett]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

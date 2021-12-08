@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Ryotaro Tanaka.png|250px]]
+|name = 
+|born = before [[1977]], [[Japan]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Japan]]ese
+|alias = 
+|title = *[[Quidditch Captain|Captain]]
+*[[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Black with a Gold ponytail
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch Captain|Captain]] and [[Chaser]] for the [[Japanese National Quidditch team]]
+|house = 
+|loyalty =*[[Mahoutokoro]]<ref>{{WW|mahoutokoro}}</ref>
+*[[Japanese National Quidditch team]]
+}}
+'''Ryotaro Tanaka''' was a Japanese [[Wizardkind|wizard]] who was the [[Japanese National Quidditch team]]'s captain during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]]. He played as a [[Chaser]] and was the team's Captain.
+
+During the [[1996–1997 school year]], Tanaka's [[Chocolate Frog Card]] could be won by beating [[Scott Ancrum]] at an [[Exploding Snap]] challenge.<ref>{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': As a former professional [[Chaser]] of the [[Japanese National Quidditch team]], he is a proficient flyer.
+
+==Appearances==
+*{{QWC}}
+*{{HBP|G}} {{C|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Tanaka, Ryotaro}}
+
+[[pl:Ryotaro Tanaka]]
+[[fr:Ryotaro Tanaka]]
+[[ru:Рётаро Танака]]
+[[Category:20th century births]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Japanese individuals]]
+[[Category:Mahoutokoro students]]
+[[Category:Males]]
+[[Category:Quidditch Captains]]
+[[Category:Wizards]]

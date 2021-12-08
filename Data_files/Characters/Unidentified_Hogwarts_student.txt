@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified Hogwarts student
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title =
+|signature = 
+|species = [[Human]]<ref name="WBS">{{WBS}}</ref>
+|gender = Male<ref name="WBS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core
+|patronus =
+|job =
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="WBS"/>
+}}
+This '''student''' was a [[Wizardkind|witch or wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]].<ref name="WBS"/>
+
+==Biography==
+This student attended [[Hogwarts School of Witchcraft and Wizardry]] in their youth. They were given permission to be in the [[Restricted Section]] to check out a copy of ''[[Book of Spells]]''. One night, he happened upon their [[Unidentified male Charms Professor|Charms professor]]. After being admonished for being there, the professor promised not to take any [[house points]] and inquired as to what they were doing there. They produced a note indicating that they were permitted to be in that section to check out a copy of ''Book of Spells''. The professor was impressed that this student got permission for such a task, and offered to guide them through the book's contents.<ref name="WBS"/>
+
+Together, the two explored the old book, the professor giving them occasional advice on how to complete the book's assigned tasks and offering his own opinions on Goshawk's words, as well as awarding house points when the student achieved a particularly remarkable task. In time, the student had learned all the spells the book had to offer, and the professor expressed his pride in his student.<ref name="WBS"/>
+
+==Behind the scenes==
+*The professor's reaction to the player's permission note depends on their [[Hogwarts Houses|House]]. For example, if the player's character is a [[Gryffindor]], he will say that he hopes they know what they are doing, and if they are a [[Slytherin]], he will assume their permission note is falsified, and that they forged the signature.
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==References==
+{{Reflist}}
+
+[[Category:British or Irish individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

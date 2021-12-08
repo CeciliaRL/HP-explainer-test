@@ -1,0 +1,38 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Paul Gallico
+|hideb=
+|born=[[26 July]], [[1897]]
+|died=[[15 July]], [[1976]]
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Author
+|loyalty=
+}}'''Paul Gallico''' ([[26 July]], [[1897]] – [[15 July]], [[1976]]) was a [[Non-magic people|Muggle]] author who wrote ''[[Manxmouse]]''.<ref name="JKRS">{{JKRS}}</ref>
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Paul Gallico]]
+[[pl:Paul Gallico]]
+[[Category:1897 births|Gallico, Paul]]
+[[Category:1976 deaths]]
+[[Category:American individuals|Gallico, Paul]]
+[[Category:Authors|Gallico, Paul]]
+[[Category:Males|Gallico, Paul]]
+[[Category:Muggles|Gallico, Paul]]

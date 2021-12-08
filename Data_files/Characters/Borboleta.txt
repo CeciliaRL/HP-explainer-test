@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:Madam Borboleta.jpg|250px]]
+|name=Madam Borboleta
+|hideb=
+|born=Before [[1913]]
+|died=
+|blood=
+|alias=
+|title=[[Madam]]
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height= 
+|hair=Brown
+|eyes=
+|skin=White
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Founder of [[Madam Borboleta Candies Ltd.]] (presumably)
+|house=
+|loyalty=
+}}
+'''Madam Borboleta''' was a [[Wizardkind|witch]] who presumably founded the company [[Madam Borboleta Candies Ltd.]] in [[1913]].<ref>See [[:File:Sugared Butterfly Wings2.jpg|this image]]</ref>
+
+==Etymology==
+*''Borboleta'' is a Portuguese noun meaning "butterfly." However, Borboleta is neither a common Portuguese name nor surname.
+
+==Appearances==
+*{{POA|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Madame Borboleta]]
+[[Category:Confectioners|Borboleta]]
+[[Category:Females|Borboleta]]
+[[Category:Wizards|Borboleta]]

@@ -1,0 +1,49 @@
+{{Cut content}}
+{{Individual infobox
+|theme=spirit
+|image=
+|name=Black Knight 
+|hideb=b
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=*[[Human]] (formerly)
+*[[Ghost]]
+|gender=Male (likely)
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=f
+|family=
+|hidem=m
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+The '''Black Knight''' was a [[ghost]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="pottermoreghosts"/>
+
+==Behind the scenes==
+*The Black Knight was one of the original ghosts created by [[J. K. Rowling]] but did not survive final edits.<ref name="pottermoreghosts">{{WW|hogwarts-ghosts}}</ref>
+*Though the Black Knight is never mentioned by name in any of the novels, it is possible that the [[knight with an arrow sticking out of his forehead]] that attended [[Nicholas de Mimsy-Porpington's five-hundredth Deathday Party]] was intended to be this character.
+
+==Appearances==
+*{{PS}} {{C|Cut from final drafts}}
+*{{PM}} {{1st mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Czarny rycerz]]
+[[ru:Чёрный рыцарь]]
+[[Category:Ghosts]]
+[[Category:Males]]
+[[Category:Wizards]]

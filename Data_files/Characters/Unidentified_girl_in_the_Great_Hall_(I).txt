@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Unidentified girl in the Great Hall
+|nationality={{GBorIE}}
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="HBPF"/>
+|gender=Female<ref name="HBPF"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=yes
+|family=
+|hidem=yes
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=[[Gryffindor]], [[Hufflepuff]] or [[Ravenclaw]]<ref name="House">Since she complimented Ron Weasley, it is unlikely that she was in [[Slytherin]], as they on the other hand tended to insult him.</ref>
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPF"/>
+}}
+{{Quote|Looking good, Ron.|The girl|Harry Potter and the Half-Blood Prince (film)}}
+This '''individual''' was a [[Wizardkind|witch]] and a student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. In [[1996]] she commented that [[Ronald Weasley]] was looking good in his [[Quidditch]] [[Keeper]] helmet.<ref name="HBPF">{{HBP|F}}</ref>
+
+==Appearances==
+*{{HBP|F}} {{1st}} {{Comment|Heard only}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

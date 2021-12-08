@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = [[File:800px-Battle Dept Mysteries.jpg|250px]]
+|name = Unidentified Aurors stationed at the Great Hall
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBPF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="HBPF"/>
+|gender = Males<ref name="HBPF"/>
+|height = 
+|weight = 
+|hair = Dark<ref name="HBPF"/>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Auror]]s<ref name="HBPF"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="HBPF"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPF"/>
+}}
+These '''four [[Auror]]s''' were tasked by then [[Minister for Magic]], [[Rufus Scrimgeour]], with providing extra security at [[Hogwarts School of Witchcraft and Wizardry]] during the [[1996–1997 school year]] in light of the [[Return of Lord Voldemort]]. They were present in the [[Great Hall]] during the [[Start-of-Term Feast]], with three of them stationed outside the doors, and a fourth one standing guard inside.<ref name="HBPF">{{HBP|F}}</ref>
+
+==Behind the scenes==
+*While only seen from a distance, the fourth Auror can briefly be seen pacing in the background by the doors during the welcoming speech, and again when a part of their brown coat are visible in the left corner of the open door behind the three male Aurors at the door. Though not possible to make out any details of how this fourth Auror looks like, said person have noticeably longer hair than the ones outside, seemingly being the same length as Tonks has in the movie. Seen as it might seem to be three men and one woman present, this may indeed be [[Nymphadora Tonks|Tonks]], [[John Dawlish|Dawlish]], [[Proudfoot]] and [[Savage]], all of whom was referenced in the sixth book as having been stationed in Hogsmeade for the same reason.
+*One of them was presumably the [[Unidentified male Auror at Hogwarts]].
+
+==Appearances==
+*{{HBP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+
+[[es:Aurores en Hogwarts]]
+[[pt-br:Aurores não identificados estacionados no Salão Principal]]
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:British individuals|Aurors stationed at the Great Hall]]
+[[Category:Males|Aurors stationed at the Great Hall]]
+[[Category:Unidentified individuals|Aurors stationed at the Great Hall]]
+[[Category:Wizards|Aurors stationed at the Great Hall]]

@@ -1,0 +1,34 @@
+{{Transcribed image|File:Janer&Pelowski.png}}
+{{Individual infobox
+|image = [[File:UnidentifiedSoapActress.jpg|250px]]
+|name = Unidentified soap actress
+|blood = [[Non-magic people|Muggle]]
+|nationality = [[Great Britain|British]]
+|species = [[Human]]
+|gender = Female
+|hair = Blonde
+|skin = Pale
+|job = Actress
+|loyalty = [[Daily Express]]
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidem = hide
+|hidea = 
+}}
+This blonde-haired '''actress''' starred on a [[Great Britain|British]] [[soap (programme)|soap]] during the [[1990s]]. 
+
+==History==
+She wrote an article, entitled "[[MY SECRET SHAME]]", which was published on page 5 of the [[2 August]] [[1995]] issue of the ''[[Daily Express]]''. This article was teased on the front page of the newspaper with a photo by [[Chris Lunney]] of the actress wearing dark sunglasses and fending off [[camera]]s.<ref name="HPLE">{{HPLE|G}} {{see image|File:DailyExpress.png}}</ref>
+
+==Appearances==
+*{{OOTP|F}} {{1st}} {{Photograph}}
+*{{HPLE|G}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Actors]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified Muggles‎]]

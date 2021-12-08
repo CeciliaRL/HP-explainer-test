@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Magnus MacDonald
+|born = Before [[1960s]]
+|died = After [[1960s]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = Dent-Head<ref name="QTAR2"/>
+|title = 
+|signature = 
+|species = [[Human]]<ref name="QTAR2"/>
+|gender = Male<ref name="QTAR2"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Mary Macdonald]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Creaothceann]]<ref name="QTAR2"/>
+}}
+'''Magnus "Dent-Head" MacDonald''' (fl. [[1960s]]) was a [[Wizardkind|wizard]] who unsuccessfully campaigned to lift the [[British Ministry of Magic|Ministry of Magic]]'s ban on the game of [[Creaothceann]] in the [[1960s]].<ref name="QTAR2">{{QTA|R|2}}</ref>
+
+==Etymology==
+The name "Magnus" is a Latin name meaning "great". It was borne by 7th-century saint who was a missionary in Germany. It became popular in Scandinavia after the time of the 11th-century Norwegian king Magnus I, who was said to have been named after Charlemagne, or Carolus Magnus in Latin. The name was borne by six subsequent kings of Norway as well as three kings of Sweden. It was imported to Scotland and Ireland during the Middle Ages.
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:MacDonald, Magnus}}
+
+
+[[pl:Magnus Macdonald]]
+[[fr:Magnus MacDonald]]
+[[zh:马格纳斯·麦克唐纳]]
+[[ru:Магнус Макдональд]]
+[[de:Magnus Macdonald]]
+[[it:Magnus MacDonald]]
+[[no:Magnus MacDonald]]
+[[pt-br:Magno MacDonald]]
+[[Category:Activists]]
+[[Category:British individuals]]
+[[Category:Macdonald family|Magnus]]
+[[Category:Males]]
+[[Category:Wizards]]

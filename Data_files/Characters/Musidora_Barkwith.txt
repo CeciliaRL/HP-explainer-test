@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Musidora Barkwith.jpg|250px]]
+|name = Musidora Barkwith
+|born = [[1520]]<ref name="COSG">{{COS|G}}</ref>
+|died = [[1666]] (aged 145-146)<ref name="COSG">{{COS|G}}</ref>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COSG">{{COS|G}}</ref>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG">{{COS|G}}</ref>
+|gender = Female<ref name="COSG">{{COS|G}}</ref>
+|height = 
+|weight = 
+|hair = Grey<ref name="COSG">{{COS|G}}</ref>
+|eyes = Blue<ref name="COSG">{{COS|G}}</ref>
+|skin = White<ref name="COSG">{{COS|G}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Composer<ref name="COSG">{{COS|G}}</ref>
+|house = 
+|loyalty = 
+}}
+'''Musidora Barkwith''' ([[1520]]–[[1666]]) was a [[Wizardkind|witch]] and composer. Her unfinished work, the ''[[Wizarding Suite]]'', featured an [[Exploding Tuba]]. It has been banned ever since a performance in [[1902]] blew the roof off of the [[Ackerley Town Hall|Town Hall]] of [[Ackerley]]. For this event, she was immortalised on a bronze [[Chocolate Frog Card]].<ref name="COSG">{{COS|G}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Musidora Barkwith}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+[[de:Musidora Barkwith]]
+[[fi:Musidora Barkwith]]
+[[fr:Musidora Barkwith]]
+[[ru:Мусидора Барквиз]]
+[[pl:Musidora Barkwith]]
+
+{{DEFAULTSORT:Barkwith, Musidora}}
+[[Category:1520 births]]
+[[Category:1666 deaths]]
+[[Category:Blue-eyed individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Centenarians]]
+[[Category:Composers]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Wizards]]

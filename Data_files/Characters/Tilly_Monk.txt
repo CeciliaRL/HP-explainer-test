@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Tilly Monk
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Dave Monk]] (husband)
+*[[Jack Monk]] (son)
+*[[Tom Monk]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Monk family]]
+}}'''Tilly Monk''' was a [[Non-magic people|Muggle]] woman, the wife of [[Dave Monk]], and the mother of twin sons [[Jack Monk|Jack]] and [[Tom Monk|Tom]].<ref name="HPLE"/>
+
+==Biography==
+Eventually, Tilly married a man named [[Dave Monk]].<ref name="HPLE"/>
+
+On [[20 May]], [[1995]], her sons were delivered prematurely, receiving immediate care from an "amazing neonatal team." They were quickly taken to the [[Neonatal Intensive Care Unit]] (NICU), and Tilly did not learn the news of their birth until several hours later, when she "came around fully" (presumably from anaesthetic she was administered). Hospital staff gave the couple photos of both babies, which the new parents used to help choose names for the boys. A few hours after waking up, Tilly was finally taken by Dave to see the twins in the NICU, where they were being kept in incubators, receiving vital fluids through intravenous lines and breathing with the help of mechanical ventilators.<ref name="HPLE"/>
+
+Five days after the twins' birth, Tilly was able to hold Tom in her arms for the first time, giving her a "huge boost." The couple were able to take their sons home after they had spent a total of twelve weeks in the NICU. Her husband wrote an article about their miraculous birth, which was featured on the front page of the [[12 August]], [[1995]] issue of ''[[Metro]]'', under the title "''Miracle babies make it''".<ref name="HPLE">{{HPLE|G}} {{see image|File:Metro.png}}</ref>
+
+==Appearances==
+*{{OOTP|F}} {{1st Mention}}
+*{{HPLE}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Monk, Tilly}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Monk family]]
+[[Category:Muggles]]
+[[Category:Parents]]

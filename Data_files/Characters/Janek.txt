@@ -1,0 +1,47 @@
+{{Transcribed image|File:Janer&Pelowski.png}}
+{{Individual infobox
+|theme = muggle
+|image =
+|name= Janek
+|hideb =
+|born = Before [[1926]]<ref name="pottermorevid"/>
+|died =
+|blood = [[Non-magic people|No-Maj]]<ref name="pottermorevid"/>
+|alias =
+|title =
+|nationality = [[United States of America|American]]<ref name="pottermorevid"/>
+|hidep=
+|species = [[Human]]<ref name="pottermorevid"/>
+|gender =
+|height =
+|hair = 
+|eyes =
+|skin =
+|hidef = hide
+|family =
+|hidem = hide
+|animagus =
+|boggart =
+|wand =
+|patronus =
+|hidea =
+|job = Tailor and co-owner of [[Janek & Pelowski Co.]]<ref name="pottermorevid"/>
+|house =
+|loyalty = [[Janek & Pelowski Co.]]<ref name="pottermorevid"/>
+}}
+
+'''Janek''' was an [[United States of America|American]] [[Muggle|No-Maj]] who worked as a tailor, and co-owned [[Janer & Pelowski Co.]], which operated in [[New York]] in the [[1920s]], along with [[Pelowski]].<ref name="pottermorevid">{{PM}} - [https://www.facebook.com/pottermore/videos/1110333645667665/ Fantastic Beasts and Where to Find Them: Behind the Scenes Feature] {{see image|File:Janer&Pelowski.png}}</ref> 
+
+==Appearances==
+*{{FB|F}} {{1st Mention}} {{Name on sign}}
+*{{PM}} {{Mention}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Janer}}
+[[pl:Janek]]
+[[Category:American individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Muggles]]
+[[Category:Shop owners]]
+[[Category:Tailors]]

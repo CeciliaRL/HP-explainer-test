@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Ross Gibberd
+|born = Between [[1975]] and [[1978]],<ref>To have been a Prefect in the 1993-1994 school year, he would have had to have been in his fifth year or up by that point, thus putting his possible range of birth dates between [[1 September]], [[1975]] and [[31 August]], [[1978]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Ross Gibberd (II)]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *Gibberd family
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Ross Gibberd''' was a student who began attending [[Hogwarts School of Witchcraft and Wizardry]] between [[1987]] and [[1989]]. By the [[1993-1994 school year]], he had been made a [[Prefect]], and was tasked with patrolling areas of the school off limits to students.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}} 
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Gibberd, Ross}}
+[[pl:Ross Gibberd (I)]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts prefects]]
+[[Category:Males]]
+[[Category:Sorted in the 1980s]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

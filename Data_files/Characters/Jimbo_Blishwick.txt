@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:JimboBlishwick.jpg|250px]]
+|name = Jimbo Blishwick
+|born = 
+|died = 
+|blood = [[Pure-blood]]<ref>If he wasn't a Pure-blood, [[Misapinoa Black|his wife]] would have been disowned and blasted off the family tree, which did not happen.</ref>
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White
+|family = [[Misapinoa Black]] (wife)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *Blishwick family
+*[[House of Black|Black family]]
+}}
+'''Jimbo Blishwick''' was a [[pure-blood]] [[Wizardkind|wizard]]. He married pure-blood witch [[Misapinoa Black]].<ref>{{OOTP|F}}</ref>
+
+==Behind the scenes==
+*This character appears only on the version of the Black family tree shown in {{OOTP|FA}}. He was not included on the version of the tree which [[J. K. Rowling]] gave to a charity auction in [[2006]].<ref>"[http://www.hplex.info/wizards/blackfamilytree.html Black Family Tree]" on The Harry Potter Lexicon</ref> However, according to director [[David Yates]], Rowling provided the filmmakers with a copy of the Black family tree going back eight generations.<ref>"[http://web.archive.org/web/20071218224958/http://www.the-leaky-cauldron.org/2007/5/24/empire-magazine-feature-on-ootp 'Empire' Magazine Feature on OotP]" from The Leaky Cauldron</ref> The filmmakers presumably received a more complete version of the tree than the one auctioned off, which only goes back six generations.
+
+==Etymology==
+''Jimbo'' is a diminutive form of the given name James.
+
+==Appearances==
+[[File:Misapinoa Black.jpg|150px|thumb|right|Blishwick and his wife on the Black family tree]]
+*{{OOTP|F}} {{C|Appears on Black family tapestry}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Blishwick, Jimbo}}
+
+[[fr:Jimbo Blishwick]]
+[[ru:Джимбо Блишвик]]
+[[pl:Jimbo Blishwick]] 
+[[Category:Blishwick family]]
+[[Category:British individuals]]
+[[Category:House of Black]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

@@ -1,0 +1,22 @@
+{{Individual infobox
+|name = Albert L. McCausland
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|job = President of [[Steen National Bank]]
+|loyalty = [[Steen National Bank]]
+|theme = muggle
+}}'''Albert L. McCausland''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who served as the president of [[Steen National Bank]] in [[New York]] in [[1926]].<ref>{{CB|46}}</ref>
+
+==Appearances==
+*{{FB|F}} {{C|Mentioned on a document}}
+*{{CB}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:McCausland, Albert L.}}
+[[Category:American individuals]]
+[[Category:Bankers]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Steen National Bank employees]]

@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified young wizard
+|born = [[Middle Ages]]<ref name="POAG"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = [[Unidentified Princess]]<ref name="POAG"/>
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''young man''' was a [[Wizardkind|wizard]] who lived during the [[Middle Ages]]. [[Leticia Somnolens]], the local [[Hag]], was jealous of [[Unidentified King's daughter|the King's daughter]] and tricked her into pricking her finger on a spindle tainted with [[Draught of Living Death]], sending her into a deep sleep. This young wizard smeared his lips with [[Wiggenweld Potion]], and then kissed the princess, curing her and bringing her out of the sleep. His story appears to be the source of inspiration for the [[Non-magic people|Muggle]] fairy tale, [[Sleeping Beauty]].<ref name="POAG">{{POA|G}}</ref>
+
+==Appearances==
+*{{POA|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Sauveteur de la victime de Leticia Somnolens]]
+[[Category:European individuals]]
+[[Category:Historical figures]]
+[[Category:Males|Young wizard]]
+[[Category:Unidentified individuals|Young wizard]]
+[[Category:Wizards|Young wizard]]

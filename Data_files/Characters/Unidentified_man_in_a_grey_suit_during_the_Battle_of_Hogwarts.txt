@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:HPDH2-1255.jpg|250px]]
+|name=Unidentified wizard
+|hideb=hide
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DHF2"/>
+|gender=Male<ref name="DHF2"/>
+|height=
+|hair=Bald<ref name="DHF2"/>
+|eyes=
+|skin=Light<ref name="DHF2"/>
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who fought at [[Hogwarts School of Witchcraft and Wizardry]] in [[1998]] during the [[Battle of Hogwarts]], and was present during [[Tom Riddle|Lord Voldemort's]] "victory" speech. He survived the battle.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Physical appearance==
+This individual was a male [[human]] with light skin and a bald head. During the Battle of Hogwarts, he wore a grey suit.<ref name="DHF2"/>
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

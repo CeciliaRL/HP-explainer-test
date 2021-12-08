@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = KarlLimpley.png
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+**[[Duelling Club]]
+}}
+{{Quote|Fancy a duel, [[Harry Potter|Harry]]?|Karl in a [[Viaduct Courtyard]]|Harry Potter and the Half-Blood Prince (video game)}}
+'''Karl Limpley''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990]]s, who was a member of [[Hufflepuff]] house.
+
+==Biography==
+On the [[Hogwarts Express]] in [[1996]], he agreed to trade [[Harry Potter]] an issue of ''[[Which Broomstick?]]'' for three [[Chocolate Frog Card]]s, as Harry needed a magazine to give to [[Jason Huntingdon]] for a pair of [[Spectrespecs]]. Karl said he thought Jason might be ''"making some kind of fashion statement"'' by wearing Spectespecs, and that he would never wear the glasses himself, even though they're free. Later in the year, he ran a [[Duelling Club]] in the [[Clock Tower Courtyard]], which included [[Irfan Mustaq]] and [[Neil Randall]] as members.<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+The name "Karl" is the German and Scandinavian form of Charles. This was the name of seven emperors of [[Austria]]. Other famous bearers include Karl Marx (1818-1883), the German philosopher and revolutionary who laid the foundations for communism, and Karl Jaspers (1883-1969), a German existentialist philosopher.
+
+==Appearances==
+*{{POA|G}} {{1st}}
+*{{HBP|G}} {{C|NDS and PSP version only}}
+
+==Notes and references==
+{{Reflist}}
+{{Duelling Club}}
+{{DEFAULTSORT:Limpley, Karl}}
+[[es:Karl Limpley]]
+[[fr:Karl Limpley]]
+[[pl:Karl Limpley]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Duelling Club members]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

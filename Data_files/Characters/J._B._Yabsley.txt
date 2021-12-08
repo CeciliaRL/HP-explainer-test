@@ -1,0 +1,48 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=James Benjamin "J. B." Yabsley
+|hideb=
+|born=
+|died=c. [[1897]]
+|blood=[[Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Watchmaker
+|house=
+|loyalty=
+}}
+'''James Benjamin Yabsley''' was an [[England|English]] [[Muggle]] who founded a watch-making company in [[London]] in [[1877]].<ref name="culme">[https://books.google.com/books?id=SprrAAAAMAAJ&q=%22j.+b.+yabsley%22&dq=%22j.+b.+yabsley ''The Directory of Gold & Silversmiths, Jewellers & Allied Traders 1838-1914''] by John Culme</ref>
+
+[[Cornelius Fudge]] owned a [[Cornelius Fudge's pocket watch|pocket watch]] by J. B. Yabsley.<ref>{{POA|F}} {{see image|File:FudgePocketWatch.jpg|this]] image}}</ref>
+
+==Appearances==
+*{{POA|F}} {{Comment|Name seen pocket watch}}
+*{{GOF|F}} {{Comment|Name seen pocket watch}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Yabsley, J. B.}}
+
+[[pt-br:JB Yabsley]]
+[[Category:Clockmakers]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

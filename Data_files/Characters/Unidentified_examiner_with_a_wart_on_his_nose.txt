@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Unidentified examiner with a wart on his nose
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = *Examiner
+*[[Professor]] (possibly)
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = hidea
+|job = Examiner for the [[Wizarding Examinations Authority]]
+|house = 
+|loyalty = [[Wizarding Examinations Authority]]
+}}
+{{Quote|[Ron] had just made Harry feel rather better by telling him how he had told the examiner in detail about the ugly man with a wart on his nose in his crystal ball, only to look up and realise he had been describing his examiner's reflection.|Description|Harry Potter and the Order of the Phoenix}}
+
+This '''individual''' was an ugly [[Wizardkind|wizard]] who was a member of the [[Wizarding Examinations Authority]].
+
+==History==
+In [[1996]], he administered [[Ronald Weasley]]'s practical [[Divination]] [[Ordinary Wizarding Level|O.W.L.]]. Ron inadvertently insulted him when he seeing "an ugly man with a wart on his nose" in the [[crystal ball]], only to realise he was describing the examiner's reflection.<ref>{{OOTP|B|31}}</ref>
+
+==Appearances==
+*{{OOTP}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Ministry Departments unknown levels}}
+
+[[es:Examinador no identificado con una verruga en su nariz]]
+[[fr:Examinateur avec une verrue sur le nez]]
+[[Category:British individuals|Examiner with a wart on his nose]]
+[[Category:Males|Examiner with a wart on his nose]]
+[[Category:Unidentified individuals|Examiner with a wart on his nose]]
+[[Category:Wizarding Examinations Authority personnel]]
+[[Category:Wizards|Examiner with a wart on his nose]]

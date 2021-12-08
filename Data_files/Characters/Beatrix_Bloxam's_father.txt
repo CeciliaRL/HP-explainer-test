@@ -1,0 +1,28 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Beatrix Bloxam's father
+|species = [[Human]]<ref name="TBB"/>
+|gender = Male<ref name="TBB"/>
+|family = *[[Beatrix Bloxam]] (daughter)<ref name="TBB"/>
+*[[Nobby]] (brother or brother-in-law)<ref name="TBB"/>
+*[[Beatrix Bloxam's aunt|Sister or sister-in-law]]<ref name="TBB"/> 
+*[[Beatrix Bloxam's cousins|Nieces and nephews]]<ref name="TBB"/>
+|theme = wizard
+}}
+This '''[[Wizardkind|wizard]]''' was the father of [[Beatrix Bloxam]].<ref name="TBB"/>
+
+==Biography==
+He placed a [[Sticking Charm]] on his daughter's bedroom door at night, to keep her from sleepwalking around the house after she suffered a traumatic episode. In her diary, Beatrix referred to him as "dear papa", and stated that he had only locked her in her room out of genuine concern for her safety.<ref name="TBB">{{TBB|H}}</ref>
+
+==Appearances==
+*{{TBB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Bloxam, Beatrix's father}}
+
+[[fr:Père de Beatrix Bloxam]]
+[[pl:Ojciec Beatrix Bloxam]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎]]
+[[Category:Wizards]]

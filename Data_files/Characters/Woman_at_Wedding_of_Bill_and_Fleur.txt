@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:HPDH1-1098.jpg|250px]]
+|name=Unidentified woman
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DHF1"/>
+|gender=Female<ref name="DHF1"/>
+|height=
+|hair=Blonde<ref name="DHF1"/>
+|eyes=Dark<ref name="DHF1"/>
+|skin=Light<ref name="DHF1"/>
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=*[[William Weasley|Bill Weasley]]<ref name="DHF1"/>
+*[[Fleur Delacour]]<ref name="DHF1"/>
+}}
+This '''individual''' was a [[Wizardkind|witch]] who attended [[William Weasley|Bill Weasley]] and [[Fleur Delacour]]'s wedding in [[1997]] at [[The Burrow]]. She also helped fight the [[Death Eaters]] that [[Attack at the Burrow|attacked]] after the fall of the [[British Ministry of Magic|Ministry of Magic]] was announced by [[Kingsley Shacklebolt]]'s [[Patronus Charm|Patronus]].<ref name="DHF1">{{DH|F1}}</ref>
+
+==Behind the scenes==
+*In {{DH|F1}} she is played by [[Annette Elstob]].
+
+==Appearances==
+*{{DH|F1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

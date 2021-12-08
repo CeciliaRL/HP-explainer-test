@@ -1,0 +1,41 @@
+{{Transcribed image|File:GringottsDepositSlip.jpg}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mabel Dashalot
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mabel Dashalot''' was a [[wizardkind|witch]] who deposited two-thousand [[Galleon]]s into an account at [[Gringotts Wizarding Bank]] in [[1991]].<ref name="depositslip">See [[:File:GringottsDepositSlip.jpg|this image]] of a prop deposit slip featured in ''[[Harry Potter and the Philosopher's Stone (film)|Harry Potter and the Philosopher's Stone]]''.</ref>
+==Appearances==
+*{{PS|F}} {{comment|Name on deposit slip}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Dashalot, Mabel}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Wizards]]

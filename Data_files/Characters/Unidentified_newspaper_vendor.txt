@@ -1,0 +1,55 @@
+{{Conjecture}}
+{{Youmay|the vendor who sold copies of the ''[[Daily Prophet]]''|the [[Newspaper seller]] on [[Shaftesbury Avenue]]}}
+{{Individual infobox
+|theme = daily-prophet
+|image = [[File:Newspaper vendor.jpg|250px]]
+|name = Newspaper vendor
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTPF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTPF"/>
+|gender = Male<ref name="OOTPF"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="OOTPF"/>
+|eyes = Blue<ref name="OOTPF"/>
+|skin = White<ref name="OOTPF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Newspaper vendor for the ''[[Daily Prophet]]''<ref name="OOTPF"/>
+|house = 
+|loyalty = ''[[Daily Prophet]]''<ref name="OOTPF"/>
+}}
+{{Quote|Daily Prophet, ladies and gentlemen. Anyone for the Daily Prophet? Dumbledore: Is he daft, or is he dangerous?|Newspaper vendor|Harry Potter and the Order of the Phoenix (film)}}
+
+This male '''newspaper vendor''' was selling copies of the ''[[Daily Prophet]]'' in the [[Atrium]] of the [[British Ministry of Magic|Ministry of Magic]] on [[12 August|the day]] of [[Disciplinary hearing of Harry Potter|Harry Potter's disciplinary hearing]].<ref name="OOTPF">{{OOTP|F}}</ref>
+
+==Behind the scenes==
+*The vendor was portrayed by [[Jamie Wolpert]] in {{OOTP|FA}}.
+
+==Appearances==
+*{{OOTP|F}} {{1st}}
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}
+{{Daily Prophet employees}}
+[[es:Vendedor de periódicos no identificado]]
+[[fr:Vendeur de journaux]]
+[[pl:Sprzedawca Proroka Codziennego]]
+[[Category:Blue-eyed individuals]]
+[[Category:Articles with conjectural titles]]
+[[Category:British individuals|Newspaper vendor]]
+[[Category:Daily Prophet staff|Newspaper vendor]]
+[[Category:Males|Newspaper vendor]]
+[[Category:Unidentified individuals|Newspaper vendor]]
+[[Category:Wizards|Newspaper vendor]]

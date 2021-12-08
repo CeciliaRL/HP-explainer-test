@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = wizard
+|image = HPDH2-1282_(1).jpg
+|name = Unidentified student
+|born = on or before [[31 August]] [[1986]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Female<ref name="DHF2"/>
+|height = 
+|weight = 
+|hair = Dark<ref name="DHF2"/>
+|eyes = 
+|skin = Light Brown<ref name="DHF2"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+}}
+This '''[[Wizardkind|witch]]''' was a student at [[Hogwarts School of Witchcraft and Wizardry]] at least during the [[1997-1998 school year]]. She participated in the [[Battle of Hogwarts]] and helped a [[Unidentified Hogwarts employees#Black Hogwarts witch at the Viaduct Courtyard before the Battle of Hogwarts|teacher]] to go to the [[Viaduct Courtyard]]. It is unknown if she survived.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*She could be [[Parvati Patil]] by her light brown colour of the skin.
+*The teacher who helped was possibly [[Aurora Sinistra]].
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Marcus Hitchin's mother
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Female<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Marcus Hitchin]] (son)<ref name="HBPG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hitchin family]]<ref name="HBPG"/>
+}}
+'''Mrs Hitchin''' was the mother of [[Marcus Hitchin]], a [[Ravenclaw]] at [[Hogwarts School of Witchcraft and Wizardry]]. Her son wanted a new [[broomstick]] for [[Christmas]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Behind the scenes==
+*This particular individual was only featured in the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{HBP|G}} {{1st}} {{Comment|NDS version only}}
+
+==Notes and references==
+{{Reflist}}[[pl:Matka Marcusa Hitchina]]{{DEFAULTSORT:Hitchin, Marcus mother}}
+[[Category:British individuals|Hitchin, Mrs]]
+[[Category:Females|Hitchin, Mrs]]
+[[Category:Hitchin family]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

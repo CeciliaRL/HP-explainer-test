@@ -1,0 +1,40 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Leesk
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Mrs Leesk''' was a [[Wizardkind|witch]] living in [[New York]] city in [[1926]]. She placed a flyer in [[the Blind Pig]] advertising [[cat]]s for sale, which directed those interested to send an [[owl]] to her home at [[34 Mercer Street|34]] [[Mercer Street]].<ref name="cb">{{CB}}, page 115</ref>
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Wizards]]

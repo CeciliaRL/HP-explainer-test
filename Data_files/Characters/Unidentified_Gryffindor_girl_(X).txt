@@ -1,0 +1,50 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = gryffindor
+|image = Unidentified_Gryffindor_Girl_(I)_from_Harry_Potter_Hogwarts_Mystery.jpg
+|name = Unidentified Gryffindor Girl
+|born = Between [[1 September]] [[1972]] and [[31 August]] [[1973]]<ref name="HM">https://www.facebook.com/HPHogwartsMystery/</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Black
+|eyes = Dark
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+This '''[[Wizardkind|witch]]''' was a student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]] and was [[Sorting ceremony|sorted]] into [[Gryffindor]]. She had [[Charms (class)|Charms]]<ref name="Charms">{{HM}}</ref> class with [[Jacob's sibling]].
+
+==Biography==
+This individual started attending Hogwarts on [[1 September]] [[1984]] and was [[Sorting ceremony|sorted]] into [[Gryffindor]] [[Hogwarts Houses|House]].<ref name="Charms" />
+
+==Behind the scenes==
+*It is possible that she is [[Luisa]].
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[ru:Гриффиндорец, которому не удавались Левитационные чары]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors Sorted in 1984]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

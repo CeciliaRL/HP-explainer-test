@@ -1,0 +1,20 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|name = Laith
+|born = In or prior to [[1988]]
+|species = [[Cat]]<ref name="HM51d"/>
+|gender = Male<ref name="HM51d"/>
+|loyalty = [[Badeea Ali]] (owner)<ref name="HM51d"/>
+|theme = pet
+}}
+'''Laith''' was a [[cat]] and the pet of [[Badeea Ali]]. Badeea liked to paint [[portrait]]s of him.<ref name="HM51d">{{HM|5|1|d}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Badeea Ali's possessions]]
+[[Category:Individual cats]]
+[[Category:Males]]
+[[Category:Paintings of creatures]]

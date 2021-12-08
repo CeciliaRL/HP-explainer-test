@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Momolu Wotorson FB1.png|250px]]
+|name = Momolu Wotorson 
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|signature = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FB60"/>
+|gender = Male<ref name="FB60"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin =
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Delegate of the [[International Confederation of Wizards]]<ref name="FB60"/>
+|house = 
+|loyalty = [[International Confederation of Wizards]]<ref name="FB60"/>
+}}
+'''Momolu Wotorson''' was a [[wizardkind|wizard]] who was a delegate to the [[International Confederation of Wizards]].<ref name="FB60"/>
+
+==Biography==
+{{Quote|Theseus Scamander? The war hero?|Momolu mistaking Newt Scamander for his brother Theseus|Fantastic Beasts and Where to Find Them: The Original Screenplay}}
+On [[6 December]] [[1926]], he attended an emergency meeting at the [[Pentagram Office]] to discuss the [[magic]]al disturbances in [[New York]], inquiring if [[Newton Scamander|Newt Scamander]] was his brother [[Theseus Scamander|Theseus]] when [[Hector Podmore]] addressed him by his surname.<ref name="FB60">{{FB|S|60}}</ref>
+
+==Behind the scenes==
+*Momolu Wotorson was portrayed by [[Christian Dixon]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.<ref>{{IMDb|nm3956045|Christian Dixon}}</ref>
+*His attire is notably similar to that of [[Auror]] [[Kingsley Shacklebolt]], suggesting a cultural similarity between the two.
+*Given his name, he was most likely an [[Africa]]n wizard.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+{{ICW}}
+{{DEFAULTSORT:Wotorson, Momolu}}
+[[de:Momolu Wotorson]]
+[[de2:Momolu Wotorson]]
+[[es:Momolu Wotorson]]
+[[fr:Momolu Wotorson]]
+[[pl:Momolu Wotorson]]
+[[pt-br:Momolu Wotorson]]
+[[ru:Момолу Уоторсон]]
+[[zh:莫莫卢·沃特森]]
+[[Category:International Confederation of Wizards members]]
+[[Category:Males]]
+[[Category:Wizards]]

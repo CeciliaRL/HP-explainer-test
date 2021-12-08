@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mr Wright
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="PM"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Bowman Wright's mother|Mrs Wright]] (wife)<ref name="PM"/>
+*[[Bowman Wright]] (son) †<ref name="PM"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Wright family]]
+}}
+'''Mr Wright''' was a [[Non-magic people|Muggle]] who lived sometime during the [[Middle Ages]]. He married a [[Bowman Wright's mother|witch]], and had a [[Wizardkind|wizard]] son with her, [[Bowman Wright|Bowman]].<ref name="PM">{{PM}}</ref>
+
+==Appearances==
+*{{PS|G}} {{FWC mention}}
+*{{COS|G}} {{FWC mention}}
+*{{PM}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Wright, Bowman's father}}
+[[pl:Pan Wright]]
+[[Category:British individuals|Wright]]
+[[Category:Males|Wright]]
+[[Category:Married individuals]]
+[[Category:Muggles|Wright]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎|Wright's father]]
+[[Category:Wright family]]

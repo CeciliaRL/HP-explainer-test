@@ -1,0 +1,36 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Rosie
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidea=
+|job=Owner of [[Rosie's Garden Seed Co.]]
+|loyalty=[[Rosie's Garden Seed Co.]]
+}}
+'''Rosie''' was a [[Non-magic people|Muggle]] who owned and established [[Rosie's Garden Seed Co.]], a company that packs seeds in packages.<ref name="HPLE">{{HPLE|G}} {{see image|File:RosiesGardenSeedCoSquashSeeds.jpg}}</ref> [[Frank Bryce]], the tireless groundskeeper of the [[Riddle House]], had a packet of [[squash]] seeds from this company among his stocks in [[1994]].<ref name="HPLE" />
+
+==Appearances==
+*{{GOF|F}} {{comment|Mentioned on a seed packet}}
+*{{HPLE}} {{comment|Mentioned on a seed packet}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Shop owners]]

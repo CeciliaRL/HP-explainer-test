@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = gringotts
+|image = [[File:Blordak.png|250px]]
+|name = Blordak
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employee at [[Gringotts Wizarding Bank]]
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]
+}}
+'''Blordak'''<ref name="DIS">[https://www.youtube.com/watch?v=dFTDXIHCDUA The DIS - "''Harry Potter and the Escape from Gringotts Queue and Dragon''"] on [https://www.youtube.com/ Youtube]</ref><ref name="office">{{WWHP}} {{See image|File:Blordak'sOffice.png}}</ref> was a [[goblin]] that worked at [[Gringotts Wizarding Bank]]. He had an office opposite [[Ragnok]]'s, in the main offices at [[Diagon Alley]].<ref name="DIS"/>
+
+Blordak was encharged with showing clients opening new accounts to their vaults.<ref name="DIS"/>
+
+==Appearances==
+*{{WWHP}} {{1st}} {{Comment|Appears in [[Harry Potter and the Escape From Gringotts]]}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:Blordak]]
+[[fr:Blordak]]
+[[pl:Blordak]]
+[[Category:Bankers]]
+[[Category:British individuals]]
+[[Category:Goblins]]
+[[Category:Gringotts employees]]
+[[Category:Males]]

@@ -1,0 +1,44 @@
+{{Youmay|Ragnok the Pigeon-Toed|[[Ragnok]], the goblin who knew Bill Weasley}}
+{{Individual infobox
+|theme = goblin
+|image = 
+|name = Ragnok the Pigeon-Toed
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Author<ref name="DP"/>
+*Activist<ref name="DP"/>
+|house = 
+|loyalty = 
+}}
+'''Ragnok the Pigeon-Toed''' was a [[Goblin]]. He was an activist for goblin rights and the author of ''[[Little People, Big Plans]]''. He was a member of the [[Brotherhood of Goblins]], and gave statements to the Daily Prophet after the [[Chipping Clodbury riot]].<ref name="DP">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[1 June]], [[1999]], page 1</ref>
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[pl:Ragnok Gołębi Palec]]
+[[fr:Ragnok aux Pieds-Tordus]]
+[[Category:Activists]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Goblins]]
+[[Category:Males]]

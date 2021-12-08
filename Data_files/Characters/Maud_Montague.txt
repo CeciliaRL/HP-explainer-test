@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:MaudMontague.JPG|250px]]
+|name = Maud Montague
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HPLE"/>
+|gender = Female<ref name="HPLE"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HPLE"/>
+|eyes = Brown<ref name="HPLE"/>
+|skin = Light<ref name="HPLE"/>
+|family = *[[Graham Montague's father|Mr Montague]] (possible relative)
+*[[Graham Montague's mother|Mrs Montague]] (possible relative)
+*[[Graham Montague]] (possible relative)
+*[[Montague family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]] (possibly)<ref name="slytherin">In {{HBP|B|4}}, [[Horace Slughorn]] states that family members are often sorted into the same House. This may indicate that Maud was sorted into Slytherin, as she is likely an ancestor of Graham Montague, a Slytherin. However, there are exceptions.</ref>
+|loyalty = [[Montague family]]<ref name="HPLE"/>
+}}
+'''Maud Montague''' was a [[wizardkind|witch]] whose [[portrait]] hung at [[Hogwarts Castle]] in the [[1990s]].<ref name="HPLE">{{HPLE|PA}}</ref>
+
+It is possible that Maud was a forerunner of the [[Montague family]], which was active in the [[20th century]].
+
+==Behind the scenes==
+*The portrait of Maud Montague was based on a [http://upload.wikimedia.org/wikipedia/commons/8/8c/Giorgione_043.jpg 1506 portrait titled "''Laura''"], by [[Wikipedia:Giorgione|Giorgione (c. 1477–1510)]]
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{1st}} {{Portrait}}
+*{{HPLE}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Montague, Maud}}
+[[fr:Maud Montague]]
+[[pl:Maud Montague]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Montague family]]
+[[Category:Portraits]]
+[[Category:Wizards]]

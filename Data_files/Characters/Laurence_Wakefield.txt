@@ -1,0 +1,37 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Laurence Wakefield 
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidea=
+|job=Documentary filmmaker
+|loyalty=
+}}
+'''Laurence Wakefield ''' was a [[Non-magic people|Muggle]] documentary filmmaker. He made several documentary [[television]] series, including ''[[The Australia Series]]'', which was shown on British television in [[1997]].<ref>{{HPLE|G}} {{see image|File:RadioTimes.jpg}}</ref>
+
+==Behind the scenes==
+*This character was presumably named after [[Lauren Wakefield]], who worked as graphic artist on {{HBP}},  {{DH|F1}}, and {{DH|F2}}.<ref>"[http://www.imdb.com/name/nm3204651/ Lauren Wakefield]" on IMDb.com</ref>
+
+==Appearances==
+*{{DH|F1}} {{comment|Mentioned on magazine cover}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Wakefield, Laurence}}
+[[Category:Males]]
+[[Category:Muggles]]

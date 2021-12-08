@@ -1,0 +1,57 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Defence Against the Dark Arts Professor
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="HM26"/>
+|signature = 
+|species = [[Human]]<ref name="HM26"/>
+|gender = Male<ref name="HM26"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Professor]] of [[Defence Against the Dark Arts]] ([[1985]]–[[1986]])<ref name="HM26"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HM26"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who became the [[professor]] of [[Defence Against the Dark Arts]] at [[Hogwarts School of Witchcraft and Wizardry]] for the [[1985–1986 school year]]. However, because of [[Tom Riddle|Lord Voldemort]]'s [[Jinx on the post of Defence Against the Dark Arts teacher|jinx]] on the post, this individual needed to be replaced by the end of the year.<ref name="HM26"/>
+
+When [[William Weasley|Bill Weasley]] proceeded to teach [[Jacob's sibling]] the [[Fire-Making Spell]], he implied that the spell should have been taught in Defence Against the Dark Arts, but assumed Jacob's sibling had not learned it in the class, for the professor was hardly around or teaching, which Jacob's sibling concurred. According to his students, he was rarely present, making it difficult for them to learn from him.<ref name="HM26">{{HM|2|6}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Unidentified 1984–1985 Defence Against the Dark Arts teacher|Unidentified professor]]
+|position=[[Defence Against the Dark Arts]] [[Professor]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=[[1985]]–[[1986]]
+|successor=[[Unidentified 1986–1987 Defence Against the Dark Arts professor|Unidentified professor]]
+}}
+{{End box}}
+
+{{Staff}}
+{{Defence Against the Dark Arts}}
+[[Category:British or Irish individuals]]
+[[Category:Defence Against the Dark Arts Professors at Hogwarts]]
+[[Category:Males]]
+[[Category:Unidentified Hogwarts employees]]
+[[Category:Wizards]]

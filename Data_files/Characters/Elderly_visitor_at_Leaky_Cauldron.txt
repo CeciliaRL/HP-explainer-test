@@ -1,0 +1,46 @@
+
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Visitor at the Leaky Cauldron.jpg|250px]]
+|name = Elderly visitor at Leaky Cauldron
+|born = Before [[1970s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PSF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSF"/>
+|gender = Male<ref name="PSF"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="PSF"/>
+|eyes = 
+|skin = Light<ref name="PSF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Leaky Cauldron]]<ref name="PSF"/>
+}}
+{{Quote|Welcome back, Mr Potter, welcome back.|The wizard greets [[Harry Potter]]|Harry Potter and the Philosopher's Stone (film)}}
+This '''man''' was an elderly [[Wizardkind|wizard]] who visited the [[Leaky Cauldron]] in [[1991]] and welcomed [[Harry Potter]] back to the [[wizarding world]].<ref name="PSF">{{PS|F}} - Chapter 5 (''Diagon Alley'')</ref>
+
+==Behind the scenes==
+*In {{PS|FA}}, he is the first wizard in the Leaky Cauldron to welcome Harry, instead of [[Dedalus Diggle]] in the novel.<ref name="PS5">{{PS|B|5}}</ref>
+
+==Appearances==
+*{{PS|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

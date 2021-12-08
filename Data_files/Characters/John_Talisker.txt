@@ -1,0 +1,46 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = John Talisker
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[British]]
+|alias = 
+|title = [[Captain]]<ref name="WU">{{WU}}</ref>
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch]] player
+|house = 
+|loyalty = [[Scottish National Quidditch team]]<ref name="WU"/>
+}}
+
+'''John Talisker''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who was a [[Captain]] for the [[Scottish National Quidditch team]] and a [[Statute of Secrecy Task Force|SOS Task Force]] member in the [[2010s]].<ref name="WU"/>
+
+During an international Quidditch friendly against the [[Irish National Quidditch team]], he learned that the entire Irish team were left-handed, which inspired a tactical change for Scotland.<ref name="WU"/>
+
+==Appearances==
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Quidditch Captains]]
+[[Category:Wizards]]

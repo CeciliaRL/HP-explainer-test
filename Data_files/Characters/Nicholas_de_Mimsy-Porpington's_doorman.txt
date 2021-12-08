@@ -1,0 +1,40 @@
+{{MagicAwakenedSpoiler}}
+{{Conjecture}}
+{{Imageless}}
+{{Pet individual infobox
+|image = 
+|name = Nicholas de Mimsy-Porpington's doorman<!--"Doorman" is the word Sir Nicholas used-->
+|born = Before [[2009]]<ref name="MA">{{MA}}</ref>
+|died = 
+|alias = 
+|title = 
+|species = [[Troll]]<ref name="MA"/>
+|gender = Male<ref name="MA"/>
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Nicholas de Mimsy-Porpington]]<ref name="MA"/>
+}}
+{{Quote|Yes. This nasty troll I hired is to keep the riffraff out. Not very bright though. If anyone were to crash the party, he's under strict orders to attack when I give the signal. I simply say the word "security" and he comes charging right in.|[[Nicholas de Mimsy-Porpington]] introducing the doorman to students|Harry Potter: Magic Awakened}}
+This '''[[troll]]''' was hired by [[Nicholas de Mimsy-Porpington]] to guard his [[Nicholas de Mimsy-Porpington's five-hundred and seventeenth Deathday Party|517th Deathday Party]].<ref name="MA"/>
+
+==Biography==
+Before [[Hallowe'en]] in [[2009]], [[Lottie Turner]], [[Robyn Thistlethwaite]] and [[Unidentified Muggle-born Hogwarts student|another student]] encountered [[Nicholas de Mimsy-Porpington]] in the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[dungeons]]. Sir Nicholas introduced his doorman to the students and how, by saying "security", the troll would be summoned, which was exactly why the troll came and attacked the students. Just as he was about to hit Robyn with his club, [[Kevin Farrell]] arrived in time and cast the [[Jelly-Legs Curse]] on the troll, making him tumble to the ground.<ref name="MA"/>
+
+==See also==
+*[[Security troll]]
+*[[Troll in the Bathroom]]
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Hallowe'en]]
+[[Category:Males]]
+[[Category:Nicholas de Mimsy-Porpington's possessions]]
+[[Category:Security guards]]
+[[Category:Trolls]]

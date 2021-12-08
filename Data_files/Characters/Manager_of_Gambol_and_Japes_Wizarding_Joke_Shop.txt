@@ -1,0 +1,58 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Gambol and Japes Manager.jpg|250px]]
+|name = Manager of Gambol and Japes
+|born = Before [[1974]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COSG">{{COS|G}}</ref>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG">{{COS|G}}</ref>
+|gender = Male<ref name="COSG">{{COS|G}}</ref>
+|height = 
+|weight = 
+|hair = White<ref name="COSG">{{COS|G}}</ref>
+|eyes = Brown<ref name="COSG">{{COS|G}}</ref>
+|skin = Light<ref name="COSG">{{COS|G}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Manager of [[Gambol and Japes Wizarding Joke Shop]]<ref name="COSG">{{COS|G}}</ref>
+|house = 
+|loyalty = [[Gambol and Japes Wizarding Joke Shop]]<ref name="COSG">{{COS|G}}</ref>
+}}
+{{Dialogue a-b|Harry Potter|How much are [[Stink Pellets|Stink Pellet]]s?|Manager|Four [[Sickle]]s for a pack of ten.|[[Harry Potter]] inquiring about the price of Stink Pellets in [[1992]]|Harry Potter and the Chamber of Secrets (video game)}}
+The '''individual''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who worked as the manager of [[Gambol and Japes Wizarding Joke Shop]], in [[Diagon Alley]] [[London]].<ref name="COSG">{{COS|G}}</ref>
+
+==Biography==
+[[File:Screenshot 1063.png|200x200px|thumb|left|The wizard managing his shop]]
+He was working as the manager of [[Gambol and Japes Wizarding Joke Shop]] in [[Diagon Alley]] sometime before [[August]] [[1992]]. When [[Harry Potter]] entered his shop that year whilst shopping in Diagon Alley, he brought some packets of [[Stink Pellets]] from him for four [[galleon]]s each, along with some additional [[Non-explodable, luminous balloons]].<ref name="COSG">{{COS|G}}</ref>
+
+==Physical appearance==
+He heavy-set man with a white beard and moustache. He wore a red and purple vest, a hat of the same colours and a yellow bow tie.<ref name="COSG">{{COS|G}}</ref>
+
+==Behind the scenes==
+*If the shop was named after two people and he was the owner, his name might have been Gambol, or Japes. If the former is the case, he might have been related to former [[Minister for Magic]] [[Ottaline Gambol]].
+
+==Appearances==
+*{{COS|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley}}
+[[de2:Geschäftsführer von Freud & Leid - Laden für Zauberscherze]]
+[[es:Encargado de la Tienda de Bromas Mágicas de Gambol y Japes]]
+[[vi:Quản lý tiệm Giỡn Phù thủy Gambol và Japes]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

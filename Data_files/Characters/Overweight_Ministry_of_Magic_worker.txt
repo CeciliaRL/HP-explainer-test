@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Overweight Ministry of Magic worker
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTPF30"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTPF30"/>
+|gender = 
+|height = 
+|weight = Overweight<ref name="OOTPF30"/>
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[British Ministry of Magic]] worker<ref name="OOTPF30"/>
+|house = 
+|loyalty = [[British Ministry of Magic]]<ref name="OOTPF30"/>
+}}
+This '''overweight Ministry of Magic worker''' was cautioned in [[1995]] for heavy [[hex]]ing. There were articles in the ''[[Daily Prophet]]'' about this incident.<ref name="OOTPF30">{{OOTP|F}} - Chapter 30</ref>
+
+==Appearances==
+*{{OOTP|F}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry employees of unknown Department}}
+[[Category:British individuals|Ministry of Magic worker]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Ministry of Magic employees]]
+[[Category:Unidentified individuals|Ministry of Magic worker]]
+[[Category:Wizards|Ministry of Magic worker]]

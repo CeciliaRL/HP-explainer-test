@@ -1,0 +1,54 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Ingolfr the Iambic
+|born = [[Middle Ages]], [[Norway]]<ref name="QTA8"/>
+|died = 
+|blood = 
+|nationality = [[Norway|Norwegian]]<ref name="QTA8"/>
+|alias = 
+|title = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="QTA8"/>
+|gender = Male<ref name="QTA8"/>
+|height = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Poet<ref name="QTA8"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|Oh, the thrill of the chase as I soar through the air<br/>With the [[Golden Snitch|Snitch]] up ahead and the wind in my [[Human hair|hair]]<br/>As I draw ever closer, the crowd gives a shout<br/>But then comes a [[Bludger]] and I am knocked out.|Ingolfr the Iambic|Quidditch Through the Ages (real)}}
+'''Ingolfr the Iambic''' was a [[Norway|Norwegian]] [[Wizardkind|wizard]] and poet in the early [[1400s]]. He wrote a [[Seeker's verse|verse]] about the game of [[Quidditch]] that showed how the game had spread to [[Europe]].<ref name="QTA8">{{QTA|R|8}}</ref>
+
+==Etymology==
+*The name Ingólfr, was derived from the name of the Germanic god ''Ing'' combined with ''úlfr'' meaning "wolf".
+*Iambic is likely a reference to [[Wikipedia:Iambic pentameter|iambic pentameter]], a common poetry metre best known for its extensive use by [[William Shakespeare]]. Oddly, his only known poem is not in an iambic metre, but instead anapestic tetrameter.
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Ingolfr der Jambische]]
+[[es:Ingolfr el Yámbico]]
+[[fr:Ingolfr l'Iambique]]
+[[pl:Ingolfr Jambiczny]]
+[[ru:Ингольфр Ямбический]]
+[[zh:抑扬诗人因戈尔夫]]
+
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Norwegian individuals]]
+[[Category:Poets]]
+[[Category:Wizards]]

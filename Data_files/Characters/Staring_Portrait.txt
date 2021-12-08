@@ -1,0 +1,57 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=Staring Portrait.gif
+|name=Staring Portrait
+|hideb=
+|born=
+|died=Before [[1993]] (possibly)
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="OOTPG"/> 
+|gender=Male<ref name="OOTPG"/>
+|height=
+|hair=
+|eyes=Blue<ref name="OOTPG"/>
+|skin=Light<ref name="OOTPG"/>
+|hidef=1
+|family=
+|hidem=1
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTPG"/>
+}}
+There were two '''portraits of an eye''', hanging at [[Hogwarts Castle]]. They were capable of speech, although the subject's mouth was not visible in the painting.<ref name="OOTPG"/>
+
+==History==
+===1993-1994 school year===
+By the [[1993–1994 school year]], both portraits were hung near the seventh-floor landing of the [[Grand Staircase]]. After the [[Fat Lady]] was attacked by [[Sirius Black]] in [[Hallowe'en]], the eyeballs could be seen staring at the ruined portrait frame.<ref name="POAF 13">{{POA|F}} - Chapter 13 (''Flight of the Fat Lady'')</ref>
+
+===1995-1997===
+Appalled by the lack of view at the [[Grand Staircase]], these portraits were moved by their own request to different locations: the [[Herbology corridor]]<ref name="OOTPG">{{OOTP|G}} - Console versions</ref> and the [[Middle Courtyard|Transfiguration Courtyard]].<ref name="op/gba">{{OOTP|G}} - GBA version</ref> Both portraits were hung next to portraits of [[Timothy the Timid]], to the latter's discomfort. Timothy was highly annoyed by the eyeballs' stare, and asked students to "''cover'' him ''up''", with paranoid claims that "''he is one of'' them". [[Harry Potter]], a fifth-year at the time, eventually obliged Timothy, covering the two portraits with both a bookcase (in the Transfiguration Courtyard) and a tapestry (in the Herbology Corridor).<ref name="OOTPG"/>
+
+==Behind the scenes==
+*This portrait was identified as "''Staring Portrait''" in the credits of the [[Harry Potter and the Order of the Phoenix (video game)|video game version]] of {{OOTP}}. It was voiced in the game by [[David Robb]].
+
+==Appearances==
+*{{POA|F}} {{1st}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts ground floor}}
+{{Hogwarts seventh floor}}
+[[fr:Portrait observateur]]
+[[pl:Patrzący Portret]]
+[[Category:Blue-eyed individuals]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

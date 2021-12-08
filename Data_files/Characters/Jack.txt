@@ -1,0 +1,42 @@
+{{Youmay|the giant slayer|[[Jack Sloper]]}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Jack
+|born = [[Middle Ages]]<ref name="POAG"/>
+|died = [[Middle Ages]]<ref name="POAG"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Jack''' was a [[human]] boy who lived during the [[Middle Ages]]. He killed the [[giant]] [[Bran the Bloodthirsty]].<ref name="POAG">{{POA|G}}</ref>
+
+==Appearances==
+*{{POA|G}} {{FWC mention}} {{Comment|[[Bran the Bloodthirsty]]}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Jack]]
+[[fr:Jack]] [[pl:Jack]]
+[[Category:Historical figures]]
+[[Category:Humans]]
+[[Category:Males]]

@@ -1,0 +1,86 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = Alanza Alves.png
+|name = Alanza Alves
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">Alanza told [[Jacob's sibling]] that she was from a prominent Brazilian [[Wizardkind|wizarding]] family.</ref>
+|marital = 
+|nationality = [[Brazil]]ian<ref name="HM622"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HMTI"/>
+|gender = Female<ref name="HMTI"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HMTI">See [https://twitter.com/HogwartsMystery/status/1248959158080147457/photo/1 this] image</ref>
+|eyes = Brown<ref name="HMTI"/>
+|skin = Caramel<ref name="HMTI"/>
+|family = [[Alanza Alves's grandmother|Grandmother]]<ref name="HM638">{{HM|6|38}}</ref>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Alves family]]<ref name="HM622"/>
+*[[Castelobruxo]]<ref name="HM622"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HM622"/>
+**[[Hogwarts Hippogriff Club|Hippogriff Club]]<ref name="HM6Welcome">{{HM|6|Welcome to the Sphinx Club}}</ref>
+}}
+{{Quote|Life is way too short to tolerate bad attitudes. Or to not pet every [[cat]] you meet.|Alanza Alves' positive attitude towards life|Harry Potter: Hogwarts Mystery}}
+'''Alanza Alves''' was a [[Brazil]]ian [[Wizardkind|witch]] who attended the Brazilian [[wizarding school]] [[Castelobruxo]]. In the late [[1980s]], she visited [[Hogwarts School of Witchcraft and Wizardry]], as she would be an exchange student there.<ref name="HM622">{{HM|6|22}}</ref>
+
+==Biography==
+===Early life===
+Not much is known about Alanza's early life, but she was born into a prominent Brazilian [[Wizardkind|wizarding]] family. She attended [[Castelobruxo]], the [[Brazil]]ian school of [[magic]].<ref name="HM622"/> During her first year, she got lost in the jungle surrounding Castelobruxo castle and survived off nothing but [[Water|rain]] and [[ant]]s.<ref name="HM622"/>
+
+===Visiting Hogwarts===
+At one point during the [[1989–1990 school year]], Alanza visited [[Hogwarts School of Witchcraft and Wizardry]] to be an exchange student for her [[sixth year]].<ref name="HM622"/> In the [[Headmaster's Office]], [[Professor]] [[Albus Dumbledore]] introduced her to [[Jacob's sibling]] and requested that they be Alanza's tour guide, showing her around Hogwarts and introducing her to her classmates and professors in order to help her get settled and adapt to life at Hogwarts. Jacob's sibling accepted the task and suggested that Alanza visit the [[Training Grounds]] first, as the former was to meet their friends [[Talbott Winger]] and [[Badeea Ali]] there.<ref name="HM622"/>
+
+Upon arrival, Jacob's sibling introduced Alanza to Talbott and Badeea, with Talbott somewhat taken aback by Alanza's energetic enthusiasm but Badeea appreciating it. Alanza then noticed Badeea's [[Map of the Great Lake]] and asked if it was made for her as part of her tour, prompting Jacob's sibling to ask her to give them a moment with Talbott and Badeea, during which the three agreed to keep the [[Circle of Khanna]] a secret from her and instead use the map to teach Alanza about the castle and its grounds. Afterwards, Alanza expressed how useful she found the map, to which Badeea inadvertently mentioned the Circle of Khanna aloud but quickly recognised her mistake by trying to pass it off as something else. Alanza, however, proceeded to inquire further and asked if she could join the group, prompting Jacob's sibling to suggest taking her to [[Potions (class)|Potions class]] and introduce her to Professor [[Severus Snape]].<ref name="HM622"/>
+
+Alanza then accompanied Jacob's sibling to the [[Potions Classroom]], where the pair found Professor Snape, [[Hogwarts Librarian]] [[Madam]] [[Irma Pince]] and [[Hogwarts Caretaker]] [[Argus Filch]] converged there and discussing the disappearance of various Potions-related items, such as ingredients and textbooks. Jacob's sibling then proceeded to make introductions between Alanza and the three members of faculty, whose grouchy demeanours became quickly apparent and were pointed out by Alanza, who wondered if the rest of the Hogwarts faculty behaved as unpleasantly as the aforementioned three. Filch then noted his suspicions of Alanza to his [[cat]] [[Mrs Norris]], although the feline, much to the surprise of everybody present, took an instant liking to Alanza and affectionately rubbed herself against the student's legs. Upon the arrival of other students, however, Snape proceeded to terminate this discourse and ordered Alanza and Jacob's sibling to take their seats for class was beginning.<ref name="HM622"/>
+
+Alanza then proceeded to unknowingly take the seat that belonged to the late [[Rowan Khanna]]. This prompted the class to stare at her, confusing Alanza and leading her to ask Jacob's sibling if the seat was taken, to which they responded that it used to be occupied by their best friend Rowan but not anymore. Alanza then witnessed as [[Merula Snyde]] angrily confronted Jacob's sibling and demanded that they talk to her privately, regarding something important, although Snape ordered her to take her sit as she could talk all she wanted after class.<ref name="HM622"/>
+
+Once all the students took their seats, Snape announced Alanza's arrival to the class and commenced the lesson, after which Alanza became occupied answering questions from her classmates. Using this opening, Merula proceeded to berate Jacob's sibling for their supposed lack of dedication to the Circle of Khanna, although they reassured her that that was not the case. Alanza then joined their conversation and inquired of the aforementioned group again, upon which Merula incredulously asked Jacob's sibling if they had told Alanza about the group. Jacob's sibling promised to reveal everything to Merula in due time, as [[Rubeus Hagrid]] had invited them and Alanza to his garden.<ref name="HM622"/>
+
+Later in the school year, she met with [[Jacob's sibling]] in [[Knockturn Alley]], where they discussed how to best appease the [[Merqueen]] of the [[Great Lake]]. Alanza brought the [[Weird Sisters]] to meet with them ([[Myron Wagtail]], [[Orsino Thruston]] and [[Kirley Duke]]), where they arranged a [[Weird Sisters concert at the Great Lake|concert]] to be held at the Great Lake as the best attempt to appease her.<ref name="HM638"/>
+
+Later on in the school year, Alanza attended a [[Party at the Three Broomsticks Inn|party]] at the [[Three Broomsticks Inn]] in [[Hogsmeade]], where she spoke to Jacob's sibling.<ref name="HM644">{{HM|6|44}}</ref>
+
+==Magical abilities and skills==
+*'''[[Magizoology]]''': Alanza was proficient in the handling of [[magic]]al [[beast]]s.
+*'''[[Potion]]s''': Alanza was proficient in the [[magic]]al art of potion-making.
+*'''[[Astronomy]]''': Alanza was skilled in the field of Astronomy, given how she took advanced classes in the subject whilst at Hogwarts.<ref name="HM625A">{{HM|6|25|a}}</ref>
+
+==Possessions==
+*'''Wand''': It can be presumed that Alanza owned a [[wand]] (as she attended a [[wizarding school]]), which was of unknown length, [[wand wood]] and [[wand core]]. She most likely purchased her [[wand]] from a Brazilian [[wandmaker]] before starting her education at Castelobruxo.
+
+==Behind the scenes==
+*Alanza's last name has been changed as "Álvez" in the Spanish version of {{HM}}.
+*When Alanza thanks [[Jacob's sibling]] after they accept being her guide to Hogwarts, she says "''obrigado''" ("thanks" in Portuguese). However, as an adjective (even though used interjectionally), it ought to suffer [[Wikipedia:Inflexion|inflection]] for gender: "''obrigada''" would be the correct form.
+
+==Appearances==
+{{Imagecat|Images of Alanza Alves}}
+*''[https://twitter.com/HogwartsMystery Hogwarts Mystery official Twitter]'' {{1st}}
+*{{HM}} {{1st ID}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Alves, Alanza}}
+[[es:Alanza Álvez]]
+[[ru:Аланза Алвес]]
+[[Category:20th century births]]
+[[Category:Alves family]]
+[[Category:Brazilian individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Castelobruxo students]]
+[[Category:Exchange students]]
+[[Category:Females]]
+[[Category:Hippogriff Club]]
+[[Category:Wizards]]

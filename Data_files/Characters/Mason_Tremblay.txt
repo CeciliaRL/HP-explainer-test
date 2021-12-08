@@ -1,0 +1,46 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mason Tremblay
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]] {{C|Possibly}}<ref name="blood">Given that he was a suspected [[Death Eaters|Death Eater]], it is unlikely that he was a [[Muggle-born]].</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WU"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Male<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Tremblay family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Tremblay family]]
+*[[Death Eaters]] {{C|Suspected}}<ref name="WU"/>
+}}
+'''Mason Tremblay''' was a [[Great Britain|British]] [[wizardkind|wizard]] that resided in the part-wizarding village of [[Appleby]] in North Lincolnshire, [[England]], and was at one point suspected of having been a [[Death Eaters]] in the service of [[Lord Voldemort]].<ref name="WU">{{WU}}</ref>
+
+==Biography==
+At some point in his life, Tremblay was suspected to have been a follower of Lord Voldemort. By at least the 2010s, Tremblay had established a home for himself in [[Appleby]] and had grown into old age. However, Tremblay eventually went mad, attacking local [[Non-magic people|Muggles]] throughout the community. A [[Calamity Investigator]] serving as part of the [[British Ministry of Magic|Ministry of Magic's]] [[Statute of Secrecy Task Force]] was able to stop his vicious rampage, but not before Tremblay could do an extensive amount of irreparable damage.<ref name="WU"/>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Tremblay, Mason}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Tremblay family]]
+[[Category:Wizards]]

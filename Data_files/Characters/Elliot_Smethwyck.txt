@@ -1,0 +1,27 @@
+{{Individual infobox
+|name = Elliot Smethwyck
+|species = [[Human]]
+|gender = Male
+|family = *[[Hippocrates Smethwyck]] (possibly)
+*[[Leopoldina Smethwyck]] (possibly)
+|job = [[Spell creation|Spell inventor]]
+|loyalty = [[Smethwyck family]]
+|theme = wizard
+}}'''Elliot Smethwyck''' was a [[Wizardkind|wizard]] who invented the [[Cushioning Charm]] in [[1820]]. Because of this, he was credited with making [[broomstick]] travel more comfortable.<ref>{{QTA|B|9}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Charms}}
+
+[[de:Elliot Smethwyck]]
+[[es:Elliot Smethwyck]]
+[[fr:Elliot Smethwyck]]
+[[pl:Elliot Smethwyck]]
+[[pt-br:Elliot Smethwyck]]
+[[Category:Males|Smethwyck, Elliot]]
+[[Category:Smethwyck family]]
+[[Category:Spell inventors|Smethwyck, Elliot]]
+[[Category:Wizards|Smethwyck, Elliot]]

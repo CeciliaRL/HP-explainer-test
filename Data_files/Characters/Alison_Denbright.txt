@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Alison Denbright
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DHF1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF1"/>
+|gender = Female<ref name="DHF1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Jason Denbright]] (unknown)<ref name="DHF1"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Denbright family]]<ref name="DHF1"/>
+}}
+'''Alison Denbright''' was a [[Wizardkind|witch]] reported missing along with her relative, [[Jason Denbright|Jason]], on the ''[[Potterwatch]]'' wireless programme in [[1997]]. Her disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.<ref name="DHF1">{{DH|F1}}</ref>
+
+==Etymology==
+The name "Allison" is the Norman French diminutive of ''Aalis''. It was common in England and France in the Middle Ages, and was later revived in the 20th century.
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Denbright, Alison}}
+
+[[fr:Alison Denbright]]
+[[pl:Alison Denbright]]
+[[Category:British individuals]]
+[[Category:Denbright family]]
+[[Category:Females]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

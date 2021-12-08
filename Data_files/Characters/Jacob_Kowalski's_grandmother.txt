@@ -1,0 +1,56 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:Jacob's grandmother FB1.png]]
+|name = Jacob Kowalski's grandmother
+|born = 
+|died = Before [[1926]] (possibly)
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Jacob Kowalski]] (grandson)
+*[[Jacob Kowalski's brother|Mr Kowalski]] (grandson)
+*[[Quentin Kowalski]] (possible)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Kowalski family]]
+}}
+The '''grandmother''' of [[Jacob Kowalski]] lived in the early [[20th century]]. She was an experienced baker, as her grandson mentioned her recipe for [[paczki]] when he applied for a loan to open [[Kowalski Quality Baked Goods|his own bakery]]<ref>{{FB|S|11}}</ref>. She was also responsible to instilling a love of baking into him.
+
+A picture of her hung above Jacob Kowalski's bed at his [[Jacob Kowalski's apartment|home]] in [[New York]].<ref>{{FB|F}}</ref>
+
+{{Quote|I'm sorry Grandma.|Jacob Kowalski in a sad tone|Fantastic Beasts and Where to Find Them: The Original Screenplay}}
+
+She most likely died sometime before [[1926]], given the way Jacob talks to her portrait.
+
+==Appearances==
+*{{FB|S}} {{1st Mention}}
+*{{FB|F}} {{1st}} {{picture}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Kowalski, Jacob grandmother}}
+
+[[fr:Grand-mère de Jacob Kowalski]]
+[[pl:Babcia Jacoba Kowalskiego]]
+[[de2:Jacob Kowalskis Großmutter]]
+[[ru:Бабушка Якоба Ковальски]]
+[[Category:Females]]
+[[Category:Kowalski family]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

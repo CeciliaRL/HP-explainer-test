@@ -1,0 +1,51 @@
+{{Real world subject}}
+{{DISPLAYTITLE:Richard Griffiths}}
+{{Youmay|the fictional individual|the [[Richard Griffiths|actor who plays Vernon Dursley]] in the 'Harry Potter' films}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Richard Griffiths
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Actor
+|house = 
+|loyalty = 
+}}
+'''Richard Griffiths''' (fl. [[1997]]) was a [[Non-magic people|Muggle]] actor who had a large part in ''[[Equus]]'', a play that was staged sometime in the late [[1990s]]. There was a poster mentioning him at [[Luchino Caffe]] in the summer of [[1997]].<ref name="DHpt1">{{DH|F1}} {{see image|File:Deathly Hallows Equus poster.jpg}}</ref>
+
+==Behind the scenes==
+*This mention is an obvious reference to [[Richard Griffiths]], the actor who played [[Vernon Dursley]] in the [[Harry Potter films|''Harry Potter'' films]] and who also had a part in ''[[Wikipedia:Equus (play)|Equus]]'' in the 2007 revival.
+
+==Etymology==
+The name "Richard" means "brave power", derived from the Germanic elements ric "power, rule" and hard "brave, hardy".
+
+==Appearances==
+*{{DH|F1}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Griffiths, Richard}}
+[[pl:Richard Griffiths (mugol)]]
+[[Category:Actors]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

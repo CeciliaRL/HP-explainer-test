@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Walker
+|hideb=
+|born=c. [[1979]] or earlier<ref name="age">He or she must have at least been in their second year in 1991.</ref>
+|died=
+|nationality={{GBorIE}}
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="PSG"/>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Alexandra Walker]] (possibly)
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSG"/>
+*[[Walker family]]<ref name="PSG"/>
+}}'''Walker''' (fl. [[1991]]) was a [[Wizardkind|wizard or witch]] who attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] as a student in the early [[1990s]]. He or she played [[Quidditch]] for one of the school's teams.<ref name="PSG">{{PS|G}}</ref>
+
+==Appearances==
+*{{PS|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Quidditch players]]
+[[Category:Sorted in the 1980s]]
+[[Category:Unknown House]]
+[[Category:Walker family]]
+[[Category:Wizards]]

@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = goblin
+|image = 
+|name = Goblin family near Nottingham
+|born = 
+|died = c. [[1970s]]<br/>Near [[Nottingham]], [[England]], [[Great Britain]]<ref name="OOTP5"/>
+|blood = 
+|marital = 
+|nationality = [[England|English]]<ref name="OOTP5"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]<ref name="OOTP5"/>
+|gender = *Males<ref name="OOTP5"/>
+*Females<ref name="OOTP5"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|I'm sure they'd never go over to You-Know-Who. They've suffered losses too. Remember that goblin family he murdered last time, somewhere near Nottingham?|Arthur Weasley recalls this family's death|Harry Potter and the Order of the Phoenix}}
+This '''family of [[goblin]]s''' lived somewhere near [[Nottingham]].<ref name="OOTP5"/>
+
+==Biography==
+During the [[First Wizarding War]], they were murdered by [[Tom Riddle|Voldemort]] for an unknown reason. [[Arthur Weasley]] recalled this event during a discussion about the loyalty of the goblin community with his son [[William Weasley|Bill]] and [[Remus Lupin]], citing this as the reason why the goblins might be against the current Voldemort regime.<ref name="OOTP5">{{OOTP|B|5}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Gobelins tués vers Nottingham]]
+[[pl:Rodzina goblinów z okolic Nottingham]]
+[[Category:English individuals]]
+[[Category:Families]]
+[[Category:Females]]
+[[Category:First Wizarding War casualties]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Unidentified Goblins]]

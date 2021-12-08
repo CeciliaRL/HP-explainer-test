@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=individual
+|image=
+|name=Phineas Fletcher
+|born=Before [[1620]]<ref>{{WW|ilvermorny}} - Isolt Sayre runs across a hidebehind in the New World at this time so Phineas must have already been born previously to have accidentally released this new species there.</ref>
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|family = [[Mundungus Fletcher]] (possibly)
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job = Dealer of wizarding artefacts and Creatures
+|house=
+|loyalty=[[Fletcher family]]
+}}
+'''Phineas Fletcher''' was a trader in banned artefacts and [[Creature]]s. He brought a trafficked [[Demiguise]] along with him on a ship to [[North America]], with the aim of manufacturing [[Invisibility cloak]]s. The Demiguise escaped on board and bred with a stowaway [[ghoul]], which resulted in the creation of the [[Hidebehind]]. He was known for his cruel treatment of the creatures in his care.<ref>{{FB|R}} {{c|2017 edition}}</ref>
+
+==Etymology==
+*Phineas was the Biblical grandson of Aaron and was a controversial high priest who murdered two lovers after they had intercourse on the steps of the Tabernacle. Another reason for the murder was that one was Hebrew and the other was not. His example has been used to justify attacks on interracial couples over the centuries. The Hebrew name ''Phinehas'' may also be derived from the Egyptian name ''Pa-Nehasy'', which means "Nubian" or "black man." It may also reference the Greek legend of the Phineus,who angered Zeus by telling mortals the secrets of the deities. He was made blind and sentenced to an island where there would be a lot of food, but when he tried to eat some, the harpies would come and snatch it out of his hands.
+*A fletcher is an arrow-maker.
+
+==Appearances==
+*{{FB|R}} {{C|2017 edition}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Fletcher, Phineas}}
+[[de:Phineas Fletcher]]
+[[fr:Phineas Fletcher]]
+[[pl:Fineas Fletcher]]
+[[es:Phineas Fletcher]]
+
+[[Category:Fletcher family|Phineas]]
+[[Category:Males]]

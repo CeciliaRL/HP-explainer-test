@@ -1,0 +1,76 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Radolphus Lestrange
+|born = Before [[1818]]
+|died = 
+|blood = [[Pure-blood]]<ref name="WW"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WW"/>
+|alias = 
+|title = [[Minister for Magic]]<ref name="WW"/>
+|signature = 
+|species = [[Human]]<ref name="WW"/>
+|gender = Male<ref name="WW"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family =*[[Lestrange]] (descendant)
+*[[Rodolphus Lestrange]] (descendant)
+*[[Rabastan Lestrange]] (descendant)
+*[[Lestrange family]]<ref name="WW"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Minister for Magic]] ([[1835]] - [[1841]])<ref name="WW"/>
+|house = 
+|loyalty = *[[Lestrange family]]<ref name="WW"/>
+*[[British Ministry of Magic]]<ref name="WW"/>
+}}
+'''Minister Radolphus Lestrange''' was a [[wizardkind|wizard]] who, from [[1835]] to [[1841]], served as [[Minister for Magic]] of [[British Ministry of Magic|Britain]] and [[Ireland]], being elected at least once.<ref name="WW"/>
+
+==Biography==
+He unsuccessfully attempted to close down the [[Department of Mysteries]], and eventually resigned due to ill health, which was rumoured to be an inability to cope with the stress of the office.<ref name="WW">{{WW|ministers-for-magic}}</ref>
+
+==Etymology==
+*The name Radolphus seems to be a variation of "Radulf", which is itself derived from the Norse elements ráð meaning "counsel" and úlfr meaning "wolf".
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Ottaline Gambol]]
+|position=[[Minister for Magic]]
+|years=[[1835]]-[[1841]]
+|successor=[[Hortensia Milliphutt]]
+}}
+{{End box}}
+
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Lestrange, Radolphus}}
+
+[[de2:Radolphus Lestrange]]
+[[de:Radolphus Lestrange]]
+[[es:Radolphus Lestrange]]
+[[fr:Radolphus Lestrange]]
+[[pl:Radolphus Lestrange]]
+[[pt-br:Radolfo Lestrange]]
+[[ru:Радольфус Лестрейндж]]
+[[zh:拉道夫斯·莱斯特兰奇]]
+
+[[Category:British Ministers for Magic]]
+[[Category:Historical figures]]
+[[Category:Lestrange family]]
+[[Category:Males]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

@@ -1,0 +1,75 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Brutus Malfoy.png|250px]]
+|name = Brutus Malfoy
+|born = 
+|died = 
+|blood = [[Pure-blood]]<ref name="TBB"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="TBB"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="TBB"/>
+|gender = Male<ref name="TBB"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="TBB"/>
+|eyes = 
+|skin = Light<ref name="TBB"/>
+|family = *[[Armand Malfoy]] (ancestor) †
+*[[Nicholas Malfoy]] (ancestor) †
+*[[Lucius Malfoy I]] (ancestor) †
+*[[Septimus Malfoy]] (descendant) †
+*[[Abraxas Malfoy]] (descendant) †
+*[[Lucius Malfoy]] (descendant)
+*[[Draco Malfoy]] (descendant)
+*[[Scorpius Malfoy]] (descendant)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Editor of ''[[Warlock at War]]''<ref name="TBB"/>
+|house = 
+|loyalty = *[[Malfoy family]]<ref name="TBB"/>
+*''[[Warlock at War]]''<ref name="TBB"/>
+}}
+{{Quote|Nothing is a surer sign of weak [[magic]] than a weakness for [[Muggle|non-magical company]]|Brutus Malfoy, in the [[1675]] periodical ''[[Warlock at War]]''|The Tales of Beedle the Bard (real)}}
+
+'''Brutus Malfoy''' (fl. [[1675]]) was a [[Great Britain|British]] [[pure-blood]] [[Wizardkind|wizard]] who lived during the [[17th century]]. He edited the anti-[[Non-magic people|Muggle]] periodical ''[[Warlock at War]]'', and advocated the notion that [[blood traitor|witches and wizards who associated with Muggles]] lacked magical talent, writing in [[1675]], "''Nothing is a surer sign of weak magic than a weakness for non-magical company.''"<ref name="TBB"/>
+
+In Brutus Malfoy's lifetime, persecution of [[Wizardkind|wizards]] and witches by [[Non-magic people|Muggle]]s was at its height. Under these circumstances, anti-[[Non-magic people|Muggle]] sentiments were widespread in the [[Wizarding world|wizarding community]]. Brutus himself perpetuated the prejudice that [[wizardkind|wizards and witches]] who associated with [[Non-magic people|Muggle]]s lacked intelligence and [[magic]]al ability.<ref name="TBB">{{TBB|W}}</ref>
+
+Brutus's descendants include later members of the [[Malfoy family]] such as [[Abraxas Malfoy|Abraxas]], [[Lucius Malfoy|Lucius]], [[Draco Malfoy|Draco]] and [[Scorpius Malfoy]].
+
+==Etymology==
+The name "Brutus" is a Roman cognomen meaning "heavy" in Latin. Famous bearers include Lucius Junius Brutus, the traditional founder of the Roman Republic, and Marcus Junius Brutus, the statesman who conspired to assassinate Julius Caesar.
+
+==Behind the scenes==
+*In [[1992]], [[Harry Potter]], speaking about [[Draco Malfoy]], said, ''"Look at his family... The whole lot of them have been in Slytherin, he's always boasting about it"''.<ref name="COS9">{{COS|B|9}}</ref> This indicates that Brutus was most likely a [[Slytherin]] if he attended [[Hogwarts School of Witchcraft and Wizardry]], though it cannot be confirmed.
+*In [[1997]], a [[Unidentified portrait in Malfoy Manor (II)|portrait]] was hung in [[Malfoy Manor]] showing a wizard; Brutus may be that wizard.
+
+==Appearances==
+*{{TBB|R}} {{1st}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Malfoy, Brutus}}
+
+[[de:Brutus Malfoy]]
+[[es:Brutus Malfoy]]
+[[fr:Brutus Malefoy]]
+[[pl:Brutus Malfoy]]
+[[ru:Брутус Малфой]]
+[[Category:17th century births]]
+[[Category:British individuals]]
+[[Category:Historical figures]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Malfoy family|Brutus]]
+[[Category:Pure-blood supremacists]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

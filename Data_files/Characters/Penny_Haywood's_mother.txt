@@ -1,0 +1,51 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Penny Haywood's mother
+|born = before [[1973]]
+|died = 
+|blood = [[Muggle-born]]<ref name="HM"/>
+|marital = Married<ref name="HM"/>
+|nationality = [[Great Britain|British]]<ref name="HM"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM"/>
+|gender = Female<ref name="HM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Penny Haywood]] (daughter)<ref name="HM"/>
+*[[Beatrice Haywood]] (daughter)<ref name="HM"/>
+*[[Penny Haywood's father|Husband]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Haywood family]]<ref name="HM"/>
+}}
+{{Quote|One time Bea and I snuck a Knarl into our home… mum was not pleased.|[[Penny Haywood]]|Harry Potter: Hogwarts Mystery}}
+'''Mrs Haywood''' was a [[Muggle-born]] [[Wizardkind|witch]], She married a [[Non-magic people|Muggle]] [[Penny Haywood's father|man]], and had at least two children, [[Penny Haywood|Penny]] and [[Beatrice Haywood]].<ref name="HM">{{HM}}</ref>
+
+Once, as her daughters snuck a [[Knarl]] home, she discovered about it and was not pleased.<ref name="HM720">{{HM|7|20}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Haywood, Penny's mother}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Haywood family]]
+[[Category:Married individuals]]
+[[Category:Muggle-borns]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

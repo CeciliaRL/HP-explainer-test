@@ -1,0 +1,49 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Ismelda Murk's father
+|born = before [[1970s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ismelda Murk's paternal grandmother|Mother]]
+*[[Ismelda Murk's mother|Wife]]
+*[[Ismelda Murk's sister|Daughter]]
+*[[Ismelda Murk]] (daughter)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = Murk family
+}}
+This '''individual''' was the father of [[Ismelda Murk]] and [[Ismelda Murk's sister|another]] daughter. He neglected Ismelda and was proud of his older daughter's achievements.<ref name="HM5">{{HM|5|SQ|Crushed}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de2:Ismelda Murks Vater]]
+[[fr:Parents d'Ismelda Murk]]
+{{DEFAULTSORT:Murk, Ismelda father}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Murk family]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

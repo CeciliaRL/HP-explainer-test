@@ -1,0 +1,54 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Rogue alchemist
+|born = Before [[1990]]<ref name="HM75A2">{{HM|7|5|The Rogue Alchemist}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]] (most likely)<ref name="HM75A2"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM75A2"/>
+|gender = Male<ref name="HM75A2"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Alchemy|Alchemist]] (supposedly)<ref name="HM75A2"/>
+*Con Artist (in reality)<ref name="HM75A2"/>
+|house = 
+|loyalty = 
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who wore a purple cloak with a goatee, that operated in [[Great Britain]] during the late [[20th century]].<ref name="HM75A2"/>
+
+==Biography==
+At one point, he began scamming other wizards by alleging to be an [[Alchemy|alchemist]] that had cracked the code of [[panacea]]; a remedy that was supposed to [[Healing magic|cure]] any ailment. Rather than doing what it was supposed to, however, all his [[Rogue alchemist's fake panacea|fake panacea]] did was give several patients boils.<ref name="HM75A2"/>
+
+He was tracked down by [[Alastor Moody]], [[Jacob's sibling]] and [[Nymphadora Tonks]] during the [[1990–1991 school year]].<ref name="HM75A2"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Potions}}
+
+[[es:Alquimista charlatán]]
+[[Category:Alchemists]]
+[[Category:British individuals]]
+[[Category:Con artists]]
+[[Category:Inventors]]
+[[Category:Males]]
+[[Category:Potioneers]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

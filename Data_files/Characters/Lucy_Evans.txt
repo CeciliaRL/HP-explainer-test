@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Lucy Evans
+|born = between Summer [[1938]] and summer [[1939]]
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Housewife
+|house = 
+|loyalty = 
+}}
+{{Quote|I don't know who did this, but we can be sure that they're foreign.|Lucy Evans, "[[Millennium Bridge|Bridge disaster]] hits London" in ''[[The Guardian]]'' (July, [[1996]])|Harry Potter Limited Edition}}
+'''Lucy Evans''' (born c. [[1939]]) was a [[Non-magic people|Muggle]] housewife, and a witness of the [[Millennium Bridge]] disaster in [[1996]], aged 57. She was standing on the riverbank directly beneath the bridge when the collapse took place. She later asserted to ''[[The Guardian]]'' that those responsible were, without a doubt, foreigners.<ref name="HPLE">{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Behind the scenes==
+*Lucy Evans is presumably named after [[Lucy Evans (real-world)|Lucy Evans]], who worked as an assistant music supervisor on ''[[Harry Potter and the Goblet of Fire (film)|Harry Potter and the Goblet of Fire]]'', and as an assistant to [[David Barron]] on ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]'' and {{DH|F1}}.<ref>"[http://www.imdb.com/name/nm2115032/ Lucy Evans]" on IMDb</ref>
+*Much like [[Mark Evans]], Lucy is most likely not related to [[Lily J. Potter|Lily Evans]] despite sharing a surname.
+
+==Appearances==
+*{{HBP|F}} {{Mention}}
+*{{HPLE}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Evans, Lucy}}
+[[pl:Lucy Evans (mugolka)]]
+[[Category:1939 births]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggles]]

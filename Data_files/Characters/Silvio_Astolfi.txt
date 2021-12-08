@@ -1,0 +1,35 @@
+{{Individual infobox
+|image = [[File:SilvioAstolfi.png|250px]]
+|name = Silvio Astolfi
+|nationality = [[Italy|Italian]]<ref name="WBoS" />
+|species = [[Human]] (transfigured to [[Chicken (animal)|chicken]])<ref name="WBoS" />
+|gender = Male<ref name="WBoS" />
+|hair = Black<ref name="WBoS" />
+|skin = White<ref name="WBoS" />
+|job = Broom flyer<ref name="WBoS" />
+|theme = wizard
+}}'''Silvio Astolfi''' was an [[Italy|Italian]] [[wizardkind|wizard]] who was one of the most revered [[Broomstick|broom]] [[broom racing|flyers]] in [[Europe]] in the mid-[[18th century]].<ref name="WBoS" />
+
+==Biography==
+In [[1750s|1754]], Astolfi agreed to participate in a [[Broomstick|broom]] [[broom racing|race]] from [[Aberdeen]] to [[Rome]] with the [[Scotland|Scottish]] [[Torquil McTavish]], his bitter rival.<ref name="WBoS">{{WBS}}</ref>
+
+The race took place at night so as to avoid attracting the attention of [[Non-magic people|Muggles]]. Reaching Rome at daybreak, Astolfi and McTavish were seen racing toward the finish line at the [[Coliseum|Colosseum]], but at that point, a violent clash broke out between rival fans that had gathered there. During the course of the fight, Astolfi was [[Pullus|turned into a chicken]], and McTavish was hit with a [[knee-reversal hex|hex that left his knees back-to-front]]. The conflict culminated in an explosion that reduced the Colosseum to rubble.<ref name="WBoS" />
+
+Thanks to [[Orabella Nuttley]], who came forward and proceeded to fix a few columns with a [[spell creation|spell of her own invention]], the [[Mending Charm]], the damage to the Colosseum had been undone by the time that Muggles roused from their beds by the sound of the explosion finally arrived up at the scene. All they found was a few strangely-dressed men attempting to quell Astolfi, who was obviously enraged, and still stuck in the form of a chicken.<ref name="WBoS" /> It can be presumed afterwards, that after the Muggle observers had left, Silvio was [[Untransfiguration|untransfigured]] back into a human.
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': Astolfi was a highly accomplished and world-renowned broom flyer, whose talent in flying allowed him to participate in a broom race from [[Aberdeen]] to [[Rome]].<ref name="WBoS"/>
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Astolfi, Silvio}}
+[[es:Silvio Astolfi]]
+[[fr:Silvio Astolfi]]
+[[pl:Silvio Astolfi]]
+[[Category:Broom fliers]]
+[[Category:Historical figures]]
+[[Category:Italian individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

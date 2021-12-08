@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = quidditch-player
+|name = Maximus Brankovitch III
+|image = 
+|born = 
+|died = 
+|blood = 
+|nationality = [[United States of America|American]]
+|title = *[[Quidditch Captain|Captain]]
+*[[Seeker]]
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|eyes = 
+|hair = 
+|skin = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|house = 
+|job = *[[Seeker]] for the [[Fitchburg Finches]]
+*[[Seeker]] and [[Quidditch Captain|Captain]] for the [[American National Quidditch team]]
+|loyalty = *[[Fitchburg Finches]]
+*[[American National Quidditch team]]
+}}
+'''Maximus Brankovitch III''' was an [[United States of America|American]] [[Wizardkind|wizard]] who played as a [[Seeker]] for the [[Fitchburg Finches]]. He also played for the [[American National Quidditch team]], and captained the side at the [[1986 Quidditch World Cup|1986]] and [[1990 Quidditch World Cup]]s.<ref name="QTA">{{QTA|R}}</ref>
+
+==Etymology==
+"Maximus" was a Roman family name which was derived from Latin ''maximus'' "greatest". Saint Maximus was a monk and theologian from Constantinople in the 7th century.
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Brankovitch, Maximus III}}
+
+[[de:Maximus Brankovitch III]]
+[[es:Maximus Brankovitch III]]
+[[fr:Maximus Brankovitch III]]
+[[zh:马克西·布兰奇三世]]
+[[pl:Maximus Brankovitch III]]
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Quidditch Captains]]
+[[Category:Seekers]]
+[[Category:Wizards]]

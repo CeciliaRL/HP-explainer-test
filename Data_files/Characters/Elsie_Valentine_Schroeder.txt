@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Elsie Valentine Schroeder
+|hideb=1
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|nationality=[[Great Britain|British]]<ref name="DHF1"/>
+|species=[[Human]]<ref name="DHF1"/>
+|gender=Female<ref name="DHF1"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=1
+|family=
+|hidem=1
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=1
+|job=
+|house=
+|loyalty=
+}}
+'''Elsie Valentine Schroeder''' was a [[Wizardkind|witch]] who was reported missing on the ''[[Potterwatch]]'' wireless programme in [[1997]]. Her disappearance was most likely linked to some sort of [[Death Eaters|Death Eater]] attack.<ref name="DHF1">{{DH|F1}}</ref>
+
+==Behind the scenes==
+*This character is presumably a tribute to a relative of Bjorn Ole Schroeder. Schroeder worked as a sound effects editor on ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'', and as a dialogue editor on the following five [[Harry Potter films|''Harry Potter'' films]].<ref>[http://www.imdb.com/name/nm0775452/ Bjorn Ole Schroeder's profile on IMDb]</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Valentine Schroeder, Elsie}}
+[[fr:Elsie Valentine Schroeder]]
+[[pl:Elsie Valentine Schroeder]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

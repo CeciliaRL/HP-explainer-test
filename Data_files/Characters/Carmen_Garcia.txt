@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Carmen Garcia - card HBP-NDS.png]]
+|name = Carmen Garcia
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Spain|Spanish]]
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Dark Brown
+|eyes = Brown
+|skin = White (Tanned)
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Spanish National Quidditch team]]
+|house = 
+|loyalty = [[Spanish National Quidditch team]]
+}}
+'''Carmen García''' was a [[Spain|Spanish]] [[wizardkind|witch]] who played as a [[Chaser]] on the [[Spanish National Quidditch team]] in [[1994]].<ref>{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Garcia's [[Chocolate Frog Card]] could be won by beating [[Toby Lennox (Ravenclaw)|Toby Lennox]] at a [[Quidditch]] challenge.<ref>{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Appearances==
+*{{QWC}}
+*{{HBP|G}} {{C|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:García, Carmen}}
+[[fr:Carmen Garcia]]
+[[ru:Кармен Гарсия]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Spanish individuals]]
+[[Category:Wizards]]

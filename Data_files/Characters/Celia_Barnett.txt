@@ -1,0 +1,46 @@
+{{Individual infobox
+|image=
+|theme=individual
+|name=Celia Barnett
+|hideb=y
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Maxwell Barnett]] {{comment|possibly}}
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Creator of the [[Celia Barnett's Supasnacks]] line {{comment|presumably}}
+|house=
+|loyalty=
+}}
+'''Celia Barnett''' was a woman who presumably created the [[Celia Barnett's Supasnacks]] snack food line.<ref>{{HPWC}} — ''Label Collection'' book {{see image|File:BlackCatPotatoCrisps.jpg}}</ref>
+
+==Behind the scenes==
+*The name of this character is a tribute to [http://www.imdb.com/name/nm0055860/ Celia Barnett], who worked as a specialist researcher in the art department on all eight [[Harry Potter films|''Harry Potter'' films]].<ref>"[http://www.imdb.com/name/nm0055860/ Celia Barnett]" on Wikipedia</ref>
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{comment|name appears on label}}
+*{{HPWC}} — ''Label Collection'' book
+
+==Notes and references==
+{{Reflist}}
+[[pl:Celia Barnett]]
+{{DEFAULTSORT:Barnett, Celia}}
+[[Category:Females]]
+[[Category:Humans]]

@@ -1,0 +1,43 @@
+{{Transcribed image|File:ElsbethM.jpg}}
+{{Individual infobox
+|theme = individual
+|image = [[File:ElsbethM.jpg|250px]]
+|name = Elsbeth McCormick
+|born = 
+|died = [[18 June]], unknown year<ref name="DHF1"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DHF1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF1"/>
+|gender = Female<ref name="DHF1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Elsbeth McCormick''' (d. [[18 June]]) was a woman buried in the churchyard of the [[St Jerome's Church|Parish Church of St. Clementine]] in [[Godric's Hollow]].<ref name="DHF1">{{DH|F1}} (see [[:File:ElsbethM.jpg|this image]])</ref>
+
+==Appearances==
+*{{DH|F1}} {{Comment|Name seen on headstone}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:McCormick, Elsbeth}}
+[[pl:Elsbeth McCormick]]
+[[Category:British individuals]]
+[[Category:Buried at Godric's Hollow graveyard]]
+[[Category:Females]]
+[[Category:Humans]]

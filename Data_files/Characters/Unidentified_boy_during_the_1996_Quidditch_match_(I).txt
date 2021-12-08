@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Unidentified boy during Quidditch
+|nationality={{GBorIE}}
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="HBPF"/>
+|gender=Male<ref name="HBPF"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=[[Gryffindor]], [[Hufflepuff]] or [[Ravenclaw]]<ref name="House">It is unlikely that he was in [[Slytherin]], considering he encouraged Ron Weasley during a Quidditch game.</ref>
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPF"/>
+}}
+{{Quote|Go on, Ron! Do it!|The boy|Harry Potter and the Half-Blood Prince (film)}}
+This '''individual''' was a [[Wizardkind|wizard]] and a student at [[Hogwarts School of Witchcraft and Wizardry]]. During the [[1996]] [[Quidditch]] match between the [[Gryffindor]] [[Gryffindor Quidditch team|team]] and [[Slytherin]] [[Slytherin Quidditch team|team]] he yelled to [[Ronald Weasley]] that he could do it, just after Ron saved [[Vaisey]]'s [[Quaffle]].<ref name="HBPF">{{HBP|F}}</ref>
+
+==Appearances==
+*{{HBP|F}} {{1st}} {{Comment|Heard only}} 
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

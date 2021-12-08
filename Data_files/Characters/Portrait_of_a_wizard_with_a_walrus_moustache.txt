@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:WalrusWizardPortrait.png|250px]]
+|name=Portrait of a wizard with a walrus moustache
+|hideb=
+|born=
+|died=Before [[1994]]
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+This '''wizard with a walrus moustache''' was depicted in a [[portrait]] hung at [[Hogwarts Castle]], on the [[chamber off the Great Hall]], by the portrait of [[Violet]]. After [[Harry Potter]] was chosen by the [[Goblet of Fire]] as the ''fourth'' [[Triwizard Tournament|Triwizard Champion]], [[Violet]] went into this wizard's portrait and started whispering in his ear.<ref name="GF17">{{GOF|B|17}}</ref>
+
+==Appearances==
+*{{GOF}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts ground floor}}
+[[pl:Portret czarodzieja z wąsami morsa]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

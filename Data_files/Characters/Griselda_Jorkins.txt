@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Griselda Harmonia Jorkins
+|born = [[6 December]], [[1998]]
+|died = 
+|blood =[[Half-blood]] or [[Pure-blood]]<ref>Either one or both of her parents must have been a wizard for her birth to be announced in the ''[[Daily Prophet]]''.</ref> 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Albert Jorkins]] (father) 
+*[[Primrose Jorkins]] (mother) 
+*[[Grimwold Jorkins]] (brother) 
+*[[Granville Jorkins]] (brother)
+*[[Bertha Jorkins]] (possible)
+*[[Stamford Jorkins]] (possible)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Jorkins family]]
+}}
+'''Griselda Harmonia Jorkins''' (born [[6 December]], [[1998]]) was the daughter of [[Albert Jorkins|Albert]] and [[Primrose Jorkins]]<ref name=":0">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[8 February]], [[1999]], Page 2</ref>. She had two older brothers called [[Grimwold Jorkins|Grimwold]] and [[Granville Jorkins|Granville]]. Her birth was announced in the ''[[Daily Prophet]]''<ref name=":0" />.
+
+==Etymology==
+The name "Griselda" is possibly derived from the Germanic elements ''gris'' "grey" and ''hild'' "battle". It is not attested as a Germanic name. This was the name of a patient wife in medieval tales by ''Boccaccio'' and ''Chaucer''.
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Jorkins, Griselda}}
+
+[[pl:Griselda Jorkins]]
+[[fr:Griselda Jorkins]]
+[[Category:1998 births]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Jorkins family|Griselda]]
+[[Category:Wizards]]

@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Havelock Sweeting.jpg|250px]]
+|name = Havelock Sweeting
+|born = [[1634]]<ref name="COSG"/>
+|died = [[1710]] (aged 75-76)<ref name="COSG"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COSG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="COSG"/>
+|eyes = Blue<ref name="COSG"/>
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Magizoologist]]<ref name="COSG"/>
+|house = 
+|loyalty = [[Unicorn]]s<ref name="COSG"/>
+}}
+'''Havelock Sweeting''' ([[1634]]–[[1710]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] and [[Magizoologist]] well-known for being an expert on [[Unicorn]]s. He started many [[Unicorn reservation]]s in [[Great Britain]]. For his dedication to Unicorns, he was immortalised on a [[Chocolate Frog Card]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+
+==Magical abilities and skills==
+*'''[[Care of Magical Creatures]]''': Sweeting was highly talented with communicating with and understanding [[Unicorn]], powerful [[magic]]al [[beast]]s for which only certain individuals can tame, establishing numerous [[Unicorn reservation|reservations]] for these creatures throughout [[Great Britain]].<ref name="COSG">{{COS|G}}</ref> His gift with Unicorns was also very impressive and distinctive for a wizard, as Unicorns usually prefer the touch of a witch.<ref name="FBR">{{FB|R}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Havelock Sweeting}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Sweeting, Havelock}}
+
+{{Chocolate Frog Cards}}
+
+[[de:Havelock Sweeting]]
+[[fr:Havelock Sweeting]]
+[[fi:Havelock Sweeting]]
+[[it:Havelock Sweeting]]
+[[ru:Хевлок Свитинг]]
+[[Category:1634 births]]
+[[Category:1710 deaths]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Magizoologists]]
+[[Category:Males]]
+[[Category:Wizards]]

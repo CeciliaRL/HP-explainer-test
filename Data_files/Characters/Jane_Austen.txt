@@ -1,0 +1,44 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Jane Austen
+|hideb=
+|born=[[16 December]], [[1775]]
+|died=[[18 July]], [[1817]]
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Author
+|loyalty=
+}}
+'''Jane Austen''' ([[16 December]], [[1775]] – [[18 July]], [[1817]]) was a [[Non-magic people|Muggle]] author who wrote ''[[Pride and Prejudice]]'', ''[[Emma]]'', and ''[[Sense and Sensibility]]''.
+
+==Behind the scenes==
+*Jane Austin's books were featured on a bookshelf on an older version of [[Harry Potter (book series)|''Harry Potter'' book series]] author [[J. K. Rowling]]'s official website.
+*J. K. Rowling has stated that Jane Austen is her "favourite writer of all time."<ref name="Sunday Herald">[http://www.accio-quote.org/articles/2000/0500-heraldsun-rowling.html Accio Quote] ''Sunday Herald'' Transcript</ref> She also briefly contemplated Austen when asked whom she would choose to be if she could pick anyone in history, but reasoned that Austen probably did not live a very happy life.<ref>[http://www.accio-quote.org/articles/2005/0705-edinburgh-ITVcubreporters.htm Edinburgh "cub reporter" press conference, ITV, 16 July 2005]</ref>
+
+==Appearances==
+*{{JKRS}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Jane Austen]]
+[[es:Jane Austen]]
+[[Category:1775 births|Austen, Jane]]
+[[Category:1817 deaths]]
+[[Category:Authors (real-world)|Austen, Jane]]
+[[Category:English individuals|Austen, Jane]]
+[[Category:Females|Austen, Jane]]
+[[Category:Muggles|Austen, Jane]]

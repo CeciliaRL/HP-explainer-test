@@ -1,0 +1,33 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = 
+|name = McGonagalls' cat
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Cat]]<ref name="pottermore"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = [[McGonagall family]] (owners)<ref name="pottermore"/>
+|loyalty = [[McGonagall family]]<ref name="pottermore"/>
+}}
+The '''McGonagalls' cat''' was a pet of the [[McGonagall family]]. [[Isobel Ross|Isobel McGonagall]] learned her daughter [[Minerva McGonagall|Minerva]] was a [[Wizardkind|witch]] when she started displaying small, but unmistakable, signs of magic, such as the cat doing the infant's bidding before she could even talk.<ref name="pottermore">{{WW|professor-mcgonagall}} (transcription available [http://forums.darklordpotter.net/showpost.php?s=4a2e751bddc00f9618a0b1bb6d9ce6fc&p=481284&postcount=443 here])</ref>
+
+It is interesting to note that [[Minerva McGonagall]] had an affinity with cats since she was an infant; in her adulthood, both Minerva's [[Patronus Charm|Patronus]]<ref name="DH30">{{DH|B|30}}</ref> and [[Animagus]] form<ref name="PS1">{{PS|B|1}}</ref><ref name="POA6">{{POA|B|6}}</ref> was that of a cat.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Chat de la famille McGonagall]]
+[[es:Gato de los McGonagall]]
+[[Category:Individual cats]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Minerva McGonagall's possessions]]

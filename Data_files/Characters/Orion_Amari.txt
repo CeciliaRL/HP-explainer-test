@@ -1,0 +1,69 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:OrionAmari.png]]
+|name = Orion Amari
+|born = Between [[1 September]] [[1969]] and [[31 August]] [[1973]] {{C|most likely}}<ref>He is seen on the team in Season 1, which takes place in the [[1985–1986 school year]], so he was at least in his [[second year]] in [[1985]], as [[Harry Potter]] was said to have been the youngest [[Quidditch]] player in about a century in [[1991]]. He is still on the team in Season 3, which takes place in the [[1987–1988 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Chaser]]<ref name="HM">{{HM}}</ref>
+*[[Quidditch Captain|Captain]]<ref name="HM"/>
+|signature = 
+|species = [[Human]]<ref name="HM"/>
+|gender = Male<ref name="HM"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HM"/>
+|eyes = Brown<ref name="HM"/>
+|skin = Light<ref name="HM"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HM"/>
+**[[Sphinx Club]]<ref name="HM5T">{{HM|5|THE TOURNAMENT OF CLUBS}}</ref>
+}}
+'''Orion Amari''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]], during which he became a [[Chaser]] and eventually also the [[Quidditch Captain|Captain]] of the [[Quidditch team]] of his house; playing alongside [[Skye Parkin]] and [[Jacob's sibling]].<ref name="HM"/>
+
+==Biography==
+[[File:Orion_Amari_HM_001.jpg|150px|thumb|left|Orion in the [[Quidditch Changing Rooms]]]]
+Orion was an orphan, but he considered his [[Quidditch]] team to be his family.
+
+During his time at Hogwarts, Orion was [[Sorting ceremony|Sorted]] into an unknown house. At some point during his time at school, he became a [[Chaser]] and the [[Captain]] of an unknown Hogwarts [[Quidditch team]].
+
+==Behind the scenes==
+{{Quote|Orion Amari is the enigmastic captain of your house Quidditch team. His training methods may be unorthodox, but his leadership is unparalleled.|Orion's character description|Harry Potter: Hogwarts Mystery}}
+*He is in whichever house the player chose for [[Jacob's sibling]].
+*His year is not shown in the friends section, similar to [[Skye Parkin]] and [[Murphy McNully]].
+*His name could be based on Orion's Belt, which may explain his personality being spiritually aligned.
+*He labels his pep talks as "vivifications" &ndash; a play on Rastafarianism's livication terminology, which means dedication without connotation of death.
+*He shares his first name with [[Orion Black]], father of [[Sirius Black]].
+
+==Appearances==
+{{Imagecat|Images of Orion Amari}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts quidditch positions}}
+{{Stub}}
+{{DEFAULTSORT:Amari, Orion}}
+[[ru:Орион Амари]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Males]]
+[[Category:Orphans]]
+[[Category:Sphinx Club]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Architect of Hogwarts.jpg|250px]]
+|name = Architect of Hogwarts
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Architect
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|The front hall also boasts statues of the one-eyed Witch and the Architect of Hogwarts.|Description|The Wizarding World of Harry Potter}}
+This '''individual''' (fl. ''circa'' [[First millennium A.D.|993]]) was a wizard who lived during the [[Middle Ages]] and planned, designed and oversaw the construction of buildings of [[Hogwarts Castle]],<ref>[http://www.the-leaky-cauldron.org/2010/3/25/wizarding-world-of-harry-potter-to-open-june-18-details-about-hogwarts-emerge Wizarding World of Harry Potter Grand Opening June 18: Details About Hogwarts Emerge] at [http://www.the-leaky-cauldron.org/ The Leaky Cauldron]</ref> along with [[Hogwarts founders|Founder]] [[Rowena Ravenclaw]], who devised the ever-changing floorplan. 
+
+There was a golden statue of this individual at Hogwarts [[Entrance Hall]], in which he was shown among the four house mascots holding a model of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] on one of his hands, and charts and a set square in the other.<ref name="CSf20">{{COS|F}} - Chapter 20 (''Polyjuice Potion'')</ref> The statue guarded a hidden passageway to the [[Founders' Tower]].
+
+==Behind the scenes==
+*In the [[Harry Potter and the Chamber of Secrets (video game)|PS1 version]] of {{COS}}, the statue of the Architect hides a passageway to the Founder Duels and the [[Founders' Tower]].
+
+==Appearances==
+*{{COS|F}} {{Statue}}
+*{{COS|G}} {{Statue}}
+*{{OOTP|F}} {{Statue}}
+*{{OOTP|G}} {{Statue}}
+*{{HBP|F}} {{Statue}}
+*{{HBP|G}} {{Statue}}
+*{{WWHP}} {{Statue}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts ground floor}}
+[[es:Arquitecto de Hogwarts]]
+[[fr:Architecte de Poudlard]]
+[[pl:Architekt Hogwartu]]
+[[ru:Архитектор Хогвартса]]
+[[Category:British or Irish individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Statues]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

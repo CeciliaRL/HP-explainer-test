@@ -1,0 +1,52 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = dark-wizard
+|image = 
+|name = Ekrizdis
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WW"/>
+|gender = Male<ref name="WW"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Dark Arts]]<ref name="WW"/>
+}}
+'''Ekrizdis''' was a [[15th century|15th-century]] [[Dark Wizard]] who was the original inhabitant of the fortress of [[Azkaban]].<ref name="WW"/>
+
+==Biography==
+Alone on Azkaban's island, which was at the time uncharted by both [[Non-magic people|Muggles]] and [[wizardkind]], Ekrizdis practised the worst kinds of [[Dark Arts|Dark Magic]]. He would often lure passing Muggle sailors to his fortress only to torture and murder them. He was believed to have [[insanity|lost his sanity]] during his years of solitude. After Ekrizdis's death, the [[Concealment Charm]]s he placed on the fortress and island faded, and the [[British Ministry of Magic]], suddenly aware of the island's existence, investigated. Other than the fact that the building was infested with [[Dementor]]s, investigators refused to discuss what other evidence of Ekrizdis's activities they found within Azkaban.<ref name="WW">{{WW|azkaban}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Ekrizdis]]
+[[es:Ekrizdis]][[pt-br:Ekrizdis]]
+[[pl:Ekrizdis]]
+[[ru:Экриздис]]
+[[Category:Azkaban]]
+[[Category:Dark wizards]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Wizarding supremacists]]

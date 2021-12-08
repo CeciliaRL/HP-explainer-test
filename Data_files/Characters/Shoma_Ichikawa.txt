@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Shoma Ichikawa
+|born = [[31 August]] [[1982]] or earlier<ref name="born">He was at least in his first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="POAG"/><ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAG"/>
+**[[Ravenclaw]]<ref name="POAG"/>
+**[[Duelling Club]]<ref name="HBPG"/>
+}}
+'''Shoma Ichikawa''' was a [[Wizardkind|wizard]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="POAG">{{POA|G}}</ref> He was a member of the [[Duelling Club]] run by [[Helen Dawlish]] in the [[Middle Courtyard|Transfiguration Courtyard]]. He gave [[Harry Potter]] some [[Honeywater]] so that he could make [[Wiggenweld Potion]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|console version]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{1st}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Duelling Club}}
+{{DEFAULTSORT:Ichikawa, Shoma}}
+[[es:Shoma Ichikawa]]
+[[pl:Shoma Ichikawa]]
+[[fr:Shoma Ichikawa]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Duelling Club members]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

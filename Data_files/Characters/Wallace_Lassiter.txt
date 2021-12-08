@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Wallace Lassiter
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Composer
+|house = 
+|loyalty = 
+}}
+'''Wallace Lassiter''' was an [[United States of America|American]]<ref>The critical quote on the [[:File:Oh, Rosana!.png|prop poster]] for the play featured in the film ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'' hails it as "one of the great works of the American musical theatre," suggesting that those directly involved in the play's creation, including Lassiter, were American.</ref> [[Muggle|No-Maj]] composer. He scored the musical play ''[[Oh, Rosana!]]'' by [[Chester Hidland]].<ref name="rosana">{{FB|F}} {{See image|File:Oh, Rosana!.png}}</ref>
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Lassiter, Wallace}}
+[[Category:American individuals]]
+[[Category:Composers]]
+[[Category:Males]]
+[[Category:Muggles]]

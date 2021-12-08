@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = [[File:Ministry Police.jpg]]
+|name = Director of the Ministry Police No. 41041
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Director of the [[Ministry Police]]
+|house = 
+|loyalty = [[British Ministry of Magic|Ministry of Magic]]
+}}
+This '''individual''' (fl. [[1997]]) was the director of the [[British Ministry of Magic|Ministry of Magic]] [[Ministry Police|Police]]. The [[Harry Potter]] [[Undesirable]] wanted posters issued in [[1997]] were signed by this individual.<ref>See [[:File:Undesirable No. 1 Harry Potter poster 01.jpg|this image]].</ref>
+
+==Appearances==
+*{{DH|F1}} {{Mentioned on a poster}}
+*{{HPPU}} {{C|Mentioned on a poster included as an extra}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Ministry of Magic employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

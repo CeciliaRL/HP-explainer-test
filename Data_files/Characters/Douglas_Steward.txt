@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Douglas Steward
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Composer and lyricist
+|house=
+|loyalty=
+}}
+'''Douglas Steward''' was a [[Muggle|No-Maj]] composer and lyricist in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:It's Just Heavenly.png}}</ref>
+
+He composed the music and lyrics for the play ''[[It's Just Heavenly]]''.<ref name="poster" /> This play was staged at the [[Pegasi Theatre]] in [[New York]] in [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Steward, Douglas}}
+[[Category:Composers]]
+[[Category:Lyricists]]
+[[Category:Males]]
+[[Category:Muggles]]

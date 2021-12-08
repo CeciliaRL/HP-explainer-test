@@ -1,0 +1,48 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Edmund Bollifant
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Publisher
+|house = 
+|loyalty = 
+}}
+'''Edmund Bollifant''' was a publisher based in [[London]] in the late [[16th century]].<ref name="hple">{{HPLE|G}} {{see image|File:A Perambulation of Kent.png}}</ref> His imprint published ''[[A Perambulation of Kent]]'' in [[1596]].<ref name="hple" />
+
+==Behind the scenes==
+*This publisher was mentioned on a prop book spine label featured in the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Hogwarts Library|library]] scenes throughout the [[Harry Potter films|''Harry Potter'' films]]. This label was based on the [https://books.google.pt/books?id=FwY6AAAAcAAJ&printsec=frontcover&hl=pt-PT#v=onepage&q&f=false title page] of an actual [[1596]] edition of ''[[A Perambulation of Kent]]'' by [[wikipedia:William Lambarde|William Lambarde]].
+
+==Appearances==
+*''[[Harry Potter films|''Harry Potter'' films]] {{Comment|Mentioned on book label}}
+*{{HPLE}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Bollifant, Edmund}}
+[[es:Edmund Bollifant]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Publishers]]

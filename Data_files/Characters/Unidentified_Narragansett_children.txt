@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = ilvermorny
+|name = Unidentified Narragansett children
+|image = 
+|born = [[17th century]]<ref name="Pottermore" />
+|died = 
+|blood = 
+|alias = 
+|title =
+|nationality = [[Native Americans|Native American]]<ref name="Pottermore" />
+|signature =
+|species = [[Human]]s<ref name="Pottermore" />
+|gender = Females<ref name="Pottermore"/>
+|skin =
+|hair =
+|eyes =
+|height =
+|weight =
+|family = [[Unidentified Narragansett mother|Mother]]<ref name="Pottermore" />
+|romances =
+|wand = Unknown lengths, woods and cores<ref name="Pottermore" />
+|animagus =
+|boggart =
+|patronus =
+|job =
+|house = 
+|loyalty = *[[Narragansett|Narragansett tribe]]<ref name="Pottermore" />
+*[[Ilvermorny School of Witchcraft and Wizardry]]<ref name="Pottermore" />
+}}
+These unnamed '''[[Narragansett]] children''' were two [[Native Americans|Native American]] [[Wizardkind|witches]] who became two of the first students of [[Ilvermorny School of Witchcraft and Wizardry]] in the [[17th century]]. They were part of the Narragansett tribe.<ref name="Pottermore" /> 
+
+==Biography==
+Along with their [[Unidentified Narragansett mother|mother]] and two [[Unidentified Wampanoag children|children]] of the [[Wampanoag]] tribe, they were given [[wand]]s made by [[Isolt Sayre]] and [[James Steward]], and instructed in the use of them and in return they shared their own [[magic]]al knowledge.<ref name="Pottermore">{{WW|ilvermorny}}</ref> 
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Niezidentyfikowane dziewczynki z plemienia Narragansett]]
+
+[[Category:17th century births]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Ilvermorny students]]
+[[Category:Native Americans]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

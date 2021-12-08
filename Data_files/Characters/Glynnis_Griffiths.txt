@@ -1,0 +1,54 @@
+{{Spoiler|HM|WU}}
+{{Individual infobox
+|theme = quidditch-player
+|image = Glynnis Griffiths.jpg
+|name = Glynnis Griffiths
+|born = before [[1936]] (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = [[Seeker]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White
+|family = [[Wilda Griffiths]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] for the [[Holyhead Harpies]] (formerly)
+|house = 
+|loyalty = [[Holyhead Harpies]]
+}}
+'''Glynnis Griffiths''' was a [[Great Britain|British]] [[wizardkind|witch]] who was the [[Seeker]] for the [[Holyhead Harpies]]. She caught the [[Golden Snitch|Snitch]] after a seven-day match against the [[Heidelberg Harriers]] in [[1953]].<ref>{{QTA|R|7}}</ref>
+
+==Behind the scenes==
+*Griffiths has the same surname as the late British actor [[Richard Griffiths]], who portrayed [[Vernon Dursley]] in the [[Harry Potter (film series)|''Harry Potter'' film series]].
+
+==Appearances==
+*{{QTA|R}}
+*{{HM}} {{Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Griffiths, Glynnis}}
+[[de:Glynnis Griffiths]]
+[[fr:Glynnis Griffiths]]
+[[pl:Glynnis Griffiths]]
+[[pt-br:Dulce Griffiths]]
+[[ru:Глиннис Гриффитс]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Seekers]]
+[[Category:Wizards]]

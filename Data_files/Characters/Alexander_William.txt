@@ -1,0 +1,52 @@
+{{Youmay|the Gryffindor who signed up for the Quidditch team|[[Alexander (disambiguation)|another Alexander]]}}
+{{Transcribed image|File:QuidditchTrainingSignupSheet.jpg}}
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Alexander William
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WWHP"/>
+|gender = Male<ref name="WWHP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="WWHP"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="WWHP"/>
+*[[Gryffindor]]<ref name="WWHP"/>
+}}
+'''Alexander William''' was a [[Wizardkind|wizard]] and [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]]. He once signed up for [[Quidditch]] training at 7pm on Saturday on a sign-up sheet that was posted on the [[Gryffindor Notice Board|bulletin board]] in the [[Gryffindor Common Room]].<ref name="WWHP">{{See image|File:QuidditchTrainingSignupSheet.jpg}}</ref>
+
+==Etymology==
+The name "Alexander" is the Latinized form of the Greek name Αλεξανδρος (Alexandros), which meant "defending men" from Greek αλεξω (alexo) "to defend, help" and ανηρ (aner) "man" (genitive ανδρος, "andros"). In Greek mythology this was another name of the hero Paris, and it also belongs to several characters in the New Testament. However, the most famous bearer was Alexander the Great, King of Macedon. In the 4th century BC he built a huge empire out of Greece, Egypt, Persia, and parts of India. Due to his fame, and later medieval tales involving him, use of his name spread throughout Europe.
+
+==Appearances==
+*{{WWHP}} {{1st Mention}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+{{DEFAULTSORT:William, Alexander}}
+[[es: Alexander William]]
+[[pl:Alexander William]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Quidditch players]]
+[[Category:Wizards]]

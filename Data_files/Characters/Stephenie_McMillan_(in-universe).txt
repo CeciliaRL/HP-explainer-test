@@ -1,0 +1,47 @@
+{{youmay|the fictional character|[[Stephenie McMillan (real-world)|the set decorator]]}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:StephenieMcMillanWitch.jpg|250px]]
+|name=Stephenie McMillan
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+*Interior designer
+*Author
+|house=
+|loyalty=
+}}
+'''Stephenie McMillan''' was a [[wizardkind|witch]] who was an expert in interior design. She wrote the interior design guide ''[[A Companion to Wizardly Decor]]''.<ref name="wwohp-jp">{{WWHP}} (Universal Studios Japan) {{see image|File:ACompanionToWizardlyDecor.jpg}}</ref>
+
+==Behind the scenes==
+*This character is a tribute to [[Stephenie McMillan (real-world)|Stephenie McMillan]], the set decorator for all eight [[Harry Potter films|''Harry Potter'' films]], who passed away in [[2013]]. The portrait featured on the cover of the prop book is based on her likeness.
+
+==Appearances==
+*{{WWHP}} {{Comment|Universal Studios Japan}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:McMillan, Stephenie}}
+[[Category:Authors]]
+[[Category:Females]]
+[[Category:Wizards]]

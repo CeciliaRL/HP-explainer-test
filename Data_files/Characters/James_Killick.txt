@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = James Killick
+|born = 
+|died = 
+|blood = [[Pure-blood|Pure Blood]],[[Half-Blood]] or [[Muggle-born]]
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DHF1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF1"/>
+|gender = Male<ref name="DHF1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Katie Killick]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Killick family]]
+}}
+'''James Killick''' was a [[Wizardkind|wizard]] reported missing along with his relative, [[Katie Killick|Katie]], on the ''[[Potterwatch]]'' radio programme in [[1997]]. His disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.<ref name="DHF1">{{DH|F1}}</ref>
+
+==Etymology==
+The name "James" is the English form of the Late Latin name Iacomus which was derived from Ιακωβος (Iakobos), the New Testament Greek form of the Hebrew name Ya'aqov.
+
+==Behind the scenes==
+*This character is presumably a tribute to a relative of Rob Killick, who worked as a sound mix technician on ''[[Harry Potter and the Order of the Phoenix (film)|Harry Potter and the Order of the Phoenix]]'', and as a dialogue editor on ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]'', {{DH|F1}}, and {{DH|F2}}.<ref>[http://www.imdb.com/name/nm1877574/?ref_=ttfc_fc_cr269r Rob Killick's profile on IMDb]</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Killick, James}}
+
+[[fr:James Killick]]
+[[pl:James Killick]]
+[[Category:British individuals]]
+[[Category:Killick family]]
+[[Category:Males]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

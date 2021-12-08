@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Prime Minister of the United Kingdom's predecessor
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HBP1"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBP1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP1"/>
+|gender = Male<ref name="HBP1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Prime Minister]] (formerly)<ref name="HBP1"/>
+|house = 
+|loyalty = *[[Great Britain]]
+*British Government
+}}
+This '''man''' was a [[Great Britain|British]] [[Prime Minister (title)|Prime Minister]] who left office sometime before [[1992]]. He met with [[Cornelius Fudge]], who revealed the existence of the [[wizarding world]] to him. Believing the meeting to be a hoax perpetrated by the [[Opposition|opposing political party]], he tried to throw Fudge out of the window of his [[Prime Minister's office|office]].<ref name="HBP1">{{HBP|B|1}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Eventually, [[Winston Churchill]]
+|position=[[Prime Minister (title)|Prime Minister of the United Kingdom]]
+|years=c. [[1990]]
+|successor=[[British Prime Minister in 1996|Prime Minister]]
+}}
+{{End box}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Prime Ministers]]
+[[Category:Unidentified Muggles‎]]

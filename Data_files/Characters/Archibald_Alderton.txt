@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Archibald Alderton.jpg|250px]]
+|name = Archibald Alderton
+|born = [[1560s|1568]]<ref name="FWC"/>
+|died = [[1620s|1623]] (aged 54-55)<ref name="FWC"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FWC"/>
+|gender = Male<ref name="FWC"/>
+|height = 
+|weight = 
+|hair = Red<ref name="FWC"/>
+|eyes = 
+|skin = White<ref name="FWC"/>
+|family = *[[Arkie Alderton]] (possibly)
+*[[Alderton]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Cook<ref name="FWC"/>
+|house = 
+|loyalty = [[Little Dropping]]<ref name="FWC"/>
+}}
+'''Archibald Alderton''' ([[1560s|1568]]–[[1620s|1623]]) was a [[Wizardkind|wizard]] who was known for blowing up the hamlet of [[Little Dropping]] while attempting to [[magic]]ally mix a birthday [[cake]]. Archibald was immortalised on a [[Chocolate Frog Card]].<ref name="FWC">{{COS|G}}</ref>
+
+==Etymology==
+"Archibald" is derived from the Germanic elements ercan "genuine" and bald "bold". The first element was altered due to the influence of Greek names beginning with the element αρχος (archos) meaning "master". This name was brought to England by the Normans. It first became common in Scotland in the Middle Ages.
+
+==Appearances==
+{{Imagecat|Images of Archibald Alderton}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Alderton, Archibald}}
+{{Chocolate Frog Cards}}
+[[de:Archibald Alderton]]
+[[de2:Archibald Alderton]]
+[[es:Archibald Alderton]]
+[[fi:Archibald Alderton]]
+[[ru:Арчибальд Алдертон]]
+[[fr:Archibald Alderton]]
+[[it:Archibald Alderton]] 
+[[pl:Archibald Alderton]]
+[[Category:1568 births]]
+[[Category:1623 deaths]]
+[[Category:Alderton family|Archibald]]
+[[Category:British individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Cooks]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,57 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mr Brown
+|born = 
+|died = 
+|blood = [[Pure-blood]]<ref name="HPM">{{HPM}}</ref>
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Lavender Brown's mother|Mrs Brown]] (wife)
+*[[Lavender Brown]] (daughter) †
+*[[Kelly Brown]] (possible nephew)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]] (possibly)
+|loyalty = [[Brown family]]
+}}
+'''Mr Brown''' was a [[pure-blood]]<ref name="HPM"/> [[Wizardkind|wizard]], husband of [[Lavender Brown's mother|Mrs Brown]] and father of [[Lavender Brown|Lavender]]. In [[1993]], he and his wife sent a letter to Lavender, informing her that her pet [[rabbit]] [[Binky]] had been killed by a [[fox]].<ref name="POA8">{{POA|B|8}}</ref>
+
+Prior to that school year, either Mr Brown or his wife signed a [[Hogsmeade permission form]] for Lavender.<ref name="POAF">{{POA|F}}</ref>
+
+On [[2 May]], [[1998]], his daughter died during the [[Battle of Hogwarts]] when she was attacked by [[Fenrir Greyback]].<ref name="PageToScreen">{{HPPS}}, page 215 - "Jessie Cave was also happy to come back, even knowing that Lavender Brown wasn't going to survive the final film. "She's not very lucky," the actress understates. "She doesn't meet a nice ending. She gets eaten by Fenrir Greyback. Cave recalls her death scene, which took several nights of shooting. "I had the most amazing prosthetic of a scar that looks so scary, it looked like I was actually mauled to death." </ref>
+
+==Behind the scenes==
+*Lavender's parents are only mentioned in the French version of {{POA}}.
+
+==Appearances==
+*{{POA}} {{Comment|French}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Brown, Lavender's father}}
+
+
+[[fr:Parents de Lavande Brown]]
+[[Category:Brown family]]
+[[Category:Males]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

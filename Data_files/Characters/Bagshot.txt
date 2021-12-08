@@ -1,0 +1,20 @@
+{{Individual infobox
+|name = Bagshot
+|born = before [[1993]]
+|species = [[Human]]
+|family = *[[Bathilda Bagshot]] (possibly)
+*[[Gellert Grindelwald]] (possibly)
+|theme = wizard
+}}'''Bagshot''' was either a [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] student or an individual who visited [[Hogwarts Castle]] in the winter of [[1993]]. His or her name appeared on the [[Marauder's Map]].<ref name="POAF">{{POA|F}}</ref>
+
+==Behind the scenes==
+*This person may have been the famous magical historian [[Bathilda Bagshot]] or a relative of hers.
+
+==Appearances==
+*{{POA|F}} {{Comment|appears on the [[Marauder's Map]]}}
+
+==Notes and references==
+{{Reflist}}[[pl:Bagshot]]
+[[Category:Bagshot family]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

@@ -1,0 +1,64 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = SlytherinMalePrefect2.png
+|name = Third-floor corridor Slytherin Prefect (I)
+|born = [[1 September]] [[1974]]–[[31 August]] [[1976]] (most likely)<ref name="birth">He was a Prefect during the 1991-1992 school year, indicating he was in his fifth, sixth, seventh or a repeat year, and at least 15 years old.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]<ref name="PSgba" />
+|signature = 
+|species = [[Human]]<ref name="PSgba" />
+|gender = Male<ref name="PSgba" />
+|height = 
+|weight = 
+|hair = Black<ref name="PSgba" />
+|eyes = 
+|skin = Light<ref name="PSgba" />
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="PSgba" />
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSgba" />
+**[[Slytherin]]<ref name="PSgba" />
+}}
+{{Quote|You never would have made it in Slytherin, Potter. You have no flair for skulking. 6 House points from Gryffindor for being out at night.|The prefect catches [[Harry Potter]] breaking school rules|Harry Potter and the Philosopher's Stone (video game)}}
+This '''individual''' (born c. [[1974]]–[[1976]]) was a [[wizardkind|wizard]] who, in the early [[1990s]], was one of the [[Slytherin]] [[Prefect]]s at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PSgba">{{PS|G}} - GBA version</ref>
+
+==Biography==
+{{Quote|Harry Potter! You know casting spells at prefects is against the rules! 6 points from Gryffindor!|This student is hit by a spell.|Harry Potter and the Philosopher's Stone (video game)}}
+He was patrolling the [[third-floor corridor]] on the night of [[4 June]], [[1992]]. When [[Harry Potter]], [[Ronald Weasley]] and [[Hermione Granger]] passed by [[Peeves]], he heard something and started pacing fast by the corner to the [[Third-floor corridor|Forbidden Corridor]].<ref name="PSgba" />
+
+{{Quote|Lost in the dark, not quite sure where you're going… quite typical of you, Potter. 6 House points from Gryffindor for being out at night.|The prefect catches [[Harry Potter]] breaking school rules.|Harry Potter and the Philosopher's Stone (video game)}}
+
+==Behind the scenes==
+*This NPC has the distinction of making its only appearance when the player is making its way to the Forbidden Corridor. Unlike the other [[Prefect]]s in night sneak missions, who are recurring and sometimes copies of sprites depicting first-year students during the day, this character makes a single appearance during the entire game.
+
+==Appearances==
+*{{PS|G}} {{1st}} {{C|GBA version}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Felix Rosier]]
+|position=Male [[Prefect#Slytherin|prefect of Slytherin House]]<br/>(along with two other male Slytherins in different years taking the post)
+|years=at least [[1991]]–[[1992]]
+|successor=Unknown, eventually [[Draco Malfoy]]
+}}
+{{End box}}
+{{Head boys and prefects}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts prefects]]
+[[Category:Males]]
+[[Category:Sorted in the 1980s]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

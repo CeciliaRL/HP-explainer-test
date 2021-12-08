@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Vicky.png|250px]]
+|name = Vicky Bishopper
+|born = Between [[1715]] and [[1719]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+**[[Slytherin Quidditch team]]
+}}
+'''Vicky Bishopper''' (b. [[1710s]]) was a [[Wizardkind|witch]] and [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1720s]] and [[1730s]]. She was [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin]] [[Quidditch]] [[Slytherin Quidditch team|team]] from [[1728]] to [[1732]].<ref>{{HPPS}}, p. 349 {{see image|File:Slytherin Captains Plaque 2.jpg}}</ref>
+[[File:Slytherin Captains Plaque 2.jpg|236x236px|thumb|left|{{PAGENAME}}'s name appearing on a plaque]]
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Katie Rayknolls]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]]
+|years=[[1728]]—[[1732]]
+|successor=[[Robin Higgy]]
+}}
+{{End box}}
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Bishopper, Vicky}}
+
+[[es:Vicky Bishopper]]
+[[pl:Vicky Bishopper]]
+[[pt-br:Vicky Bishopper]]
+[[ru:Викки Бишоппер]]
+[[fr:Vicky Bishopper]]
+[[Category:1710s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1720s]]
+[[Category:Wizards]]

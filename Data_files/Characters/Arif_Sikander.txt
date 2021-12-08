@@ -1,0 +1,69 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Arif Sikander.png|thumb]]
+|name = Arif Sikander
+|born = Before [[1973]]
+|died =
+|blood =
+|title = [[Professor]]<ref name="HM71"/><ref name="HM73"/>
+|alias =
+|nationality = {{GBorIE}}
+|signature =
+|species = [[Human]]<ref name="HM73"/>
+|gender = Male<ref name="HM73"/>
+|hair = Brown<ref name="HM73"/>
+|skin = Light<ref name="HM73"/>
+|eyes = Brown<ref name="HM73"/>
+|height =
+|weight =
+|family =
+|romances =
+|wand =
+|animagus =
+|patronus =
+|boggart =
+|house =
+|job = [[Muggle Studies]] Professor at [[Hogwarts School of Witchcraft and Wizardry]] ([[1990–1991 school year]])<ref name="HM71"/><ref name="HM73"/>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HM71"/><ref name="HM73"/>
+}}
+{{Quote|Welcome class! I am Professor Arif Sikander. It is my pleasure to take over Muggle Studies while Professor Quirrell enjoys his European tour.|Professor Sikander introducing himself to [[seventh year]] students in [[1990]]|Harry Potter: Hogwarts Mystery}}
+'''Professor Arif Sikander''' was a [[Wizardkind|wizard]] who acted as the replacement [[Muggle Studies]] teacher at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990–1991 school year]], whilst the former teacher [[Quirinus Quirrell]] was away on a sabbatical trip in [[Europe]].<ref name="HM71">{{HM|7|1}}</ref><ref name="HM73">{{HM|7|3}}</ref>
+
+==Magical abilities and skills==
+*'''[[Muggle Studies]]''': As a professor of Muggle Studies at Hogwarts, Sikander was highly knowledgeable of [[Non-magic people|Muggles]] and their ways of living.<ref name="HM73"/><ref name="HM74">{{HM|7|4|ms}}</ref>
+
+==Etymology==
+'''[https://en.wikipedia.org/wiki/Arif_(given_name) Arif]''' is a male Arabic name meaning "knowledgeable" or "wise". '''[https://en.wikipedia.org/wiki/Sikandar Sikandar]''' is the Persian version of the name Alexander, meaning "to defend man".
+
+==Behind the scenes==
+*This character appears to have been modeled after an [[Unidentified Hogwarts employees#Attendant with a moustache and goatee|unnamed background character]] that made an appearance in the [[Harry Potter and the Philosopher's Stone (film)|first film]], suggesting that the two are supposed to be the same person. 
+*Assuming Professor Sikander was offered the post full-time once it became clear that Quirrell would switch subjects rather than return to it, this would also imply that Sikander was the [[Unidentified male Muggle Studies professor|male Muggle Studies professor]] mentioned in the [[Harry Potter and the Chamber of Secrets (video game)|video game adaption]] of {{COS}}.
+
+==Appearances==
+{{Imagecat|Images of Arif Sikander}}
+*{{PS|F}} {{Possible}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+{{Start box}}
+{{Succession box
+|predecessor=[[Quirinus Quirrell]]
+|position=[[Muggle Studies]] Professor at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=[[1990]]–?
+|successor=Unknown, eventually [[Charity Burbage]]
+}}
+{{End box}}
+{{Staff}}
+{{Muggle Studies}}
+{{DEFAULTSORT:Sikander, Arif}}
+[[es:Arif Sikander]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Males]]
+[[Category:Muggle experts]]
+[[Category:Muggle Studies Professors at Hogwarts]]
+[[Category:Wizards]]

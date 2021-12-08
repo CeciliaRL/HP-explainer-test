@@ -1,0 +1,66 @@
+{{Individual infobox
+|theme=wizard
+|image=CORVUSLESTRANGE II.jpg
+|name=Corvus Lestrange
+|born=
+|died=
+|blood = [[Pure-blood]]<ref>He was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=Light
+|family=
+*[[Corvus Lestrange (I)|Corvus Lestrange]] (father)
+*[[Heloise Lestrange]] (mother)
+*[[Falco Lestrange]] (brother)<ref name="family tree">[[Lestrange family]] tree {{See image|File:Lestrange family tree.png}}</ref>
+*[[Salomé Lestrange]] (sister-in-law)
+*[[Minette Lestrange]] (wife)
+*[[Manon Perrot]] (daughter)
+*[[Josette Gage]] (daughter)
+*[[Corvus Lestrange (III)|Corvus Lestrange]] (son)
+*[[Sebastien Perrot]] (son-in-law)
+*[[Reynard Gage]] (son-in-law)
+*[[Eglantine Lestrange]] (niece/daughter-in-law)<ref name="family tree"/>
+*[[Leonie Tremblay]] (niece)<ref name="family tree"/>
+*[[Corvus Lestrange (IV)|Corvus Lestrange]] (grandson)
+*[[Odile Perrot]] (granddaughter)
+*[[Laurelle Perrot]] (granddaughter)
+*[[Huguette Perrot]] (granddaughter)
+*[[Mathis Gage]] (grandson)
+*[[Louis Gage]] (grandson)
+*[[Clarisse Lestrange]] (grandniece/granddaughter-in-law)
+*[[Falco Tremblay]] (grandnephew)
+*[[Leta Lestrange]] (great-granddaughter)
+**[[Corvus Lestrange (V)|Corvus Lestrange]] (great-grandson)
+*[[Lestrange family]]
+*[[Beaufort family]]
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=[[Lestrange family]]
+}}
+'''Corvus Lestrange''' was a [[France|French]] [[wizardkind|wizard]] and a member of the [[pure-blood]] [[Lestrange family]]. He was the son of [[Corvus Lestrange (I)|Corvus Lestrange]] and [[Heloise Lestrange|Heloise Beaufort]]. He had a brother [[Falco Lestrange|Falco]]. He married [[Minette Lestrange|Minette Rosier]] and had three children with her: two daughters, [[Manon Perrot|Manon]] and [[Josette Gage|Josette]], and a son [[Corvus Lestrange (III)|Corvus]].<ref>{{COG}} {{see image|File:LestrangeFamilyTree HighRes.png}}</ref>
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Lestrange, Corvus (II)}}
+[[de2:Corvus Lestrange (II)]]
+[[pl:Corvus Lestrange II]]
+[[ru:Корвус Лестрейндж II]]
+[[Category:French individuals]]
+[[Category:Lestrange family]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

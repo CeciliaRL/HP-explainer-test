@@ -1,0 +1,53 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Quintius MacBoon
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBR"/>
+|alias = 
+|title = 
+|signature = 
+|species = *[[Human]]<ref name="FBR"/>
+*[[Quintaped]] {{C|Possibly}}<ref name="FBR"/>
+|gender = Male<ref name="FBR"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Caelan MacBoon]] (nephew)<ref name="HM">{{HM}}</ref>
+*[[MacBoon clan]]<ref name="FBR"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Head of the [[MacBoon clan]]<ref name="FBR"/>
+|house = 
+|loyalty = [[MacBoon clan]]<ref name="FBR"/>
+}}
+'''Quintius MacBoon''' was a [[Wizardkind|wizard]] and the head of the [[MacBoon clan]]. According to legend, he killed the head of the [[McClivert clan]], [[Dugald McClivert]] in a drunken [[Duelling|duel]]. The [[death]] led to the McClivert clan [[Transfiguration|transfiguring]] the MacBoons into extremely dangerous [[flesh]]-eating [[beast]]s known as [[Quintaped]]s, presumably including Quintius.<ref name="FBR">{{FB|R}}</ref>
+
+==Appearances==
+*{{HBP}} {{Comment|Skeleton}} {{Comment|Possibly}}
+*{{FB|R}} {{1st Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:MacBoon, Quintius}}
+[[de:Quintius MacBoon]]
+[[ru:Квинтиус МакБун]]
+[[pl:Quintius MacBoon]]
+[[fr:Quintius MacBoon]]
+[[zh:金特斯·麦克布恩]]
+[[Category:British individuals]]
+[[Category:MacBoon family]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Wizards]]

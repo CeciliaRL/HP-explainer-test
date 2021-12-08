@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = J. Blishen
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Blishen family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''J. Blishen''' was a [[wizardkind|wizard or witch]] who once won a "Highly Commended" trophy in the [[Gnome Racing Championships]].<ref>{{MHP}} - See [[:File:GnomeRacingTrophy.jpg|this image]].</ref>
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{comment|mentioned on trophy}}
+*{{MHP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Blishen, J.}}
+[[Category:Blishen family|J.]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

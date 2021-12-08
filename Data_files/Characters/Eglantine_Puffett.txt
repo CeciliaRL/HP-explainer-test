@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Eglantine Puffett
+|born = on or before [[31 August]] [[1974]] (most likely)<ref>She had already left Hogwarts in 1991, implying she was most likely at least 17.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="pottermore" />
+|gender = Female<ref name="pottermore" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Inventor<ref name="pottermore" />
+|house = [[Hufflepuff]]<ref name="pottermore" />
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+}}
+{{Quote|Merlin was a Slytherin. Yes, Merlin himself, the most famous wizard in history! He learned all he knew in this very house! Do you want to follow in the footsteps of Merlin? Or would you rather sit at the old desk of that illustrious ex-Hufflepuff, Eglantine Puffett, inventor of the Self-Soaping Dishcloth? I didn’t think so.|[[Gemma Farley]].|Pottermore}}
+'''Eglantine Puffett''' was the inventor of the [[Self-Soaping Dishcloth]].<ref name="pottermore">{{PM}} introduction for Slytherins (transcription available [http://lady-slytherin-forever.tumblr.com/post/9001546270/slytherin-information-spoilers here])</ref> During her childhood, she attended [[Hogwarts School of Witchcraft and Wizardry]], and was [[Sorting ceremony|Sorted]] into the [[Hufflepuff]] house.<ref name="pottermore" />
+
+[[Gemma Farley]], a [[Slytherin]] [[Prefect]] at Hogwarts in the [[1990s]], downplayed Eglantine's personal achievement when welcoming [[first year|first-year]] students recently sorted into her own [[Hogwarts Houses|House]], asking them if they would rather "follow in the footsteps of [[Merlin]]" (a former Slytherin) or
+"sit at the old desk of that illustrious ex-Hufflepuff, Eglantine Puffett, inventor of the Self-Soaping Dishcloth?"<ref name="pottermore" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Puffett, Eglantine}}
+
+[[de:Eglantine Puffett]]
+[[pl:Eglantine Puffett]]
+[[fr:Eglantine Puffett]]
+[[ru:Эглантайн Паффетт]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Inventors]]
+[[Category:Wizards]]

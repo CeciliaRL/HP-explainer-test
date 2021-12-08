@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Thelma Holmes
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her first year at Hogwarts during the [[1993-1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]]
+*[[Gryffindor]]
+}}
+'''Thelma Holmes''' was a [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. As a lover of [[Wizard's Chess|wizard's chess]], she collected chess pieces, and traded her spare ones with other students for other objects ([[Gobstones]], [[Chocolate Frog Card]]s and [[Butterbeer]]). She could usually be found in the [[Viaduct Courtyard|Entrance Courtyard]] during the [[1996–1997 school year]].
+
+==Etymology==
+The Meaning of the name "Thelma" is unknown. It was a rare name when it was used by British author Marie Corelli for the Norwegian heroine of her novel 'Thelma' (1887). The name became popular around the end of the 19th century after the novel was published. It is sometimes claimed to derive from Greek θελημα (thelema) meaning "will", though this seems unlikely.
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|PlayStation 2 version]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Holmes, Thelma}}
+[[pl:Thelma Holmes]]
+[[fr:Thelma Holmes]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

@@ -1,0 +1,72 @@
+{{Individual infobox
+|theme = mom
+|image = [[File:SmirkPlatterProfile.png|250px]]
+|name = Sidley Smirk Platter
+|born = c. [[1503]]<ref name="portrait">See [[:File:SedleySmirkPlatter.jpg|this image]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = *[[Supreme Mugwump]]<ref name="portrait" />
+*[[Grand Sorcerer]]<ref name="portrait" />
+*[[Honorific|Sir]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[International Confederation of Wizards]]
+}}
+'''Sir Sidley Smirk Platter'''<ref name="LE">{{HPLE}}</ref>, <small>[[Grand Sorcerer|Grand Sorc.]]</small>, (born c. [[1503]]) was a [[Wizardkind|wizard]] who was appointed [[Supreme Mugwump]] of the [[International Confederation of Wizards]] sometime after [[Pierre Bonaccord]].<ref name="portrait" />
+
+Smirk Platter was depicted in a [[portrait]] that hung somewhere at [[Hogwarts Castle|Hogwarts School of Witchcraft and Wizardry]].<ref name="portrait" /> This portrait was painted in [[1542]], when he was 39 years old, as indicated by the inscription "Anno Etatis Suae 39"<ref name="portrait" /> (''anno aetatis suae'' is a Latin term meaning "in the year of his age"<ref>"[http://en.wikipedia.org/wiki/List_of_Latin_phrases:_A List of Latin Phrases: A]" on Wikipedia</ref>).
+
+==Behind the scenes==
+*This portrait was made specifically for the [[Harry Potter films|''Harry Potter'' films]], and was modelled after [[Matt Cooke]],<ref>[http://www.flickr.com/photos/tonyridder/7537611422/ The Making of Harry Potter photo] on Flickr</ref> a member of the dressing props team since ''[[Harry Potter and the Prisoner of Azkaban (film)|Prisoner of Azkaban]]''.
+*Despite bearing Matt Cooke's likeness, this portrait seems to have been based on a [http://www.elizabethan-portraits.com/HenryWriothesley2.jpg portrait of Henry Wriothesley, 3rd Earl of Southampton (c. 1600)], by an unknown artist.
+*Smirk Platter may have passed away sometime prior to the [[1990s]] as many portraits hung at [[Hogwarts Castle]] depict deceased individuals.
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{Portrait}}
+*{{HPE}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Pierre Bonaccord]]
+|position=[[Supreme Mugwump]] of the [[International Confederation of Wizards]]
+|years=
+|successor=Unknown, eventually [[Albus Dumbledore]]
+}}
+{{End box}}
+{{ICW}}
+{{Hogwarts unknown locations}}
+
+{{DEFAULTSORT:Smirk Platter, Sidley}}
+
+[[pl:Sidley Smirk Platter]]
+[[es:Sidley Smirk Platter]]
+[[fr:Sidley Smirk Platter]]
+[[Category:1500s births]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Nobility]]
+[[Category:Portraits]]
+[[Category:Supreme Mugwumps]]
+[[Category:Wizards]]

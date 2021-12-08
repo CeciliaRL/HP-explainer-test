@@ -1,0 +1,45 @@
+{{Transcribed image|File:Edward Almeida Peidus.jpg}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:Edward Almeida Peidus.jpg]]
+|name=Edward Almeida Peidus
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Raul Almeida]] (possibly)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Edward Almeida Peidus''' was a [[Wizardkind|wizard]] whose name was carved into a wood panel on the wall of [[Sybill Trelawney|Professor Trelawney]]'s [[Divination Classroom]].<ref name="POAF">{{POA|F}} - Chapter 21 (''Professor Trelawney's Prediction'')</ref><ref>[http://www.the-leaky-cauldron.org/2004/5/15/los-angeles-motion-picture-arts-sciences-contemporary-set-exhibit-report ''Prisoner of Azkaban'' set report] from the Leaky Cauldron</ref>
+
+==Etymology==
+The name "Edward" means "rich guard", derived from the Old English elements ead "rich, blessed" and weard "guard". Saint Edward the Confessor was the king of England shortly before the Norman conquest. He was known as a just ruler, and because of his popularity this name remained in use after the conquest when most other Old English names were replaced by Norman ones.
+
+==Appearances==
+*{{POA|F}} {{1st Mention}} {{Comment|Name seen on wood panel}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Almeida Peidus, Edward}}
+
+[[pl:Edward Almeida Peidus]]
+[[Category:Males|Peidus, Eduardus Almeida]]
+[[Category:Wizards|Peidus, Eduardus Almeida]]

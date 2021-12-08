@@ -1,0 +1,27 @@
+{{Individual infobox
+|theme=wizard
+|name=Ellerby
+|hideb=y
+|born=In or before [[1923]]<ref name="birth">{{QTA|R|9}} - Ellerby was probably born in or before 1923, since the company released its first broom in 1940 and he or she was likely of age by that point.</ref>
+|species=[[Human]]
+|hidef=y
+|hidem=y
+|job=Broomstick maker
+|loyalty=[[Ellerby and Spudmore]]
+}}
+'''Ellerby''' was a [[Wizardkind|wizard or witch]] who worked along with [[Able Spudmore]] and founded the [[Black Forest]] Broomstick Company [[Ellerby and Spudmore]]. They released the [[Tinderblast]] in [[1940]] and then the [[Swiftstick]] in [[1952]].<ref>{{QTA|R|9}}</ref>
+
+==Behind the scenes==
+*Ellerby's full name and gender are never revealed, and they are only referenced indirectly as the namesake of [[Ellerby and Spudmore]], a broomstick company that is only mentioned in {{QTA}}.
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de: Ellerby und Spudmore]]
+[[pl:Ellerby]]
+[[pt-br:Ellerby]]
+[[Category:Broom-makers]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Slytherin House Captain's Plaque.jpg|250px]]
+|name = Lucinda Talkalot
+|born = c. [[1960s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+**[[Slytherin Quidditch team]]
+}}
+'''Lucinda Talkalot''' was a [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1970s]]. She became [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]] in [[1976]].<ref>See [[:File:Slytherin House Captain's Plaque.jpg|this image]] of a prop used in the films on display as part of {{HPE}}.</ref><ref>[http://ab.fanrus.com/SMI/ViP/september/51/213/ ''Harry Potter: The Exhibition'' report] {{Comment|in Russian}}</ref>
+
+==Appearances==
+*[[Harry Potter (film series)|''Harry Potter'' films]] {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor= [[Emma Vanity (Slytherin)|Emma Vanity]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]]
+|years=[[1976]]-?
+|successor=unknown, eventually [[Marcus Flint]]
+}}
+{{End box}}
+
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Talkalot, Lucinda}}
+
+[[es:Lucinda Talkalot]]
+[[pt-br:Lucinda Talkalot]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Hogwarts students during the Marauders' era]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1970s]]
+[[Category:Wizards]]

@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Cormack McLeod
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref>He refers to golf clubs as "peculiar metal sticks" implying he was not a [[Muggle-born]].</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Manager of the [[Montrose Magpies]]
+|house = 
+|loyalty = [[Montrose Magpies]]
+}}
+{{Quote|Alasdair made a simple mistake, which admittedly cost us the match and made us slip to third place in the League. I am quite sure, however, that nothing like this will happen again. He will certainly be unable to kick the Snitch if I turn him into a jellyfish, which is the sort of simple mistake I might allow myself one of these days.|Cormack McLeod, about [[Montrose Magpies]] Chaser [[Alasdair Maddock]]|The Daily Prophet (real-world)}}
+'''Cormack McLeod''' was the manager of the [[Quidditch]] [[Quidditch team|team]], the [[Montrose Magpies]].<ref name="wizardsm">"[http://www.hplex.info/wizards/a-z/m.html Wizards, Witches and Beings: M]" on the Harry Potter Lexicon</ref><ref>[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[8 February]], [[1999]], Page 3</ref> He fired one of the team's [[Chaser]]s, [[Alasdair Maddock]], prior to a match against the [[Caerphilly Catapults]] because he had been caught playing a [[Non-magic people|Muggle]] sport involving the use of "''peculiar metal sticks''" to knock "''non-flying balls into holes in the ground.''"<ref name="wizardsm" /><ref name="dp">"[http://www.hplex.info/about/sources/source_dp.html Daily Prophet newsletters]" on The Harry Potter Lexicon</ref> Maddock had previously upset Quidditch matches by trying out football and basketball tactics.<ref name="wizardsm" />
+
+==Behind the scenes==
+McLeod is not only a real Scottish clan, but also the surname of the main character of the [[1986]] fantasy film ''[[wikipedia:Highlander (film)|Highlander]]'': Connor McLeod, played by [[France|French]] actor [[wikipedia:Christopher Lambert|Christopher Lambert]].
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:McLeod, Cormac}}
+
+[[pl:Cormack McLeod]]
+[[zh:科马克·麦克劳德]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Quidditch managers]]
+[[Category:Wizards]]

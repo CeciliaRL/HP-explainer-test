@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = snatcher
+|name = Unidentified Snatchers in Diagon Alley
+|image = UF Snatcher Gang .png
+|born = Before [[1997]]
+|died = [[2 May]], [[1998]] (most likely)<ref name="death">Most [[Snatchers]] were killed by [[Neville Longbottom]] and [[Seamus Finnigan]] at the start of the [[Battle of Hogwarts]].</ref>
+|blood = [[Pure-blood]]s or [[Half-blood]]s<ref name="blood">[[Snatchers]] hunted [[Muggle-born]]s for financial reward, meaning they were not Muggle-borns themselves.</ref>
+|nationality = 
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]s<ref name="DHF1"/><ref name="DHF2"/>
+|gender = Males<ref name="DHF1"/><ref name="DHF2"/>
+|skin = Light<ref name="DHF1"/><ref name="DHF2"/>
+|hair = Various<ref name="DHF1"/><ref name="DHF2"/>
+|eyes = Various<ref name="DHF1"/><ref name="DHF2"/>
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Snatchers]]<ref name="DHF1"/><ref name="DHF2"/>
+|house = 
+|loyalty = [[Snatchers]]<ref name="DHF1"/><ref name="DHF2"/>
+}}
+This gang of '''[[Snatchers]]''' could be found patrolling the streets of [[Diagon Alley]] in [[1997]]-[[1998]].<ref name="DHF1"/><ref name="DHF2"/>
+
+==History==
+During the time in which [[Death Eaters]] [[Fall of the Ministry of Magic|controlled]] the [[British Ministry of Magic]] in the late [[1990s]], these Snatchers patrolled the dark and derelict streets of [[Diagon Alley]], intimidating other [[Wizardkind|wizards]] with their threatening presence. In [[1997]], [[Mundungus Fletcher]] saw them, and hid in an alleyway to avoid them spotting him.<ref name="DHF1">{{DH|F1}}</ref> 
+
+In [[1998]], the [[trio]] and [[Griphook]] saw these Snatchers patrolling the streets of [[Diagon Alley]] as they were entering [[Gringotts Wizarding Bank]].<ref name="DHF2">{{DH|F2}}</ref> It is likely, although unproven that these Snatchers participated in the [[Battle of Hogwarts]], on [[2 May]] 1998, and were killed by [[Neville Longbottom]] when he blew up the [[Wooden Bridge]] which the Snatchers tried to cross.<ref name="death"/>
+
+==Appearances==
+*{{DH|F1}} {{1st}}
+*{{DH|F2}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]
+[[Category:Unidentified snatchers]]

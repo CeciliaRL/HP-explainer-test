@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = [[File:Ministry of Magic meeting assigner.PNG|250px]]
+|name = Ministry of Magic meeting assigner
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">As he was working at the Ministry during Voldemort's rule, it is highly unlikely he was Muggle-born. Also, he seems to be prejudiced against [[Muggle-born]] [[Mary Cattermole]].</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DHG1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHG1"/>
+|gender = Male<ref name="DHG1"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="DHG1"/>
+|eyes = 
+|skin = Pale<ref name="DHG1"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[British Ministry of Magic]] official<ref name="DHG1"/>
+|house = 
+|loyalty = [[British Ministry of Magic]]<ref name="DHG1"/>
+}}
+This '''[[Wizardkind|wizard]]''' was a [[British Ministry of Magic|Ministry of Magic]] official, after the [[Fall of the Ministry of Magic]].
+
+==Biography==
+On [[2 September]], [[1997]], he was looking for [[Reginald Cattermole]] and [[Mafalda Hopkirk]], as they were late for a meeting.<ref name="DHG1">{{DH|G1}}</ref>
+
+==Appearances==
+*{{DH|G1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry employees of unknown Department}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

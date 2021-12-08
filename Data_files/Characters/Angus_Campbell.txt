@@ -1,0 +1,45 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Angus Campbell
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Lennox Campbell]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Angus Campbell''' was a [[Chaser]] for the [[Montrose Magpies]].<ref name="wizardsc">"[http://www.hplex.info/wizards/a-z/c.html Wizards, Witches and Beings: C]" on the Harry Potter Lexicon</ref> He originally played for the [[Caerphilly Catapults]], but when [[Alasdair Maddock]] was fired, he was taken on as a replacement.<ref name="wizardsc" /><ref>"[http://www.hplex.info/about/sources/source_dp.html Daily Prophet newsletters]" on The Harry Potter Lexicon</ref>
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Campbell, Angus}}
+
+[[pl:Angus Campbell]]
+[[Category:British individuals]]
+[[Category:Chasers]]
+[[Category:Males]]
+[[Category:Wizards]]

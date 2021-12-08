@@ -1,0 +1,41 @@
+{{conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Dog owner in Knockturn Alley HBPF.png|thumb]]
+|name = Unidentified pet-owner
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPF"/>
+|gender = Male<ref name="HBPF"/>
+|height = 
+|weight = 
+|hair = Dark<ref name="HBPF"/>
+|eyes = 
+|skin = Light<ref name="HBPF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Knockturn Alley]]<ref name="HBPF"/>
+}}
+{{Quote|Come on! Come on!|This individual to his animals|Harry Potter and the Half-Blood Prince (film)}}
+This '''man''' was an individual who visited [[Knockturn Alley]]. In [[1996]] he was heard running with his two [[dog]]s and his [[pig]]. He rather irritably hurried his pet animals along with him.<ref name="HBPF">{{HBP|F}}</ref>
+
+==Appearances==
+*{{HBP|F}} {{1st}} 
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

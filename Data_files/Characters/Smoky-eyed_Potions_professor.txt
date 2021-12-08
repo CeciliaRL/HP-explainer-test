@@ -1,0 +1,59 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Smoky-eyed Potions professor
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Potions Master]]
+|signature = 
+|species = [[Human]]<ref name="Act4Scene14"/>
+|gender = Female<ref name="Act4Scene14"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = Smoky<ref name="Act4Scene14"/>
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Potions Master]] at [[Hogwarts School of Witchcraft and Wizardry]]<ref name="Act4Scene14"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="Act4Scene14"/>
+}}
+{{Dialogue a-b|Albus Potter|I honestly thought I'd be the first of us to get a girlfriend.|Scorpius Malfoy|Oh, you will, undoubtedly, probably that new smoky-eyed Potions professor — she's old enough for you, right?|[[Albus Potter]] and [[Scorpius Malfoy]] discuss girlfriends in [[June]], [[2021]].|Harry Potter and the Cursed Child}}
+This '''individual''' was a [[wizardkind|witch]] who started teaching [[Potions (class)|Potions]] at [[Hogwarts School of Witchcraft and Wizardry]] in [[2021]]. According to [[Scorpius Malfoy]], she was old and "smoky-eyed".<ref name="Act4Scene14">{{CC|B|4|14}}</ref>
+
+==Biography==
+In the end of the [[2020–2021 school year]], [[Scorpius Malfoy]] joked that [[Albus Potter]] was probably romantically attracted to the new [[Potions (class)|Potions]] [[professor]], in reference to his "[[Delphini|thing about older women]]".<ref name="Act4Scene14"/>
+
+==Appearances==
+*{{CC}} {{1st Mention}}
+*{{CC|P}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Horace Slughorn]]
+|position=[[Potions Master]]
+|years= [[2021]]-?
+|successor=Unknown
+}}
+{{End box}}
+{{Staff}}
+{{Potions}}
+[[es:Profesora de ojos azul grisáceo]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Potions Masters]]
+[[Category:Unidentified Hogwarts employees]]
+[[Category:Wizards]]

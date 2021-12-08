@@ -1,0 +1,55 @@
+{{Transcribed image|File:PeterJonesLostCauldronNotice.jpg}}
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Peter Jones
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="peter jones"/>
+|gender = Male<ref name="peter jones"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Megan Jones]] (possibly)
+*[[Gwenog Jones]] (possibly)
+*[[Hestia Jones]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="peter jones"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="peter jones"/>
+**[[Gryffindor]]<ref name="peter jones"/>
+*[[Jones family]]
+}}
+'''Peter Jones''' was a [[Wizardkind|wizard]] and [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]]. He once posted a notice asking if anyone had found his lost [[cauldron]], which he described as "sort of dented on the top and burned on the bottom," on the [[Gryffindor Notice Board|bulletin board]] in the [[Gryffindor Tower|Gryffindor common room]].<ref name="peter jones">See [[:File:PeterJonesLostCauldronNotice.jpg|this image]].</ref>
+
+==Etymology==
+The name "Peter" is derived from the Greek Πετρος (Petros) meaning "stone".
+
+==Appearances==
+*{{WWHP}} {{1st Mention}} {{Mentioned on a poster}}
+
+==Behind the scenes==
+In reality, an entrepreneur, founder of Phones International and appointed Commander of the Order of the British Empire (CBE) also named [[wikipedia:Peter Jones (entrepreneur)|Peter Jones]] attended the {{DH|F2}} premiere in London July 2011, and was seen signing autographs there.<ref>''[http://youtu.be/LHABlO2CKLM Video: Harry Potter and the Deathly Hallows Part 2 Premiere London 2011 - Magical Omnibus]''</ref>
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Jones, Peter}}
+
+[[pl:Peter Jones]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Jones family|Peter]]
+[[Category:Males]]
+[[Category:Wizards]]

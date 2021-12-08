@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:McClaggan COG.png]]
+|name = 
+|born = [[31 August]] [[1916]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COG64"/>
+|gender = Male<ref name="COG64"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="COG64"/>
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="COG64"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="COG64"/>
+**[[Gryffindor]]<ref name="COG64"/>
+}}
+'''McClaggan''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1920s]], having been [[Sorting ceremony|Sorted]] into [[Gryffindor]] house.<ref name="COG64"/> 
+
+==Biography==
+In [[September]] [[1927]], McClaggan was being taught by [[Professor]] [[Albus Dumbledore]] in [[Defence Against the Dark Arts]], when the lesson was interrupted by [[Torquil Travers]], the [[Head of Department|Head]] of the [[Department of Magical Law Enforcement]], and several accompanying [[Auror]]s. McClaggan tried to defend Dumbledore, much to Travers's irritation, before being ordered to follow [[Minerva McGonagall]] out of the [[Classroom 3C|classroom]].<ref name="COG64">{{COG|S|64}}</ref>
+
+==Behind the scenes==
+*McClaggan was portrayed by [[Alfie Simmons]] in {{COG}}.
+*Interestingly, even though the official spelling of the surname is given as "McClaggan" in {{COG|S}}, it is homophonous with "[[McLaggen family|McLaggen]]", the surname of [[Cormac McLaggen|Cormac]], a character in the original [[Harry Potter series|''Harry Potter'' novels]]. This has made some speculate the two were meant to be relatives; in an [[Wikipedia:Instagram|Instagram]] Story on 3 January 2021, actor [[Alfie Simmons]] referred to the character he played in {{COG}} as "the grandfather of a character from the originals",<ref name="Instagram">[https://www.instagram.com/alfiettsimmons/ @alfiettsimmons] on Instagram {{see image|File:Alfie Simmons instagram history.jpg}}</ref> but there has been no official confirmation of this.
+
+==Appearances==
+*{{COG|S}} {{1st}}
+*{{COG}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:McClaggan]]
+[[de:McClaggan]]
+[[de2:McClaggan]]
+[[fr:McClaggan]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,29 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:Cliodne.png|250px]]
+|name = Cliodna's birds
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Bird]]s<ref name="FWC"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Cliodna]]<ref name="FWC"/>
+}}
+The [[Middle Ages|medieval]] [[Ireland|Irish]] [[druid]]ess '''[[Cliodna]]''' had '''three [[magic]]al birds''' that sang the sick to sleep and [[Healing magic|cured]] them.<ref name="FWC">[[Chocolate Frog Card]]s (see [http://web.archive.org/web/20060601131005/http://harrypotter.tokenzone.com/set_2001/tokens/token_14.swf this])</ref>
+
+==Appearances==
+*''[[Chocolate Frog Card]]s'' {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Birds]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Healing magic]]
+[[Category:Pets]]

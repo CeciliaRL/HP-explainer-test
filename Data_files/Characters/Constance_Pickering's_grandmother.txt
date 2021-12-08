@@ -1,0 +1,57 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Constance Pickering's grandmother
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WU">{{WU}} "Brilliant Event: Christmas Calamity"</ref>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Female<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Constance Pickering's mother|Daughter or daughter in law]]<ref name="WU"/>
+*[[Constance Pickering's older brother|Grandson]]<ref name="WU"/>
+*[[Constance Pickering's sister|Granddaughter]]<ref name="WU"/>
+*[[Constance Pickering]] (granddaughter)<ref name="WU"/>
+*[[Constance Pickering's Squib brother|Grandson]]<ref name="WU"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Pickering family]]<ref name="WU"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]<ref name="WU"/>
+}}
+This '''[[Wizardkind|witch]]''' was the grandmother of [[Constance Pickering]].<ref name="text"/>
+
+==Biography==
+She attended [[Hogwarts School of Witchcraft and Wizardry]] in her youth and was a member of [[Hufflepuff]] house.<ref name="text"/>
+
+When Constance was ten years old, her grandmother came over for [[Christmas]]. She had a [[badger]] brooch, that Constance pilfered to play with. In punishment, Constance spent the rest of Christmas locked in the attic.<ref name="text">{{WU}} {{see image|File:Christmas Calamity - pt2 - Grandma Pickering - WU.png}}</ref>
+
+==Possessions==
+*'''Badger brooch''': She owned a brooch in the shape of a [[badger]], the mascot of [[Hufflepuff|Hufflepuff House]].
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pickering, Constance gradmother}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Parents]]
+[[Category:Wizards]]

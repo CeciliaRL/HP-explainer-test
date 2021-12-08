@@ -1,0 +1,46 @@
+{{Transcribed image|File:Rebecca Ramsea.jpg}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Rebecca Ramsea
+|born = 
+|died = Prior to [[August]] [[1994]]<ref name="GOFF"/>
+|blood = [[Non-magic people|Muggle]]<ref name="GOFF"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFF"/>
+|gender = Female<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Rebecca Ramsea''' (c. [[1994]]) was a [[Non-magic people|Muggle]] woman who was buried in the [[Little Hangleton]] [[Little Hangleton graveyard|graveyard]].<ref name="GOFF">{{GOF|F}} (''Chapter One - The Riddle House'') {{see image|File:Rebecca Ramsea.jpg}}</ref>
+
+==Etymology==
+The name "Rebecca" comes from the Hebrew name רִבְקָה (Rivqah), possibly meaning "a snare" in Hebrew, or perhaps derived from an Aramaic name.
+
+==Appearances==
+*{{GOF|F}} {{Comment|Mentioned on gravestone}} 
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ramsea, Rebecca}}
+[[pl:Rebecca Ramsea]]
+[[Category:British individuals|Ramsea, Becca]]
+[[Category:Buried at Little Hangleton graveyard|Ramsea, Becca]]
+[[Category:Females|Ramsea, Becca]]
+[[Category:Muggles|Ramsea, Becca]]

@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Gabriella Mather
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Emily Mather]] (unknown)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Mather family]]
+}}
+__NOTOC__
+'''Gabriella Mather'''<ref>Closed captions on the DVD/Blu-ray of {{DH|F1}}</ref> was a [[Wizardkind|witch]] reported missing along with her relative, [[Emily Mather|Emily]], on the ''[[Potterwatch]]'' radio programme in [[1997]]. Her disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.
+
+==Etymology==
+The name "Gabriella" comes from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "strong man of God".
+
+==Behind the scenes==
+*This character is presumably a tribute to a relative of [[James Mather]], who worked as a supervising sound editor on every ''Harry Potter'' film from ''[[Harry Potter and the Order of the Phoenix (film)|Harry Potter and the Order of the Phoenix]]'' onward.<ref>[http://www.imdb.com/name/nm0558450/?ref_=ttfc_fc_cr274/ James Mather's profile on IMDb]</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Mather, Gabriella}}
+
+[[fr:Gabriella Mather]]
+[[pl:Gabriella Mather]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Mather family]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

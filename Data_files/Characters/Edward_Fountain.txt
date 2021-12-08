@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Edward Fountain
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Actor
+|house=
+|loyalty=
+}}'''Edward Fountain''' was a [[Muggle|No-Maj]] actor in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:TheNewYorkAffair.jpg}}</ref>
+
+Fountain starred with [[Virginia Flowers]] in a production of ''[[The New York Affair]]'' staged at the [[Brockman Theatre]] in [[New York]] in [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Fountain, Edward}}
+
+[[es:Edward Fountain]]
+[[pl:Edward Fountain]]
+[[Category:Actors]]
+[[Category:Males]]
+[[Category:Muggles]]

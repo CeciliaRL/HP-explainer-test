@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=quidditch-player
+|image=
+|name=Willi Wenzel
+|hideb=hide
+|born= after [[1976]], [[Liechtenstein]] (possibly)
+|died=
+|blood=
+|alias=
+|title=[[Chaser]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Chaser]] for the [[Liechtenstein National Quidditch team]]
+|house=
+|loyalty=[[Liechtenstein National Quidditch team]]
+}}'''Willi Wenzel''' was a [[Wizardkind|wizard]] from [[Liechtenstein]] and a [[Chaser]] for the [[2014]] [[Liechtenstein National Quidditch team]]. During the fifth match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], Liechtenstein versus [[Chadian National Quidditch team|Chad]], Wenzel was the man of the match, scoring the third goal from sixty yards even after receiving two [[Bludger]]s to the head.<ref name="lie-v-tcd">{{PM}} - [[LIECHTENSTEIN VERSUS CHAD (I)|LIECHTENSTEIN_VERSUS_CHAD_(I)]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+[[de:Willi Wenzel]]
+[[pl:Willi Wenzel]]
+[[fr:Willi Wenzel]]
+{{DEFAULTSORT:Wenzel, Willi}}
+[[Category:20th century births]]
+[[Category:Chasers]]
+[[Category:Liechtenstein individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

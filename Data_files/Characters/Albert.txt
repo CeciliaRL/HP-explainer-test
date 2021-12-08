@@ -1,0 +1,49 @@
+{{Imageless}}
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Albert
+|born = on or prior to [[31 August]] [[1981]],<ref name="age">He must have been at least 11 in [[1992]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="COSG"/>
+|eyes = 
+|skin = Light<ref name="COSG"/>
+|family = *[[Marilyn]] (possibly)
+*[[Arthur (Hufflepuff student)|Arthur]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="COSG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSG"/>
+**[[Hufflepuff]]<ref name="COSG"/>
+}}
+'''Albert''' was a [[Wizardkind|wizard]] and student at [[Hogwarts School of Witchcraft and Wizardry]], who was [[Sorting ceremony|sorted]] into [[Hufflepuff]] in the [[1990s]]. He said that [[Argus Filch]] talked to his [[Mrs Norris|cat]] suggesting that he was a character in the [[Plot to open the Chamber of Secrets|plot]] to open the [[Chamber of Secrets]], and that Filch punished him for being out of bed at night time. He said that he wished there would be an Heir of Hufflepuff and asked [[Harry Potter]] if he could say Albert in [[Parseltongue]]. He once got a bag of beetle pincers by [[owl]].<ref name="COSG">{{COS|G}} {{C|PC version}}</ref>
+
+==Behind the scenes==
+*He may be related to [[Marilyn]] and [[Arthur (Hufflepuff student)|Arthur]] by the fact that he is a [[Hufflepuff]], shared the same love for beetle pincers and the out-of-universe fact that he only appeared in the PC version of the game.
+
+==Appearances==
+*{{COS|G}} {{1st Mention}} {{Comment|PC version only}}
+
+==Notes and references==
+{{Reflist}}[[pl:Albert]]
+[[fr:Albert]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Sorted in the 20th century]]
+[[Category:Wizards]]

@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mrs Ollivander
+|born = 
+|died = 
+|blood = 
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Garrick Ollivander]] (husband)
+*[[Garrick Ollivander's son|Son]] 
+*[[Garrick Ollivander's daughter|Daughter]]  †
+*[[Gervaise Ollivander]] (father-in-law)
+*[[Garrick Ollivander's mother|Mother-in-law]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mrs Ollivander''' was the wife of [[Garrick Ollivander]]. The couple had a [[Garrick Ollivander's son|son]], as well as a [[Garrick Ollivander's daughter|daughter]], who died prematurely.<ref name="ollivander">{{WW|mr-ollivander}} (archived copy of old version [https://web.archive.org/web/20151105145544/http://lady-slytherin-forever.tumblr.com/post/8978736031/information-about-ollivander here])</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Ollivander, Mrs (II)}}
+
+[[fr:Épouse de Garrick Ollivander]]
+[[pl:Żona Ollivandera]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Ollivander family]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

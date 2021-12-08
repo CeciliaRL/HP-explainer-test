@@ -1,0 +1,53 @@
+
+{{Real world subject}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Stuart Hogg
+|hideb=
+|born=[[24 June]], [[1992]]<br/>[[Wikipedia:Melrose, Scottish Borders|Melrose]], [[Wikipedia:Scottish Borders|Scottish Borders]]
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Rugby union player
+|house=
+|loyalty=[[Scottish rugby team]]
+}}
+'''Stuart Hogg''' (b. [[24 June]], [[1992]]), a professional rugby union player who plays as a [[Wikipedia:Rugby union positions#Full-back|full-back]] for the [[Scottish rugby team]] since [[2012]],<ref name="Wikipedia">{{Wikilink|Stuart Hogg (rugby player)}}</ref> was rumoured to be a very talented [[Squib]].<ref name="Pottermore">{{WW|scottish-rugby}}</ref> He was, however, a [[wizardkind|wizard]].<ref name="wizard">[https://twitter.com/jk_rowling J.K. Rowling (@jk_rowling)] on Twitter: [https://twitter.com/jk_rowling/status/711242899279781888 "That thing where I said Stuart Hogg might be a Squib? He's a wizard."]</ref>
+
+In [[2014]], it came under suspect among [[wizarding world|wizarding circles]], that Stuart Hogg, along with [[Kelly Brown]] and [[Jim Hamilton]], were smuggled into the team by the [[Wizarding Supporters of Scottish Rugby Union|WSSRU]], in violation of the [[International Statute of Wizarding Secrecy]].<ref name="Pottermore"/>
+
+==Appearances==
+*{{PM}} {{1st mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hogg, Stuart}}
+
+[[es:Stuart Hogg]]
+[[zh:斯图亚特·霍格]]
+[[pl:Stuart Hogg]]
+[[Category:1992 births]]
+[[Category:Males]]
+[[Category:Rugby players]]
+[[Category:Scottish individuals]]
+[[Category:Wizards]]

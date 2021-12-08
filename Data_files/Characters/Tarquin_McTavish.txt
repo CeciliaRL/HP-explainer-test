@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = wizard
+|image = TarquinMcTavish.png
+|name = Tarquin McTavish
+|born = [[1955]]<ref name="JKRS"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Male<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = Red<ref name="JKRS"/>
+|eyes = Blue<ref name="JKRS"/>
+|skin = White<ref name="JKRS"/>
+|family = [[Torquil McTavish]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Tarquin McTavish''' (b. [[1955]]) was a [[Wizardkind|wizard]] who was imprisoned in [[Azkaban]] for trapping his [[Tarquin McTavish's neighbour|Muggle neighbour]] in a [[Tarquin McTavish's teakettle|teakettle]].<ref name="JKRS">{{JKRS}}</ref><ref name="PM">"Timeline of the Wizarding World (infographic)" at {{PM}} {{c|Archived; view [https://www.reddit.com/r/PottermoreWritings/comments/4woua4/timeline_of_the_wizarding_world/ transcript on Reddit]}}</ref>
+
+==Etymology==
+The name "Tarquin" is from the Roman name Tarquinius, which is of unknown meaning, possibly Etruscan in origin. This was the name of two early kings of [[Rome]].{{Fact}}
+
+==Behind the scenes==
+*If he attended [[Hogwarts School of Witchcraft and Wizardry]], he may have been in the same year as [[Narcissa Malfoy]], and five years above the [[Marauders]].
+
+==Appearances==
+{{Imagecat|Images of Tarquin McTavish}}
+*{{JKRS}} {{1st}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:McTavish, Tarquin}}
+[[de:Tarquin McTavish]]
+[[el:Tάρκουιν ΜακΤάβις]]
+[[es:Tarquin McTavish]]
+[[fr:Tarquin McTavish]]
+[[it:Tarquin McTavish]]
+[[pl:Tarquin McTavish]]
+[[ru:Тарквин Мактавиш]]
+[[zh:塔奎因·麦克塔维什]]
+[[Category:1955 births|McTavish,Tarquin]]
+[[Category:Azkaban convicts]]
+[[Category:Blue-eyed individuals]]
+[[Category:Males|McTavish,Tarquin]]
+[[Category:Muggle-baiting]]
+[[Category:Wizard of the Month|McTavish,Tarquin]]
+[[Category:Wizards]]

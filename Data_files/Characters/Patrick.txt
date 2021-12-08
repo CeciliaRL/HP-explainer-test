@@ -1,0 +1,36 @@
+{{WizardsUniteSpoiler}}{{Youmay|the Augurey owned by Newton Scamander|[[Patrick (disambiguation)|other people with the same name]]}}
+{{Pet individual infobox
+|image = Augurey.jpg
+|name = Patrick
+|born = Before September [[1927]]
+|died = 
+|alias = 
+|title = 
+|species = [[Augurey]]<ref name="COG39"/>
+|gender = Male<ref name="COG39"/>
+|height = 
+|hair = 
+|feathers = Greenish-black<ref name="COG39"/>
+|eyes = Blue<ref name="COG39"/>
+|skin = 
+|family = 
+|loyalty = [[Newton Scamander|Newt Scamander]] (owner)<ref name="COG39"/>
+}}
+'''Patrick''' was a male [[Augurey]] kept by [[Newton Scamander|Newt Scamander]] in the menagerie beneath his [[Newton Scamander's apartment|apartment]] in [[1927]].<ref name="COG39"/>
+
+==Biography==
+When departing for [[Paris]] in [[1927]], Newt left a note for his assistant [[Bunty]] reminding her to give Patrick his pellets.<ref name="COG39">{{COG|S|39}}</ref>
+
+==Appearances==
+*{{COG|S}} {{1st}}
+*{{COG}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Patrick (Augurey)]]
+[[fr:Patrick]]
+[[Category:Augureys]]
+[[Category:Blue-eyed individuals]]
+[[Category:Males]]
+[[Category:Newton Scamander's suitcase]]

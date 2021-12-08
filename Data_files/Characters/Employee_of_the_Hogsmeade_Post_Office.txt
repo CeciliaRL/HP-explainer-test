@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Employee of the Owl Post Office
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="POA14"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POA14"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Hogsmeade Post Office]] employee<ref name="POA14"/>
+|house = 
+|loyalty = [[Hogsmeade Post Office]]<ref name="POA14"/>
+}}
+This '''[[Wizardkind|witch or wizard]]''' was employed by the [[Hogsmeade Post Office]] in [[Hogsmeade]] village sometime prior to [[1994]]; in the spring of that year, [[Harry Potter]] snuck into the village using the [[Marauder's Map]] and the [[Cloak of Invisibility]], while this individual helped his friend [[Ronald Weasley|Ron]] to check on the price to send an owl to his brother [[William Weasley|Bill]] in [[Egypt]], giving Harry time to look around.<ref name="POA14">{{POA|B|14}}</ref>
+
+==Appearances==
+*{{POA}} {{1st}} {{Indirect}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogsmeade}}
+[[es:Empleado de la Oficina de Correo por lechuza]]
+[[Category:British individuals|Owl Post Office]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals|Owl Post Office]]
+[[Category:Wizards|Owl Post Office]]

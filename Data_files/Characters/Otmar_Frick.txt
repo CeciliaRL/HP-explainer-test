@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Otmar Frick
+|born = after [[1976]], [[Liechtenstein]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Liechtenstein National Quidditch team]]
+|house = 
+|loyalty = [[Liechtenstein National Quidditch team]]
+}}
+'''Otmar Frick''' was a [[Wizardkind|wizard]] from Liechtenstein and a [[Chaser]] for the [[2014]] [[Liechtenstein National Quidditch team]]. During the fifth match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], Liechtenstein versus [[Chadian National Quidditch team|Chad]], was believed to literally have fallen asleep shortly before play was stopped for the second evening.<ref name="lie-v-tcd">{{PM}} - [[LIECHTENSTEIN VERSUS CHAD (II)|LIECHTENSTEIN_VERSUS_CHAD_(II)]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+[[de:Otmar Frick]]
+[[pl:Otmar Frick]]
+[[fr:Otmar Frick]]
+{{DEFAULTSORT:Frick, Otmar}}
+[[Category:Chasers]]
+[[Category:Liechtenstein individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

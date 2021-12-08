@@ -1,0 +1,51 @@
+{{Individual infobox
+|name = Abel Treetops
+|image = 
+|born = Before [[1832]]<ref name="FB2017"/>
+|died = 
+|blood = 
+|marital = 
+|title = 
+|nationality = [[United States of America|American]]<ref name="FB2017"/>
+|signature = 
+|alias = 
+|species = [[Human]]<ref name="FB2017"/>
+|gender = Male<ref name="FB2017"/>
+|hair = 
+|skin = 
+|eyes = 
+|weight = 
+|height = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|job = Con Artist<ref name="FB2017"/>
+|house = 
+|loyalty = 
+|theme = wizard
+}}
+'''Abel Treetops''' (fl. [[1832]]) was an [[United States of America|American]] [[Wizardkind|wizard]] from [[Cincinnati]] who claimed to have patented a method of taming [[Wampus cat]]s for use as guards over wizarding houses. Treetops was exposed as a fraud when [[Magical Congress of the United States of America|MACUSA]] officials raided his home and found him putting [[Engorgement Charm]]s on [[Kneazle]]s.<ref name="FB2017">{{FB|2017}}</ref>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': Treetops appeared to be skilled with the casting of charms, as he successfully used the [[Engorgement Charm]] to enlarge the size of several [[Kneazle]]s to make them appear as [[Wampus cat]]s.<ref name="FB2017"/>
+
+==Appearances==
+*{{FB|2017}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Treetops, Abel}}
+
+[[de:Abel Treetops]]
+[[fr:Abel Treetops]]
+[[pl:Abel Treetops]]
+[[de2:Abel Treetops]]
+[[ru:Абель Тревоверх]]
+[[Category:American individuals]]
+[[Category:Con artists]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

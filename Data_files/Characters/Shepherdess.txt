@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:The Shepherdess.jpg|250px]]
+|name = ''Shepherdess''
+|born = 
+|died = Before [[1995]] (possibly)
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]] (most likely)<ref name="British">She was most likely [[Great Britain|British]] (or more specifically [[England|English]]) given her very strong West Country accent.</ref> 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTPG"/>
+|gender = Female<ref name="OOTPG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="OOTPG"/>
+|eyes = 
+|skin = Light<ref name="OOTPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Shepherdess<ref name="OOTPG"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTPG"/>
+}}
+{{Dialogue a-b|Harry Potter|Do you know Percival Pratt's password?|The Shepherdess|Me? No, no, no. Now that Google Stump fellow — you know, in that hall, near the viaduct; he's a portrait with answers|[[Harry Potter]] tries to figure out [[Percival Pratt]]'s password|Harry Potter and the Order of the Phoenix (video game)}}
+The '''''Shepherdess''''' was a portrait hung at [[Hogwarts Castle]], on the [[Staircase between the ground-floor corridor and second-floor corridor|Charms Staircase]]. She was depicted in a white dress, with her staff and with her flock behind her, in the background. She spoke in a strong West country accent.<ref name="OOTPG">{{OOTP|G}}</ref>
+
+==Behind the scenes==
+*The Shepherdess is quite similar to a [[Girl with Flowers|portrait of a girl with flowers]] featured in the film adaptations of ''[[Harry Potter and the Philosopher's Stone (film)|Philosopher's Stone]]'', ''[[Harry Potter and the Chamber of Secrets (film)|Chamber of Secrets]]'' and ''[[Harry Potter and the Prisoner of Azkaban (film)|Prisoner of Azkaban]]'' (portrayed by [[Violet Columbus]]).
+*This individual may have died sometime prior to [[1995]], as many portraits hung at [[Hogwarts Castle]] depict deceased individuals.
+*She is voiced by [[Eleanor Hans]].
+*When she declared that [[Google Stump]] is 'a portrait with answers,' she made a reference to the web search engine {{W|Google}}, which is primary online tool used to look for information.
+
+==Appearances==
+*{{OOTP|G}} {{1st}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts third floor}}
+
+[[fr:Bergère]]
+[[es:Pastora]]
+[[pl:Pasterka]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Portraits]]
+[[Category:Wizards]]

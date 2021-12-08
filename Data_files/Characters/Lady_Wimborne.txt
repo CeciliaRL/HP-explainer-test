@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Lady Wimborne
+|hideb=
+|born=In or before [[1892]]<ref name="age">Presumably Lady Wimborne was of age when she founded the Witches' League in 1899.</ref>
+|died=
+|blood=[[Muggle-born]] or [[Half-blood]] (possibly)<ref name="Blood">According to Remus Lupin in {{HBP|B|16}}, nobility and royalty do not exist in the Wizarding World. The fact that Wimborne is "Lady" implies that she comes from Muggle ancestry, making her at minimum a half-blood witch.</ref>
+|alias=
+|title=*[[Honourific#Lady|Lady]]<ref name="COSF"/>
+*President<ref name="COSF"/>
+|hidep=
+|species=[[Human]]<ref name="COSF"/>
+|gender=Female<ref name="COSF"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=President of the [[Witches' League]]<ref name="COSF"/>
+|house=
+|loyalty=[[Witches' League]]<ref name="COSF"/>
+}}
+'''Lady Wimborne''' (fl. [[1899]]) was a [[Wizardkind|witch]] who was president of the [[Witches' League]].<ref name="COSF">{{COS|F}} DVD (Disc 2 - Lockhart's Office)</ref>
+
+==Behind the scenes==
+*This character is mentioned only on an award certificate seen in the "[[Gilderoy Lockhart|Lockhart's Office]]" feature on Disc 2 of the ''[[Harry Potter and the Chamber of Secrets (film)|Harry Potter and the Chamber of Secrets]]'' DVD. The prop award certificate appears to be partially constructed from a membership certificate for a real historical organisation called the Ladies' League for the Defence of the Reformed Faith of the Church of England. This group was founded in 1899 by a Lady Wimborne and advocated against [[Wikipedia:Ritualism|ritualism]] in the [[Wikipedia:Church of England|Anglican Church]].<ref>[http://books.google.ca/books?id=55aaZGqqh6oC&pg=PA317&lpg=PA317&dq=%22Ladies'+League+for+the+defence+of+the%22+wimborne&source=bl&ots=Pr8Imf7miA&sig=5t24pE6dgarlSIdMuZoWwuR0tNY&hl=en&ei=YUtZSrmSL5PYtAP-y8XBBg&sa=X&oi=book_result&ct=result&resnum=2 ''Anglican ritualism in Victorian Britain, 1830-1910''] by Nigel Yates</ref>
+
+==Appearances==
+*{{COS|F}} {{1st Mention}} {{C|Disc 2}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Wimborne, Lady}}
+[[es:Lady Wimborne]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Nobility]]
+[[Category:Wizards]]

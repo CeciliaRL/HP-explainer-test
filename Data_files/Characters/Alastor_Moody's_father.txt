@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Mr Moody
+|born = 
+|died = Before 1997<ref>[[Alastor Moody]]'s [[:File:AlastorMoodyMinistryFile.png|ministry file]] states that he has no living family. Therefore, his parents must have both been deceased by [[1997]].</ref>
+|blood = [[Pure-blood]]<ref name="moodyfile">{{DH|F1}} {{see image|File:AlastorMoodyMinistryFile.png}}</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Alastor Moody's mother|Mrs Moody]] (wife) †
+*[[Alastor Moody]] (son) †
+*[[Moody family|Long line of renowned Aurors]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Auror]]
+|house = 
+|loyalty = *[[Moody family]]
+*[[British Ministry of Magic]]
+**[[Auror Office]]
+}}
+'''Mr Moody''' was a [[pure-blood]]<ref name="moodyfile" /> [[wizardkind|wizard]] who worked as an [[Auror]].<ref name="MoodyFactFile">{{PM}} - "[https://www.pottermore.com/explore-the-story/alastor-moody Explore the Story: Alastor Moody]"</ref> He was descended from a [[Moody family|long line]] of Aurors.<ref name="moodyfile" /> He married a [[Alastor Moody's mother|fellow Auror]], and together they had at least one child, a son, [[Alastor Moody|Alastor]], the greatest Auror of modern times.<ref name="moodyfile" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Moody, Alastor's father}}
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Moody family]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

@@ -1,0 +1,68 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Blenheim Stalk.jpg|250px]]
+|name = Blenheim Stalk
+|born = [[1920]]<ref name="COSG"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="COSG"/>
+|eyes = Blue<ref name="COSG"/>
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Non-magic people|Muggle]] expert<ref name="COSG"/>
+*Author<ref name="COSG"/><ref name="FBR"/><ref name="PM">{{PM}}</ref>
+|house = 
+|loyalty = 
+}}
+'''Blenheim Stalk''' (b. [[1920]]) was a [[Wizardkind|wizard]] and author who was a well-known expert on [[Non-magic people|Muggles]].<ref name="COSG">{{COS|G}}</ref>
+
+==Biography==
+===Early life===
+Blenheim was born in [[1920]].<ref name="COSG"/> He became an expert on [[Non-magic people|Muggles]] and authored many books on the subject of them, including ''[[Muggles Who Notice]]'', a book published in [[1972]].<ref name="PM"/> The book references the [[Ilfracombe Incident]] and the story of [[Dirk|"Dodgy" Dirk]].<ref name="FBR">{{FB|R}}</ref>
+
+By the 1990s, he was featured on a famous Wizard Card and was featured wearing a [[Blenheim Stalk's pocket watch|golden pocket watch]].<ref name="COSG"/>
+
+He was awarded recognition for his noteworthy and valuable research into [[Muggle Studies]] in the [[Famous Witches and Wizards Cards]] set, on a silver [[Chocolate Frog Card]].<ref name="COSG"/>
+
+==Magical abilities and skills==
+*'''[[Muggle Studies]]''': Stalk was an expert on [[Non-magic people|Muggles]] and their ways of living.<ref name="COSG"/> He authored many books on the subject of Muggles, including the book [[Muggles Who Notice]], which discusses the rare cases of Muggles who witness [[magic]] and the [[wizarding world]], showing he was very knowledgeable about his subject.<ref name="PM"/>
+
+==Appearances==
+{{Imagecat|Images of Blenheim Stalk}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{FB|R}} {{Mention}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+[[de:Blenheim Stalk]]
+[[fr:Blenheim Stalk]]
+[[fi:Blenheim Stalk]]
+[[it:Blenheim Stalk]]
+[[pl:Blenheim Stalk]]
+[[sv:Blenheim Stalk]]
+[[pt-br:Blenheim Stalk]]
+{{DEFAULTSORT:Stalk, Blenheim}}
+[[Category:1920 births]]
+[[Category:Authors]]
+[[Category:Blue-eyed individuals]]
+[[Category:Males]]
+[[Category:Muggle experts]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizards]]

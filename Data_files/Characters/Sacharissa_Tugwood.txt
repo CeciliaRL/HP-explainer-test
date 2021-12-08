@@ -1,0 +1,74 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Sacharissa Tugwood.jpg|250px]]
+|name = Sacharissa Tugwood
+|born = [[1874]]
+|died = [[1966]] (aged 91 - 92)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Dark
+|eyes = Green
+|skin = White
+|family = [[Felicitania Tugwood]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Potioneer]]
+|house = 
+|loyalty = [[Tugwood family]]
+}}
+'''Sacharissa Tugwood''' ([[1874]] – [[1966]]) was a famous [[Potioneer]], and the first [[Wizardkind|witch]] to use [[Beautification Potion|beauty]] [[potion]]s, having developed quite a few of them herself.<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+==Biography==
+===Early life===
+Tugwood was born in [[1874]]. She presumably attended [[Hogwarts School of Witchcraft and Wizardry]] (c. 1885- 1893) where she would have excelled in [[Potions (class)|Potions]].
+
+===Career as Potioneer===
+In her adulthood, Tugwood would develop many [[Beautification Potion|cosmetic potions]]. She became famous for being the first [[Wizardkind|witch]] to use such a potion. Sacharissa also discovered the pimple-curing properties of [[Bubotuber pus]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+===Death and legacy===
+Tugwood would eventually die in [[1966]], aged ninety-two. Her gravestone credited her to have made of the world a "''more beautiful place''". She was also featured on a [[Chocolate Frog Card]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': Tugwood was a highly accomplished and talented professional [[Potioneer]], having successfully invented numerous [[Beautification Potion]]s, cosmetic concoctions which enhance the beauty of the drinker, an achievement she was immortalised on a [[Chocolate Frog Card]] for, showing her proficiency in this branch of both [[magic]] and [[science]].
+*'''[[Herbology]]''': Tugwood also discovered the pimple curing properties of [[Bubotuber pus]], a natural substance extracted from the magical [[Bubotuber]] plant, an achievement in the field of Herbology, meaning she was knowledgeable of magical plants and their usages.
+
+==Etymology==
+The name Sacharissa may be related to the verb [http://dictionary.reference.com/browse/saccharise saccharize] which means to convert into sugar.
+
+==Appearances==
+{{Imagecat|Images of Sacharissa Tugwood}}[[File:Sacharissa_Tugwood-90-chocFrogCard.png|thumb|Tugwood as depicted on a silver [[Chocolate Frog Card]]]]
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Tugwood, Sacharissa}}
+
+{{Potions}}
+{{Chocolate Frog Cards}}
+
+[[fr:Sacharissa Tugwood]]
+[[fi:Sacharissa Tugwood]]
+[[pl:Sacharissa Tugwood]]
+[[pt-br:Sacharissa Tugwood]]
+[[Category:1874 births]]
+[[Category:1966 deaths]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Inventors]]
+[[Category:Potioneers]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Tugwood family]]
+[[Category:Wizards]]

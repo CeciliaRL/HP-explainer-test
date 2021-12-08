@@ -1,0 +1,79 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = 
+|born = Pre [[1886]]<ref name="WW"/>
+|died = [[1912]]<ref name="WW"/>
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WW"/>
+|alias = 
+|title = [[Minister for Magic]]<ref name="WW"/>
+|signature = 
+|species = [[Human]]<ref name="WW"/>
+|gender = Female<ref name="WW"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Auror]] (pre [[1903]])<ref name="WW"/>
+*[[Minister for Magic|British Minister for Magic]] ([[1903]] - [[1912]])<ref name="WW"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="WW"/>
+**[[Department of Magical Law Enforcement]] (formerly)
+***[[Auror Office]]<ref name="WW"/>
+}}
+'''Minister Venusia Crickerly''' was [[Minister for Magic]] from [[1903]] to [[1912]], being elected at least twice.<ref name="WW"/>
+
+==Biography==
+A former [[Auror]], Minister Crickerly was considered both competent and likeable. She died in office, however, following a [[Mandrake]]-related freak gardening accident.<ref name="WW">{{WW|ministers-for-magic}}</ref><ref name="HM36">{{HM|3|6|h}}</ref>
+
+==Etymology==
+Venusia might be a reference to Venus, who was the Roman goddess of love, beauty, desire, fertility and prosperity.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Faris Spavin]]
+|position=[[Minister for Magic]]
+|years=[[1903]] to [[1912]]
+|successor=[[Archer Evermonde]]
+}}
+{{End box}}
+
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Crickerly, Venusia}}
+
+[[de:Venusia Crickerly]]
+[[de2:Venusia Crickerly]]
+[[es:Venusia Crickerly]]
+[[fr:Venusia Crickerly]]
+[[pl:Venusia Crickerly]]
+[[pt-br:Venusia Crickerly]]
+[[ru:Венузия Крикерли]]
+[[zh:维努西亚·奎克利]]
+[[Category:1912 deaths]]
+[[Category:Accidental deaths]]
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:British Ministers for Magic]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Wizards]]

@@ -1,0 +1,30 @@
+{{Real world subject}}
+{{Individual infobox
+|name = Joseph Heller
+|born = [[1 May]], [[1923]]
+|died = [[12 December]], [[1999]]
+|blood = [[Non-magic people|Muggle]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|job = Author
+|theme = muggle
+}}
+'''Joseph Heller''' ([[1 May]], [[1923]] – [[12 December]], [[1999]]) was a [[Non-magic people|Muggle]] author who wrote ''[[Catch 22]]''.<ref name="JKRS">{{JKRS}}</ref>
+
+==Etymology==
+The name "Joseph" comes from Ioseph, the Latin form of Greek Ιωσηφ (Ioseph), which was from the Hebrew name יוֹסֵף (Yosef) meaning "he will add".
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Heller, Joseph}}
+[[es:Joseph Heller]]
+[[Category:1923 births]]
+[[Category:1999 deaths]]
+[[Category:American individuals]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Muggles]]

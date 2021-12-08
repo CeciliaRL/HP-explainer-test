@@ -1,0 +1,38 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Rodrigo Palombo
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidea=
+|job=Circus performer
+|loyalty=
+}}
+'''Rodrigo Palombo''' was a [[Non-magic people|Muggle]] circus performer. He was one of the performers whose talents were featured in [[Le Cirque du Vaga Lume]].<ref name="HPLE">{{HPLE|G}} {{see image|File:LeCirqueduVagaLumePoster.jpg}}</ref>
+
+==Appearances==
+*{{DH|F1}} {{Mentioned on a poster}}
+*{{HPLE}} {{Mentioned on a poster}}
+
+Spanish form of [[Roderick (disambiguation)]].
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Palombo, Rodrigo}}
+[[Category:Circus performers]]
+[[Category:Males]]
+[[Category:Muggles]]

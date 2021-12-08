@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = hag
+|image = 
+|name = Annis Black
+|born = [[20th century]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Hag]]<ref name="DP"/>
+|gender = Female<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|I am deeply hurt at your false and vicious assertion that I am nothing but a flesh-eating monster.|Annis Black in the ''[[Daily Prophet]]''|The Daily Prophet (real-world)}}
+'''Annis Black''' (fl. [[1999]]) was a [[Great Britain|British]] [[Hag]] who lived in [[Annis Black's cave|a cave]] in [[Deadmarsh]], [[England]] during the late twentieth century. She wrote a letter to the ''[[Daily Prophet]]'' complaining about the paper's portrayal of Hags as [[flesh]]-eating monsters. Her letter stated that her own interests included poetry, crochet and gardening. She also offered baby-sitting services.<ref name="DP">{{DP|N|1}}</ref>
+
+==Behind the scenes==
+*The name Annis Black is presumably based on the legendary Hag [[Wikipedia:Black Annis|Black Annis]], who is said to have eaten [[human]] children, and then hung their skins on the walls of her cave. Therefore, it seems somewhat suspicious that she would want to offer baby-sitting services to look after [[human]] children, possibly implying that like the rest of her species, she has a taste for their flesh.
+*Annis Black was not related to the [[pure-blood]] [[Wizardkind|wizarding]] [[House of Black]].
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Black, Annis}}
+
+[[de:Annis Black]]
+[[de2:Annis Black]]
+[[pt-br:Annis Black]]
+[[pl:Annis Black]]
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Hags]]

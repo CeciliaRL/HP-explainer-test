@@ -1,0 +1,79 @@
+{{Conjecture}}
+{{Youmay|the criminal who made headlines on multiple occasions|the [[Red-haired young witch|Red Haired Young Witch]] who appeared at [[Gellert Grindelwald's Paris rally|Grindelwald's rally]].}}{{Individual infobox
+|theme=wizard
+|name=Ginger Witch
+|alias=
+|title=
+|hideb=y
+|species=[[Human]]
+|gender=Female
+|nationality=[[United States of America|American]]
+|height=
+|hair=Red
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=Career criminal
+|house=
+|loyalty=
+}}
+The "'''Ginger Witch"''', known in France as "'''La Sorcière Rousse'''",<ref name="COG">{{COG}} {{see image|File:Le Cri De La Gargouille.jpg}}</ref> was an [[United States of America|American]]<ref name="businessinsider">"[http://www.businessinsider.com/ginger-witch-harry-potter-fantastic-beasts-2016-11 Harry Potter designers have been hiding a character in the movies' fake newspapers for years]" from Business Insider UK {{See image|File:NYGhostGingerWitch.png}}</ref> [[Wizardkind|witch]] and serial criminal whose exploits made headlines in the [[wizarding world]] in the [[20th century]].
+
+==Biography==
+===Early life===
+Little is known about the origins of the "Ginger Witch". She was born in the [[United States of America|United States]], presumably sometime in the late [[19th century]] or early [[20th century]], and was living in [[The Bronx]] in [[New York]] by [[1926]].<ref name="businessinsider" />
+
+===Criminal exploits===
+[[File:NYGhostGingerWitch.png|250px|thumb|right|"Bronx Ginger Witch prosecuted for wig theft" headline in a [[1926]] issue of ''[[The New York Ghost]]'']]
+====1926 investigation====
+The "Ginger Witch" found herself under investigation by [[wizardkind|wizarding]] authorities in [[November]] [[1926]]. The ''[[Daily Prophet]]'' carried an exclusive report on the incident, calling the witch "mysterious," which suggests this might have been her first brush with the law.<ref name="FBF">{{FB|F}} {{See image|File:Daily Prophet - 29 Nov 1926.png}}</ref>
+
+====Wig theft prosecution====
+In late [[1926]], an article by [[M. Ralphous]] in ''[[The New York Ghost]]'' reported that the "Ginger Witch," who was described as being from The Bronx, had been prosecuted for stealing a wig.<ref name="businessinsider" />
+
+====1927====
+In [[1927]], she was seen in [[Lyon]], [[France]], as reported by French newspaper ''[[Le Cri de la Gargouille]]''.<ref name="COG"/>
+
+Same year, the [[Spellbound (magazine)#No. 0227|No. 0227]] edition of the magazine ''[[Spellbound (magazine)|Spellbound]]'' claimed to unveil the witch's identity.<ref>{{COG}} {{See image|file:Spellbound magazine.png}}</ref>
+====Bertie Botts recall====
+In [[August]] [[1993]], the "Ginger Witch" was implicated in a {{w|product recall}} of [[Bertie Bott's Every Flavour Beans]]. The ''Daily Prophet'' reported that the witch was imprisoned and sent to the {{w|Solitary confinement|isolation wing}}.<ref name="LeakyCon2013">"''[[MinaLima|Making the Magic Real]]''" presentation by [[Miraphora Mina]] and [[Eduardo Lima]], at LeakyCon 2013 (29 June, 2013) {{see image|File:DailyProphet1993BackReference.png}}</ref>
+
+[[File:GingerWitchExplosionHeadline.jpg|220px|thumb|left|"Ginger Witch Survives Henna Explosion" headline in a [[1995]] issue of the ''[[Daily Prophet]]'']]
+
+====Hooliganism arrest====
+In [[1994]], the ''Daily Prophet'' reported that the "Ginger Witch" attended a [[Non-magic people|Muggle]] [[football]] match, where she was arrested for hooliganism.<ref name="gofprop">{{GOF|F}} {{see image 2|File:HooliganGingerWitchArticle.jpg|File:DailyProphetGOF.jpg}}</ref>
+
+====Flying pigs incident====
+In late [[1994]] or early [[1995]], an article by [[M. Amerinus]] in the ''Daily Prophet'' reported that the "Ginger Witch" was implicated in an incident involving two [[flying pig]]s, which interfered with the [[Non-magic people|Muggle]] [[Aeroplane|air traffic]].<ref>{{GOF|F}} {{see image|File:DailyProphet1994Page.png}}</ref>
+
+====Henna explosion====
+In August [[1995]], the "Ginger Witch" was caught in a [[henna]] explosion, but survived. The story made the front page of the ''Daily Prophet''.<ref>{{OOTP|F}} {{see image 2|File:GingerWitchExplosionHeadline.jpg|File:DailyProphetDaftorDangerous.jpg}}</ref>
+
+====Fake henna scandal====
+In [[1996]], the ''[[The Quibbler|Quibbler]]'' reported that the "Ginger Witch" was arrested in [[Caxambu]], [[Brazil]] with fake henna.<ref>{{See image|File:Ginger witch (Quibbler 1996 report).JPG}}</ref> The magazine later reported that this scandal lead to her being sent to [[Azkaban]].<ref>{{See image|File:Quibblerprop1.jpg}}</ref> She was eventually released from the prison on an unknown date.<ref>{{See image|File:GingerWitchAzkabanRelease.jpg‎‎}}</ref>
+
+==Behind the scenes==
+*[[Eduardo Lima]], a graphic artist who worked on every [[Harry Potter films|''Harry Potter'' film]] from ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'' onward, revealed that this character was inspired by Debbie, a red-haired friend of his and [[Miraphora Mina]] who worked as a buyer for the set decoration department. The pair of graphic artists gave her the nickname "Ginger Witch" and inserted a series of funny headlines about "The Ginger Witch" into the wizarding publications they designed for the film, including the ''[[Daily Prophet]]''.<ref>"[http://www.youtube.com/watch?v=3SLDLMrbbxE LeakyCon: How Harry Got Its Style Part 3]" on YouTube</ref><ref>"[http://www.youtube.com/watch?v=Ux0hec3pdL8 MinaLima Interview at LeakyCon 2012]" on YouTube</ref>
+
+==Appearances==
+*{{GOF|F}} {{Mention|newspaper}}
+*{{OOTP|F}} {{Mention|newspaper}}
+*{{HBP|F}} {{Mention|newspaper}}
+*{{FB|F}} {{Mention|newspaper}}
+*{{COG}} {{Mention|newspaper}}
+
+==Notes and references==
+{{Reflist}}[[fr:Sorcière rousse]]
+[[Category:American individuals]]
+[[Category:Azkaban convicts]]
+[[Category:Con artists]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

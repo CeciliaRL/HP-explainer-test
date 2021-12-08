@@ -1,0 +1,49 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Amelia Bones's assistant
+|born = Before [[1 September]] [[1973]] (most likely)<ref name="HM77A1">{{HM|7|7|Assist Madam Bones}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]] or [[Ireland|Irish]]<ref name="HM77A1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM77A1"/>
+|gender = Male<ref name="HM77A1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Assistant to [[Amelia Bones]] in the [[Department of Magical Law Enforcement]]<ref name="HM77A1"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="HM77A1"/>
+**[[Department of Magical Law Enforcement]]<ref name="HM77A1"/>
+**[[Amelia Bones]]<ref name="HM77A1"/>
+}}
+{{Dialogue a-b-a|Amelia Bones|I've got a busy week, and my assistant is in St Mungo's with Spattergroit. I need you to fill in.|Jacob's sibling|Me? I've never been an assistant before!|Shouldn't be too much trouble. I'm sure you can handle it.|[[Amelia Bones]] and [[Jacob's sibling]]|Harry Potter: Hogwarts Mystery}}
+This '''[[Wizardkind|wizard]]''' was the assistant of [[Amelia Bones]] in the [[Department of Magical Law Enforcement]].<ref name="HM77A1"/>
+
+At some point during the [[1990–1991 school year]], this assistant got [[Spattergroit]] and was admitted to [[St Mungo's Hospital for Magical Maladies and Injuries]]. Madam Bones asked [[Jacob's sibling]] to fill in for him, as a part of the [[Ministry of Magic student programme]]. He later returned from St Mungo's to resume his work.<ref name="HM77A1"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+[[Category:British or Irish individuals]]
+[[Category:Department of Magical Law Enforcement personnel]]
+[[Category:Males]]
+[[Category:Personal assistants]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

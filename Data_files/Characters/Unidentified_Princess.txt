@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Unidentified King's daughter
+|born = [[Middle Ages]]
+|died = [[Middle Ages]]
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Unidentified King|King]] (father)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''Princess''' was the daughter of a [[Unidentified King|monarch]] of a land during the [[Middle Ages]]. [[Leticia Somnolens]], the local [[Hag]], was jealous of this princess and tricked the Princess into pricking her finger on a spindle tainted with a [[Draught of Living Death]], sending her into a deep sleep. A [[Unidentified young wizard|young wizard]] smeared his lips with [[Wiggenweld Potion]], and then kissed the princess, curing her and bringing her out of the sleep.<ref>{{POA|G}}</ref> Her story appears to be the source of inspiration for the [[Non-magic people|Muggle]] fairy tale, [[Sleeping Beauty]].
+
+==Appearances==
+*{{POA|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Victime de Leticia Somnolens]]
+[[Category:European individuals]]
+[[Category:Females|Princess]]
+[[Category:Historical figures]]
+[[Category:Royalty|Princess]]
+[[Category:Unidentified Muggles|Princess]]

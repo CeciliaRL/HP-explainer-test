@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Portrait of a wizard in black flowing robes.jpg|249px]]
+|name=Portrait of a wizard in black flowing robes
+|hideb=
+|born=
+|died=Before [[1993]] (possibly)
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="PA13"/>
+|gender=Male<ref name="PA13"/>
+|height=
+|hair=
+|eyes=
+|skin=Pale<ref name="PA13"/>
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+This '''individual''' was a [[Wizardkind|wizard]], whose portrait hung at [[Hogwarts Castle]] in the [[1990s]], below a [[portrait of three young ladies]], on the seventh-floor level of the [[Grand Staircase]]. He was bald, very pale and dressed in black robes, flowing as though rushed by a strong wind.<ref name="PA13">{{POA|F}} - Chapter 13 (''Flight of the Fat Lady'')</ref>
+
+==Behind the scenes==
+*This portrait bears an uncanny resemblance to [[Tom Riddle|Lord Voldemort]], in his appearance from {{GOF|FA}} onwards. However, it seems rather unlikely a portrait of him would have been hung at Hogwarts under the supervision of [[Albus Dumbledore]].
+
+==Appearances==
+*{{POA|F}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts seventh floor}}
+
+[[pt-br:Retrato de um bruxo em vestes negras]]
+[[pl:Portret czarodzieja w czarnych szatach]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

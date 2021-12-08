@@ -1,0 +1,39 @@
+{{Individual infobox
+|name = Cormac O'Brien
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|family = [[O'Brien family]]
+|job = [[Auror]]
+|loyalty = [[Magical Congress of the United States of America]]
+|theme = macusa
+|hideb = hide
+|hidep = 
+|hidef = hide
+|hidem = hide
+|hidea = 
+}}'''Cormac O'Brien''' was an [[United States of America|American]] [[Wizardkind|wizard]] and one of the twelve original [[Auror]]s in the [[Magical Congress of the United States of America]].<ref name="WW">{{WW|macusa}}</ref>
+
+He died before reaching "old age."<ref name="WW"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+{{DEFAULTSORT:O'Brien, Cormac}}
+
+[[de:Cormac O'Brien]]
+[[fr:Cormac O'Brien]]
+[[pl:Cormac O'Brien]]
+[[ru:Кормак О'Брайен]]
+[[de2:Cormac O'Brien]]
+[[Category:American individuals]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Original twelve MACUSA Aurors]]
+[[Category:Males]]
+[[Category:O'Brien family]]
+[[Category:Wizards]]

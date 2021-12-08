@@ -1,0 +1,92 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Hesper Black.jpg|250 px|Hesper's name on the family tree]]
+|name = Hesper Black (née Gamp)
+|born = 
+|died = c. [[1906]] or later<ref>Her youngest son was born in that year.</ref>
+|blood = [[Pure-blood]]<ref name="BFT">''[[House of Black|Black family tree]]''</ref>
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="BFT" />
+|gender = Female<ref name="BFT" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Sirius Black II]] (husband)<ref name="BFT" />
+*[[Arcturus Black III]] (son)<ref name="BFT" />
+*[[Lycoris Black]] (daughter)<ref name="BFT" />
+*[[Regulus Black I]] (son)<ref name="BFT" />
+*[[Phineas Nigellus Black]] (father-in-law)<ref name="BFT" />
+*[[Ursula Flint]] (mother-in-law)<ref name="BFT" />
+*[[Phineas Black]] (brother-in-law)<ref name="BFT" />
+*[[Arcturus Black II|Arcturus Black]] (brother-in-law)<ref name="BFT" />
+*[[Belvina Black|Belvina Burke]] (sister-in-law)<ref name="BFT" />
+*[[Lysandra Yaxley|Lysandra Black]] (sister-in-law)<ref name="BFT" />
+*[[Herbert Burke]] (brother-in-law)<ref name="BFT" />
+*[[Violetta Bulstrode|Violetta Black]] (sister-in-law)<ref name="BFT" />
+*[[Callidora Black]] (niece)<ref name="BFT" />
+*[[Cedrella Black]] (niece)<ref name="BFT" />
+*[[Charis Black]] (niece)<ref name="BFT" />
+*[[Belvina Burke's sons]] (nephews)<ref name="BFT" />
+*[[Belvina Burke's daughter]] (niece)<ref name="BFT" />
+*[[Pollux Black]] (nephew)<ref name="BFT" />
+*[[Cassiopeia Black]] (niece)<ref name="BFT" />
+*[[Marius Black]] (niece)<ref name="BFT" />
+*[[Dorea Black]] (niece)<ref name="BFT" />
+*[[Lucretia Black]] (granddaughter)<ref name="BFT" />
+*[[Orion Black]] (grandson)<ref name="BFT" />
+*[[Gamp]] (possibly)
+*[[Gamp family]]
+*[[House of Black]] (in-laws)
+|romances = [[Sirius Black II]] (husband)
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Gamp family]]<ref name="BFT" />
+*[[House of Black]]<ref name="BFT" />
+}}
+'''Hesper Black (née Gamp)''' (fl. 1901-1906) was a [[pure-blood]] [[Wizardkind|witch]] who married [[Sirius Black II]]. The couple had three children together: [[Arcturus Black III|Arcturus]], [[Lycoris Black|Lycoris]], and [[Regulus Black I|Regulus]].
+
+She was a grandmother of [[Orion Black]] and [[Lucretia Black]].<ref name="BFT" />
+
+==Etymology==
+[[File:Regulus Black I.jpg|140px|thumb|left|Hesper's son [[Regulus Black I|Regulus]] on the family tree]]
+''Hesper'' is an English variation of the name ''Esther''<ref>''[http://www.behindthename.com/name/hester Behind the Name: Hester]''</ref>, which is believed to be derived from the Persian word for "star," possibly an allusion to the naming pattern of the [[House of Black|family]] she married into.
+
+The ''Book of Esther'' in the ''Old Testament'' tells the story of Queen [[Wikipedia:Esther|Esther]], the Jewish wife of the king of Persia who saved her people from extermination.<ref>[http://www.behindthename.com/name/esther Behind the Name: Esther]</ref>
+
+It's also possible that her name derives from [[wikipedia:Hesperus|Hesperus]], the "Evening Star" from Greek mythology (Vesper for the Romans). This was a name assigned to the planet Venus, visible during the evening, whose morning counterpart ("Morning Star") would become called "Lucifer" in Latin.<ref>[https://en.wikipedia.org/wiki/Lucifer Lucifer] on Wikipedia</ref>
+
+==Behind the scenes==
+*The person who discovered [[Gamp's Law of Elemental Transfiguration]] might have been related to Hesper.
+*She shares her name with [[Hesper Black]].
+*On one version of the Black family tree designed by [[MinaLima Design]] for the [[Harry Potter (film series)|''Harry Potter'' films]], as seen [https://minalima.com/product/black-family-tapestry/ here], the name "Gamp" was misspelled "Gemp".
+
+==Appearances==
+*{{OOTP|F}} {{Comment|Name seen on Black family tree tapestry}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Gamp, Hesper}}
+[[de:Hesper Black]]
+[[es:Hesper Gamp]]
+[[fr:Hesper Gamp]]
+[[it:Hesper Gamp]]
+[[pl:Hesper Gamp]]
+[[Category:20th century deaths]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Gamp family]]
+[[Category:House of Black]]
+[[Category:Married individuals]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

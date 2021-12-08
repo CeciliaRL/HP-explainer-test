@@ -1,0 +1,40 @@
+{{Transcribed image|File:GringottsDepositReceipts.jpg}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Lordana F.
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female<ref name="gender">"[http://www.behindthename.com/name/loredana Loredana]" on Behind the Name</ref>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Lordana F.''' was a [[wizardkind|witch]]<ref name="gender" /> who deposited an unknown amount of [[Galleon]]s into another person's account at [[Gringotts Wizarding Bank]] in [[1998]].<ref name="depositreceipt">See [[:File:GringottsDepositReceipts.jpg|this image]] of a prop deposit receipt featured in {{DH|F2}} .</ref>
+
+==Appearances==
+*{{DH|F2}} {{comment|Name on deposit receipt}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:F., Lordana}}
+[[Category:Females]]
+[[Category:Wizards]]

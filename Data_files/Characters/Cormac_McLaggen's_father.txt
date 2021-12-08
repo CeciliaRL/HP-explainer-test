@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mr McLaggen
+|born = before [[1962]] (most likely)
+|died = 
+|blood = [[Pure-blood]] (most likely)
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DHF1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF1"/>
+|gender = Male<ref name="DHF1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Cormac McLaggen]] (son)<ref name="DHF1"/>
+*[[Tiberius]] (brother or brother-in-law)<ref name="HBP7">{{HBP|B|7}}</ref>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[McLaggen family]]<ref name="DHF1"/>
+}}
+{{Quote|My father will hear about this!|Cormac threatening the [[Death Eaters]]|Harry Potter and the Deathly Hallows: Part 1}}
+
+'''Mr McLaggen''' was the father of [[Cormac McLaggen]]. On [[1 September]], [[1997]], when [[Death Eaters]] [[Raid on the Hogwarts Express|stopped]] the [[Hogwarts Express]] en route to [[Hogwarts School of Witchcraft and Wizardry]] and boarded it to search for [[Harry Potter]], Cormac threatened them that his father would hear about their actions. Death Eaters, however, completely ignored Cormac and continued their search.<ref name="DHF1">{{DH|F1}} </ref>
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:McLaggen, Mr}}
+
+[[fr:Père de Cormac McLaggen]]
+[[pl:Pan McLaggen]]
+[[ru:Мистер Маклагген]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:McLaggen family]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

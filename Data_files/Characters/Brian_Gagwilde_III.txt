@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Brian Gagwilde.jpg|250px]]
+|name = Brian Gagwilde
+|born = 
+|died = Before [[1991]] (possibly)
+|blood = [[Pure-blood]] (possibly)<ref>A portrait of him hung at [[Malfoy Manor]].</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = 
+|skin = White
+|family = [[Brian Gagwilde]] (ancestor)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Brian Gagwilde III'''<ref name="LE">{{HPLE}}</ref> was a [[wizardkind|wizard]] and a descendant of [[Brian Gagwilde|Professor Brian Gagwilde]], a [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]]. There were portraits of him hung in the [[Hogwarts Castle]]'s main halls: the [[Entrance Hall]] and the [[Grand Staircase]].<ref>{{POA|G}} - PC version</ref> A portrait of him also hung in the [[Malfoy Manor]].<ref>{{DH|G1}}</ref>
+
+==Behind the scenes==
+*Gagwilde may have died sometime prior to [[1991]], as many portraits hung at [[Hogwarts Castle]] depict deceased individuals. His clothing seems to suggest that he lived on the sixteenth or seventeenth century.
+*Gagwilde's portrait seems to be a direct reference to [https://archive.is/20130623181951/ebooks.adelaide.edu.au/b/bacon/francis/portrait.jpg a portrait] of [[Wikipedia:Francis Bacon|Sir Francis Bacon, 1st Viscount of Saint Alban]].
+
+==Etymology==
+The meaning of the name "Brian" is not known for certain, but it is possibly related to the old Celtic element bre, meaning "hill", or by extension "high", "noble". It was borne by the semi-legendary Irish king Brian Boru, who thwarted Viking attempts to conquer Ireland in the 11th century. He was slain in the Battle of Clontarf, though his forces were decisively victorious. The name was common in Ireland before his time, and even more so afterwards. It came into use in England in the Middle Ages, introduced by Breton settlers. It subsequently became rare, but was revived in the 20th century.
+
+==Appearances==
+*{{PS|G}} {{Portrait}}
+*{{COS|G}} {{Portrait}}
+*{{POA|G}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+*{{DH|G1}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts ground floor}}
+{{DEFAULTSORT:Gagwilde III, Brian}}
+[[es:Brian Gagwilde III]]
+[[fr:Brian Gagwilde III]]
+[[pl:Brian Gagwilde III]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

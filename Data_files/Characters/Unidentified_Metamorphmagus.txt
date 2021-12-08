@@ -1,0 +1,52 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified Metamorphmagus
+|born = Before [[1990]]<ref name="HM77">{{HM|7|7}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias =  *[[Reginald Cattermole]] (disguised)<ref name="HM77"/>
+*[[Amos Diggory]] (disguised)<ref name="HM77"/>
+*[[Nymphadora Tonks]] (disguised)<ref name="HM77"/>
+|title = 
+|signature = 
+|species = [[Human]] ([[Metamorphmagus]])<ref name="HM77"/>
+|gender = 
+|height = Various
+|weight = Various
+|hair = Various
+|eyes = Various
+|skin = Various
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''[[Wizardkind|wizard or witch]]''' was a [[Metamorphmagus]] and [[Infiltration of the British Ministry of Magic (1990)|infiltrated]] the [[British Ministry of Magic Headquarters]] during the [[1990–1991 school year]], disguising as several individuals including [[Reginald Cattermole]], [[Amos Diggory]] and [[Nymphadora Tonks]].<ref name="HM77"/>
+
+After Jacob's sibling updated [[Corey Hayden]] with the events, Corey suspected the [[Dark Witch from Knockturn Alley]] to be this Metamorphmagus due to the known transfiguration of her in the [[1989–1990 school year|previous school year]].<ref name="HM78">{{HM|7|8}}</ref>
+
+==Magical abilities and skills==
+<!--- Is there a image which definitely depicts this individual in disguise?--->
+*'''[[Metamorphmagus]]''': This individual possessed the natural born ability to [[magic]]ally change all features of their physical appearance at will. They used this ability to impersonate various individuals so they could infiltrate the [[British Ministry of Magic]].<ref name="HM77"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+[[Category:Criminals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Metamorphmagi]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

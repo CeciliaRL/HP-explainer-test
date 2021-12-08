@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Visitor of the Three Broomsticks Inn
+|born = Before [[1993]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Ogre]] (possibly)<ref name="POA8"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Three Broomsticks Inn]]<ref name="POA8"/>
+}}
+{{Quote|We think we saw an ogre, honestly, they get all sorts at the Three Broomsticks -|Hermione Granger|Harry Potter and the Prisoner of Azkaban}}
+On [[31 October]], [[1993]], [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]] saw a '''visitor''' of the [[Three Broomsticks Inn]] during their first [[Hogsmeade weekend trips|trip]] to [[Hogsmeade]]. Ron and Hermione thought that this individual was an [[ogre]].<ref name="POA8">{{POA|B|8}}</ref>
+
+==Appearances==
+*{{POA}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Creatures]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]

@@ -1,0 +1,66 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Mary II
+|hideb=
+|born=[[30 April]] [[1662]]
+|died=[[28 December]] [[1694]] (aged 32) 
+|blood=
+|alias=
+|title=Queen of [[England]]
+|hidep=
+|species=Human
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[William III]] (husband) †
+*[[Henry VII]] (ancestor) †
+*[[William I]] (ancestor) †
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+'''Mary II''' ([[30 April]] [[1662]] – [[28 December]] [[1694]]) was [[Queen]] of [[England]], jointly ruling with her husband [[William III|King William III]] from [[1689]] until her [[death]], after which William ruled on his own.<ref>"[https://en.wikipedia.org/wiki/Mary_II_of_England Mary II of England]" on Wikipedia</ref>
+
+== Biography ==
+When the [[British Ministry of Magic]] was begging for recognition and protection under [[Non-magic people|Muggle]] law, Queen Mary and King William failed to send a delegation to them, which contributed to the introduction of the [[International Statute of Wizarding Secrecy]] in [[1692]].<ref>First question of the Third [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]] at {{JKRS}}.</ref>
+
+==Etymology==
+The name "[[Mary]]" is the usual English form of Maria, which was the [[Latin]] form of the New Testament [[Greece|Greek]] names Μαριαμ (Mariam) and Μαρια (Maria) - the spellings are interchangeable - which were from the Hebrew name מִרְיָם (Miryam). The meaning is not known for certain, but there are several theories including "sea of bitterness", "rebelliousness", and "wished for child". However it was most likely originally an [[Egypt]]ian name, perhaps derived in part from ''mry'' "beloved" or ''mr'' "[[love]]".
+
+==Appearances==
+*{{JKRS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=([[Elizabeth I|←]]) James II
+|position=Queen Regnant of England<br/>(with [[William III]])
+|years=[[1689]]-[[1702]]
+|successor=Anne ([[Elizabeth II|→]])
+}}
+{{End box}}
+
+[[es:María II]]
+[[pt-br:Maria II de Inglaterra]]
+[[pl:Maria II]]
+[[Category:1662 births]]
+[[Category:1694 deaths]]
+[[Category:Deceased individuals]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Muggles]]
+[[Category:Royalty]]

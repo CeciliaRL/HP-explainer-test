@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Patrick Bagby
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the [[1993-1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="HBPG"/>
+|eyes = 
+|skin = White<ref name="HBPG"/>
+|family = [[Patrick Bagby's mother|Mrs Bagby]] (mother)<ref name="HBPG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Hufflepuff]]<ref name="HBPG"/>
+}}
+{{Quote|I'm rubbish at [[Gobstones]]! I spent hours in the [[Middle Courtyard|Transfiguration Courtyard]] playing and lost every game!|Patrick in the second floor stairs.|Harry Potter and the Half-Blood Prince (video game)}}
+'''Patrick Bagby''' was a [[Wizardkind|wizard]] and [[Hufflepuff]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Biography==
+{{Quote|[[Patrick Bagby's mother|Mum]] says if I tried harder, I could be a good [[Seeker]] - but I'm not that keen on [[Quidditch]].|Patrick talking about his mother and the [[Quidditch]].|Harry Potter and the Half-Blood Prince (video game)}}He could usually be found wandering around the second-floor stairs during the [[1996–1997 school year]]. Patrick was known to dislike the game of [[Quidditch]], but [[Patrick Bagby's mother|his mother]] on the other hand, was very fond of it. She said that if he worked harder he would be a good [[Seeker]], but Patrick was simply more interested in playing chess.<ref name="HBPG"/>
+
+{{Quote|I hate [[Potions (class)|Potions]]. [[Horace Slughorn|Professor Slughorn]]'s only interested in famous people. Like you, [[Harry Potter|Harry]].|Patrick talking with [[Harry Potter|Harry]] about [[Horace Slughorn]]|Harry Potter and the Half-Blood Prince (video game)}}
+
+He hated [[Potions (class)|Potions]], because [[Horace Slughorn|Professor Slughorn]] was only interested in famous people.<ref name="HBPG"/>
+
+==Etymology==
+Patrick is from the Latin name ''Patricius'', which meant "nobleman". This name was adopted in the 5th-century by Saint Patrick, whose birth name was Sucat. He was a Romanized Briton who was captured and enslaved in his youth by Irish raiders. After six years of servitude he escaped home, but he eventually became a bishop and went back to Ireland as a missionary. He is traditionally credited with Christianizing the island, and is regarded as Ireland's patron saint.
+
+==Appearances==
+*{{POA|G}} {{1st}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Patrick Bagby]]
+[[fr:Patrick Bagby]]
+{{DEFAULTSORT:Bagby, Patrick}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

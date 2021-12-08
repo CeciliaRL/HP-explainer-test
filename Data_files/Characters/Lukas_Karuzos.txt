@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Lukas Karuzos
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Luxo Karuzos]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author, Arithmancer
+|house = 
+|loyalty = 
+}}
+'''Lukas Karuzos''' was the author of ''[[New Theory of Numerology|A New Theory of Numerology]]'',<ref name="HPLEG">{{HPLE|G}} (see [[:File:ANewTheoryOfNumerology.png|this image]])</ref> and thus presumably an accomplished [[Numerology|Numerologist]], as [[Arithmancy (class)|Arithmancy]] student [[Hermione Granger]] anticipated receiving a copy of his book.
+
+==Behind the scenes==
+*This character is presumably named after Luca Caruso, the son of [[Miraphora Mina]], a graphic artist who worked on all eight [[Harry Potter (film series)|''Harry Potter'' films]].<ref name="talkswith">Rick Gerardy, ''Talks with Emanuel Hurwitz: 82 Years with the Violi'', Page 109</ref>
+
+==Appearances==
+*{{HBP|F}} {{1st Mention}}
+*{{HPLE|G}} {{Mention}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+
+==Notes and references==
+{{Reflist}}
+{{Arithmancy}}
+{{DEFAULTSORT:Karuzos, Lukas}}
+
+[[pl:Lukas Karuzos]]
+[[pt-br:Lukas Karuzos]]
+[[Category:Arithmancers]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,73 @@
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Swoopstikes.jpg|250px]]
+|name = Swoopstikes
+|born = 
+|died = After [[1520]]<ref>Since Professor Swoopstikes is a fan of the [[Tutshill Tornados]] and that Quidditch team was founded on that year.</ref>
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]<ref name="YT"/>
+*[[Potions Master]]<ref name="YT"/>
+|signature = 
+|species = [[Human]]<ref name="YT"/>
+|gender = Male<ref name="YT"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="YT"/>
+|eyes = 
+|skin = White<ref name="YT"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Potions Master]] at [[Hogwarts School of Witchcraft and Wizardry]]<ref name="YT"/>
+*{{Wplink|Entomologist}}<ref name="YT"/>
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="YT"/>
+*[[Tutshill Tornados]]<ref name="YT"/>
+}}
+'''Professor Swoopstikes''' was a [[Wizardkind|wizard]] and a former [[Potions Master]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="YT">{{WWHP}} - see [http://www.youtube.com/watch?v=JhWn1iMSrjM "Inside Hogwarts, Part 1", SlytherintoMyHeart] at [http://www.youtube.com/ Youtube]</ref> 
+
+==Biography==
+Professor Swoopstikes became the [[Potions Master]] at [[Hogwarts School of Witchcraft and Wizardry]] at an unknown point in the school's history. He was also an {{Wplink|entomologist}}, with a vast knowledge of [[magic]]al insects. Professor Swoopstikes was also a fan of the [[Tutshill Tornados]] Quidditch team.<ref name="YT"/>
+
+A portrait of Professor Swoopstikes was hung in the [[Tracery Hall]] at [[Hogwarts Castle]], depicting him among his vast insect collection, holding a magnifying glass on one hand and a [[Billywig]] on the other.
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': As a former [[Potions Master]] who taught the [[Potions (class)|subject]]  at [[Hogwarts School of Witchcraft and Wizardry]], Swoopstikes would have been an expert in the [[magic]]al art and [[science]] of potion-making.
+*'''[[Magizoology]]''': Swoopstikes was also a [[Magizoologist]], with an expansive knowledge of [[magic]]al insects, meaning he was highly knowledgeable of the study of [[magic]]al [[creature]]s and their habits.
+
+==Etymology==
+*To "''swoop''" is to "''move rapidly downward through the air''", perhaps an indication towards {{Wplink|entomology}}.<ref name="etymology2">See [http://www.google.ca/#hl=en&gs_rn=8&gs_ri=psy-ab&cp=16&gs_id=1q&xhr=t&q=What+does+swoop+mean&es_nrs=true&pf=p&output=search&sclient=psy-ab&oq=What+does+swoop+&gs_l=&pbx=1&bav=on.2,or.r_qf.&bvm=bv.44770516,d.b2I&fp=61d5413764df7ae5&biw=1366&bih=643 this definition here]</ref>
+*A "''stike''" is a stanza, and therefore the plural form of stike, "''stikes''", refers to multiple stanzas.<ref name="etymology1">See [http://dictionary.reference.com/browse/stike this definition here]</ref>
+
+==Appearances==
+*{{WWHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Potions}}
+{{Start box}} 
+{{Succession box
+|predecessor=Unknown
+|position=[[Potions Master]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=? — ?
+|successor=Unknown, eventually [[Horace Slughorn]]
+}}
+{{End box}}
+{{Hogwarts ground floor}}
+[[es:Swoopstikes]]
+[[pl:Swoopstikes]]
+[[ru:Свупстикс]]
+[[Category:British or Irish individuals]]
+[[Category:Historical figures]]
+[[Category:Magizoologists]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Potions Masters]]
+[[Category:Tutshill Tornados supporters]]
+[[Category:Wizards]]

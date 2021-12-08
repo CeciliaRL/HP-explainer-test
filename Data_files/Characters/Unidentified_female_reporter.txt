@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Screen_shot_2011-12-19_at_7.56.07_PM.png|250px]]
+|name = Unidentified female reporter
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPF"/>
+|gender = Female<ref name="HBPF"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HBPF"/>
+|eyes = 
+|skin = Brown<ref name="HBPF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Journalist<ref name="HBPF"/>
+|house = 
+|loyalty = 
+}}
+This '''reporter''' attempted to question [[Harry Potter]] about the death of [[Sirius Black]] and the [[Battle of the Department of Mysteries|break in]] of the [[British Ministry of Magic|Ministry of Magic]], orchestrated by [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]].<ref name="HBPF">{{HBP|F}}</ref><ref name="DHF1">{{DH|F1}}</ref>
+
+==Behind the scenes==
+*This reporter possibly worked for the ''[[Daily Prophet]]'' or another, unknown wizarding news source.
+
+==Appearances==
+*{{HBP|F}} {{Flashback}}
+*{{DH|F1}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females|Reporter]]
+[[Category:Journalists|Female reporter]]
+[[Category:Unidentified individuals|Reporter]]
+[[Category:Wizards]]

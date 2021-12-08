@@ -1,0 +1,45 @@
+{{Individual infobox
+|name = Malcolm McGonagall
+|blood = [[Half-blood]]
+|nationality = [[Scotland|Scottish]]
+|species = [[Human]]
+|gender = Male
+|family = *[[Robert McGonagall Senior|Robert McGonagall Snr]] (father)
+*[[Isobel Ross|Isobel McGonagall]] (mother)
+*[[Minerva McGonagall]] (sister)
+*[[Robert McGonagall Jr]] (brother)
+*At least one child
+*[[Robert McGonagall Senior's father|Mr McGonagall]] (paternal grandfather)
+*[[Robert McGonagall Senior's mother|Mrs McGonagall]] (paternal grandmother)
+*[[Isobel Ross's father|Mr Ross]] (maternal grandfather)
+*[[Isobel Ross's mother|Mrs Ross]] (maternal grandmother)
+*[[Elphinstone Urquart]] (brother-in-law) †
+*[[Minerva]] (maternal great-grandmother)
+*[[M. G. McGonagall]] (possibly)
+|loyalty = [[McGonagall family]]
+|theme = wizard
+}}
+'''Malcolm McGonagall''' was a [[Scotland|Scottish]] [[half-blood]] [[Wizardkind|wizard]] who was the second child and first son of the [[Non-magic people|Muggle]] [[Robert McGonagall Senior|Robert McGonagall]] and witch [[Isobel Ross]].<ref name="pottermore">{{WW|professor-mcgonagall}}</ref>
+
+==Biography==
+Malcolm revealed his [[magic]]al ability at an early age. His mother, and his older sister [[Minerva McGonagall|Minerva]], worked together to teach him and his younger brother, [[Robert McGonagall Jr|Robert Jr]], that they could not go about showing off their magic. They also worked to conceal the "accidents and embarrassments" that the two boys' magic sometimes caused from their father.<ref name="pottermore" />
+
+Malcolm eventually fathered at least one child. His offspring would often visit his sister's home in [[Hogsmeade]] during her brief marriage between [[1981]] and [[1984]].<ref name="pottermore" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:McGonagall, Malcolm}}
+
+[[de:Malcolm McGonagall]] 
+[[es:Malcolm McGonagall]]
+[[ru:Малькольм Макгонагалл]]
+[[fr:Malcolm McGonagall]]
+[[pl:Malcolm McGonagall]]
+[[Category:Half-bloods]]
+[[Category:Males]]
+[[Category:McGonagall family|Malcolm]]
+[[Category:Scottish individuals]]
+[[Category:Wizards]]

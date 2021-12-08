@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = mom
+|image = Melusine.png
+|name = Melusine
+|born = before [[1927]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[France|French]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = White
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Archivist of the [[French Ministry of Magic Records Room]]
+|house = 
+|loyalty = [[French Ministry of Magic]]
+}}
+'''Melusine''' was a [[France|French]] [[Wizardkind|witch]] who lived in the [[1920s]]. She worked in the [[French Ministry of Magic Records Room]].<ref name="COGS">{{COG|S}}</ref>
+==Biography==
+In [[1927]], [[Newton Scamander]] and [[Porpentina Goldstein]] encountered Melusine when they looked to access the [[French Ministry of Magic Records Room]], and were allowed entrance. [[Leta Lestrange]] later met her for the same reason. This caused Melusine obvious suspicion, given how Goldstein had in fact claimed to have been Lestrange beforehand.<ref name="COGS">{{COG|S}}</ref>
+
+[[file:LetaStupefy.gif|thumb|left|Leta attempting to stun Melusine's Matagots]]
+By the time the three were to leave, they were faced with Melusine and a handful of [[Matagot]]s, beastly black felines who guarded the Ministry. When Leta attempted to [[Stunning Spell|stun]] one, it multiplied and began to attack them in larger numbers. Thankfully, Newt managed to have them all escape with the help of his [[Zouwu]] in his [[Newton Scamander's suitcase|suitcase]]<ref name="COGS">{{COG|S}}</ref>
+
+==Behind the scenes==
+*Melusine is played by [[Olwen Fouéré]] in {{COG}}.<ref>{{IMDb|nm0288260}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Melusine}}
+*{{COG|S}} {{1st}}
+*{{COG}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Melusine, Archivarin]]
+[[de2:Melusine]]
+[[es:Melusine]]
+[[fr:Mélusine]]
+[[pl:Meluzyna]]
+[[ru:Мелузина]]
+[[Category:Females]]
+[[Category:French Ministry of Magic employees]]
+[[Category:Wizards]]

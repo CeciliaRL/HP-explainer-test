@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = 
+|image = [[File:MOM lift attendant.jpg|250px]]
+|name = Ministry of Magic lift attendant
+|born = [[1978]] or earlier<ref>He had to be at least seventeen to be of age and to apply for a job at the Ministry.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Lift attendant
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Magical Maintenance Department]]
+}}
+This '''individual''' (fl. [[1995]]) was a [[Wizardkind|wizard]] who worked for [[Magical Maintenance Department|Magical Maintenance]] at the [[British Ministry of Magic|Ministry of Magic]] in the capacity of [[Ministry of Magic lifts|lift]] attendant in the mid-[[1990s]].
+
+==Biography==
+He was noticeably bored during the course of his job on the morning of [[12 August]], on which day he was operating the lift that carried [[Harry Potter]] and [[Arthur Weasley]] down into Level 9 and [[Courtroom Ten]].<ref name="OPf5">{{OOTP|F}} - Chapter 5 (''The Ministry of Magic'')</ref>
+
+By [[1997]], during [[Tom Riddle|Lord Voldemort]]'s [[Fall of the Ministry of Magic|puppet regime]], there were no attendants operating the lifts, so it is possible this individual either quit his job or was sacked for his blood status.
+
+==Appearances==
+*{{OOTP|F}} {{1st}}
+*{{LEGO|Y2}}
+*{{HPV|CH}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Departments unknown levels}}
+
+[[es:Ascensorista del Ministerio de Magia]]
+[[ru:Лифтер в Министерстве магии]]
+[[Category:British individuals]]
+[[Category:Magical Maintenance Department personnel]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

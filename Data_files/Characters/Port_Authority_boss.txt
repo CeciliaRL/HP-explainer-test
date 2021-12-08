@@ -1,0 +1,23 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Unidentified ship steward's boss
+|blood = [[Muggle|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|job = [[Port Authority]] official
+|loyalty = [[Port Authority]] of [[New York]]
+|theme = muggle
+}}
+{{Quote|Well, whaddya know? I'm all done! So I'm sure the boss won't mind if I clock out early...|[[Unidentified Customs official (II)|Unidentified ship steward]]}}
+
+This '''individual '''presumably ran, or ran a department of the [[Port Authority]] in [[New York|New York City]], within which was employed [[Unidentified Customs official (II)|a customs official]].<ref name="LD">{{LEGO|D}} (see [https://www.youtube.com/watch?v=UNRWFaIjA9o this video])</ref>
+
+==Appearances==
+
+*{{LEGO|D}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified Muggles‎]]

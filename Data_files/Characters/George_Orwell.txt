@@ -1,0 +1,51 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = George Orwell
+|born = [[25 June]], [[1903]]<br />
+Bihar, British India
+|died = [[21 January]], [[1950]] (aged 46)<br />
+[[London]], [[England]]
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = Eric Blair (birth name)
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author
+|house = 
+|loyalty = 
+}}
+'''George Orwell''' ([[25 June]], [[1903]] – [[21 January]] [[1950]]) was a [[Non-magic people|Muggle]] author who wrote ''[[Animal Farm]]''.<ref name="JKRS">{{JKRS}}</ref>
+
+==Etymology==
+The name "George" comes from the Greek name Γεωργιος (Georgios) which was derived from the Greek word γεωργος (georgos) meaning "farmer, earthworker", itself derived from the elements γη (ge) "earth" and εργον (ergon) "work".
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Orwell, George}}
+[[pl:George Orwell]]
+[[Category:1903 births]]
+[[Category:1950 deaths]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

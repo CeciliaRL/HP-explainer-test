@@ -1,0 +1,40 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name =  
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggles]]<ref name="Video" />
+|marital =  
+|nationality = 
+|alias = 
+|title = 
+|species = [[Human]]s<ref name="Video" />
+|gender = Female, Male<ref name="Video" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Unidentified Muggle-born Hogwarts student|Child]]<ref name="Video" />
+|job = 
+|loyalty =  
+}}
+These '''individuals''' were the [[Muggle]] parents of a [[Unidentified 2000s Hogwarts student|child]] who was a [[Wizardkind|witch or wizard]]. They lived in the early [[21st century]].<ref name="Video">[https://m.youtube.com/watch?v=mHjRnuLXayg/ Youtube] </ref>
+
+==Biography==
+At one point in between [[1996]] and [[1997]], they had a [[Unidentified Muggle-born Hogwarts student|child]]. When their child was young, they were taken on holidays. Their child soon began to cause strange things to happen, but when they told their parents, they laughed and thought they had to be seeing things.<ref name="Video" />
+
+At the age of eleven, their child found out about their magical heritage by [[Rubeus Hagrid]], and began attending [[Hogwarts School of Witchcraft and Wizardry]].<ref name="Video" />
+
+==Appearances==
+*{{MA}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unidentified individuals]]

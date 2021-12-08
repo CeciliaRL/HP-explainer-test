@@ -1,0 +1,27 @@
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Unidentified man
+|blood=[[Non-magic people|Muggle]]<ref name="PSF"/>
+|hair=Dark (almost bald)<ref name="PSF"/>
+|eyes=
+|skin=Dark<ref name="PSF"/>
+|height=
+|species=[[Human]]<ref name="PSF"/>
+|gender=Male<ref name="PSF"/>
+|hidef=y
+|family=
+|job=
+|loyalty=[[King's Cross Station]]<ref name="PSF"/>
+}}
+This '''muggle man''' accidentally pushed [[Harry Potter]] in [[1991]] because he had to run to the train. He wore a suit and was holding a backpack. He quickly apologised as he rushed by.<ref name="PSF">{{PS|F}}</ref>
+==Appearances==
+*{{PS|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males|Muggle man who accidentally pushed Harry Potter in 1991]]
+[[Category:Unidentified Muggles|Man who accidentally pushed Harry Potter in 1991]]

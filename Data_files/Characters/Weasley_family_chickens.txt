@@ -1,0 +1,37 @@
+{{Pet individual infobox
+|image = [[File:Weasley chicken coop COSG PS1.png|thumb]]
+|name = Weasley family chickens
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Chicken (animal)|Chickens]]<ref name="HBP5"/><ref name="DH6"/>
+|gender = *Females
+*Males
+|height = 
+|hair = 
+|feathers = Brown<ref name="COSG">{{COS|G}} - PS1 version</ref>
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Weasley family]]<ref name="HBP5"/><ref name="DH6"/>
+}}
+{{Dialogue a-b|Harry Potter|I can help, some of it’s my mess.|Molly Weasley|No, Harry, dear, I’d much rather you helped Arthur muck out the chickens...|[[Molly Weasley]] to [[Harry Potter]]|Harry Potter and the Deathly Hallows}}
+These '''chickens''' were owned by the [[Weasley family]] and kept at [[The Burrow]].<ref name="HBP5">{{HBP|B|5}}</ref> They lived in their house outside The Burrow. In the year [[1997]], they were moved away because the [[Delacour family]] arrived to the [[Wedding of William Weasley and Fleur Delacour|wedding]] of [[William Weasley|Bill Weasley]] and [[Fleur Delacour]].<ref name="DH6"/>
+
+==History==
+{{Quote|Oh, good, you’ve fed the chickens. We’d better shut them away again before the men arrive tomorrow...|Molly Weasley planning the [[Wedding of William Weasley and Fleur Delacour]]|Harry Potter and the Deathly Hallows}}
+In [[July]] 1997, [[Molly Weasley]] asked [[Harry Potter]] to help [[Arthur Weasley]] muck out the chicken coop, but there was very little to do for the chickens because Arthur was using the coop to store the remains of [[Sirius Black's motorbike]]. After the arrival of the Delacour family, Harry, [[Ronald Weasley|Ron]] and [[Hermione Granger|Hermione]] volunteered to feed the chickens to escape the overcrowded house, but were soon approached by Mrs Weasley, who wanted to discuss arrangements for the wedding.<ref name="DH6">{{DH|B|6}}</ref>
+
+==Appearances==
+*{{COS|G}} {{1st}} {{C|PS1 version}}
+*{{HBP}} {{Mention}}
+*{{DH}}
+*{{PM}} {{Voice}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Chickens]]
+[[Category:Females]]
+[[Category:Males]]
+[[Category:Weasley family pets]]

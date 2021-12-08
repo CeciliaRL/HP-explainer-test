@@ -1,0 +1,40 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|image = Sickleworth1.png
+|species = [[Niffler]]
+|gender = Male
+|hair = Black
+|eyes = Black
+|loyalty = *[[Gringotts Wizarding Bank]]
+*[[Patricia Rakepick]]
+|theme = gringotts
+}}
+'''Sickleworth''' was a [[Niffler]] owned by [[Gringotts Wizarding Bank]], assigned to [[Patricia Rakepick]] to aid in her assignments by burrowing underground in search of treasure at [[curse]]d sites. Rakepick chose his name because he is ''"incredibly sweet, and utterly destructive."''<ref name="HMy4ch6">{{HM|4|6|cmc}}</ref>
+
+==Biography==
+In the [[1987–1988 school year]], Rakepick allowed Professor [[Silvanus Kettleburn]] to borrow Sickleworth for a [[Care of Magical Creatures]] class. Rakepick also allowed [[Jacob's sibling]] to temporarily use the [[Niffler]] to search for the head of [[Torvus' arrow]].<ref>{{HM|4|9}}</ref>
+
+The [[1988–1989 school year|following year]], Sickleworth was present in [[Defence Against the Dark Arts]] classes taught by Rakepick. During these classes, he occasionally let the [[Pixie]]s escape.<ref>{{HM|5}} - Defence Against the Dark Arts classes</ref> After Rakepick left the school, she left Sickleworth behind.<ref>{{HM|5|32}}</ref>
+
+The following year, Jacob's sibling spotted Sickleworth in the [[Clock Tower Courtyard]], carrying a white quill with him. Jacob's sibling followed the Niffler to Jacob's room, where they and [[Jacob (Hogwarts student)|Jacob]] found the Niffler and took the quill, which was a message for Jacob's sibling.<ref>{{HM|6|7}}</ref>
+
+==Personality and traits==
+Rakepick described him as ''"being very good at his job, and very defiant when it comes to following orders. Not unlike myself."''<ref name="HMy4ch6" />
+
+==Behind the scenes==
+*This Niffler is considered female in the Spanish version of the game.
+
+==Appearances==
+*{{HM}} {{1st}}
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+{{Stub}}
+[[es:Bala de plata]]
+[[fr:Pagaillou]]
+[[ru:Сикльворт]]
+[[Category:Black-eyed individuals]]
+[[Category:Gringotts employees]]
+[[Category:Males]]
+[[Category:Nifflers]]
+[[Category:Patricia Rakepick's possessions]]

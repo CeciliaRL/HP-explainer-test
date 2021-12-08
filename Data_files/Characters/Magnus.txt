@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = centaur
+|image = [[File:Magnus.png|250px]]
+|name = Magnus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBC33"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Centaur]]<ref name="FBC33"/>
+|gender = Male<ref name="FBC33"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="FBC33"/>
+|eyes = Brown<ref name="FBC33"/>
+|skin = Dark<ref name="FBC33"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Fairy forest]]<ref name="FBC33"/>
+}}
+'''Magnus''' was a male [[Centaur]] that lived in the [[Fairy forest|forest]] near [[Winifred Whittle's cottage]].<ref name="FBC33"/>
+
+==Biography==
+While initially argumentative with [[Mathilda Grimblehawk]] and her [[Mathilda Grimblehawk's partner|partner]] during their investigation of the attack on the [[Non-magic people|Muggle]] construction workers, Magnus ultimately escorted the Muggle child [[Bethany Harrison]] from the forest on the condition that no other Muggles were allowed into the forest.<ref name="FBC33">{{FBC|3|3}}</ref>
+
+==Behind the scenes==
+*Magnus was the first named Centaur who did not live in the [[Forbidden Forest]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. The fact that Centaurs live all over [[Europe]] was previously known through [[Newton Scamander|Newt Scamander]]'s book {{FB}}.
+
+==Appearances==
+*{{FBC}} {{1st}}
+*{{MA}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Magnus]]
+[[fr:Magnus]]
+[[ru:Магнус]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Centaurs]]
+[[Category:Males]]

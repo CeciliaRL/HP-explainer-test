@@ -1,0 +1,51 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Albert Einstein
+|born = [[14 March]] [[1879]]
+|died = [[18 April]] [[1955]]
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Theoretical physicist
+|house = 
+|loyalty = 
+}}
+'''Albert Einstein''' ([[14 March]] [[1879]] – [[18 April]] [[1955]]) was a [[Germany|German]]-born [[Non-magic people|Muggle]] theoretical physicist known for his development of the [[Wikipedia:General relativity|general theory of relativity]].<ref>"[https://en.wikipedia.org/wiki/Albert_Einstein Albert Einstein]" on Wikipedia</ref>
+
+The back cover blurb on the book ''[[A Brief History of Time]]'' called its author [[Stephen Hawking]] "the most brilliant theoretical physicist since Einstein."<ref name="poa-film">{{POA|F}} - Chapter 4 (''The Leaky Cauldron'') (see [[:File:A Brief History of Time.jpg|this image]] and [http://s3.amazonaws.com/bonanzleimages/afu/images/0386/6162/brief_history_of_time_back.jpg this image])</ref>
+
+==Appearances==
+*{{POA|F}} {{C|Mentioned on book cover}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Einstein, Albert}}
+
+[[pt-br:Albert Einstein]]
+[[Category:1879 births]]
+[[Category:1955 deaths]]
+[[Category:American individuals]]
+[[Category:Emigrants]]
+[[Category:German individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Physicists]]

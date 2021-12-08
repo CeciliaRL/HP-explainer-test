@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Cook at Leaky Cauldron
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="POAF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAF"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Cook at the [[Leaky Cauldron]]<ref name="POAF"/>
+|house = 
+|loyalty = [[Leaky Cauldron]]<ref name="POAF"/>
+}}
+{{Dialogue a-b-a-b-a-b-a|Fred|Oh, not a [[soul]].|George|Unless you count [[Tom]]. . .|. . .the [[Day maid at Leaky Cauldron|day maid]]. . .|. . .the [[Night maid at the Leaky Cauldron|night maid]]. . .|. . .the cook. . .|. . .the [[Bloke who fixed the toilet at Leaky Cauldron|bloke who fixed the toilet]]. . .|. . .and that [[Leaky Cauldron wizard from Belgium|wizard from Belgium]].|[[Fred and George Weasley]]|Harry Potter and the Prisoner of Azkaban (film)}}
+This '''cook''' was a [[Great Britain|British]] [[Wizardkind|wizard or witch]] who worked at the [[Leaky Cauldron]] in [[1993]]. For unknown reasons, [[Ronald Weasley|Ron Weasley]] showed this cook the [[Daily Prophet articles|Daily Prophet article]] about his family's trip to [[Egypt]].<ref name="POAF">{{POA|F}}</ref>
+
+==Behind the scenes==
+*This cook seems to be a skilled and perhaps somewhat morbid witch or wizard, as the pea soup at the Leaky Cauldron, presumably made by him or her, is noted to be able to eat the person who orders it.
+
+==Appearances==
+*{{POA|F}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Leaky Cauldron}}
+
+[[es:Cocinera del Caldero Chorreante]]
+[[Category:Articles with conjectural titles]]
+[[Category:British individuals]]
+[[Category:Cooks]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Leaky Cauldron employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image=
+|name=Unidentified St Mungo's patient's brother
+|born=
+|died=
+|blood=
+|marital=
+|nationality=[[Great Britain|British]]<ref name="OOTP22"/>
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="OOTP22"/>
+|gender=Male<ref name="OOTP22"/>
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=[[Unidentified St Mungo's patient|Brother]]<ref name="OOTP22"/>
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|It's these - ouch - shoes my brother gave me - ow - they're eating my - OUCH - feet -|The wizard's brother complaining to the [[St Mungo's Welcome Witch]]|Harry Potter and the Order of the Phoenix}}
+This '''man''' was a [[Wizardkind|wizard]] who gave his [[Unidentified St Mungo's patient|brother]] some shoes that [[Biting jinx|attempted]] to eat his feet.<ref name="OOTP22">{{OOTP|B|22}}</ref>
+
+==Personality and Traits==
+This man seemed to be either very spiteful, troublesome or simply had a very bad or distasteful sense of humour, as he knowingly gave his [[Unidentified St Mungo's patient|brother]] a pair of jinxed biting shoes to wear that caused him obvious pain and discomfort.<ref name="OOTP22" />
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Hermano del paciente de San Mungo no identificado]]
+[[pt-br:Irmão do Paciente do St. Mungus não identificado]]
+[[Category:British individuals]]
+[[Category:Bullies]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,48 @@
+{{Imageless}}
+{{Individual infobox
+|theme=portrait
+|image=
+|name=Reginald Oddpick
+|hideb=
+|born=
+|died=Before the [[1990s]] (possibly)
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="OOTPG"/>
+|gender=Male<ref name="OOTPG"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Winkus Oddpick]] (possibly)
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=*[[Oddpick family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTPG"/>
+}}
+'''Reginald Oddpick''' had a [[Portrait]] hung at [[Hogwarts School of Witchcraft and Wizardry]] during the [[1995–1996 school year]].<ref name="OOTPG">{{OOTP|G}}</ref> There is a possible chance he is related to [[Winkus Oddpick]] (journalist) due to them sharing the surname, Oddpick.
+
+==Behind the scenes==
+*Reginald's portrait was voiced by [[Allan Corduner]] in the [[Harry Potter and the Order of the Phoenix (video game)|video game adaption]] of {{OOTP}}.
+
+==Appearances==
+*{{OOTP|G}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts unknown locations}}
+[[pl:Reginald Oddpick]]
+[[pt-br:Reginald Oddpick]]
+[[Category:Males]]
+[[Category:Oddpick family]]
+[[Category:Portraits|Oddpick, Reginald]]
+[[Category:Wizards]]

@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = pet
+|image = [[File:Dre Head.jpg|250px]]
+|name = Dre Head
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Shrunken head]]<ref name="POAF"/>
+|gender = Male<ref name="POAF"/>
+|height = 
+|weight = 
+|hair = Dark (dreadlocks)<ref name="POAF"/>
+|eyes = Dark<ref name="POAF"/>
+|skin = Dark green with black parts<ref name="POAF"/>
+|family = [[Heady]] (cousin)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Knight Bus]]<ref name="POAF"/>
+}}
+{{Quote|The [[Leaky Cauldron]]. If you have pea soup, make sure you eat it before it eats you.|Dre Head responds to Stan Shunpike telling him Harry's destination|Harry Potter and the Prisoner of Azkaban (film)}}
+'''Dre Head'''<ref name="name">{{POA|F}} DVD2 (''Special Features'') - ''Head to Shrunken Head''</ref> was a [[Shrunken head]]. He had a Jamaican accent, and long dreadlocks. Dre Head was used as an accessory on the [[Knight Bus]] in [[August]] [[1993]]. He spoke with passengers and frequently warned the driver, [[Ernest Prang|Ernie Prang]], about obstacles, and hazards like ''"Ernie! Little old lady at 12 o'clock!"''<ref name="POAF">{{POA|F}} - Chapter 3 (''The Knight Bus'')</ref>
+
+==Personality and traits==
+Dre Head was very observant. He liked to say jokes like ''"Mind your head"'' or ''"Hey, guys? Guys? Why the '''long faces'''?"''. He messed up his counting sometimes, as he once said "5 ,4, 3, 3&frac12;, 2".<ref name="POAF"/>
+
+==Etymology==
+*Dre is a diminutive of Andre, itself a variation of the name Andrew. The name derives from the Greek ''Ανδρέας'' (''andros''), meaning "manly".
+
+==Behind the scenes==
+[[File:Shrunken head at WWoHP.jpg|thumb|The Shrunken Head at the Knight Bus attraction at {{WWHP}}]]
+*Dre Head was voiced by [[Lenny Henry]] in {{POA|FA}}.
+*The talking shrunken heads were additional characters created for {{POA|FA}}, never appearing in the [[Harry Potter (book series)|Harry Potter books]] nor in previous or subsequent film adaptations. However, it was well-received, in the [[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]] DVD Special Feature: ''Interview with [[J. K. Rowling]] and [[Alfonso Cuarón]], ''J.K. Rowling did endorse the addition. Rowling had said she wished she thought of the idea, and if she had the ability, would shrink her own head temporarily to scare away unwanted visitors and tax collectors, who would likely flee from her in horror.
+*The film's addition is presumably why in {{HBP}}, Rowling decided to write that Vincent Crabbe got a shrunken head confiscated by Filch. 
+*One of the special features on disc 2 of the ''Prisoner of Azkaban'' DVD was a set of cast interviews conducted by British broadcaster {{wplink|Johnny Vaughn}} and Dre Head. In these interviews, Dre showed awareness that the ''Harry Potter'' films were works of fiction, asking on several occasions if he could play a major character in later films. Despite this, he was afraid of the actors playing the [[Dursley family]], seeming unwilling to accept that it was merely their actors rather than the actual Dursleys.
+*Dre Head counts "''10... 9... 8... 7... 6... 5... 4... 3... 3½... 2... 1¾... '''YES!'''''" This is incorrect, as 3''½'' would come before 3.
+*On the DVD main menu, Dre Head is entirely animated rather than just animating the mouth.
+*He bears a slight resemblance to one of the [[Shrunken heads in the Three Broomsticks]].
+
+==Appearances==
+*{{POA|F}} {{1st}}
+*{{LEGO|B}} {{C|Appears in storyboard sketches of ''LEGO Harry Potter: Years 1-4''}}
+*{{LEGO|Y1}}
+*{{LEGO}}
+*{{WWHP}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Dre Head]]
+[[Category:Knight Bus crew]]
+[[Category:Males]]
+[[Category:Shrunken Heads]]

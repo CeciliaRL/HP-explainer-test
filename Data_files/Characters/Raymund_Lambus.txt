@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:Lambus.jpg|250px]]
+|name=Raymund Lambus
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Raymund Lambus''' was an [[United States of America|American]] [[wizardkind|wizarding]] criminal who operated in the [[1920s]].<ref name="wanted">{{CB|119}} {{see image|File:HaesitoAndLambusWanted.jpg}}</ref> His partner in crime was [[Herschel Haesito]].<ref name="wanted" /> The pair were collectively known as The Brothers.<ref name="wanted" />
+
+==Biography==
+In [[1926]], the [[International Wizarding Police]] issued a double wanted poster for Lambus and Haesito, which stated they were wanted for "money laundering" and "[[Muggle|No-Maj]] murder in [[Europe]] and [[Africa]]."<ref name="wanted" /> It described them as "powerful wizards" who were "[[wand]]ed and extremely dangerous."<ref name="wanted" /> A reward of 5000 [[Dragot]]s was offered for information leading to their capture.<ref name="wanted" />
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Lambus, Raymund}}
+[[fr:Raymund Lambus]]
+[[Category:American individuals]]
+[[Category:Con artists]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Wizards]]

@@ -1,0 +1,67 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = spirit
+|image = ErlingTheGreat.png
+|name = Erling the Great
+|born = [[1010]] or [[1011]]<ref name="age">In {{HM|2|DUELLING DEATHDAY PARTIES|1}}, set in October 1985, Erling describes himself as a "974 year-old ghost".</ref>
+|died = [[31 October]], before [[1985]]<ref name="HM Deathday 1"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Ghost]] {{C|formerly [[Human]]}}<ref name="HM">{{HM|2|DUELLING DEATHDAY PARTIES}}</ref>
+|gender = Male<ref name="HM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Erling the Great is a special kind of storyteller. A bard of sorts, but one that specifically tells stories for ghosts! He is known for sharing stories about the most noteworthy locations in Wizarding history. Ghosts travel far and wide to hear him speak. He's quite famous!|[[Fat Friar]]|Harry Potter: Hogwarts Mystery}}
+'''Erling the Great''' was a [[ghost]] who specifically told stories for [[ghost]]s. He was known for sharing stories about the most noteworthy locations in Wizarding history. Ghosts travelled far and wide to hear him speak.<ref name="HM Deathday 1">{{HM|2|DUELLING DEATHDAY PARTIES|1}}</ref>
+
+==Biography==
+Erling was born in [[1010]] or [[1011]].<ref name="age"/> Since he did not know [[Hogwarts Castle]] until he visited as a [[ghost]] in October 1985, he did not seem to have received his education there.
+
+In his lifetime, he was considered a taste-maker among royalty.<ref name="HM Deathday 1"/> Erling met the [[Fat Friar]] while the two were alive.<ref name="HM Deathday 1"/> Erling mentioned having met [[Gregory the Smarmy]] in the [[12th century]]; it's unknown whether he met him before or after his death.<ref name="HM Deathday 2">{{HM|2|DUELLING DEATHDAY PARTIES|2}}</ref>
+
+Judging by his appearance, with a dagger sticking out of his chest,<ref name="HM Deathday 1"/> he was seemingly killed by stabbing. The [[Fat Friar]] remarked that when Erling was living, he "let fame and notoriety go to his head a bit".<ref name="HM Deathday 3"/>
+
+===Post-mortem===
+Erling loved history. After death, he travelled to hundreds of museums. He also visited [[Azkaban]] island before it was turned into a prison.<ref name="HM Deathday 2"/>
+
+====Hogwarts visit====
+Erling visited [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] as a friend of the [[Fat Friar]] a day ahead of previous arrangement in [[October]] [[1985]]. [[Jacob's sibling]], along with the Fat Friar, welcomed him by offering him the [[Artefact Room]] as a haunting place and introducing [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. When they heard that Erling's Deathday was the same as Sir [[Nicholas de Mimsy-Porpington]]'s, they suggested the two celebrate together, but Erling rejected this proposal, apparently wanting only himself to be in the spotlight.<ref name="HM Deathday 1"/>
+
+He then went to the courtyard to join in the argument between Jacob's sibling, Sir Nicholas and the Fat Friar. The conversation didn't go well, and in the end Erling and Sir Nicholas decided to throw their parties separately. The Fat Friar then showed Erling the [[Charms Classroom]] where he came across Jacob's sibling and [[Penny Haywood]], so he shared a talk with them, in which he stated that he was in talks to collaborate with a writer to collect his stories into a book. After that, he continued to the [[dungeons]] with the Fat Friar.<ref name="HM Deathday 2"/>
+
+Erling wanted a sixteen-piece band, fireworks and a giant feast of rotten food for his Deathday Party. Along with the Fat Friar, he went to [[Rolanda Hooch|Madam Hooch]] to demand the [[Training Grounds]] for his party but got rejected, before cutting after the leaving Hooch for further arguments.<ref name="HM Deathday 3">{{HM|2|DUELLING DEATHDAY PARTIES|3}}</ref>
+
+Upon hearing Sir Nicholas had tried to sabotage his Deathday Party by preserving the food which was intended to be spoiled, Erling came down to the [[courtyard]] to meet him and accused him of buffoonery. Sir Nicholas, who had been spotted by [[Pomona Sprout|Professor Sprout]] and was ordered to give his food to Erling, had thought about cancelling his own party, but decided to carry on after seeing Erling's pompous attitude.<ref name="HM Deathday 4">{{HM|2|DUELLING DEATHDAY PARTIES|4}}</ref>
+
+Halfway through his Deathday Party, Erling was brought to the courtyard by the Fat Friar, who also summoned Sir Nicholas. The Fat Friar pointed out that neither of the parties were going well, because Erling's fastidious requirements were hardly fulfilled and Sir Nicholas' had no food. He then suggested again that the two work together to salvage the evening. Erling eventually agreed to move his party to the [[Deathday Ballroom]] in the dungeons where Sir Nicholas' party was being held.<ref name="HM Deathday 4"/>
+
+==Appearances==
+{{Imagecat|Images of Erling the Great}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[ru:Эрлинг Великий]]
+[[Category:1010s births]]
+[[Category:Deaths by stabbing]]
+[[Category:Ghosts]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,51 @@
+{{WizardsUniteSpoiler}}{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Galvin Gudgeon
+|born = Before [[1981]]<ref name="age">As he was employed by the [[Chudley Cannons]] by [[1998]], he was presumably over 17.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|alias = 
+|title = [[Seeker]]<ref name="DP"/>
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Gladys Gudgeon]] (possibly)
+*[[Davey Gudgeon]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] for the [[Chudley Cannons]]<ref name="DP"/>
+|house = 
+|loyalty = *[[Chudley Cannons]]<ref name="DP"/>
+*[[Gudgeon family]]
+}}
+'''Galvin Gudgeon''' was a [[Wizardkind|wizard]] who was the [[Seeker]] for the [[Chudley Cannons]]<ref name="DP" /> [[Quidditch]] [[Quidditch team|team]] in the [[1990s]]. Whilst playing in a match against the [[Tutshill Tornados]], Gudgeon fell off his [[Broomstick]] trying to catch a passing bumble-bee.<ref name="DP" />
+
+In [[1998]] he performed terribly when the Cannons were defeated by the [[Appleby Arrows]]. During the game, the [[Golden Snitch|Snitch]] bounced off his nose twice. Cannons manager [[Ragmar Dorkins]] felt he had to tell the team's fans that "turning him into a toad will not help his game."<ref name="DP">''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[31 July]], [[1998]], Page 2''</ref>
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Gudgeon, Galvin}}
+[[de:Galvin Gudgeon]]
+[[pl:Galvin Gudgeon]]
+[[Category:British individuals]]
+[[Category:Gudgeon family]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Wizards]]

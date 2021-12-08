@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Lord Stoddard Withers.jpg|250px]]
+|name = Stoddard Withers
+|born = [[1642]]<ref>According to {{PM}} he was born in 1672 ([http://www.pottermore.com/en/timeline Timeline]).</ref>
+|died = [[1769]] (aged 126-127)<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Lord<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+|signature = 
+|species = [[Human]]<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+|gender = Male<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+|height = 
+|weight = 
+|hair = Grey<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+|eyes = Blue<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+|skin = White<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Magizoologist]]<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+|house = 
+|loyalty = Withers family
+}}
+'''Lord Stoddard Withers''' ([[1642]] – [[1769]]) was a [[Wizardkind|wizard]] and [[Magizoologist]] who bred [[Winged horse]]s. He created a sport that combined elements of polo and [[Quidditch]], which was played on Winged horses instead of [[broomstick]]s. The sport never became popular though.<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+
+==Etymology==
+The English word "withers" refers to the back of a horse, specifically between the shoulder-blades (at which place winged horses' wings can be expected to be found).
+
+==Appearances==
+{{Imagecat|Images of Stoddard Withers}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+
+[[de:Lord Stoddard Withers]]
+[[fr:Lord Stoddard Withers]]
+[[fi:Stoddard Withers]]
+[[it:Stoddard Withers]]
+[[pl:Stoddard Withers]]
+[[ru:Стоддарт Визерс]]
+{{DEFAULTSORT:Withers, Stoddard}}
+[[Category:1642 births]]
+[[Category:1769 deaths]]
+[[Category:Blue-eyed individuals]]
+[[Category:Breeders]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Centenarians]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Magizoologists]]
+[[Category:Males]]
+[[Category:Nobility]]
+[[Category:Wizards]]

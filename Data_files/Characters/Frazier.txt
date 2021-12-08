@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Frazier.png|250px]]
+|name = Frazier
+|born = 
+|died = Before [[1992]]
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = 
+|skin = Fair
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Frazier''' was a [[Wizardkind|wizard]] who had a [[portrait]] of himself hung somewhere in [[Hogwarts Castle]] by the [[1992-1993 school year]].<ref name="COSG">{{COS|G}}</ref>
+
+==Behind the scenes==
+*This portrait appears in the PC version of the [[Harry Potter and the Chamber of Secrets (video game)|video game adaptation]] of {{COS}}. In the game's files, it was called Frazier.bmp.
+
+==Appearances==
+*{{COS|G}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Deceased individuals]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

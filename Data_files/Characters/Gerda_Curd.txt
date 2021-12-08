@@ -1,0 +1,51 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Gerda Curd
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Female<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[:Category:Authors|Author]]<ref name="JKRS"/>
+|house = 
+|loyalty = 
+}}
+'''Gerda Curd''' was a [[Wizardkind|witch]] and author who contributed to the revised edition of ''[[Charm Your Own Cheese]]''.<ref name="JKRS">{{JKRS}}</ref>
+
+==Etymology==
+*[[Wikipedia:Curd|Curd]] is a semisolid substance formed when milk sours. It is used as the base in making some [[cheese]]s.
+
+==Behind the scenes==
+*It is possible that "Gerda Curd" is simply a more cheese-related pen name adopted by [[Greta Catchlove]].
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Curd, Gerda}}
+[[es:Gerda Requesón]]
+[[pl:Gerda Curd]]
+[[ru:Герда Тварог]]
+[[Category:Authors]]
+[[Category:Females]]
+[[Category:Wizards]]

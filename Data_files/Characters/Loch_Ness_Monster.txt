@@ -1,0 +1,54 @@
+{{Individual infobox
+|image = [[File:Loch_Ness_Kelpie.jpg|250px]]
+|name = Loch Ness Monster
+|born =
+|died =
+|nationality = 
+|alias = Nessie<ref name="FBR"/>
+|title = "World's largest [[kelpie]]"<ref name="FBR"/>
+|species = [[Kelpie]]<ref name="FBR"/>
+|gender =
+|eyes =
+|skin =
+|hair =
+|weight =
+|height = 100 feet or less<ref name="FBR"/>
+|family =
+|loyalty = [[Loch Ness]]<ref name="FBR"/>
+|theme = individual
+}}
+{{Quote|The world’s largest [[kelpie]] is found in [[Loch Ness]], [[Scotland]]. Its favourite form is that of a [[sea serpent]]. [[International Confederation of Wizards|International Confederation of Wizard]] observers realised that they were not dealing with a true serpent when they saw it turn into an [[otter]] on the approach of a team of [[Non-magic people|Muggle]] investigators and then transform back into a serpent when the coast was clear.|[[Newton Scamander|Newt Scamander]], {{FB}}|Fantastic Beasts and Where to Find Them (real)}}
+The '''Loch Ness Monster''',<ref name="FBC">{{FBC}}</ref> or "Nessie" as it was popularly known, was the world's largest [[Kelpie]]. It inhabited the deep [[water]]s of [[Loch Ness]] in the [[Scotland|Scottish]] Highlands.<ref name="FBR" /> It was sometimes spotted by [[Non-magic people|Muggles]] though, due to its nature and the efforts of the [[Office of Misinformation]], no conclusive proof of its existence has been leaked. 
+
+==Biography ==
+Its favourite shape was that of a [[Sea serpent]]. [[Wizardkind|Wizard]] observers from the [[International Confederation of Wizards]] discovered it was a Kelpie when they observed it changing into an otter on the approach of a team of [[Non-magic people|Muggle]] investigators, then back into a Sea Serpent. The number of sightings by Muggles over the years has made it impossible to use [[Memory Charm]]s to erase all record; therefore the [[Office of Misinformation]] has worked diligently to discredit any photographic evidence of "Nessie".<ref name="FBR">{{FB|E}}</ref> 
+
+These Muggle sightings of the [[Magical Creatures|creature]] are a large part of why [[Scotland]] is considered one of the most frequent national violators of Clause 73 of the [[International Statute of Wizarding Secrecy]] (the clause that ensures the secrecy of magical creatures).<ref name="FB">{{FB}} ''(Magical Beasts in Hiding)''</ref>
+
+[[Rubeus Hagrid]] once offered the use of the [[Great Lake|lake]] at [[Hogwarts School of Witchcraft and Wizardry]] to house the [[creature]].<ref name="DP">{{DP}}</ref>
+
+==Behind the scenes==
+
+*The {{wplink|Loch Ness Monster}} is a creature believed by some to live in Loch Ness, Scotland. Though it is most commonly identified as a [[Wikipedia:Plesiosauria|plesiosaur]]-like creature, sea serpent depictions are not uncommon either. The reference to the Office of Misinformation discounting photographic evidence may be in reference to the "Surgeon's photograph", an alleged photo of the creature taken by Dr. {{w|Robert Kenneth Wilson}} in 1934. The photo was once considered plausible evidence of the Monster's existence but was long suspected to be a hoax. This theory was later confirmed by the confession of Christian Spurling, the sculptor who created the fake, before his death in 1993.
+*It is possible that the kelpie seen in {{WBS}} is intended to be the Loch Ness Monster, as it is rather large, lives in a Scottish loch, and takes the form of what appears to be a sea serpent, rather than the horse form the species generally takes.
+
+==Appearances==
+
+*{{FB|R}} {{1st Mention}}
+*{{DP}} {{Mention}}
+*{{WBS}} {{Possible}}
+*{{FBC}} {{Mention}}
+*{{PM}} {{1st}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de2:Loch Ness-Monster]]
+[[fr:Monstre du Loch Ness]]
+[[ru:Лох-несское чудовище]]
+[[Category:Creatures from Scotland]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Kelpies]]
+[[Category:Mascots]]
+[[Category:Muggle-known creatures]]
+[[Category:Secrecy breaches]]

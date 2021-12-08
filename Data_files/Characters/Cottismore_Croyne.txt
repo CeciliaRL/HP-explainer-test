@@ -1,0 +1,70 @@
+{{Transcribed image|File:CottonmoreCrome.jpg}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:CottonmoreCrome.jpg|250px]]
+|name = Cottismore Croyne
+|born = 
+|died = Before 1991<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2014 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Supreme Mugwump]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Supreme Mugwump]] of the [[International Confederation of Wizards]]
+|house = 
+|loyalty = [[International Confederation of Wizards]]
+}}
+'''Cottismore Croyne''', {{OM|}}, was a [[Wizardkind|wizard]] who was appointed [[Supreme Mugwump]] of the [[International Confederation of Wizards]] sometime after [[Pierre Bonaccord]]. This was likely the reason he was awarded an [[Order of Merlin]].
+
+==Biography==
+Cottismore Croyne had a [[portrait]] of himself hung at [[Hogwarts Castle|Hogwarts School of Witchcraft and Wizardry]] by the time [[Albus Dumbledore]], Supreme Mungwump himself in the [[1990s]], was [[Headmaster]] of the school. The portrait depicted him in one of the hallways in the [[Middle Courtyard]], which suggests that he may have visited [[Hogwarts Castle]] once.
+
+==Behind the scenes==
+*This portrait was made specifically for the [[Harry Potter films|''Harry Potter'' films]], and was modelled after [[David Heyman]], producer of all eight films.<ref>[http://www.flickr.com/photos/tonyridder/7537611422/ The Making of Harry Potter photo] on Flickr</ref>
+*This portrait was based on a [https://upload.wikimedia.org/wikipedia/commons/3/39/Thomas_Howard%2C_2nd_Earl_of_Arundel_and_Surrey_by_Daniel_Mytens.jpg portrait of Thomas Howard, 21st Earl of Arundel], by [[Wikipedia:Daniël Mijtens|Daniel Mytens the Elder (c. 1590-1647)]].
+
+==Appearances==
+*{{PS|F}} {{Portrait}}
+*{{POA|F}} {{Portrait}}
+*{{WWHP}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Pierre Bonaccord]]
+|position=[[Supreme Mugwump]] of the [[International Confederation of Wizards]]
+|years=
+|successor=Unknown, eventually [[Albus Dumbledore]]
+}}
+{{End box}}
+{{ICW}}
+
+{{DEFAULTSORT:Croyne, Cottismore}}
+
+[[fr:Cottismore Croyne]]
+[[ru:Коттисмор Кройн]]
+[[pl:Cottismore Croyne]]
+[[es:Cottismore Croyne]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Order of Merlin recipients]]
+[[Category:Portraits]]
+[[Category:Supreme Mugwumps]]
+[[Category:Wizards]]

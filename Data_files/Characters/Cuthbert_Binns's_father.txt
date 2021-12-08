@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mr Binns
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Cuthbert Binns]] (son)†<ref name="COSG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Binns family]]<ref name="COSG"/>
+}}
+{{Quote|As my father always used to say, zzzzzz...|[[Cuthbert Binns]] to [[Harry Potter]]|Harry Potter and the Chamber of Secrets (video game)}}
+'''Mr Binns''' was [[Cuthbert Binns]]'s father and a member of the [[Binns family]]. He used to say something to [[Cuthbert Binns|his son]], but exactly what he used to say is unknown as Cuthbert fell asleep while telling [[Harry Potter]] about it.<ref name="COSG">{{COS|G}} - GBC version</ref>
+
+==Appearances==
+*{{COS|G}} {{1st Mention}} {{C|GBC version}}
+
+==Notes and references==
+{{Reflist}}[[pl:Pan Binns]]{{DEFAULTSORT:Binns, Cuthbert father}}
+[[Category:Binns family]]
+[[Category:British individuals|Binns's father]]
+[[Category:Males|Binns's father]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

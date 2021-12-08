@@ -1,0 +1,63 @@
+{{Conjecture}}{{DISPLAYTITLE:Healers}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:Healers.jpg|250px]]
+|name = Healers
+|born = 
+|died = Before [[1993]] (possibly)<ref name="POAF"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="POAF"/>
+|gender = Males<ref name="POAF"/>
+|height = 
+|weight = 
+|hair = Grey, brown<ref name="POAF"/>
+|eyes = 
+|skin = Light<ref name="POAF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Healer]]s<ref name="POAF"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAF"/>
+}}
+'''A group of six medieval [[Healer]]s''' was immortalised on a portrait hung at the [[Grand Staircase]] at [[Hogwarts Castle]]. A [[human]] skeleton was also included in the portrait. The portrait was placed near the [[Fat Lady]], on the seventh-floor level.<ref name="POAF"/>
+
+==History==
+===Attack of the Fat Lady===
+{{Quote|Oooooh... Frightful!|One Healer's moans after [[Fat Lady]]'s attack|Harry Potter and the Prisoner of Azkaban (film)}}
+On the [[31 October|31st of October]] [[1993]], [[Sirius Black]] attacked [[Fat Lady]]'s portrait on a failed attempt to gain entrance to [[Gryffindor Tower]]. The Healers most likely witnessed the attack, as they had horrified looks on their faces afterwards.<ref name="POAF">{{POA|F}}</ref>
+
+===Dolores Umbridge as Headmistress of Hogwarts===
+[[File:Healers Filch.jpg|thumb|right|Filch removing the portrait from the [[Grand Staircase]]]]
+[[Dolores Umbridge]] replaced [[Albus Dumbledore]] as Head of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]] in [[1996]]. One of her first actions as Headmistress was getting rid of all the portraits at the [[Grand Staircase]]. The Healers' was one, if not the last, to be removed. [[Argus Filch]], the caretaker, removed the portrait off the wall, and carelessly handled it, causing the group of Healers to fall as he laughed. With the reinstatement of [[Albus Dumbledore|Dumbledore]] as Headmaster at the end of the school year, all the portraits were hung again, including the Healers'.<ref name="OOTPF">{{OOTP|F}}</ref>
+
+==Behind the scenes==
+*The Healers were portrayed by [[David Heyman]], [[David Barron]], [[Lionel Wigram]], [[Tim Lewis]], [[Lorne Orleans]], and [[John Trehy]] in {{POA|FA}} and {{OOTP|FA}}.<ref>[https://www.pinterest.com/pin/558024210059346900/ Did you know? #20 Harry Potter producers David Heyman, David Barron, Lionel Wigram, Tim Lewis, Lorne Orleans, and John Trehy made a cameo appearance in this very Hogwarts portrait]</ref>
+*These individuals may have died sometime prior to [[1993]], as many portraits hung at [[Hogwarts Castle]] depict deceased individuals.
+*[[David Heyman]], the producer of the ''[[Harry Potter (film series)|Harry Potter film series]]'' played as one of them in a cameo.
+
+==Appearances==
+*{{POA|F}} {{1st}} {{Portrait}}
+*{{OOTP|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts seventh floor}}
+
+[[es:Retrato de sanadores]]
+[[pl:Portret uzdrowicieli]]
+[[Category:British individuals|Healers]]
+[[Category:Healers|Healers]]
+[[Category:Males|Healers]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

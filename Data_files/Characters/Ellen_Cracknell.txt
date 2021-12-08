@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Ellen Cracknell
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="PM"/>
+|marital = Divorced<ref name="PM"/>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Female<ref name="PM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Orford Umbridge]] (ex-husband)<ref name="PM" />
+*[[Dolores Umbridge]] (daughter)<ref name="PM" />
+*[[Dolores Umbridge's brother|Son]]<ref name="PM" />
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Umbridge family]]<ref name="PM" /> (formerly)
+*[[Cracknell family]]<ref name="PM" />
+}}'''Ellen Cracknell''' was the [[Non-magic people|Muggle]] mother of [[Dolores Umbridge]].<ref name="PM">{{PM}} - [https://www.pottermore.com/explore-the-story/dolores-umbridge New from J.K. Rowling: Dolores Umbridge]</ref>
+
+==Biography==
+Ellen Cracknell married the [[Wizardkind|wizard]] [[Orford Umbridge]], and together they had two children: a daughter, [[Dolores Umbridge|Dolores]], and a son who was born a [[Squib]].
+
+The marriage was not a happy one. Orford blamed Ellen for the birth of their Squib son, and Dolores came to loathe her mother not only for her [[Muggle]] heritage but also her flightiness and untidiness.<ref name="PM" />
+
+When Dolores was fifteen, the tension between Ellen and Orford came to a head and the pair separated. While her ex-husband and daughter continued to live in the [[wizarding world]], Ellen and her son returned to the [[Muggle world]]. Ellen would never see her daughter again.<ref name="PM" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Cracknell, Ellen}}
+[[de:Ellen Cracknell]]
+[[es:Ellen Cracknell]]
+[[pl:Ellen Cracknell]]
+[[ru:Эллен Кракнелл]]
+[[uk:Еллен Кракнелл]]
+[[fr:Ellen Cracknell]]
+[[Category:British individuals]]
+[[Category:Cracknell family]]
+[[Category:Divorced individuals]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Umbridge family]]

@@ -1,0 +1,78 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Felix Summerbee.jpg|250px]]
+|name = Felix Summerbee
+|born = [[1440s|1447]]<ref name="COSG"/>
+|died = [[1500s|1508]], (aged 60-61)<ref name="COSG"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="COSG"/>
+|eyes = Brown<ref name="COSG"/>
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Spell creation|Spell inventor]]<ref name="COSG"/>
+|house = 
+|loyalty = 
+}}
+'''Felix Summerbee''' ([[1440s|1447]]-[[1500s|1508]]) was a [[Wizardkind|wizard]] who invented the [[Cheering Charm]].<ref name="JKRS">{{JKRS}}</ref><ref name="COSG">{{COS|G}}</ref>
+
+==Magical abilities and skills==
+*'''[[Spell creation]]''': Summerbee mastered the highly complicated and advanced [[magic]]al art of inventing new [[spell]]s, having successfully created the [[Cheering Charm]] in his lifetime, a highly impressive magical achievement which gained him recognition on a silver [[Chocolate Frog Card]].<ref name="COSG"/>
+*'''[[Charm]]s''': Summerbee was highly talented with charm-work, given how he successfully invented the [[Cheering Charm]], a charm which makes the target feel elated and cheerful, hence the name.<ref name="COSG"/>
+
+==Behind the scenes==
+*Felix Summerbee was the first [[Wizardkind|wizard]] featured on [[J.K.Rowling Official Site|J. K. Rowling's official website]]'s [[Wizard of the Month]] feature in May, 2004. He was featured again in May, 2005, and was the only character to have been featured twice.
+
+==Etymology==
+The name "Felix" comes from a Roman cognomen, meaning "lucky", "successful" in Latin. It was acquired as an agnomen, or nickname, by the 1st-century BC Roman general Sulla.
+
+==Appearances==
+{{Imagecat|Images of Felix Summerbee}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{JKRS}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Summerbee, Felix}}
+{{Start box}}
+{{Succession box
+|predecessor=None
+|position=[[Wizard of the Month]]
+|years=[[May]] [[2004]]
+|successor=[[Gwenog Jones]]
+}}
+{{End box}}
+{{Charms}}
+{{Chocolate Frog Cards}}
+[[fr:Felix Summerbee]]
+[[de:Felix Summerbee]]
+[[it:Felix Summerbee]]
+[[pl:Felix Summerbee]]
+[[fi:Felix Summerbee]]
+[[ru:Феликс Саммерби]]
+
+[[Category:1447 births]]
+[[Category:1508 deaths]]
+[[Category:Brown-eyed individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Spell inventors]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

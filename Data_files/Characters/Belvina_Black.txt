@@ -1,0 +1,99 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Belvina Black 3.jpg|260px]]
+|name = Belvina Burke (née Black)
+|born = [[1880s|1886]]<ref name="BFT">''[[House of Black|Black family tree]]''</ref>
+|died = [[1962]]<ref name="BFT" /> (aged 75 - 76)
+|blood = [[Pure-blood]]<ref name="BFT" />
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="BFT" />
+|gender = Female<ref name="BFT" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White<ref name="BFT" />
+|family = *[[Phineas Nigellus Black]] (father) †<ref name="BFT" />
+*[[Ursula Flint]] (mother)<ref name="BFT" />
+*[[Sirius Black II]] (older brother) †<ref name="BFT" />
+*[[Phineas Black]] (older brother) †<ref name="BFT" />
+*[[Arcturus Black II]] (older brother) †<ref name="BFT" />
+*[[Cygnus Black II]] (younger brother)<ref name="BFT" />
+*[[Herbert Burke]] (husband)<ref name="BFT" />
+*[[Belvina Burke's sons|Two sons]]<ref name="BFT" />
+*[[Belvina Burke's daughter|One daughter]]<ref name="BFT" />
+*[[Caractacus Burke]] (possible father-in-law) †
+*[[Hesper Gamp|Hesper Black]] (sister-in-law)<ref name="BFT" />
+*[[Lysandra Yaxley|Lysandra Black]] (sister-in-law)<ref name="BFT" />
+*[[Violetta Bulstrode|Violetta Black]] (sister-in-law)<ref name="BFT" />
+*[[Arcturus Black III]] (nephew)<ref name="BFT" />
+*[[Lycoris Black]] (nephew)<ref name="BFT" />
+*[[Regulus Black I]] (nephew)<ref name="BFT" />
+*[[Pollux Black]] (nephew)<ref name="BFT" />
+*[[Cassiopeia Black]] (nephew)<ref name="BFT" />
+*[[Callidora Black]] (niece)<ref name="BFT" />
+*[[Cedrella Black|Cedrella Weasley]] (niece)<ref name="BFT" />
+*[[Charis Black|Charis Crouch]] (niece)<ref name="BFT" />
+*[[Marius Black]] (nephew)<ref name="BFT" />
+*[[Dorea Black|Dorea Potter]] (niece)<ref name="BFT" />
+*[[Sirius Black I]] (paternal uncle) †<ref name="BFT" />
+*[[Elladora Black]] (paternal aunt) †<ref name="BFT" />
+*[[Iola Black]] (paternal aunt)<ref name="BFT" />
+*[[Bob Hitchens]] (paternal uncle by marriage)<ref name="BFT" />
+*[[Elizabeth Burke]] (possibly) †
+*[[House of Black]]
+*[[Flint family]]
+*[[Burke family]]
+|romances = [[Herbert Burke]] (husband)
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]] (possibly)
+|loyalty = *[[House of Black]]<ref name="BFT" />
+*[[Flint family]]
+*[[Burke family]]
+}}
+'''Belvina Burke''' (née '''Black''') ([[1880s|1886]]–[[1962]]) was a [[pure-blood]] witch and member of the noble [[House of Black]].
+
+==Biography==
+Belvina was born in [[1886]]. She was the only daughter of [[Phineas Nigellus Black]] (Headmaster of [[Hogwarts School of Witchcraft and Wizardry]]) and [[Ursula Flint]]. She was also the sister of [[Sirius Black II|Sirius II]], [[Cygnus Black II|Cygnus II]], [[Phineas Black|Phineas]] and [[Arcturus Black II|Arcturus]]. She married [[Herbert Burke]], and they had three children: [[Belvina Burke's sons|two sons]] and [[Belvina Burke's daughter|a daughter]].<ref name="BFT" />
+
+==Etymology==
+The name ''Belvina'' does not fit in with the [[House of Black|Black family]] tradition of naming its members after stars or constellations. It may derived from Latin, in which it would mean something like "lovely wine" or "fair one". Alternatively, it could be derived from Beltane, an ancient Celtic holiday related to [[Wikipedia:Walpurgis Night|Walpurgis Night]], "Witches' Night".<ref>[http://www.hp-lexicon.org/wizards/blackfamily.html Harry Potter Lexicon: Black Family]</ref>
+
+==Behind the scenes==
+*Based on a statement by [[Horace Slughorn]], Belvina may have been a member of the [[Slytherin|Slytherin House]]. However, she attended Hogwarts c. 1897 - 1904, when Slughorn was not Potions teacher.
+*It is possible that she was related to [[Elizabeth Burke]] by marriage.
+*It is also possible that [[Araminta Meliflua Black|Araminta Meliflua]] was her granddaughter, since she was described as a cousin of [[Walburga Black]] (Belvina's great-niece) and then it can be assumed that they were in the same generation.
+
+==Appearances==
+*{{OOTP|F}} {{Comment|Appears on Black family tapestry}}
+*{{OOTP|G}} {{Comment|Seen on [[House of Black|Black family]] tree tapestry}}
+*{{DH|G1}} {{Comment|Seen on [[House of Black|Black family]] tree tapestry}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Black, Belvina}}
+[[de:Belvina Black]]
+[[es:Belvina Black]]
+[[fr:Belvina Black]]
+[[pl:Belvina Burke]]
+[[ja:ベルヴィナ・ブラック]]
+[[ru:Бельвина_Блэк]]
+
+[[Category:1886 births]]
+[[Category:1962 deaths]]
+[[Category:British individuals]]
+[[Category:Burke family]]
+[[Category:Females]]
+[[Category:House of Black]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

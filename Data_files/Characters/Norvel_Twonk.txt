@@ -1,0 +1,68 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Norvel Twonk.jpg|250px]]
+|name = Norvel Twonk
+|born = [[1888]]<ref name="COSG"/>
+|died = [[1957]] (aged 68-69)<ref name="COSG"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = White<ref name="COSG"/>
+|eyes = Blue<ref name="COSG"/>
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Order of Merlin]]<ref name="COSG"/>
+}}
+'''Norvel Twonk''', {{OM|First}} ([[1888]] - [[1957]]) was a [[Wizardkind|wizard]], who died saving a [[Non-magic people|Muggle]] child from a [[Manticore]].<ref name="COSG"/>
+
+==Biography==
+===Legacy===
+Twonk was posthumously awarded the [[Order of Merlin]], First Class.<ref name="COSG">{{COS|G}}</ref> There was a portrait of Twonk hung at [[Hogwarts Castle]], guarding a secret shortcut between the fifth-floor landing of the [[Grand Staircase]] and the [[Entrance Hall]] side room. The [[password]] required to gain access to said shortcut was "''Manticore''".<ref name="POAG">{{POA|G}} - PC version</ref>
+
+==Behind the scenes==
+*If Twonk attended Hogwarts in his youth, he might, depending on the exact date of his birth, have been in the same year as [[Theseus Scamander]].
+
+==Appearances==
+{{Imagecat|Images of Norvel Twonk}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}} {{Portrait}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Twonk, Norvel}}
+{{Hogwarts ground floor}}
+{{Hogwarts fifth floor}}
+{{Chocolate Frog Cards}}
+[[de:Norvel Twonk]]
+[[fr:Norvel Twonk]]
+[[fi:Norvel Twonk]]
+[[ru:Норвел Твонк]]
+[[it:Norvel Twonk]]
+[[pl:Norvel Twonk]]
+[[es:Norvel Twonk]]
+
+[[Category:1888 births]]
+[[Category:1957 deaths]]
+[[Category:Blue-eyed individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Deaths by creature]]
+[[Category:Males]]
+[[Category:Order of Merlin recipients]]
+[[Category:Portraits]]
+[[Category:Wizards]]

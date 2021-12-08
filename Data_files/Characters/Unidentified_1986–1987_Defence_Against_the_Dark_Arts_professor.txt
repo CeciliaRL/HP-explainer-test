@@ -1,0 +1,61 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Defence Against the Dark Arts Professor
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="HM37"/>
+|signature = 
+|species = [[Human]]<ref name="HM37"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Professor]] of [[Defence Against the Dark Arts]] ([[1986]]–[[1987]])<ref name="HM37"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HM37"/>
+}}
+This '''individual''' was a [[Wizardkind|witch or wizard]] who became the [[professor]] of [[Defence Against the Dark Arts]] at [[Hogwarts School of Witchcraft and Wizardry]], for the [[1986–1987 school year]].<ref name="HM37"/> 
+
+They were considered far from an improvement of the [[Unidentified 1985-1986 Defence Against the Dark Arts teacher|previous year's professor]], which made [[Tulip Karasu]] wonder whether they would ever learn the [[Boggart-Banishing Spell]] if they continued to teach the subject.<ref name="HM37">{{HM|3|7}}</ref>
+
+The professor was unable to continue teaching the subject in the next school year, because of [[Tom Riddle|Lord Voldemort]]'s [[Jinx on the post of Defence Against the Dark Arts teacher|jinx]] which ensured the teacher of the subject would have needed to be replaced by the end of the year.<ref name="HM37"/>
+
+According to [[Jacob's sibling]], this teacher was the worst out of their first five teachers.<ref name="HM5">{{HM|5}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Unidentified 1985–1986 Defence Against the Dark Arts teacher|Unidentified professor]]
+|position=[[Defence Against the Dark Arts]] [[Professor]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=[[1986]]–[[1987]]
+|successor=[[Unidentified 1987–1988 Defence Against the Dark Arts professor|Unidentified professor]]
+}}
+{{End box}}
+
+{{Staff}}
+{{Defence Against the Dark Arts}}
+[[Category:British or Irish individuals]]
+[[Category:Defence Against the Dark Arts Professors at Hogwarts]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified Hogwarts employees]]
+[[Category:Wizards]]

@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Shizuka Watanabe.png|250px]]
+|name = Shizuka Watanabe
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Japan]]ese<ref name="QWC"/>
+|alias = 
+|title = [[Seeker]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Black<ref name="QWC"/>
+|eyes = Dark brown<ref name="QWC"/>
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] for the [[Japanese National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty =*[[Mahoutokoro]]<ref name="mahoutokoro">{{WW|mahoutokoro}}</ref>
+*[[Japanese National Quidditch team]]<ref name="QWC"/>
+}}
+'''Shizuka Watanabe''' was a [[Japan]]ese [[Wizardkind|witch]] who played as [[Seeker]] on the [[Japanese National Quidditch team]].<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Watanabe's [[Chocolate Frog Card]] could be won by beating [[Dora Williams]] at an [[Exploding Snap]] challenge.<ref name="HBPG">{{HBP|G}} {{c|NDS edition}}</ref>
+
+==Etymology==
+The name "Shizuka" is from Japanese 静 (shizu) "quiet" combined with 夏 (ka) "summer" or 香 (ka) "smell, perfume". However, it can also simply mean, "quiet", from the adjective 静か(Shizuka).
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{FWC}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Watanabe, Shizuka}}
+[[fr:Shizuka Watanabe]]
+[[pl:Shizuka Watanabe]]
+[[ru:Сидзука Ватанабэ]]
+[[Category:20th century births]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Japanese individuals]]
+[[Category:Mahoutokoro students]]
+[[Category:Seekers]]
+[[Category:Wizards]]

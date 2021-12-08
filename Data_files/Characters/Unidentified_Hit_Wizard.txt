@@ -1,0 +1,48 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = UnidentifiedHitWizard.jpg
+|name = Unidentified Hit Wizard
+|born = Before [[1990]]<ref name="HM76A2">{{HM|7|6|Auror Field Training}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]] or [[Ireland|Irish]]<ref name="HM76A2"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM76A2"/>
+|gender = Male<ref name="HM76A2"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HM76A2"/>
+|eyes = Green<ref name="HM76A2"/>
+|skin = Brown<ref name="HM76A2"/>
+|family = Mother<ref name="Quote">In {{HM|7|6|Auror Field Training}}, this wizard says to the player: "My mum made me a quilt for my bed at St Mungo's."</ref>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Hit Wizard]]<ref name="HM76A2"/>
+|house = 
+|loyalty =*[[British Ministry of Magic]]<ref name="HM76A2"/>
+**[[Department of Magical Law Enforcement]]<ref name="HM76A2"/>
+}}
+{{Template:Quote|A [[Dark Wizard|Dark witch]] gave me these scars.|This wizard to Jacob's sibling|Harry Potter: Hogwarts Mystery}}
+This '''[[Hit Wizard]]''' was invited by [[Alastor Moody]] to train [[Jacob's sibling]] at the [[British Ministry of Magic]] during the [[1990–1991 school year]].<ref name="HM76A2"/>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+{{Character-stub}}
+[[Category:British or Irish individuals]]
+[[Category:Green-eyed individuals]]
+[[Category:Hit Wizards]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

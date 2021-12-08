@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = mom
+|image = [[File:Balfour Blane.jpg|250px]]
+|name = Balfour Blane
+|born = [[1566]]<ref name="COSG"/>
+|died = [[1629]] (aged 62-63)<ref name="COSG"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COSG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="COSG"/>
+|eyes = Blue<ref name="COSG"/>
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Founder of the [[Committee on Experimental Charms]]<ref name="COSG"/>
+|house = 
+|loyalty = [[Committee on Experimental Charms]]<ref name="COSG"/>
+}}
+'''Balfour Blane''' ([[1566]] – [[1629]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] who established the [[Committee on Experimental Charms]]. For this accomplishment, he was commemorated on a bronze [[Chocolate Frog Card]].<ref name="COSG">{{COS|G}}</ref>
+
+==Behind the scenes==
+*Given that {{PM}} revealed that the [[British Ministry of Magic|Ministry of Magic]] was formally established in [[1707]]<ref name="PMministers">{{WW|ministers-for-magic}}</ref> (78 years after Balfour Blane's death), it follows that the Committee on Experimental Charms must predate the Ministry itself, possibly having started out as part of the [[Wizards' Council]].
+
+==Etymology==
+The name "Balfour" is from a Scottish surname, originally from various place names, which meant "village pasture" in Gaelic.
+
+==Appearances==
+{{Imagecat|Images of Balfour Blane}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Blane, Balfour}}
+
+{{Ministry Departments unknown levels}}
+{{Chocolate Frog Cards}}
+[[de:Balfour Blane]]
+[[fr:Balfour Blane]]
+[[fi:Balfour Blane]]
+[[it:Balfour Blane]]
+[[pl:Balfour Blane]]
+[[ru:Балфур Блейн]]
+[[Category:1566 births]]
+[[Category:1629 deaths]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Committee on Experimental Charms personnel]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

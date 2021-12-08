@@ -1,0 +1,51 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = UnidentifiedFirstYearBoyII.jpg
+|name = Unidentified first year boy (II)
+|born = Between [[1 September]] [[1975]] and [[31 August]] [[1976]]<ref name="HM4">{{HM|4|Become a Prefect|4}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM4"/>
+|gender = Male<ref name="HM4"/>
+|height = 
+|weight = 
+|hair = Black<ref name="HM4"/>
+|eyes = Black<ref name="HM4"/>
+|skin = Light<ref name="HM4"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HM4"/>
+}}
+This '''[[Wizardkind|wizard]]''' was a student who attended [[Hogwarts School of Witchcraft and Wizardry]] during [[Jacob's sibling]]'s time at school.<ref name="HM4"/>
+
+==Biography==
+During the [[1987–1988 school year]], he was asked by [[Jacob's sibling]]'s [[Head of House]] to test Jacob's sibling on their ability to become a [[Prefect]]. He then invited Jacob's sibling to the [[Artefact Room]] (pretending) to know more about the school rules.<ref name="HM4"/>
+
+==Behind the scenes==
+*In {{HM}}, this student's house is always the same as the player's house.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Sorted in 1987]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mrs Budge
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WBoP"/>
+|gender = Female<ref name="WBoP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Zygmunt Budge]] (son)<ref name="WBoP"/>
+*[[Zygmunt Budge's great-grandmother|Grandmother or grandmother-in-law]]<ref name="WBoP"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|As even my own mother used to refer to me as 'Fungus-face', it became clear that my Beautification Potion had been a success.|[[Zygmunt Budge]], ''[[Book of Potions]]''.|Wonderbook: Book of Potions}}
+'''Mrs Budge''' was the mother of accomplished [[potioneer]] [[Zygmunt Budge]]. According to her son, she usually referred to him as 'Fungus-face', on account of his not-so-good looks.<ref name="WBoP">{{WBP}} - Chapter 4 (''Beautification Potion'')</ref>
+
+==Appearances==
+*{{WBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Budge, Zygmunt's mother}}
+[[pl:Pani Budge]]
+[[Category:British individuals]]
+[[Category:Bullies]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

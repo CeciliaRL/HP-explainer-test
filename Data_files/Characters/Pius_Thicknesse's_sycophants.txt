@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = [[File:Pius Thicknesse's sycophants.jpg|250px]]
+|name = Pius Thicknesse's sycophants
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">[[Muggle-born]]s were not allowed to work for the Voldemort controlled Ministry.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DHF1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF1"/>
+|gender = Males<ref name="DHF1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = "Yes men"<ref name="DHF1"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="DHF1"/>
+**[[Pius Thicknesse]]<ref name="DHF1"/>
+}}
+These '''nineteen individuals''' (fl. [[1997]]) were [[Wizardkind|wizards]] who worked at the [[British Ministry of Magic|Ministry of Magic]] under its [[Fall of the Ministry of Magic|Death Eater rule]].
+
+==Biography==
+They adulated [[Minister for Magic]] [[Pius Thicknesse]] excessively. On the morning of [[2 September]], [[1997]], these individuals followed Minister Thicknesse around Level One of the Ministry.<ref name="DHF1">{{DH|F1}} - Chapter 12 (''Secret Files'')</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Minister and support staff}}
+[[ru: Подхалимы Пия Толстоватого]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Minister for Magic's Support Staff]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,46 @@
+{{Imageless}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mr Gulray
+|born = [[1890]]<ref name="GOFG"/>
+|died = [[1945]] (aged 54 - 55)<ref name="GOFG"/>
+|blood = [[Non-magic people|Muggle]]<ref name="GOFG"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFG"/>
+|gender = Male<ref name="GOFG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mr Gulray''' ([[1890]]-[[1945]]) was a [[Non-magic people|Muggle]] whose dead body was buried at [[Little Hangleton graveyard]] after his death.<ref name="GOFG">{{GOF|G}}</ref>
+
+==Behind the scenes==
+*He is male by the fact that the tombstone reads ''Mr Gulray (surname)''.
+*It is not sure what his surname was, as it can't be seen.
+
+==Appearances==
+*{{GOF|G}} {{Comment|Name seen on tombstone}}
+
+==Notes and references==
+{{Reflist}}[[pl:Gulray]]
+[[Category:1890 births]]
+[[Category:1945 deaths]]
+[[Category:Buried at Little Hangleton graveyard]]
+[[Category:Males]]
+[[Category:Muggles]]

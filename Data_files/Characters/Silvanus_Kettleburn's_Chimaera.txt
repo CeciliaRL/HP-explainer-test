@@ -1,0 +1,34 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = Chimaera in Forbidden Forest HM.png
+|name = Silvanus Kettleburn's Chimaera
+|born = Before [[1987]]<ref name="HM41">{{HM|4|1}}</ref>
+|species = [[Chimaera]]<ref name="HM41"/>
+|gender = Female<ref name="HM41"/>
+|hair = Golden<ref name="HM58"/>
+|eyes = Yellow<ref name="HM58"/>
+|skin = 
+|family = 
+|loyalty = [[Silvanus Kettleburn]] (owner)<ref name="HM41"/>
+}}
+This female '''[[Chimaera]]''' was owned by [[Professor]] [[Silvanus Kettleburn]] during the [[1980s]].<ref name="HM41"/>
+
+==Biography==
+[[Professor]] [[Silvanus Kettleburn]] brought this Chimaera from [[Greece]] to the [[Hogwarts Castle|Hogwarts grounds]] in the summer of [[1987]].<ref name="ITHLD">{{HM}}, Year ?, Side Quest "Into the Hybrid Lion's Den"</ref>
+
+During the [[1987–1988 school year]] at [[Hogwarts School of Witchcraft and Wizardry]], Professor Silvanus Kettleburn repeatedly said that his Chimaera had escaped and was roaming the castle unleashed.<ref name="HM41"/> The Chimaera was still loose at the beginning of the [[1988–1989 school year|following school year]].<ref name="Prefect">{{HM|5|Yer a Prefect!}}</ref> [[Jacob's sibling]] found her in the [[Forbidden Forest]], but was unable to subdue her with magic. [[Liz Tuttle]] managed to calm her down.<ref name="HM58">{{HM|5|8}}</ref>
+
+Later during the same school year, Jacob's sibling battled this Chimaera again to impress [[Peeves]]. Kettleburn arrived with Liz and [[Barnaby Lee|Barnaby]] before Jacob's sibling lost control.<ref name="HM522">{{HM|5|22}}</ref>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Chimaeras]]
+[[Category:Females]]
+[[Category:Forbidden Forest]]
+[[Category:Pets]]
+[[Category:Silvanus Kettleburn's possessions]]
+[[Category:Yellow-eyed individuals]]

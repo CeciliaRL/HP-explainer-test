@@ -1,0 +1,81 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Daniel Page from Harry Potter Magic Awakened.png|thumb]]
+|name = Daniel Page
+|born = Between [[1 September]] [[1996]] and [[31 August]] [[1997]]{{MATimeRef}}
+|died = 
+|blood = [[Half-blood]]<ref name="MA"/>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="MA"/>
+|gender = Male<ref name="MA"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="MA"/>
+|eyes = Brown<ref name="MA"/>
+|skin = White<ref name="MA"/>
+|family = *[[Page siblings' father|Father]]
+*[[Page siblings' mother|Mother]] 
+*[[Reggie Page]] (older brother)
+*[[Daniel Page's sister|Older sister]]
+*[[Page family]]
+|romances = 
+|animagus = 
+|boggart = [[Dragon]]<ref name="MA"/>
+|wand = [[Daniel Page's wand|13", Vine, Phoenix feather]]<ref name="MA fact file">{{MA}} - [https://mp.weixin.qq.com/s/pSAtLUCo57GgH2UpDqri1g Daniel Page fact file] (image in Chinese)</ref>
+|patronus = [[Black cat]]<ref name="MA fact file"/>
+|job = 
+|house = 
+|loyalty = *[[Page family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="MA"/> 
+**[[Duelling Club (1990s)|Duelling Club]]<ref name="MA"/>
+}}
+'''Daniel Page''' was a [[half-blood]] [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in [[2008]].<ref name="MA">{{MA}}</ref>{{MATimeRef}}
+
+==Biography==
+===Early life===
+[[File:The Bloody Pages.png|220x220px|thumb|left|A Muggle newspaper reporting the arrest of Daniel's family]]
+Daniel was born and raised somewhere in the [[Great Britain|British Isles]] between [[1996]] and [[1997]].{{MATimeRef}} He was the third child and youngest son of a [[Non-magic people|Muggle]] father and a [[Wizardkind|witch]] mother, and was raised alongside an older brother and sister. The only one of the two boys to possess magical ability, Daniel nevertheless attended a Muggle primary school prior to receiving his [[Hogwarts acceptance letter|letter of acceptance]] from Hogwarts. While apparently loving, Daniel's childhood were still marred by controversy from an early age, marked by the illicit activities of their father and, in due time, also Daniel's older brother Reggie, who was a [[Squib]]. At some point, they were eventually cornered by the Muggle [[police]] and arrested.<ref name="MA" />
+
+[[File:Daniel Page and his mother.png|241x241px|thumb|right|Daniel Page visiting his mother in prison]]
+Having "tried to help" using magic but only ended up "scaring a bunch of Muggles", Daniel's mother was also apprehended. While her two apparent accomplices were both tried and sentenced to a Muggle prison, her violation of the [[International Statute of Wizarding Secrecy]] came to the attention of the [[Ministry of Magic]], which, presumably through the efforts of the [[Muggle Liaison Office]], successfully claimed jurisdiction and had her released into the custody of the [[Department of Magical Law Enforcement]]. Put on trail before a wizarding court of law, she was accused and found guilty of being a member of the [[Nocturnal Order of Tricks and Exhibitions]], and sentenced to [[Azkaban]]. The family's arrest was covered by a Muggle newspaper, dubbing them "The Bloody Pages", after which Daniel, who was now left in the care of his older sister, found school to be anything but fun.<ref name="MA" />
+
+===Education===
+Daniel finally arrived at [[Hogwarts School of Witchcraft and Wizardry]] when he was eleven. He did so with a sigh of relief; as few witches and wizards read Muggle newspaper and hence, nobody knew him, taking off a lot of the pressure he had been under after all that happened.<ref name="MA" />
+
+==Personality and traits==
+Upon arriving at school, Daniel came off as a solitary, studious young wizard that often preferred focusing on his academics over interacting with other people. When he befriended [[Unidentified Muggle-born Hogwarts student|among others]] [[Robyn Thistlethwaite]] and [[Ivy Warrington]], he became significantly more open and sociable. He also kept well-informed on the goings on in the wizarding community, to the point that he was very familiar with the notorious group known as [[Nocturnal Order of Tricks and Exhibitions|NOTME]]. Following his mother's imprisonment after her violation of the [[International Statute of Wizarding Secrecy]], he grew to view it as a "stupid law", and expressed the belief that while they should not necessarily go around flaunting their abilities to the masses, he nevertheless believed that keeping magic from the [[Muggle world]] entirely as a selfish thing to do, apparently blind to the extent to which permitting magic around non-wizards could be exploited for nefarious purposes.<ref name="MA" /> As such, he was known to dislike the [[British Ministry of Magic]].<ref name="MA fact file" />
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': Daniel was proficient in the [[magic]]al art of potion-making<ref name="MA" /> and enjoyed [[Potions (class)|Potions class]].<ref name="MA" />
+*'''[[Charm]]s''': Daniel was capable of producing a fully corporeal [[Patronus Charm|Patronus]] in the form of a [[black cat]], an exceptional [[magic]]al feat for a Hogwarts student.<ref name="MA fact file"/>
+*'''[[Defence Against the Dark Arts]]''': This subject was one of Daniel's favourite [[Hogwarts subjects|subjects]] at Hogwarts.<ref name="MA fact file"/>
+
+==Possessions==
+*'''[[Daniel Page's wand|Wand]]''': Daniel most likely purchased this wand before his [[first year]], which was 13 inches, made of [[vine]] with a [[phoenix feather]] [[Wand core|core]].<ref name="MA fact file"/>
+
+==Behind the scenes==
+*It is possible that he was related to [[Grant Page]].
+*Daniel does not have a set House. He will be sorted into the House that the player chooses to be in.
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Page, Daniel}}
+[[ru:Дэниел Пейдж]]
+[[Category:1990s births]]
+[[Category:Brown-eyed individuals]]
+[[Category:British or Irish individuals]]
+[[Category:Half-bloods]]
+[[Category:Impersonated individuals]]
+[[Category:Males]]
+[[Category:Page family]]
+[[Category:Sorted in 2008]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

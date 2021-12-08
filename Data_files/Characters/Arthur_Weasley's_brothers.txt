@@ -1,0 +1,82 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Arthur Weasley's brothers
+|born = [[20th century]]
+|died = 
+|blood = [[Pure-blood]]s
+|marital = 
+|nationality = [[England|English]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s
+|gender = Males
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Arcturus Black II]] (maternal grandfather) †
+*[[Lysandra Yaxley|Lysandra Black]] (née [[Yaxley family|Yaxley]]) (maternal grandmother)
+*[[Septimus Weasley]] (father)
+*[[Cedrella Black|Cedrella Weasley]] (née [[House of Black|Black]]) (mother)
+*[[Arthur Weasley]] (brother)
+*[[Callidora Black|Callidora Longbottom]] (née [[House of Black|Black]]) (maternal aunt)
+*[[Harfang Longbottom]] (maternal uncle by marriage)
+*[[Harfang Longbottom's son|Male maternal first cousin]]
+*[[Harfang Longbottom's daughter|Female maternal first cousin]]
+*[[Charis Black|Charis Crouch]] (née [[House of Black|Black]]) (maternal aunt) †
+*[[Caspar Crouch]] (maternal uncle by marriage) †
+*[[Caspar Crouch's son|Male maternal first cousin]] †
+*[[Bartemius Crouch Senior|Bartemius Crouch Snr]] (possible cousin) †
+*[[Caspar Crouch's daughters|Two female maternal first cousins]] †
+*[[Molly Weasley]] (née [[Prewett family|Prewett]]) (sister-in-law)
+*[[Weasley children's cousin]] (possibly related)
+*[[William Weasley]] (nephew)
+*[[Charles Weasley]] (nephew)
+*[[Percy Weasley]] (nephew)
+*[[Fred Weasley]] (nephew) †
+*[[George Weasley]] (nephew)
+*[[Ronald Weasley]] (nephew)
+*[[Ginevra Weasley|Ginevra Potter]] (née [[Weasley family|Weasley]]) (niece)
+*[[Weasley family]]
+*[[House of Black]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Weasley family]]
+}}
+The '''two brothers''' of [[Arthur Weasley]]<ref name="JKR">"[http://web.archive.org/web/20120205110828/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=7 Extra Stuff: The Weasley Family]" at {{JKRS}}</ref> were [[England|English]] [[pure-blood]] [[Wizardkind|wizards]]. Their parents were [[Septimus Weasley|Septimus]] and [[Cedrella Black|Cedrella Weasley]] (née [[House of Black|Black]]).<ref>Although it has never been confirmed that Septimus and Cedrella are the parents of Arthur and his brothers, this can be inferred based on [[Sirius Black]]'s statement in {{OOTP|B|6}} that Arthur was "something like [his] second cousin once removed." The [[House of Black|Black family tree]] establishes Cedrella as a first cousin once removed of both [[Orion Black|Orion]] and [[Walburga Black]], Sirius's parents. Thus, any children she had would be their second cousins, and second cousins once removed of their sons Sirius and Regulus. Also, almost all of Sirius's relatives can be seen on the Black family tree because both his parents were born into the House of Black, making it unlikely that he could be related to Arthur in a way not shown. See also this article's [[Talk:Cedrella Black|talk page]] and this [http://www.hplex.info/essays/essay-black-family-tree.html HPL essay] for more information.</ref> At least one of them appears to have had children, as there were mentions of various [[Weasley family|Weasley]] cousins at the [[Wedding of William Weasley and Fleur Delacour|wedding]] of [[William Weasley|Bill Weasley]] and [[Fleur Delacour]] in August of [[1997]].<ref name="DH8">{{DH|B|8}}</ref>
+
+==Behind the scenes==
+*[[J. K. Rowling]] stated that Arthur had two brothers.<ref name="JKR" /> They have not been named thus far.
+*In addition, an [[Weasley children's uncle|uncle]] of the Weasley children who attended [[William Weasley|Bill]] and [[Fleur Delacour|Fleur]]'s wedding,<ref name="DH8" /> may have been one of Arthur's brothers.
+*When [[Harry Potter]] attended [[Wedding of William Weasley and Fleur Delacour|Bill and Fleur's wedding]] disguised as a [[red-haired Muggle boy]], one of the Weasley uncles, who was intoxicated at the time, wondered if Harry was his son. This may mean that one of Arthur's brothers has at least one son, or he may have simply been ''extremely'' drunk.
+*Ron has an uncle Bilius who could be one of Arthur's brothers, or Molly might have another brother that we don't know about.<ref name="DH8" />
+*These individuals were not featured on the Weasley family tree shown on {{PM}}.
+
+==Appearances==
+*{{DH}} {{1st}}<ref>One of the brothers was stated to attend, but it is most likely that both attended the [[Wedding of William Weasley and Fleur Delacour|wedding]].</ref>
+*{{JKRS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Weasley, Arthur's brothers}}
+
+[[ru:Братья Артура Уизли]]
+[[pl:Bracia Artura Weasleya]]
+[[Category:Blood traitors]]
+[[Category:Disowned members of the House of Black]]
+[[Category:English individuals]]
+[[Category:House of Black descendants]]
+[[Category:Males]]
+[[Category:Pure-bloods]]
+[[Category:Unnamed members of the House of Black]]
+[[Category:Weasley family]]
+[[Category:Wizards]]

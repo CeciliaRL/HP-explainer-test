@@ -1,0 +1,43 @@
+{{Transcribed image|File:Lara Blishen.jpg}}
+{{Individual infobox
+|theme = individual
+|image = [[File:Lara Blishen.jpg|250px]]
+|name = Lara Blishen
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Blishen family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Lara Blishen''' was an individual who was at [[Hogwarts School of Witchcraft and Wizardry]] in the winter of [[1993]] as seen on the [[Marauder's Map]].<ref>{{POA|F}} {{see image|File:Lara Blishen.jpg}}</ref>
+
+==Appearances==
+*{{POA|F}} {{Comment|Appears on the [[Marauder's Map]]}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Blishen, Lara}}
+
+[[pl:Lara Blishen]]
+[[Category:Blishen family|Lara]]
+[[Category:Females]]

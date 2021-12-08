@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Alastor Gumboil
+|born = Before [[1982]]<ref name="DOB">As he was employed by the Ministry by [[1999]] he was likely over 17.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Hit Wizard]]<ref name="DP"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="DP"/>
+**[[Department of Magical Law Enforcement]]<ref name="DP"/>
+***[[Magical Law Enforcement Patrol|Magical Law Enforcement Squad]]<ref name="DP"/>
+}}
+'''Alastor Gumboil''' was a [[Hit Wizard]] with the [[British Ministry of Magic]].<ref name="DP"/>
+
+==Biography==
+In [[February]] [[1999]], he placed an advertisement in the Daily Prophet for applicants in his department. His office was room number 919.<ref name="DP">{{DP}}: [[8 February]], [[1999]], Page 2</ref><ref name="HP Lexicon">[https://www.hp-lexicon.org/character/alastor-gumboil/ Harry Potter Lexicon]</ref>
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+{{DEFAULTSORT:Gumboil, Alastor}}
+[[pl:Alastor Gumboil]]
+[[es:Alastor Gumboil]]
+[[Category:British individuals]]
+[[Category:Hit Wizards]]
+[[Category:Males]]
+[[Category:Wizards]]

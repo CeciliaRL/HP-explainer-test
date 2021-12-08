@@ -1,0 +1,33 @@
+{{WizardsUniteSpoiler}}
+{{Pet individual infobox
+|image = 
+|name = Mauler
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Kneazle]]
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Scamander family]]
+}}
+'''Mauler''' was one of three pet [[Kneazle]]s (the other two being [[Hoppy]] and [[Milly]]) that belonged to [[Newton Scamander|Newt]] and [[Porpentina Goldstein|Porpentina Scamander]]. Mauler lived with the couple in their home in Dorset.<ref name="FBR">{{FB|R}}, ''About the Author''</ref>
+
+==Appearances==
+*{{FB|R}} {{1st Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individual cats]]
+[[fr:Mordy]]
+[[ru:Боксёр]]
+[[pl:Pacek]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Kneazles]]
+[[Category:Scamander family]]

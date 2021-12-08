@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Susanna Hesleden's mother|Mrs Hesleden]] (mother)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+'''Susanna Hesleden''' was a [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. Susanna was a fan of [[Gilderoy Lockhart]], and was known to send him letters daily.
+
+==Etymology==
+The name "Susanna" is from Σουσαννα (Sousanna), the Greek form of the Hebrew name שׁוֹשַׁנָּה (Shoshannah). This was derived from the Hebrew word שׁוֹשָׁן (shoshan) meaning "lily" (in modern Hebrew this also means "rose"), perhaps ultimately from Egyptian sšn "lotus".
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|PlayStation 2 version]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hesleden, Susanna}}
+[[pl:Susanna Hesleden]]
+[[fr:Susanna Hesleden]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gilderoy Lockhart's fans]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

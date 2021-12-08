@@ -1,0 +1,44 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Stevens
+|born = Before [[1990]]<ref name="HM714A">{{HM|7|14|Catastrophe Clean-Up}}</ref>
+|died = 
+|blood = [[Non-magic people|Muggle]] {{C|most likely}}<ref name="HM714A"/>
+|marital = Married, divorced or widowed<ref name="HM714A"/>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM714A"/>
+|gender = Female<ref name="HM714A"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|I was chatting with Mrs Stevens and Ms Ross, and [[Erumpent horn|something]] exploded!|[[Unidentified Muggle witness]]|Harry Potter: Hogwarts Mystery}}
+'''Mrs Stevens''' was a resident in [[Northumberland]]. She witnessed an [[Explosion in Northumberland|explosion]] on a Saturday morning while chatting with [[Ross (woman)|Ms Ross]] and a [[Unidentified Muggle witness|Muggle]]. She was mentioned by her friend when he was interviewed by (unknown to him) a delegation from the [[British Ministry of Magic]].
+
+The cause of the explosion was later revealed to be a [[Erumpent horn]] that had been dropped by a [[Unidentified wizard who dropped an Erumpent horn|wizard]]. It's unknown if Mrs Stevens, if not secretly a [[Wizardkind|witch]] herself, knew enough about the incident that she had to be [[Memory Charm|Obliviated]], although the friend who mentioned her was.<ref name="HM714A" />
+
+==Appearances==
+
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Humans]]

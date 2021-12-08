@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mimi Erland
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Jacob Erland]] (unknown)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mimi Erland'''<ref>Closed captions on the DVD/Blu-ray of {{DH|F1}}</ref> was a [[Wizardkind|witch]] who was reported missing along with her relative, [[Jacob Erland|Jacob]], on the ''[[Potterwatch]]'' wireless programme in [[1997]]. Her disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.
+
+==Appearances==
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Erland, Mimi}}
+
+[[fr:Mimi Erland]]
+[[pl:Mimi Erland]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,117 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1>Community 17</h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 600px;
+            background-color: white;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Boil-ridden house-elf", "label": "Boil-ridden house-elf", "shape": "dot", "size": 20, "species": "House-elf", "title": "\u003cb\u003eBoil-ridden house-elf\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: House-elf \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Hogwarts house-elves", "label": "Hogwarts house-elves", "shape": "dot", "size": 25, "species": "House-elf", "title": "\u003cb\u003eHogwarts house-elves\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: House-elf \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Hogwarts potions champion", "label": "Hogwarts potions champion", "shape": "dot", "size": 21, "species": "Human", "title": "\u003cb\u003eHogwarts potions champion\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Zygmunt Budge", "label": "Zygmunt Budge", "shape": "dot", "size": 23, "species": "Human", "title": "\u003cb\u003eZygmunt Budge\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "Muggle", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Tertius\u0027s brothers", "label": "Tertius\u0027s brothers", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eTertius\u0027s brothers\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: Muggle \u003c/br\u003eCommunity: 17"}, {"blood": "Muggle-born", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Tertius", "label": "Tertius", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eTertius\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: Muggle-born \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Gregory Cotton", "label": "Gregory Cotton", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eGregory Cotton\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Dougal McBride", "label": "Dougal McBride", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eDougal McBride\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Josiah Plunkett", "label": "Josiah Plunkett", "shape": "dot", "size": 21, "species": "Human", "title": "\u003cb\u003eJosiah Plunkett\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "Muggle", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Female", "house": "unknown", "id": "Viking Girl", "label": "Viking Girl", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eViking Girl\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Female \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: Muggle \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Koldovstoretz potions champion", "label": "Koldovstoretz potions champion", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eKoldovstoretz potions champion\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Filk", "label": "Filk", "shape": "dot", "size": 20, "species": "House-elf", "title": "\u003cb\u003eFilk\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: House-elf \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Female", "house": "unknown", "id": "Zygmunt Budge\u0027s great-grandmother", "label": "Zygmunt Budge\u0027s great-grandmother", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eZygmunt Budge\u0027s great-grandmother\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Female \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Female", "house": "unknown", "id": "Zygmunt Budge\u0027s mother", "label": "Zygmunt Budge\u0027s mother", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eZygmunt Budge\u0027s mother\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Female \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Zygmunt Budge\u0027s sheep", "label": "Zygmunt Budge\u0027s sheep", "shape": "dot", "size": 20, "species": "Sheep", "title": "\u003cb\u003eZygmunt Budge\u0027s sheep\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Sheep \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Samuel Plunkett", "label": "Samuel Plunkett", "shape": "dot", "size": 20, "species": "unknown", "title": "\u003cb\u003eSamuel Plunkett\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: unknown \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Unidentified 16th-century Potions professor", "label": "Unidentified 16th-century Potions professor", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eUnidentified 16th-century Potions professor\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Gimkey", "label": "Gimkey", "shape": "dot", "size": 20, "species": "House-elf", "title": "\u003cb\u003eGimkey\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: House-elf \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Bilm", "label": "Bilm", "shape": "dot", "size": 20, "species": "House-elf", "title": "\u003cb\u003eBilm\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: House-elf \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Krafty", "label": "Krafty", "shape": "dot", "size": 20, "species": "House-elf", "title": "\u003cb\u003eKrafty\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: House-elf \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Retch", "label": "Retch", "shape": "dot", "size": 20, "species": "House-elf", "title": "\u003cb\u003eRetch\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: House-elf \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Vekey", "label": "Vekey", "shape": "dot", "size": 20, "species": "House-elf", "title": "\u003cb\u003eVekey\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: House-elf \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Female", "house": "unknown", "id": "Mirabella Plunkett", "label": "Mirabella Plunkett", "shape": "dot", "size": 21, "species": "unknown", "title": "\u003cb\u003eMirabella Plunkett\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Female \u003c/br\u003eSpecies: unknown \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Mirabella Plunkett\u0027s father", "label": "Mirabella Plunkett\u0027s father", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eMirabella Plunkett\u0027s father\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Female", "house": "unknown", "id": "Mirabella Plunkett\u0027s mother", "label": "Mirabella Plunkett\u0027s mother", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eMirabella Plunkett\u0027s mother\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Female \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Mahoutokoro potions champion", "label": "Mahoutokoro potions champion", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eMahoutokoro potions champion\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Unidentified Merman who fell in love with Mirabella Plunkett", "label": "Unidentified Merman who fell in love with Mirabella Plunkett", "shape": "dot", "size": 20, "species": "Merpeople", "title": "\u003cb\u003eUnidentified Merman who fell in love with Mirabella Plunkett\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Merpeople \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Gigantic serpent", "label": "Gigantic serpent", "shape": "dot", "size": 20, "species": "Snake", "title": "\u003cb\u003eGigantic serpent\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: Snake \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}, {"blood": "unknown", "color": "#B9C865", "community": 17, "community_names": ["Hogwarts house-elves", "Zygmunt Budge", "Hogwarts potions champion"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Uagadou potions champion", "label": "Uagadou potions champion", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eUagadou potions champion\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 17"}]);
+        edges = new vis.DataSet([{"color": "lightgrey", "from": "Boil-ridden house-elf", "to": "Hogwarts house-elves", "weight": 1}, {"color": "lightgrey", "from": "Boil-ridden house-elf", "to": "Hogwarts potions champion", "weight": 1}, {"color": "lightgrey", "from": "Boil-ridden house-elf", "to": "Zygmunt Budge", "weight": 1}, {"color": "lightgrey", "from": "Tertius\u0027s brothers", "to": "Tertius", "weight": 1}, {"color": "lightgrey", "from": "Tertius\u0027s brothers", "to": "Zygmunt Budge", "weight": 1}, {"color": "lightgrey", "from": "Gregory Cotton", "to": "Dougal McBride", "weight": 1}, {"color": "lightgrey", "from": "Gregory Cotton", "to": "Josiah Plunkett", "weight": 1}, {"color": "lightgrey", "from": "Viking Girl", "to": "Zygmunt Budge", "weight": 1}, {"color": "lightgrey", "from": "Koldovstoretz potions champion", "to": "Hogwarts potions champion", "weight": 1}, {"color": "lightgrey", "from": "Filk", "to": "Hogwarts house-elves", "weight": 1}, {"color": "lightgrey", "from": "Zygmunt Budge", "to": "Zygmunt Budge\u0027s great-grandmother", "weight": 1}, {"color": "lightgrey", "from": "Zygmunt Budge", "to": "Zygmunt Budge\u0027s mother", "weight": 1}, {"color": "lightgrey", "from": "Zygmunt Budge", "to": "Zygmunt Budge\u0027s sheep", "weight": 1}, {"color": "lightgrey", "from": "Zygmunt Budge", "to": "Samuel Plunkett", "weight": 1}, {"color": "lightgrey", "from": "Zygmunt Budge", "to": "Tertius", "weight": 1}, {"color": "lightgrey", "from": "Zygmunt Budge", "to": "Hogwarts potions champion", "weight": 1}, {"color": "lightgrey", "from": "Zygmunt Budge", "to": "Unidentified 16th-century Potions professor", "weight": 1}, {"color": "lightgrey", "from": "Hogwarts house-elves", "to": "Gimkey", "weight": 1}, {"color": "lightgrey", "from": "Hogwarts house-elves", "to": "Bilm", "weight": 1}, {"color": "lightgrey", "from": "Hogwarts house-elves", "to": "Krafty", "weight": 1}, {"color": "lightgrey", "from": "Hogwarts house-elves", "to": "Retch", "weight": 1}, {"color": "lightgrey", "from": "Hogwarts house-elves", "to": "Vekey", "weight": 1}, {"color": "lightgrey", "from": "Samuel Plunkett", "to": "Josiah Plunkett", "weight": 1}, {"color": "lightgrey", "from": "Samuel Plunkett", "to": "Mirabella Plunkett", "weight": 1}, {"color": "lightgrey", "from": "Zygmunt Budge\u0027s great-grandmother", "to": "Zygmunt Budge\u0027s mother", "weight": 1}, {"color": "lightgrey", "from": "Mirabella Plunkett\u0027s father", "to": "Mirabella Plunkett", "weight": 1}, {"color": "lightgrey", "from": "Mirabella Plunkett\u0027s father", "to": "Mirabella Plunkett\u0027s mother", "weight": 1}, {"color": "lightgrey", "from": "Dougal McBride", "to": "Josiah Plunkett", "weight": 1}, {"color": "lightgrey", "from": "Mahoutokoro potions champion", "to": "Hogwarts potions champion", "weight": 1}, {"color": "lightgrey", "from": "Vekey", "to": "Retch", "weight": 1}, {"color": "lightgrey", "from": "Unidentified Merman who fell in love with Mirabella Plunkett", "to": "Mirabella Plunkett", "weight": 1}, {"color": "lightgrey", "from": "Gigantic serpent", "to": "Hogwarts potions champion", "weight": 1}, {"color": "lightgrey", "from": "Mirabella Plunkett", "to": "Mirabella Plunkett\u0027s mother", "weight": 1}, {"color": "lightgrey", "from": "Mirabella Plunkett", "to": "Josiah Plunkett", "weight": 1}, {"color": "lightgrey", "from": "Hogwarts potions champion", "to": "Uagadou potions champion", "weight": 1}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "curvedCW"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": true,
+        "hideNodesOnDrag": true
+    },
+    "physics": {
+        "enabled": true,
+        "forceAtlas2Based": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.02,
+            "damping": 1,
+            "gravitationalConstant": -111,
+            "springConstant": 0.025,
+            "springLength": 75
+        },
+        "solver": "forceAtlas2Based",
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>

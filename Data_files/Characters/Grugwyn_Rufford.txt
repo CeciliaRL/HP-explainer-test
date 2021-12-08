@@ -1,0 +1,44 @@
+{{Individual infobox
+|name = Grugwyn Rufford
+|image = 
+|born = [[1981]] or earlier<ref name="age">As a member of a National Gobstones Team, he was likely over 17.</ref>
+|died = 
+|blood = 
+|alias = 
+|title = 
+|signature = 
+|nationality = [[Wales|Welsh]]<ref name="DP"/>
+|marital = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|loyalty = [[Welsh National Gobstones Team|National Welsh Gobstones Team]]<ref name="DP"/>
+|theme = wizard
+}}
+'''Grugwyn Rufford''' (fl. [[1998]]) was a [[Wales|Welsh]] [[Wizardkind|wizard]] who was a member of the [[Welsh National Gobstones Team|National Welsh Gobstones Team]].<ref name="DP">{{DP}}: [[31 July]], [[1998]], Page 3</ref> 
+
+==Biography==
+In [[1998]], Rufford complained to the ''[[Daily Prophet]]'' because they did not cover the [[Wales|Welsh]] victory over [[Hungarian National Gobstones Team|Hungary]]. On [[31 July]] that year, the editor replied to him via an editorial saying that people found that [[Gobstones]] were "''deeply boring''".<ref name="DP" />
+
+==Etymology==
+It is possible that this name 'Grugwyn' comes from Welsh ''grug gwyn'' "white heather".
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Gobstones players|Rufford, Grugwyn]]
+[[Category:Males|Rufford, Grugwyn]]
+[[Category:Welsh individuals|Rufford, Grugwyn]]
+[[Category:Wizards|Rufford, Grugwyn]]

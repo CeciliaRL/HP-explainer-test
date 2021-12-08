@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Katsuji Yamazaki
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+}}
+'''Katsuji Yamazaki''' was a [[Hufflepuff]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He was seen walking around the school during the [[1993-1994 school year]].
+
+==Etymology==
+Katsuji is a Japanese given name, meaning "victorious". Yamazaki is a Japanese surname from a common place name meaning "mountain promontory".
+
+==Behind the scenes==
+*Given his name, it can be presumed that he is of [[Japan]]ese descent.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Yamazaki, Katsuji}}
+[[pl:Katsuji Yamazaki]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Sorted in the 20th century]]
+[[Category:Wizards]]

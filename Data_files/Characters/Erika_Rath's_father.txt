@@ -1,0 +1,41 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Erika Rath's father
+|born = before [[1970s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Erika Rath]] (daughter)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''individual''' was the father of [[Erika Rath]]. He gave her a copy of {{QTA}} for her birthday.<ref name="HM">{{HM}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Rath, Erika father}}
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

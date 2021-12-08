@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Dugald McClivert
+|born = 
+|died = Unknown
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Head of [[McClivert clan]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Head of [[McClivert clan]]
+|house = 
+|loyalty = 
+}}
+'''Dugald McClivert''' was the head of the [[McClivert clan]]. According to legend, he was killed by the hand of the [[MacBoon clan]], [[Quintius MacBoon]] in a drunken duel. His death led to the McClivert clan [[Transfiguration|transfiguring]] the MacBoons into dangerous creatures known as [[Quintaped]]s.<ref>{{FB|R}}</ref>
+
+==Appearances==
+*{{FB|R}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:McClivert, Dugald}}
+
+
+[[de:Dugald McClivert]]
+[[ru:Дугальд МакКливерт]]
+[[fr:Dugald McClivert]]
+[[pl:Dugald McClivert]]
+[[zh:杜格德·麦克利沃]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:McClivert family]]
+[[Category:Murder victims]]
+[[Category:Wizards]]

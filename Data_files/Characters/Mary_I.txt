@@ -1,0 +1,81 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:Mary I.jpg|250px]]
+|name = Mary I
+|born = [[18 February]] [[1516]]
+|died = [[17 November]] [[1558]] (aged 42)
+|blood = [[Muggle-born]] or [[half-blood]] (presumably)<ref name="blood">Her title may indicate she was [[Muggle-born]] or [[half-blood]], as [[Remus Lupin]] told [[Harry Potter]] in {{HBP}} that there were no princes in the wizarding world, and thus it follows that there was no other wizarding royalty as well.</ref>
+|marital = Married
+|nationality = [[England|English]]
+|alias = Bloody Mary
+Mary Tudor
+|title = *Lady
+*Queen of [[England]]
+|signature = 
+|species = [[Human]]<ref name="MHP"/>
+|gender = Female<ref name="MHP"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="MHP"/>
+|eyes = Brown<ref name="MHP"/>
+|skin = White<ref name="MHP"/>
+|family = *[[Henry VIII]] (father)
+*Catherine of Aragon (mother)
+*[[Anne Boleyn]] (stepmother)
+*[[Elizabeth I]] (half-sister)
+*[[Henry VII]] (grandfather)
+*[[William I]] (ancestor)
+*[[House of Tudor]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="MHP"/>
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[House of Tudor]]
+*[[England]]
+*[[Ireland]]
+*{{Wplink|Catholic Church}}
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Mary I''' ([[18 February]], [[1516]] – [[17 November]], [[1558]]), also known by her sobriquet of "'''Bloody Mary'''", was [[Queen]] of [[England]] and [[Ireland]] from [[July]] [[1553]] until her [[death]] on [[17 November]], [[1558]].<ref name="wikipedia">[http://en.wikipedia.org/wiki/Mary_I_of_England "Mary I of England"] on Wikipedia</ref>
+
+==Biography==
+Queen Mary was a [[wizardkind|witch]] and had a [[wand]] of her own. There was a [[portrait]] of her hung at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="MHP">{{MHP}} {{See image|File:Mary I.jpg}}</ref>
+
+She was a daughter of the [[Non-magic people|Muggle]] king [[Henry VIII]] and his first wife Catherine of Aragon and thus a half-sister to her successor, [[Elizabeth I]].<ref name="wikipedia" />
+
+==Etymology==
+The name "Mary" is the usual English form of Maria, which was the [[Latin]] form of the New Testament Greek names Μαριαμ (Mariam) and Μαρια (Maria) - the spellings are interchangeable - which were from the Hebrew name מִריָם (Miryam). The meaning is not known for certain, but there are several theories including "sea of bitterness", "rebelliousness", and "wished for child". However it was most likely originally an [[Egypt]]ian name, perhaps derived in part from mry "beloved" or mr "[[love]]".
+
+==Appearances==
+*[[Harry Potter (film series)|''Harry Potter'' films]] {{Portrait}}
+*{{WWHP}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=([[Henry VIII|←]]) Edward VI
+|position=Queen Regnant of England
+|years=[[1553]]-[[1558]]
+|successor=[[Elizabeth I]]
+}}
+{{End box}}
+
+[[es:María I]]
+[[pl:Maria I]]
+[[Category:1516 births]]
+[[Category:1558 deaths]]
+[[Category:Brown-eyed individuals]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Portraits]]
+[[Category:Royalty]]
+[[Category:Tudor dynasty]]
+[[Category:Wizards]]

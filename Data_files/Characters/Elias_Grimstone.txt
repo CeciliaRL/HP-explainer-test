@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Elias Grimstone
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Broom-maker]]
+|house=
+|loyalty=[[Oakshaft 79]]
+}}'''Elias Grimstone''' (fl. 1879) was a [[broom-maker]] from [[Portsmouth]]. In [[1870s|1879]], Elias created the [[Oakshaft 79]] [[broomstick]].<ref>{{QTA|R|9}}</ref>
+
+==Appearances==
+*{{QTA|R}}
+
+==Etymology==
+'''Elias''' is another version of the Hebrew name "Eliyahu", which is derived from 'ēlīyāhū, meaning "Jehovah is God".
+
+The name Grimstone is derived from the general case of the Old Norman personal "Grimr", and the Old English tun, which means settlement or town.
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Elias Grimstone]]
+[[fr:Elias Grimstone]]
+[[ru:Элия Гримстоун]]
+[[pl:Elias Grimstone]]
+
+{{DEFAULTSORT:Grimstone, Elias}}
+[[Category:Broom-makers]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

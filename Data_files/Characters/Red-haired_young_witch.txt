@@ -1,0 +1,67 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = grindelwald-acolyte
+|image = Red Haired Young Witch.jpeg
+|name = Red Haired Young Witch
+|born = Before [[1927]]
+|died = Early [[September]] [[1927]], [[Lestrange Mausoleum]], [[Cimetière du Père-Lachaise]], [[Paris]], [[France]]<ref name="COG114"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COG81"/><ref name="COG114"/>
+|gender = Female<ref name="COG81"/><ref name="COG114"/>
+|height = 
+|weight = 
+|hair = Red<ref name="COG114"/>
+|eyes = 
+|skin = 
+|family = *[[Red-haired young witch's family|Family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="COG114"/>
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Gellert Grindelwald]]<ref name="COG81"/><ref name="COG114"/>
+**[[Alliance|The Alliance]]<ref name="COG81"/><ref name="COG114"/>
+}}
+{{Quote|Take this young warrior back to her [[Red-haired young witch's family|family]].|Gellert Grindelwald mourning the death of this witch|Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay}}
+This '''young''' [[Wizardkind|'''witch''']] attended [[Gellert Grindelwald]]'s [[Gellert Grindelwald's Paris rally|rally]] in [[Paris]] in [[1927]], and appeared to share his [[Wizarding supremacy|beliefs]], but ultimately died there.<ref name="COG114"/>
+
+==Biography==
+===Following Gellert Grindelwald===
+[[File:Red Hair Witch.jpg|200px|thumb|left|This witch standing next [[Newton Scamander|Newt Scamander]] and [[Porpentina Goldstein|Tina Goldstein]] on one of Paris streets]]
+This witch was born sometime before [[1927]] into a [[Wizardkind|wizarding]] family. In early [[September]] of 1927, she witnessed Grindelwald [[Gellert Grindelwald's dark banners|calling]] upon his followers in [[Paris]], and was receptive to his call.<ref name="COG81">{{COG|S|81}}</ref> That same day, she attended [[Gellert Grindelwald's Paris rally|Grindelwald's rally]] in the [[Lestrange Mausoleum]] on the [[Cimetière du Père-Lachaise|Père-Lachaise Cemetery]].<ref name="COG114">{{COG|S|114}}</ref>
+
+When [[Auror]]s infiltrated the rally, she turned to attack [[Cassius Bell|an Auror]] that stood behind her after becoming enraged at the Aurors' presence. This outburst of anger resulted in not only the Auror in question raising his [[wand]] to defend himself, but also her own demise with the [[Killing Curse]] which the same Auror cast; which in turn caused Grindelwald to shout out in fury of her slaying.<ref name="COG114"/>
+
+===Legacy===
+[[File:Red Hair Witch 2.jpg|200px|thumb|left|Gellert Grindelwald kneeling beside a dead body of red haired witch]]
+Following her death, Gellert Grindelwald requested his other followers to take her corpse to her family, commending her as a "brave warrior". It can be presumed that this was done in accordance with Grindelwald's request.<ref name="COG114"/>
+
+==Personality and traits==
+Nothing was known about this witch's personality, apart from the fact that she became enamoured of Grindelwald's ideals enough to give her the courage to attack his enemies, though this bravery turned out to be foolishness leading to her abrupt demise.<ref name="COG114"/>
+
+==Behind the scenes==
+*This witch was portrayed by [[Alfrun Rose]] in {{COG}}.
+
+==Appearances==
+*{{COG|S}} {{1st}}
+*{{COG}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Joven bruja pelirroja]]
+[[fr:Partisane tuée de Gellert Grindelwald]]
+[[pl:Rudowłosa młoda czarownica]]
+[[Category:Deaths by Killing Curse]]
+[[Category:Deceased individuals]]
+[[Category:European individuals]]
+[[Category:Females]]
+[[Category:Gellert Grindelwald's Paris rally fatalities]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

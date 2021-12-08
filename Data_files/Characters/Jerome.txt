@@ -1,0 +1,50 @@
+{{Real world subject}}
+{{Individual infobox
+|image=
+|name=Jerome
+|theme=individual
+|hideb=
+|born=c. [[27 March]] [[First millennium A.D.|347]]<ref name="wiki1">"[https://en.wikipedia.org/wiki/Jerome Jerome]" on Wikipedia</ref>
+|blood=
+|died=[[30 September]] [[First millennium A.D.|420]]<ref name="wiki1" />
+|marital=
+|alias=
+|title=[[Wikipedia:Saint|Saint]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|family=
+|hidea=y
+|job=Priest, theologian, historian
+|house=
+|loyalty=
+}}
+'''Jerome''' (c. [[27 March]] [[First millennium A.D.|347]] – [[30 September]] [[First millennium A.D.|420]]) was an Ancient Roman priest, theologian, and historian, best known for producing the [[wikipedia:Vulgate|Vulgate]], an early [[Latin]] translation of the [[Bible]].<ref name="wiki1" /> He was venerated as a [[wikipedia:saint|saint]] in the [[wikipedia:Catholicism|Catholic]], [[wikipedia:Anglicanism|Anglican]], and [[wikipedia:Eastern Orthodox Church|Eastern Orthodox]] churches.<ref name="wiki1" />
+
+[[St Jerome's Church]] in [[Godric's Hollow]] was presumably named after him.<ref name="Art4Scene8">{{CC|B|4|8}}</ref>
+
+==Appearances==
+*{{CC}} {{Mention}}
+*{{CC|P}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:347 births]]
+[[Category:420 deaths]]
+[[Category:Clergy]]
+[[Category:Historians]]
+[[Category:Historical figures]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Roman individuals]]
+[[Category:Saints]]

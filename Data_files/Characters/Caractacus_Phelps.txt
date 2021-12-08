@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Caractacus Phelps
+|hideb=
+|born=[[1937]]
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+'''Caractacus Phelps''' (b. [[1937]]) was a [[Wizardkind|wizard]] from [[Staines]], [[Surrey]]. On [[1 April]], [[1979]], he (a forty-two year-old, at the time) exploded no less than eight-hundred [[Stink Pellets]], by dropping them en-masse from the roof of the ''[[Daily Prophet]]'' building in [[Diagon Alley]]. The resultant gas cloud caused untold discomfort throughout [[London]], and approximately five-hundred cases of [[Stinkitus]] were reported. The [[Non-magic people|Muggle]] authorities explained the stinking cloud away as an unpleasant emission from a nearby factory.
+
+==Etymology==
+''Caractacus'' comes from Gaelic origin, the name for a British hero who fought the Roman invaders. ''Caer'' means "a castle or city"; ''eacht'' "an exploit"; and ''cios'', "a tribute".<ref>[http://www.searchforancestors.com/surnames/origin/c/caractacus.php Search for Ancestors] Caractacus 
+Alternatively, Caractacus may be the Latin form of Caradoc as in [[Caradoc Dearborn]] and Cerdic, an early form of [[Cedric Diggory]].
+[http://webspace.webring.com/people/ge/edgarbook/names/frames.html] 
+[http://homepages.ihug.co.nz/~rain/origins.htm] [http://www.britannica.com/biography/Caratacus][http://www.behindthename.com/name/caratacus/related]
+Surname Origin & Last Name Meaning</ref> ''Phelps'' is related to "Philip", meaning "lover of horses" in Greek.<ref>[http://www.searchforancestors.com/surnames/origin/p/philip.php Search for Ancestors] Philip Surname Origin</ref>
+
+==Behind the scenes==
+*This wizard is only mentioned in the GameCube - Game Boy Advance Link of the [[Harry Potter and the Chamber of Secrets (video game)|video game adaptation]] of {{COS}}. [[Harry Potter|Harry]] reads about him on a Hint Book, at [[Gringotts Wizarding Bank|Gringotts]].
+*He shares the same surname as [[James and Oliver Phelps]], the actors who play [[Fred and George Weasley]] in the [[Harry Potter (film series)|films]]. Note that his incident with the stink pellets took place during the Weasley twins' first birthday.
+
+==Appearances==
+*{{COS|G}} {{C|GCN-GBA Link}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Caractacus Phelps]]
+[[Category:1937 births|Phelps, Caractacus]]
+[[Category:English individuals|Phelps, Caractacus]]
+[[Category:Males|Phelps, Caractacus]]
+[[Category:Wizards|Phelps, Caractacus]]

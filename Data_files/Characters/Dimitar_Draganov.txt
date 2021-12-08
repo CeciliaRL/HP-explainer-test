@@ -1,0 +1,33 @@
+{{Individual infobox
+|name = Dimitar Draganov
+|born = After [[1976]]
+|nationality = [[Bulgaria]]n
+|title = [[Beater]]
+|species = [[Human]]
+|gender = Male
+|job = [[Beater]] for the [[Bulgarian National Quidditch team]]
+|loyalty = [[Bulgarian National Quidditch team]]
+|theme = quidditch-player
+}}'''Dimitar Draganov'''<ref>[[2014 Quidditch World Cup final]] (Archived)</ref> was a [[Bulgaria]]n [[Wizardkind|wizard]] and a [[Beater]] on the [[2014]] [[Bulgarian National Quidditch team]].
+
+==Etymology==
+*Dimitar is a Bulgarian name of Greek origin, stemming from the name of the Greek fertility goddess Demeter.
+*Draganov is the patronymic-turned-surname derivative of Dragan, a Slavic name originating from ''"драг" [drag]'', meaning "dear".
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Draganov, Dimitar}}
+
+[[de:Dimitar Draganov]]
+[[es:Dimitar Draganov]]
+[[fr:Dimitar Draganov]]
+[[pl:Dimitar Draganov]]
+[[Category:Beaters]]
+[[Category:Bulgarian individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

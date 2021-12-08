@@ -1,0 +1,52 @@
+{{Youmay|the Quidditch player|the Dumstrang Headmaster, [[Igor Karkaroff]]}}
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Igorbrand.png|250px]]
+|name = 
+|born = Before [[1977]], [[Germany]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Germany|German]]<ref name="QWC"/>
+|alias = 
+|title = [[Chaser]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="QWC"/>
+|eyes = Green<ref name="QWC"/>
+|skin = White<ref name="QWC"/>
+|family = [[Rudolf Brand]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[German National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[German National Quidditch team]]<ref name="QWC"/>
+}}
+'''Igor Brand''' was a [[Germany|German]] [[Wizardkind|wizard]] who played as a [[Chaser]] on the [[German National Quidditch team]] during the [[1994 Quidditch World Cup|422nd Quidditch World Cup]], in [[1994]].<ref name="QWC">{{QWC}}</ref> He was immortalised on a [[Chocolate Frog Card]] by [[1996]].<ref name="HBPG">{{HBP|G}} - NDS version</ref>
+
+==Etymology==
+"Igor" is a Russian form of ''Ingvarr''. It was brought to Russia by the Varangians in the 10th century. This name was borne by Igor Stravinsky (1882-1971), a Russian composer whose most famous work is ''The Rite of Spring''.
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{FWC}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Brand, Igor}}
+[[pl:Igor Brand]]
+[[fr:Igor Brand]]
+[[Category:Brand family]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:German individuals]]
+[[Category:Green-eyed individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = goblin
+|image = [[File:Ug the Unreliable.jpg|250px]]
+|name = Ug the Unreliable
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = White
+|eyes = Blue
+|skin = Drab
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Con artist
+|house = 
+|loyalty = 
+}}
+{{Quote|Notorious goblin confidence trickster. Organised the infamous Demiguise Derby and absconded with the takings.|[[Chocolate Frog Card]]|Harry Potter and the Prisoner of Azkaban (video game)}}
+'''Ug the Unreliable''' (fl. [[17th century]]) was an infamous [[goblin]] con artist, who became notable for organising the [[Demiguise Derby]] and absconded with the profits. For orchestrating this famous fraud, he was featured on a [[Chocolate Frog Card]].<ref>{{POA|G}}</ref>
+
+At some point in his life he peddled [[Leprechaun gold]], which led to him being tracked down, and then imprisoned by [[wizardkind|wizards]].<ref name="WOMBAT">Third [[Wizards' Ordinary Magic and Basic Aptitude Test]] from {{JKRS}}.</ref> His imprisonment provoked one of the [[Goblin Rebellions]] of the [[17th century|seventeenth]] or [[18th century|eighteenth centuries]].<ref>This piece of information comes from the third [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]] featured in {{JKRS}}. Question 2 (''Part One - Magical History'') is "Which of the following did NOT provoke one of the bloody goblin rebellions of the 17th and 18th centuries? Choose ONE", and one of the possible answers is "''The pursuit and imprisonment of Ug the Unreliable, who had been peddling Leprechaun gold''". As one of the other answers is known for certain to be false ("''The imprisonment of the notoriously violent Hodrod the Horny-Handed, who had attempted to kill three wizards ''" — the ''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' reveal that [[Hodrod the Horny-Handed]] was indeed imprisoned for attempting to kill three wizards, but this happened in [[1999]], during the [[Chipping Clodbury riot]]), then all of the other answers must be true, including the one about Ug the Unreliable.</ref>
+
+==Appearances==
+*{{POA|G}} {{FWC}}
+*{{JKRS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+[[de:Ug der Unzuverlässige]]
+[[es:Ug el faltón]]
+[[fi:Ug Epäluotettava]]
+[[fr:Ug le Pafiable]]
+[[pl:Ug Uległy]]
+[[ru:Аг Ненадежный]]
+[[Category:Blue-eyed individuals]]
+[[Category:Con artists]]
+[[Category:Convicts]]
+[[Category:Famous Goblins Chocolate Frog Cards]]
+[[Category:Goblins]]
+[[Category:Males]]

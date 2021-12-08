@@ -1,0 +1,25 @@
+{{Individual infobox
+|blood = [[Magic]]al to unknown extent
+|nationality = [[France|French]]
+|species = [[Human]]
+|gender = Male
+|job = Performer
+|loyalty = [[Circus Arcanus]]
+|theme = wizard
+}}This '''individual''' was a young [[France|French]] [[Wizardkind|Wizard]] who performed in a bubble for the [[Circus Arcanus]] in [[1927]].<ref>{{COG}}</ref>
+
+==Behind the scenes==
+The Child was portrayed by [[Alfie Mailley]] in {{COG}}.
+
+==Appearances==
+*{{COG}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Niezidentyfikowane dziecko w bańce]]
+[[Category:Circus performers]]
+[[Category:French individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

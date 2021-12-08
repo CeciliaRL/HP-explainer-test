@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Nott
+|born = 
+|died = Sometime between [[1980]] and [[1995]]
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="rowling">"[https://web.archive.org/web/20060316221032/https://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=5 Malfoy & Nott (Chamber of Secrets/Goblet of Fire)]" at {{JKRS}} and [https://web.archive.org/web/20060316221500/https://www.jkrowling.com/textonly/en/faq_view.cfm?id=58 FAQ] at {{JKRS}} Her son Theodore is a pure-blood so she must be pure- or half-blood.</ref>
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Nott|Mr Nott]] (husband)
+*[[Theodore Nott]] (son)
+*[[Cantankerus Nott]] (possible in-law)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Nott family]]
+}}
+'''Mrs Nott''' was a [[Wizardkind|witch]], the wife of [[Nott|Mr Nott]], and the mother of [[Theodore Nott]]. She died sometime after her son's birth in [[1979]] or [[1980]] but before his fifth year of 1995, leaving her elderly husband to raise Theodore on his own.<ref name="rowling" /> Theodore's ability to see [[Thestral]]s<ref name="OOTP21">{{OOTP|B|21}}</ref> may have originated in witnessing her death.
+
+==Biography==
+Her husband became one of [[Tom Riddle|Lord Voldemort]]'s [[Death Eaters]] at some point before [[1971]]<ref name="HBP20">{{HBP|B|20}}</ref> and might have attended school with him as one of [[Tom Riddle's gang|his earliest Death Eaters]], but it is unknown when Mrs Nott attended school or if she supported the aims of Lord Voldemort, whether as a Death Eater herself or as a sympathiser like [[Narcissa Malfoy]].
+
+It is unknown how or when she died. Considering her husband was described as "stooped" on [[24 June]] [[1995]]<ref name="GOF33">{{GOF|B|33}}</ref> and "very elderly" around the same time,<ref name="rowling" /> she might have been elderly herself and died of natural causes.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{HBP}} {{Mention}}
+*{{JKRS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Pani Nott]]
+[[ru:Миссис Нотт]]{{DEFAULTSORT:Nott, Theodore mother}}
+[[fr:Mère de Theodore Nott]]
+[[Category:20th century deaths]]
+[[Category:British individuals|Nott, Mrs]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Nott family]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

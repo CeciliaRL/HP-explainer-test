@@ -1,0 +1,52 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Teddy Taylor
+|born = Between [[1 September]] [[1973]] and [[31 August]] [[1974]]<ref name="HM2Packmates">{{HM|2|Packmates|2}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM2Packmates"/>
+|gender = Male<ref name="HM2Packmates"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Taylor family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Taylor family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HM2Packmates"/>
+}}
+'''Teddy Taylor''' was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1985]].<ref name="HM2Packmates"/>
+
+==Biography==
+Teddy was born somewhere in [[Great Britain]] or [[Ireland]] during the early [[1970s]]. He began attending [[Hogwarts School of Witchcraft and Wizardry]] in the [[1985–1986 school year]].<ref name="HM2Packmates"/>
+
+During Teddy's [[first year]], rumours spread around Hogwarts of a [[werewolf]] attack on [[Pippa Macmillan]]. When [[Ben Copper]] asked for help finding his [[teddy bear]], Jacob's sibling initially thought it was Teddy Taylor who was missing.<ref name="HM2Packmates"/>
+
+==Behind the scenes==
+*It is possible that he is the [[Unidentified first year boy (I)|unidentified boy who spotted Skye Parkin and Jacob's sibling in his common room]].
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Sorted in 1985]]
+[[Category:Males]]
+[[Category:Taylor family]]
+[[Category:Wizards]]

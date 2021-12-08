@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=spirit
+|image=
+|name="Handsome Poltergeist"
+|bgcolor1=
+|bgcolor2=
+|hideb=
+|born=[[Amortality|Amortal]]
+|died=[[Amortality|Amortal]]
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Poltergeist]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|Handsome Poltergeist Says 6 Is A Lucky Number|''[[Daily Prophet]]'' headline|Harry Potter and the Philosopher's Stone (video game)}}
+A "'''Handsome Poltergeist'''" told the ''[[Daily Prophet]]'', on [[25 December|Christmas Day]] in [[1991]], that the number six was lucky.<ref>{{PS|G}} - GBC verison</ref>
+
+==Behind the scenes==
+*This headline, featured on the [[Harry Potter and the Philosopher's Stone (video game)|GBC version]] of {{PS}}, serves as an in-game clue to find out where [[Peeves]], the [[poltergeist]], hid [[Harry Potter]]'s Christmas presents — the storeroom on the sixth floor.
+
+==Appearances==
+*{{PS|G}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]
+[[Category:Poltergeists]]

@@ -1,0 +1,50 @@
+{{Youmay|the ''Daily Prophet'' columnist|[[Gorgon|the creature which the mythological Medusa was]]}}
+{{Individual infobox
+|theme=daily-prophet
+|image=
+|name=Medusa
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=Doctor
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Advice columnist for the ''[[Daily Prophet]]'' (possibly)
+|house=
+|loyalty=''[[Daily Prophet]]''
+}}
+'''Dr Medusa''' was a [[Wizardkind|witch or wizard]]. Page twenty of the ''[[Daily Prophet]]'' was named after the doctor, so they presumably wrote an advice column for the periodical.<ref>{{OOTP|F}} - Chapter 30</ref>
+
+==Etymology==
+In [[Greece|Greek]] mythology, Medusa is the name of a [[Gorgon]] who turns people into stone.
+
+==Appearances==
+*{{OOTP|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Daily Prophet}}
+
+[[es:Medusa]]
+[[pt-br:Medusa]]
+[[ru:Медуза]]
+[[Category:Daily Prophet staff]]
+[[Category:Doctors]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Journalists]]
+[[Category:Wizards]]

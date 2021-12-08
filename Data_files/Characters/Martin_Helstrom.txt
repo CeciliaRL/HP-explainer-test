@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Nordic.JPG|250px]]
+|name = Martin "Tiny" Helstrom
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = Tiny<ref name="QWC"/>
+|title = [[Keeper]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Keeper]] for the [[Nordic National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[Nordic National Quidditch team]]<ref name="QWC"/>
+}}
+'''Martin "Tiny" Helstrom''' was Nordic [[Wizardkind|wizard]] who played as [[Keeper]] on the [[Nordic National Quidditch team]] during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]].<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Helstrom's [[Chocolate Frog Card]] was able to be won by beating [[Ronald Weasley]] at a [[duelling]] challenge.<ref name="HBPG">{{HBP|G}} {{c|NDS edition}}</ref>
+
+==Etymology==
+*The name "Martin" comes from the Roman name Martinus, which was derived from Martis, the genitive case of the name of the Roman god MARS. Saint Martin of Tours was a 4th-century bishop who is the patron saint of France. According to legend, he came across a cold beggar in the middle of winter so he ripped his cloak in two and gave half of it to the beggar. He was a favourite saint during the Middle Ages, and his name has become common throughout the Christian world.
+*Helstrøm is a Danish surname, possibly indicating that Martin is Danish. It is also a surname of the Norwegian chef Eyvind Hellstrøm.
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{NDS only}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Helstrom, Martin}}
+[[es:Martin Helstrom]]
+[[fr:Martin Hestrom]]
+[[no:Martin Helstrøm]]
+[[pl:Martin Helstrom]]
+[[ru:Мартин Хелстром]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Scandinavian individuals]]
+[[Category:Wizards]]

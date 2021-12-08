@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Oliver Rivers
+|born = [[1 September]] [[1979]]-[[31 August]] [[1980]] 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]] or [[Hufflepuff]]<ref name=house>Though his house is unseen on {{HPM}} and ungiven on {{PM}}, it is known that the list of students in Harry's year contained five males and five females in each house. Ravenclaw lacks two known males, and Oliver Rivers and [[Roger Malone]] are the only males whose houses are ungiven. However [[Anthony Goldstein]] and [[Michael Corner]] (whose houses were initially Hufflepuff) were moved to Ravenclaw, therefore two of the original Ravenclaw students ([[Stephen Cornfoot]], [[Kevin Entwhistle]], Roger Malone and Oliver Rivers) were moved to Hufflepuff.</ref>
+|loyalty = *Rivers family
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Oliver'''<ref name="pottermore">{{WW|the-original-forty}}</ref> '''Rivers''' (c. [[1979]]-[[1980]]) was a wizard who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]]. He was in the same year as [[Harry Potter]] and was Sorted into either [[Hufflepuff]] or [[Ravenclaw]] house.<ref name=house />
+
+==Behind the scenes==
+*Oliver Rivers can be deduced to have been listed as a [[Ravenclaw]] on the list of students in a page of [[J. K. Rowling]]'s notes shown on {{HPM}}. However, as two listed Hufflepuffs ([[Anthony Goldstein]] and [[Michael Corner]]) had their houses changed to Ravenclaw in the novels as published, two of those listed as Ravenclaws must have been changed to Hufflepuff. Rivers may be one of those whose house was changed.
+*It is likely he was one of the students, whose house wasn't changed, so was a Ravenclaw and shared a [[Ravenclaw Boys' Dormitory|dormitory]] with [[Terry Boot]], [[Michael Corner]] and [[Anthony Goldstein]], because his original surname was Quirrel and [[Quirinus Quirrell]] was a Ravenclaw.
+
+==Appearances==
+*{{HPM}} {{1st Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Rivers, Oliver}}
+[[de:Oliver Rivers]]
+[[fr:Oliver Rivers]]
+[[pl:Oliver Rivers]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Sorted in 1991]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

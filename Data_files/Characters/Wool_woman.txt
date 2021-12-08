@@ -1,0 +1,43 @@
+{{Individual infobox
+|image =
+|name = Wool woman
+|born =
+|died =
+|alias =
+|title =
+|signature =
+|blood = 
+|nationality = [[Great Britain|British]]<ref name="CC113"/>
+|species = [[Human]]<ref name="CC113"/>
+|gender = Female<ref name="CC113"/>
+|skin =
+|hair =
+|eyes =
+|height =
+|weight =
+|family =
+|romances =
+|animagus =
+|wand =
+|boggart =
+|patronus =
+|job =
+|house =
+|loyalty = [[St Oswald's Home for Old Witches and Wizards]]<ref name="CC113"/>
+|theme = wizard
+}}
+{{Dialogue a-b|Albus Potter|We're looking for Amos Diggory.|Wool woman|And what'you boys want with that miserable old sod?|Albus Potter asking this witch about the whereabouts of Amos Diggory|Harry Potter and the Cursed Child}}
+This '''woman''' was a [[Great Britain|British]] [[Wizardkind|witch]], who in her elderly years became a resident at [[St Oswald's Home for Old Witches and Wizards]]. She was present in St Oswalds on [[1 September]], [[2020]], when [[Albus Potter]] and [[Scorpius Malfoy]] abandoned the [[Hogwarts Express]] to come looking for [[Amos Diggory]]. When the boys asked her where Amos could be found, she in return asked them why they would wish to see such a "miserable old sod".<ref name="CC113">{{CC|B|1|13}}</ref>
+
+==Appearances==
+*{{CC}} {{1st}}
+*{{CC|P}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Femme avec un tricot]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:St Oswald's residents]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

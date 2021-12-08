@@ -1,0 +1,57 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified Chaser
+|born = Between [[1 September]] [[1974]] and [[31 August]] [[1975]]<ref name="HM614">{{HM|6|14}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Chaser]]<ref name="HM614"/>
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Dark
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''individual''' attended [[Hogwarts School of Witchcraft and Wizardry]] from [[1986]] and was a [[Chaser]] on a [[Quidditch]] team.
+
+==Biography==
+This individual started attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1986]] and was [[Sorting ceremony|Sorted]] into the same house as [[Jacob's sibling]].<ref name="HM614"/>
+
+By their [[fourth year]], the individual had become a [[Chaser]] on their Quidditch team. During their fourth year, they fell three storeys off their [[Broomstick|broom]] and broke their nose. Because of this, they ended up in the [[Hospital Wing]]. Shortly after this incident, [[Poppy Pomfrey]] was petrified, and the Chaser left the Hospital Wing as it was evacuated.<ref name="HM614"/>
+
+==Behind the scenes==
+*This individual's house is the same as that of [[Jacob's sibling]], which is chosen by the player.
+**This is similar to how characters in the Quidditch storyline (such as [[Skye Parkin]]) are in specific houses depending on the player's house. As such, it is possible this character will eventually appear as a teammate in a yet to be released Quidditch Season.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Chasers]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Sorted in 1986]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

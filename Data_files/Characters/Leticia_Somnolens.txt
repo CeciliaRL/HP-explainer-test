@@ -1,0 +1,62 @@
+{{Individual infobox
+|theme = hag
+|image = [[File:Leticia Somnolens.JPG|250px]]
+|name = Leticia Somnolens
+|born = [[Middle Ages|Medieval times]]<ref name="POAG"/>
+|died = [[Middle Ages|Medieval times]]<ref name="POAG"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Hag]]<ref name="POAG"/>
+|gender = Female<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="POAG"/>
+|eyes = Brown<ref name="POAG"/>
+|skin = White<ref name="POAG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Leticia Somnolens''' was a [[Middle Ages|Medieval]] [[hag]] known for conspiring against a [[Unidentified Princess|princess]],<ref name="POAG"/> and apparently served as a source of inspiration for the [[Non-magic people|Muggle]] fairy tale, [[Sleeping Beauty]].
+
+==Biography==
+A spiteful and vicious creature, Somnolens was jealous of [[Unidentified Princess|the daughter]] of [[Unidentified King|the local King]] and tainted a spindle with the [[Draught of Living Death]]. She then tricked the young princess into pricking her finger on it, sending her into a deep sleep. Her plan was foiled, however, by a [[Unidentified young wizard|young wizard]] who smeared his lips with [[Wiggenweld Potion]], and then kissed the princess, curing her and bringing her out of the sleep.<ref name="POAG">{{POA|G}}</ref>
+
+==Legacy==
+Somnolens’s story, despite being a fact to the [[Wizarding world]], appears to be the source of inspiration for the [[Non-magic people|Muggle]] fairy tale, [[Sleeping Beauty]].
+
+==Etymology==
+*Somnolens is a derivation of "somnolence", which means "sleepiness".
+
+==Appearances==
+*{{POA|G}} {{1st}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Somnolens, Leticia}}
+
+{{Chocolate Frog Cards}}
+[[de:Leticia Somnolens]]
+[[es:Leticia Somnolens]]
+[[fr:Leticia Somnolens]]
+[[pl::Leticia Somnolens]]
+[[fi:Leticia Somnolens]]
+[[pt-br:Leticia Somnolens]]
+[[ru:Летиция Сомноленс]]
+[[Category:Brown-eyed individuals]]
+[[Category:Deceased individuals]]
+[[Category:European individuals]]
+[[Category:Famous Hags Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Hags]]
+[[Category:Historical figures]]

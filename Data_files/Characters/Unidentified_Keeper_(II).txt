@@ -1,0 +1,58 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:HM Unidentified Keeper (II).png]]
+|name = Unidentified Keeper
+|born = Between [[1 September]] [[1969]] and [[31 August]] [[1975]]<ref>She was at least in his second year in the [[1987–1988 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Keeper]]
+|signature = 
+|species = [[Human]]<ref name="HMQch3"/>
+|gender = Female<ref name="HMQch3"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HMQch3"/>
+|eyes = Dark<ref name="HMQch3"/>
+|skin = Tan<ref name="HMQch3"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]] or [[Slytherin]]<ref name="HMQch3"/>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HMQch3"/>
+}}
+This '''[[Wizardkind|witch]]''' attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]] and was Sorted into either [[Slytherin]] or [[Ravenclaw]] house. 
+
+==Biography==
+===Hogwarts years===
+====1987–1988 school year====
+{{Quote|They Keeper actually did a nice job with that goalpost.|[[Bean]]|Harry Potter: Hogwarts Mystery}}At some point by the [[1987–1988 school year]], she became the [[Keeper]] of her house's [[Quidditch team]]. She and other team members got into a confrontation with [[Jacob's sibling]] team, after [[Erika Rath]] injured [[Orion Amari]] in a [[Quidditch friendly]].<ref name="HMQch3">{{HM|4|Q3|1}}</ref>
+
+After the match with Jacob's sibling's team, which ended in a brawl between the teams, this girl, along with the rest of the players, served detention under the supervision of [[Rolanda Hooch]]. The teams managed to prove their dedication to sportsmanship and cooperation and were not disqualified from the competition for the Hogwarts Quidditch Cup.<ref name="HMQch33">{{HM|4|Q3|3}}</ref>
+
+==Behind the scenes==
+*Which house she is in depends on that of [[Jacob's sibling]] (chosen by the player). If Jacob's sibling is in [[Gryffindor]], [[Hufflepuff]] or [[Slytherin]], this girl is in [[Ravenclaw]]. If [[Jacob's sibling]] is in Ravenclaw, she is in Slytherin.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+{{Hogwarts quidditch positions}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Keepers]]
+[[Category:Sorted in the 20th century]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

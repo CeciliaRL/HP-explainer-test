@@ -1,0 +1,43 @@
+{{Youmay|the Muggle|[[Blishen (wizard)|the wizard]]}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Blishen
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Blishen family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Inventor and/or manufacturer of [[Blishen's Safety Matches]] {{comment|presumably}}.
+|house = 
+|loyalty = 
+}}
+'''Blishen''' was a [[Non-magic people|Muggle]] who gave their name to [[Blishen's Safety Matches]]. It is unknown whether Blishen was this product's inventor or simply its manufacturer.<ref>{{HPWC}} — ''Label Collection'' book {{see image|File:BlishensSafetyMatches.jpg}}</ref>
+
+==Appearances==
+*{{GOF|F}} {{Comment|Name seen on matchbox}}
+*{{HPWC}} — ''Label Collection'' book
+
+==Notes and references==
+{{Reflist}}
+[[Category:Blishen family]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Muggles]]
+
+[[pl:Blishen (mugol)]]

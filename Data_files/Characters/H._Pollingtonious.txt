@@ -1,0 +1,32 @@
+{{Individual infobox
+|name = H. Pollingtonious
+|species = [[Human]]
+|job = *[[Healer]]
+*Author
+|theme = wizard
+|hideb = y
+|hidep = 
+|hidef = y
+|hidem = hide
+|hidea = 
+}}'''H. Pollingtonious''' was a [[Healer]] who compiled ''[[The Healer's Helpmate]]''. This book featured home remedies to common wizarding ailments.<ref name="hppts">''[[Harry Potter Page to Screen: The Complete Filmmaking Journey|Harry Potter Page to Screen]]'', page 504 (see [[:File:TheHealersHelpmate.jpg|this image]])</ref>
+
+==Behind the scenes==
+*This character is presumably a tribute to [[Heather Pollington]], a graphic artist who worked on ''[[Harry Potter and the Goblet of Fire (film)|Harry Potter and the Goblet of Fire]]'',<ref>[http://www.heatherpollington.com/downloads/heather-pollington-cv-may-2015.pdf Heather Pollington's CV] from her professional website</ref> as well as ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.<ref>[http://www.imdb.com/name/nm1712260/ Heather Pollington's profile on IMDb]</ref>
+
+==Appearances==
+*{{HPPS}} {{Comment|Name seen on book cover}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pollingtonious, H.}}
+
+[[es:H. Pollingtonious]]
+[[fr:H. Pollingtonious]]
+[[pl:H. Pollingtonious]]
+[[ru:Х. Поллингтониус]]
+[[Category:Authors]]
+[[Category:Healers]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

@@ -1,0 +1,60 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Daniel Page's sister
+|born = 
+|died = 
+|blood = [[Half-blood]]<ref name="BloodStatus">Her father was a Muggle, and her mother was a witch. In {{MA}}, just one of their children was described to be a [[Squib]], so she had to be a witch.</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="MA"/>
+|gender = Female<ref name="MA"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White<ref name="MA"/>
+|family = *[[Page siblings' father|Father]]
+*[[Page siblings' mother|Mother]]
+*[[Reggie Page]] (brother)
+*[[Daniel Page]] (brother)
+*[[Page family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Page family]]
+}}
+An '''individual''' was a [[half-blood]] [[Wizardkind|witch]]. She had to care for her younger brother, [[Daniel Page]] when their parents were sentenced to prison.<ref name="MA">{{MA}} ([https://www.youtube.com/watch?v=PeXSF4kpCqk see video])</ref>
+
+==Biography==
+
+She was born to a [[Non-magic people|Muggle]] [[Page siblings' father|father]] and [[Page siblings' mother|a mother]] who was a witch. She had two brothers and at least one, [[Daniel Page]] was younger than her. Her other brother, [[Reggie Page]] was a [[Squib]].<ref name="MA"/>
+
+[[File:The Bloody Pages.png|220x220px|thumb|right|A Muggle newspaper reporting the arrest of her family]]
+
+Her father was involved in illicit activities, and he involved Reggie in it. They were eventually caught by Muggle police, and her mother tried to use her magic to help the two escape. She frightened the police and violated the [[International Statute of Wizarding Secrecy|International Statute of Secrecy]] in doing so.<ref name="MA" />
+
+Her father and brother were taken to a Muggle prison, and her mother was sentenced to [[Azkaban]] for being found guilty of being a member of the [[Nocturnal Order of Tricks and Magical Exhibitions]]. The incident was put in a Muggle newspaper under the heading, "The Bloody Pages". Her younger brother, Daniel was put under her guardianship. He later began attending [[Hogwarts School of Witchcraft and Wizardry]].<ref name="MA" />
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Behind the scenes==
+*Though it has not been stated yet, it is likely she attended Hogwarts like her younger brother.
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Page, Daniel sister}}
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Half-bloods]]
+[[Category:Page family]]
+[[Category:Wizards]]

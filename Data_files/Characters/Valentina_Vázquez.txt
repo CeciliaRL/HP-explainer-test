@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Valentina Vázquez
+|hideb=
+|born=Before [[1997]] (most likely), [[Argentina]]<ref name="PM"/>
+|died=
+|blood=
+|alias=
+|title=[[President of the Council of Magic]]<ref name="PM"/>
+|nationality=[[Argentina|Argentinian]]<ref name="PM"/>
+|species=[[Human]]<ref name="PM"/>
+|gender=Female<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=President of the [[Argentinian Council of Magic]]<ref name="PM"/>
+|house=
+|loyalty=[[Argentinian Council of Magic]]<ref name="PM"/>
+}}
+{{Quote|We are not aware that any study has ever been undertaken into the compatibility of Dukuwaqas and Selmas, so the Council of Magic cannot accept liability for the unfortunate consequences of placing the two in close proximity.|President Valentina Vázquez, following the [[2014 Quidditch World Cup]] opening ceremony|Pottermore}}
+'''President Valentina Vázquez''' was an [[Argentina|Argentinian ]][[Wizardkind|witch]] and the [[President of the Council of Magic|President]] of the [[Argentinian Council of Magic]] in [[2014]].<ref name="PM"/>
+
+==Biography==
+It was under her regime that the Council staged the disastrous opening for the [[2014 Quidditch World Cup]], which escalated into a fight between various team mascots prompted by an attempt to make the [[Fiji]]an [[Dukuwaqa]] and [[Norway|Norwegian]] [[Selma]] share a lake. Vázquez issued a public statement following the event, noting that the Council had been expecting the Norwegians to bring a group of performing [[troll]]s, and as no studies had been done into the compatibility of Dukuwaquas and Selmas, no liability could be afforded to her Council.<ref name="PM">{{PM}} - [[DISASTROUS OPENING CEREMONY LEADS TO QUESTIONS ABOUT QUIDDITCH WORLD CUP SECURITY]] (Archived)</ref>
+
+President Vázquez attended the final of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], on [[11 July]]. Shortly before the match started, she was spotted by ''[[Daily Prophet]]'' reporter [[Rita Skeeter]] chatting to the Chairman of the [[International Confederation of Wizards Quidditch Committee|ICWQC]], [[Mentor Metaxas]].<ref name="the-qwc2014-final">{{PM}} - [[2014 Quidditch World Cup final]] (Archived)</ref>
+
+==Behind the scenes==
+*Given that she was South American, it is possible that she attended [[Castelobruxo]] in [[Brazil]]. Alternatively, it is also possible that she was home-schooled or attended a less regulated wizarding school.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Vázquez, Valentina}}
+[[de:Valentina Vázquez]]
+[[es:Valentina Vázquez]]
+[[pl:Valentina Vázquez]]
+[[ru:Валентина Васкес]]
+[[pt-br:Valentina Vázquez]]
+[[fr:Valentina Vázquez]]
+[[Category:2014 Quidditch World Cup attendees]]
+[[Category:Argentinian individuals]]
+[[Category:Females]]
+[[Category:Politicians]]
+[[Category:Wizards]]

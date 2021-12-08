@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = muggle
+|image = [[File:Sofie.PNG|250px]]
+|name = Sofie
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HBPF"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBPF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPF"/>
+|gender = Female<ref name="HBPF"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HBPF"/>
+|eyes = Brown<ref name="HBPF"/>
+|skin = White<ref name="HBPF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Politician<ref name="HBPF"/>
+|house = 
+|loyalty = [[London City Hall]]<ref name="HBPF"/>
+}}
+'''Sofie''' was a female [[Great Britain|British]] [[Non-magic people|Muggle]] politician. She worked for [[David Yates (in-universe)|David Yates]] at the [[London City Hall|City Hall]] at [[London]] and her office had a view of the River Thames out-stretch.<ref name="HBPF"/>
+
+==Biography==
+In the summer of [[1996]], while at work, she and her co-workers witnessed the [[Dark Mark]] appearing in the sky towering over the City of [[London]] and the [[Millennium Bridge]] collapsing. This attack was led by [[Fenrir Greyback]] and a rally of [[Death Eaters]] who were celebrating capturing and kidnapping [[Garrick Ollivander]] from his shop in [[Diagon Alley]] for their leader, [[Tom Riddle|Lord Voldemort]].<ref name="HBPF">{{HBP|F}} - Chapter 1 (''Who's Harry Potter?'')</ref>
+
+==Behind the scenes==
+*Sofie (or Sophie) was played by British actress [[Teresa Mahoney]], she was the only Muggle to be identified and credited in the film and she has no spoken lines.
+*The character's name is uncertain, ''IMDb'' lists it as "''Sophie''" whereas Teresa Mahoney's agency profile lists it as "''Sofie''". Her agency page also lists her character's job as a politician.<ref name="Mandy">[https://www.mandy.com/uk/actor/teresa-mahoney/ Mandy]</ref><ref>{{IMDb name|3003759|Teresa Mahoney}}</ref>
+
+==Appearances==
+*{{HBP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Sofie]]
+[[fr:Sofie]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Politicians]]

@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified Wizards in the Hog's Head
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[England|English]]<ref name="OOTP16"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="OOTP16"/>
+|gender = Males<ref name="OOTP16"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hog's Head Inn]]<ref name="OOTP16"/>
+}}
+Two '''wizards''' were in the [[Hog's Head Inn]] in [[1995]] on the day several [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] students met there to discuss the formation of their own [[Defence Against the Dark Arts]] [[Dumbledore's Army|group]]. They wore cloaks and sat in the corner. [[Harry Potter]] would have thought they were [[Dementor]]s, had they not been speaking in strong [[Yorkshire]] accents.<ref name="OOTP16">{{OOTP|B|16}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

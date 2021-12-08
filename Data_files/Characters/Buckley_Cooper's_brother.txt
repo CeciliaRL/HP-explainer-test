@@ -1,0 +1,46 @@
+{{conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mr Cooper
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Buckley Cooper]] (brother)<ref name="DP"/>
+*[[Cooper children|More than one child]]<ref name="DP"/>
+*[[Hortense Cooper]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Cooper family]]<ref name="DP"/>
+}}
+'''Mr Cooper''' was the brother of [[Buckley Cooper]] The two had a long-running feud, which escalated to the point that, after Mr Cooper sent Buckley a [[curse]]d [[broomstick]], Buckley wrote to the ''[[Daily Prophet]]'' asking whether it would be advisable to kidnap Mr Cooper's [[Cooper children|children]] and [[transfiguration|turn]] them into [[vampire|blood-sucking]] [[ferret]]s.<ref name="DP">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[1 June]], [[1999]], Problem Page</ref>
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Cooper, Buckley's brother}}
+[[pl:Brat Buckleya Coopera]]
+[[Category:British individuals|Cooper]]
+[[Category:Cooper family|Brother]]
+[[Category:Males|Cooper]]
+[[Category:Parents]]
+[[Category:Wizards|Cooper]]

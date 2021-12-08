@@ -1,0 +1,39 @@
+{{Transcribed image|File:Marauder's_Map_POA_ILL.png}}
+{{Individual infobox
+|theme = individual
+|image = Clive Lundquist.png
+|name = Clive Lundquist
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Clive Lundquist''' was an individual that visited  the [[Herbarium]] in [[Hogwarts School of Witchcraft and Wizardry]] in the [[1993-1994 school year]] as seen on the [[Marauder's Map]]<ref>{{POA|B|10}} {{comment|Illustrated Edition}}</ref>. 
+
+==Appearances==
+*{{POA|IE}} {{C|Name seen on the Marauder's Map}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lundquist, Clive}}
+[[Category:Males]]

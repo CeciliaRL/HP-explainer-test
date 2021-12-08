@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:HeadmasterPhotoZoom959x779.png|250px]]
+|name = Unidentified resting Headmaster
+|born = 
+|died = Before [[1992]]
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]
+*[[Headmaster]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]]
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''[[Wizardkind|wizard]]''' was appointed [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] before [[Armando Dippet|Professor Dippet]].
+
+==Biography==
+This wizard became the [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] at an unknown point in history, although it is known his tenure was before that of [[Armando Dippet]]. After his [[death]], his [[portrait]] was hung in the [[Headmaster's office]], in order to give advice to the current head.<ref>{{DH|F2}} (''The Prince's Tale'')</ref> At the top of his golden frame is printed ''"Seraphini Cherubini Throni"'' which translates roughly as ''"angelic cherub throne"''.<ref>{{MHP}} - {{See image|File:Unidentified_Resting_Headmaster_with_frame.png}}</ref>
+
+A portrait also hung in the [[Lower Chambers Portrait Corridor]] next to a [[Portrait of a bearded man holding a book]] in [[Hogwarts Castle]] during the [[1993–1994 school year]]. He was portrayed to have been resting in an armchair.<ref name="POAF">{{POA|F}}</ref>
+
+==Appearances==
+*{{COS|F}} {{Portrait}}
+*{{POA|F}} {{Portrait}}
+*{{HBP|F}} {{Portrait}}
+*{{DH|F2}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[pt-br:Diretor em repouso não identificado]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males|Headmaster]]
+[[Category:Unidentified Hogwarts employees|Headmaster]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards|Headmaster]]

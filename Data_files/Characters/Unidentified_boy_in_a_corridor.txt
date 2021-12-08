@@ -1,0 +1,45 @@
+{{Imageless}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Boy in a corridor
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPF"/>
+|gender = Male<ref name="HBPF"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="HBPF"/>
+|eyes = 
+|skin = Light<ref name="HBPF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPF"/>
+}}
+{{Quote|Sorry.|The boy|Harry Potter and the Half-Blood Prince (film)}}
+This '''individual''' was a [[Wizardkind|wizard]] and a student at [[Hogwarts School of Witchcraft and Wizardry]] in the late [[1990s]]. He was late and accidentally ran into some girls.<ref name="HBPF">{{HBP|F}}</ref>
+
+==Appearances==
+*{{HBP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

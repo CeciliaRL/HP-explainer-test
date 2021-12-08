@@ -1,0 +1,53 @@
+{{Real world subject}}
+{{Youmay|the biblical Luke|another [[Luke (disambiguation)|individual with the same name]]}}
+{{Individual infobox
+|image=
+|theme=individual
+|bgcolor1=
+|bgcolor2=
+|name=Luke
+|hideb=
+|born=
+|died=
+|blood=
+|alias=Luke the Evangelist
+|title=[[Saint]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Writer
+|house=
+|loyalty=
+}}
+'''Luke''', also known as '''Luke the Evangelist''', was the traditional author of two books of the [[Bible]], the [[Wikipedia:Gospel of Luke|Gospel of Luke]] and the [[wikipedia:Acts of the Apostles|Acts of the Apostles]].<ref name="wikipedia">"[https://en.wikipedia.org/wiki/Luke_the_Evangelist Luke the Evangelist]" on Wikipedia</ref> He was one of the four Evangelists.<ref name="wikipedia" />
+
+[[File:Stained Glass Godric's Hollow.jpg|200px|thumb|left|Luke, along with [[Matthew]], [[John]] and [[Mark]] flanking [[Jesus]]]]
+There was a stained glass window in the [[St Jerome's Church|Parish Church of St. Clementine]] in [[Godric's Hollow]] depicting Christ and the Four Evangelists — [[Matthew]], [[Mark]], Luke and [[John]].<ref>{{HPFW}} {{see image|File:Stained Glass Godric's Hollow.jpg}}</ref>
+
+==Appearances==
+*{{DH|F1}} {{Comment|Depicted in a stained glass window}}
+*{{DH|G1}} {{Comment|Depicted in a stained glass window}}
+*{{HPFW}} {{Comment|Depicted in a stained glass window}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pt-br:Lucas]]
+[[Category:Authors]]
+[[Category:B.C. era births]]
+[[Category:Biblical figures]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Saints]]

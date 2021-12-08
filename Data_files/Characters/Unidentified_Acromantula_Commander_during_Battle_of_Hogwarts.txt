@@ -1,0 +1,23 @@
+{{Individual_infobox
+|theme=pet
+|name = Unidentified Acromantula
+|species = [[Acromantula]]
+|family = *[[Aragog]] (Father)†
+*[[Mosag]] (Mother)
+*[[Forbidden Forest Acromantula colony|Many other relatives]]
+|loyalty =*[[Forbidden Forest Acromantula colony]]
+*[[Rubeus Hagrid]] (formerly)}}This '''Unidentified [[Acromantula]]''' was a member of the [[Forbidden Forest Acromantula colony|Acromantula colony]] in the [[Forbidden Forest]], on [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]  grounds.<ref name="DH31">{{DH|B|31}}</ref> 
+
+==Biography==
+On [[2 May]] [[1998]], after [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]] drove the colony out of their habitat by taking over the forest as their base for operations, this Acromantula took control of the colony and led them into fighting in the [[Battle of Hogwarts]], where they attacked both the defenders of Hogwarts and Death Eaters alike.<ref name="DH31">{{DH|B|31}}</ref>
+
+==Appearances==
+*{{DH}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Acromantulas]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:Hagrid's pets]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]

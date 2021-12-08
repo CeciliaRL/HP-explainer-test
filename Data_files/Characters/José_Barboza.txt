@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=José Barboza
+|hideb=hide
+|born=before [[1997]], (most likely), [[Brazil]]
+|died=
+|blood=
+|marital=
+|alias=
+|title=Manager
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Manager of the [[Brazilian National Quidditch team]]
+|house=
+|loyalty=*[[Brazilian National Quidditch team]]
+*[[Castelobruxo]]
+}}'''José Barboza''' was a Brazilian [[wizardkind|wizard]], who, in the [[2010s]], worked as manager of the [[Brazilian National Quidditch team]].<ref name="PM">{{PM}} - [[Quidditch World Cup 1990 - 2014]] (Archived)</ref> Barboza was responsible for reinvigorating the sport following the "''wilderness years''" that the [[1990s|nineties]] and the [[2000s|naughties]] represented for Brazilian [[Quidditch]].<ref name="PMLudoBets">{{PM}} - [[PLACE YOUR BETS WITH LUDO BAGMAN]] (Archived)</ref>
+
+==Biography==
+For the [[2014 Quidditch World Cup|427th Quidditch World Cup]], which took place in the summer of [[2014]], José Barboza chose younger players (average age of 22) from every corner of the country, preferring talent over experience.<ref name="PMLudoBets"/> In preparation for the Cup, Barboza called the [[Welsh National Quidditch team|Welsh Chasers]] "''talentless hags''"<ref name="PM"/> over a few drinks with journalist [[Rita Skeeter]].<ref name="PM4June">{{PM}} - [[BRAZIL VERSUS WALES|BRAZIL_VERSUS_WALES]] (Archived)</ref> After Welsh manager [[Gwenog Jones]] threatened to "''curse'' [his] ''face off''", Barboza insisted his original remark had been taken out of context.<ref name="PM"/>
+
+When, on the [[Brazilian National Quidditch team|Brazil]] vs. [[Welsh National Quidditch team|Wales]] match in the quarter-finals, on [[4 June]] [[2014]], Brazilian Seeker [[Tony Silva]] caught the [[Golden Snitch|Snitch]] from under Welsh [[Eurig Cadwallader]]'s nose, thus winning a highly contentious match, Gwenog Jones attempted to make good on her promise to curse off Barboza's face in full view of the packed stadium. The Welsh manager was dragged from the pitch by her own [[Beater]]s, and was later put in custody. The ''[[Daily Prophet]]'' later reported that [[Healer]]s confirmed Barboza's skin had almost regrown, and that he was in excellent spirits.<ref name="PM4June"/>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Barboza, José}}
+[[de:José Barboza]]
+[[fr:José Barboza]]
+[[pl:José Barboza]]
+[[ru:Хосе Барбоза]]
+[[zh:何塞·巴尔博扎]]
+[[de2:José Barboza]]
+[[Category:Brazilian individuals]]
+[[Category:Males]]
+[[Category:Quidditch managers]]
+[[Category:Wizards]]

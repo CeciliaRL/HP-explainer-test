@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Sean Miller
+|born = c. [[1974]]-[[1980]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Byron Miller]] {{c|possibly}}
+*[[Miller family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|Sean Miller est dans le coin ? J'ai mangé sa plume sans le faire exprès...|A Hogwarts student|Harry Potter and the Philosopher's Stone (video game)}} 
+'''Sean Miller''' (born c. [[1974]]-[[1980]]) was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. His quill was accidentally eaten by a female [[Ravenclaw]] student during the [[1991–1992 school year]].<sup><ref name="PSgba">{{PS|G}} - GBA version (see [[:File:Sean Miller ref.jpg|this image]])</ref></sup>
+
+==Behind the scenes==
+This character is only mentioned in the French translation of {{PS|G}}.
+
+==Appearances==
+*{{PS|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Miller, Sean}}
+
+[[fr:Sean Miller]]
+[[Category:Articles with new content from official translations]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Miller family]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Unidentified Sleeping Headmistress with sphere.png|250px]]
+|name = Unidentified sleeping Headmistress with sphere
+|born = 
+|died = Before [[1943]]
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]<ref name="MHP"/>
+*[[Headmaster|Headmistress]]<ref name="MHP"/>
+|signature = 
+|species = [[Human]]<ref name="MHP"/>
+|gender = Female<ref name="MHP"/>
+|height = 
+|weight = 
+|hair = Black<ref name="MHP"/>
+|eyes = 
+|skin = Light<ref name="MHP"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]]<ref name="MHP"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="MHP"/>
+}}
+This '''[[Wizardkind|witch]]''' was appointed [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] before [[Armando Dippet|Professor Dippet]]. After her death, her [[portrait]] was hung in the [[Headmaster's office]], in order to give advice to the current head. Her portrait is hung over the entryway to the Headmaster's Office and depicts her sleeping on a chair holding a transparent sphere.<ref name="MHP">{{MHP}}</ref>
+
+==Appearances==
+*{{MHP}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Clifford Kessler
+|born = 
+|died = 
+|blood = [[Non-magic people|No-Maj]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = Human
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Theatre producer
+|house = 
+|loyalty = 
+}}
+'''Clifford Kessler''' was a [[Non-magic people|No-Maj]] theatre producer in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:WhenBroadwaySleeps.jpg}}</ref>
+
+He produced a production of the comedy play ''[[When Broadway Sleeps]]'' that ran at the [[Glovers Comedy Theatre]] in [[New York]] in [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Kessler, Clifford}}
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Producers]]

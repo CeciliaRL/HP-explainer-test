@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Sophia Prickett
+|born = Between [[1709]] and [[1713]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+**[[Gryffindor Quidditch team]]
+}}
+'''Sophia Prickett''' (b. [[1700s]]/[[1710s|10s]]) was a [[Gryffindor]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1720s]]. She was once [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Gryffindor Quidditch team]], starting in [[1724]].<ref>{{HPE}} {{See image|File:Gryffindor Quidditch Captains Plaque.jpg}}</ref>
+
+[[File:Gryffindor Quidditch Captains Plaque.jpg|150px|thumb|left|Sophia Prickett's name appearing on a plaque]]
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{C|Name appears on plaque}}
+*{{HPE}} {{C|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Jason Charmer]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Gryffindor Quidditch team]]
+|years=[[1720]]—[[1724]]
+|successor=Unknown, eventually [[Angelica Cole]]
+}}
+{{End box}}
+{{Hogwarts quidditch positions}}
+{{DEFAULTSORT:Prickett, Sophia}}
+[[pl:Sophia Prickett]]
+[[Category:18th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Sorted in the 1720s]]
+[[Category:Wizards]]

@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Unidentified pamphlet maker witch
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">She was not persecuted by the [[Muggle-Born Registration Commission]] whilst working at the [[British Ministry of Magic|Ministry]], so she was not [[Muggle-born]].</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DH13"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH13"/>
+|gender = Female<ref name="DH13"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[British Ministry of Magic]] employee<ref name="DH13"/>
+|house = 
+|loyalty = [[British Ministry of Magic]]<ref name="DH13"/>
+}}
+This '''[[Wizardkind|witch]]''' worked at the [[British Ministry of Magic|Ministry of Magic]] during the time of [[Tom Riddle|Lord Voldemort]]'s reign over the Ministry as part of the [[Muggle-Born Registration Commission]]'s many pamphlet-makers.<ref name="DH13"/>
+
+==Biography==
+She was described as being young, and she seemed to dislike [[Dolores Umbridge]] as she referred to her as an "old [[hag]]". She could possibly have been prejudiced towards [[Muggle-born]]s, as she referred to them as "[[Mudblood]]s", but as the term was so common during [[Tom Riddle|Voldemort]]'s reign at the Ministry it is possible she harboured no strong feelings about [[Muggle-born]]s and was simply throwing out the term casually. She was puzzled when [[Harry Potter]] (disguised as [[Albert Runcorn]]) used a [[Decoy Detonator]] to sneak into [[Senior Undersecretary to the Minister for Magic's office|Dolores Umbridge's Office]]. She later blamed it on [[Committee on Experimental Charms|Experimental Charms]], asking her colleague if he remembered the [[poisonous duck]].<ref name="DH13">{{DH|B|13}}</ref>
+
+==Appearances==
+*{{DH}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry employees of unknown Department}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Ministry of Magic employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

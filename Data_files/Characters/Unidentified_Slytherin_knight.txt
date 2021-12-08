@@ -1,0 +1,59 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Slytherin knight.jpg|250px]]
+|name = Unidentified Knight
+|born = 
+|died = Before [[1991]] (possibly)
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PS"/><ref name="CS"/>
+|gender = Male<ref name="PS"/><ref name="CS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Light<ref name="PS"/><ref name="CS"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="PS"/><ref name="CS"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PS"/><ref name="CS"/>
+**[[Slytherin]]<ref name="PS"/><ref name="CS"/>
+}}
+{{Dialogue a-b|Harry Potter|Wolf's Bane|Slytherin man|By [[Jupiter]], you've done it, young Gryffindor!|Harry and the knight|Harry Potter and the Philosopher's Stone (video game)}}
+This '''Slytherin knight''' was a [[Wizardkind|wizard]] who had a [[portrait]] hung of himself at [[Hogwarts Castle]].<ref name="PS"/><ref name="CS"/>
+
+==Biography==
+===[[1991–1992 school year]]===
+In [[Harry Potter]]'s first year at [[Hogwarts School of Witchcraft and Wizardry]], he was guarding a secret room in the upper castle's [[Upper Castle Portrait Room|Portrait Room]], concealing an [[Knockback Jinx Duo|advanced form]] of the [[Knockback Jinx]]. The password was "Wolf's Bane".<ref name="PS">{{PS|G}} - PS1 version</ref>
+
+===[[1992–1993 school year]]===
+A year later, his portrait had been moved, and now guarded the way to the Slytherin Duelling Dungeon.<ref name="CS">{{COS|G}} - PS1 version</ref> Another identical portrait was also created that guarded a hot-air well-lifting room inside an area behind a bookcase in the [[Knights' Room]]. He was kept with company by the [[Unidentified Hufflepuff lady|Hufflepuff lady]].
+
+==Behind the scenes==
+*This wizard may have passed away sometime prior to [[1991]] as many portraits hung at [[Hogwarts Castle]] depict deceased individuals.
+*His attitude against [[Harry Potter]] was good when he spoke to him in the two secret rooms behind the bookcases and bad when it was guarding the Slytherin Duelling Dungeon.
+
+==Appearances==
+*{{PS|G}} {{1st}} {{Portrait}} {{C|PS1 version}}
+*{{COS|G}} {{Portrait}} {{C|PS1 version}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts towers}}
+[[Category:British or Irish individuals]
+[[Category:Males]]
+[[Category:Nobility]]
+[[Category:Unidentified portraits]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

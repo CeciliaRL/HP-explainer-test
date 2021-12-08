@@ -1,0 +1,31 @@
+{{conjecture}}
+{{Individual infobox
+|theme=wizard
+|name=Unidentified wizard
+|hideb=
+|marital=Married (most likely)
+|hidep=
+|species=[[Human]]<ref name="DHF2"/>
+|gender=Male<ref name="DHF2"/>
+|hidef=
+|family=Children<ref name="DHF2"/>
+|hidem=y
+|hidea=
+|loyalty=*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+*[[Platform Nine and Three-Quarters]]<ref name="DHF2"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who stood on [[Platform Nine and Three-Quarters|Platform 9 3/4]] in [[2017]], saying goodbye to his children at the [[Hogwarts Express]] on their travel to [[Hogwarts School of Witchcraft and Wizardry]].<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*He is portrayed by [[Great Britain|British]] actor [[Gioacchino Jim Cuffaro]] in {{DH|F2}}.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

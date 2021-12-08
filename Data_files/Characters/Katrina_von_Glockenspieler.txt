@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Katrina von Glockenspieler - card HBP-NDS.png|250px]]
+|name = Katrina von Glockenspieler
+|born = Before [[1997]], [[Germany]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Germany|German]]
+|alias = 
+|title = *[[Beater]]
+*[[Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Blonde
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] and [[Captain]] of the [[German National Quidditch team]]
+|house = 
+|loyalty = [[German National Quidditch team]]
+}}
+'''Katrina von Glockenspieler''' was a [[Germany|German]] [[Wizardkind|witch]] who played as a [[Beater]] on the [[German National Quidditch team]] during the [[1994 Quidditch World Cup|422nd Quidditch World Cup]], in [[1994]]. She was also the team's [[Captain]].<ref>{{QWC}}</ref>
+
+During the [[1996–1997 school year]], von Glockenspieler's [[Chocolate Frog Card]] could be won by beating [[Dean Thomas]] at a [[duelling]] challenge.<ref>{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Appearances==
+*{{QWC}}
+*{{HBP|G}} {{C|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Glockenspieler, Katrina von}}
+
+[[es:Katrina von Glockenspieler]]
+[[fr:Katrina von Glockenspieler]]
+[[pl:Katrina von Glockenspieler]]
+[[ru:Катарина фон Глокеншпилер]]
+[[Category:Beaters]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:German individuals]]
+[[Category:Quidditch Captains]]
+[[Category:Wizards]]

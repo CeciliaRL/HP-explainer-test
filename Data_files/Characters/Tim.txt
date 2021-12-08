@@ -1,0 +1,42 @@
+{{Youmay|the wizard who wrote ''[[Spell potions]]''|the [[Tim (Wampus cat)|Wampus cat]] who attacked individuals in [[Hogsmeade]]}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Tim
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Male<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author<ref name="JKRS"/>
+|house = 
+|loyalty = 
+}}
+'''Tim''' was a [[Wizardkind|wizard]] and the author of the book, ''[[Spell potions]]''.<ref name="JKRS">{{JKRS}}</ref>
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Tim]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

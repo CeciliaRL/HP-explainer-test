@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Man with Knowledge of the Taboo
+|born = In or before [[1980]]<ref name="AGE">He had to be at least seventeen to work at the Ministry.</ref>
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="BLOOD">If he was [[Muggle-born]] the [[Muggle-Born Registration Commission]] would have imprisoned him.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[British Ministry of Magic]] employee
+|house = 
+|loyalty = [[British Ministry of Magic]]
+}}
+{{Dialogue a-b-c|Ronald Weasley|It's [[taboo]], [[Tom Riddle|You-Know-Who]]'s name. That's how they track people now.|Harry Potter|How do you know that?|Ronald Weasley|I overheard some bloke at the Ministry talking about it.|Ron and Harry about this wizard|Harry Potter and the Deathly Hallows: Part 1}}
+This '''individual''' was a [[Great Britain|British]] [[Wizardkind|wizard]] with knowledge of the [[taboo]] on [[Tom Riddle|Lord Voldemort]]'s name.
+
+==Biography==
+===Early life/education===
+Little is known of this man's life; he was born into either a [[pure-blood]] or [[half-blood]] family<ref name="BLOOD"/> sometime in or before [[1980]].<ref name="AGE"/> Nothing else is known of that portion of his life.
+
+===Career===
+Sometime in or before [[1997]], he was employed by the [[British Ministry of Magic]]. Sometime that year, [[Ronald Weasley|Reginald Cattermole]] overheard the wizard talking about the [[Taboo]] [[curse]] that had been placed on [[Tom Riddle|Voldemort]]'s name.<ref>{{DH|F1}} {{Deleted scenes|Tent}}</ref> Hence, it is possible that he was close to the Voldemort or the [[Death Eaters]], given that otherwise he'd likely be too scared to speak of the curse on the former's name.
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,45 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = 
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="MA"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="MA">{{MA}}</ref>
+|gender = Male<ref name="MA"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ivy Warrington]] (daughter)<ref name="MA"/>
+*[[Winifred Warrington]] (daughter)<ref name="MA"/> 
+*[[Warrington sisters' grandmother|Mother-in-law]]<ref name="MA"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Warrington family]]<ref name="MA"/>
+}}
+An '''unknown man''' was a [[Non-magic people|Muggle]] and the father of two daughters, [[Ivy Warrington|Ivy]] and [[Winifred Warrington]]. Both of his daughters were [[Wizardkind|witches]].<ref name="MA" />
+
+==Biography==
+During her childhood,  Winifred accidentally  [[Vanishment|vanished]] herself, and their grandmother put a [[Memory Charm]] on Ivy so she would forget what happened, but it caused her to completely forget Winifred. Ivy later started attending [[Hogwarts School of Witchcraft and Wizardry]].<ref name="MA" />
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Warrington family]]

@@ -1,0 +1,52 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = Unidentified petrified boy from Harry Potter Hogwarts Mystery.png
+|name = Unidentified Petrified boy (II)
+|born = Between [[1 September]] [[1971]] and [[31 August]] [[1978]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''[[Wizardkind|wizard]]''' was a student who attended [[Hogwarts School of Witchcraft and Wizardry]] during [[Jacob's sibling]]'s time at school.
+
+==Biography==
+This individual began attending [[Hogwarts School of Witchcraft and Wizardry]] between [[1 September]] [[1983]] and 1 September [[1989]].<ref name="age">He attended Hogwarts in the [[1989–1990 school year]], and he could have been in any year.</ref>
+
+In the [[1989–1990 school year]], he was found [[Petrification|Petrified]]. He was later brought to the [[Hospital Wing]] along with other Petrified students.<ref>{{HM|6|24}}</ref>
+
+Eventually, he was cured with the other victims.<ref name="HM643">{{HM|6|43}}</ref>
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Sorted in the 1980s]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

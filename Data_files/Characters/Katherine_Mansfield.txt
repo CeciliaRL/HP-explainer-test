@@ -1,0 +1,31 @@
+{{Real world subject}}
+{{Individual infobox
+|name = Katherine Mansfield
+|nationality = [[New Zealand]]<ref name="JKRS"/>
+|born = [[14 October]], [[1888]]<ref name="JKRS"/>
+|died = [[9 January]], [[1923]]<ref name="JKRS"/>
+|blood = [[Non-magic people|Muggle]]<ref name="JKRS"/>
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Female<ref name="JKRS"/>
+|job = Author<ref name="JKRS"/>
+|theme = muggle
+}}
+'''Katherine Mansfield''' ([[14 October]] [[1888]] – [[9 January]] [[1923]]) was a [[New Zealand]] [[Non-magic people|Muggle]] author.<ref name="JKRS">{{JKRS}}</ref>
+
+==Etymology==
+The name "Katherine" comes from the Greek name Αικατερινη (Aikaterine). The etymology is debated: it could derive from the earlier Greek name ‘Εκατερινη (Hekaterine), which came from ‘εκατερος (hekateros) "each of the two"; it could derive from the name of the goddess HECATE; it could be related to Greek αικια (aikia) "torture"; or it could be from a Coptic name meaning "my consecration of your name".
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Mansfield, Katherine}}
+
+[[pl:Katherine Mansfield]]
+[[Category:1888 births]]
+[[Category:1923 deaths]]
+[[Category:Authors]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:New Zealand individuals]]

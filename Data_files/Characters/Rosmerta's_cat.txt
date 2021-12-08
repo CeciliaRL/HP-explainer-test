@@ -1,0 +1,31 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = 
+|name = Rosmerta's cat
+|born = Pre [[1997]]
+|died = 
+|alias = 
+|title = 
+|species = [[Cat]]<ref name="HBP27"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Rosmerta]]<ref name="HBP27"/>
+}}
+{{Quote|Must have been minutes ago, it wasn't there when I put the cat out, but when I got upstairs -|[[Rosmerta|Madam Rosmerta]] to [[Harry Potter]] and [[Albus Dumbledore]] before the [[Battle of the Astronomy Tower]]|Harry Potter and the Half-Blood Prince}}
+This '''[[cat]]''' belonged to [[Rosmerta|Madam Rosmerta]]. It was being put out for the night one evening late in [[June]] [[1997]], when Rosmerta witnessed the [[Dark Mark]] above [[Hogwarts School of Witchcraft and Wizardry]].<ref name="HBP27">{{HBP|B|27}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[es:Gato de Rosmerta]]
+[[fr:Chat de Madame Rosmerta]]
+[[pl:Kot Rosmerty]]
+[[Category:Individual cats]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Rosmerta's possessions]]

@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Guillory
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Guillory''' was a seemingly influential [[Wizardkind|wizard]] during the [[1920]]s. In [[1927]], ''[[Le Cri de la Gargouille]]'' reported that he had asked the [[France|French]] people not to join the [[Gellert Grindelwald's army|army]] of [[Gellert Grindelwald]].<ref name="Newspaper">{{COG}} {{See image|File:Le Cri De La Gargouille.jpg}} - ''"M. Guillory demande aux sorciers de ne pas rejoindre l'armée de Grindelwald"''</ref>
+
+==Behind the scenes==
+*The name "Guillory" was inscribed onto a desk on [[Leta Lestrange's desk at Hogwarts]].<ref name="Desk">{{COG}} {{see image|File:Leta desk.png}}</ref> It is possible that this is the same Guillory or a relative.
+
+==Appearances==
+*{{COG}} {{Mention|newspaper}}
+*{{AM}} {{Mention|newspaper}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Guillory]]
+
+[[Category:Wizards]]
+[[Category:Males]]

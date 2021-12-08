@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Hufflepuff]]
+}}
+'''Matthew Kettletoft''' was a [[Hufflepuff]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+During the [[1996–1997 school year]], he could usually be found in the [[Viaduct Courtyard]], and enjoyed playing [[Gobstones]].
+
+==Etymology==
+The name "Matthew" is the English form of Ματθαιος (Matthaios), which was a Greek form of the Hebrew name מַתִּתְיָהוּ (Mattityahu) meaning "gift of Yahweh".
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Kettletoft, Matthew}}
+[[pl:Matthew Kettletoft]]
+[[fr:Matthew Kettletoft]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gobstones players]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s|Kettletoft, Michael]]
+[[Category:Wizards]]

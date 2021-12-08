@@ -1,0 +1,69 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Devlin Whitehorn.gif|thumb]]
+|name = Devlin Whitehorn
+|born = [[1945]]<ref name="PSG">{{PS|G}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Blue
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Broom-maker]]
+|house = 
+|loyalty = [[Nimbus Racing Broom Company]]
+}}
+'''Devlin Whitehorn''' (b. [[1945]]) was a [[Great Britain|British]] [[Wizardkind|wizard]], who in [[1967]] founded the [[Nimbus Racing Broom Company]], considered to be "''the top of the field.''" For this achievement, he was included on a bronze [[Famous Witches and Wizards Cards|Famous Wizard Card]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref><ref name="QTAR">{{QTA|R}}</ref><ref name="JKRS">{{JKRS}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Devlin Whitehorn}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{QTA|R}}
+*''[[Wizard of the Month]]''
+*{{WWHP}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Whitehorn, Devlin}}
+
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Glenda Chittock]]
+|position=[[Wizard of the Month]]
+|years=[[November]] [[2004]]
+|successor=[[Ignatia Wildsmith]]
+}}
+{{End box}}
+{{Chocolate Frog Cards}}
+{{Nimbus}}[[es:Devlin Whitehorn]]
+
+[[de:Devlin Whitehorn]]
+[[fi:Devlin Whitehorn]]
+[[fr:Devlin Corneblanche]]
+[[it:Devlin Whitehorn]]
+[[pl:Devlin Whitehorn]]
+[[Category:1945 births]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Broom-makers]]
+[[Category:Males]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

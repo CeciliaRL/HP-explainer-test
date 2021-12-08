@@ -1,0 +1,76 @@
+{{Individual infobox
+|theme = macusa
+|image = AbrahamPotter.png
+|name = Abraham Potter
+|born = Pre [[1677]]<ref name="birth">To be an [[Auror]], Abraham presumably had to be at least seventeen to legally use a [[wand]] outside of [[Ilvermorny School of Witchcraft and Wizardry|Ilvermorny]] and not break [[Magical Law|Wizarding Laws]]. As well as this, [[Magical Congress of the United States of America|MACUSA]] was founded in [[1693]]; seventeen years prior is [[1676]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[United States of America|American]]<ref name="PM"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ignotus Peverell]] (paternal ancestor) †
+*[[Linfred of Stinchcombe]] (paternal ancestor) †
+*[[Hardwin Potter]] (paternal ancestor) †
+*[[Iolanthe Peverell|Iolanthe Potter]] (née [[Peverell family|Peverell]]) (paternal ancestor) †
+*[[James Potter I|James Potter]] (distant relative) †
+*[[Harry Potter]] (distant relative)
+*[[Potter family]]<ref name="PM"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Auror]]<ref name="PM"/>
+|house = 
+|loyalty = *[[Potter family]]<ref name="PM"/>
+*[[Magical Congress of the United States of America]]<ref name="PM"/>
+**[[Department of Magical Law Enforcement (MACUSA)|Department of Magical Law Enforcement]]
+***[[Department of Aurors]]
+}}
+'''Abraham Potter''' was an [[United States of America|American]] [[Wizardkind|wizard]] and one of the [[Auror#Twelve originals|original twelve]] [[Auror]]s in the [[United States of America]].<ref name="PM"/>
+
+==Biography==
+Abraham was born into the American branch of the [[Potter family]], which traces its origins to [[Ignotus Peverell]], one of the three brothers mentioned in ''[[The Tale of the Three Brothers]]'' in ''[[The Tales of Beedle the Bard]]''; and [[Linfred of Stinchcombe]], nicknamed '''The Potterer''', a pioneering potioneer credited with the invention of numerous medicinal potions. This makes him a distant relative of the famous [[Harry Potter]], a fact which would be uncovered by eager genealogists centuries later.<ref name="PM">{{WW|macusa}}</ref>
+
+After completing a surely arduous process, Abraham became an Auror. He was, along with eleven other wizards and witches, one of the first Aurors in the United States of America, being recruited by [[Josiah Jackson]], the first [[President of the Magical Congress of the United States of America|President]] of [[Magical Congress of the United States of America|MACUSA]].
+
+He died before reaching "old age."<ref name="PM"/>
+
+==Behind the scenes==
+*Despite being a Potter, Abraham was not featured on the Potter family tree on {{PM}}.<ref name="family tree">[https://www.pottermore.com/features/the-potter-family-tree {{PM}} Features: "The Potter family tree" ]</ref>
+*It is likely that Abraham had descendants. However, it remains unknown whether Harry is aware of their existence.
+
+==Appearances==
+*{{PM}} {{1st Mention}} {{c|Appears as a picture of his statue}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+{{DEFAULTSORT:Potter, Abraham}}
+[[de:Abraham Potter]]
+[[de2:Abraham Potter]]
+[[es:Abraham Potter]]
+[[fr:Abraham Potter]]
+[[pl:Abraham Potter]]
+[[ru:Абрахам Поттер]]
+[[zh:亚伯拉罕·波特]]
+
+[[Category:17th century births]]
+[[Category:American individuals]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Original twelve MACUSA Aurors]]
+[[Category:Males]]
+[[Category:Peverell family descendants]]
+[[Category:Potter family]]
+[[Category:Wizards]]

@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:HenryBumblepuff.jpg|250px]]
+|name = Henry Bumblepuft
+|born = [[1493]]<ref name="LE">{{HPLE}}</ref>
+|died = Prior to [[1991]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2014 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Black<ref name="LE"/>
+|eyes = Dark<ref name="LE"/>
+|skin = Light<ref name="LE"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="LE"/>
+}}
+'''Henry Bumblepuft'''<ref name="LE"/> (b. [[1493]]) was a [[Wizardkind|wizard]] whose portrait hung at the ground-floor landing of the [[Grand Staircase]] in [[Hogwarts Castle]].<ref name="LE"/> This [[portrait]] was painted when he was forty-nine years old.<ref name="LE"/>
+
+==Etymology==
+"Henry" is from the Germanic name ''Heimirich'', which means "home ruler", composed of the elements ''heim'', "home" and ''ric,'' "power", "ruler". It was later commonly spelled Heinrich, with the spelling altered due to the influence of other Germanic names, like Haganrich, in which the first element is ''hagan'', "enclosure".
+
+==Behind the scenes==
+[[File:StuartCraigHenryBumblepuft.jpg|120px|thumb|left|[[Stuart Craig]] stands by this portrait]]
+*This portrait was commissioned specifically for the [[Harry Potter films|''Harry Potter'' films]], his face being inspired on the likeness of [[Stuart Craig]], production designer for all the eight ''Harry Potter'' films.<ref name="PTS">{{HPPS}}</ref>
+*The painting was based on [[Wikipedia:William Hogarth|William Hogarth]]'s 1745 self-portrait work [http://www.tate.org.uk/art/images/work/N/N00/N00112_10.jpg ''The Painter and His Pug''].
+
+==Appearances==
+*{{PS|F}} {{Portrait}}
+*{{OOTP|F}} {{Portrait}}
+*{{WWHP}} {{Portrait}}
+*{{HPPS}} {{Portrait}}
+*{{HPLE}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts ground floor}}
+{{DEFAULTSORT:Bumblepuft, Henry}}
+[[fr:Henry Bumblepuft]]
+[[pl:Henry Bumblepuft]]
+[[Category:1493 births]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

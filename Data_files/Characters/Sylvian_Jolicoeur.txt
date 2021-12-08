@@ -1,0 +1,42 @@
+{{Individual infobox
+|name = Sylvian Jolicoeur
+|born = after [[1976]]<ref>Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref>, [[Haiti]] (possibly)
+|nationality = [[Haiti]]an
+|title = [[Seeker]]
+|species = [[Human]]
+|gender = Male
+|job = [[Seeker]] for the [[Haitian National Quidditch team]]
+|loyalty = [[Haitian National Quidditch team]]
+|theme = quidditch-player
+|hideb = hide
+|hidep = 
+|hidef = hide
+|hidem = hide
+|hidea = 
+}}
+{{Quote|The Haitian Seeker Sylvian Jolicoeur was within inches of capturing the Snitch when he was hit by another of Bloncourt's poorly aimed Bludgers and knocked out cold.|[[Ginevra Weasley|Ginny Potter]], "[[BRAZIL VERSUS HAITI]]" (''[[Daily Prophet]]'', [[15 May]] [[2014]]).|Pottermore}} 
+'''Sylvian Jolicoeur''' was a [[Haiti]]an [[Wizardkind|wizard]] who played as the [[Seeker]] for the [[2014]] [[Haitian National Quidditch team]].
+
+==Biography==
+During the third match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], Haiti versus [[Brazilian National Quidditch team|Brazil]], Jolicoeur came within inches of capturing the Snitch and securing the win, but fellow [[Beater]] [[Jean-Baptiste Bloncourt]]'s devastating mis-hit of the [[Bludger]] knocked him out cold (the second such incident of the match, the first one left [[Keeper]] [[Lenelle Paraison]] with a broken nose).<ref name="PM">{{PM}} - [[BRAZIL VERSUS HAITI]] (Archived)</ref>
+
+The [[Golden Snitch|Snitch]] proceeded to get caught up in [[Jean-Baptiste Bloncourt]]'s sleeve, who incurred in [[Snitchnip]] when he wrestled it out of his undergarments and grabbed it. The team was immediately disqualified.<ref name="PM"/> Following the match, Jolicoeur was reported to have been making a good recovery.<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Jolicoeur, Sylvian}}
+
+[[de:Sylvian Jolicoeur]]
+[[pl:Sylvian Jolicœur]]
+[[fr:Sylvian Jolicoeur]]
+
+[[Category:20th century births]]
+[[Category:Haitian individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Wizards]]

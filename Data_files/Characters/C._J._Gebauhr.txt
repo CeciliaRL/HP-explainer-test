@@ -1,0 +1,44 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Carl Julius "C. J." Gebauhr
+|hideb=
+|born=
+|died=[[8 May]], [[1881]]<ref name="mctr">''[http://www.arcade-museum.com/mtr/MTR-1881-4-10/MTR-1881-4-10-10.pdf The Musical Critic and Trade Review]'', 20 June, 1881</ref>
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Piano maker
+|house=
+|loyalty=
+}}
+'''Carl Julius Gebauhr''' (d. [[8 May]], [[1881]]) was a [[Germany|German]] [[Non-magic people|Muggle]] who began producing [[piano]]s in [[Wikipedia:Königsberg|Königsberg]] in [[1834]].<ref name="mctr" /><ref>''[http://books.google.ca/books?id=MtQ2lUxyEbEC&pg=PA231&lpg=PA231&dq=%22c.+j.+gebauhr%22&source=bl&ots=J3RsfKVf48&sig=L640PZrLqR7duL68FhSz9ZDTe9U&hl=en&ei=hsHwTJLyHoHEsAPo8b2tCw&sa=X&oi=book_result&ct=result&resnum=3&ved=0CCIQ6AEwAg#v=onepage&q=%22c.%20j.%20gebauhr%22&f=false Pianos and Their Makers]''
+by Alfred Dolge</ref> The [[Granger family]] owned one of these instruments.<ref>{{DH|F1}} (see [[:File:HermioneObliviatingHerParents.jpg|this]] image)</ref>
+
+==Appearances==
+*{{DH|F1}} {{Comment|Name seen on piano}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Gebauhr, C. J.}}
+[[Category:1881 deaths]]
+[[Category:German individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Unidentified members of the Accidental Magic Reversal Squad
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="POA3"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="POA3"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Accidental Magic Reversal Squad]] agents<ref name="POA3"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="POA3"/>
+**[[Department of Magical Accidents and Catastrophes]]<ref name="POA3"/>
+}}
+These '''two agents''' worked for the [[Department of Magical Accidents and Catastrophes]], at the [[Accidental Magic Reversal Squad]].
+
+==History==
+In [[1993]] they were sent out to [[Memory Charm|modify the memory]] of [[Marjorie Dursley]]'s mind in regards to the [[Inflatus|spell]] that [[Harry Potter]] had [[Underage magic|inadvertently used]] on her.<ref name="POA3">{{POA|B|3}}</ref>
+
+==Appearances==
+*{{POA}} {{1st Mention}}
+*{{POA|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 3 employees}}
+
+[[es:Miembros no identificados del Escuadrón de Reversión de Magia Accidental]]
+[[Category:British individuals|Accidental Magic Reversal Squad]]
+[[Category:Department of Magical Accidents and Catastrophes personnel]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals|Accidental Magic Reversal Squad]]
+[[Category:Wizards|Accidental Magic Reversal Squad]]

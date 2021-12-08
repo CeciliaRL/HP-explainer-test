@@ -1,0 +1,56 @@
+{{Transcribed image|File:ChessPlayersNames.jpg}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Uric Oapberg.jpg|250px]]
+|name = Uric Oapley
+|born = 
+|died = Before [[1991]]
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Head of Gryffindor House]]<ref name="MHP">{{MHP}} (see [http://www.flickr.com/photos/karen_roe/7366145410/in/set-72157630012281279/ this image])</ref>
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Head of Gryffindor House]] (? - before [[1991]])<ref name="MHP" />
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+'''Professor'''<ref name="MHP"/> '''Uric Oapley'''<ref name="name">{{MHP}} {{see image|File:ChessPlayersNames.jpg}}</ref> was a [[wizardkind|wizard]] that was depicted in a large painting that hung in [[Gryffindor Tower]], at [[Hogwarts Castle]]. In his lifeftime, he was [[Head of Gryffindor House]].<ref name="MHP" />
+
+In the painting, Oapley is depicted as playing a game of [[Wizard's Chess]] with [[Podric Piles]], with [[Tobias Stump]], standing, watching over the game, and [[Muldoon Cragg]], in the background, absorbed in reading. Oapley is depicted as sitting on a chair, wearing a curly white powdered wig with a black pointy hat, a red coat and matching breeches, white cravat and stockings, and holding a roll of parchment on his left hand with what seems to be a depiction of the [[Wikipedia:Tree of Jesse|Tree of Jesse]].
+
+==Appearances==
+*{{PS|F}} {{Portrait}}
+*{{POA|F}} {{Portrait}}
+*{{GOF|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+*{{HM}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Oapley, Uric}}
+[[fr:Uric Oafley]]
+[[pl:Uric Oapley]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Heads of House]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

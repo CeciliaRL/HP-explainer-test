@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Elena Eldritch - card HBP-NDS.png|250px]]
+|name = Elena Eldritch
+|born = Before [[1977]], [[Germany]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Germany|German]]
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Blonde
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[German National Quidditch team]]
+|house = 
+|loyalty = [[German National Quidditch team]]
+}}
+'''Elena Eldritch''' was a [[Germany|German]] [[Wizardkind|witch]] who played as a [[Beater]] on the [[German National Quidditch team]] during the [[1994 Quidditch World Cup|422nd Quidditch World Cup]], in [[1994]].<ref>{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Eldritch's [[Chocolate Frog Card]] could be won by beating [[Cormac McLaggen]] at a [[Quidditch]] challenge.<ref>{{HBP|G}} {{c|NDS edition}}</ref>
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{c|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Eldritch, Elena}}
+
+[[es:Elena Eldritch]]
+[[fr:Elena Eldritch]]
+[[pl:Elena Eldritch]]
+[[Category:Beaters]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:German individuals]]
+[[Category:Wizards]]

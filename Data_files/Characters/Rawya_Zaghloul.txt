@@ -1,0 +1,48 @@
+{{Individual infobox
+|name = Rawya Zaghloul
+|image = 
+|born = Before [[1985]], [[Egypt]]<ref name="PM"/>
+|died = 
+|blood = 
+|nationality = [[Egypt]]ian<ref name="PM"/>
+|title = [[Seeker]]<ref name="PM"/>
+|alias = 
+|signature = 
+|marital = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Female<ref name="PM"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand =  
+|house = 
+|job = [[Seeker]] for the [[Egyptian National Quidditch team]]<ref name="PM"/>
+|house = 
+|loyalty = [[Egyptian National Quidditch team]]<ref name="PM"/>
+|theme = quidditch-player
+}}
+'''Rawya Zaghloul''' was an [[Egypt]]ian [[wizardkind|witch]] who played as [[Seeker]] for the [[Egyptian National Quidditch team]].<ref name="PM">{{PM}} - [[Quidditch World Cup 1990 - 2014]] (Archived)</ref>
+
+==Biography==
+She played in the [[2002 Quidditch World Cup]] where she famously beat Bulgarian [[Seeker]] [[Viktor Krum]] to the [[Golden Snitch|Snitch]], leading to the [[Bulgarian National Quidditch team]]'s defeat. This was a "''crushing disappointment''" for Bulgaria and, coupled with the team's loss of the [[1994 Quidditch World Cup]] final, it led to [[Viktor Krum]]'s retirement.<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Zaghloul, Rawya}}
+[[de:Rawya Zaghloul]]
+[[ru:Равия Заглул]]
+[[pl:Rawya Zaghloul]]
+[[Category:20th century births]]
+[[Category:Egyptian individuals]]
+[[Category:Females]]
+[[Category:Seekers]]
+[[Category:Wizards]]

@@ -1,0 +1,43 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=st-mungo-employee
+|image=Wiggins.png
+|name=Wiggins
+|born=Before [[1984]] (most likely)<ref name="age">A certain number of N.E.W.T.s was required for Healer training at St Mungo's Hospital, meaning they were likely of age.</ref>
+|died=
+|blood=
+|marital=
+|nationality=
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="HM720"/>
+|gender=Female<ref name="HM720"/>
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=[[Trainee Healer]]<ref name="HM720"/>
+|house=
+|loyalty=[[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="HM720"/>
+}}
+{{Quote|Try not to knock anything over! Wiggins, our Trainee Healer, has already made ''that'' mistake.|[[Healer]] in the [[Alchemy Room]]|Harry Potter: Hogwarts Mystery}}
+'''Wiggins''' was a [[Trainee Healer]] at [[St Mungo's Hospital for Magical Maladies and Injuries]] in the early [[1990s]]. In the [[1990–1991 school year]], [[Jacob's sibling]] was warned not to knock anything over at the [[Alchemy Room]], as this had previously happened to Wiggins.<ref name="HM720">{{HM|7|20}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{St Mungo's}}
+[[Category:Females]]
+[[Category:Healers]]
+[[Category:St Mungo's employees]]
+[[Category:Wizards]]

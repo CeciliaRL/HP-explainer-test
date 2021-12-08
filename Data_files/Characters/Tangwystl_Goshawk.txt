@@ -1,0 +1,54 @@
+
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Tangwystl Goshawk
+|born = [[1921]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Miranda Goshawk's mother|Mrs Goshawk]] (mother)<ref name="WBoS">{{WBS}} - see [http://www.youtube.com/watch?v=4w9eXBjHUQk& this video]</ref>
+*[[Miranda Goshawk's father|Mr Goshawk]] (father)<ref name="WBoS" />
+*[[Miranda Goshawk's aunts and uncles|Several aunts and uncles]]<ref name="WBoS" />
+*[[Diadema Goshawk]] (sister)<ref name="WBoS" />
+*[[Romilda Goshawk]] (sister)<ref name="WBoS" />
+*[[Miranda Goshawk]] (sister)<ref name="WBoS" />
+*[[Goshawk sisters|Five more sisters]]<ref name="WBoS" />
+*[[Miranda Goshawk's cousins|Several cousins]]<ref name="WBoS" />
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Tangwystl Goshawk''' was one of [[Miranda Goshawk]]'s eight sisters.
+
+When they were growing up together, Tangwystl's youngest sister, [[Miranda Goshawk|Miranda]], cast the [[Bat-Bogey Hex]] on her to keep her silent, thus allowing Miranda to complete her homework.<ref name="WBS">{{WBS}}</ref>
+
+==Appearances==
+*{{WBS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Goshawk, Tangwystl}}
+
+[[es:Tangwystl Goshawk]]
+[[pl:Tangwystl Goshawk]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Goshawk family|Tangwystl]]
+[[Category:Wizards]]

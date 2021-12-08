@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Nicholas de Mimsy-Porpington's executioner
+|born = Before [[1492]]
+|died = After [[1492]]
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Nick, if you please, will you get to your knees. This may sting a bit.|The executioner|J. K. Rowling's official site}}
+This '''individual''' (fl. [[1492]]) was the man in charge of [[Nicholas de Mimsy-Porpington|Sir Nicholas de Mimsy-Porpington]]'s execution in [[1492]], after the [[wizardkind|wizard]] made a tusk sprout out of a [[Lady Grieve|noble lady]]. The man appeared to be familiar with the [[Wizardkind|wizard]], as he called him "Nick". The execution went wrong, however, as someone misplaced the rock where they usually sharpened the axe. The executioner took forty-five hacks until he killed Sir Nicholas, and in between whacks and thwacks, he reassured Sir Nicholas that it "''won't be too long''".<ref name="background">[http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=11 Extra Stuff - "Nearly Headless Nick"] on [[J. K. Rowling's official site]]</ref>
+
+==Behind the scenes==
+*This individual is only mentioned on a [[The Ballad of Nearly Headless Nick|self-penned ballad]] relaying the story of [[Nicholas de Mimsy-Porpington]]'s death, that was supposed to make an appearance in the earlier drafts of {{COS}}.
+
+==Appearances==
+*{{COS}} {{1st Mention}} {{Comment|Mentioned in early drafts}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Kat Nicholasa de Mimsy-Porpingtona]]
+[[Category:British individuals]]
+[[Category:Executioners]]
+[[Category:Males]]
+[[Category:Unidentified Muggles]]

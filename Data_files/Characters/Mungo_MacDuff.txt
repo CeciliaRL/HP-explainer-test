@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme=macusa
+|image=
+|name=Mungo MacDuff
+|hideb=hide
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Auror]]
+|house=
+|loyalty=[[Magical Congress of the United States of America]]
+}}'''Mungo MacDuff''' was an [[United States of America|American]] [[Wizardkind|wizard]] and one of the original twelve [[Auror]]s for the [[Magical Congress of the United States of America]].<ref name="WW">{{WW|macusa}}</ref>
+
+He died before reaching "old age."<ref name="WW"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+{{DEFAULTSORT:Macduff, Mungo}}
+
+[[de:Mungo MacDuff]]
+[[fr:Mungo MacDuff]]
+[[pl:Mungo MacDuff]]
+[[ru:Мунго Макдафф]]
+[[de2:Mungo MacDuff]]
+[[Category:American individuals]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Original twelve MACUSA Aurors]]
+[[Category:Males]]
+[[Category:Wizards]]

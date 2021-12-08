@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Mathilda Greenford
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = 
+}}
+'''Mathilda Greenford''' was a [[Slytherin]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She was seen walking around the school during the [[1993-1994 school year]].
+
+==Etymology==
+*"Mathilda" is a variation of the name "Matilda", deriving from the Old High German words ''mahta'', meaning "might", and ''hildr'', meaning "battle".
+*"{{w|Greenford}}" is the name of a suburb of the {{w|London Borough of Ealing}}. The suburb's name derives from the Old English ''grēne'' and ''ford'', together meaning "place at the green ford". (A "ford" is a part of a river which is shallow enough to cross without a bridge, and "green" in the context of place-names usually means a grassy field, especially a common.)
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Greenford, Mathilda}}
+[[pl:Mathilda Greenford]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

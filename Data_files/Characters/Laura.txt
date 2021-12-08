@@ -1,0 +1,44 @@
+{{Transcribed image|File:ScreamingFaceBook.jpg}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Laura
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|He is a downright honeſt man, who will make good his word, and perform his promiſe, Laura and Chas can be made of it, and no law compel him to it, as readily as if there had been an hundred witneſſes of it.|[[Shrieking book|Book]] in the [[Restricted Section]].|Harry Potter and the Philosopher's Stone (film)}}
+'''Laura''' was an individual mentioned in [[shrieking book|a book]] kept in the [[Restricted Section]] of the [[Hogwarts Library]] by the [[1990s]].<ref name="PSf22">{{PS|F}} - Chapter 22 (''Cloaked in Darkness'')</ref>
+
+==Behind the scenes==
+*In {{PS|FA}}, the [[shrieking book]] appears to be a copy of ''[http://books.google.ca/books?id=tSs3AAAAMAAJ&printsec=frontcover#v=onepage&q=&f=false The Works of the Most Reverend Dr John Tillotson]''. As an Easter Egg, it seems someone in the special effects department digitally replaced some of the book's original text with names: "''Laura and [[Chas]]''" (left page, bottom paragraph), "''[[Terry Chloe|Terry Michelle Chloe]] and [[Aimee]]''" (middle right page), "''[[Debbie Amy]] and [[Leon]]''" (right page, bottom paragraph).
+
+==Appearances==
+*{{PS|F}} {{Comment|Mentioned on book only}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Humans]]

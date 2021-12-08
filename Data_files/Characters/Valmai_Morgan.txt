@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme=quidditch-player
+|image=
+|name=Valmai Morgan
+|hideb=
+|born=[[1982]] or earlier<ref>As she was employed by the [[Holyhead Harpies]] by [[1999]] she was presumably over 17</ref>
+|died=
+|blood=
+|alias=
+|title=[[Chaser]]
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=yes
+|family=[[Gwendolyn Morgan]] (possibly)
+|hidem=yes
+|animagus=
+|boggart=
+|wand=
+|broom=
+|patronus=
+|hidea=
+|house=
+|job=[[Chaser]] for the [[Holyhead Harpies]]
+|loyalty=*[[Morgan family]]
+*[[Holyhead Harpies]]
+}}
+'''Valmai Morgan''' was a Welsh [[wizardkind|witch]] who played as the Chaser for the [[Wales|Welsh]] all-female [[Quidditch]] [[Quidditch team|team]], the [[Holyhead Harpies]]<ref name=":0">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[1 June|June 1st]], [[1999]], Page 4</ref>.
+
+She was a [[Chaser]] for the team who replaced [[Wilda Griffiths]] on the team, after the latter left for a 1000 [[Galleon]] fee to join [[Puddlemere United]]<ref>[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[8 February|February 8th]], [[1999]], Page 3</ref>.
+
+Valmai started on a high note, scoring ten goals on her first game<ref name=":0" />.
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Morgan, Valmai}}
+[[pl:Valmai Morgan]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:Morgan family]]
+[[Category:Welsh individuals]]
+[[Category:Wizards]]

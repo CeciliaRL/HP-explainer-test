@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Individual_infobox
+|image=
+|theme=individual
+|name=Midwife
+|hideb=Hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="PM">{{WW|the-quill-of-acceptance-and-the-book-of-admittance}}</ref>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=Hide
+|family=
+|hidem=m
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Midwife<ref name="PM"/>
+|house=
+|loyalty=
+}}
+This '''individual''' served as the midwife of [[Alice Longbottom]] following the birth of her infant son [[Neville Longbottom|Neville]].<ref name="PM"/> They were among the first to fail to notice Neville's magical ability; the newborn baby snuggled his blankets more tightly around himself through [[magic]], but the midwife assumed that [[Frank Longbottom|his father]] had come in and adjusted them.<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Humans]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Physicians]]
+[[Category:Unidentified individuals]]

@@ -1,0 +1,57 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Zonko
+|nationality=[[Great Britain|British]]<ref name="POA8"/>
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="POA8"/>
+|gender=Male<ref name="POA8"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Owner of [[Zonko's Joke Shop]]<ref name="POA8"/>
+|house=
+|loyalty=[[Zonko's Joke Shop]]<ref name="POA8"/>
+}}
+'''Zonko''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who owned [[Zonko's Joke Shop]] in [[Hogsmeade]].<ref name="POA8">{{POA|B|8}}</ref>
+
+==Appearances==
+*{{POA}} {{1st Mention}}
+*{{POA|F}} {{Mention}}
+*{{POA|G}} {{Mention}}
+*{{GOF}} {{Mention}}
+*{{OOTP}} {{Mention}}
+*{{HBP}} {{Mention}}
+*{{DH}} {{Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+*{{LEGO|Y1}} {{Mention}}
+*{{LEGO|Y2}} {{Mention}}
+*{{WWHP}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogsmeade}}
+[[es:Zonko]]
+[[pl:Zonko]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

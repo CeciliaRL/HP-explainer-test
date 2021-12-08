@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Benedita Dourado
+|hideb=
+|born=Year unknown, [[South America]] 
+|died=
+|blood=
+|marital=
+|alias=
+|title=[[Headmaster|Headmistres]]<ref name="PM"/>
+|signature=
+|hidep=
+|species=[[Human]]<ref name="PM"/>
+|gender=Female<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Headmaster|Headmistress]] of [[Castelobruxo]] (c.&nbsp;[[1940s]]/[[1950s|50s]])<ref name="PM"/>
+|house=
+|loyalty=[[Castelobruxo]]<ref name="PM"/>
+}}
+'''Professor Benedita Dourado''' was a [[South America]]n [[wizardkind|witch]] and a former [[Headmaster|Headmistress]] of [[Castelobruxo]].<ref name="PM">{{WW|castelobruxo}}</ref>
+
+==Biography==
+She went on an exchange visit to [[Hogwarts School of Witchcraft and Wizardry]] sometime during [[Armando Dippet|Professor Armando Dippet]]'s tenure as Head of Hogwarts. When Dippet complained of [[Peeves]], the resident [[poltergeist]], Professor Dourado laughed heartily and offered to send him some [[Caipora]] for the [[Forbidden Forest]] "to show [him] what trouble really is." Professor Dippet did not take her up on this offer.<ref name="PM"/>
+
+==Etymology==
+*''[[Wikipedia:Benedita|Benedita]]'' is the feminine form of ''Benedito'', which is the Portuguese form of [[Benedict]]. "Benedita" comes from the [[Latin]] "''bene''" (well) and "''dicere''" (to speak), and it means "(she who is) blessed"; the same etymon also originated the English word "[[Wikipedia:Benediction|benediction]]".
+*"''Dourado''" means "golden" in Portuguese, and it is not a fairly common surname in either Brazil or Portugal.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=Head of [[Castelobruxo]]
+|years=
+|successor=Unknown, eventually [[Headmaster of Castelobruxo during 1989|Unidentified Headmaster]]
+}}
+{{End box}}
+{{DEFAULTSORT:Dourado, Benedita}}
+[[de:Benedita Dourado]]
+[[ru:Бенедита Дораду]]
+[[fr:Benedita Dourado]]
+[[pl:Benedita Dourado]]
+[[Category:Castelobruxo staff]]
+[[Category:Females]]
+[[Category:Headmistresses]]
+[[Category:South American individuals]]
+[[Category:Wizards]]

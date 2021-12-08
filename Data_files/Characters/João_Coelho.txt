@@ -1,0 +1,35 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|name = João Coelho
+|born = Before [[1999]], [[South America]]
+|title = [[Quidditch]] [[Captain]]<ref name="WW"/>
+|species = [[Human]]<ref name="WW"/>
+|gender = Male<ref name="WW"/>
+|job = [[Captain]] for the [[Tarapoto Tree-Skimmers]]<ref name="WW"/>
+|loyalty = *[[Castelobruxo]]<ref name="WW"/>
+*[[Tarapoto Tree-Skimmers]]<ref name="WW"/>
+|theme = quidditch-player
+|nationality=Peruvian or Brazilian (Possibly)}}'''João Coelho''' was a [[South America]]n [[wizardkind|wizard]] who, as of [[2016]], was the Captain of the [[Tarapoto Tree-Skimmers]], a world-renowned [[Quidditch]] [[Quidditch#Known Quidditch teams|team]] from [[Peru]]. He received his magical education at [[Castelobruxo]] in [[Brazil]].<ref name="WW">{{WW|castelobruxo}}</ref>
+
+==Etymology==
+*"''João''" (pronounced [ʒwɐ̃u̯]) is the Portuguese form of the name [[John (disambiguation)|John]]. "''[[Wikipedia:Coelho (surname)|Coelho]]''" (pronounced [kwˈe.ʎu]) is a Brazilian and Portuguese surname, and it translates as "rabbit".
+
+==Behind the scenes==
+*While his name is of Portuguese origin and [[Brazil]] is the only Portuguese-speaking country in South America, he captained a [[Peru]]vian Quidditch team. His attendance of Castelobruxo gives no indication of his nationality, as the school accepts students from all over South America.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Coelho, João}}
+[[de:João Coelho]]
+[[ru:Жуан Коэлью]]
+[[pl:João Coelho]]
+[[fr:João Coelho]]
+[[Category:Castelobruxo students]]
+[[Category:Males]]
+[[Category:Quidditch Captains]]
+[[Category:South American individuals]]
+[[Category:Wizards]]

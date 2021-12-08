@@ -1,0 +1,65 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Gulliver Pokeby.jpg|250px]]
+|name = Gulliver Pokeby
+|born = [[1750]]<ref name="COSG">{{COS|G}}</ref>
+|died = [[1839]] (aged 88-89)<ref name="COSG"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="COSG"/>
+|eyes = Blue<ref name="COSG"/>
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Magizoologist]]<ref name="FBR">{{FB|R}}</ref><ref name="COSG"/>
+*Author<ref name="FBR"/><ref name="COSG"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|Born in the mid-[[18th century|eighteenth century]] Gulliver Pokeby was an expert on magical birds. Acknowledged as the first wizard to identify the meaning of Augurey song, Pokeby penned ''[[Why I Didn't Die When the Augurey Cried]]''.|Pokeby's [[Chocolate Frog Card]]|Pottermore}}
+'''Gulliver Pokeby''' ([[1750]] - [[1839]]) was a [[Wizardkind|wizard]], [[Magizoologist]], expert on [[magic]]al [[bird]]s and the author of ''[[Why I Didn't Die When the Augurey Cried]]''. He was the first to identify that the [[Augurey]]'s cries meant [[Water|rain]] was coming, rather than impending [[death]].<ref name="FBR"/> He was immortalised on a [[Chocolate Frog Card]],<ref name="PM">{{PM}}</ref> which featured him wearing his [[Gulliver Pokeby's pocket watch|golden pocket watch]].<ref name="COSG">{{COS|G}}</ref>
+
+==Magical abilities and skills==
+*'''[[Magizoology]]''': Pokeby was an expert of [[magic]]al ornithology, the study of magical [[bird]]s, having famously discovered the true explanation of the [[Augurey]]'s cries meaning impending [[Water|rain]] rather than [[death]], a very important [[Science|scientific]] discovery in this field. He wrote the book on the subject ''[[Why I Didn't Die When the Augurey Cried]]'', showing his experience and knowledge of his research.<ref name="FBR"/>
+
+==Etymology==
+Gulliver is French for glutton.
+
+==Appearances==
+{{Imagecat|Images of Gulliver Pokeby}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{FB|R}}
+*{{PM}} {{FWC}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pokeby, Gulliver}}
+
+{{Chocolate Frog Cards}}
+
+[[de:Gulliver Pokeby]]
+[[Category:1750 births]]
+[[Category:1839 deaths]]
+[[Category:Authors]]
+[[Category:Blue-eyed individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Magizoologists]]
+[[Category:Males]]
+[[Category:Wizards]]

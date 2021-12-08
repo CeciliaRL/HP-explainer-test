@@ -1,0 +1,47 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Constance Pickering's grandfather
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WU"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU">{{WU}} "Brilliant Event: Darkness Rising"</ref>
+|gender = Male<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Constance Pickering's mother|Daughter or daughter in law]]<ref name="WU"/>
+*[[Constance Pickering's sister|Granddaughter]]<ref name="WU"/>
+*[[Constance Pickering]] (granddaughter)<ref name="WU"/>
+*[[Constance Pickering's brother|Grandson]]<ref name="WU"/>
+*[[Constance Pickering's brother (II)|Grandson]]<ref name="WU"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Pickering family]]<ref name="WU"/>
+}}
+This '''[[Non-magic people|Muggle]]''' was the grandfather of the [[Pickering family|Pickering]] siblings.<ref name="WU"/>
+
+He lived beside a churchyard, and claimed that a [[Grim|ghostly black dog]], which he called the "Barghest", haunted there.<ref name="WU"/>
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Pickering, Constance grandfather}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Parents]]

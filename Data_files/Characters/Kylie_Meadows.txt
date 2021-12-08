@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Kylie Meadows - card HBP-NDS.png|250px]]
+|name = Kylie Meadows
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Australia]]n<ref name="QWC"/>
+|alias = 
+|title = [[Beater]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Female<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HBPG"/>
+|eyes = Brown<ref name="HBPG"/>
+|skin = White<ref name="HBPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[Australian National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[Australian National Quidditch team]]<ref name="QWC"/>
+}}
+'''Kylie Meadows''' was an [[Australia]]n [[Wizardkind|witch]] who played as a [[Beater]] on the [[Australian National Quidditch team]].<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Meadows' [[Chocolate Frog Card]] could be won by beating [[Jason Swann]] at a [[Gobstones]] challenge.<ref name="HBPG">{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Etymology==
+The name "Kylie" arose in [[Australia]], where it means "boomerang" in Noongar,<ref>[https://www.noongarculture.org.au/glossary/noongar-word-list/ Noongar Culture]</ref> an Australian Aboriginal language. It is more likely a feminine form of Kyle, and it is in this capacity that it began to be used in [[United States of America|America]] in the [[1970s]]. A famous bearer is the Australian pop singer {{Wplink|Kylie Minogue}} ([[1968]]-).
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{FWC}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Meadows, Kylie}}
+
+[[es:Kylie Meadows]]
+[[pl:Kylie Meadows]]
+[[fr:Kylie Meadows]]
+[[Category:Australian individuals]]
+[[Category:Beaters]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Wizards]]

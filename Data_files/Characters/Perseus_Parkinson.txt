@@ -1,0 +1,70 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Perseus Parkinson
+|born = Pre [[1709]]
+|died = 
+|blood = [[Pure-blood]]<ref name="blood">According to {{PM}}, the Parkinson family was one of the [[Sacred Twenty-Eight]], as Perceus had already been alive by that point he must have been a pure-blood.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Minister for Magic]]<ref name="WW"/>
+|signature = 
+|species = [[Human]]<ref name="WW"/>
+|gender = Male<ref name="WW"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Pansy Parkinson]] {{c|possible}}
+*[[Parkinson family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Minister for Magic|British Minister for Magic]] ([[1726]] - [[1733]])<ref name="WW"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="WW"/>
+*[[Parkinson family]]<ref name="WW"/>
+}}
+{{Quote|Rowle was succeeded by Perseus Parkinson, who was likewise pro-Azkaban.|Perseus' views as Minister for Magic|Pottermore}}'''Minister Perseus Parkinson''' was [[Minister for Magic|British Minister for Magic]] from [[1726]] to [[1733]].<ref name="WW"/>
+
+==Biography==
+He attempted to pass a bill making it illegal to [[Marriage|marry]] a [[Non-magic people|Muggle]]. However, in doing so, he misread the public mood; the wizarding public was tired of [[Wizarding Supremacy|anti-Muggle sentiment]] and wanted peace. Parkinson was therefore voted out during the next election for Minister.<ref name="WW">{{WW|ministers-for-magic}}</ref>
+
+Perseus Parkinson's attempts to ban mixed marriages were identical to [[Rappaport's Law]] introduced by [[Magical Congress of the United States of America|MACUSA]] president [[Emily Rappaport]]. However, unlike in the [[United States of America]], anti-Muggle sentiments were not as widespread and confined to wizarding supremacists.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Damocles Rowle]]
+|position=[[Minister for Magic]]
+|years=[[1726]] - [[1733]]
+|successor=[[Eldritch Diggory]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Parkinson, Perseus}}
+
+[[de:Perseus Parkinson]]
+[[es:Perseus Parkinson]]
+[[fr:Perseus Parkinson]]
+[[pl:Perseus Parkinson]]
+[[pt-br:Perseus Parkinson]]
+[[ru:Персей Паркинсон]]
+[[Category:British Ministers for Magic]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Parkinson family]]
+[[Category:Pure-bloods]]
+[[Category:Wizarding supremacists]]
+[[Category:Wizards]]

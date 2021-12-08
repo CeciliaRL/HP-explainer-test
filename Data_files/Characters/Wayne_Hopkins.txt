@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Wayne Hopkins
+|born = Between [[1 September]]  [[1979]] and [[31 August]] [[1980]]
+|died = 
+|blood = [[Half-blood]]<ref name="HPM">{{HPM}}</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WW"/>
+|gender = Male<ref name="WW"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Carl Hopkins]] (possible relative)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="WW"/>
+|loyalty = *[[Hopkins family]]<ref name="WW"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="WW"/>
+**[[Hufflepuff]]<ref name="WW"/>
+}}
+'''Wayne Hopkins''' was a [[half-blood]] [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]]. He was in the same year as [[Harry Potter]] and was [[Sorting ceremony|sorted]] into the [[Hufflepuff]] house.<ref name="WW">{{WW|the-original-forty}}</ref>
+
+==Etymology==
+The name "Wayne" is from an occupational surname meaning "wagon maker", derived from Old English wægn "wagon".
+
+==Appearances==
+*{{HPM}} {{1st Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hopkins, Wayne}}
+
+[[de:Wayne Hopkins]]
+[[es:Wayne Hopkins]]
+[[fr:Wayne Hopkins]]
+[[pl:Wayne Hopkins]]
+[[ru:Уэйн Хопкинс]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Half-bloods]]
+[[Category:Hopkins family]]
+[[Category:Hufflepuffs]]
+[[Category:Hufflepuffs Sorted in 1991]]
+[[Category:Males]]
+[[Category:Wizards]]

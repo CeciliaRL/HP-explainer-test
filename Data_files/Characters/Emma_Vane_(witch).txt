@@ -1,0 +1,58 @@
+{{Transcribed image|File:EmmaVanePermissionSlip.jpg}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Emma Vane
+|hideb=
+|born=between [[1 September]] [[1979]] and [[31 August]] [[1980]], [[Great Britain]] or [[Ireland]]
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Emma Vane's mother|Mrs Vane]] (mother)
+*[[Romilda Vane]] (possibly)
+*[[Emma Vane (Muggle)]] (possibly)
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=*[[Vane family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Emma Vane''' was a student who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]]. In her [[1993-1994 school year|third year]], her mother, [[Emma Vane's mother|Mrs Vane]], signed the permission slip that was required for her to visit [[Hogsmeade]] village [[Hogsmeade weekend trips|on weekends]].<ref name="butterbier">"[http://www.butterbier.de/London.html Auf der Suche nach Harry Potter in London Sommer 2004]" on Butterbier.de (in German)</ref>
+
+She may have been related to [[Romilda Vane]].
+
+==Etymology==
+The name "Emma" was originally a short form of Germanic names that began with the element ermen meaning "whole" or "universal". It was introduced to England by Emma of Normandy, who was the wife both of king Ethelred II (and by him the mother of Edward the Confessor) and later of king Canute. It was also borne by an 11th-century Austrian saint, who is sometimes called Hemma. After the Norman conquest this name became common in England. It was revived in the 18th century, perhaps in part due to Matthew Prior's poem ''Henry and Emma'' (1709). It was also used by [[Jane Austen]] for the central character, the matchmaker Emma Woodhouse, in her novel ''[[Emma]]'' (1816).
+
+==Behind the scenes==
+*This character is mentioned only on a prop permission slip that was featured in {{POA|FA}}.<ref name="butterbier" /> Her name is presumably a tribute to [[Emma Vane (real-world)|Emma Vane]], who worked as a draughtsman on every [[Harry Potter films|''Harry Potter'' film]] up until ''[[Harry Potter and the Half-Blood Prince (film)|Half-Blood Prince]]'', excepting ''[[Harry Potter and the Chamber of Secrets (film)|Chamber of Secrets]]''.
+
+==Appearances==
+*{{POA|F}} {{Comment|Name seen on document}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Vane, Emma}}
+[[fr:Emma Vane (sorcière)]]
+[[pl:Emma Vane (czarownica)]]
+[[Category:British individuals]]
+[[Category:Females]]
+
+[[Category:Sorted in 1991]]
+[[Category:Vane family]]
+[[Category:Wizards]]

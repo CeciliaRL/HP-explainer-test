@@ -1,0 +1,57 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Constance Pickering' mother
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WU">{{WU}} "Brilliant Event: Christmas Calamity"</ref>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Female<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Matthias Pickering]] (father-in-low)<ref name="FirstYearAtHogwarts">{{WU}} "Brilliant Event: First Year at Hogwarts"</ref>
+*[[Constance Pickering's grandmother|Mother or mother-in-low]]<ref name="WU"/>
+*[[Constance Pickering's Muggle grandfather|Father]]<ref>{{WU}} "Brilliant Event: Darkness Risings"</ref>
+*[[Constance Pickering's older brother|Son]]<ref name="WU"/>
+*[[Constance Pickering's sister|Daughter]]<ref name="WU"/>
+*[[Constance Pickering]] (daughter)<ref name="WU"/>
+*[[Constance Pickering's Squib brother|Son]]<ref name="FirstYearAtHogwarts"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Pickering family]]<ref name="WU"/>
+}}
+This '''[[Wizardkind|witch]]''' was the mother of [[Constance Pickering]].
+
+==Biography==
+Until the [[British Ministry of Magic|Ministry of Magic]] sent her a notice about permits and licencing, she used to make and sell batches of "special" [[pumpkin juice]] for grown-ups only.<ref name="WU"/>
+
+During [[Christmas]], she and her [[Constance Pickering's sister|daughter]] pulled [[Christmas cracker|crackers]] together. The pop always made little Constance squeal with delight. The family were never able to have a tree at they house, because Constance's mum said she was "allergic" to decorating. Constance loved looking in their neighbours windows and seeing their trees, all bright and shiny.<ref name="WU"/>
+
+Before the start of Constance's [[first year]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], her mother wouldn't buy her a new cauldron. She gave Constance [[Constance Pickering's older brother|her brother]]'s old, used one and bought him a new one.<ref name="FirstYearAtHogwarts"/>
+
+In [[2019]], the [[Pickering family]] had Christmas at the new house of Constance's sister, but they did not send Constance any details or address. As a result, Constance was invited to a Christmas dinner at the [[Potter family]]'s house instead.<ref name="WU"/>
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Pickering, Constance mother}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Pickering family]]
+[[Category:Wizards]]

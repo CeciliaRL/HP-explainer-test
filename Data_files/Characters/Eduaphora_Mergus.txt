@@ -1,0 +1,48 @@
+{{Transcribed image|File:The Quibbler - 1996.jpg}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Eduaphora Mergus
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Writer for ''[[The Quibbler]]'' (possibly)
+|house=
+|loyalty=
+}}
+'''Eduaphora Mergus''' was a [[Wizardkind|witch]] who wrote an article titled "My Week Without [[Rune]]s!" that was published in an issue of ''[[The Quibbler]]'' in [[1996]].<ref>See [https://harrypotter.wikia.com/wiki/File:Quibbler-Spectrospecs.jpg this image].</ref>
+
+==Behind the scenes==
+*This character's unique given name was presumably created as a tribute to the [[Harry Potter films|''Harry Potter'' film]] graphic artists [[Eduardo Lima]] and [[Miraphora Mina]].
+
+==Appearances==
+*{{HBP|F}} {{Comment|Name on magazine cover}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Mergus, Eduaphora}}
+
+[[ru:Эдуафора Мергус]]
+[[fr:Eduaphora Mergus]]
+[[Category:Females]]
+[[Category:Journalists]]
+[[Category:Wizards]]

@@ -1,0 +1,117 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1>Community 21</h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 600px;
+            background-color: white;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"blood": "unknown", "color": "#30D5CE", "community": 21, "community_names": ["Gladys Gudgeon", "Galvin Gudgeon", "Ragmar Dorkins"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Galvin Gudgeon", "label": "Galvin Gudgeon", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eGalvin Gudgeon\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 21"}, {"blood": "unknown", "color": "#30D5CE", "community": 21, "community_names": ["Gladys Gudgeon", "Galvin Gudgeon", "Ragmar Dorkins"], "font": {"color": "black"}, "gender": "Female", "house": "unknown", "id": "Gladys Gudgeon", "label": "Gladys Gudgeon", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eGladys Gudgeon\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Female \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 21"}, {"blood": "unknown", "color": "#30D5CE", "community": 21, "community_names": ["Gladys Gudgeon", "Galvin Gudgeon", "Ragmar Dorkins"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Davey Gudgeon", "label": "Davey Gudgeon", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eDavey Gudgeon\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 21"}, {"blood": "unknown", "color": "#30D5CE", "community": 21, "community_names": ["Gladys Gudgeon", "Galvin Gudgeon", "Ragmar Dorkins"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Ragmar Dorkins", "label": "Ragmar Dorkins", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eRagmar Dorkins\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 21"}, {"blood": "Muggle", "color": "#30D5CE", "community": 21, "community_names": ["Gladys Gudgeon", "Galvin Gudgeon", "Ragmar Dorkins"], "font": {"color": "black"}, "gender": "Female", "house": "unknown", "id": "Mary Dorkins", "label": "Mary Dorkins", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eMary Dorkins\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Female \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: Muggle \u003c/br\u003eCommunity: 21"}, {"blood": "unknown", "color": "#30D5CE", "community": 21, "community_names": ["Gladys Gudgeon", "Galvin Gudgeon", "Ragmar Dorkins"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Bungy", "label": "Bungy", "shape": "dot", "size": 20, "species": "Budgerigar", "title": "\u003cb\u003eBungy\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: Budgerigar \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 21"}]);
+        edges = new vis.DataSet([{"color": "lightgrey", "from": "Galvin Gudgeon", "to": "Gladys Gudgeon", "weight": 1}, {"color": "lightgrey", "from": "Galvin Gudgeon", "to": "Davey Gudgeon", "weight": 1}, {"color": "lightgrey", "from": "Galvin Gudgeon", "to": "Ragmar Dorkins", "weight": 1}, {"color": "lightgrey", "from": "Ragmar Dorkins", "to": "Mary Dorkins", "weight": 1}, {"color": "lightgrey", "from": "Bungy", "to": "Mary Dorkins", "weight": 1}, {"color": "lightgrey", "from": "Davey Gudgeon", "to": "Gladys Gudgeon", "weight": 1}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "curvedCW"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": true,
+        "hideNodesOnDrag": true
+    },
+    "physics": {
+        "enabled": true,
+        "forceAtlas2Based": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.02,
+            "damping": 1,
+            "gravitationalConstant": -111,
+            "springConstant": 0.025,
+            "springLength": 75
+        },
+        "solver": "forceAtlas2Based",
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>

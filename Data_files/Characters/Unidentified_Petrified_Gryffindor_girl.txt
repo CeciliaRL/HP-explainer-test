@@ -1,0 +1,52 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = gryffindor
+|image = Unidentified_petrified_Gryffindor_girl.png
+|name = Unidentified Petrified Gryffindor girl
+|born = Between [[1 September]] [[1975]] and [[31 August]] [[1976]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+This '''[[Wizardkind|witch]]''' attended [[Hogwarts School of Witchcraft and Wizardry]] during the [[1980s]].
+
+==Biography==
+This individual was born between [[1 September]] [[1975]] and [[31 August]] [[1976]]. In [[1987]], she began attending [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|Sorted]] into [[Gryffindor]].
+
+In the [[1989–1990 school year]], she was the second student to be [[Petrification|Petrified]] due to the [[statue curse]]. She was found Petrified and brought in the [[Hospital Wing]].<ref name="HM67">{{HM|6|7}}</ref>
+
+Eventually, she was cured with the other victims.<ref name="HM643">{{HM|6|43}}</ref>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Sorted in 1987]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

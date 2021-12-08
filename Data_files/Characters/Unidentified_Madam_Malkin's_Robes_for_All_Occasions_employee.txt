@@ -1,0 +1,39 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Unidentified Madam Malkin's employee
+|hideb=b
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=p
+|species=[[Human]]<ref name="PS5"/>
+|gender=Female<ref name="PS5"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=f
+|family=
+|hidem=m
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Employee of [[Madam Malkin's Robes for All Occasions]]<ref name="PS5"/>
+|house=
+|loyalty=[[Madam Malkin's Robes for All Occasions]]<ref name="PS5"/>
+}}This '''individual''' was a [[Wizardkind|witch]] who worked at [[Madam Malkin's Robes for All Occasions]] under [[Malkin|Madam Malkin]]. In [[1991]], she helped [[Draco Malfoy]] try on [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[robes]].<ref name="PS5">{{PS|B|5}}</ref>
+
+==Appearances==
+*{{PS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

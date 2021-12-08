@@ -1,0 +1,73 @@
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Unidentified Minister of Magical Transportation
+|born = c. [[1949]]<ref name="graduation">As he graduated in [[1967]], he was born around eighteen years prior.</ref><br />
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Head of the [[Department of Magical Transportation]]
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]] 
+**[[Slug Club]]
+*[[British Ministry of Magic]]
+**[[Department of Magical Transportation]]
+}}
+{{Quote|Oh my! Excuse me, Harry. I must greet the new Minister of Magical Transportation. Class of '67.|[[Horace Slughorn]] sees this individual during the [[Slug Club Christmas party]]|Harry Potter and the Half-Blood Prince (film)}}
+
+This '''Minister of Magical Transportation''' (born c. [[1949]]) was a [[Wizardkind|wizard]] who headed the [[Department of Magical Transportation]] by [[1996]]. During his school years at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], he was a member of the [[Slug Club]].<ref name="script">Mentioned on the [https://www.scriptslug.com/assets/uploads/scripts/harry-potter-and-the-half-blood-prince-2009.pdf ''Half-Blood Prince'' script] released on the [http://warnerbros2009.warnerbros.com/#/movies/harrypotter/foryourconsideration/ Warner Bros. Awards website]</ref>
+
+==Biography==
+===Early life===
+This individual was born in around [[1949]].<ref name="graduation"/> He attended [[Hogwarts School of Witchcraft and Wizardry]], where he was made a member of the [[Slug Club]] by his [[Potions Master]], [[Horace Slughorn]]. He graduated in [[1967]].
+
+===Adulthood===
+====Professional life====
+This individual grew up to work at the [[British Ministry of Magic|Ministry of Magic]] and by [[December]] of [[1996]] was considered the "new" Minister of Magical Transportation.<ref name="script"/>
+
+====Slug Club Christmas party====
+On [[20 December]], [[1996]], this individual attended a [[Slug Club Christmas party|Christmas party]] at [[Hogwarts Castle]], held by his former professor, [[Horace Slughorn]]. Slughorn was delighted to see this individual and quickly dismissed [[Harry Potter]] upon seeing him.<ref name="script"/>
+
+==Appearances==
+*{{HBP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=Head of the [[Department of Magical Transportation]]
+|years=c. [[1996]]-?
+|successor=Unknown, eventually [[Percy Weasley]]
+}}
+{{End box}}
+{{Ministry Level 6 employees}}
+[[es:Mago no identificado del Departamento de Tarnsporte Mágico del Ministerio de Magia]]
+[[Category:1940s births]]
+[[Category:British or Irish individuals]]
+[[Category:Department of Magical Transportation personnel]]
+[[Category:Males]]
+[[Category:Slug Club]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

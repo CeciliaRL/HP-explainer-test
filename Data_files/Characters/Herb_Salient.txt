@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:HerbSalientWanted.jpg|250px]]
+|name = Herb Salient
+|born = 
+|died = 
+|blood = 
+|nationality = [[United States of America|American]]<ref name="empiremagvid" />
+|marital = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="empiremagvid" />
+|gender = Male<ref name="empiremagvid" />
+|height = 
+|hair =  
+|eyes = 
+|skin = 
+|family = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Herb Salient''' was an [[United States of America|American]] [[wizardkind|wizarding]] criminal who operated in the [[1920s]].<ref name="empiremagvid">"[https://www.youtube.com/watch?v=GLKKzokwrhQ THE EMPIRE MAGAZINE EVERYONE WANTS!]" from Harry Potter Collector UK on YouTube {{see image|File:HerbSalientWanted.jpg}}</ref>
+
+==Biography==
+In or around [[1926]], the [[Magical Congress of the United States of America]] issued a wanted poster for Salient, which stated he was wanted for "arson and [[Non-magic people|No-Maj]] murder," and that they were offering a reward of 3,500 [[dragot]]s for information leading to his capture.<ref name="empiremagvid" />
+
+==Appearances==
+*{{FB|F}} {{1st}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Salient, Herb}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Wizards]]

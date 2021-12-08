@@ -1,0 +1,65 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme=dark-wizard
+|image=[[File:Bly Magic Awakened.png]]
+|name=Bly
+|born=Before [[2009]]{{MATimeRef}}
+|died=
+|blood=
+|marital=
+|nationality=
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="MA">{{MA|2}}</ref>
+|gender=Male<ref name="MA"/>
+|height=
+|weight=
+|hair=Brown<ref name="MA"/>
+|eyes=Brown<ref name="MA"/>
+|skin=Light<ref name="MA"/>
+|family=
+|romances=
+|animagus=[[Lemur]]<ref name="MA"/>
+|boggart=
+|wand=Unknown length, wood and core<ref name="MA"/>
+|patronus=
+|job=
+|house=
+|loyalty=
+}}
+'''Bly''' was a [[Dark Wizard]] and a [[lemur]] [[Animagus]].<ref name="MA"/>
+
+==Biography==
+{{Dialogue a-b-a-b-a-b|Lottie Turner|Who are you?|Bly|You may recognise me by my other form, by that [[Jakub Gorski|old fool]]'s side.|Bly? You're an Animagus...|I had to follow that doddering wizard for so long. At first it was a hunt like all the others, but when I realised what we were hunting... I couldn't let him have it!|You were [[Imperius Curse|controlling]] Professor Gorski?|Yes! He lost his mettle. He wasn't willing to do what had to be done to find the artefact.|Bly revealing himself to Lottie Turner|Harry Potter: Magic Awakened}}
+During his life, Bly searched for a treasured artefact which turned out to be the [[Turner family]]'s heirloom and murdered [[Lottie Turner]]'s [[Lottie Turner's father|father]] for it.<ref name="MA"/>
+
+{{Quote|And this is my... umm... "assistant", Bly. He has a nose for shiny things.|Professor Gorski introducing Bly in his Animagus form (a lemur) to his students|Harry Potter: Magic Awakened}}
+[[File:Bly Animagus form MA.png|thumb|150px|Bly in his Animagus form, a lemur]]
+Bly put the [[Imperius Curse]] on [[Jakub Gorski]], the visiting [[History of Magic]] [[Professor]] at [[Hogwarts School of Witchcraft and Wizardry]], and [[Human Transfiguration|transformed]] into his [[lemur]] [[Animagus]] form to disguise as Gorski's animal assistant. At one point, he came down to the [[Chamber of Secrets]] in his human form, likely in search of [[Basil Aurelius III]]'s portrait, and when Basil alerted him to a group of students who were talking to Basil at the time, Bly animated a snake statue in the chamber to attack the students before fleeing. He also accompanied Gorski in his Animagus form when he came to the students to check out their progress of the assignment on various occasions.<ref name="MA"/>
+
+Once in his Animagus form in the [[History of Magic Classroom]], he controlled Gorski to say "I'm always watching" and [[Charm|bewitch]] [[Suit of armour|suits of armour]] to attack the students, who was confronting Gorski about his suspicious activities. He then left, still in his Animagus form but with a [[wand]] in his hand, which befuddled the students.<ref name="MA"/>
+
+When the students, including Lottie Turner, led the way to the heirloom, Bly showed up in his human form and dragged Lottie through the final barrier, a magical mirror, and forced her to open the heirloom's container. Her friends met up with them and had a fight with Bly, who was defeated.<ref name="MA"/>
+
+==Magical abilities and skills==
+{{Quote|A bunch a children is no match for my [[magic]]!|Bly boasting about his magical prowess|Harry Potter: Magic Awakened}}
+*'''[[Dark Arts]]''': Bly was capable of bewitching [[Jakub Gorski]] with the [[Imperius Curse]],<ref name="MA"/> one of the [[Unforgivable Curses]] which required much [[magic]]al skill to perform.<ref name="GOF14">{{GOF|B|14}}</ref>
+*'''[[Duelling]]''': Bly was capable of duelling opponents in combat confidently, showing he was skilled with [[martial magic]], although he was defeated by several Hogwarts students.<ref name="MA"/>
+*'''[[Transfiguration]]''': Bly was an [[Animagus]] who took the form of a [[lemur]],<ref name="MA"/> showing he had mastered the magic of [[Human Transfiguration]], considering the difficulty and patience required in becoming one.
+*'''[[Nonverbal spell|Nonverbal magic]]''': Bly was capable of removing his hood with a simple wave of his [[wand]] without saying an [[incantation]], along with the casting of offensive [[spell]]s, showing he was proficient with nonverbal magic,<ref name="MA"/> which was known to be difficult.
+
+==Appearances==
+{{Imagecat|Images of Bly}}
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Animagi}}
+[[Category:Animagi]]
+[[Category:Brown-eyed individuals]]
+[[Category:Dark wizards]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Personal assistants]]
+[[Category:Unforgivable curse users]]

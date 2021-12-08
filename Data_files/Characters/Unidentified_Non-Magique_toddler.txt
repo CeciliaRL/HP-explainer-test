@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:COGToddler.png|thumb]]
+|name = Unidentified Non-Magique Toddler
+|born = Between August, [[1924]] and August, [[1926]]<ref>Toddlers are classified as aged between 12 (1926) and 36 (1924) months.</ref>
+|died = [[August]], [[1927]]<br/>[[Paris]], [[France]]<ref name="COGS"/>
+|blood = [[Non-magic people|Non-Magique]]<ref name="COGS"/>
+|nationality = [[France|French]]<ref name="COGS"/>
+|species = [[Human]]<ref name="COGS"/>
+|gender = Male<ref name="COGS"/>
+|hair = Blond<ref name="COGS"/>
+|skin = Pale<ref name="COGS"/>
+|family = *[[Unidentified Non-Magique father|Father]] †<ref name="COGS"/>
+*[[Unidentified Non-Magique mother|Mother]] †<ref name="COGS"/>
+|theme = muggle
+}}
+This '''toddler '''was a [[France|French]] [[Non-magic people|Non-Magique]] resident of [[Paris]] in the [[1920s]].<ref name="COGS"/>
+
+==Biography==
+
+[[File:Non-magique toddler playing with it's toys.jpg|250px|thumb|left|The toddler playing with his toys]]
+In the [[1920s]], this toddler was born to a [[Unidentified Non-Magique mother|Non-Magique mother]] and her [[Unidentified Non-Magique father|husband]]. 
+{{Quote|Mamu.. Mamu?|Toddler's cries out wondering where his mother is|Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay}}
+Together with his parents, the baby lived in a [[Unidentified home used by Gellert Grindelwald|house]] somewhere in [[Paris]]. Soon after the [[Gellert Grindelwald]] and his [[Gellert Grindelwald's acolytes|acolyte]]'s inflitrated the home, the toddler cried out for his [[Unidentified Non-Magique mother|Mother]] but was instead heard by [[Gellert Grindelwald]] and his [[Gellert Grindelwald's acolytes|acolyte]]'s and went to it's room and under Grindelwald's order's it was [[Killing Curse|murdered]] by [[Gellert Grindelwald's acolytes|Gellert Grindelwald's acolyte]] [[Carrow (1920s)|Carrow]]. 
+
+They later used the family's home as a temporary headquarters, from where he conducted a search for [[Credence Barebone]].<ref name="COGS">{{COG|S}}</ref>
+
+==Behind the scenes==
+*The toddler was portrayed by an unidentified extra in {{COG}}.
+
+==Appearances==
+*{{COG|S}} {{1st}}
+*{{COG}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowane mugolskie dziecko]]
+[[Category:1920s births]]
+[[Category:1927 deaths]]
+[[Category:Deaths by Killing Curse]]
+[[Category:French individuals]]
+[[Category:Global wizarding war casualties]]
+[[Category:Killed by Carrow (1920s)]]
+[[Category:Killed by Gellert Grindelwald]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Unidentified Muggles]]

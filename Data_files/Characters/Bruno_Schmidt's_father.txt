@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Mr Schmidt
+|nationality = [[Germany|German]]<ref name="FBR"/>
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="FBR"/>
+|gender=Male<ref name="FBR"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Bruno Schmidt]] (son)<ref name="FBR"/>
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Schmidt family]]<ref name="FBR"/>
+}}
+'''Mr Schmidt''' was a [[German]] [[Wizardkind|wizard]] and father of [[Bruno Schmidt]]. He owned the [[Collapsible Cauldron]] which his son used to fend off an [[Erkling]] who tried to attack him.<ref name="FBR">{{FB|R}}, ''Erkling''</ref>
+
+==Appearances==
+*{{FB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Schmidt, Bruno's father}}
+[[fr:Père de Bruno Schmidt]]
+[[pl:Pan Schmidt]]
+[[Category:German individuals]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Schmidt family]]
+[[Category:Unnamed family members‎]]
+[[Category:Wizards]]

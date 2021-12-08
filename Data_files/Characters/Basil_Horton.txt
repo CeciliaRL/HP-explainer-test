@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Basil Horton
+|born = c. [[20th century]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Gordon Horton]] (possibly)
+*[[Horton family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Quidditch]] player for the [[Falmouth Falcons]]
+*Cofounder of the [[Comet Trading Company]]
+|house = 
+|loyalty = [[Comet Trading Company]]
+}}'''Basil Horton''' (fl. 1929) was a [[Great Britain|British]] [[Wizardkind|wizard]] and [[Quidditch]] player for the [[Falmouth Falcons]].
+
+==Biography==
+In [[1929]], he established the [[Comet Trading Company]] with fellow player [[Randolph Keitch]]. Together they also invented the [[Horton-Keitch Braking Charm]].<ref>{{QTA|E}} - Chapter Nine (The Development of the Racing Broom)</ref>
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': Horton was an accomplished and talented [[broomstick]] flyer, being a professional [[Quidditch]] player for the [[Falmouth Falcons]]
+*'''[[Charm]]s''': Horton was highly proficient in charm-work, given how he invented the [[Horton-Keitch Braking Charm]].
+*'''[[Spell creation]]''': Horton succeeded in the immensely complex and difficult [[magic]]al art of inventing new [[spell]]s, as he successfully created the [[Horton-Keitch Braking Charm]].
+
+==Etymology==
+The name "Basil" comes from the Greek name Βασιλειος (Basileios) which was derived from βασιλευς (basileus) meaning "king". Saint Basil the Great was a 4th-century bishop of Caesarea and one of the fathers of the early Christian church.
+
+==Appearances==
+*{{QTA|R}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Charms}}
+{{DEFAULTSORT:Horton, Basil}}
+
+[[de:Basil Horton]]
+[[es:Basil Horton]]
+[[fr:Basil Horton]]
+[[ru: Базиль Хортон]]
+[[pl:Basil Horton]]
+[[Category:British individuals]]
+[[Category:Broom-makers]]
+[[Category:Horton family|Basil Horton]]
+[[Category:Males]]
+[[Category:Quidditch players]]
+[[Category:Spell inventors]]
+[[Category:Wizards]]

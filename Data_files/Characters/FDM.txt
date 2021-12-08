@@ -1,0 +1,36 @@
+{{transcribed image|File:DoubleD.jpg}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=FDM
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidea=
+|job=Musician
+|loyalty=
+}}
+'''FDM''' was a [[Non-magic people|Muggle]] recording artist who, along with [[Big Mic]], made a guest appearance on the [[Ginger (musician)|Ginger]] album ''[[Double D]]''.<ref>{{WWHP}} {{see image|File:DoubleD.jpg}}</ref>
+
+==Appearances==
+*{{WWHP}} {{comment|name appears on album cover}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Muggles]]
+[[Category:Musicians]]

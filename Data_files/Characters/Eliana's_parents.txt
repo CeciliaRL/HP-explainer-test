@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Eliana's parents
+|born=
+|died=
+|blood=
+|marital=Married<ref name="WBS"/>
+|nationality=
+|alias=
+|title=
+|signature=
+|species=[[Human]]s<ref name="WBS"/>
+|gender=Male, Female<ref name="WBS"/>
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=[[Eliana]] (daughter)<ref name="WBS"/>
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+}}
+These '''individuals''' were the parents of [[Eliana]], who refused to let the [[Dark Wizard]] [[Raczidian]] marry their daughter after he demanded that she be made his wife.<ref name="WBS">{{WBS}} ([https://youtu.be/gvDzIdLknkE?list=PLfEvER8C_veDO_Glh8HEUiz3gOCZdgivN see video])</ref>
+
+==Appearances==
+*{{WBS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

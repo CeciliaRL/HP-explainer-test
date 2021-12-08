@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Portrait of a group of journeying wizards.jpg|250px]]
+|name=Portrait of a group of journeying wizards
+|hideb=
+|born=
+|died=Before [[1993]] (possibly)
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=*Males
+*Females
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+These '''individuals''' were a group of [[Wizardkind|wizards]] whose portrait hung at [[Hogwarts Castle]] in the [[1990s]], opposite the [[Fat Lady]] and next to a [[portrait of a wizard with a broomstick]].<ref name="PA13">{{POA|F}} - Chapter 13 (''Flight of the Fat Lady'')</ref>
+
+==Appearances==
+*{{POA|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts seventh floor}}
+
+[[es:Retrato de magos viajando]]
+[[pl:Portret podróżujących czarodziejów]]
+[[Category:Females]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

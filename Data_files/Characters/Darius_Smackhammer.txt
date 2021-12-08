@@ -1,0 +1,40 @@
+{{Individual infobox
+|name = Darius Smackhammer
+|born = After [[1976]],<ref>Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref> [[United States of America]] (possibbly)
+|nationality = [[United States of America|American]]
+|title = [[Seeker]]
+|species = [[Human]]
+|gender = Male
+|job = [[Seeker]] for the [[American National Quidditch team]]
+|loyalty = [[American National Quidditch team]]
+|theme = quidditch-player
+|hideb = hide
+|hidep = 
+|hidef = hide
+|hidem = hide
+|hidea = 
+}}
+{{Quote|Yet more controversy in Patagonia: the outcome of the USA versus Jamaica clash is under investigation due to the sudden collapse of Kquewanda Bailey, the Jamaican Keeper, who toppled from her broom shortly before US Chaser Quentin Kowalski scored their ninth goal.|[[Ginevra Weasley|Ginny Potter]], "[[USA VERSUS JAMAICA]]" (''[[Daily Prophet]]'', [[16 May]] [[2014]])|Pottermore}}
+'''Darius Smackhammer''' was an [[United States of America|American]] [[Wizardkind|wizard]] who played as the [[Seeker]] for the [[2014]] [[American National Quidditch team]]. During the fourth match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], US versus [[Jamaican National Quidditch team|Jamaica]], Smackhammer beat Jamaican Seeker [[Shanice Higgins]] to the [[Golden Snitch|Snitch]],<ref name="usa-v-jam">{{PM}} - [[USA VERSUS JAMAICA (I)]] (Archived)</ref> resulting in a narrow victory for the United States.<ref name="usa-v-jam2">{{PM}} - [[USA VERSUS JAMAICA (II)]] (Archived)</ref>
+
+==Biography==
+During the USA-[[Brazil]] match running on [[5 July]] (continued from [[4 July|the previous day]]), Smackhammer was assaulted by dual [[Bludger]]s sent by [[Carlos Clodoaldo|Clodoaldo]] and [[Rafael Santos|Santos]], preventing him from immediately reaching the [[Golden Snitch|Snitch]]. He and [[Tony Silva]] subsequently dove simultaneously for the Snitch, both sliding to the handles of their brooms diving at breakneck speed towards the earth and thus to the Snitch. At first it was almost impossible to determine who had really caught the Snitch, but after less than a minute it was apparent that Silva had narrowly beaten Smackhammer to it, resulting in USA being dropped out of the finals.
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Smackhammer, Darius}}
+[[de:Darius Smackhammer]]
+[[es:Darius Smackhammer]]
+[[fr:Darius Smackhammer]]
+[[pl:Darius Smackhammer]]
+[[ru:Дариус Смэкхаммер]]
+
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Wizards]]

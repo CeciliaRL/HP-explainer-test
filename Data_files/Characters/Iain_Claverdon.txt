@@ -1,0 +1,53 @@
+{{Imageless}}
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Iain Claverdon
+|born = [[31 August]] [[1982]] or earlier<ref name="age">He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HBPG"/>
+|eyes = 
+|skin = White<ref name="HBPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Gryffindor]]<ref name="HBPG"/>
+}}
+'''Iain Claverdon''' was a [[Wizardkind|wizard]] and [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="HBPG"/>
+
+==Biography==
+He owned two sets of [[Quidditch]] [[Quidditch uniform|robes]], one of which he agreed to give to [[Harry Potter]] before the final match between [[Gryffindor]] and [[Ravenclaw]] in [[1997]], in exchange for five [[Ever-Bashing Boomerang]]s. Harry gave the robes to [[Dean Thomas]] in order to replace the ones he dirtied in a [[Duelling|duel]] with some [[Slytherin]]s.<ref name="HBPG">{{HBP|G}} - NDS only</ref>
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (PlayStation 2, Xbox, GameCube)|home console versions]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (Nintendo DS)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Claverdon, Iain}}
+[[pl:Iain Claverdon]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

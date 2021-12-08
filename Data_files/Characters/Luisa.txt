@@ -1,0 +1,42 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Luisa
+|born = [[31 August]] [[1975]] or earlier<br /> [[Great Britain]] or [[Ireland]]<ref>[http://www.accio-quote.org/articles/2000/0700-swns-alfie.htm "World Exclusive Interview with J K Rowling," South West News Service, 8 July 2000]</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM34h"/>
+|gender = Female<ref name="HM34h"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HM34h"/>
+}}
+'''Luisa''' was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in the late [[1970s]] or [[1980s]]. She was friends with a [[Hufflepuff]] student sorted in [[1984]]. During the [[1986–1987 school year]], she was attacked by a [[Boggart]] in the [[Quidditch Changing Rooms]], and was sent to the [[Hospital Wing]].<ref name="HM34h">{{HM|3|4|h}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

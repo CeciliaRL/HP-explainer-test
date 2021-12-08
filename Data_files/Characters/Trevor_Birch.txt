@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Trevor Birch
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Blond
+|eyes = 
+|skin = White
+|family = *[[Trevor Birch's mother|Mrs Birch]] (mother)
+*[[Brevis Birch]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+**[[Duelling Club]]
+*[[Gilderoy Lockhart]]
+}}
+{{Quote|I've sent [[Gilderoy Lockhart]] tonnes of [[Trevor Birch's letters fom Gilderoy Lockhart|fan mail]], y'know. He's my hero ...|Trevor talking with [[Harry Potter]] about his hero.|Harry Potter and the Half-Blood Prince (video game)}}
+'''Trevor Birch''' was a [[Wizardkind|wizard]] and student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]], who was a member of [[Ravenclaw]] house.<ref name="HBPG"/>
+==Biography==
+In [[1996]], he became a member of the [[Duelling Club]], and hoped [[Trevor Birch's mother|his mother]] would give him a [[broomstick]] for [[Christmas]]. He could usually be found at the [[Clock Tower Courtyard]]. Unlike most people who thought that [[Horace Slughorn]] was a stakeholder, Trevor thought that he was a good teacher. One day he was duelling and beat him. The blow was so powerful that he needed two days recovering in the hospital wing. He was also an admirer of the author [[Gilderoy Lockhart]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+"Trevor" is from a surname which was originally from a place name meaning "big village" from Welsh ''tref'' "village" and ''mawr'' "large".
+
+==Appearances==
+*{{POA|G}} {{1st}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Duelling Club}}
+{{DEFAULTSORT:Birch, Trevor}}
+[[es:Trevor Birch]]
+[[pl:Trevor Birch]]
+[[fr:Trevor Birch]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Duelling Club members]]
+[[Category:Gilderoy Lockhart's fans]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

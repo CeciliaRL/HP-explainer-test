@@ -1,0 +1,76 @@
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Walter Aragon.JPG|250px]]
+|name = Walter Aragon
+|born = 
+|died = In or before [[1995]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, Aragon must have died sometime in or before [[1995]], given his portrait's appearance in the [[Headmaster's office]] in the {{LEGO|Y1}}.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = *[[Professor]]
+*[[Headmaster]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Black
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]]
+*Author
+*Chess player
+*Professor
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|Mens sana in corpore sano.|Aragon's motto, as inscribed on the portrait depicting him and [[Brian Gagwilde|Professor Gagwilde]] playing chess|Harry Potter Limited Edition}}
+
+'''Professor Walter Aragon'''<ref>[[:File:Professor Walter Aragon.jpg|His portrait]] bears his name.</ref> was a [[Wizardkind|wizard]]. Professor Aragon worked in the capacity of [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] at some point during his life.<ref name="Lego HP">{{LEGO|Y1}}</ref>
+
+==Biography==
+===Lifetime===
+At some point in his life, Professor Aragon became the [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]].<ref name="Lego HP"/> He also seemed to have an interest in [[Care of Magical Creatures]], as he authored at least one title on the subject, ''[[Newts of Bognor]]''.<ref>{{HPLE|G}} {{see image|File:NewtsofBognor.jpg}}</ref>
+
+===Post-mortem===
+Professor Aragon died sometime before [[1943]].<ref name="DOD"/> There were portraits of the professor hung at the [[Grand Staircase]]<ref name="PA/g">{{POA|G}} - PC version</ref> and one at the [[Headmaster's office]]<ref name="Lego HP"/> in order to give advice to the current headmaster.
+
+==Behind the scenes==
+*The solo portrait of Aragon was based on a [http://upload.wikimedia.org/wikipedia/commons/3/32/Joseph_Chamberlain_John_Singer_Sargent_1896.jpeg 1896 portrait of The Right Honourable Joseph Chamberlain], by [[Wikipedia:John Singer Sargent|John Singer Sargent (1856–1925)]].<ref name="HPLE">{{HPLE}} - ''[[The Paintings of Hogwarts: Masterpieces from the School of Witchcraft and Wizardry Sets]]''</ref>
+*Aragon's portrait of him by himself only appears at the [[Headmaster's office]] in {{LEGO|Y1}}. In {{COS|F}} the portrait of [[Amrose Swott|Amberose Swott]] occupies that space, and in {{OOTP|F}} and {{HBP|F}} the portrait of [[Everard|Professor Everard]] is hung there.
+*In {{MHP}}, Walter Aragon's name appears on the portrait in the Headmasters' Office depicting [[Chessmasters and Headmasters of Hogwarts|two headmasters playing chess]]. [[Brian Gagwilde]] is named as the other headmaster.
+*His motto "''Mens sana in corpore sano''" is a Latin phrase quotation often translated as "A sound mind in a healthy body."<ref name="Wikimenssana">{{wikilink|Mens sana in corpore sano}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Walter Aragon}}
+*{{POA|G}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{DH|G2}} {{Portrait}}<ref>He appears in a portrait in [[Hogsmeade]] most likely because he had fled from his portrait at [[Hogwarts School of Witchcraft and Wizardry]] during the [[Battle of Hogwarts|Battle]]. </ref>
+*{{LEGO|Y1}} {{Portrait}}
+*{{HPLE}} {{Mention}}
+*{{MHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Staff}}
+{{Hogwarts towers}}
+{{DEFAULTSORT:Aragon, Walter}}
+[[es:Walter Aragon]]
+[[pl:Walter Aragon]]
+[[pt-br:Valter Aragão]]
+[[ru:Уолтер Арагон]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Deceased individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

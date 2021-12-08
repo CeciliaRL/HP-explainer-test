@@ -1,0 +1,51 @@
+{{Noncanon|Character}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Felicitania Tugwood
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Sacharissa Tugwood]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Tugwood family]]
+}}
+'''Felicitania Tugwood''' was a [[Wizardkind|witch]] who lived in Britain in the [[1990s]].<ref name="EveningProphet">See [[:File:EveningProphetFlyingFordAnglia.png|this image]] of an ''[[Evening Prophet]]'' prop used in {{COS|FA}}, taken at {{HPE}}.</ref>
+
+==Behind the scenes==
+{{Quote|Luckily though no serious injuries were incurred. Felicitania Tugwood had the worst with a shocking flu after falling straight into the freezing cold Mersey. ''[…]'' Apparently Dippet had dropped some of his shopping and was distracted by looking at his descending loaf of bread and crashed straight into Felicitania Tugwood and she in turn fell off her broomstick and knocked all three Pidgeon sisters off their brooms on her way down to the Mersey.|''[[Evening Prophet]]'', [[1 September]], [[1992]]; ''[[Daily Prophet articles|FORD ANGLIA MYSTIFIED MUGGLES]]'', by [[Andy Smudgley]].|Harry Potter and the Chamber of Secrets (film)}}
+*On ''[[Evening Prophet]]'' prop featured in {{COS|FA}}, this witch is mentioned to have been involved in a broom accident caused by [[Armando Dippet]] while [[Harry Potter]] and [[Ronald Weasley]] flew a [[Flying Ford Anglia|Ford Anglia]] to [[Hogwarts Castle]] (a breach of the [[International Statute of Wizarding Secrecy]]): Dippet had crashed into her, and she in turn knocked the [[Pidgron sisters]] off their broomstick on her descent into the [[River Mersey]], after which she got a "shocking" case of [[flu]].<ref name="EveningProphet"/>
+*This, however, cannot be considered [[canon]], since Rowling's statements and books imply that Dippet has been dead since the [[1950s]].
+
+==Appearances==
+*{{COS|F}} {{1st Mention}} {{Comment|Mentioned on newspaper only, non-canonical mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Tugwood, Felicitania}}
+
+[[pl:Felickaria Tugwood]]
+[[pt-br:Felicitania Tugwood]]
+[[ru:Фелиситания Тугвуд]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Tugwood family]]
+[[Category:Wizards]]

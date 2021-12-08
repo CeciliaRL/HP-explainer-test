@@ -1,0 +1,48 @@
+{{Imageless}}
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Siobhan Templeton
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = 
+}}
+'''Siobhan Templeton''' was a [[Hufflepuff]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She was seen walking around the school during the [[1993–1994 school year]].
+
+==Etymology==
+Siobhan is an Irish name derived from the Anglo-Norman Jehanne, a cognate of the English Joan, meaning "God's grace".
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Templeton, Siobhan}}
+[[pl:Siobhan Templeton]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Sorted in the 20th century]]
+[[Category:Wizards]]

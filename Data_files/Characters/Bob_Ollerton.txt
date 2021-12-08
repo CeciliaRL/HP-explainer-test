@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Bob Ollerton
+|hideb=
+|born=Prior to [[1926]]
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Barnaby Ollerton]] (brother)
+*[[Bill Ollerton]] (brother)
+*[[Gifford Ollerton]] (possibly)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Broom-maker]]
+|house=
+|loyalty=[[Ollerton family]]
+}}'''Bob Ollerton''' (fl. 1926) was a [[Wizardkind|wizard]] who, along with his brothers [[Barnaby Ollerton|Barnaby]] and [[Bill Ollerton]], founded the [[Cleansweep Broom Company]] in [[1926]].<ref>{{QTA|R|9}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ollerton, Bob}}
+[[de:Bob Ollerton]]
+[[fr:Bob Ollerton]]
+[[pl:Bob Ollerton]]
+[[pt-br:Roberto Ollerton]]
+
+[[Category:British individuals]]
+[[Category:Broom-makers]]
+[[Category:Males]]
+[[Category:Ollerton family]]
+[[Category:Wizards]]

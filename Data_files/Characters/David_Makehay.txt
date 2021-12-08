@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = David Makehay
+|born = Between [[1743]] and [[1747]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+**[[Slytherin Quidditch team]]
+}}
+'''David Makehay''' (b. [[1740s]]) was a [[Slytherin]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1750s]] and [[1760s]]. He was [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin]] [[Quidditch]] [[Slytherin Quidditch team|team]] from [[1756]] to [[1760]].<ref>{{HPPS}}, p. 349 {{see image|File:Slytherin Captains Plaque 2.jpg}}</ref>[[File:Slytherin Captains Plaque 2.jpg|236x236px|thumb|left|{{PAGENAME}}'s name appearing on a plaque]]
+
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Kris Kolumbiko]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]]
+|years=[[1756]]—[[1760]]
+|successor=[[Mark Overcliff]]
+}}
+{{End box}}
+
+{{DEFAULTSORT:Makehay, David}}
+
+[[pl:David Makehay]]
+[[pt-br:David Makehay]]
+[[ru:Дэвид Мейкхей]]
+[[fr:David Makehay]]
+[[Category:1740s births]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1750s]]
+[[Category:Wizards]]

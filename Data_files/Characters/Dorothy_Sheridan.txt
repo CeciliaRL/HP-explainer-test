@@ -1,0 +1,37 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Dorothy Sheridan
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Actress
+|house=
+|loyalty=
+}}
+'''Dorothy Sheridan''' was a [[Non-magic people|Muggle]] actress in the early [[20th century]]. She was to star in a production of ''[[Oh, Rosana!]]'' slated to open at the [[Brockman Theatre]] in [[New York]] on [[4 January]] [[1927]].<ref name="rosana">{{FB|F}} {{See image|File:Oh, Rosana!.png}}</ref>
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Sheridan, Dorothy}}
+[[Category:Actors]]
+[[Category:Females]]
+[[Category:Muggles]]

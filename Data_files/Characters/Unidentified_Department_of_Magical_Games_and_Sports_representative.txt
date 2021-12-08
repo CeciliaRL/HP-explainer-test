@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Department of Magical Games and Sports representative
+|born = [[1866]], or earlier<ref name="birth">In order to be working for the Ministry of Magic in 1883, he had to be at least of age (17) by then.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Department of Magical Games and Sports]] representative
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Department of Magical Games and Sports]]
+}}
+{{Quote|"We're not burning ''[the Quidditch scoring baskets]'', don't exaggerate," said an irritable-looking Departmental representative last night when asked to comment. "Baskets, as you may have noticed, come in different sizes. We have found it impossible to standardise basket size so as to make goalposts throughout Britain equal. Surely you can see it's a matter of fairness. I mean, there's a team up near Barnton, they've got these minuscule little baskets attached to the opposing team's posts, you couldn't get a grape in them. And up their own end they've got these great wicker caves swinging around. It's not on. We've settled on a fixed hoop size and that's it. Everything nice and fair."|''[[Daily Prophet]]'', [[12 February]] [[1883]].|Quidditch Through the Ages}}
+This '''individual''' (fl. [[1866]]—[[1883]]) was a "irritable-looking" [[Wizardkind|wizard]] who worked for the [[Department of Magical Games and Sports]] in [[British Ministry of Magic|Ministry of Magic]] in the [[1880s]].<ref name="QA6">{{QTA|R|6}}</ref>
+
+On the night of [[11 February]], [[1883]], this wizard represented the [[Department of Magical Games and Sports]] during a news conference over which he was asked to comment on the replacement of the "scoring baskets" used for centuries for goal scoring in [[Quidditch]] with [[goalpost|fixed, standardised hoops on poles]]. This wizard noted on the unfairness that having baskets (which the [[British Ministry of Magic|Ministry]] found impossible to regulate and standardise) to score goals led to, but at that point he was forced to retreat under [[1883 riot at the British Ministry of Magic Headquarters|a hail of baskets thrown by the angry demonstrators]] assembled in the [[Ministry of Magic assembly hall|hall]].<ref name="QA6"/>
+
+This Departmental representative also seemed to have been the one to announce the introduction of the [[Stooging]] Penalty on the evening of [[21 June]], [[1880s|one year later]]. As the "harassed-looking" wizard went on about how the Ministry move would eliminate the severe [[Keeper]] injuries there had been occurring too often, and how everything would be "much cleaner and fairer", he was again forced to retreat as [[1884 riot at the British Ministry of Magic Headquarters|the angry crowd started to bombard him]] with [[Quaffle]]s.<ref name="QA6"/>
+
+==Appearances==
+*{{QTA|R}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 7 employees}}
+
+[[es:Representante no identificado del Departamento de Deporte y Juegos Mágicos]]
+[[pt-br:Representante não identificado do Departamento de Jogos e Esportes Mágicos]]
+[[Category:British individuals]]
+[[Category:Department of Magical Games and Sports personnel]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

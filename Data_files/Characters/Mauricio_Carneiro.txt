@@ -1,0 +1,41 @@
+{{Youmay|the fictional character|the real-world [[Mauricio Carneiro (real-world)|costume illustrator]]}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Mauricio Carneiro
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidea=
+|job=Fashion designer
+|loyalty=
+}}
+'''Mauricio Carneiro''' was a [[Non-magic people|Muggle]] fashion designer. Some of his creations were were featured in the [[Costume Materialization]] collection opening that was held on [[28 September]], [[1997]], along with other designs from fellow fashion designers [[Emma Vane (Muggle)|Emma Vane]] and [[Julia Dehoff]].<ref name="HPLE">{{HPLE|G}} {{see image|File:CostumeMaterialization.jpg}}</ref>
+
+==Behind the scenes==
+*This character was named after Mauricio Carneiro, who worked as a costume illustrator for every [[Harry Potter films|''Harry Potter'' film]] from ''[[Harry Potter and the Goblet of Fire (film)|Goblet of Fire]]'' onward, and as a costumer for ''[[Harry Potter and the Order of the Phoenix (film)|Order of the Phoenix]]'' and ''[[Harry Potter and the Half-Blood Prince (film)|Half-Blood Prince]]''.<ref>"[http://www.imdb.com/name/nm1769188/ Mauricio Carneiro]" on IMDb</ref>
+
+==Appearances==
+*{{DH|F1}} {{Mentioned on a poster}}
+*{{HPLE}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Carneiro, Mauricio}}
+[[fr:Mauricio Carneiro (Moldu)]]
+[[Category:Fashion designers]]
+[[Category:Males]]
+[[Category:Muggles]]

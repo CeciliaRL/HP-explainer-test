@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = pet
+|image = 
+|name = Black family ghoul
+|born = Before [[1995]]<ref name="OOTP6"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Ghoul]]<ref name="OOTP6"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[House of Black|Black family]]<ref name="OOTP6"/>
+}}
+{{Quote|Sometimes, however, the visitors stayed to help; Tonks joined them for a memorable afternoon in which they found a murderous old ghoul lurking in an upstairs toilet...|The [[Order of the Phoenix]] having discovered this ghoul at 12 Grimmauld Place|Harry Potter and the Order of the Phoenix}}
+This '''[[ghoul]]''' was, at one point, living in one of [[12 Grimmauld Place]]'s bathrooms. Though most ghouls are simple-minded and peaceful, this one was described as "murderous" and was considerably more of a threat than normal. During their cleansing of the house in the summer of [[1995]], [[Harry Potter]], [[Hermione Granger]], [[Sirius Black]] and [[Weasley family|the Weasleys]] came across this ghoul. They managed to get rid of it with the assistance of [[Nymphadora Tonks]], who was visiting that day.<ref name="OOTP6">{{OOTP|B|6}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:12 Grimmauld Place]]
+[[Category:Ghouls]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Pets]]

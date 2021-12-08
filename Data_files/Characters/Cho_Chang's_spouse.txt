@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Cho Chang's spouse
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="JKR"/>
+|nationality = 
+|signature = 
+|title = 
+|alias = 
+|marital = 
+|species = [[Human]]<ref name="JKR"/>
+|gender = <!--Please do NOT add that this character was male unless you have a source. While all known relationships of Cho were with males, this does not exclude the possibility that she could have had a relationship with a member of another gender. -->
+|skin = 
+|eyes = 
+|hair = 
+|height = 
+|weight = 
+|family = *[[Cho Chang]] (wife)<ref name="JKR"/>
+*[[Cho Chang's father|Mr Chang]] (father-in-law)
+*[[Cho Chang's mother|Madam Chang]] (mother-in-law)
+|romances = [[Cho Chang]] (wife)<ref name="JKR"/>
+|boggart = 
+|job = 
+|loyalty = [[Chang family]]<ref name="JKR"/>
+|theme = muggle
+}}
+The '''spouse''' of [[Cho Chang]] was a [[Non-magic people|Muggle]] who married Cho sometime after the [[Battle of Hogwarts]] in [[1998]].<ref name="JKR">''[https://web.archive.org/web/20190403083218/http://blog.nola.com/living/2007/10/new_orleans_students_give_rowl.html New Orleans students give Rowling a rousing welcome]'' from ''[https://www.nola.com/ The Times-Picayune]'' (via ''[https://web.archive.org/ The Internet Archive]'')</ref>
+
+==Behind the scenes==
+*[[J. K. Rowling]] revealed that Cho married a Muggle during a Q&A session following a reading in [[New Orleans]] as part of her tour of U.S. schools. Their name and gender however were not revealed.<ref name="JKR"/>
+
+==Appearances==
+*[[J.K. Rowling New Orleans interview]] {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Marido de Cho Chang]]
+[[ru:Муж Чжоу Чанг]] 
+[[pl:Mąż Cho Chang]]
+[[Category:Chang family]]
+[[Category:Cho Chang's romantic relationships]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Unnamed family members‎]]

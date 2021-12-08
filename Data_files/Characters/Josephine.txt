@@ -1,0 +1,31 @@
+{{Imageless}}
+{{Pet individual infobox
+|image = 
+|name = Josephine
+|born = In or before [[2021]]<ref name="WUSOS"/>
+|died =
+|alias =
+|title =
+|species = [[Zouwu]]<ref name="WUSOS"/>
+|gender = Female<ref name="WUSOS"/>
+|height =
+|hair = 
+|feathers =
+|eyes =
+|skin = 
+|family =
+|loyalty = [[London Zoo]]<ref name="WUSOS"/>
+}}
+'''Josephine''' was a baby [[Zouwu]] in the care of the [[London Zoo]]'s [[London Zoo's Magizoology wing|Magizoology wing]].<ref name="WUSOS"/>
+
+==Biography==
+In [[2021]], Josephine escaped the Magizoology wing and ran outside the Zoo into the [[Marylebone]] district of [[London]], where she was fully visible to the [[Non-magic people|Muggle]] population. After a chase, and one of the largest mass [[Memory Charm]]s in history, she was safely returned to the zoo.<ref name="WUSOS">{{WU}}, Calamity Essentials III, Petting and Scratching Zoo</ref>
+
+==Appearances==
+*{{WU}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:Females]]
+[[Category:Zouwus]]

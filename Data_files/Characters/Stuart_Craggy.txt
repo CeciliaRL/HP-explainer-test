@@ -1,0 +1,69 @@
+{{Youmay|The [[Slytherin]] student and [[Quidditch]] [[Slytherin Quidditch team|team]] [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]]|[[Stuart Craig]] the production designer for the first six films, or the [[Wizardkind|wizard]] whose name was carved into [[Sybill Trelawney]]'s wood panelling, [[Stuart Craggius]]}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Slytherin House Captain's Plaque.jpg|250px]]
+|name = Stuart Craggy
+|born = c. [[1950s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+**[[Slytherin Quidditch team]]
+}}
+'''Stuart Craggy''' was a [[Slytherin]] [[Wizardkind|student]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1960s]]. He was [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]] from [[1964]] to [[1968]].<ref>See [[:File:Slytherin House Captain's Plaque.jpg|this image]] of a prop used in the films on display as part of {{HPE}}.</ref><ref>[http://ab.fanrus.com/SMI/ViP/september/51/213/ ''Harry Potter: The Exhibition'' report] {{Comment|in Russian}}</ref>
+
+==Etymology==
+*The name "Stuart" is from an occupational surname originally belonging to a person who was a steward. It is ultimately derived from Old English ''stig'' "house" and ''weard'' "guard". As a given name, it arose in 19th-century Scotland in honour of the Stuart royal family, which produced several kings and queens of Scotland and Britain between the 14th and 18th centuries.
+*"Craggy" is another term for rugged and uneven terrain.
+
+==Behind the scenes==
+*This individual's name is clearly a reference to [[Stuart Craig]], production designer for all the eight ''Harry Potter'' films.
+
+==Appearances==
+*[[Harry Potter (film series)|''Harry Potter'' films]] {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Jody Jacknife]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]]
+|years=[[1964]]-[[1968]]
+|successor=[[Steve Laughalot]]
+}}
+{{End box}}
+
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Craggy, Stuart}}
+
+[[es:Stuart Craggy]]
+[[pl:Stuart Craggy]]
+[[pt-br:Stuart Craggy]]
+[[ru:Стюарт Крэгги]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

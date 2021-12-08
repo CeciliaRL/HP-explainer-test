@@ -1,0 +1,62 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = veela
+|image = 
+|name = Apolline Delacour's mother
+|born = 
+|died = 
+|blood = 
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|nationality = [[France|French]]<ref name="GOF18"/>
+|species = [[Veela]]<ref name="GOF18"/>
+|gender = Female<ref name="GOF18"/>
+|eyes = 
+|hair = 
+|weight = 
+|height = 
+|family = *[[Apolline Delacour]] (daughter)<ref name="GOF18"/>
+*[[Delacour sisters' father|Monsieur Delacour]] (son-in-law)<ref name="GOF18"/>
+*[[Fleur Delacour]] (granddaughter)<ref name="GOF18"/>
+*[[Gabrielle Delacour]] (granddaughter)
+*[[William Weasley|Bill Weasley]] (grandson-in-law)
+*[[Victoire Weasley]] (great-granddaughter)
+*[[Dominique Weasley]] (great-granddaughter)
+*[[Louis Weasley]] (great-grandson)
+|romances = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|house = 
+|job = 
+|loyalty = [[Delacour family]]<ref name="GOF18"/>
+}}
+{{Dialogue a-b|Garrick Ollivander|Yes, nine and a half inches... inflexible... [[rosewood]]... and containing...dear me...|Fleur Delacour|An 'air from ze 'ead of a Veela. One of my grandmuzzer's.|[[Garrick Ollivander]] and [[Fleur Delacour]] regarding Fleur's wand|Harry Potter and the Goblet of Fire}}
+The '''mother''' of [[Apolline Delacour]] was a [[France|French]] [[Veela]]. Her daughter, a [[half-Veela]], married [[Delacour sisters' father|Monsieur Delacour]], a [[Wizardkind|wizard]], and had two daughters; [[Fleur Delacour|Fleur]] and [[Gabrielle Delacour|Gabrielle]]. When it came time for Fleur to have her [[Fleur Delacour's wand|first wand]], she donated one of her [[Veela hair|hairs]] to serve as its [[wand core|core]].<ref name="GOF18">{{GOF|B|18}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}} {{Possible}}
+*{{GOF|F}} {{Possible}}
+*{{DH}} {{Possible}}
+*{{DH|F1}} {{Possible}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Delacour, Apolline's mother}}
+[[de2:Apolline Delacours Mutter]]
+[[es:Madre de Apolline Delacour]]
+[[fr:Grand-mère de Fleur Delacour]]
+[[pl:Matka Apoloni Delacour]]  
+[[ru:Бабушка Флёр и Габриэль Делакур]]
+[[vi:Mẹ của Apoline Delacour]]
+[[zh:阿波琳·德拉库尔的母亲]]
+[[pt-br:Mãe de Apolline Delacour]]
+[[Category:Delacour family]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎]]
+[[Category:Veela]]

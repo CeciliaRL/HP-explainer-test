@@ -1,0 +1,45 @@
+{{Youmay|[[Petunia Dursley]]'s friend|[[Yvonne Bampton]]}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Yvonne
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="PS2"/>
+|nationality = [[Great Britain|British]]<ref name="PS2"/>
+|alias = 
+|title = 
+|marital = 
+|species = [[Human]]<ref name="PS2"/>
+|gender = Female<ref name="PS2"/>
+|skin = 
+|hair = 
+|eyes = 
+|weight = 
+|height = 
+|family = 
+|romances = 
+|boggart = 
+|job = 
+|loyalty = 
+}}
+{{Dialogue a-b|Vernon Dursley|What about what’s-her-name, your friend — Yvonne?|Petunia Dursley|On vacation in Majorca.|A brief discussion about Yvonne|Harry Potter and the Philosopher's Stone}}
+'''Yvonne''' was a [[Non-magic people|Muggle]] woman who was a friend of [[Petunia Dursley]].<ref name="PS2"/>
+
+==Biography==
+On [[23 June]] [[1991]], [[Vernon Dursley]] considered her as a replacement babysitter for [[Harry Potter]] when [[Arabella Figg]] broke her leg. Unfortunately for the [[Dursley family|Dursleys]], she was on holiday in [[Majorca]] at the time (which Petunia bluntly reminded Vernon of), and they were forced to take Harry to the [[Zoo]] on [[Dudley Dursley]]'s [[Dudley Dursley's eleventh birthday|eleventh birthday]].<ref name="PS2">{{PS|B|2}}</ref>
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Yvonne]]
+[[es:Yvonne]]
+[[fr:Yvonne]]
+[[nl:Yvonne]]
+[[pl:Yvonne]]
+[[ru:Ивонн]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggles]]

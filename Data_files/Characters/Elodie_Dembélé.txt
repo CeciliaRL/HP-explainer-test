@@ -1,0 +1,31 @@
+{{Individual infobox
+|name = Elodie Dembélé
+|born = Between [[14 April]], [[1995]] and [[13 April]] [[1996]],<ref>Elodie Dembélé was described as "aged only 18" on the April 13, 2014 article about the Quidditch match she was in, meaning she has to have been born between these two dates.</ref> [[Ivory Coast]] (possibly)
+|nationality = [[Ivory Coast|Ivorian]]
+|title = [[Chaser]]
+|species = [[Human]]
+|gender = Female
+|job = [[Chaser]] for the [[Ivorian National Quidditch team]]
+|loyalty = [[Ivorian National Quidditch team]]
+|theme = quidditch-player
+}}'''Elodie Dembélé''' (b. [[1995]] or [[1996]]) was an [[Ivory Coast|Ivorian]] [[Wizardkind|witch]] who played as a [[Chaser]] for the [[2014]] [[Ivorian National Quidditch team]]. During the first match of the [[2014 Quidditch World Cup]] against [[Norwegian National Quidditch team|Norway]], Dembélé scored seven of Ivory Coast's ten goals, despite her young age.<ref name=PM>{{PM}} - [[NORWAY VERSUS IVORY COAST]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Dembélé, Elodie}}
+
+[[de:Elodie Dembélé]]
+[[fr:Elodie Dembélé]]
+[[pl:Elodie Dembélé]]
+[[ru:Элоди Димбеле]]
+
+[[Category:1990s births]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:Ivorian individuals]]
+[[Category:Wizards]]

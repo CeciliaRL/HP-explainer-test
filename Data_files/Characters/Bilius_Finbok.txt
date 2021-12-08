@@ -1,0 +1,67 @@
+{{Youmay|an employee of the [[Department of Intoxicating Substances]]|[[Bilius|Ronald Weasley's uncle]]}}
+{{Individual infobox
+|image = [[File:Bilius Finbok.png|250px]]
+|name = Bilius Finbok
+|born = 
+|died = 
+|alias = 
+|title = 
+|signature = 
+|marital = 
+|blood = 
+|nationality = [[England|English]]<ref name="FBC5"/>
+|species = [[Human]]<ref name="FBC5"/>
+|gender = Male<ref name="FBC5"/>
+|hair = Greyish brown<ref name="FBC5"/>
+|eyes = Green<ref name="FBC5"/>
+|skin = White<ref name="FBC5"/>
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|job = *Employee in the [[Department of Intoxicating Substances]]<ref name="FBC5"/>
+*Amateur [[Potioneer]]<ref name="FBC5"/>
+|house = [[Hufflepuff]] (possibly)<ref name="FBC5"/>
+|loyalty = *[[British Ministry of Magic]]<ref name="FBC5"/>
+**[[Department of Magical Law Enforcement]]
+***[[Department of Intoxicating Substances]]<ref name="FBC5"/>
+|theme = mom
+}}
+{{Dialogue a-b|Cerberus Langarm|We've got ourselves a missing wizard in Cornwall. Ever heard of Bilius Finbok?|Mathilda Grimblehawk|Nervous chap? Works in the Department of Intoxicating Substances? Smells of sulphur? Mixes fantastic cocktails?|[[Cerberus Langarm]] and [[Mathilda Grimblehawk]] discuss Bilius Finbok's disappearance|Fantastic Beasts: Cases from the Wizarding World}}
+'''Bilius Finbok''' was an [[England|English]] [[Wizardkind|wizard]] that lived in [[Cornwall]] and worked in the [[British Ministry of Magic]]'s [[Department of Intoxicating Substances]]. He was described by [[Mathilda Grimblehawk]] as smelling of sulphur and able to mix terrific [[alcohol|cocktails]].<ref name="FBC5">{{FBC|5}}</ref>
+
+==Biography==
+Finbok may have been in [[Hufflepuff|Hufflepuff House]] at [[Hogwarts School of Witchcraft and Wizardry]] as there was a Hufflepuff [[House scarf|scarf]] in his cottage and in his secret owlery.<ref name="FBC5"/>
+
+His disappearance from his cottage was investigated by Mathilda Grimblehawk and her partner. He was found to have been transported to [[St David's Hospital|St David's]], a [[Non-magic people|Muggle]] hospital, after his Muggle neighbour [[Sara Farnham]] discovered him injured and unconscious.<ref name="FBC5"/>
+
+Ultimately, his injuries were linked to the use of illegal materials from [[magic]]al [[beast]]s in the brewing of [[potion]]s, for which he was summoned to appear before the Ministry.<ref name="FBC5"/>
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': Finbok was proficient in the [[magic]]al art and [[science]] of potion-making, brewing many experimental mixtures in his spare time as an amateur [[Potioneer]]. These used an eclectic range of different ingredients, some of which were illegally sourced.<ref name="FBC5" />
+*'''Expert mixologist:''' Finbok was known for his skill in mixing {{w|cocktail}}s. This was likely an offshoot of potion experiments, and his familiarity with various types of alcohol through his work.
+*'''Underworld connections:''' Some of his potion ingredients were illegally sourced, suggesting he was familiar with at least one disreputable merchant to obtain them.
+
+==Appearances==
+
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Potions}}
+{{DEFAULTSORT:Finbok, Bilius}}
+[[es:Bilius Finbok]]
+[[pl:Bilius Finbok]]
+[[fr:Bilius Finbok]]
+[[ru:Билиус Финбок]]
+[[Category:Criminals]]
+[[Category:English individuals]]
+[[Category:Green-eyed individuals]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Potioneers]]
+[[Category:Wizards]]

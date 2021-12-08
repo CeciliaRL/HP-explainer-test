@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = squib
+|image = 
+|name = Dolores Umbridge's brother
+|born = [[1973]] or earlier<ref name=birthdate>Dolores Umbridge's Pottermore biography implies that she was born no later than 1965. The fact that the family was still united when this individual showed signs of being a Squib implies that he was still with his sister at age seven. As the family split up when Dolores was fifteen, her brother cannot be more than eight years younger than her. See [http://harrypotter.wikia.com/wiki/Talk:Dolores_Umbridge%27s_brother?oldid=875328 discussion on talk page].</ref>
+|died = 
+|blood = [[Squib]]<ref name="PM"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Orford Umbridge]] (father)<ref name="PM"/>
+*[[Ellen Cracknell]] (mother)<ref name="PM"/>
+*[[Dolores Umbridge]] (sister)<ref name="PM"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Umbridge family]] (formerly)<ref name="PM" />
+*[[Cracknell family]] (currently; possibly)<ref name="PM" />
+}}
+'''Mr Umbridge''' was a [[Squib]], son of [[Wizardkind|wizard]] [[Orford Umbridge]] and [[Non-magic people|Muggle]] [[Ellen Cracknell]].<ref name="PM">{{WW|dolores-umbridge}}</ref>
+
+==Biography==
+Umbridge was born in [[1973]] or earlier to the [[Wizardkind|wizard]] [[Orford Umbridge]] and [[Non-magic people|Muggle]] [[Ellen Cracknell]], and had an older sister named [[Dolores Umbridge|Dolores]]. His status as a [[Squib]] would often lead his [[Orford Umbridge|father]] and sister to blame his [[Ellen Cracknell|mother]] for being the cause of it, which led the [[Umbridge family|family]] to be fraught with tensions. When Dolores was fifteen years old, his parents separated and he would return to the [[Muggle world]] with his mother, while his sister would stay with his father in the [[wizarding world]] and would never speak of him again.<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Umbridge, Dolores's brother}}
+[[es:Hermano de Dolores Umbridge]]
+[[pl:Brat Dolores Umbridge]]
+[[ru:Брат Долорес Амбридж]]
+[[fr:Frère de Dolores Ombrage]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Squibs]]
+[[Category:Umbridge family]]
+[[Category:Unnamed family members]]

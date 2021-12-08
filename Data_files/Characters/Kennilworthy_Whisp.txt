@@ -1,0 +1,70 @@
+{{Spoiler|WU|HM}}
+{{Individual infobox
+|theme = wizard
+|image = Kennilworthy Whisp.png
+|name = Kennilworthy Whisp
+|born = [[1930s]] or earlier<ref name="age">{{QTA}} was published as early as [[1952]] so the author would likely have to be born by the mid 1930s.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[England|English]]<ref name="QTAR"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="QTAR"/>
+|gender = Male<ref name="QTAR"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Biographical author<ref name="QTAR"/>
+|house = 
+|loyalty = [[Wigtown Wanderers]]<ref name="QTAR"/>
+}}
+'''Kennilworthy Whisp''' was an [[England|English]] [[Wizardkind|wizard]], author and [[Quidditch]] expert/fanatic, known for having written a number of [[Quidditch]]-related works, including the best-selling book {{QTA}}. Whisp resided in [[Nottinghamshire]] in [[England]], and divided his time between his home and "wherever the [[Wigtown Wanderers]] were playing". His hobbies included playing [[backgammon]], [[vegetarian cookery]], and collecting vintage [[broomstick]]s.<ref name="QTAR">{{QTA|R}}</ref> Despite liking vegetarian cookery, he was not a vegetarian.<ref name="JKRtwitter">[https://twitter.com/jk_rowling/status/975836694858616834 @tylorstarr: Do you think Newt and Kennilworthy are friends? And if so, do they sit around making vegetarian dishes for each other? @jk_rowling: No, I don't think Newt and Kennilworthy would be friends at all. *Very* different kinds of people (and Kennilworthy would definitely eat steak.)] by [https://twitter.com/jk_rowling J.K. Rowling on Twitter]</ref>
+
+==Published works==
+*{{QTA}}
+*''[[The Wonder of Wigtown Wanderers]]''
+*''[[He Flew Like a Madman]]'' (a biography of [[Dai Llewellyn|"Dangerous" Dai Llewellyn]])
+*''[[Beating the Bludgers - A Study of Defensive Strategies in Quidditch]]''
+
+==Etymology==
+The author's surname may be derived from the Old English word "Wisp", meaning a small bundle of straw (such as might be found at the end of a broom). "{{W|Kenilworth}}" is also the name of a town in Warwickshire, [[England]].
+==Behind the scenes==
+*[[J. K. Rowling]] does not think Kennilworthy Whisp and [[Newton Scamander]] would be friends.<ref name="JKRtwitter"/>
+*[[Emily Gravett]], the illustrator of {{QTA|IE}}, used her father as the image for Kennilworthy Whisp in said edition.<ref>[https://www.facebook.com/watch/?v=318293065891693 "Illustrating Quidditch Through the Ages with Emily Gravett"] on [https://www.facebook.com/HarryPotterBooksfromBloomsbury @HarryPotterBooksfromBloomsbury at Facebook] - {{c|stated during 1:13-1:38 of the interview video}}</ref><ref>[https://www.wizardingworld.com/news/interview-with-emily-gravett-for-quidditch-through-the-ages-illustrated-edition News: "Q&A with Emily Gravett: behind the scenes of the art in Quidditch Through the Ages Illustrated Edition"] at {{WW}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st}}
+*{{FB|R}} {{C|Mentioned in footnotes}}
+*{{LEGO|Y1}} {{C|Mentioned only in PSP/Nintendo DS versions}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+*''[[J. K. Rowling's Twitter account]]'' {{Mention}}
+*{{HM}} {{Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Whisp, Kennilworthy}}
+[[de:Kennilworthy Whisp]]
+[[de2:Kennilworthy Whisp]]
+[[es:Kennilworthy Whisp]]
+[[fr:Kennilworthy Whisp]]
+[[pl:Kennilworthy Whisp]]
+[[ru:Кеннилуорти Уисп]]
+[[vi:Kennilworthy Whisp]]
+[[zh:肯尼沃思·惠斯普]]
+[[Category:Biographers]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Wigtown Wanderers supporters]]
+[[Category:Wizards]]

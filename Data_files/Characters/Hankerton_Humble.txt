@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Hankerton Humble
+|born = [[First millennium A.D.|976]] or earlier<ref>Age requirement is 17 to be employed in the position of caretaker</ref>
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]] (possibly)<ref name="Blood">As [[Salazar Slytherin]] would not teach [[Muggle-born]]s, it's unlikely he would have hired them as staff.</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Hogwarts Caretaker|Caretaker]]<ref name="WW"/>
+|signature = 
+|species = [[Human]]<ref name="WW"/>
+|gender = Male<ref name="WW"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = Humble family
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Hogwarts Caretaker]]<ref name="WW"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="WW"/>
+}}
+'''Hankerton Humble''' was the first ever [[Hogwarts Caretaker|caretaker]] of [[Hogwarts School of Witchcraft and Wizardry]]. He was hired by the [[Hogwarts founders|founders of Hogwarts]] themselves, and began the never-ending caretaker tradition of hating [[Peeves]].<ref name="WW">{{WW|peeves}}</ref>
+
+==Biography==
+Hankerton was born sometime in the [[Middle Ages]], presumably in [[Great Britain]] or [[Ireland]] given that Hogwarts only accepts students from there.<ref name="WW"/>
+
+Soon after the founding of Hogwarts, he was accepted as the caretaker there. During his time, he started the everlasting tradition of caretakers' hating [[Peeves]]; it is unknown how he got along with the students, though judging by his name it may have been fairly well. Sometime before [[1876]], however, he had retired and was succeeded (though by how many generations is unknown) by [[Rancorous Carpe]].<ref name="WW"/>
+
+==Etymology==
+''Hankerton'' is a town in [[Wiltshire]], known for its ancient church. ''Humble'' means "meek", or "polite", possibly reflecting on his personality. ''Humble'' could also be short for "humblebee" another term for "bumblebee."
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=None (position created)
+|position=[[Hogwarts Caretaker|Caretaker]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=Early [[11th century]]
+|successor=Unknown, eventually [[Rancorous Carpe]]
+}}
+{{End box}}
+{{Staff}}
+
+[[de:Hankerton Humble]]
+[[es:Hankerton Humble]]
+[[fr:Humblius Enkarton]]
+[[it:Hankerton Humble]]
+{{DEFAULTSORT:Humble, Hankerton}}
+[[Category:British or Irish individuals]]
+[[Category:Historical figures]]
+[[Category:Hogwarts Caretakers]]
+[[Category:Males]]
+[[Category:Wizards]]

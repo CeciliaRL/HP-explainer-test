@@ -1,0 +1,42 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mark Constantine
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality =[[British]]<ref name="HPLE"/> 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HPLE"/>
+|gender = Male<ref name="HPLE"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Co-founder of [[Lush]]<ref name="HPLE"/>
+|house = 
+|loyalty = [[Lush]]<ref name="HPLE"/>
+}}
+'''Mark Constantine''' was a [[Great Britain|British]] entrepreneur and the co-founder of the [[Lush]] cosmetics company. In July of [[1996]], [[Chancellor of the Exchequer]] [[Alistair Darling]] announced "controversial changes" to the [[capital gains tax]]. Mark Constantine told ''[[The Guardian]]'' that the measure would alienate the business community that [[Gordon Brown]], as Chancellor, had fought to attract to the [[Labour Party]].<ref name="HPLE">{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Appearances==
+*{{HBP|F}} {{1st Mention}}
+*{{HPLE}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Constantine, Mark}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Cybèle Peltier.png|x250px]]
+|name = Cybèle Peltier
+|born = 
+|died = 
+|blood = 
+|nationality = [[France|French]]<ref name="QWC"/>
+|alias = 
+|title = [[Seeker]]<ref name="QWC"/>
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|hair = Black<ref name="QWC"/>
+|eyes = Brown<ref name="QWC"/>
+|skin = Light tan<ref name="QWC"/>
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] for the [[French National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[French National Quidditch team]]<ref name="QWC"/>
+}}
+'''Cybèle Peltier'''<ref>''[http://www.nedergamen.nl/games/hpwkz ''Harry Potter: WK Zwerkbal'' credits list]'' (in Dutch)</ref> was a [[France|French]] [[Wizardkind|witch]] who played as [[Seeker]] on the [[French National Quidditch team]].<ref name="QWC">{{QWC}}</ref>
+
+==Etymology==
+The meaning of the name "Cybèle" is unknown. This was the name of the Phrygian goddess of fertility and nature, later worshipped by the Greeks and Romans.
+
+==Appearances==
+{{Imagecat|Images of Cybèle Peltier}}
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Peltier, Cybèle}}
+[[fr:Cybèle Peltier]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Seekers]]
+[[Category:Wizards]]

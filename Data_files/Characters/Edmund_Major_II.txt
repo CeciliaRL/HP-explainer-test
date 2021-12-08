@@ -1,0 +1,37 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Edmund Major II
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Author
+|house=
+|loyalty=
+}}
+'''Edmund Major II''' was a [[Non-magic people|Muggle]] author. One of his books was adapted into the musical play ''[[Oh, Rosana!]]'' by [[Chester Hidland]].<ref name="rosana">{{FB|F}} {{See image|File:Oh, Rosana!.png}}</ref>
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Major, Edmund II}}
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Muggles]]

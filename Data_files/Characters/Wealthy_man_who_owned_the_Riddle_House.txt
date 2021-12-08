@@ -1,0 +1,40 @@
+{{Conjecture}}
+{{Individual infobox
+|image = 
+|name = Riddle House owner
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="GOF1"/>
+|nationality = [[Great Britain|British]]<ref name="GOF1"/>
+|alias = 
+|signature = 
+|martial = 
+|species = [[Human]]<ref name="GOF1"/>
+|gender = Male<ref name="GOF1"/>
+|skin = 
+|eyes = 
+|hair = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|boggart = 
+|job = 
+|loyalty = 
+|theme = muggle
+}}
+{{Quote|The wealthy man who owned the Riddle House these days neither lived there nor put it to any use; they said in the village that he kept it for "tax reasons", though nobody was very clear what these might be. The wealthy owner continued to pay Frank to do the gardening, however.|Owner of the [[Riddle House]]|Harry Potter and the Goblet of Fire}}
+This '''individual''' (fl. [[1994]]) was a wealthy [[Non-magic people|Muggle]] man, who owned the [[Riddle House]] in the [[1990s]].<ref name="GOF1"/>
+
+He did not live in it, nor put it to any use, although he still paid [[Frank Bryce]] to do the gardening before his death in [[1994]]. Nobody in [[Little Hangleton]] seemed to know why he kept the house, although it was said it was for "''tax reasons"''.<ref name="GOF1">{{GOF|B|1}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Riche homme d'affaires]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Riddle House]]
+[[Category:Unidentified Muggles‎]]

@@ -1,0 +1,76 @@
+{{Individual infobox
+|theme = mom
+|image = Orabella Nuttley.png
+|name = Orabella Nuttley
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WBoS" />
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WBoS" />
+|gender = Female<ref name="WBoS" />
+|height = 
+|weight = 
+|hair = Red<ref name="WBoS" />
+|eyes = 
+|skin = White<ref name="WBoS" />
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Clerk in the [[Improper Use of Magic Office]] at the [[Ministry of Magic]]<ref name="WBoS" />
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="WBoS" />
+**[[Improper Use of Magic Office]]<ref name="WBoS" />
+*[[Order of Merlin]]<ref name="WBoS" />
+}}
+'''Orabella Nuttley''', {{OM|First}}, was a [[Great Britain|British]] [[wizardkind|witch]] who worked for the [[Improper Use of Magic Office]] in the mid-[[18th century]]. In her spare time, she experimented with [[spell]]s, and invented the [[Mending Charm]].
+
+==Biography==
+Nuttley worked as a low-ranking clerk in the [[Improper Use of Magic Office]] at the [[Ministry of Magic]]. Due to her extreme shyness, she was unable to advance in her career, and typically got assigned menial tasks such as filing, dusting, and cleaning out departmental [[owl]]s. However, in her free time at home, she enjoyed [[spell creation|experimenting with spells]], attempting to improve the [[magic]] she had been taught as a child.<ref name="WBoS">{{WBS}}</ref>
+
+In [[1754]], [[Torquil McTavish]] of [[Scotland]] and [[Silvio Astolfi]] of [[Italy]], bitter rivals and two of the most revered [[Broomstick|broom]] flyers in [[Europe]], agreed to hold a [[broom racing|race]] from [[Aberdeen]] to [[Rome]]. Representatives of both countries planned to meet them at the finish line. Nuttley was invited along and given the job of managing luggage and organising [[Portkey]]s.<ref name="WBoS" />
+
+The race was held at night so as not to draw the attention of [[Non-magic people|Muggles]]. In the morning, as the sun was rising, McTavish and Astolfi finally arrived in Rome, and were seen flying toward the finish line at the Colosseum (a [[coliseum]]). At that point, a fight broke out between fans of both racers that had gathered at the finish line, and though the exact procession of events is debated, an explosion rocked the Colosseum, reducing it to rubble. During the course of the altercation, Astolfi was also [[Pullus|transformed]] into a [[chicken (animal)|chicken]], and McTavish hit with a [[Knee-reversal hex|hex that reversed his knees]].<ref name="WBoS" />
+
+[[File:OrabellaNuttleyReparoColiseum.png|250px|thumb|left|Orabella Nuttley casts her [[Mending Charm]] at the ruined Colosseum (a [[coliseum]]) before the governmental representatives of Britain and Italy]]
+
+For a few minutes, it seemed as though the greatest [[International Statute of Wizarding Secrecy|Statute of Secrecy]] breach in history had just transpired, as the loud explosion had awoken half of Rome and no one in the crowd had any idea how to fix the ruined Colosseum. Then at last Nuttley stepped forward and fixed several columns with the [[Mending Charm]] she had invented. The government ministers were stunned by this and begged Nuttley to teach them the spell. When Muggles finally arrived at the scene, they found only a few strangely-clad men attempting to calm Astolfi, who was still a chicken.<ref name="WBoS" />
+
+Nuttley was awarded an [[Order of Merlin]], First Class for her actions, and her spell went on to be widely-used in the [[wizarding world]].<ref name="WBoS" />
+
+==Physical description==
+Nuttley had curly red hair and wore [[glasses]].<ref name="WBoS" />​ As part of her job as a clerk in the Ministry of Magic, she wore a lilac [[pointed hat]] and long grey and lilac overalls, and plain black shoes.<ref name="WBoS" />
+
+==Personality and traits==
+Timid and extremely shy, she tended to become flustered whenever others spoke to her, and typically said very little during meetings at work. However, she was also very clever and inventive, experimenting with magic and inventing spells in her spare time. She was also very quick-witted, ingeniously coming with the idea to magically repair the destroyed Colosseum almost instantly, averting the event to being witnessed by Muggles, and saving the Wizards present from exposure to them.<ref name="WBoS"/>
+
+==Magical abilities and skills==
+*'''[[Spell creation]]''': Orabella Nuttley often practised and experimented with [[spell]]s in her free time, and she successfully created the incredibly useful and practical [[Mending Charm]], a very impressive [[magic]]al feat.<ref name="WBoS"/>
+*'''[[Charm]]s''': Orabella Nuttley was talented with charm-work, and she was highly capable of using the Mending Charm to repair several large columns of the destroyed Colosseum. Her skill with this charm meant she was able to teach it to other Ministry wizards in order for them all to fully repair the Colosseum.<ref name="WBoS"/> 
+
+==Appearances==
+*{{PM}} {{1st}} {{C|Appears in the [[Book of Spells challenges]]}}
+*{{WBS}} {{1st ID}}
+
+==Notes and references==
+{{Reflist}}
+{{Charms}}
+{{Ministry Level 2 employees}}
+{{DEFAULTSORT:Nuttley, Orabella}}
+[[es:Orabella Nuttley]]
+[[pl:Orabella Nuttley]]
+[[fr:Orabella Nutty]]
+[[ru:Орабелла Наттли]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Improper Use of Magic Office personnel]]
+[[Category:Order of Merlin recipients]]
+[[Category:Spell inventors]]
+[[Category:Wizards]]

@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:TertiusBrothers.png|250px]]
+|name = Tertius's brothers
+|born =
+|died =
+|alias =
+|title =
+|signature =
+|blood = [[Non-magic people|Muggles]]<ref name="WBP"/>
+|nationality = [[Scotland|Scottish]]<ref name="WBP"/>
+|species = [[Human]]s<ref name="WBP"/>
+|gender = Males<ref name="WBP"/>
+|hair = *Blond<ref name="WBP"/>
+*Black<ref name="WBP"/>
+|skin = Fair<ref name="WBP"/>
+|eyes =
+|height =
+|weight =
+|family = [[Tertius]] (brother)<ref name="WBP"/>
+|job =
+|loyalty =
+|theme = muggle
+}}
+The '''two older brothers''' of [[Tertius]] (fl. [[16th century]]) were [[Non-magic people|Muggle]] brothers living somewhere in [[Scotland]].<ref name="WBP"/>
+
+==Biography==
+When their parents died, these two brothers chased Tertius out of their house and broke his [[wand]], afraid of him because he was a [[Wizardkind|wizard]]. Sometime afterwards, [[Zygmunt Budge]], who had heard this story from Tertius, sent these two Muggles a large bottle of [[Shrinking Solution]] by [[Owl Postal Service|owl post]], claiming it to be [[Butterbeer]]. This shrank them to the size of [[beetle]]s and, according to the story Budge heard, spend the next few days hiding under their cupboard from their [[cat]].<ref name="WBP">{{WBP}}</ref>
+
+==Appearances==
+*{{WBP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Frères de Tertius]]
+[[pl:Bracia Tertiusa]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Orphans]]
+[[Category:Scottish individuals]]

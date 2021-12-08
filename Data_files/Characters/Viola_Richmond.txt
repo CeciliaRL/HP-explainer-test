@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Viola Richmond
+|born = [[1 September]] [[1975]] - [[31 August]] [[1982]]<ref>She was at Hogwarts during the 1993-1994 school year. 1 September is the earliest birthday to not be able to go to Hogwarts that year, upon turning 11. 31 August is the latest birthday to be able to go to Hogwarts that year, upon turning 11.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+'''Viola Richmond''' was a [[Slytherin]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]], and possibly also the [[1980s]] or [[2000s]]. She was seen walking around the school during the [[1993-1994 school year]].
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Richmond, Viola}}
+
+[[pl:Viola Richmond]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 20th century]]
+[[Category:Wizards]]

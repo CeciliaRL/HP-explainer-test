@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Moribund
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Owner of [[Moribund's]]<ref name="COSG"/>
+|house = 
+|loyalty = [[Moribund's]]<ref name="COSG"/>
+}}
+'''Moribund''' was the shopkeeper of [[Moribund's]], in [[Knockturn Alley]]. The shop is the neighbouring shop of [[The Spiny Serpent]] and is opposite [[Borgin and Burkes]]. The shop's door is kept locked at all times, despite the shop being open. This allows Moribund to have a select customer market. As the forebear of shopkeeper [[Garrick Ollivander]] did in the case of [[Ollivanders]], Moribund chose to give his establishment the family name. The shop is lit by candle light and has a rather messy exterior.<ref name="COSG">{{COS|G}}</ref>
+
+==Etymology==
+'Moribund' is of Latin origin, mori - to die and bundus being a suffix. Moribund is also an adjective having three defintions: 1.in a dying state; near death, 2. on the verge of extinction or termination, 3. not progressing or advancing; stagnant. In its modern usage, it often suggests an apathy and listlessness which preclude much hope of improvement.
+
+==Appearances==
+*{{COS|G}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Knockturn Alley}}
+[[es:Sr. Moribundo]]
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

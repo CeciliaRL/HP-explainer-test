@@ -1,0 +1,27 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Unidentified old woman during the Battle of Hogwarts.jpg|250px]]
+|name = Unidentified old woman
+|nationality = [[Great Britain|British]]<ref name="DHF2"/>
+|species = [[Human]]<ref name="DHF2"/>
+|gender = Female<ref name="DHF2"/>
+|hair = Grey<ref name="DHF2"/>
+|skin = Light<ref name="DHF2"/>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+|theme = wizard
+}}
+This '''individual''' was a [[Wizardkind|witch]] who fought during the [[Battle of Hogwarts]]. She led some students to the [[First-floor corridor]].<ref name="DHF2">{{DH|F2}}</ref> It is unknown if she survived.
+
+==Behind the scenes==
+*This character may be [[Septima Vector]], [[Irma Pince]], [[Bathsheda Babbling]], [[Wilhelmina Grubbly-Plank]] or another as yet unidentified professor. Alternatively, she may be the teacher of [[Advanced Arithmancy Studies]], [[Ancient Studies]], [[Music]], [[Muggle Music]], [[Art]], [[Muggle Art]], [[Ghoul Studies]] or [[Alchemy (class)|Alchemy]]. Similarly she could have been one of the members of the [[Order of the Phoenix]].
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,36 @@
+{{Individual infobox
+|name = Peasant woman
+|theme = muggle
+|born =
+|died =
+|title =
+|alias =
+|signature =
+|blood = [[Non-magic people|Muggle]]<ref name="TBB"/>
+|species = [[Human]]<ref name="TBB"/>
+|gender = Female<ref name="TBB"/>
+|hair =
+|eyes =
+|skin =
+|height =
+|weight =
+|family = [[Peasant woman|Grandmother]]<ref name="TBB"/>
+|job =
+|loyalty =
+}}
+{{Dialogue a-b|Peasant woman|My granddaughter is afflicted by a crop of warts, sir. Your father used to mix a special poultice in that old cooking pot –|Wizard|Begone! What care I for your brat's warts?|The [[peasant woman]] and the [[Wizard (The Wizard and the Hopping Pot)|Wizard]]|The Tales of Beedle the Bard (real)}}
+
+The '''peasant woman's granddaughter''' was a character in the tale ''[[The Wizard and the Hopping Pot]]'' by [[Beedle the Bard]]. She was afflicted by a crop of warts. A [[Wizard's father (The Wizard and the Hopping Pot)|kindly old wizard]] used to make a [[poultice for warts|special poultice]] for her warts but, when he died, [[Wizard (The Wizard and the Hopping Pot)|his son]] rudely refused to give her the potion. Later, when the Wizard could bear no more of his father's [[The Hopping Pot|lucky cooking pot]], he [[Vanishing Spell|Vanished]] the little girl's warts in her sleep.<ref name="TBB">{{TBB|W}}</ref>
+
+==Appearances==
+*{{TBB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Tales of Beedle}}
+
+[[es:Nieta de la campesina (El Mago y el Cazo Saltarín)]]
+[[Category:Females]]
+[[Category:Fictional characters]]
+[[Category:Muggles]]
+[[Category:The Wizard and the Hopping Pot]]

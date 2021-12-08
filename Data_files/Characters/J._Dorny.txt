@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = J. Dorny
+|born = c. [[1970s]]- [[1980s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="QTAR"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="QTAR"/>
+}}
+'''J. Dorny''' was a [[Wizardkind|wizard or witch]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. Dorny borrowed the [[Hogwarts Library]] copy of {{QTA}} after [[Cassius Warrington|C. Warrington]]. It was to be returned by [[6 December]].<ref name="QTAR">{{QTA|R}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dorny, J.}}
+[[fr:J. Dorny]]
+[[pl:J. Dorny]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unknown House]]
+[[Category:Wizards|Dorney, J.]]

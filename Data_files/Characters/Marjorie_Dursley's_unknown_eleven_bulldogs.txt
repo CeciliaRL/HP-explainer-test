@@ -1,0 +1,33 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = 
+|name = Unknown eleven bulldogs
+|born = Before [[1993]]
+|died = 
+|alias = 
+|title = 
+|species = [[Bulldog]]s<ref name="POA2"/>
+|gender = Males, Females
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Marjorie Dursley]]<ref name="POA2"/>
+}}
+{{Quote|It's normally just a fry-up for me of an evening, with twelve dogs to look after ...|[[Marjorie Dursley]] about looking after her eleven bulldogs and [[Ripper]]|Harry Potter and the Prisoner of Azkaban}}
+These '''unknown eleven bulldogs''' were pets of [[Marjorie Dursley]], the twelfth being [[Ripper]]. They were not happy to be home alone when Marge would leave to visit her [[Dursley family|family]], but not as bad as [[Ripper]], who would whine without his owner.<ref name="POA2">{{POA|B|2}}</ref>
+
+==Appearances==
+*{{POA}} {{1st Mention}}
+*{{POA|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Jedenaście buldogów Marge Dursley]]
+[[Category:20th century births]]
+[[Category:Females]]
+[[Category:Individual dogs]]
+[[Category:Males]]
+[[Category:Marjorie Dursley's possessions]]

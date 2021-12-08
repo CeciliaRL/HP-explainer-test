@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Hufflepuff boy
+|born = on or before [[31 August]] [[1981]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSF"/>
+|gender = Male<ref name="COSF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="COSF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSF"/>
+**[[Hufflepuff]]<ref name="COSF"/>
+}}
+{{Dialogue a-b|Boy|Welcome back, Sir Nicholas.|Nick|Thank you.|The boy and Sir Nicholas|Harry Potter and the Chamber of Secrets (film)}}
+This '''[[Wizardkind|wizard]]''' was a student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]] and was sorted into [[Hufflepuff]]. He greeted [[Nicholas de Mimsy-Porpington|Sir Nicholas]] for being back after he was [[Petrification|petrified]].<ref name="COSF">{{COS|F}}</ref>
+
+==Appearances==
+*{{COS|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hufflepuff boy that greets Sir Nicholas}}
+
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Hufflepuffs]]
+[[Category:Wizards]]

@@ -1,0 +1,36 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Muggle football commentator
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]<ref name="DHG1"/>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DHG1"/>
+|gender=Male<ref name="DHG1"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Football commentator<ref name="DHG1"/>
+|loyalty=[[Non-magic people|Muggle]] radio station<ref name="DHG1"/>
+}}
+{{Quote|And it's two-nil to City, the goal bouncing in off the post and past the [[Unidentified goalkeeper|keeper]]'s outstretched arms!|Match report on [[Non-magic people|Muggle]] radio.|Harry Potter and the Deathly Hallows: Part 1 (video game)}}
+This '''unidentified man''' was a commentator in a [[football]] match between [[City (football club)|City]] and another team.<ref name="DHG1">{{DH|G1}}</ref>
+
+==Appearances==
+*{{DH|G1}} {{1st}} {{Voice}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Broadcasters]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

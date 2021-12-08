@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = quidditch-player
+|image =
+|name = Wladyslaw Wolfke
+|born = After [[1976]]<ref name="age">Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref>
+|died =
+|blood =
+|title =
+|alias =
+|nationality = [[Poland|Polish]]<ref name="PM"/>
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|hair =
+|eyes =
+|skin =
+|height =
+|weight =
+|family =
+|romances =
+|wand =
+|animagus =
+|patronus =
+|boggart =
+|job = [[Seeker]] for the [[Polish National Quidditch team]]<ref name="PM"/>
+|house =
+|loyalty = [[Polish National Quidditch team]]<ref name="PM"/>
+}}
+'''Wladyslaw Wolfke''' (pl. Władysław Wroński) was a [[Poland|Polish]] [[wizardkind|wizard]] who played as the [[Seeker]] for the [[2014]] [[Polish National Quidditch team]].<ref name="PM"/>
+
+==Biography==
+He played in the seventh round match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], against [[Japanese National Quidditch team|Japan]]. Wolfke was described as "a daring and graceful flier" by [[Ginevra Weasley|Ginny Potter]]. Wolfke was unlucky enough to miss the [[Golden Snitch|Snitch]] early in the game, and was only narrowly beaten to it by [[Japanese National Quidditch team|Japanese]] Seeker [[Noriko Sato]] in the 59th minute.<ref name="PM">{{PM}} - [[JAPAN VERSUS POLAND|JAPAN_VERSUS_POLAND]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Wolfke, Wladyslaw}}
+[[de:Wladyslaw Wolfke]]
+[[fr:Wladyslaw Wolfke]]
+[[pl:Władysław Wolfke]]
+[[ru:Владислав Вольфке]]
+[[Category:20th century births]]
+[[Category:Males]]
+[[Category:Polish individuals]]
+[[Category:Seekers]]
+[[Category:Wizards]]

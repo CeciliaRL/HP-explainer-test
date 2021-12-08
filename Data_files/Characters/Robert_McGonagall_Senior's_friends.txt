@@ -1,0 +1,27 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Robert McGonagall Snr's friends
+|blood = [[Non-magic people|Muggles]]
+|nationality = [[Scotland|Scottish]]
+|species = [[Human]]s
+|loyalty = [[Robert McGonagall Senior|Robert McGonagall Snr]]
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = f
+|hidem = m
+|hidea = 
+}}
+These '''individuals''' were the friends of [[Robert McGonagall Senior|Robert McGonagall Snr]]
+
+==Biography==
+Shortly after Robert's wife [[Isobel Ross|Isobel McGonagall]] gave birth to [[Minerva McGonagall|a girl]] and Robert discovered her moodiness, these friends assured him that women were often emotional after the birth of a baby, and that Isobel would soon be herself again.<ref>{{PM|professor-mcgonagall}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Scottish individuals]]
+[[Category:Unidentified Muggles‎]]

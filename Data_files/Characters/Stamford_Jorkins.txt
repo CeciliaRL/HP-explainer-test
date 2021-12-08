@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Stamford Jorkins
+|born = [[1982]] or earlier<ref name="age">As he was employed by the Ministry by 1999, he was presumably over 17.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Bertha Jorkins]] (possibly)
+*[[Albert Jorkins]] (possibly)
+*[[Primrose Jorkins]] (possibly)
+*[[Granville Jorkins]] (possibly)
+*[[Grimwold Jorkins]]  (possibly)
+*[[Griselda Jorkins]] (possibly)
+*[[Jorkins family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[British Ministry of Magic]] spokesperson<ref name="DP"/>
+|house = 
+|loyalty = *[[Jorkins family]]<ref name="DP"/>
+*[[British Ministry of Magic]]<ref name="DP"/>
+}}
+'''Stamford Jorkins''' was a [[Wizardkind|wizard]] and a [[British Ministry of Magic|Ministry of Magic]] spokesperson. In [[October]] [[1999]] he was interviewed regularly by the ''[[Daily Prophet]]'' regarding Ministry restrictions on [[Hallowe'en]] celebrations.<ref name="DP">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[1 October]], [[1999]], Page 1</ref>
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry employees of unknown Department}}
+
+{{DEFAULTSORT:Jorkins, Stamford}}
+
+[[pl:Stamford Jorkins]]
+[[Category:British individuals]]
+[[Category:Jorkins family]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Wizards]]

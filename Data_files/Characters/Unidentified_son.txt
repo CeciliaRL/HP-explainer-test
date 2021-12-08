@@ -1,0 +1,32 @@
+{{Individual infobox
+|image = Son.jpg
+|name = Unidentified son
+|born = Pre [[1926]]
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|family = *[[Unidentified young husband|Father]]
+*[[Unidentified young wife|Mother]]
+*[[Unidentified daughter|Sister]]
+*[[Unidentified grandfather|Grandfather]]
+*[[Unidentified grandmother|Grandmother]]
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidea = 
+}}This '''individual''' was an [[United States of America|American]] [[Muggle|No-Maj]] who was in an apartment with his family as their memories where being wiped from a [[Obscurial attack on New York|recent magical catastrophe]] in [[1926]].<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+The Son was portrayed by an unidentified extra in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles]]

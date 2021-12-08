@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mr Higglebottom
+|born = 
+|died = 
+|blood = 
+|marital = Divorced<ref name="PM"/>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Sybill Trelawney]] (ex-wife)<ref name="PM"/>
+*[[Sybill Trelawney's father|Mr Trelawney]] (ex-father-in-law)<ref name="PM"/>
+*[[Sybill Trelawney's mother|Mrs Trelawney]] (ex-mother-in-law)<ref name="PM"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Higglebottom family]]<br/>[[Trelawney family]] (formerly)
+}}
+'''Mr Higglebottom''' was a man who was once married to [[Sybill Trelawney]]. Their marriage ended unexpectedly (and seemingly acrimoniously) when Sybill refused to take his surname.<ref name="PM">{{WW|sybill-trelawney}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Higglebottom]]
+[[Category:Divorced individuals]]
+[[Category:Higglebottom family]]
+[[Category:Males]]

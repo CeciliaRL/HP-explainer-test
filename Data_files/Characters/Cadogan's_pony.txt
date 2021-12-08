@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:Cadoganspony.png|250px]]
+|name = Cadogan's pony
+|born = [[Middle Ages]]<ref name="PM"/>
+|died = [[Middle Ages]]<ref name="PM"/>
+|alias = 
+|title = 
+|species = [[Pony]]<ref name="POA6"/>
+|gender = 
+|height = 
+|hair = Dapple-grey<ref name="POA6">{{POA|B|6}}</ref>
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Cadogan|Sir Cadogan]]<ref name="POA6"/>
+}}
+{{Quote|Harry was watching the painting. A fat, dapple-grey pony had just ambled onto the grass and was grazing nonchalantly. ''[…]'' A moment later, a short, squat knight in a suit of armour clanked into the picture after his pony. By the look of the grass stains on his metal knees, he had just fallen off.|Description|Harry Potter and the Prisoner of Azkaban}}
+This '''fat pony''' belonging to [[Cadogan|Sir Cadogan]], one of the fabled [[Knights of the Round Table]], features in the wizarding versions of the [[Arthur]]ian legend.<ref name="PM"/><ref name="POA6"/>
+
+==History==
+According to legend, when Sir Cadogan first faced the [[Wyvern of Wye]], a creature terrorising the [[West Country]], the beast ate his handsome steed, bit his wand in half and melted his sword and visor. Barely escaping with his life, Sir Cadogan staggered into a nearby meadow, where he found this fat pony grazing; leaping upon it, he galloped back towards the wyvern prepared to die a valiant death, but when the beast tried to swallow Cadogan and the pony whole, the splintered wand pierced its tongue, causing the wyvern to explode. Sir Cadogan and the pony survived the ordeal, and the knight rode it forever more — though the pony never did like him much.<ref name="PM">{{WW|sir-cadogan}}</ref>
+
+A [[wizarding idioms|wizarding idiom]] still used by elderly witches and wizards, "''I'll take Cadogan's pony''", means "to salvage the best I can from a tricky situation".<ref name="PM"/>
+
+[[Cadogan|Sir Cadogan]]'s portrait that hangs on the [[Seventh-floor corridor|seventh floor]] of [[Hogwarts Castle]] also depicts the pony, grazing nonchalantly; when, in [[1993]], [[Harry Potter]], [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]] asked Sir Cadogan's portrait to show them the way to the [[North Tower]], the knight tried and failed to mount the pony, but soon gave up led them on foot.<ref name="POA6"/> Later that same school year, when Sir Cadogan replaced the [[Fat Lady]] as the guardian of [[Gryffindor Tower]], the pony could also be found there with him:<ref name="POA9">{{POA|B|9}}</ref> during Christmas, Sir Cadogan shared his frame with a couple of monks, several previous headmasters of Hogwarts, and his pony, toasting the passersby with flagons of [[mead]].<ref name="POA11">{{POA|B|11}}</ref>
+
+During the [[Battle of Hogwarts]], on [[2 May]], [[1998]], as Sir Cadogan rushed from painting to painting, clanking along in his armour, screaming encouragement toward the [[Hogwartian]]s and hurling insults at [[Death Eaters]], his pony cantered along behind him.<ref name="DH31">{{DH|B|31}}</ref>
+
+==Appearances==
+*{{POA}} {{1st}} {{Portrait}}
+*{{DH}} {{Portrait}}
+*{{PM}} {{Portrait}}
+*{{WW}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Horses]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Pets]]
+[[Category:Paintings of creatures]]

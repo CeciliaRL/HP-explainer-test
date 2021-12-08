@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = daily-prophet
+|image = 
+|name = Eduardus Lima
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HPLE" />
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HPLE" />
+|gender = Male<ref name="HPLE" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Reporter for the ''[[Daily Prophet]]''<ref name="HPLE" />
+|house = 
+|loyalty = ''[[Daily Prophet]]''<ref name="HPLE" />
+}}
+'''Eduardus Lima''' was a [[Wizardkind|wizard]] who worked as a reporter for the ''[[Daily Prophet]]''. He wrote [[BLACK STILL AT LARGE|the front-page article]] for the [[6 August]], [[1993]] issue, about the escape of [[Sirius Black]] from [[Azkaban]].<ref name="HPLE">{{HPLE|G}} (see [[:File:DailyProphetAzkaban.png|this image]])</ref>
+
+==Behind the scenes==
+*This character was named after [[Eduardo Lima]], a graphic artist who worked on every [[Harry Potter films|''Harry Potter'' film]] since ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]''.
+
+==Appearances==
+*{{POA|F}} {{1st Mention}}
+*{{HPLE}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Daily Prophet employees}}
+
+{{DEFAULTSORT:Lima, Eduardus}}
+[[es:Eduardus Lima]]
+[[fr:Eduardus Lima]]
+[[pl:Eduardus Lima]]
+[[Category:British individuals]]
+[[Category:Daily Prophet staff]]
+[[Category:Journalists]]
+[[Category:Lima family|Eduardus]]
+[[Category:Males]]
+[[Category:Wizards]]

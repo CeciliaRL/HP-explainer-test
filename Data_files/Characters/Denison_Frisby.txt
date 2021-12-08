@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Denison Frisby.png]]
+|name = Denison Frisby
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[England|English]]<ref name="QWC"/>
+|alias = 
+|title = [[Keeper]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Light<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Keeper]] for the [[English National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[English National Quidditch team]]<ref name="QWC"/>
+}}
+'''Denison Frisby''' was an [[England|English]] [[Wizardkind|wizard]] who played as [[Keeper]] on the [[English National Quidditch team]] during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]].<ref name="QWC">{{QWC}}</ref>
+
+By [[1996]], Frisby was included on a [[Chocolate Frog Card]] for his achievements in the sport of [[Quidditch]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Denison Frisby}}
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Frisby, Denison}}
+
+[[es:Denison Frisby]]
+[[fr:Denison Frisby]]
+[[pl:Denison Frisby]]
+[[ru:Денисон Фрисби]]
+[[Category:Chocolate Frog Cards]]
+[[Category:English individuals]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Wizards]]

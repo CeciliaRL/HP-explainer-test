@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:ChaunceyOldridge.png|200px]]
+|name = Chauncey Oldridge
+|born = [[1342]]
+|died = [[1379]] (aged 36-37)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS">{{JKRS}}</ref>
+|gender = Male<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = Reddish brown<ref name="JKRS"/>
+|eyes = Bright Blue<ref name="JKRS"/>
+|skin = Green (from [[Dragon pox]])<ref name="JKRS"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Chauncey Oldridge''' ([[1342]] – [[1379]]) was a [[Wizardkind|wizard]] and the first known victim of [[Dragon Pox]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref> Oldridge was born in [[1342]], eventually contracting [[Dragon Pox]] at some point in his life. As a result, his skin turned green and became covered with blemishes. While others before him have contracted Dragon Pox,<ref name="QTAR">{{QTA|R}} -- [[Gunhilda Kneen]] was known to have Dragon Pox about a century earlier than Oldridge, flourishing in the [[13th century]]</ref> he was the first to succumb to it in [[1379]], with no [[Dragon pox cure|cure]] yet available. Becoming famous for being the first person to fall victim to [[Dragon pox]], Chauncey Oldridge became immortalised on a [[Chocolate Frog Card]].<ref name="PSG" /><ref name="COSG"/>
+
+==Etymology==
+The name "Chauncey" comes from a Norman surname of unknown meaning. It was used as a given name in American in honour of Harvard president Charles Chauncey (1592-1672).
+
+==Behind the scenes==
+*Before the publication of {{QTA|R}}, it appeared that Oldridge was the first person ever to contract [[Dragon Pox]] in history. However, the book clarifies it was already known to [[Wizardkind]] at least a century before Oldridge, so in this case, the word "victim" is assumed to mean he was the first person to have died from it.
+
+==Appearances==
+{{Imagecat|Images of Chauncey Oldridge}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{JKRS}} 
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+{{DEFAULTSORT:Oldridge, Chauncey}}
+[[de:Chauncey Oldridge]]
+[[es:Chauncey Oldridge]]
+[[fi:Chauncey Oldridge]]
+[[no:Chauncey Oldridge]]
+[[fr:Chauncey Oldridge]]
+[[it:Chauncey Oldridge]]
+[[pl:Chauncey Oldridge]] 
+[[ru:Чонси Олдридж]]
+[[Category:1342 births]]
+[[Category:1379 deaths]]
+[[Category:Blue-eyed individuals]]
+[[Category:Deaths from dragon pox]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

@@ -1,0 +1,55 @@
+{{Conjecture}} 
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Ollivander
+|born = 
+|died = 
+|blood = [[Half-blood]] or [[Squib]]<ref>His paternal grandmother was Muggle-born, so he is either a half-blood wizard or a Squib, if born with no magical abilities.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Garrick Ollivander]] (father)
+*[[Garrick Ollivander's wife|Mother]]
+*[[Garrick Ollivander's daughter|Sister]] †
+*[[Gervaise Ollivander]] (paternal grandfather)
+*[[Garrick Ollivander's mother|Paternal grandmother]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Ollivander family]]
+}}
+'''Mr Ollivander''' was the son of [[Garrick Ollivander]] and his [[Garrick Ollivander's wife|wife]]. He had a [[Garrick Ollivander's daughter|sister]] who, by [[2011]], had died.<ref name="ollivander">{{WW|mr-ollivander}} (archived copy of old version [https://web.archive.org/web/20151105145544/http://lady-slytherin-forever.tumblr.com/post/8978736031/information-about-ollivander here])</ref>
+
+==Behind the scenes==
+*It is possible that Mr Ollivander took over from his father as the owner of [[Ollivanders]].
+*This individual was only mentioned on the original version of the "Mr Ollivander" article on the old Pottermore.<ref name="ollivander"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ollivander, Garrick's son}}
+
+[[fr:Fils de Garrick Ollivander]]
+[[ru:Сын Гаррика Олливандера]]
+[[pl:Syn Ollivandera]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ollivander family]]
+[[Category:Unnamed family members]]

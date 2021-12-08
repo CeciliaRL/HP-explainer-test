@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = daily-prophet
+|image = [[File:Unidentified reporter.png|250px]]
+|name = Unidentified journalist
+|born = Prior to [[1995]]<ref name="f"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="f"/>
+|gender = Female<ref name="f"/>
+|height = 
+|weight = 
+|hair = Black<ref name="f"/>
+|eyes = Dark<ref name="f"/>
+|skin = Light<ref name="f"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Journalist for the [[Daily Prophet]]<ref name="f"/>
+|house = 
+|loyalty = [[Daily Prophet]]<ref name="f"/>
+}}
+{{Quote|What's happened to Dumbledore?|The journalist|Harry Potter and the Order of the Phoenix (film)}}
+
+This '''individual''' was a [[Wizardkind|witch]] and journalist for the [[Daily Prophet]]<ref name="f"/>. In [[1995]] when interviewing [[Dolores Umbridge]], she asked what had happened to [[Albus Dumbledore]], although she received no response<ref name="f">{{OOTP|F}} (''Chapter Thirteen - The Hogwarts High Inquisitor'')(46:19)</ref>.
+
+==Appearances==
+*{{OOTP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Daily Prophet staff]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

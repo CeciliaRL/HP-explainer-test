@@ -1,0 +1,30 @@
+{{Pet individual infobox
+|image = [[File:Matey.jpg|250px]]
+|name = Matey
+|born = Pre [[1995]]
+|died = 
+|alias = 
+|title = 
+|species = [[Goat]]<ref name="OOTPF"/>
+|gender = 
+|height = 
+|hair = White/Grey<ref name="OOTPF"/>
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Aberforth Dumbledore]]<ref name="OOTPF"/>
+}}
+'''Matey''' was a pet [[goat]] owned by [[Aberforth Dumbledore]].<ref name="OOTPF"/>
+
+==History==
+On [[5 October]], [[1995]], when [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]] walked through the front door of Aberforth's pub in [[Hogsmeade]], the [[Hog's Head]], where they had scheduled the first meeting of what was to become [[Dumbledore's Army]], Matey darted out from behind the bar counter suddenly. Aberforth followed Matey into another room, calling out, "''Matey, come back here.''".<ref name="OOTPF">{{OOTP|F}}</ref>
+==Appearances==
+*{{OOTP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Aberforth Dumbledore's possessions]]
+[[Category:Goats]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Pets]]

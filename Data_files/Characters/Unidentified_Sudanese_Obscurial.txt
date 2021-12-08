@@ -1,0 +1,60 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified Sudanese Obscurial
+|born = [[1918]]<ref name="fb61">{{FB|S|61}}</ref>
+|died = [[September]] [[1926]] (aged 8)<br />[[Sudan]]<ref name="fb61" />
+|blood = 
+|nationality = [[Sudan]]ese<ref name="fb61" />
+|marital = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]] ([[Obscurial]])
+|gender = Female
+|height = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty =  
+}}
+{{Quote|I met one Sudan three months ago. There used to be more of them but they still exist. Before wizards went underground, when we were still being hunted by Muggles, young wizards and witches sometimes tried to suppress their magic to avoid persecution. Instead of learning to harness or to control their powers, they developed what was called an obscurus.|Newt explaining what a obscurial is|Fantastic Beasts and Where to Find Them: The Original Screenplay}}
+This '''young [[Wizardkind|witch]]''' ([[1918]] – [[September]] [[1926]]) lived in [[Sudan]] in the early [[20th century]].<ref name="fb61"/>
+
+==Biography==
+This young witch was born in [[Sudan]] in [[1918]].<ref name="fb61" />
+
+While still a young child, her [[magic]]al powers were discovered by [[Non-magic people|Muggles]], leading them to imprison her.<ref name="fb61" /><ref name="fb108">{{FB|S|108}}</ref> This treatment lead her to suppress her magic to the point that she became an [[Obscurial]].<ref name="fb61" /><ref name="fb108" />
+
+In [[September]] [[1926]], when she was eight years old, the [[Great Britain|British]] [[magizoologist]] [[Newton Scamander|Newt Scamander]] came across her while in [[Africa]] studying magical [[beast]]s.<ref name="fb61" /> Newt tried to save the girl, managing to separate the Obscurus from her, though she died regardless.<ref name="fb61" /><ref name="fb65">{{FB|S|65}}</ref> Newt was able to preserve the Obscurus despite the death of its host and afterward kept it in a magical bubble in his [[Newton Scamander's suitcase|magical suitcase]].<ref name="fb65" />
+
+The girl represented the first documented incidence of an Obscurial in centuries.<ref name="fb61" />
+
+The presence of her Obscurus in his suitcase, among potentially dangerous magical creatures, got Newt into serious trouble with the [[Magical Congress of the United States of America|MACUSA]], to the point where it was believed that he and his creatures were the cause of the [[Obscurial attack on New York|destructive magical attacks]] around the city at that time. However, his experience also led Newt to correctly deduce that the attacks were actually caused by [[Credence Barebone|another Obscurial]].
+
+==Appearances==
+*{{FB|S}} {{1st Mention}}
+*{{FB|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Obscurial soudanaise]]
+[[pl:Niezidentyfikowana sudańska obskurodzicielka]]
+[[Category:1918 births]]
+[[Category:1926 deaths]]
+[[Category:African individuals]]
+[[Category:Convicts]]
+[[Category:Deaths by Obscurus]]
+[[Category:Females]]
+[[Category:Newton Scamander's suitcase]]
+[[Category:Obscurials]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,81 @@
+{{HogwartsMysterySpoiler}}
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Henry VII
+|hideb=
+|born=[[28 January]] [[1457]]<br>[[Wales]], [[Great Britain]]
+|died=[[21 April]] [[1509]] (aged 52)<br>[[England]], [[Great Britain]]
+|blood=
+|marital=Widowed
+|alias=
+|title=King of [[England]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Henry VIII]] (son) †
+*[[Anne Boleyn]] (daughter-in-law) †
+*[[Mary I]] (granddaughter) †
+*[[Elizabeth I]] (granddaughter) †
+*[[Henry VI]] (half-uncle) †
+*[[Mary II]] (descendant) †
+*[[William III]] (descendant) †
+*[[George III]] (descendant) †
+*[[Victoria]] (descendant) †
+*[[Elizabeth II]] (descendant) †
+*[[House of Tudor]]
+|hidea=hide
+|job=
+|loyalty=*[[House of Tudor]]
+*[[England]]
+|nationality=[[England|English]]
+|romances=*Elizabeth of York (wife) †
+}}
+{{Quote|I witnessed a great number of excellent concerts in the royal court of King Henry VII.|[[Nicholas de Mimsy-Porpington|Sir Nicholas de Mimsy-Porpington]]|Harry Potter: Hogwarts Mystery}}
+'''Henry VII''' ([[28 January]] [[1457]] – [[21 April]] [[1509]]) was [[King]] of [[England]] from his seizure of the crown in [[1485]] until his [[death]].<ref name="wikipedia">"[http://en.wikipedia.org/wiki/Henry_VII_of_England Henry VII of England]" on Wikipedia</ref>
+
+He was the father of King [[Henry VIII]] and the grandfather of Queens [[Mary I]] and [[Elizabeth I]].<ref name="wikipedia" />
+
+[[Nicholas de Mimsy-Porpington|Sir Nicholas de Mimsy-Porpington]] was a [[Wizardkind|wizard]] at King Henry's royal court.<ref name="pm">{{WW|hogwarts-ghosts}}</ref><ref name="TBB">{{TBB|R}} - ''Albus Dumbledore on "The Wizard and the Hopping Pot"''</ref>
+
+==Etymology==
+The name "Henry" comes from the Germanic name Heimirich which meant "home ruler", composed of the elements heim "home" and ric "power, ruler". It was later commonly spelled Heinrich, with the spelling altered due to the influence of other Germanic names like Haganrich, in which the first element is hagan "enclosure".
+
+==Behind the scenes==
+*The [[portrait]] of [[Poderick Cruickshank]] seems to have been based on a [https://commons.wikimedia.org/wiki/File:King_Henry_VII.jpg 1505 portrait] of Henry VII by an unknown artist.
+
+==Appearances==
+*{{TBB|R}} {{Indirect}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=([[Henry VI|←]]) Richard III
+|position=King of England
+|years=[[1485]]-[[1509]]
+|successor=[[Henry VIII]]
+}}
+{{End box}}
+
+[[zh:亨利七世]]
+[[pt-br:Henrique VII de Inglaterra]]
+[[pl:Henryk VII]]
+[[Category:1457 births]]
+[[Category:1509 deaths]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Royalty]]
+[[Category:Tudor dynasty]]
+[[Category:Welsh individuals]]

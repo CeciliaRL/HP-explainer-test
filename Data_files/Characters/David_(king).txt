@@ -1,0 +1,49 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = David
+|born = Israel<br />Biblical times
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[King]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[King]] of Isreal
+|house = 
+|loyalty = 
+}}
+'''David''' was a [[king]] who ruled over [[wikipedia:United Kingdom of Israel and Judah|Israel and Judah]] during ancient times.<ref name="wikipedia1">"[https://en.wikipedia.org/wiki/David David]" on Wikipedia</ref> He was a prominent figure in the [[Bible]], and was credited with writing many of the psalms contained in one of its books, the [[wikipedia:Book of Psalms|Book of Psalms]].<ref name="wikipedia1" /> 
+
+The [[Psalter]], a volume incorporating the Book of Psalms and other devotional writings, was included in the ''[[Book of Common Prayer]]''.<ref name="hple">{{HPLE|G}} {{see image|File:The Book of Common Prayer and Administration of the Sacraments and other Rites & Ceremonies of the Church according to the use of the Church of England together with the Psalter or Psalms of David.png}}</ref><ref name="wikipedia2">"[https://en.wikipedia.org/wiki/Psalter Psalter] on Wikipedia]</ref> A copy of the ''Book of Common Prayer'' was kept in the [[Hogwarts Library|library]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="hple" />
+
+==Behind the scenes==
+*In the [[Bible]], David slays the [[giant]] [[Goliath]] while still a boy, casting a stone at him with a sling. However, the [[Chocolate Frog Card]] for Goliath only refers to the giant's slayer as a "young boy," and does not explicitly name David. It is thus possible that Goliath was not slain by David in the [[Harry Potter universe|''Harry Potter'' universe]].
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{Comment|Mentioned on book cover}}
+*{{HPLE}} {{Comment|Mentioned on book cover}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Authors]]
+[[Category:B.C. era births]]
+[[Category:Biblical figures]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Royalty]]

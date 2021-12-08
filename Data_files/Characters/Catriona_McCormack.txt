@@ -1,0 +1,69 @@
+{{WizardsUniteSpoiler}}{{Individual infobox
+|theme = wizard
+|image = Catriona McCormack.png
+|name = Catriona McCormack
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = *[[Quidditch Captain]]
+*[[Chaser]]
+|signature = 
+|species = [[Human]]<ref name="QTA7"/>
+|gender = Female<ref name="QTA7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = Purple<ref name="QTAIE"/>
+|skin = Light<ref name="QTAIE"/>
+|family = *[[Meaghan McCormack]] (daughter)
+*[[Kirley Duke]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Chaser]] and [[Quidditch Captain]] for the [[Pride of Portree]]
+*[[Chaser]] for the [[Scottish National Quidditch team]]
+|house = 
+|loyalty = *[[Pride of Portree]]
+*[[Scottish National Quidditch team]]
+*[[McCormack family]]
+}}
+'''Catriona McCormack''' was a [[Great Britain|British]] [[Wizardkind|witch]] who was a [[Chaser]] for the [[Pride of Portree]] in the [[1960s]].<ref name="QTA7"/>
+
+==Biography==
+She captained the team to two [[League Cup]]s. She played for the [[Scottish National Quidditch team]] thirty-six times.<ref name="QTA7">{{QTA|R|7}}</ref>
+
+Catriona had two children, [[Meaghan McCormack]] (current [[Keeper]] for the Pride of Portree), and [[Kirley Duke]] (lead guitarist of the [[Weird Sisters|The Weird Sisters]]).<ref name="QTA7"/>
+
+Catriona McCormack was on the cover of ''[[Quidditch Times]]'' on [[29 February]] [[1964]], the magazine's 3000th issue, having been interviewed about her League wins and on "how to wear purple with flair".<ref name="QTAIE">{{QTA|IE}}; retrieved from {{WW}}, see [https://www.wizardingworld.com/news/bloomsbury-reveal-cover-for-new-illustrated-edition-of-quidditch-through-the-ages here]</ref>
+
+==Appearances==
+{{Imagecat|Images of Catriona McCormack}}
+*{{QTA|R}} {{1st}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:McCormack, Catriona}}
+
+[[de:Catriona McCormack]]
+[[de2:Catriona McCormack]]
+[[es:Catriona McCormack]]
+[[fr:Catriona McCormack]]
+[[pl:Catriona McCormack]]
+[[ru:Катриона Маккормак]]
+[[zh:卡特丽娜·麦克玛]]
+[[Category:British individuals]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:McCormack family]]
+[[Category:Parents]]
+[[Category:Purple-eyed individuals]]
+[[Category:Quidditch Captains]]
+[[Category:Wizards]]

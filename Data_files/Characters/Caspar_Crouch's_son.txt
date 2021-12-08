@@ -1,0 +1,67 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Caspar Crouch's son
+|born = 
+|died = Before [[1995]]<ref name="dead">In {{GOF}} - Chapter 36 (''The Parting of the Ways''), Dumbledore refers to [[Bartemius Crouch Junior|Bartemius Crouch Jnr]] as "''the last remaining member of a pure-blood family as old as any''" meaning that all other members of the family are dead by 1995.</ref>
+|blood = [[Pure-blood]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White
+|family = *[[Caspar Crouch]] (father) †
+*[[Charis Black|Charis Crouch]] (née [[House of Black|Black]]) (mother) †
+*[[Caspar Crouch's daughters|Sisters]]
+*[[Callidora Black|Callidora Longbottom]] (née [[House of Black|Black]]) (maternal aunt)
+*[[Cedrella Black|Cedrella Weasley]] (née [[House of Black|Black]]) (maternal aunt)
+*[[Harfang Longbottom]] (maternal uncle by marriage)
+*[[Septimus Weasley]] (maternal uncle by marriage)
+*[[Harfang Longbottom's son|Male maternal cousin]]
+*[[Harfang Longbottom's daughter|Female maternal cousin]]
+*[[Arthur Weasley's brothers|Male maternal cousins]]
+*[[Bilius]] (possible maternal cousin) †
+*[[Arthur Weasley]] (maternal first cousin)
+*[[Bartemius Crouch Snr's grandfather|Possible paternal grandfather]] †
+*[[Arcturus Black II]] (maternal grandfather) †
+*[[Lysandra Yaxley|Lysandra Black]] (née [[Yaxley family|Yaxley]]) (maternal grandmother)
+*[[Crouch family]]
+*[[House of Black]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Crouch family]]
+*[[House of Black]]
+}}
+The only '''son''' of [[Caspar Crouch]] and [[Charis Black]] was a [[pure-blood]] wizard.<ref name="BFT">[[House of Black|Black family tree]]</ref> He had [[Caspar Crouch's daughters|two sisters]].
+
+==Behind the scenes==
+*It is possible that Caspar Crouch's son was [[Bartemius Crouch Senior|Bartemius Crouch Snr]], who is described as an "elderly man" at the [[1994 Quidditch World Cup]]. This is supported by the fact that he and [[Bartemius Crouch Junior|his son]] were the last of their family. However, his mother [[Charis Black|Charis]] was born in [[1919]], so, assuming she had her son after reaching the age of majority, the earliest he could have been born was [[1936]]. This would make it unlikely that he would be described as "elderly" in [[1994]]. But Rowling wrote all but the first chapter of ''Goblet of Fire'' in the third-person limited point-of-view, which means that the description of Crouch as "elderly" actually represents [[Harry Potter]]'s perception. A 58-year-old man might appear "elderly" to a 14-year-old boy, and it is also quite plausible that the tribulations Crouch went through during the [[First Wizarding War]] would have prematurely aged him. Also, terms like "elderly" can be loosely used, without kind of mathematical rigour, especially by young people; for instance, [[Walburga Black]] in [[Walburga Black's portrait|her portrait]] was described as "old", despite not being more than sixty years old when the portrait was made.<ref>[[House of Black#Black family tree|Black family tree]]</ref> It should be noted, however, that [[Pollux Black|two]] [[Cygnus Black III|people]] featured on the [[House of Black#Black family tree|Black family tree]] become fathers at the age of thirteen; whether that was a mathematical mistake on Rowling's part or not is unclear, but Charis and her son might have been intended to be older than they appear to be.
+*If Caspar Crouch's son is Barty Crouch Snr, then, through the [[House of Black|Black family]], Barty Crouch and [[Arthur Weasley]] are first cousins (both sharing [[Arcturus Black II|Arcturus Black]] and [[Lysandra Yaxley]] as maternal grandparents) and, by extension, Crouch's personal assistant [[Percy Weasley]] is his first cousin once removed. This relationship, if true, is not mentioned at all in {{GOF}}.
+
+==Appearances==
+*''[[J. K. Rowling's official site|J. K. Rowling Official Site]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Syn Caspara Croucha]]
+[[Category:British individuals]]
+[[Category:Crouch family]]
+[[Category:House of Black descendants]]
+[[Category:Males]]
+[[Category:Pure-bloods]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

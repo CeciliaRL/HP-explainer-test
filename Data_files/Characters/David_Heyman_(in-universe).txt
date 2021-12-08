@@ -1,0 +1,33 @@
+{{Individual_infobox
+|name = David Heyman
+|born = [[1905]] or earlier
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|job = Commissioner of the [[New York Police Department]]
+|loyalty = [[New York Police Department]]
+|theme = muggle
+|hideb = y
+|hidep = 
+|hidef = 
+|hidem = hide
+|hidea = 
+}}'''David Heyman''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] and the commissioner of the [[New York Police Department]] in [[1926]].<ref name="itmfb">''[[Inside the Magic: The Making of Fantastic Beasts and Where to Find Them]]'', page 47</ref><ref name="poster2">[https://www.flickr.com/photos/hummelissa/31348693721/ Prop photo poster] from hummelissa on Flickr</ref>
+
+==Biography==
+
+He signed a wanted poster issued for [[Newton Scamander|Newt Scamander]] and [[Jacob Kowalski]] on [[6 December]] 1926. It advised that, in the event of the pair's capture, he should be immediately contacted by [[telephone]] at 3100 Heyman.<ref name="itmfb" /><ref name="poster2"/>
+
+==Behind the scenes==
+*This character was named after [[David Heyman]], the producer of all eight [[Harry Potter films|''Harry Potter'' films]], as well as ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Heyman, David}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Police officers]]

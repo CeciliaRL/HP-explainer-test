@@ -1,0 +1,55 @@
+{{Real world subject}}
+{{Individual infobox
+|image=
+|theme=individual
+|name=Kelly Brown
+|hideb=
+|born=[[8 June]], [[1982]]<br/>[[Edinburgh]], [[Scotland]]
+|died=
+|blood=[[Squib]] (suspected)
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Lavender Brown]] (possible cousin)
+*[[Lavender Brown's father|Mr Brown]] (possible uncle)
+*[[Lavender Brown's mother|Mrs Brown]] (possible aunt)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Rugby union player
+|house=
+|loyalty=*[[Scottish rugby team]]
+*[[Brown family]]
+}}
+'''Kelly Brown''' (b. [[8 June]], [[1982]]) is a professional rugby union player who plays as a [[Wikipedia:Flanker (rugby union)|flanker]], and has captained the [[Scottish rugby team]] since [[2012]].<ref name="Wikipedia">{{Wikilink|Kelly Brown}}</ref> He may be related to the wizarding [[Brown family]], possibly having [[Lavender Brown]] for a cousin.<ref name="Pottermore">{{WW|scottish-rugby}}</ref>
+
+In [[2014]], Kelly Brown, along with [[Jim Hamilton]] and [[Stuart Hogg]], came under suspect, among [[wizarding world|wizarding circles]], of actually being a talented [[Squib]]. While there is no wizarding rule which prevents a squib from actually playing on a muggle team, the act of smuggling a squib into the team, which is the rumoured mission of the [[Wizarding Supporters of Scottish Rugby Union|WSSRU]], is in violation of the [[International Statute of Wizarding Secrecy]] which prohibits wizards from participating in muggle sport.<ref name="Pottermore"/>
+
+==Appearances==
+*{{PM}} {{1st mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Brown, Kelly}}
+
+[[zh:凯利·布朗]]
+[[pl:Kelly Brown]]
+[[Category:1982 births]]
+[[Category:Brown family]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Rugby players]]
+[[Category:Scottish individuals]]

@@ -1,0 +1,57 @@
+{{HogwartsMysterySpoiler}}
+{{Real world subject}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Dzou Yen.jpg|250px]]
+|name = Dzou Yen
+|born = [[B.C. era|4th century B.C.]],<br />[[China]]<ref name="POAG"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[China|Chinese]]<ref name="POAG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = Black<ref name="POAG"/>
+|eyes = Dark<ref name="POAG"/>
+|skin = Olive<ref name="POAG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Alchemy|Alchemist]]<ref name="POAG"/>
+|house = 
+|loyalty = 
+}}
+'''Dzou Yen''' (fl. [[B.C. era|4th century B.C.]]) was a [[China|Chinese]] [[Wizardkind|wizard]], famous for his work on [[alchemy]]. For this, Yen was featured on a golden [[Chocolate Frog Card]].<ref name="POAG">{{POA|G}}</ref>
+==Behind the scenes==
+*[[Wikipedia:Zou Yan|Zou Yan]] (also known as Dzou Yen or Tsou Yen, 305 BC - 240 BC) was a Chinese mystic who lived in the state of [[Wikipedia:Qi (state)|Qi]] during [[Wikipedia:Spring and Autumn Period|Spring and Autumn Period]], an era of political turmoil preceding the total collapse of the Zhou Dynasty. He is considered one of the founders of Chinese scientific thought. He is credited with refining the theories of the Five Elements and Yin and Yang, though his writings are now lost. The main account of his life comes from [[Wikipedia:Sima Qian|Sima Qian]]'s ''[[Wikipedia:Records of the Grand Historian|Records of the Grand Historian]]''.
+
+==Appearances==
+*{{POA|G}} {{FWC}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Yen, Dzou}}
+
+{{Chocolate Frog Cards}}
+
+[[es:Dzou Yen]]
+[[de:Dzou Yen]]
+[[fi:Dzou Yen]]
+[[fr:Dzou Yen]]
+[[pl:Dzou Yen]]
+[[ru:Дзю Йен]]
+[[Category:Alchemists]]
+[[Category:B.C. era births]]
+[[Category:Chinese individuals]]
+[[Category:Gold Chocolate Frog Cards]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

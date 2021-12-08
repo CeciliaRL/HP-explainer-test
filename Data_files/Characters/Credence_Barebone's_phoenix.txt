@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = Phoenix in Nurmengard.gif
+|name = Credence Barebone's phoenix
+|born = Before or in [[1927]]<ref name="COG120"/>
+|died = [[Immortality|Immortal]]<ref name="FBR"/>
+|alias = 
+|title = 
+|species = [[Phoenix]]<ref name="COG120"/>
+|gender = 
+|height = 
+|hair =
+|feathers = Red and gold<ref name="COG120"/>
+|eyes = Black<ref name="FBR">{{FB|R}}</ref>
+|skin = 
+|family = 
+|loyalty = *[[Credence Barebone]]<ref name="COG120"/>
+*[[Dumbledore family]] (possibly)<ref name="COG120"/>
+*[[Gellert Grindelwald]] (possibly)<ref name="COG120"/>
+}}
+{{Quote|There is a legend in [[Dumbledore family|your family]] that a phoenix will come to any member who is in dire need.|Gellert Grindelwald telling Credence about his connection to this phoenix|Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay}}
+This unnamed '''phoenix''' was cared for by [[Credence Barebone]] in [[1927]].<ref name="COG120"/>
+
+==Biography==
+[[File:Baby chick phoenix COG.gif|250px|thumb|left|Credence nurturing the baby chick]]
+In [[September]] [[1927]], Credence and [[Nagini]] met at the [[bird market]] in [[Paris]], and stole some birdseed.<ref name="COG53">{{COG|S|53}}</ref> Later that day in the afternoon, while on top of a derelict rooftop, Credence fed the birdseed to the phoenix chick.<ref name="COG85">{{COG|S|85}}</ref>
+[[File:Credence Nurmengard.jpg|250px|thumb|left|This phoenix in Nurmengard]]
+Sometime in late 1927, while Credence and [[Gellert Grindelwald]] were at [[Nurmengard Castle]], discussing Credence's heritage, the phoenix chick stepped onto Gellert's palm, who eagerly threw it into air, erupting it into a burst of [[Fire|flame]], birthing the phoenix.<ref name="COG120">{{COG|S|120}}</ref>
+
+==Appearances==
+*{{COG|S}} {{1st}}
+*{{COG}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Fénix de Credence Barebone]]
+[[Category:1920s births]]
+[[Category:Black-eyed individuals]]
+[[Category:Credence Barebone's possessions|Phoenix]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Pets]]
+[[Category:Phoenixes]]

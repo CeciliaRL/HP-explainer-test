@@ -1,0 +1,60 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hufflepuff
+|image = [[File:Hufflepuff lady.jpg|250px]]
+|name = Unidentified Hufflepuff lady
+|born = 
+|died = Before [[1991]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Brown
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Dialogue a-b|Harry Potter|Catweazle.|Lady|Well done, young [[Gryffindor]], that is indeed the correct password. I guess I'll have to open up for you now.|Harry and the portrait|Harry Potter and the Philosopher's Stone (video game)}}
+This '''Hufflepuff lady''' had portraits hung at [[Hogwarts Castle]].
+
+==Biography==
+===[[1991–1992 school year]]===
+In [[Harry Potter]]'s first year at [[Hogwarts School of Witchcraft and Wizardry]], she was guarding a secret room in the Castle's Grounds, concealing a [[Chocolate Frog Card]]. The password required to gain entrance was "''Catweazle''".<ref name="PS">{{PS|G}} - PS1 version</ref>
+
+===[[1992–1993 school year]]===
+A year later, her portrait had been moved, and now guarded the way to the Hufflepuff Duelling Turrets.<ref name="CS">{{COS|G}} - PS1 version</ref> Another portrait was also created which guarded a lever room inside a secret area behind a bookcase in the [[Knights' Room]]. She was kept with company by the [[Unidentified Slytherin knight|Slytherin knight]].
+
+==Behind the scenes==
+*This witch may have passed away sometime prior to [[1991]] as many portraits hung at [[Hogwarts Castle]] depict deceased individuals.
+*[[Wikipedia:Catweazle|''Catweazle'']] was a British children's television series in the [[1970s]] that featured an eccentric, time-travelling wizard.
+*In the Danish version of ''Philosopher's Stone'' there is a mistake when Harry uses the password: [[Fred Weasley|Fred]] and [[George Weasley]] tell Harry to say "''Katvæsel''" (''Catweasle''), but Harry says ''"Katvæsen"'' (''Catcreature'') to the portrait. This appears to be a typo.
+
+==Appearances==
+*{{PS|G}} {{Portrait}}
+*{{COS|G}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hufflepuff lady}}
+
+
+{{Hogwarts towers}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified Hufflepuffs]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

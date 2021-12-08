@@ -1,0 +1,32 @@
+{{Pet individual infobox
+|image = 
+|name = Sam
+|born = Prior to [[1996]]
+|died = 
+|alias = 
+|title = 
+|species = [[Dog]] ([[Wikipedia:Puggle|puggle]])<ref name="HPLE"/>
+|gender = Male<ref name="HPLE"/>
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Sam's owner|His owner]]<ref name="HPLE"/>
+}}
+{{Quote|Meanwhile preparations are underway for a ceremony to acknowledge the heroes of the bridge disaster, who pulled victims from the river even while the bridge continued to crumble around them. None however have generated as much public warmth as Sam, the plucky puggle who dragged his unconscious owner half a mile down the river to safety, who is reported to become the first dog to win a medal for gallantry.|[[Jamie Wolpert (in-universe)|Jamie Wolpert]], "[[Millennium Bridge|Bridge disaster]] hits London" in ''[[The Guardian]]'' (July, [[1996]]).|Harry Potter Limited Edition}}
+'''Sam''' was a [[dog|puggle]] who emerged as one of the heroes of the [[Millennium Bridge]] disaster in [[1996]], after saving [[Sam's owner|his owner]]'s life.<ref name="HPLE"/>
+
+==Biography==
+Sam and [[Sam's owner|his owner]] were on the bridge when the collapse took place. When both were thrown down into [[River Thames]], the owner was left unconscious. Sam, then dragged him as he swam half a mile down the river, to safety. ''[[The Guardian]]'' later went on to report that Sam was reported to become the first dog ever to be honoured with a medal for gallantry.<ref name="HPLE">{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Appearances==
+*{{HBP|F}} {{Mention}}
+*{{HPLE}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[pl:Sam (pies)]]
+[[Category:Award recipients]]
+[[Category:Individual dogs]]
+[[Category:Males]]

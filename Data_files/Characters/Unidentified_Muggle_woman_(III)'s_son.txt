@@ -1,0 +1,36 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Muggle boy OOTP.png]]
+|name = Unidentified Muggle boy
+|born = Prior to [[1995]]<ref name="OOTPF"/>
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="OOTPF"/>
+|nationality = [[Great Britain|British]]<ref name="OOTPF"/>
+|alias = 
+|title = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="OOTPF"/>
+|gender = Male<ref name="OOTPF"/>
+|hair = Brown<ref name="OOTPF"/>
+|skin = Light<ref name="OOTPF"/>
+|eyes = 
+|height = 
+|weight = 
+|family = [[Unidentified Muggle woman (III)|Mother]]<ref name="OOTPF"/>
+|romances = 
+|job = 
+|loyalty = 
+|theme = muggle
+}}
+{{Dialogue a-b-c|Woman|Come on guys, time to go home. Come on, love, off you get.|Boy|Do we have to?|Woman|Yes, we do. I'll make your favourite dinner to compensate.|The boy and his [[Unidentified Muggle woman (III)|mother]]|Harry Potter and the Order of the Phoenix (film)}}
+This '''boy''' was a [[Non-magic people|Muggle]] who lived at [[Magnolia Crescent]]. In [[1995]] he asked [[Unidentified Muggle woman (III)|his mother]] if it really was time to go home from the park, where he was enjoying the playground equipment with some friends of his.<ref name="OOTPF">{{OOTP|F}} - Chapter 1 (''Dudley Demented'')</ref>
+
+==Appearances==
+*{{OOTP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

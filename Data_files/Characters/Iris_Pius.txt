@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:IrisPius.JPG|250px]]
+|name = Iris Pius
+|born = 
+|died = Before the [[1990s]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Iris Pius''' was a [[Wizardkind|witch]]. She was depicted in a [[portrait]], which presumably hung at [[Hogwarts School of Witchcraft and Wizardry]], along with many others.<ref>[http://thepensieve.org/HPMuseumEX/HPexhibition1.html ''Harry Potter: The Exhibition'' report] from ThePensieve.org</ref>
+
+==Behind the scenes==
+*Pius may have died sometime prior to the [[1990s]], as many portraits hung at [[Hogwarts Castle]] depict deceased individuals.
+
+==Etymology==
+The name "Iris" means "rainbow" in Greek. Iris was the name of the Greek goddess of the rainbow. This name can also be given in reference to the English word (which derives from the same Greek source) for the name of the iris flower or the coloured part of the eye.
+
+==Appearances==
+*{{WWHP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pius, Iris}}
+
+{{Hogwarts unknown locations}}
+
+[[fr:Iris Pius]]
+[[pl:Iris Pius]]
+[[Category:Females|Pivis, Iris]]
+[[Category:Portraits|Pivis, Iris]]
+[[Category:Wizards|Pivis, Iris]]

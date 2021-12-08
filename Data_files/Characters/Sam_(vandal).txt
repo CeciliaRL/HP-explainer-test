@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = muggle
+|image = [[File:Sam.png|250px]]
+|name = Sam
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="OOTPF"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTPF"/>
+|gender = Male<ref name="OOTPF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Sam''' was a [[Non-magic people|Muggle]] who spray-painted his name onto the wall of a pedestrian tunnel in [[Little Whinging]].<ref name="OOTPF">{{OOTP|F}}</ref>
+
+==Appearances==
+*{{OOTP|F}} {{Comment|Name seen in graffiti}}
+
+==Notes and references==
+{{Reflist}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Sam (wandal)]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Amy Frome
+|born = [[31 August]] [[1982]] or earlier,<ref>She was at least in her [[first year]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG">{{POA|G}}</ref>
+|gender = Female<ref name="POAG">{{POA|G}}</ref>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="POAG">{{POA|G}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+'''Amy Frome''' was a [[Wizardkind|witch]] and [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She was seen walking around the school during the [[1993-1994 school year]].<ref name="POAG">{{POA|G}}</ref>
+
+==Appearances==
+*{{POA|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Frome, Amy}}
+[[pl:Amy Frome]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

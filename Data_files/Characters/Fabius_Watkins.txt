@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:FabiusWatkins.png|250px]]
+|name = Fabius Watkins
+|born = [[1940]]<ref name="JKRS"/>
+|died = [[1975]] (aged 35)<ref name="JKRS"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="JKRS"/>
+|alias = 
+|title = *[[Chaser]]<ref name="JKRS"/>
+*[[Captain]]<ref name="JKRS"/>
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Male<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = Red<ref name="JKRS"/>
+|eyes = Blue<ref name="JKRS"/>
+|skin = White<ref name="JKRS"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] and [[Captain]] for the [[Montrose Magpies]]<ref name="JKRS"/>
+|house = 
+|loyalty = [[Montrose Magpies]]<ref name="JKRS"/>
+}}
+'''Fabius Watkins''' ([[1940]]–[[1975]]) was a [[Wizardkind|wizard]] and legendary [[Quidditch]] [[Quidditch Captain|Captain]] and [[Chaser]] for the [[Montrose Magpies]]. In [[1975]], he was involved in a freak collision with a [[Non-magic people|Muggle]] [[helicopter]] and [[Death|died]] almost instantly.<ref name="JKRS">{{JKRS}}</ref>
+
+==Etymology==
+The name "Fabius" was a Roman family name which was derived from Latin faba "bean". Quintus Fabius Maximus was the Roman general who used delaying tactics to halt the invasion of Hannibal in the 3rd century BC.
+
+==Appearances==
+{{Imagecat|Images of Fabius Watkins}}
+*{{JKRS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{Character-stub}}
+{{DEFAULTSORT:Watkins, Fabius}}
+[[de:Fabius Watkins]]
+[[es:Fabius Watkins]]
+[[fr:Fabius Watkins]]
+[[it:Fabius Watkins]]
+[[pl:Fabius Watkins]]
+[[ru:Фабиус Уоткинс]]
+[[Category:1940 births]]
+[[Category:1975 deaths]]
+[[Category:Accidental deaths]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Chasers]]
+[[Category:Males]]
+[[Category:Quidditch Captains]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

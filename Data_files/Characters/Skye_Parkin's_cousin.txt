@@ -1,0 +1,45 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme=quidditch-player
+|image=
+|name=Skye Parkin's cousin
+|born=
+|died=
+|blood=
+|marital=
+|nationality=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=*[[Skye Parkin]] (cousin)<ref name="HM">{{HM}}, Quidditch Season 2, Chapter 6</ref>
+*[[Parkin family]]
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=[[Quidditch]] player
+|house=
+|loyalty=[[Parkin family]]
+}}
+This '''individual''' was the cousin of Skye Parkin and a [[Quidditch]] player.
+
+They tossed [[puffskein]]s back and forth to practise passing.<ref name="HM"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Quidditch players]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

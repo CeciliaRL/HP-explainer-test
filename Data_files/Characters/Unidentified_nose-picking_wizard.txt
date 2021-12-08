@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Unidentified nose-picking wizard
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|Wild! I can make that bloke down there pick his nose again... and again... and again...-|[[Ronald Weasley|Ron Weasley]] testing his [[Omnioculars]]|Harry Potter and the Goblet of Fire}}
+
+This '''Wizard''' attended the [[1994]] [[Quidditch World Cup]] and sat in the stands across from the [[Top Box]] of the [[Quidditch Trillenium Stadium|Quidditch World Cup Stadium]]. [[Ronald Weasley|Ron Weasley]] looked at this wizard through a pair of [[Omnioculars]] while he picked his nose and used the replay function on them to make him do the same thing numerous times.<ref>{{GOF}}</ref>
+
+==Appearances==
+*{{GOF}}
+
+==Notes and references==
+{{Reflist}}[[Category:Males|Nose-picking wizard]]
+[[Category:Unidentified individuals|Nose-picking wizard]]
+[[Category:Wizards|Nose-picking wizard]]

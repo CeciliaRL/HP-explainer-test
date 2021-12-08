@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Unidentified Hufflepuff Substitute Seeker
+|born = [[31 August]] [[1979]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Seeker]]<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+|signature = 
+|species = [[Human]]<ref name="PSG"/><ref name="COSG"/>
+|gender = Male<ref name="PSG"/><ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Red<ref name="PSG"/><ref name="COSG"/>
+|eyes = 
+|skin = Light<ref name="PSG"/><ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="PSG"/><ref name="COSG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSG"/><ref name="COSG"/>
+**[[Hufflepuff]]<ref name="PSG"/><ref name="COSG"/>
+**[[Hufflepuff Quidditch team]]<ref name="PSG"/><ref name="COSG"/>
+}}
+This '''individual''' was a [[Hufflepuff]] student at [[Hogwarts School of Witchcraft and Wizardry]] and a substitute [[Seeker]] on their [[Quidditch]] [[Hufflepuff Quidditch team|team]] in [[1991]] to [[1992]]. He was filling in when [[Unidentified Hufflepuff Seeker|the actual Seeker]] was unable to play.
+
+==Behind the scenes==
+*In the PC versions this Seeker substitute doesn't appear, having instead been replaced by [[Unidentified Hufflepuff Seeker|another student]].
+
+==Appearances==
+*{{PS|G}} {{1st}}
+*{{COS|G}} {{Comment|Presumably}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Male Hufflepuff Quidditch Seeker}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Unidentified Hufflepuffs]]
+[[Category:Wizards]]

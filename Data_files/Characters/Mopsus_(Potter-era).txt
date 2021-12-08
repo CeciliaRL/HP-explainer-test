@@ -1,0 +1,50 @@
+{{Cut content}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mopsus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Mopsus (antiquity)|Mopsus]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mopsus''' was a blind [[Seer]] whose power was great enough for him to accurately predict future events.<ref name="itv">[http://www.accio-quote.org/articles/2005/0705-edinburgh-ITVcubreporters.htm 16 July, 2005 Edinburgh press conference] on Accio Quote!</ref>
+
+==Behind the scenes==
+*[[J. K. Rowling]] stated at a press conference in [[2005]] that Mopsus was ''"a very, very early character"'', conceived of while she was still in the process of planning out {{PS}}.<ref name="itv"/> She said she chose to cut him because his skill at [[Divination]] was "too good", and that having such a talented [[Seer]] around during [[Harry Potter]]'s time would be detrimental to the story's drama, because it meant there would be someone who knew how things were going to turn out.<ref name="itv"/> However, it seems Mopsus may not have been discarded until after the [[Harry Potter and the Chamber of Secrets|second book]], as he is given as the [[Professor]] of Divination on a list of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] teachers which Rowling created at the time she was working on {{POA}}.<ref name="lex">"[http://www.hp-lexicon.org/about/sources/jkr.com/jkr-com-trans-jottings1.html More idle jottings (Page 1)]" on The Harry Potter Lexicon</ref>
+
+==Appearances==
+*{{PS}} {{Comment|Early drafts}}﻿
+
+==Notes and references==
+{{Reflist}}
+
+{{Divination}}
+
+[[es:Mopsus (Era de Potter)]]
+[[pl:Mopsus (Era Pottera)]]
+[[pt-br:Mopso (era Potter)]]
+[[Category:British individuals|Mopsus]]
+[[Category:Males|Mopsus]]
+[[Category:Seers|Mopsus]]
+[[Category:Wizards|Mopsus]]

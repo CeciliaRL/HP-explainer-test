@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Melvin Godfrey
+|born = 
+|died = 
+|blood = [[Muggle|No-Maj]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = Human
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Orchestra conductor
+|house = 
+|loyalty = 
+}}
+'''Melvin Godfrey''' was a [[Muggle|No-Maj]] orchestra conductor in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:WhenBroadwaySleeps.jpg}}</ref>
+
+He served as the musical director of a production of the comedy play ''[[When Broadway Sleeps]]'' that ran at the [[Glovers Comedy Theatre]] in [[New York]] in [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Godfrey, Melvin}}
+[[Category:Conductors]]
+[[Category:Males]]
+[[Category:Muggles]]

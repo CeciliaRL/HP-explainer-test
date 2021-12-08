@@ -1,0 +1,58 @@
+
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:1379ThirdWizard.png]]
+|name = Third semi-finalist of the 1379 duelling contest
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[1379 duelling contest]]
+}}
+This '''individual''' was a [[wizardkind|wizard]] who, in [[1379]], partook in an [[1379 duelling contest|international duelling contest]] on [[Dartmoor]].<ref name="WBoS">{{WBS}}</ref>
+
+==Biography==
+The duelling was noted, by witnesses, to have been of a standard that few had ever seen before. As the contest progressed, only four contestants remained: this wizard, two other wizards, and an [[England|English]] witch, [[Elizabeth Smudgling]].<ref name="WBoS"/>
+
+The [[First semi-finalist of the 1379 duelling contest|first semi-finalist]] was defeated by the [[Second semi-finalist of the 1379 duelling contest|second semi-finalist]], making this individual face the second wizard.
+
+[[File:Duelling contest 1379 2.png|250px|thumb|left|The third semi-finalist faces the [[Second semi-finalist of the 1379 duelling contest|second semi-finalist]]]]
+His opponent brought a great storm cloud down from the sky, drenching him in freezing-cold [[Water|rain]] and forcing him to evade bolts of lightning. He then got the idea to call a powerful cyclone, which not only blew away the storm, but also the [[Second semi-finalist of the 1379 duelling contest|second wizard]], the [[Judges of the 1379 duelling contest|judges]], most of the spectators and several trees.<ref name="WBoS" />
+
+It took several hours for everyone to regroup. Frightened of what the third wizard might do for his encore, the [[Judges of the 1379 duelling contest|judges]] attempted to talk [[Elizabeth Smudgling]], the last remaining finalist, out of duelling him, telling her that it might be easier if they simply gave him the cup before anyone else got hurt, but she refused.<ref name="WBoS" />
+
+[[File:1379 Third Vs Smudgling.png|250px|thumb|left|[[Elizabeth Smudgling]] disarms the third semi-finalist]]
+[[Elizabeth Smudgling|Smudgling]] and the third wizard then went up against each other. On the count of three, the wizard began a [[Mountain-moving spell|long, complex incantation that would have caused a mountain to break out of the ground]] and fall upon Smudgling's head had he been given the opportunity to complete it. However, Smudgling beat him to the punch, quickly murmuring the incantation for the [[Disarming Charm]] and sending his wand flying out of his hand. She was awarded the title of "[[Supreme Dueller]]" and the Disarming Charm became one of the most useful spells in any dueller's repertoire.<ref name="WBoS" />
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Tercer semifinalista del Concurso de duelos de 1379]]
+[[pl:Trzeci półfinalista Turnieju Pojedynków z 1379]]
+[[pt-br:Terceiro semifinalista do concurso de duelos de 1379]]
+[[Category:Duellists]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

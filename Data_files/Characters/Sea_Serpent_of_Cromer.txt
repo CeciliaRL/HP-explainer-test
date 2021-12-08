@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Sea Serpent of Cromer
+|born = 
+|died = Early [[18th century]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Sea serpent]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+The '''Sea Serpent of Cromer''' was a [[sea serpent]] which lived off the coast of [[Cromer]], [[Norfolk]]. It was slain by [[Glanmore Peakes]] during the early [[18th century|eighteenth century]].<ref>[[Glanmore Peakes]]'s Chocolate Frog Card in {{PS|G}}</ref>
+
+==Behind the scenes==
+*It is never revealed why Peakes slayed the Sea Serpent of Cromer, as [[Sea serpent|Sea Serpents]] are regarded as docile creatures that pose no threat to [[human]]s (despite hysterical [[Non-magic people|Muggle]] accounts of their ferocious behaviour). It could be that this particular serpent had an unusually aggressive demeanour, or that it wasn't strictly a Sea Serpent, but rather an aggressive relative, like the [[Selma]].<ref>{{FB|E}} - ''An A-Z of Fantastic Beasts''</ref>
+
+==Appearances==
+*{{PS|G}} {{FWC mention}}
+*{{COS|G}} {{FWC mention}}
+*{{POA|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}[[pl:Wąż morski z Cromer]]
+[[es:Serpiente de mar de Cromer]]
+[[Category:18th century deaths]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Sea serpents]]

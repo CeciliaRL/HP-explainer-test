@@ -1,0 +1,34 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Wool
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]] (possibly)
+|alias=
+|title=Owner of [[Wool's Orphanage]]
+|hidep=
+|species=[[Human]]
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidea=
+|job=Owner of [[Wool's Orphanage]]
+|house=
+|loyalty=[[Wool's Orphanage]]
+}}
+'''Wool''' was presumably the [[Non-magic people|Muggle]] after whom the [[Wool's Orphanage]] in London was named.<ref>{{HBP|F}}</ref> It is unknown whether Wool was the orphanage owner or namesake.
+
+==Appearances==
+*{{HBP|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Wool's Orphanage employees]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Muggles]]

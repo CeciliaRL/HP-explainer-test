@@ -1,0 +1,37 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Lydia Fry
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidea=y
+|job=
+|loyalty=
+}}
+'''Lydia Fry''' was a [[Non-magic people|Muggle]] media personality. She gave an interview in the [[28 February|28th February]]-[[26 March|26th March]] [[1997]] issue of ''[[My Teeth]]'', in which she shared her latest personal tips on life and maintaining dental health.<ref>{{HPLE|G}} {{see image|File:MyTeeth.png}}</ref> In the summer of that same year, she gave an interview in ''[[Radio Times]]'', in which she discussed what motivated her to take up [[fishing]].<ref>{{HPLE|G}} {{see image|File:RadioTimes.jpg}}</ref>
+
+==Behind the scenes==
+*This character was presumably named after [[Lydia Fry (real-world)|Lydia Fry]], who worked as an uncredited temporary graphic design assistant on {{HBP}},  and as an art department assistant on {{DH|F1}} and {{DH|F2}}.<ref>"[http://www.imdb.com/name/nm2490919/ Lydia Fry]" on IMDb.com</ref>
+
+==Appearances==
+*{{DH|F1}} {{comment|Mentioned on magazine covers}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Fry, Lydia}}
+[[Category:Females]]
+[[Category:Muggles]]

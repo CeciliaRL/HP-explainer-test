@@ -1,0 +1,68 @@
+{{Youmay|the student in [[Slytherin]]|[[Jo King (Gryffindor)|the student in Gryffindor]]}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Slytherin House Captain's Plaque.jpg|250px]]
+|name = Jo King
+|born = c. [[1940s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[R. J. H. King]] (possibly)
+*[[Jo King (Gryffindor)|Jo King]] (possibly)
+*[[King family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[King family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+***[[Slytherin Quidditch team]]
+}}
+'''Jo King''' was a [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1950s]]. She was [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin]] [[Quidditch]] [[Slytherin Quidditch team|team]] from [[1952]] to [[1956]].<ref>See [[:File:Slytherin House Captain's Plaque.jpg|this image]] of a prop used in the films on display as part of {{HPE}}.</ref><ref>[http://ab.fanrus.com/SMI/ViP/september/51/213/ ''Harry Potter: The Exhibition'' report] {{Comment|in Russian}}</ref>
+
+==Behind the scenes==
+*This individual's name appears to be a pun on the word "joking".
+
+==Appearances==
+*''[[Harry Potter (book series)|Harry Potter]]'' [[Harry Potter (film series)|films]] {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Andrew Snowy Owl (Slytherin)|Andrew Snowy owl]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin]] [[Quidditch]] [[Slytherin Quidditch team|team]]
+|years=[[1952]]-[[1956]]
+|successor=[[Rufus Winickus]]
+}}
+{{End box}}
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:King, Jo}}
+
+[[es:Jo King]]
+[[pl:Jo King (Slytherin)]]
+[[pt-br:Jo King (Sonserina)]]
+[[ru:Джо Кинг]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:King family]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

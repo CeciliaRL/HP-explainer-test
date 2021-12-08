@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Winston's niece.png|150px]]
+|name = Winston's niece
+|born = c. [[1980]] or earlier<ref>She must have at least been in her [[first year]] in [[1991]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSG"/>
+|gender = Female<ref name="PSG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="PSG"/>
+|eyes = Brown<ref name="PSG"/>
+|skin = White<ref name="PSG"/>
+|family = [[Winston]] (uncle)<ref name="PSG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSG"/>
+}}
+'''Winston's niece''' was a [[Wizardkind|witch]] and [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] student during the [[1990s]]. She was usually seen spending her free time at the [[Fourth-floor corridor|fourth floor main hall]]. When questioned whether she knew how to remove a [[curse]] from [[Harry Potter]], she remarked that [[Winston|her uncle]] once had a curse and he never knew how to get rid of it.<ref name="PSG">{{PS|G}} - GBC version</ref>
+
+==Appearances==
+*{{PS|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[pl:Siostrzenica Winstona]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Unknown House]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

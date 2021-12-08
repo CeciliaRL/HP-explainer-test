@@ -1,0 +1,38 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Rosenbaum
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|marital=
+|alias=
+|title=Author
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidea=
+|job=*Author of [[Rosenbaum's Motorcycle Owner's Manual]]
+*Owner of [[Rosenbaum's]]
+|loyalty=*[[Rosenbaum's]]
+*[[Rosenbaum's Motorcycle Owner's Manual]]
+}}
+'''Rosenbaum''' was a [[Non-magic people|Muggle]] and author of the book [[Rosenbaum's Motorcycle Owner's Manual]],<ref name="HPLE">{{HPLE|G}} {{see image|File:RosenbaumsMotorcycleOwnersManual.jpg}}</ref> and [[Rosenbaum's]], the company selling the book, which also used posters.<ref name="HPLE2">{{HPLE|G}} {{see image|File:Invincible750SuperPoster.jpg}}</ref>
+
+==Appearances==
+*{{DH|F1}}
+*{{HPLE}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Authors]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Muggles]]

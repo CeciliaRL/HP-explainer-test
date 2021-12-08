@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = daily-prophet
+|image = 
+|name = Kikis Trecus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Reporter for the ''[[Daily Prophet]]''
+|house = 
+|loyalty = ''[[Daily Prophet]]''
+}}
+'''Kikis Trecus''' was a [[Wizardkind|witch or wizard]] who worked as a reporter for the ''[[Daily Prophet]]''. Trecus wrote an article about the upcoming final match of the [[1994 Quidditch World Cup]], titled "Thousands of Supporters are Expected to Attend the Final Game", in the summer of [[1994]].<ref name="HPLE">{{HPLE|G}} (see [[:File:DailyProphet1994BackPage.png|this image]])</ref>
+
+==Appearances==
+*{{GOF|F}} {{1st Mention}}
+*{{HPLE}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Daily Prophet employees}}
+{{DEFAULTSORT:Trecus, Kikis}}
+[[pl:Kikis Trecus]]
+[[pt-br:Kikis Trecus]]
+[[Category:British individuals]]
+[[Category:Daily Prophet staff]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Journalists]]
+[[Category:Wizards]]

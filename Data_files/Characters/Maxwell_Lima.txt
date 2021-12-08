@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Maxwell Lima
+|born = 
+|died = 
+|blood = [[Non-magic people|No-Maj]]<ref name="poster"/>
+|marital = 
+|nationality = [[United States of America|American]]<ref name="poster"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="poster"/>
+|gender = Male<ref name="poster"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author<ref name="poster"/>
+|house = 
+|loyalty = 
+}}
+'''Maxwell Lima''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] author in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:TheNewYorkAffair.jpg}}</ref>
+
+He wrote a book based on a story idea by [[Franklin Greenwood]] and [[Mattie Lovett]].<ref name="poster" /> It was adapted into the musical ''[[The New York Affair]]'' by playwright [[Maurice Willard]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{1st Mention}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lima, Maxwell}}
+[[es:Maxwell Lima]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Muggles]]

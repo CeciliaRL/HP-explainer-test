@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Elderly wizard in an emerald-green cloak
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PS1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PS1"/>
+|gender = Male<ref name="PS1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''[[Wizardkind|wizard]]''' was among the crowds celebrating the fall of [[Tom Riddle|Lord Voldemort]] in [[1981]] by wearing wizarding attire among [[Non-magic people|Muggles]]. In particular, he was wearing an emerald-green [[cloak]]. [[Vernon Dursley]] saw this wizard on his drive to work on [[1 November]], and considered how ridiculous it was for a man even older than him to be dressed like that.<ref name="PS1">{{PS|B|1}}</ref>
+
+==Appearances==
+*{{PS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

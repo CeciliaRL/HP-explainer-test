@@ -1,0 +1,45 @@
+{{conjecture}}
+{{Individual infobox
+|theme = goblin
+|image = [[File:Oswald Beamish.jpg|250px]]
+|name = Unidentified goblin
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]<ref name="PSG"/><ref name="COSG"/>
+|gender = Male<ref name="PSG"/><ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Bald<ref name="PSG"/><ref name="COSG"/>
+|eyes = Black<ref name="PSG"/><ref name="COSG"/>
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Oswald Beamish]]<ref name="PSG"/><ref name="COSG"/>
+}}
+This '''[[goblin]]''' was an associate of [[Oswald Beamish]], and appeared beside him on the picture of the [[Wizardkind|wizard]]'s [[Chocolate Frog Card]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+
+==Behind the scenes==
+*It is unknown whether this was a real goblin or just an illustrative drawing.
+
+==Appearances==
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Black-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Goblins]]

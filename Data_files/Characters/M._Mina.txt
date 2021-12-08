@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = M. Mina
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Miraphora Mina (Ministry employee)|Miraphora Mina]] (possibly)
+*[[Miraphora Mina (Hogwarts student)|Miraphora Mina]] (possibly)
+*[[Ruth Mina]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''M. Mina''' was a [[wizardkind|wizard or witch]] who competed in [[Duelling|duels]]. The ''[[Daily Prophet]]'' published a special report in [[1996]] about a duel between M. Mina and [[E. Lima]] that was the final match of a duelling competition.<ref name="HPLE">{{HPLE|G}} {{see image|File:DailyProphetWizardingDuellingFinal.png}}</ref>
+
+==Behind the scenes==
+*This character was named after [[Miraphora Mina]], a graphic artist who worked on every [[Harry Potter films|''Harry Potter'' film]].
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{comment|Mentioned in a newspaper}}
+*{{HPLE}} {{comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Mina, M.}}
+
+[[de2:M. Mina]]
+[[es:M. Mina]]
+[[pl:M. Mina]]
+[[pt-br:M. Mina]]
+[[vi:M. Mina]]
+[[Category:Duellists]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Mina family|M.]]
+[[Category:Wizards]]

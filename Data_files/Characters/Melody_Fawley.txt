@@ -1,0 +1,54 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Melody Fawley
+|born = Between [[2006]] and [[2015]]<ref name="age"> In {{WU}}, [[Constance Pickering]] says Grim and Penelope got married in June 2006 "and then they had two children". Penelope went missing 2015, so her children had to be born in that nine year period.</ref>
+|died = 
+|blood = [[Half-blood]], [[Pure-blood]] or [[Squib]]<ref name="blood">Her parents were a witch and a wizard, and the [[Fawley family]] was one of the [[Sacred Twenty-Eight]]. Unless she was a [[Squib]], she had to be at least half-blood.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Grim Fawley]] (father) <br/> 
+[[Penelope Fawley]] (mother) <br/> 
+[[Addison Fawley]] (brother) <br/> 
+[[Lucretia Fawley]] (paternal grandmother) † <br/> 
+[[Marshall Fawley]] ( paternalgrandfather) † <br/> 
+[[Penelope Fawley's father|maternal Grandfather]] <br/> 
+[[Penelope Fawley's mother|maternal Grandmother]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Fawley family]]
+}}
+'''Melody Fawley''' was the daughter of [[Grim Fawley]] and [[Penelope Fawley]], who were [[Auror]]s. She had a brother, Addison Fawley.
+
+In 2015,<ref name="date">{{WU}} was set in 2018. It states Penelope has been missing for three years.</ref> her mother Penelope went missing and a subsequent investigation overseen by the council of which [[Gareth Greengrass]] was a member, was called off. Her father began searching for her, leading [[Constance Pickering]] to suspect he had unleashed the [[Calamity]] through the use of the [[Foundables Spell]].<ref name="WU">{{WU}} ([https://youtu.be/bW3-J9k0pp4?t=629 see video])</ref>
+
+Melody was said to have inherited her mother Penelope's nose.<ref>[https://wizardsunite.gamepress.gg/foundable/grims-grief A section of Grim's journal]</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Fawley, Melody}}
+
+{{character-stub}}
+[[Category:2000s births]]
+[[Category:British individuals]]
+[[Category:Fawley family]]
+[[Category:Females]]

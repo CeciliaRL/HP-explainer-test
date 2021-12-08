@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Insulting wizard
+|hideb=
+|born=
+|died=Before [[1995]]
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="OOTPG"/>
+|gender=Male<ref name="OOTPG"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=1
+|family=
+|hidem=1
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=1
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|He called me the [[Fat Lady]]! I am probably lady, but he was no gentleman.|The [[Fat Lady]] about him.|Harry Potter and the Order of the Phoenix (video game)}}
+This '''individual''' was a [[Wizardkind|wizard]] who possibly lived at [[Hogwarts School of Witchcraft and Wizardry]]. In [[1995]] he insulted the [[Fat Lady]], calling her fat and ugly.<ref name="OOTPG">{{OOTP|G}}</ref>
+
+==Behind the scenes==
+*If he had a portrait at [[Hogwarts Castle|Hogwarts]] he may have died prior to [[1995]] as many portraits hung at Hogwarts, depicting deceased individuals at that time.
+
+==Appearances==
+*{{OOTP|G}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

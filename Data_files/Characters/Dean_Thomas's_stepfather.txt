@@ -1,0 +1,60 @@
+{{conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mr Thomas
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Dean Thomas's mother|Mrs Thomas]] (wife)
+*[[Dean Thomas]] (stepson)
+*[[Dean Thomas's half-siblings|Several children with Mrs Thomas]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Thomas family]]
+}}
+{{Quote|If Dean is listening, or if anyone has any knowledge of his whereabouts, his parents and sisters are desperate for news.|[[Lee Jordan]] appeals to listeners on ''[[Potterwatch]]''|Harry Potter and the Deathly Hallows}}
+This '''man''' was the [[Non-magic people|Muggle]] stepfather of [[Dean Thomas]].
+
+==Biography==
+He married [[Dean Thomas' mother|Dean's mother]] some time after she was abandoned by her [[Dean Thomas's father|first husband]]. They had several [[Dean Thomas's half-siblings|children]] together and lived happily in [[London]].<ref>[http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=2 Dean Thomas's background] at {{JKRS}}</ref>
+
+After [[Cedric Diggory]] was murdered by [[Tom Riddle|Lord Voldemort]] in [[1995]], Dean consciously avoided telling his parents about the event, presumably because he did not want them to pull him out of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], although it also seemed likely the same murderer would be coming after their son as well, hence he did not wish to fill his parents with unneeded dread.<ref name="OOTP11">{{OOTP|B|11}}</ref>
+
+When Dean was forced to go into hiding during the [[Second Wizarding War]], Mr Thomas and his wife did not know where he had gone, and feared the worst, so ''[[Potterwatch]]'' broadcasted a request urging anyone who was with Dean to order him to please contact his family.<ref name="DH22">{{DH|B|22}}</ref>
+
+==Behind the scenes==
+*It may have been possible that Dean Thomas' story could have been partially inspired by the song "Colour Him Father" by an American group The Winstons, which tells of a young man respecting his stepfather who cares for him and several siblings. The stepfather married a war widow, as the narrator says his true father "was killed in the war", akin to Dean Thomas' father being killed by Voldemort.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{DH}} {{Mention}}
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Ojczym Deana Thomasa]]
+{{DEFAULTSORT:Thomas, Dean's stepfather}}
+[[Category:British individuals|Thomas, Mr]]
+[[Category:Males|Thomas, Mr]]
+[[Category:Muggles|Thomas, Mr]]
+[[Category:Parents]]
+[[Category:Thomas family]]
+[[Category:Unnamed family members]]

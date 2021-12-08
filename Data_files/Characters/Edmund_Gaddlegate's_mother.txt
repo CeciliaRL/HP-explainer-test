@@ -1,0 +1,48 @@
+{{Individual infobox
+|image = [[File:MrsGaddlegate.png]]
+|name = Mrs Gaddlegate
+|born = [[15th century]]<ref name="WBoS" />
+|died = 
+|alias = 
+|title = 
+|marital = 
+|signature = 
+|blood = [[Non-magic people|Muggle]]<ref name="WBoS" />
+|nationality = [[England|English]]<ref name="WBoS" />
+|species = [[Human]]<ref name="WBoS" />
+|gender = Female<ref name="WBoS" />
+|skin = White<ref name="WBoS" />
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = [[Edmund Gaddlegate]] (son)<ref name="WBoS" />
+|romances = 
+|job = 
+|loyalty = *Gaddlegate family<ref name="WBoS" />
+*[[Poppleton]]<ref name="WBoS" />
+|theme = muggle
+}}
+'''Mrs Gaddlegate''' was a [[Non-magic people|Muggle]] woman who lived in the village of [[Poppleton]], [[England]] in the late [[15th century]].<ref name="WBoS" />
+
+==Biography==
+In [[1484]], the [[Earl of Paunchley]], the tyrannical noble who lorded over the village of [[Poppleton]], [[England]], decided to hold a [[Jousting tournament]] on the grounds of his castle. Shortly before it was set to begin, [[Edmund Gaddlegate]], a young boy he had ordered to hang pennants and banners, fell out of a tree and broke his leg. Putting him to bed, Mrs Gaddlegate sent word to the Earl that her son would not be able to watch the match, which he had mandated all Poppleton residents attend.<ref name="WBoS">{{WBS}}</ref>
+
+The Earl dispatched four burly henchman to bring Mrs Gaddlegate and her son to the castle. He told her that as punishment, her son would be tied to a [[horse]] and forced to joust against him in the Tournament, as well as against all the [[knight]]s who had come to take part in the competition. When the knights found out that the Earl expected them to joust against an injured boy, they left in disgust, and the Earl announced he alone would challenge Edmund.<ref name="WBoS" />
+
+As the Earl charged at Edmund, [[Hannah Cockleford]], a [[wizardkind|witch]] in the crowd, cast a [[Shield Charm]] between them. Edmund was saved, and the Earl ended up under his horse, causing him to think he was a [[donkey]] named Hairy Cyril for the rest of his life.<ref name="WBoS" />
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Gaddlegate}}
+[[pl:Matka Edmunda Gaddlegate'a]]
+[[Category:15th century births]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

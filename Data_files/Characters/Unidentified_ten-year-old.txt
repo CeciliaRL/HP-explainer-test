@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Unidentified ten-year-old
+|born = [[1985]]<ref name="OOTP1"/>
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="OOTP1"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP1"/>
+|gender = Male<ref name="OOTP1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Little Whinging]]<ref name="OOTP1"/>
+}}
+{{Quote|So who've you been beating up tonight? Another ten-year-old? I know you did [[Mark Evans]] three days ago.|Harry Potter to Dudley Dursley|Harry Potter and the Order of the Phoenix}}
+This '''individual''' was a [[Non-magic people|Muggle]] boy that lived in [[Little Whinging]]. In [[1995]], he was beaten up by [[Dudley Dursley]] and his [[Dudley Dursley's gang|gang]].<ref name="OOTP1">{{OOTP|B|1}}</ref>
+
+==Behind the scenes==
+{{Dialogue a-b-c-a|Harry Potter|Beat up another 10-year-old?|Dudley Dursley|This one deserved it.|Gang|Yeah.|Five against one, very brave.|Harry Potter to Dudley Dursley and his gang|Harry Potter and the Order of the Phoenix (film)}}It is first actually said in {{OOTP|FA}} that there is a ten-year-old boy, whereas in the game, Harry merely does not get an answer.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{OOTP|F}} {{Mention}}
+*{{OOTP|G}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1980s births]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

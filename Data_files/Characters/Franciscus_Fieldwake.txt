@@ -1,0 +1,36 @@
+{{transcribed image|File:ProtectionCharmYourMind.jpg}}
+{{Individual infobox
+|name = Franciscus Fieldwake
+|nationality = [[United States of America|American]]<ref name="book"/>
+|species = [[Human]]<ref name="book"/>
+|gender = Male<ref name="book"/>
+|family = [[Fieldwake family]]<ref name="book"/>
+|job = *Author<ref name="book"/>
+*Reporter for ''[[The New York Ghost]]''<ref name="book"/>
+|loyalty = [[The New York Ghost]]<ref name="book"/>
+|theme = wizard
+}}
+'''Franciscus Fieldwake''' was an [[United States of America|American]] [[wizardkind|wizarding]] author and reporter for the [[The New York Ghost]].<ref name="book">{{FB|F}} {{see image|File:ProtectionCharmYourMind.jpg}}</ref><ref name="dec6sunrise">{{FB|F}} {{See image|File:The New York Ghost - 6 Dec 1926 - Sunrise Early Edition.png}}</ref>
+
+==Biography==
+He wrote the book ''[[Protection Charm Your Mind: A Practical Guide to Counter Legilimensy]]''.<ref name="book" />
+
+''[[The New York Ghost]]'' published a report by him about a [[wizardkind|wizard or witch]] from [[Idaho]] caught drunk [[broomstick|broom]]-riding after winning a [[foxtrot]] competition in its [[6 December]] [[1926]] morning issue.<ref name="dec6sunrise" />
+
+==Behind the scenes==
+*This character was named after [[Lauren Wakefield]], a graphic artist who worked on the last three [[Harry Potter (film series)|''Harry Potter'' films]], and on ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|F}} {{1st Mention}} {{C|Name on book cover}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Fieldwake, Franciscus}}
+[[pl:Franciscus Fieldwake]]
+[[Category:American individuals]]
+[[Category:Authors]]
+[[Category:Fieldwake family]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:The New York Ghost staff]]
+[[Category:Wizards]]

@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|name = Cyprian Youdle's killer
+|image = 
+|born = Before [[1357]]<ref name="QTA6"/>
+|died = 
+|blood = 
+|nationality = 
+|title = 
+|alias = 
+|marital = 
+|species = [[Human]]<ref name="QTA6"/>
+|gender = 
+|hair = 
+|eyes = 
+|skin = 
+|weight = 
+|height = 
+|family =
+|romances = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|job = 
+|house = 
+|loyalty = [[Quidditch]]<ref name="QTA6"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard or witch]] attended a [[Quidditch]] match in [[Norfolk]] in [[1357]], most likely as a spectator. For reasons unknown, they killed the match's [[Quidditch referee|referee]], [[Cyprian Youdle]], with a [[curse]] and fled, thus becoming the only known person in history to kill a Quidditch referee during the course of a match. The individual was never caught for their crime or identified.<ref name="QTA6">{{QTA|R|6}}</ref>
+
+==Appearances==
+*{{PS|G}} {{FWC mention}}
+*{{COS|G}} {{FWC mention}}
+*{{POA|G}} {{FWC mention}}
+*{{QTA|R}} {{Mention}}
+*{{PM}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Morderca Cypriana Youdle'a]]
+[[Category:Historical figures]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Murderers]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,75 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Ivy Warrington from Harry Potter Magic Awakened.png|thumb]]
+|name = Ivy Warrington
+|born = Between [[1 September]] [[1996]] and [[31 August]] [[1997]]{{MATimeRef}}
+|died = 
+|blood = [[Half-blood]] or [[Muggle-born]]<ref name="blood">Her father was a Muggle, her grandmother was a witch, meaning her mother was either a Squib or a witch. If her mother was a Squib, it is most likely would be considered Muggle-born, given Muggle-borns descend from Squibs. </ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="MA"/>
+|gender = Female<ref name="MA"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="MA"/>
+|eyes = Blue<ref name="MA"/>
+|skin = White<ref name="MA"/>
+|family = *[[Warrington sisters' father|Father]]
+*[[Winifred Warrington]] (sister)
+*[[Warrington sisters' grandmother|Grandmother]]
+*[[Cassius Warrington]] (possibly)
+*[[Warrington family]]
+|romances = 
+|animagus = 
+|boggart = A dark version of herself<ref name="MA"/>
+|wand = [[Ivy Warrington's wand|12½, Cherry, Dragon heartstring]]<ref name="info">{{MA}} - [https://mp.weixin.qq.com/s/EpfpIb27d0sgWuA34Sn8cA Ivy Warrington character profile]</ref>
+|patronus = [[Pekingese]]<ref name="info"/>
+|job = 
+|house = <!--- Her house is always the same as the player, so please leave this field blank, thank you.--->
+|loyalty = *[[Warrington family]]
+*[[Hogwarts School of Witchcraft and Wizardry]] 
+**[[Duelling Club (1990s)|Duelling Club]]
+}}
+'''Ivy Warrington''' was a [[half-blood]] or [[muggle-born]]<ref name="blood"/> [[Wizardkind|witch]], who attended [[Hogwarts School of Witchcraft and Wizardry]] in [[2008]].{{MATimeRef}}
+
+==Biography==
+===Early life {{C|Before 2008}}===
+Ivy was born to a [[Non-magic people|Muggle]] [[Warrington sisters' father|father]]. She had a [[Warrington sisters' grandmother|grandmother]] who was a witch, and one sister, [[Winifred Warrington]].<ref name="MA"/>
+
+At one point during her childhood, Winifred [[Vanishment|vanished]] herself. Their grandmother tried to help her forget what happened by using a [[Memory Charm]]. However, it caused her to wholly forget about Winifred. Ivy had an ability to vanish, and would do so even when she didn't intend to.<ref name="MA"/>
+
+===Hogwarts years {{C|2008–}}===
+At the age of eleven, Ivy began attending [[Hogwarts School of Witchcraft and Wizardry]]. During the [[Sorting Ceremony]], Ivy was at first missing, having been distracted by bushes outside the castle, but was later found by [[Rubeus Hagrid]].<ref name="MA"/>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': Ivy was proficient in the casting of charms. She could successfully cast the [[Levitation Charm]], the [[Disarming Charm]] and the [[Locking Spell]], for example.<ref name="MA"/> She was also capable of producing a corporeal [[Patronus Charm|Patronus]] in the form of a [[pekingese]], an exceptional [[magic]]al feat for a Hogwarts student.<ref name="info"/> She was known to enjoy [[Charms (class)|Charms class]] at Hogwarts.<ref name="info"/>
+*'''[[Transfiguration]]''': She could successfully cast the [[Vanishing Spell]], to the point that she was able to [[Vanishment|vanish]] large objects, like luggage, adult-sized [[Suit of armour|suits of armours]] and even people.<ref name="MA"/>
+*'''[[Healing magic]]''': She once successfully used the [[healing spell]] ''[[Episkey]]'' to heal [[Daniel Page]]'s broken nose.<ref name="MA">{{MA}}</ref>
+
+==Possessions==
+*'''[[Ivy Warrington's wand|Wand]]''': Ivy's wand was 12½ inches, made of [[Cherry (tree)|cherry]] with a [[dragon heartstring]] [[Wand core|core]].<ref name="info"/>
+
+==Behind the scenes==
+*It is possible that she was related to [[Cassius Warrington]].
+*Ivy doesn't have a set House at Hogwarts. Her character will be put into the same House that the player chooses to be in.
+
+==Appearances==
+{{Imagecat|Images of Ivy Warrington}}
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[ru:Айви Уоррингтон]]
+{{DEFAULTSORT:Warrington, Ivy}}
+[[Category:1990s births]]
+[[Category:Blue-eyed individuals]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Sorted in 2008]]
+[[Category:Unknown House]]
+[[Category:Warrington family]]
+[[Category:Wizards]]

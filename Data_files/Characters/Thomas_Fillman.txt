@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Thomas Fillman
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Author
+|house=
+|loyalty=
+}}
+'''Thomas Fillman''' was a [[Muggle|No-Maj]] author in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:WhenBroadwaySleeps.jpg}}</ref>
+
+One of his books was adapted into the comedy play ''[[When Broadway Sleeps]]''.<ref name="poster" /> This play was staged at the [[Glovers Comedy Theatre]] in [[New York]] in [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Fillman, Thomas}}
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Muggles]]

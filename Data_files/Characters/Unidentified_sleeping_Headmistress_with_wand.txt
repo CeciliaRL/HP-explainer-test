@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=hogwarts-staff
+|image= [[File:Unidentified_Sleeping_Headmistress_with_wand.png|thumb]]
+|name= Unidentified sleeping Headmistress with wand
+|hideb=
+|born=
+|died= Before [[1990s]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals.</ref>
+|blood=
+|alias=
+|title=*[[Professor]]<ref name="MHP"/>
+*[[Headmaster]]<ref name="MHP"/>
+|nationality={{GBorIE}}
+|species=[[Human]]<ref name="MHP"/>
+|gender=Female<ref name="MHP"/>
+|height=
+|hair=
+|eyes=
+|skin=Light<ref name="MHP"/>
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job= [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]]<ref name="MHP"/>
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="MHP"/>
+}}
+This '''[[Wizardkind|witch]]''' was appointed [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. After her death, her [[portrait]] was hung in the [[Headmaster's office]], in order to give advice to the current head. Her portrait was commonly found left of the headmaster's desk, in the top row between [[Edessa Skandenberg|Edessa Sakndenberg]] and [[Everard]].<ref name="MHP">{{MHP}}</ref>
+
+==Appearances==
+*{{MHP}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowana śpiąca dyrektorka z różdżką]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

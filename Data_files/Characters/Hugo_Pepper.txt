@@ -1,0 +1,43 @@
+{{Imageless}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Hugo Pepper
+|born = 
+|died = 
+|blood =  [[Non-magic people|Muggle]]<ref name="FBC"/>
+|marital = 
+|nationality = [[Great Britain|British]] or [[Ireland|Irish]]<ref name="FBC"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC"/>
+|gender = Male<ref name="FBC"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family =
+*[[Janice Pepper]] (sister)<ref name="FBC"/>
+*[[Pepper family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = Pepper family<ref name="FBC"/> 
+}}
+'''Hugo Pepper''' was a [[Non-magic people|Muggle]] who had a sister, [[Janice Pepper]] who was a [[Wizardkind|witch]]. He was in [[Scotland]] when a big flying creature was seen over a train station.<ref name="FBC">{{FBC|11}}</ref>   
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}} 
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+{{Character-stub}}

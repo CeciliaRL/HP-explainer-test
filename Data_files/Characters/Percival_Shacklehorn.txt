@@ -1,0 +1,68 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Percival Shacklehorn.png|250px]]
+|name = Percival Shacklehorn
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = Blue
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Adventurer
+*[[Wizard poacher|Poacher]]
+|house = 
+|loyalty = [[Puddlemere United]]
+}}
+'''Percival Shacklehorn''' was a [[Great Britain|British]] [[wizardkind|wizard]] and self-professed adventurer. In actuality, he was an unscrupulous [[Wizard poacher|poacher]], he was at one point fined by the [[Ministry of Magic]] for illegally hunting a [[Graphorn]], a [[magic]]al [[creature]] that was endangered during the [[1920s]].<ref>[https://twitter.com/pottermore/status/781139004917964800 Pottermore Twitter post]</ref>
+
+==Biography==
+He went to the [[Austria]]n [[Alps]] in the hopes of capturing a [[Graphorn]]. While there, a [[Mountain Troll]] found its way into his [[Percival Shacklehorn's tent|magically-expanded tent]], knocking him unconscious in the process.
+
+The [[creature]] broke a bottle of [[Invisibility Potion]] that Shacklehorn, a competent [[potioneer]], had brewed to aid him in hunting the Graphorn. This rendered the beast invisible when [[Laura Thorn]], a [[Non-magic people|Muggle]] monster hunter investigating a [[Yeti]] sighting, chanced into Shacklehorn's tent (on which he had failed to place [[Muggle-Repelling Charm]]s). The tent was [[magic]]ally transported back to the [[Leaky Cauldron]] in [[London]], taking its three, unlikely occupants with it.
+
+Shacklehorn initially claimed he was in the Alps to view Graphorns in their natural habitat when questioned by [[Mathilda Grimblehawk]] and [[Mathilda Grimblehawk's partner|her partner]]. However, upon further interrogation, he admitted that he had been trying to catch one. He was fined by the [[Ministry of Magic]] for illegally hunting a magical creature. Grimblehawk and her partner were able to capture the [[troll]].<ref>{{FBC|2}}</ref>
+
+Shacklehorn was, apparently, a supporter of [[Puddlemere United]], as he kept a poster of that [[Quidditch]] [[Quidditch team|team]] in his tent.
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': Shacklehorn was proficient in the [[magic]]al art and [[science]] of potion-making, having successfully brewed a batch of the [[Invisibility potion]] for his travels. 
+
+==Possessions==
+*'''[[Percival Shacklehorn's socks|Socks]]''': Shacklehorn owned a pair of socks which were said to have had an unpleasant and sweaty odour.
+*'''[[Percival Shacklehorn's suitcase|Suitcase]]''': Shacklehorn owned a suitcase, which he took with him on his travels to contain his possessions and clothing.
+*'''[[Percival Shacklehorn's tent|Tent]]''': Shacklehorn owned a tent, which was [[charm]]ed to be much larger on the inside than it appeared to be on the outside. Its interior included columns, a staircase, multiple armchairs, wooden tables, and a [[Grandfather clock]].
+*'''Net''': Shacklehorn owned a net which he attempted to use to capture a [[Graphorn]].
+
+==Behind the scenes==
+*Before he introduces himself to the player, Shacklehorn is referred to as the "Camping Wizard".
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Shacklehorn, Percival}}
+[[pl:Percival Shacklehorn]]
+[[es:Percival Shacklehorn]]
+[[fr:Percival Shacklehorn]]
+[[ru:Персиваль Шаклхорн]]
+
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Puddlemere United supporters]]
+[[Category:Wizards]]

@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mallory Twiddle
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = ''[[Daily Prophet]]''
+}}
+'''Mallory Twiddle''' was a [[Wizardkind|wizard]] who wrote to the ''[[Daily Prophet]]'' in [[July]] [[1998]] to complain about how [[Gringotts Wizarding Bank|Gringotts]] was using [[sphinx]]es to guard its high security vaults.<ref name="wizardst">"[http://www.hplex.info/wizards/a-z/t.html Wizards, Witches and Beings: T]" on the Harry Potter Lexicon</ref><ref name="dp">"[http://www.hplex.info/about/sources/source_dp.html Daily Prophet newsletters]" on The Harry Potter Lexicon</ref> According to Twiddle, he ran into one of these sphinxes and spent an hour trying to solve its riddles, and was eventually chased out of the bank.<ref name="wizardst" />
+
+==Etymology==
+The name "Mallory" comes from an English surname which meant "unfortunate" in Norman French.
+
+==Behind the scenes==
+*In {{DH}}, a [[dragon]] is shown guarding the high security vaults at [[Gringotts Wizarding Bank|Gringotts]], contradicting the earlier revelation that sphinxes were used as guards in the ''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''. However, this dragon escaped during the [[Break-in of Gringotts Wizarding Bank (1998)|Gringotts break-in]] on [[1 May]] [[1998]], causing substantial damage to the bank in the process. Twiddle's letter was published in the [[31 July]] [[1998]] issue of the ''Daily Prophet Newsletters'',<ref name="dp" /> so it's possible that Gringotts decided to switch to using sphinxes to guard its high security vaults after the break-in, in the hope of preventing further such incidents from occurring.
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Twiddle, Mallory}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

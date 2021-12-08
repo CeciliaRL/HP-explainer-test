@@ -1,0 +1,36 @@
+{{HogwartsMysterySpoiler}}
+{{Pet individual infobox
+|image = [[File:Hieronymus.png|250px]]
+|name = Hieronymus
+|born = Pre [[1987]]<ref name="HM41cmc"/>
+|died = 
+|alias = 
+|title = 
+|species = [[Fire Crab]]<ref name="HM41cmc">{{HM|4|1|cmc}}</ref>
+|gender = Male<ref name="HM41cmc"/>
+|height = 
+|hair = 
+|feathers = 
+|eyes = Yellow<ref name="HM41cmc"/>
+|skin = Grey<ref name="HM41cmc"/>
+|family = 
+|loyalty = [[Silvanus Kettleburn]]
+}}
+'''Hieronymus''' was a male [[Fire Crab]] that was used by [[Silvanus Kettleburn]] during his [[Care of Magical Creatures]] class for [[fourth year]]s in the [[1987–1988 school year]].<ref name="HM41cmc"/>
+
+==Biography==
+His name was given by one of Kettleburn's [[Slytherin]] students, [[Liz Tuttle]].<ref name="HM41cmc"/>
+
+During one of the classes, Liz mentioned to [[Jacob's sibling]] that Hieronymus said Kettleburn was reckless because he put creatures first.<ref name="reference">{{HM|4|1|cmc}} - {{see image|File:Hieronymus Class.jpg}}</ref>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[ru:Иероним]]
+[[Category:Care of Magical Creatures]]
+[[Category:Fire Crabs]]
+[[Category:Males]]
+[[Category:Pets]]
+[[Category:Yellow-eyed individuals]]

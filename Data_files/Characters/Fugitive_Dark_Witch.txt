@@ -1,0 +1,41 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = dark-wizard
+|image = 
+|name = Fugitive Dark Witch
+|born = Before [[1990]]<ref name="HM76A2">{{HM|7|6|Auror Field Training}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM76A2"/>
+|gender = Female<ref name="HM76A2"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Dark Arts]]<ref name="HM76A2"/>
+}}
+This '''[[Dark Wizard|Dark Witch]]''' lurked about the shops in [[Knockturn Alley]] and was spotted by a [[Unidentified witness (II)|witness]] during the [[1990–1991 school year]] before disappearing, probably using some kind of [[Transfiguration]].<ref name="HM76A2"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Criminals]]
+[[Category:Dark wizards]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]

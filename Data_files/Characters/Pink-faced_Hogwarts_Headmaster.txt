@@ -1,0 +1,61 @@
+{{Spoiler|HM|WU}}
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Unidentified Headmaster1.jpg|250px]]
+|name = Unidentified Hogwarts Headmaster
+|born = before [[1957]]
+|died = Prior to [[1986]]
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]<ref name="COSF"/>
+*[[Headmaster]]<ref name="COSF"/>
+|signature = 
+|species = [[Human]]<ref name="COSF"/>
+|gender = Male<ref name="COSF"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="COSF"/>
+|eyes = 
+|skin = Light<ref name="COSF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="COSF"/>
+|patronus = 
+|job = [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] (formerly)<ref name="COSF"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSF"/>
+}}
+This '''unidentified individual''' was a [[Wizardkind|wizard]] who was [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] sometime before [[Armando Dippet]].<ref name="COSF"/>
+
+After his death, his [[portrait]] hung in the [[Headmaster's office]] in order to give advice to the current Head.<ref name="interview">In an [http://www.the-leaky-cauldron.org/2007/10/20/j-k-rowling-at-carnegie-hall-reveals-dumbledore-is-gay-neville-marries-hannah-abbott-and-scores-more interview], J.K. Rowling stated, "all the portraits you see in the Headmaster's study are all Headmasters and mistresses who died."</ref><ref name="COSF">{{COS|F}} DVD (Disc 2 - ''Dumbledore's Office'')</ref>
+
+An inscription on his portrait read "Atatis XXXV",<ref name="Inscription">See [[:File:Unidentified Headmaster1.jpg|this image]].</ref> indicating that he was aged thirty-five when the portrait was painted, as ''atatis'' is a Latin form of "aetatis", meaning "at the age of".<ref name="Wikipedia">[[Wikipedia:List of Latin phrases:A|List of Latin phrases:A]] at [[Wikipedia:Main Page|Wikipedia]]</ref>
+
+The inscription on his frame read "''Suprem Aeris regio Aquce Salsa Regio Vegetabis Pura''".<ref name="MHP">{{MHP}} - {{See image|File:Pink-faced_headmaster-frame.png}}</ref>
+
+A portrait of him was hung in the [[Gryffindor Common Room]].<ref name="WU">{{WU}} - {{See image|File:Gryffindor Common Room WU.jpg}}</ref>
+
+==Appearances==
+*{{COS|F}} {{1st}} {{Portrait}}
+*{{HBP|F}} {{Portrait}}
+*{{WWHP}} {{Portrait}}
+*{{LEGO|Y1}} {{Portrait}}
+*{{LEGO|Y2}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+*{{HM}} {{Portrait}}
+*{{WU}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[pt-br:Diretor de Hogwarts com rosto rosado]] 
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Unidentified Hogwarts employees]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

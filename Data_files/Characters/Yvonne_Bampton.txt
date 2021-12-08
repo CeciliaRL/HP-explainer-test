@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Yvonne Bampton
+|born = [[1 September]] [[1975]] - early [[July]] [[1982]]<ref>She was at Hogwarts during the 1993-1994 school year. 1 September is the earliest birthday to not be able to go to Hogwarts that year upon turning 11. Sometime in early July is the latest possible birthday to be able to go to Hogwarts that year upon turning 11.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = 
+}}
+'''Yvonne Bampton''' was a [[Ravenclaw]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She attended Hogwarts during the [[1993-1994 school year]].
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Bampton, Yvonne}}
+[[pl:Yvonne Bampton]]
+[[fr:Yvonne Bampton]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

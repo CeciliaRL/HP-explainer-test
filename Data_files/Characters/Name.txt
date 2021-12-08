@@ -1,0 +1,18 @@
+{{Individual infobox
+|name = Name
+|species = [[Human]]
+|job = Author
+|theme = wizard
+}}'''Name''' was a [[Wizardkind|witch or wizard]] and author of ''[[My Favourite Spells]]''.<ref name="JKRS">{{JKRS}}</ref>
+
+==Behind the scenes==
+*It is possible this individual and [[Name author]] are the same person.
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Authors]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

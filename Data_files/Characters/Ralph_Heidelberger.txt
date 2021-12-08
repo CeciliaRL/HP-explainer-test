@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:RalphHeidelberger.JPG|250px]]
+|name = Ralph Heidelberger
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[United States of America|American]]<ref name="QWC"/>
+|alias = 
+|title = [[Keeper]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Keeper]] for the [[American National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[American National Quidditch team]]<ref name="QWC"/>
+}}
+'''Ralph Heidelberger''' was an [[United States of America|American]] [[Wizardkind|wizard]] who played as [[Keeper]] on the [[American National Quidditch team]] during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]]. He wore a helmet with a brown [[pumpkin]] design on it.<ref name="QWC">{{QWC}}</ref>
+
+==Biography==
+By the year [[1996]], he was immortalised on a [[Chocolate Frog Card]] for his achievements in the sport of [[Quidditch]].<ref name="HBPG">{{HBP|G}}</ref>
+
+It is unknown whether his ancestors came from [[Heidelberg]] home of the [[Heidelberg Harriers]].
+
+==Etymology==
+*The name "Ralph" is contracted form of the Old Norse name ''Rádúlfr'' (or its Norman form ''Radulf''). It was introduced into England by Scandinavian settlers before the Norman conquest, though afterward it was bolstered by Norman influence. In the Middle Ages it was usually spelled Ralf, but by the 17th century it was most commonly Rafe, reflecting the normal pronunciation. The Ralph spelling appeared in the 18th century. A famous bearer of the name was Ralph Waldo Emerson (1803-1882), an American poet and author who wrote on transcendentalism.
+*See [[Radulf]], its Latin form Radolphus [http://harrypotter.wikia.com/wiki/Radolphus_Pittiman][http://harrypotter.wikia.com/wiki/Radolphus_Lestrange]) and its Spanish form [[Raul Almeida]].
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Heidelberger, Ralph}}
+[[es:Ralph Heidelberger]]
+[[fr:Ralph Heidelberger]]
+[[pl:Ralph Heidelberger]]
+[[Category:American individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Wizards]]

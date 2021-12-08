@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:Gregor Favila.png|250px]]
+|name=Gregor Favila
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Gregor Favila''' was an [[United States of America|American]]  [[wizardkind|wizarding]] criminal who operated in the [[1920s]].<ref name="cob">{{CB|119}} {{See image|File:GregorFavilaWanted.jpg}}</ref>
+
+==Biography==
+In or around [[1926]], the [[Magical Congress of the United States of America]] issued a wanted poster for Favila, which stated he was wanted for "[[Muggle|No-Maj]] murder."<ref name="cob" /> It described him as a "vicious wizard" and a "malicious killer," warning that he was "bearing [a] [[wand]], most menacing and extremely dangerous."<ref name="cob" /> A reward of 4,500 [[Dragot]]s was offered for information leading to his capture.<ref name="cob" /> 
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Favila, Gregor}}
+[[fr:Gregor Favila]]
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Wizards]]

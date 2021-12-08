@@ -1,0 +1,67 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Mary Buchanan
+|hideb=
+|born=[[28 May]], [[1814]]<ref name="dates"/>
+|died=[[27 December]], [[1876]] (aged 62)<ref name="dates"/>
+|blood= 
+|alias=
+|title=
+|nationality=[[Scotland|Scotland]]<ref name="PM"/>
+|species=[[Human]]<ref name="PM"/>
+|gender=Female<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+*[[John Buchanan]] (husband)<ref name="PM"/>
+*[[Hamish Buchanan]] (son)<ref name="PM"/>
+*[[Flora Buchanan]] (daughter)<ref name="PM"/>
+*[[Angus Buchanan]] (son)<ref name="PM"/>
+*[[Angus Buchanan's siblings|Eight other children]]<ref name="PM"/>
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Buchanan family]]<ref name="PM"/>
+}}
+'''Mary Buchanan (née Proctor)'''<ref name="name">[https://familysearch.org/pal:/MM9.1.1/XYK5-Q6P "Scotland, Births and Baptisms, 1564-1950," index, FamilySearch, Angus Buchanan, 15 Jan 1847]</ref> ([[28 May]], [[1814]] - [[27 December]], [[1876]])<ref name="dates">[http://www.geni.com/people/Mary-Buchanan/6000000004044562640 "Mary Buchanan (Proctor)"] at [http://www.geni.com/family-tree/start Geni]</ref> was a [[Scotland|Scottish]] [[wizardkind|witch]] who lived in the [[19th century]]. She was the wife of [[Angus Buchanan's father|Mr Buchanan]] and the mother of eleven children, including [[Hamish Buchanan|Hamish]], [[Flora Buchanan|Flora]], and [[Angus Buchanan|Angus]].<ref name="PM"/>
+
+==Biography==
+Mrs Buchanan married into the [[Buchanan family]], an old wizarding clan who lived in a village in the [[Scottish Borders]] and had a reputation for being large, aggressive, and alcoholic. She and [[Angus Buchanan's father|her husband]] had eleven children. As a result, their home was noisy and chaotic, and Mrs Buchanan often had her hands full trying to keep things in order.<ref name="PM"/>
+
+Despite the fact that her husband held strong anti-[[Squib]] views, neither Mrs Buchanan nor her husband noticed when their third-born son, [[Angus Buchanan|Angus]], failed to show evidence of magical ability like all of his brothers and sisters. Angus, being the kindest and largest of the Buchanan children, was beloved by his siblings. The children thus conspired to hide the fact that Angus was a Squib from their parents. [[Flora Buchanan|Flora]] forged a [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Hogwarts acceptance letter|acceptance letter]] for her younger brother, and, on [[1 September]], [[1858]], the day that eleven-year-old Angus was due to begin his [[first year]] at Hogwarts, his older brother [[Hamish Buchanan|Hamish]] flew him to [[Hogwarts Castle]] on his [[Hamish Buchanan's broomstick|broomstick]].<ref name="PM"/>
+
+The deception was revealed when the [[Sorting Hat]] politely declined to sort Angus. News soon reached Mrs Buchanan and her husband by [[owl]]. Humiliated, Mr Buchanan disowned the boy, chasing him away with [[curse]]s.<ref name="PM">{{WW|scottish-rugby}}</ref>
+
+==Behind the scenes==
+*While this individual is never explicitly named on {{PM}}, [https://familysearch.org/pal:/MM9.1.1/XYK5-Q6P Angus Buchanan's birth record] says his mother was called "Mary Proctor".
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Buchanan, Mary}}
+
+[[pl:Pani Buchanan]]
+[[pt-br:Mary Buchanan]]
+[[ru:Мэри Бьюкенен]]
+[[Category:1810s births]]
+[[Category:1870s deaths]]
+[[Category:Buchanan family]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Parents]]
+[[Category:Scottish individuals]]
+[[Category:Wizards]]

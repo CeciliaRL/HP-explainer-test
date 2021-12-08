@@ -1,0 +1,33 @@
+{{Individual infobox
+|image = Young Wife.jpg
+|name = Unidentified young wife
+|blood = [[Non-magic people|No-Maj]]
+|marital = Married
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Female
+|family = *[[Unidentified young husband|Husband]]
+*[[Unidentified daughter|Daughter]]
+*[[Unidentified son|Son]]
+*[[Unidentifed grandfather|father-in-law]]
+*[[Unidentified grandmother|mother]]
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidea = 
+}}This '''individual''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who was in her apartment with her family while she drank her glass of [[water]] as their memories where being wiped from a [[Obscurial attack on New York|recent magical catastrophe]] in [[1926]].<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+The Young Wife was portrayed by [[Georgia Clarke-Day]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Unidentified Muggles]]

@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Girl who tested Fainting Fancies
+|born = Between [[1 September]] [[1983]] and [[31 August]] [[1984]] (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP13"/>
+|gender = Female<ref name="OOTP13"/>
+|height = 
+|weight = 
+|hair = Dark<ref name="OOTP13"/>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="OOTP13"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP13"/>
+**[[Gryffindor]]<ref name="OOTP13"/>
+}}
+{{Dialogue a-b|Fred Weasley|Feel all right?|Girl|I-I think so.|This girl after having eaten a Fainting Fancy|Harry Potter and the Order of the Phoenix}}
+This '''girl''' was a small, dark-haired [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1995]], and was [[Sorting ceremony|Sorted]] into [[Gryffindor]].<ref name="OOTP13"/>
+
+==Biography==
+In [[September]] [[1995]], [[Fred and George Weasley]] had her test out their [[Fainting Fancies]], along with several other [[Gryffindor]] [[first year]]s. [[Hermione Granger]], unable to stand around and watch Fred and George test their products on innocent first years, intervened. When the girl came to after passing out from the sweet she was given, George asked her if she felt okay, to which she replied, ''"I think so."''<ref name="OOTP13">{{OOTP|B|13}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Dziewczyna testująca Omdlejki Grylażowe]]
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Sorted in 1995]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

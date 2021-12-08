@@ -1,0 +1,54 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Georges Clemenceau
+|hideb=
+|born=[[28 September]] [[1841]]
+|died=[[24 November]] [[1929]]
+|blood=[[Non-magic people|Muggle]]
+|alias=Tiger
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Politician, physician, and journalist
+|house=
+|loyalty=
+}}
+'''Georges Clemenceau''' ([[28 September]] [[1841]] – [[24 November]] [[1929]]), popularly known by the nickname '''Tiger''', was a [[France|French]] [[Non-magic people|Muggle]] politician, physician, and journalist.<ref name="wiki1">"[https://en.wikipedia.org/wiki/Georges_Clemenceau Georges Clemenceau]" on Wikipedia</ref> He served as the [[wikipedia:Prime Minister of France|Prime Minister of France]] from [[1906]] to [[1909]] and again from [[1917]] to [[1920]].<ref name="wiki1" />
+
+==Biography==
+On [[6 December]] [[1926]], Clemenceau came to the [[United States of America|United States]] to deliver a talk, sequestering himself in the home of [[Charles Dana Gibson]] on [[East 73rd Street]] in [[Manhattan]] to prepare his speech for that evening.<ref name="fb-paper">"[http://www.gazette-du-sorcier.com/Compte-rendu-ouverture-de-l-exposition-Harry-Potter-a-Bruxelles-pour-Noel Compte-rendu : ouverture de l’exposition Harry Potter à Bruxelles pour Noël]" from the Gazette du Sorcier {{see image|File:New York Chronicle - Monday Dec 1926 (HQ).png}}</ref><ref name="eveningworld">[http://chroniclingamerica.loc.gov/lccn/sn83030193/1922-11-21/ed-1/seq-1/ Front page of the 21 November 1922 issue of ''The Evening World''] from Chronicling America</ref> Many admirers flocked to the house, hoping to secure interviews or autographs, but only a reporter for the ''[[New York Chronicle]]'' was granted access.<ref name="fb-paper" /><ref name="eveningworld" /> Clemenceau told the reporter that he had only slept five hours, but "was all ready for the fray," and planned to talk for an half-and-a-half.<ref name="fb-paper" /><ref name="eveningworld" /> He revealed that he had cut out a part of his speech dealing with "figures and statistics" establishing that [[Germany]] had not honoured the conditions of the [[wikipedia:Treaty of Versailles|Treaty of Versailles]], but would likely re-add it for a future, planned appearance in [[Boston]].<ref name="fb-paper" /><ref name="eveningworld" /> He also stated that he planned to discuss what he saw as the emergence of a "new triple alliance" that posed a threat to the [[Allies|Allied powers]], consisting of "[[Kemalism|Kemalist]] [[Turkey]], the reactionary Germany of [[Erich Ludendorff|Ludendorf]] [sic], and [[Russia]] of the [[Communism|Soviets]]."<ref name="fb-paper" /><ref name="eveningworld" /> The interview was published in the 6 December 1926 issue of the ''New York Chronicle''.<ref name="fb-paper" />
+
+==Behind the scenes==
+*The text of the article mentioning [[wikipedia:Georges Clemenceau|Georges Clemenceau]] in the [[:File:New York Chronicle - Monday Dec 1926 (HQ).png|prop issue]] of the ''[[New York Chronicle]]'' featured in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'' was taken from the real [[21 November]] [[1922]] issue of ''[[wikipedia:The Evening World|The Evening World]]''.<ref name="eveningworld" /> This represents an anachronism, as the film is set in [[1926]], but the actual historical speech referenced happened in 1922.
+
+==Appearances==
+*{{FB|F}} {{comment|Mentioned in a newspaper as "Clemenceau"}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Clemenceau, Georges}}
+[[Category:1841 births]]
+[[Category:1929 deaths]]
+[[Category:Articles containing anachronistic information]]
+[[Category:French individuals]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Physicians]]
+[[Category:Politicians]]

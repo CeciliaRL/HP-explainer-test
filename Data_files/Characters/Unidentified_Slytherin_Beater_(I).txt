@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Bole CoS.PNG|250px]]
+|name = Unidentified Slytherin Beater
+|born = between [[1 September]] [[1974]] and [[31 August]] [[1980]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Beater]]<ref name="PSF"/>
+|signature = 
+|species = [[Human]]<ref name="PSF"/>
+|gender = Male<ref name="PSF"/>
+|height = 
+|weight = 
+|hair = Black<ref name="PSF"/>
+|eyes = 
+|skin = Light<ref name="PSF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="PSF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSF"/>
+**[[Slytherin]]<ref name="PSF"/>
+***[[Slytherin Quidditch team]]<ref name="PSF"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who played as a [[Beater]] for the [[Slytherin Quidditch team|Slytherin team]] in [[Quidditch]]. In the [[Slytherin]] versus [[Gryffindor Quidditch team|Gryffindor]] Hogwart's [[Inter-House Quidditch Cup|Quidditch Cup]] match in [[1991]], he is shown to have his [[Beater's bat|bat]] taken by [[Marcus Flint]].<ref name="PSF">{{PS|F}}</ref>
+
+==Behind the scenes==
+*He only appears in {{PS|FA}}.
+*It is possible that this person is [[Lucian Bole]].
+
+==Appearances==
+*{{PS|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts quidditch positions}}
+
+[[es:Golpeador de Slytherin no identificado]]
+[[pl:Niezidentyfikowany pałkarz Slytherinu (I)]]
+[[Category:20th century births]]
+[[Category:Beaters]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

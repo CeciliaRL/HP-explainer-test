@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = 
+|born = Between [[1 September]] [[1978]] and [[31 August]] [[1982]]<ref name="age">In order to be attending Hogwarts in both the 1993-1994 and the 1996-1997 school years, he had to be either at least on his third year by 1996.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HBPG"/>
+|eyes = 
+|skin = White<ref name="HBPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Slytherin]]<ref name="HBPG"/>
+}}
+{{Quote|Shove off, Potter.|Akimbo in the [[Fourth-floor hospital tower corridor|Hospital Wing Corridor]]|Harry Potter and the Half-Blood Prince (video game)}}
+'''Uchi Akimbo''' (born [[1978]]-[[1982]]) was a [[Slytherin]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. During the [[1996–1997 school year]], he surprised [[Harry Potter]] in the corridor leading to the [[Hospital Wing]], challenging him to a [[Duelling|duel]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Akimbo, Uchi}}
+[[es:Uchi Akimbo]]
+[[pl:Uchi Akimbo]]
+[[fr:Uchi Akimbo]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Bullies]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

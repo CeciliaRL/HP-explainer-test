@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Sue Li
+|born = between [[1 September]] [[1979]] and [[31 August]] [[1980]]
+|died = 
+|blood = [[Half-blood]]<ref name="HPM">{{HPM}}</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HPM"/>
+|gender = Female<ref name="HPM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="HPM"/>
+|loyalty = *Li family<ref name="HPM"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HPM"/>
+**[[Ravenclaw]]<ref name="HPM"/>
+}}
+'''Sue Li''' was a [[half-blood]] [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]]. She was in the same year as [[Harry Potter]] and was [[Sorting ceremony|sorted]] into [[Ravenclaw]] house.<ref name="HPM"/><ref name="pottermore">{{WW|the-original-forty}} </ref>
+
+==Etymology==
+*Lǐ, written 李, is one of the most common surnames in China. It was the surname of the Tang Dynasty rulers.
+*"Sue" comes from the Chinese 素 "plain", or possibly 肃 or 肅 which both mean "respectful". 
+*Sue could have been an English name her parents picked for her, instead; it means "graceful lily" in Hebrew. 
+
+==Appearances==
+*{{HPM}} {{1st Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Li, Sue}}
+[[de:Su Li]]
+[[fr:Sue Li]]
+[[pl:Sue Li]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Half-bloods]]
+[[Category:Ravenclaws]]
+[[Category:Ravenclaws Sorted in 1991]]
+[[Category:Wizards]]

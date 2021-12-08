@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:1379judges.png|250px]]
+|name=Judges of the 1379 duelling contest
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=[[Warlock]]s<ref name="WBoS"/>
+|hidep=
+|species=[[Human]]s<ref name="WBoS"/>
+|gender=Males<ref name="WBoS"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[1379 duelling contest]]<ref name="WBoS"/>
+}}
+{{Quote|Think big! Think bigger than you have ever thought before! Let us see, this night, magic on such a scale that future generations will envy us for having witnessed such greatness!|The judges of the contest|Wonderbook: Book of Spells}}
+These '''individuals''' were [[Wizardkind|wizards]] chosen to judge the [[1379 duelling contest|international duelling contest]] held on [[Dartmoor]], in [[1379]]. They all were distinguished [[warlock]]s and sorcerers from several different nations.<ref name="WBoS">{{WBS}}</ref>
+
+==Biography==
+After the [[wizardkind|wizards]] arrived, the [[duelling]] competition duly commenced. The duelling was noted, by witnesses, to have been of a standard that few had ever seen before. As the contest progressed, only four contestants remained: the [[England|English]] witch, [[Elizabeth Smudgling]], and three [[wizardkind|wizards]].<ref name="WBoS"/>
+
+Before the four semi-finalists began their duels, the judges intervened with rousing speeches, telling them to think big and to display great magical prowess in the three duels that would follow.<ref name="WBoS"/>
+
+[[File:1379 Third Vs Smudgling.png|250px|thumb|right|The judges look on as [[Elizabeth Smudgling]] disarms the [[Third semi-finalist of the 1379 duelling contest|third semi-finalist]]]]
+When the [[Third semi-finalist of the 1379 duelling contest|third semi-finalist]] defeated the [[Second semi-finalist of the 1379 duelling contest|second semi-finalist]] by conjuring a powerful cyclone, the judges were blown away, as were most of the spectators, and several trees. It took several hours for everyone to regroup. Frightened of what the third wizard might do for his encore against [[Elizabeth Smudgling]], the last remaining contestant, the judges attempted to talk her out of duelling him, telling her that it might be easier if they simply gave him the cup before anyone else got hurt, but she refused.<ref name="WBoS" />
+
+[[Elizabeth Smudgling|Smudgling]] [[Disarming Charm|Disarmed]] the wizard in the duel that ensued, making her the winner of the contest, for which the judges awarded her the title of "[[Supreme Dueller]]".<ref name="WBoS" />
+
+==Behind the scenes==
+*When the [[Second semi-finalist of the 1379 duelling contest|second semi-finalist]] conjures a violent storm during his duel against the [[Third semi-finalist of the 1379 duelling contest|third semi-finalist]], the judges open [[Wikipedia:Umbrella|umbrellas]] and continue looking on at the duel. The scene is set in [[1379]]; in the Middle Ages, Europeans depended on cloaks, not umbrellas, for protection against storms. Indeed, umbrellas were virtually unknown in western Europe until the mid-[[17th century]]. It is possible, however, that [[Miranda Goshawk|Goshawk]], the author of ''[[Book of Spells]]'', took creative liberties with the re-telling of this story for comedic effect.
+
+==Appearances==
+*{{WBS}} {{1st}}
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Warlocks]]
+[[Category:Wizards]]

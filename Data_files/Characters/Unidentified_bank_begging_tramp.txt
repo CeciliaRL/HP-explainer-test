@@ -1,0 +1,28 @@
+{{Individual infobox
+|image = Bank Begging Tramp.jpg
+|name = Unidentified bank begging tramp
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|hair = Grey
+|skin = White
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidea = 
+}}This '''individual''' was an [[United States of America|American]] [[Muggle|No-Maj]] who lived in the streets and begged for [[Muggle money|money]] at the [[Steen National Bank]] in [[1926]].<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+The Tramp was portrayed [[Alan Peett]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|F}}
+*{{FB|S}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles]]

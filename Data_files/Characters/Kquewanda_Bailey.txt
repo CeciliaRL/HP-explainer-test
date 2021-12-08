@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Kquewanda Bailey
+|hideb=
+|born=After [[1976]]<ref>Viktor Krum, born 1976, was the oldest player at the 2014 Quidditch World Cup.</ref><br/>[[Jamaica]] (possibly)
+|died=
+|blood=
+|alias=
+|title=[[Keeper]]
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Keeper]] for the [[Jamaican National Quidditch team]]
+|loyalty=[[Jamaican National Quidditch team]]
+}}
+{{Quote|Yet more controversy in Patagonia: the outcome of the USA versus Jamaica clash is under investigation due to the sudden collapse of Kquewanda Bailey, the Jamaican Keeper, who toppled from her broom shortly before US Chaser Quentin Kowalski scored their ninth goal.|[[Ginevra Weasley|Ginny Potter]], "[[USA VERSUS JAMAICA]]" (''[[Daily Prophet]]'', [[16 May]] [[2014]])|Pottermore}} 
+'''Kquewanda Bailey''' was a Jamaican [[wizardkind|witch]] who played as the [[Keeper]] for the [[2014]] [[Jamaican National Quidditch team]].<ref name="usa-v-jam">{{PM}} - [[USA VERSUS JAMAICA (I)]] (Archived)</ref>
+
+==Biography==
+During the fourth match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], [[American National Quidditch team|USA]] versus Jamaica, Bailey unexpectedly toppled unconscious from her broomstick, just moments before US [[Chaser]] [[Quentin Kowalski]] scored a goal and US [[Seeker]] [[Darius Smackhammer]] caught the [[Golden Snitch|Snitch]], resulting in a narrow victory for the United States.<ref name="usa-v-jam"/> The convenient timing of Bailey's unconsciousness aroused suspicion of foul play,<ref name="usa-v-jam"/> but the [[International Confederation of Wizards' Quidditch Committee|ICWQC]] later confirmed that Bailey was suffering from an infected [[Sasabonsam]] bite, sustained during the disastrous World Cup opening ceremony.<ref name="usa-v-jam2">{{PM}} - [[USA VERSUS JAMAICA (II)]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+{{DEFAULTSORT:Bailey, Kquewanda}}
+[[de:Kquewanda Bailey]]
+[[es:Kquewanda Bailey]]
+[[fr:Kquewanda Bailey]]
+[[pl:Kquewanda Bailey]]
+[[ru:Кьюванда Бейли]]
+[[Category:Females]]
+[[Category:Jamaican individuals]]
+[[Category:Keepers]]
+[[Category:Wizards]]

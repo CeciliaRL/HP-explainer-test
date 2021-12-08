@@ -1,0 +1,27 @@
+{{Transcribed image|File:The Flap of the Cape - Book of the Week TNYG.jpg}}
+{{Individual infobox
+|name = Abigail R. Cankus
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Female
+|job = Author
+|theme = wizard
+|hideb = 
+|hidep = 
+|hidef = 
+|hidem = y
+|hidea = 
+}}
+'''Abigail R. Cankus''' was an [[United States of America|American]] [[wizardkind|witch]] who wrote ''[[The Flap of the Cape]]''. This book was named the "Book of the Week" in the [[6 December]] [[1926]] issue of ''[[The New York Ghost]]''.<ref name="nyghost">{{WWMM|1}} {{see image 2|File:The Flap of the Cape - Book of the Week TNYG.jpg|File:NewYorkGhost-6December1926.jpg}}</ref>
+
+==Appearances==
+*{{FB|F}} {{comment|Name mentioned in newspaper}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Cankus, Abigail R.}}
+[[en:Abigail R. Cankus]]
+[[Category:American individuals]]
+[[Category:Authors]]
+[[Category:Females]]
+[[Category:Wizards]]

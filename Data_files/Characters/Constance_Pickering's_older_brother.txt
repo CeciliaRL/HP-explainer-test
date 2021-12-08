@@ -1,0 +1,55 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Constance Pickering's older brother
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">His brother was a Squib, meaning that they had at least one magical parent. If both of their parents were Muggles, his brother would be considered a Muggle as well.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WU"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Male<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Constance Pickering's mother|Mother]]<ref name="WU"/>
+*[[Constance Pickering]] (sister)<ref name="WU"/>
+*[[Constance Pickering's sister|Sister]]<ref name="WU"/>
+*[[Constance Pickering's Squib brother|Brother]]<ref name="WU"/>
+*[[Constance Pickering's grandmother|Grandmother]]<ref name="WU">{{WU}} "Brilliant Event: Christmas Calamity"</ref>
+*[[Matthias Pickering]] (grandfather)<ref name="FirstYearAtHogwarts">{{WU}} "Brilliant Event: First Year at Hogwarts"</ref>
+*[[Constance Pickering's Muggle grandfather|Grandfather]]<ref>{{WU}} "Brilliant Event: Darkness Risings"</ref>
+
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Pickering family]]<ref name="WU"/>
+}}
+{{Quote|My mum wouldn't buy me a new cauldron. No, she gave me my brother's old, used one and bought him the new one. And he was absolutely rubbish at potions.|[[Constance Pickering]]|Harry Potter: Wizards Unite}}
+This '''individual''' was the brother of [[Constance Pickering]].
+
+==Biography==
+Before the start of Constance [[first year]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], their [[Constance Pickering's mother|mother]] wouldn't buy her a new [[cauldron]]. She gave Constance her brother's old, used one and bought him a new one. According to Constance, he was absolutely rubbish at [[potion]]s.<ref name="FirstYearAtHogwarts"/>
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pickering, Constance brother (II)}}
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Pickering family]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

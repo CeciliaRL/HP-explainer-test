@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Unidentified Ravenclaw fourth years
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="OOTP12"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="OOTP12"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP12"/>
+**[[Ravenclaw]]<ref name="OOTP12"/>
+}}
+These [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] '''[[Wizardkind|students]]''' started at Hogwarts presumably in [[1992]], who were members of [[Ravenclaw]] house.
+
+==Biography==
+In [[1995]], they appeared on the first day of classes at Hogwarts and appeared to be frightened by [[Harry Potter]]. Depending on their gender, some of them may have shared a dormitory with [[Luna Lovegood]].<ref name="OOTP12">{{OOTP|B|12}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowani uczniowie z Ravenclawu 4 roku]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Sorted in 1992]]
+[[Category:Unidentified Ravenclaws]]
+[[Category:Wizards]]

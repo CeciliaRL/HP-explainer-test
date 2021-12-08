@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Stuart Jones
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="JKRS"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Male<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Jones family]]
+}}
+'''Stuart Jones''' was a resident of number [[17 Lanes End|17]] [[Lanes End]], [[Millburn]], [[Dorset]].<ref name="JKRS">{{JKRS}}</ref>
+
+==Behind the scenes==
+*The fictitious Stuart Jones is only mentioned on the F.A.Q. section of {{JKRS}}, where a letter addressed to [[J. K. Rowling]] is stated to have been sent by him.<ref name="JKRS"/>
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Jones, Stuart}}
+
+[[es:Stuart Jones]]
+[[Category:British individuals]]
+[[Category:Jones family]]
+[[Category:Males]]

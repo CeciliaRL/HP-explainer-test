@@ -1,0 +1,44 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Robert Louis Stevenson
+|hideb=
+|born=[[13 November]], [[1850]]<br/>[[Wikipedia:Edinburgh|Edinburgh]], [[Scotland]]
+|died=[[3 December]], [[1894]] (aged 44)<br/>[[Wikipedia:Vailima, Samoa|Vailima, Samoa]]
+|blood=
+|marital=Married
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Writer
+|loyalty=
+}}
+'''Robert Louis Balfour Stevenson''' ([[13 November]] [[1850]] - [[3 December]] [[1894]]) was a [[Scotland|Scottish]] writer who wrote thirteen novels, as well as a number of collections of poems, essays, and short stories. Stevenson was a literary celebrity during his lifetime.<ref name="wikipedia">{{Wikilink|Robert Louis Stevenson}}</ref>
+
+[[Albus Dumbledore]] kept a copy of ''[[Tales and Fantasies]]'', a small collection of short stories by this author, on his desk in the [[Headmaster's office]] at [[Hogwarts Castle]].<ref name="MHP">{{MHP}} {{see image|File:Tales and Fantasies by Robert Louis Stevenson.jpg}}</ref>
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{C|Mentioned on book cover}}
+*{{MHP}} {{C|Mentioned on book cover}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Robert Louis Stevenson]]
+[[Category:1850 births|Stevenson, Robert Louis]]
+[[Category:1894 deaths|Stevenson, Robert Louis]]
+[[Category:Authors|Stevenson, Robert Louis]]
+[[Category:Males|Stevenson, Robert Louis]]
+[[Category:Married individuals|Stevenson, Robert Louis]]
+[[Category:Muggles|Stevenson, Robert Louis]]
+[[Category:Scottish individuals|Stevenson, Robert Louis]]

@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Arturo Cephalopos
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Wandmaker]]
+|house = 
+|loyalty = 
+}}
+'''Arturo Cephalopos''' was a [[wandmaker]] in the [[19th century]]. During this period, [[silver lime]] was fashionable as a [[wand wood]]. He claimed that its alleged association with [[divination]] was "a falsehood circulated by merchants like [[Gerbold Ollivander]], who have overstocked their workshops with it and hope to shift their surplus." However, according to Gerbold's grandson [[Garrick Ollivander]], Cephalopos was a "slipshod wandmaker" and "an ignoramus," who, to no one's surprise, went out of business.<ref name="wands">Pottermore wand wood information (transcription available [http://archive.is/20130109102909/lady-slytherin-forever.tumblr.com/post/8977740275/wand-woods-off-of-pottermore here])</ref>
+
+==Etymology==
+Cephalopos might be of Greek origin (at least in his ancestry), as his surname's etymology (as well as surname formation) suggests.
+*"''Arturo''" is the Italian/Spanish form of "Arthur", whose meaning is unknown. It could be derived from British ''art'' "bear" combined with ''viros'' "man", or it could be related to Irish ''art'' "stone". Alternatively it could be related to an obscure Roman family name ''Artorius''. Arthur is the name of the central character in Arthurian legend, a 6th-century king of the Britons who presided over the knights of the Round Table.
+*"''Cephalopos''" is a likely Greek compound word (though it resembles nothing like a modern Greek surname):
+**"''cephalo''" from the Ancient Greek κεφαλή ‎(''kephalḗ''), meaning "head" (in biology, the "brain"), and is the origin of the English prefix "cephalo-" & suffix "-cephalic" .
+**"''pos''" from either:
+***πούς ‎(''poús''), meaning "leg/foot" (and thru its derivative "ποδός" (''podós''), the origin of the English prefix "-pod")
+***πως ‎(''pōs''), Greek adverb meaning "how?" or "in what way?"
+**Put together, "''cephalopos''" suggests an individual with a low intelligence, essentially a foreshadowing of his character ("ignoramus") & fate (his wand business came under).
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Cephalopos, Arturo}}
+
+[[de:Arturo Cephalopos]]
+[[fr:Arturo Cephalopos]]
+[[pt-br:Arthur Cephalopos]]
+[[ru:Артуро Сефалопос]]
+[[Category:Males]]
+[[Category:Wandmakers]]
+[[Category:Wizards]]

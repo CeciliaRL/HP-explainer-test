@@ -1,0 +1,49 @@
+{{youmay|the orphanage employee|[[Martha (disambiguation)|someone else with this name]]}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Martha
+|born = Early [[20th century]] (most likely)
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HBP13"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBP13"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP13"/>
+|gender = Female<ref name="HBP13"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Wool's Orphanage]] employee<ref name="HBP13"/>
+|house = 
+|loyalty = [[Wool's Orphanage]]<ref name="HBP13"/>
+}}
+'''Martha''' was a [[Non-magic people|Muggle]] girl who worked at [[Wool's Orphanage]] in the [[1930s]]. She worked at the orphanage during [[Albus Dumbledore]]'s visit to [[Tom Riddle]], when the latter was eleven, by which time she was looking after children who had [[chicken pox]]. Martha worked at the orphanage from a time before Tom Riddle was born to sometime after Tom Riddle went to [[Hogwarts School of Witchcraft and Wizardry]] at the age of eleven.<ref name="HBP13">{{HBP|B|13}}</ref>
+
+==Etymology==
+The name "Martha" comes from Aramaic מרתא (marta') meaning "lady, mistress".
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+*{{HBP|F}} {{Comment|Background}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Martha]]
+[[fr:Martha]]
+[[pt-br:Marta]]
+[[zh:玛莎]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Wool's Orphanage employees]]

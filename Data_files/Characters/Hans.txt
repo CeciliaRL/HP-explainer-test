@@ -1,0 +1,37 @@
+{{Pet individual infobox
+|image = Hans the Augurey.png
+|name = Hans
+|born = 
+|died = 
+|alias = 
+|title = [[Liechtenstein National Quidditch team|Liechtenstein team]] mascot
+|species = [[Augurey]]
+|gender = Male
+|height = 
+|hair = 
+|feathers = Greenish-black
+|eyes = Blue
+|skin = 
+|family = 
+|loyalty = [[Liechtenstein National Quidditch team]]
+}}
+'''Hans''' was a male [[Augurey]] and the team mascot for the [[Liechtenstein National Quidditch team]], who even had [[Hans Fan Club|his own fan club]].<ref>[https://web.archive.org/web/20160307004515/https://www.pottermore.com/writing-by-jk-rowling/history-of-the-quidditch-world-cup History of the Quidditch World Cup] from {{PM}} (via The Internet Archive)</ref>
+
+==Biography==
+During the celebrations following the quarter-final match of the [[2014 Quidditch World Cup]], in which the [[American National Quidditch team|USA]] defeated [[Liechtenstein National Quidditch team|Liechtenstein]] on [[8 June]], [[2014]], Hans was reported to have been kidnapped by celebrating American fans. Liechtenstein coach and manager [[Ferdinand Jägendorf]] issued the following statement: "''Das finden wir nicht lustig''" ("we don't find that funny").<ref name="PM">[[LATE BREAKING NEWS]] (archived from {{PM}} - [http://www.pottermore.com/en/daily-prophet/qwc2014/2014-06-08/late-breaking-news New from J.K. Rowling - Daily Prophet: 8 June 2014 (II)])</ref>
+
+He was returned the following day after an exchange of terse owls between [[Liechtenstein]] [[Minister for Magic]] [[Otto Obermeier]] and [[President of the Magical Congress of the United States of America|President]] of [[Magical Congress of the United States of America|MACUSA]] [[Samuel G. Quahog]], although [[magizoologist]]s had to keep him under close observation for ill effects.<ref>[[RETURN OF HANS THE AUGUREY]]</ref>
+
+==Appearances==
+*{{PM}} {{1st}}
+*{{QTA|2018}}
+==Notes and references==
+{{Reflist}}
+[[de:Hans Augurey)]]
+[[fr:Hans]]
+[[pl:Hans]]
+[[zh:汉斯]]
+[[Category:Augureys]]
+[[Category:Blue-eyed individuals]]
+[[Category:Males]]
+[[Category:Mascots]]

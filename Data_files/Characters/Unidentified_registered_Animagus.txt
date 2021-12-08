@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Unidentified Registered Animagus.jpg|250px]]
+|name = Unidentified registered Animagus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="LEGOHP"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="LEGOHP"/>
+|gender = Female<ref name="LEGOHP"/>
+|height = 
+|weight = 
+|hair = White<ref name="LEGOHP"/>
+|eyes = 
+|skin = White<ref name="LEGOHP"/>
+|family = 
+|romances = 
+|animagus = [[Black cat]]<ref name="LEGOHP">{{LEGO|Y1}} - Year 1 (''The Magic Begins'')</ref>
+|boggart = 
+|wand = 
+|patronus = 
+|job =
+|house = 
+|loyalty = [[Leaky Cauldron]]<ref name="LEGOHP"/>
+}}
+This '''woman''' (fl. [[1991]]) was a [[Wizardkind|witch]] and one of the seven registered [[Animagus|Animagi]] of the [[20th century|twentieth century]],<ref>She transforms in the middle of a crowded Leaky Cauldron, and given that the punishment for being unregistered is Azkaban, it would seem that she is registered.</ref> taking the form of a black [[cat]]. This witch was a regular patron of the [[Leaky Cauldron]].<ref name="LEGOHP"/>
+
+<gallery>
+Cat Animagus.jpg|thumb|Her Animagus form
+</gallery>
+
+==Behind the scenes==
+*Notably, the way this witch morphs into her [[Animagus]] form differs noticeably from the other Animagi in the game ([[Sirius Black]], [[Rita Skeeter]], [[Peter Pettigrew]] and [[Minerva McGonagall]]). While the latter first shrink in size and then transform into their respective Animagus form, the unidentified witch transforms in a puff of blue smoke.
+*A witch sharing the same minifigure model can be seen in many other places throughout both {{LEGO|Y1}} and [[LEGO Harry Potter: Years 5-7|its sequel]], most notably as the playable character Witch (White). Whether every instance of this model appearing is meant to be the same character is uncertain, though the playable character cannot be this character, as she lacks the ability to turn into an Animagus form (an ability in the game).
+
+==Appearances==
+*{{POA}} {{Indirect}}
+*{{LEGO|Y1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Animagi}}
+[[es:Bruja animago no identificada]]
+[[Category:Animagi|Registered Animagus]]
+[[Category:British individuals|Animagus]]
+[[Category:Females|Animagus]]
+[[Category:Unidentified individuals|Animagus]]
+[[Category:Wizards|Animagus]]

@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = Officer247.jpg
+|name = NYPD Police Officer No. 247
+|born = Before [[1926]]<ref name="FBF"/>
+|died = 
+|blood = [[Non-magic people|No-Maj]]<ref name="FBF"/>
+|alias = No. 247
+|nationality = [[United States of America|American]]<ref name="FBF"/>
+|title = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="FBF"/>
+|gender = Male<ref name="FBF"/>
+|hair = 
+|eyes = 
+|skin = Light<ref name="FBF"/>
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|house = 
+|job = [[Police|Policeman]] for the [[New York Police Department]]<ref name="FBF"/>
+|loyalty = [[New York Police Department]]<ref name="FBF"/>
+}}
+This '''man''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] Police Officer working for the [[New York Police Department]].<ref name="FBF"/>
+
+==Biography==
+This officer participated in shooting at [[Credence Barebone]] in his [[Obscurial]] form in [[December]] [[1926]], when he [[Obscurial attack on New York|attacked]] [[New York|New York City]].<ref name="FBF">{{FB|F}}</ref>
+
+==Behind the scenes==
+*This Policeman was portrayed by [[Lee Asquith-Coe]] in {{FB|FHF}}, but was uncredited.
+
+==Appearances==
+*{{FB|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Police officers]]
+[[Category:Unidentified Muggles]]

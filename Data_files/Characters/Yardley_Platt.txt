@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:YardleyPlatt.png|250px]]
+|name = Yardley Platt
+|born = [[1446]]<ref name="JKRS">{{JKRS}}</ref>
+|died = [[1557]] (aged 110-111)<ref name="JKRS"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Male<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = Black<ref name="JKRS"/>
+|eyes = Purple<ref name="JKRS"/>
+|skin = White<ref name="JKRS"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Yardley Platt''' ([[1446]] - [[1557]]) was an infamous [[Wizardkind|wizard]] who was known for being a serial [[goblin]] killer.<ref name="JKRS"/> He was featured on a [[Chocolate Frog Card]].<ref name="COSG">{{COS|G}}</ref>
+
+==Behind the scenes==
+*On the [[Chocolate Frog Card]]s featured in the video games, Platt is portrayed as a blond wizard. At the ''[[Wizard of the Month]]'' section at {{JKRS}}, however, he is featured as a black-haired wizard.
+*The [[:File:Yardley Platt-95-chocFrogCard.png|Chocolate Frog Card portrait of Platt]] appears to be a direct homage to [[:File:Frank gorshin riddler1.jpg|a famous promotional photo]] of Frank Gorshin as the ''Batman'' villain Edward Nygma ("the Riddler").
+
+==Appearances==
+{{Imagecat|Images of Yardley Platt}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{JKRS}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+
+{{DEFAULTSORT:Platt, Yardley}}
+
+[[de:Yardley Platt]]
+[[de2:Yardley Platt]]
+[[fi:Yardley Platt]]
+[[fr:Yardley Platt]]
+[[it:Yardley Platt]]
+[[pl:Yardley Platt]]
+[[ru:Ярдли Платт]]
+[[Category:1446 births]]
+[[Category:1557 deaths]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Centenarians]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Purple-eyed individuals]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

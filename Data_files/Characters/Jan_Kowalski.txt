@@ -1,0 +1,45 @@
+{{Imageless}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Jan Kowalski
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Poland|Polish]]<ref name="IMDb" /><ref name="fbfan" />
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="IMDb" /><ref name="fbfan" />
+|gender = Male<ref name="IMDb" /><ref name="fbfan" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Jacob Kowalski]] {{comment|possibly}}<ref name="IMDb" /><ref name="fbfan" />
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Kowalski family]]<ref name="IMDb" /><ref name="fbfan" />
+}}
+'''Jan Kowalski''' was a [[Poland|Polish]] nobleman who lived during an unknown period.<ref name="IMDb">[http://www.imdb.com/name/nm2630567 Kamil Lemieszewski's profile on IMDb]</ref><ref name="fbfan">[https://twitter.com/FBAWTFTmovie/status/738064672876822533 Tweet] by Fantastic Beasts Fan (@FBAWTFTmovie) on Twitter</ref> He may have been a relative of the [[United States of America|American]] factory worker [[Jacob Kowalski]].<ref name="fbfan" />
+
+==Behind the scenes==
+*Jan Kowalski is played by [[Kamil Lemieszewski]] in {{FB|FA}}.<ref name="IMDb" /><ref name="fbfan" />
+
+==Appearances==
+*{{FB|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Kowalski, Jan}}
+[[Category:Kowalski family|Jan]]
+[[Category:Males]]
+[[Category:Nobility]]
+[[Category:Polish individuals]]

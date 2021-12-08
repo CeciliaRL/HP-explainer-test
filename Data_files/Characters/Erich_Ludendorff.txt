@@ -1,0 +1,52 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Erich Ludendorff
+|hideb=
+|born=[[9 April]] [[1865]]
+|died=[[20 December]] [[1937]]
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Military general
+|house=
+|loyalty=
+}}
+'''Erich Ludendorff''' ([[9 April]] [[1865]] – [[20 December]] [[1937]]) was a [[Germany|German]] [[Non-magic people|Muggle]] general during the early [[20th century]].<ref name="wiki1">"[https://en.wikipedia.org/wiki/Erich_Ludendorff Erich Ludendorff]" on Wikipedia</ref> He lead the German war effort during the latter part of the [[First World War]], and afterward became a prominent nationalist figure, engaging in an unsuccessful coup with Adolf Hitler in [[1923]].<ref name="wiki1" />
+
+In a [[6 December]] [[1926]] interview with the ''[[New York Chronicle]]'', former [[France|French]] prime minister [[Georges Clemenceau]] revealed some of the things he planned to discuss in a talk scheduled for that evening, including what he saw as the post-war emergence of a "new triple alliance" that threatened the [[Allies|Allied powers]].<ref name="fb-paper">"[http://www.gazette-du-sorcier.com/Compte-rendu-ouverture-de-l-exposition-Harry-Potter-a-Bruxelles-pour-Noel Compte-rendu : ouverture de l’exposition Harry Potter à Bruxelles pour Noël]" from the Gazette du Sorcier {{see image|File:New York Chronicle - Monday Dec 1926 (HQ).png}}</ref><ref name="eveningworld">[http://chroniclingamerica.loc.gov/lccn/sn83030193/1922-11-21/ed-1/seq-1/ Front page of the 21 November 1922 issue of ''The Evening World''] from Chronicling America</ref> According to him, this alliance consisted of "[[Kemalism|Kemalist]] [[Turkey]], the reactionary Germany of Ludendorf [sic], and [[Russia]] of the [[Communism|Soviets]]."<ref name="fb-paper" /><ref name="eveningworld" /> 
+
+==Behind the scenes==
+*The text of the article mentioning [[wikipedia:Erich Ludendorff|Erich Ludendorff]] in the [[:File:New York Chronicle - Monday Dec 1926 (HQ).png|prop issue]] of the ''[[New York Chronicle]]'' featured in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'' was taken from the real [[21 November]] [[1922]] issue of ''[[wikipedia:The Evening World|The Evening World]]''.<ref name="eveningworld" /> This represents an anachronism, as the film is set in [[1926]], but the actual [[Georges Clemenceau|Clemenceau]] speech referenced occurred in 1922.
+
+==Appearances==
+*{{FB|F}} {{comment|Mentioned in a newspaper as "Ludendorf [sic]"}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Ludendorff, Erich}}
+[[Category:1865 births]]
+[[Category:1937 deaths]]
+[[Category:Articles containing anachronistic information]]
+[[Category:Deceased individuals]]
+[[Category:German individuals]]
+[[Category:Males]]
+[[Category:Military personnel]]
+[[Category:Muggles]]

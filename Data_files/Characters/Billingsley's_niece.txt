@@ -1,0 +1,45 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = Billingsley's niece.png
+|name = Billingsley's niece
+|born = Before [[1990–1991 school year]]<ref name="HM720"/>
+|died = 
+|blood = 
+|marital = 
+|nationality =
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM720"/>
+|gender = Female<ref name="HM720"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HM720"/>
+|eyes = 
+|skin = Light<ref name="HM720"/>
+|family = [[Billingsley]] (uncle)<ref name="HM720">{{HM|7|20}}</ref>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|This reminds me of the time my Uncle Billingsley Transfigured himself into a parrot.|Billingsley's niece upon seeing [[Fang]] passing as a wizard who was [[Transfiguration|Transfigured]] into a dog|Harry Potter: Hogwarts Mystery}}
+This '''girl''' was [[Billingsley]]'s young niece.<ref name="HM720"/>
+
+==Biography==
+At some point during the [[1990–1991 school year]], Billingsley's niece was at [[St Mungo's Hospital for Magical Maladies and Injuries]] as a visitor. When she saw [[Jacob's sibling]] sneaking in [[Fang]] (passing as a wizard who had been [[Transfiguration|Transfigured]] into a dog) to visit [[Rubeus Hagrid]] in one of the wards, she remarked it reminded her of a time her uncle had Transfigured himself into a [[parrot]].<ref name="HM720"/>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:Females]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

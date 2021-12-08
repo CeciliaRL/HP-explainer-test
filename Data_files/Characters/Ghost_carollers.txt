@@ -1,0 +1,33 @@
+{{Conjecture}}
+{{Organisation infobox
+|bgcolor1 = 222
+|bgcolor2 = 515151
+|image = [[File:Ghost carollers.jpg|250px]]
+|name = Ghost carollers
+|founder = 
+|founded = 
+|dissolved = 
+|leader = 
+|members = 
+|headquarters = [[Hogwarts Castle]]<ref name="PSF"/>
+|intentions = To sing [[Christmas]] carols<ref name="PSF"/>
+|affiliation = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSF"/>
+|enemies = 
+}}
+{{Quote|Merry Christmas, merry Christmas<br />Ring the Hogwarts bell<br />Merry Christmas, merry Christmas<br />Cast a Christmas spell.|The ghosts singing ''[[Christmas at Hogwarts]]''.|Harry Potter and the Philosopher's Stone (film)}}
+The '''ghost carollers''' were a choir of [[ghost]]s at [[Hogwarts School of Witchcraft and Wizardry]] that sang Christmas carols at winter. Among their members was [[Lord Draben]]. They sang ''[[Christmas at Hogwarts]]'' in the [[Entrance Hall]] in [[December]], [[1991]].<ref name="PSF">{{PS|F}}, Chapter 21</ref>
+
+==Appearances==
+*{{PS|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Duchy kolędnicy]]
+[[Category:British individuals]]
+[[Category:Christmas]]
+[[Category:Females]]
+[[Category:Ghosts]]
+[[Category:Males]]
+[[Category:Musical groups]]
+[[Category:Wizards]]

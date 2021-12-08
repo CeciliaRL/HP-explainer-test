@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Barrett Fay
+|born = before [[1980]] (most likely)<ref name="age">As his books were published in or before [[1997]], he was likely over 17 at the time.</ref>
+|died = 
+|blood = [[Pure-blood]] (most likely)<ref name="Blood">As he was an advocate for [[Pure-blood supremacy]], he was likely a [[Pure-blood]] himself.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author
+|house = 
+|loyalty = [[Pure-blood supremacy]]
+}}
+'''Barrett Fay''' was a [[Wizardkind|wizard]] and a strong advocate of the [[Pure-blood supremacy|supremacy]] of [[pure-blood]] wizards, having authored at least two books on the subject: ''[[Mudbloods and How to Spot Them]]''.<ref>{{DH|F1}} {{see image|File:92O mBJQ7Dw.jpg}}</ref> and ''[[When Muggles Attack]]''<ref>{{DH|F1}} {{see image|File:WhenMugglesAttack.jpg}}</ref>. [[Dolores Umbridge]] had copies of his works in her desk at the [[British Ministry of Magic|Ministry of Magic]], while on the post of [[Senior Undersecretary to the Minister for Magic]].<ref name="DHF1">{{DH|F1}}</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]'' {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Fay, Barrett}}
+[[es:Barrett Fay]]
+[[fr:Barrett Fay]]
+[[pl:Barrett Fay]]
+[[pt-br:Barrett Fay]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Pure-blood supremacists]]
+[[Category:Wizards]]

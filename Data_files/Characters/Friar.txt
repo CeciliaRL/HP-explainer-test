@@ -1,0 +1,40 @@
+{{Youmay|the Muggle Franciscan Friar who lived in the Middle Ages|the [[Fat Friar]]}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Friar
+|hideb=
+|born=Middle Ages
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=Friar
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Franciscan Friar
+|loyalty=
+}}
+{{Quote|The Friar was unwillinge to believe that I had met a talking Ferret and did ask me whether I had been supping of Brother Boniface's Turnip Wine.|[[Benedict|Brother Benedict]]|Fantastic Beasts and Where to Find Them (real)}}
+
+The '''Friar''' (fl. Middle Ages) was from a medieval [[Worcestershire]] Monastery during the [[Middle Ages]]. When [[Benedict|Brother Benedict]] was bitten in the nose by a "talking [[Ferret]]" (actually a [[Jarvey]]), the Friar did not believe him, and asked him if he had been drinking [[Boniface|Brother Boniface]]'s [[Turnip Wine]].<ref>{{FB|R}} - ''A Brief History of Muggle Awareness of Fantastic Beasts''</ref>
+
+==Appearances==
+*{{FB|R}}
+
+==Notes and references==
+{{Reflist}}
+
+[[fr:Frère capucin]]
+[[pl:Opat Benedykta]]
+[[Category:Clergy]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Portrait of a nurse.jpg|250px]]
+|name=Portrait of woman in the hospital wing
+|hideb=
+|born=
+|died=Before [[1991]] (possibly)
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+This '''[[portrait]]''' resided in the [[Hospital Wing]] at [[Hogwarts School of Witchcraft and Wizardry]], and it potayed of a nurse who may or may not have been a mediwitch. She was seen to have walked over to a bed and sat down onto it in her frame.
+
+==Behind the scenes==
+*She only appeared in {{PS|FA}}.<ref>http://www.hp-lexicon.org/about/films/ps/film1_changes.html</ref>
+
+==Appearances==
+*{{PS|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts first floor}}
+
+[[es:Retrato de una enfermera en la enfermería]]
+[[pl:Portret pielęgniarki w skrzydle szpitalnym]]
+[[Category:Females|Woman]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards|Woman]]

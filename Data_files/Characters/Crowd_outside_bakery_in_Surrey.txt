@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Crowd outside bakery in Surrey
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PS1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="PS1"/>
+|gender = Males and Females<ref name="PS1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Dialogue a-b|Wizard 1|The Potters, that's right, that's what I heard —|Wizard 2|— yes, their son, Harry —|This crowd deep in discussion|Harry Potter and the Philosopher's Stone}}
+This '''crowd of [[wizardkind|wizards and witches]]''' was convened near the entrance to a [[Bakery in Surrey|bakery]] in [[Surrey]] on [[1 November]], [[1981]] when [[Vernon Dursley]] was passing through. He overheard snatches of their conversation and realised they were discussing the [[Potter family]]. He was disturbed by this fact, as he generally pretended [[Petunia Dursley|his wife's]] relatives didn't exist.<ref name="PS1">{{PS|B|1}}</ref>
+
+==Appearances==
+*{{PS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

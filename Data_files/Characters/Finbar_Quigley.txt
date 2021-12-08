@@ -1,0 +1,52 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Finbar Quigley
+|born = before [[1981]]<ref>As he was employed by the [[Ballycastle Bats]] by[[1998]] he was presumably over 17.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Quigley]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Ballycastle Bats]]
+}}
+'''Finbar Quigley''' was a [[Quidditch]] player for the [[Ballycastle Bats]]<ref>[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[8 February]], [[1999]], Page 3</ref>. Finbar did not dare disagree with [[Gwenog Jones]] when she commented on the ever-increasing number of fans of the [[Holyhead Harpies]] for the [[Daily Prophet]], for he feared being [[Transfiguration|turned]] into a [[Wood louse|Wood lice]].<ref>[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[31 July]], [[1998]], Page 2</ref><ref>https://www.hp-lexicon.org/character/finbar-quigley/</ref>
+
+==Behind the scenes==
+*It is possible that Finbar Quigley is the [[Quigley|Beater]] for the [[Irish National Quidditch team]] as they share the same last name and Ballycastle could refer to either the small town in [[Northern Ireland]] or the village in the Republic of [[Ireland]]. If so, it is likely that he plays Beater for the Ballycastle Bats.
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Quigley, Finbar}}
+
+{{Quidditch positions}}
+
+[[de:Finbar Quigley]]
+[[es:Finbar Quigley]]
+[[pl:Finbar Quigley]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Quidditch players]]
+[[Category:Wizards]]

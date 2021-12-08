@@ -1,0 +1,54 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|name = Ignis Nagy
+|image = 
+|born = 
+|died = 
+|blood = 
+|nationality = [[Hungary|Hungarian]]
+|marital = 
+|title = 
+|alias = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = [[Charlesetta Nagy]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|house = 
+|job = *Author
+*[[Dragonologist]]
+|loyalty = [[Dragon]]s
+|theme = wizard
+}}
+{{Quote|After a brief chat with Ignis Nagy, you are inspired to re-read ''From Egg to Inferno, a Dragon Keeper's Guide''. The extra study raises your defence against Foes in combat.|Description|Harry Potter: Wizards Unite}}
+'''Ignis Nagy''' was a [[Hungary|Hungarian]] [[Wizardkind|witch]] who had dedicated her life to [[Dragonologist|the study of dragons]], having authored at least [[From Egg to Inferno: a Dragon-Keeper's Guide|one book]] on the subject.<ref name="WUDragon">{{WU}} (see [https://wizardsunitehub.info/profession-skill/Dragon-Lady/ this])</ref> A controversial figure, as a scholar, she was noted for her keen interest in the elemental force of [[fire]], often studying it and its magical qualities up close.<ref name="WUFire">{{WU}} (see [https://wizardsunitehub.info/profession-skill/into-the-fire/ this])</ref>
+
+==Biography==
+In the [[2010s]], Ignis Nagy encountered and spoke with members of the [[Statute of Secrecy Task Force]], who were pursuing the careers of [[Auror]] and [[Magizoologist]] respectively. With the former, she helped the individual in question to embrace the study of flames, and with the latter, she had a brief chat on the subject that inspired said person to re-read her work, and both of these meetings ended up being useful in their field work.<ref name="WUDragon"/><ref name="WUFire"/>
+
+==Magical abilities and skills==
+*'''[[Magizoology]]''': As a professional Dragonologist, she was highly knowledgeable about [[dragon]]s. She was known to have authored [[From Egg to Inferno: a Dragon-Keeper's Guide|one book]] on the subject, showing her expertise in her field.<ref name="WUDragon"/>
+*'''Knowledge of Elemental [[Magic]]''': Nagy was an expert on the magical properties of [[fire]], with her excellent knowledge of this field allowing her to teach [[Auror]] of the [[Statute of Secrecy Task Force]] how to withstand flames, and increase their stamina.<ref name="WUFire"/>
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Nagy, Ignis}}
+[[Category:Authors]]
+[[Category:Breeders]]
+[[Category:Dragonologists]]
+[[Category:Females]]
+[[Category:Hungarian individuals]]
+[[Category:Wizards]]
+[[es:Ignis Nagy]]

@@ -1,0 +1,65 @@
+{{WizardsUniteSpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:Mermaid Painting.png|250px]]
+|name = Portrait of a mermaid
+|born = 
+|died = Before late [[February]] [[1994]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Merpeople|Mermaid]]<ref name="GOF25"/>
+|gender = Female<ref name="GOF25"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="GOF25"/>
+|eyes = 
+|skin = White<ref name="PM">{{PM}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Prefects' bathroom]]<ref name="GOF25"/>
+}}
+{{Quote|There was a single golden-framed painting on the wall. It featured a blonde mermaid who was fast asleep on a rock, her long hair over her face.|Description of the mermaid's portrait|Harry Potter and the Goblet of Fire}}
+A '''[[portrait]]''' of a [[Siren]] [[Merpeople|mermaid]] was located in the [[Prefects' bathroom]] in [[Hogwarts Castle]]. The portrait was set in a golden frame, and was noted to show off to people using the bathroom if she was awake. [[Myrtle Warren]] did not seem to like this portrait very much.<ref name="GOF25"/>
+
+==History==
+Sometime after [[24 November]], [[1994]], [[Cedric Diggory]] took his [[golden egg]] to the Prefects' bathroom to think it over. This portrait showed off for him as he thought, and it was partially due to its existence that he realised merpeople would be involved in the Second Task of the [[Triwizard Tournament]].<ref name="GOF25"/>
+
+On Diggory's suggestion, [[Harry Potter]] came to the bathroom later in the school year for the same reason. Despite the mermaid being asleep during his visit, it still helped him in coming to the same conclusion Diggory did.<ref name="GOF25">{{GOF|B|25}}</ref>
+
+On the evening before Harry would go to the [[Great Lake|Second Task]], he had a sort of nightmare that the mermaid was poking Harry with [[Firebolt|his broomstick]], while he was in the [[water]] inside the portrait.<ref name="GOF26">{{GOF|B|26}}</ref>
+
+==Behind the scenes==
+[[File:Siren Stained Glass GIF.gif|250px|thumb|right|The stained-glass window, in the film]]
+*In {{GOF|FA}} and {{WU}}, this is a moving stained-glass window instead of a portrait.
+*In {{LEGO|Y1}} she gets angry at Harry because he spilled all her [[water]] from the stained-glass window and throws [[scorpion]]s at him. If you refill her portrait with water, she gives you the missing part of the sink.
+*It is unknown if the portrait was that of a real merperson or was simply a generic depiction of a mermaid.
+
+==Appearances==
+[[File:Mermaid Stained Glass WU.webp|250px|thumb|right|The stained-glass window, in the {{WU}}]]
+*{{GOF}} {{1st}}
+*{{GOF|F}}
+*{{GOF|G}}
+*{{OOTP|G}}
+*{{LEGO|Y1}}
+*{{PM}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Portret syreny]]
+[[Category:Females]]
+[[Category:Foundables]]
+[[Category:Merpeople]]
+[[Category:Paintings of creatures]]
+[[Category:Unidentified portraits]]

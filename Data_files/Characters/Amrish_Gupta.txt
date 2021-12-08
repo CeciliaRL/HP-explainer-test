@@ -1,0 +1,52 @@
+{{Imageless}}
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Amrish Gupta
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *Gupta family
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+'''Amrish Gupta''' was a [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He was seen walking around the school during the [[1993-1994 school year]].
+
+==Etymology==
+Amrish is a male given name, meaning "Lord Indra". Gupta is a North India surname, most likely derived from the Sanskrit "goptri" meaning "military governor". Another more direct translation from Sanskrit would be "secret" or "hidden".
+
+==Behind the scenes==
+*Based on his name, he is most likely of [[India]]n descent. 
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Gupta, Amrish}}
+[[pl:Amrish Gupta]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

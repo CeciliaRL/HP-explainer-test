@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme = wizard
+|image = Cogg clockmaker.png
+|name = Cogg
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Co-owner of [[Cogg and Bell Clockmakers]], Clockmaker
+|house = 
+|loyalty = [[Cogg and Bell Clockmakers]]
+}}
+'''Cogg''' was a [[Great Britain|British]] [[wizardkind|wizard or witch]] who presumably co-owned [[Cogg and Bell Clockmakers]], a Clockmaker's shop in [[Carkitt Market]], along with [[Bell]].<ref name="cosf-clock">{{WWHP}} {{See image|File:Cogg and Bell Clockmakers.png}}</ref>
+
+==Appearances==
+*{{WWHP}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Cogg}}
+[[Category:British individuals]]
+[[Category:Clockmakers]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

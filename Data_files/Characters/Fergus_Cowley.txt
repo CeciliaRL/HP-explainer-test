@@ -1,0 +1,58 @@
+{{Imageless}}
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = 
+|born = [[31 August]]  [[1982]] or earlier<ref name="age">He was at least in his first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Slytherin]]<ref name="HBPG"/>
+**[[Duelling Club]]<ref name="HBPG"/>
+}}
+'''Fergus Cowley''' was a [[Wizardkind|wizard]] and [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+He was a member of the [[Duelling Club]] run by [[Maynard Hatton]] in the [[Training Grounds]] during the [[1996–1997 school year]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+*The name "Fergus" means "man of vigour", derived from the Gaelic elements ''fear'' "man" and ''gus'' "vigour".
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Duelling Club}}
+{{DEFAULTSORT:Cowley, Fergus}}
+[[es:Fergus Cowley]]
+[[pl:Fergus Cowley]]
+[[fr:Fergus Cowley]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Duelling Club members]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

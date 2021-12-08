@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Kaori Shimizu
+|born = [[31 August]] [[1982]] or earlier<ref name="age">She was at least in her first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Female<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="POAG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAG"/>
+**[[Gryffindor]]<ref name="POAG"/>
+}}
+'''Kaori Shimizu''' (清水 香織 ''Shimizu Kaori'') was a [[Wizardkind|witch]] and [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]] who was seen walking around the school during the [[1993-1994 school year]].<ref name="POAG">{{POA|G}} - Console versions</ref>
+
+==Etymology==
+*The name '''Kaori''' means "fragrance, fragrant" (香) ('''ka''') and "weave, weaving" (織) ('''ori'''). 
+*Kaori's surname '''Shimizu''' means "clear, pure, clean" (清) ('''shi''') and "water" (水) ('''mizu''').
+
+==Behind the scenes==
+*Based on her name, she is most likely of [[Japan]]ese descent.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Shimizu, Kaori}}
+[[pl:Kaori Shimizu]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Wizards]]

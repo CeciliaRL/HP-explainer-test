@@ -1,0 +1,51 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme=macusa
+|image=
+|name=Saranna Wilkinson
+|born=
+|died=
+|blood=
+|marital=
+|nationality=[[United States of America|American]]
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Female
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=*[[Charity Wilkinson]] (possibly)
+*[[Wilkinson family]]
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=[[Auror]]
+|house=
+|loyalty=*[[Magical Congress of the United States of America]]
+**[[Department of Magical Law Enforcement (MACUSA)|Department of Magical Law Enforcement]]
+***[[Department of Aurors]]
+}}
+{{Quote|An international visit from the American Auror, Saranna Wilkinson leaves you with several very useful tips, increasing the amount of damage done with a successful Critical Cast.|Description|Harry Potter: Wizards Unite}}
+'''Saranna Wilkinson''' was an [[United States of America|American]] [[Wizardkind|witch]] who was employed as an [[Auror]] by the [[Magical Congress of the United States of America]].<ref name="WU">{{WU}} (see [https://wizardsunitehub.info/profession-skill/American-Ingenuity/ this])</ref>
+
+==Biography==
+In the [[2010s]], Saranna Wilkinson visited the [[British Ministry of Magic|Ministry of Magic]] in [[London]] during the [[Calamity]]. She gave spellcasting tips to [[Professor]] members of the [[Statute of Secrecy Task Force]] to aid them in their field work.<ref name="WU" />
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+{{DEFAULTSORT:Wilkinson, Saranna}}
+[[Category:American individuals]]
+[[Category:Aurors]]
+[[Category:Females]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Wilkinson family]]
+[[Category:Wizards]]

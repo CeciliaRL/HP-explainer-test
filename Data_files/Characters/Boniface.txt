@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Brother Boniface
+|born = [[Middle Ages]]
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Franciscan Monk
+|house = 
+|loyalty = 
+}}
+{{Quote|The Friar was unwillinge to believe that I had met a talking Ferret and did ask me whether I had been supping of Brother Boniface's Turnip Wine.|[[Benedict|Brother Benedict]], Middle Ages|Fantastic Beasts and Where to Find Them (real)}}
+
+'''Brother Boniface''' was a [[Franciscans|Franciscan]] monk in [[Worcestershire]] during the [[Middle Ages]]. He was known for making [[Turnip Wine|turnip wine]], a highly [[alcohol]]ic drink that causes the nose to bleed.
+
+==Etymology==
+The name "Boniface" comes from the Late Latin name Bonifatius, which meant "good fate" from bonum "good" and fatum "fate". This was the name of nine popes and also several saints, including an 8th-century Anglo-Saxon missionary to Germany (originally named Winfrid) who is now regarded as the patron saint of that country.
+
+The name Boniface in connection to spirits may originate from ''{{wplink|Brewer's Dictionary of Phrase and Fable}}'', known to be used by [[J. K. Rowling]] as a reference for names. The ''Dictionary'' describes a Pope Boniface who encouraged indulgence in wine so long as it was drunk to the current Pope's good health.<ref>[http://www.bartleby.com/81/2237.html Bon'face] in ''Brewer's Dictionary of Phrase and Fable''</ref>
+
+==Appearances==
+*{{FB|R}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[fr:Frère Boniface]]
+[[en:Boniface]]
+[[pt-br:Bonifácio]]
+[[Category:British individuals]]
+[[Category:Clergy]]
+[[Category:Males]]
+[[Category:Muggles]]

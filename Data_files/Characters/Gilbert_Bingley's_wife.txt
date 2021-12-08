@@ -1,0 +1,46 @@
+{{Individual infobox
+|image = [[File:Mrs. Bingley.jpg|thumb]]
+|name = Mrs Bingley
+|born = 
+|died = 
+|blood = [[Non-magic people|No-Maj]]<ref name="FB118"/>
+|nationality = [[United States of America|American]]<ref name="FB118"/>
+|title = 
+|alias = 
+|signature = 
+|marital = Married<ref name="FB118"/>
+|species = [[Human]]<ref name="FB118"/>
+|gender = Female<ref name="FB118"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = [[Gilbert Bingley]] (husband)<ref name="FB118"/>
+|romances = [[Gilbert Bingley]] (husband)<ref name="FB118"/>
+|boggart = 
+|job = 
+|loyalty = 
+|theme = muggle
+}}
+'''Mrs Bingley''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] woman and the wife of [[Gilbert Bingley]], who lived in [[New York]] in the [[1920s]].<ref name="FB118"/>
+
+==Biography==
+In [[December]] of [[1926]], [[Newton Scamander|Newt Scamander]] had [[Frank]] the [[thunderbird]] disperse [[Swooping Evil]] [[Swooping Evil venom|venom]] over [[New York]] by creating a [[Water|rainstorm]], in order to wipe the [[Memory|memories]] of a [[Obscurial|recent magical catastrophe]] from the city's No-Maj population. Mrs Bingley was brushing her teeth in the bathroom while her husband showered when this occurred. Her expression was described as becoming "vacant" and "carefree" as she lost the memories.<ref name="FB118">{{FB|S|118}}</ref>
+
+==Behind the scenes==
+*Mrs Bingley was portrayed by an unknown actress in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bingley's wife, Gilbert}}
+[[pl:Pani Bingley]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Unnamed family members]]

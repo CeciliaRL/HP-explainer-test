@@ -1,0 +1,50 @@
+{{Transcribed image|File:GringottsForm.jpg}}
+{{Individual infobox
+|theme = gringotts
+|image = 
+|name = Nimbostratus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employee of [[Gringotts Wizarding Bank]]
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]
+}}
+'''Nimbostratus''' was an employee of [[Gringotts Wizarding Bank]] who was apparently responsible for handling transactions.<ref name="form">See [[:File:GringottsForm.jpg|this image]].</ref> This individual's entry on one particular form was crossed out for an unknown reason.<ref name="form" />
+
+==Etymology==
+*"Nimbostratus" is a term used to refer to low, grey, usually dark clouds that produce rain, snow, and other forms of precipitation.<ref>"[http://www.thefreedictionary.com/nimbostratus Nimbostratus]" on The Free Dictionary</ref>
+
+==Behind the scenes==
+*As Gringotts hired both [[Goblin]]s and [[Wizardkind|wizards]] as staff, it is unknown what species this individual was.
+
+==Appearances==
+*{{WWHP}} {{1st Mention}} {{C|Name on paperwork}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+[[es:Nimbostratus]]
+[[pl:Nimbostratus]]
+[[Category:British individuals]]
+[[Category:Creatures]]
+[[Category:Gringotts employees]]
+[[Category:Individuals of unknown or undetermined gender]]

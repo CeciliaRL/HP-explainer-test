@@ -1,0 +1,34 @@
+{{Real world subject}}
+{{Individual infobox
+|name = Mayer
+|born = [[1905]] or earlier
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|job = Detective
+|loyalty = [[New York Police Department]]
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = 
+|hidem = y
+|hidea = 
+}}
+'''Mayer''' was an [[United States of America|American]] [[Muggle|No-Maj]] who worked as a detective for the [[New York Police Department]] in the [[1920s]].<ref name="fb-paper">"[http://www.gazette-du-sorcier.com/Compte-rendu-ouverture-de-l-exposition-Harry-Potter-a-Bruxelles-pour-Noel Compte-rendu : ouverture de l’exposition Harry Potter à Bruxelles pour Noël]" from the Gazette du Sorcier {{see image|File:New York Chronicle - Monday Dec 1926 (HQ).png}}</ref><ref name="eveningworld">[http://chroniclingamerica.loc.gov/lccn/sn83030193/1922-11-21/ed-1/seq-1/ Front page of the 21 November 1922 issue of ''The Evening World''] from Chronicling America</ref>
+
+==Biography==
+On [[6 December]] [[1926]], Mayer and fellow detective [[Brown]] arraigned [[John Haas]] and [[William Friend]] in the [[Centre Street Police Court]] for the crime of defrauding the [[Columbia Bank]] of $121,000.<ref name="fb-paper" /><ref name="eveningworld" /> Haas worked for the bank as a bookkeeper prior to his [[2 December]] dismissal.<ref name="fb-paper" /><ref name="eveningworld" /> Mayer and Brown stated they had never seen such a "slovenly, almost unbelievably simple" system of forging accounting records to hide fraud as that used by Haas and Friend.<ref name="fb-paper" /><ref name="eveningworld" /> The case was reported in the 6 December 1926 issue of the ''[[New York Chronicle]]''.<ref name="fb-paper" />
+
+==Behind the scenes==
+*The text of the article mentioning Mayer in the [[:File:New York Chronicle - Monday Dec 1926 (HQ).png|prop issue]] of the ''[[New York Chronicle]]'' featured in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'' was taken from the real [[21 November]] [[1922]] issue of ''[[wikipedia:The Evening World|The Evening World]]''.<ref name="eveningworld" /> This represents an anachronism, as the film is set in [[1926]], but the actual events referenced occurred in 1922.
+
+==Appearances==
+*{{FB|F}} {{comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Mayer}}
+[[Category:American individuals]]
+[[Category:Articles containing anachronistic information]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Muggles]]
+[[Category:Police officers]]

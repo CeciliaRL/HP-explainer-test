@@ -1,0 +1,29 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = 
+|name = Horace Slughorn's owl
+|born = Before [[1996]]<ref name="HBPF11"/>
+|died = 
+|alias = 
+|title = 
+|species = [[Owl]]<ref name="HBPF11"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Horace Slughorn]] (owner)<ref name="HBPF11"/>
+}}
+{{Dialogue a-b-a-c-a|Horace Slughorn|Listen [[Harry Potter|m'boy]]: in the [[1940s|old]] [[1970s|days]], I used to throw together the occasional [[Slug Club|supper party]]. To the select student or two. Would you be game?|Harry Potter|I'd consider it an honour, [[Horace Slughorn|sir]].|You'd be welcome too, [[Hermione Granger|Granger]].|Hermione Granger| I'd be delighted, sir.|Splendid! Look for my owl. Good to see you, [[Ronald Weasley|Wallenby]].|[[Horace Slughorn]] invites [[Harry Potter]] and [[Hermione Granger]] to a supper party, and neglects [[Ronald Weasley]]|Harry Potter and the Half-Blood Prince (film)}}
+This '''[[owl]]''' belonged to [[Professor]] [[Horace Slughorn]]. He used it to send his messages to the [[Slug Club]] in both tenures as [[Potions Master]] at [[Hogwarts School of Witchcraft and Wizardry]]. [[Barnabas Cuffe]] would always be happy to take the owl to hear Horace's point of view on the day's news in the [[Daily Prophet]].<ref name="HBPF11">{{HBP|F}} - Chapter 11 (''Cursed Necklace'')</ref>
+
+==Appearances==
+*{{HBP|F}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Horace Slughorn's possessions]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Owls]]

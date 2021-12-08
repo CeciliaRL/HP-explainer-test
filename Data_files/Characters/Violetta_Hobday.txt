@@ -1,0 +1,52 @@
+
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Violetta Hobday
+|born = [[1981]] or earlier<ref name="age">As she was married with a child, she was presumably over 17.</ref>
+|died = 
+|blood = 
+|marital = Married<ref name="DP"/>
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Female<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Hilliard Hobday]] (husband)<ref name="DP"/>
+*[[Egmont Hobday]] (son)<ref name="DP"/>
+*[[Oakden Hobday]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hobday family]]<ref name="DP"/>
+}}
+'''Violetta Hobday''' was a [[Wizardkind|witch]]. She and her husband, [[Hilliard Hobday|Hilliard]], announced the birth of their son [[Egmont Hobday|Egmont]] on [[30 November]], [[1998]] in the ''[[Daily Prophet]]''.<ref name="DP">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[8 February]], [[1999]], Page 2</ref>
+
+==Etymology==
+From the English word violet for the purple flower, ultimately derived from Latin viola. It was common in Scotland from the 16th century, and it came into general use as an English given name during the 19th century.
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Hobday, Violetta}}
+
+[[pl:Violetta Hobday]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Hobday family|Violetta]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Wizards]]

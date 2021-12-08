@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme = death-eater
+|image = 
+|name = Unidentified Death Eater who was Stunned by Harry Potter
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">The [[Death Eaters]] were known for their strong hatred of [[Muggle-born]]s.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF2"/>
+|gender = Male<ref name="DHF2"/>
+|height = 
+|weight = 
+|hair = Black<ref name="DHF2"/>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref name="leakychat">[http://www.the-leaky-cauldron.org/2007/7/30/j-k-rowling-web-chat-transcript Leaky Cauldron: J.K. Rowling Webchat 30 July 2007]</ref>
+|job = 
+|house = 
+|loyalty = *[[Tom Riddle|Lord Voldemort]]<ref name="DHF2"/>
+**[[Death Eaters]]<ref name="DHF2"/>
+}}
+This '''individual''' was a [[Death Eaters|Death Eater]] who fought at the [[Battle of Hogwarts]]. He attacked the students inside the castle but was [[Stunning Spell|stunned]] by [[Harry Potter]] and fell into one of the stands and hit his head.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*This Death Eater individual is possibly [[Unidentified Death Eater stunned by Harry Potter in the Grand Staircase Tower|the one]] that was stunned by Harry in the [[Marble Staircase Tower|Grand Staircase Tower]], with some misinformation.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Death Eaters]]

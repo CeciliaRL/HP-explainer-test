@@ -1,0 +1,67 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:HM Erika Rath's friend (I).jpg]]
+|name = Erika Rath's friend
+|born = [[31 August]] [[1973]] or earlier<ref>He was at least in his first year in 1984</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]<ref name="HM"/>
+|gender = Male<ref name="HM"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HM"/>
+|eyes = Brown<ref name="HM"/>
+|skin = Light<ref name="HM"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]] or [[Slytherin]]<ref name="HM"/>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HM"/>
+}}
+This '''[[Wizardkind|wizard]]''' attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]], and was a member of either [[Slytherin]] or [[Ravenclaw]] house. 
+
+==Biography==
+During his time at Hogwarts, he befriended [[Erika Rath]] and another [[Erika Rath's friend (II)|witch]].<ref name="HM">{{HM}}</ref>
+
+===1985–1986 school year===
+[[File:Erika Rath's friend (I).png|120px|thumb|left|This boy during [[1985–1986 school year]]]]
+At some point by the [[1987–1988 school year]], he became the [[Chaser]] of his house's [[Quidditch team]].<ref name="HMQ1ch4">{{HM|2|Q1|4}}</ref>
+
+===1987–1988 school year===
+{{Quote|At least '''we don't spread rumours''' about everyone better than us!|This boy to an [[Unidentified Chaser (I)|Unidentified Chaser]]|Harry Potter: Hogwarts Mystery}}
+He and other team members got into a confrontation with Jacob's sibling team, after Erika injured [[Orion Amari]] in a [[Quidditch friendly]].<ref name="HMQch3">{{HM|4|Q3|1}}</ref>
+
+After the match with Jacob's sibling's team, which ended in a brawl between the teams, this boy, along with the rest of the players, served detention under the supervision of [[Rolanda Hooch]]. The teams managed to prove their dedication to sportsmanship and co-operation and were not disqualified from the competition for the Hogwarts Quidditch Cup.<ref name="HMQch33">{{HM|4|Q3|3}}</ref>
+
+==Behind the scenes==
+*Which house he is in depends on that of [[Jacob's sibling]] (chosen by the player). If Jacob's sibling is in [[Gryffindor]], [[Hufflepuff]] or [[Slytherin]], this boy is in [[Ravenclaw]]. If [[Jacob's sibling]] is in Ravenclaw, he is in Slytherin.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Rath, Erika's friend}}
+
+{{Hogwarts quidditch positions}}
+{{Character-stub}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Bullies]]
+[[Category:Males]]
+[[Category:Sorted in the 20th century]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

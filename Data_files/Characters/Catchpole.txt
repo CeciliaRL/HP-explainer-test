@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Saint Catchpole
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Wikipedia:Saint|Saint]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Saint Catchpole''' was a [[saint]] who was the namesake of the village of [[Ottery St Catchpole]], in [[Devon]], [[England]].
+
+==Etymology==
+*This curious surname, chiefly found in East Anglia, is of Old French origin, and derives from the Old French "chacepol", Old Norman French "cachepol" (in medieval Latin "chassipullus") meaning "chase fowl". The name was originally occupational for a tax-gatherer authorised to chase and seize farmyard fowl in default of money (debts and taxes), and later referred to a petty officer of justice, a sheriff's officer or sergeant, especially a warrant officer who arrests for debt. The first recorded spelling of the family name is shown to be that of Aluricus Chacepol, which was dated 1086, in the [[Wikipedia:Domesday Book|Domesday Book of Middlesex]], during the reign of William the Conqueror.<ref>[http://www.surnamedb.com/Surname/Catchpole "Last name: Catchpole"] at the [http://www.surnamedb.com/ Surname Database]</ref>
+
+==Appearances==
+*{{COS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Saints]]

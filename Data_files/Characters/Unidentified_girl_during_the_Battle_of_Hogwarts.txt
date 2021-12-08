@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Hogwarts girl
+|born = c. [[1981]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH32"/>
+|gender = Female<ref name="DH32"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="DH32"/>
+}}
+This '''girl''' was a [[Wizardkind|witch]] who fought in the [[Battle of Hogwarts]]. She was injured in an unknown manner, probably from a [[spell]]. During the hour long break in which the [[Dark Wizard]] [[Tom Riddle|Lord Voldemort]] ordered his [[Death Eaters]] to stop fighting, the girl was comforted by [[Ginevra Weasley|Ginny Weasley]]. She was scared and wanted to go home.<ref name="DH32">{{DH|B|32}}</ref>
+
+==Behind the scenes==
+*As the girl is not known to be a member of [[Dumbledore's Army]] or the [[Gryffindor Quidditch team]], it can be assumed that she was at school prior to the event.
+*In the [[Harry Potter and the Deathly Hallows: Part 2 (video game)|second video game adaptation]] of {{DH}} during ''Surrender'', [[Harry Potter]] came across some students while walking through the [[Viaduct Courtyard]]. One of them was a blonde-haired [[Hufflepuff]] girl with brown skin who says the same as this individual said. It is unknown if this is her, as she was not comforted by Ginny.
+
+==Appearances==
+*{{DH}} {{1st}}
+*{{DH|G2}} {{Possible}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births|Girl during the Battle of Hogwarts]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British or Irish individuals|Girl during the Battle of Hogwarts]]
+[[Category:Females]]
+[[Category:Sorted in the 1990s]]
+[[Category:Unidentified Hogwarts Students|Girl during the Battle of Hogwarts]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:GormlessMorgan.png|250px]]
+|name=Gormless Morgan
+|hideb=
+|born=
+|died=
+|blood=
+|alias=Morg<ref name="WBS"/>
+|title=
+|hidep=
+|species=[[Human]]<ref name="WBS"/>
+|gender=Male<ref name="WBS"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Magic]]al [[creature]] hunter<ref name="WBS"/>
+|house=
+|loyalty=
+}}'''Gormless Morgan''' is the primary character of [[Miranda Goshawk]]'s poem "''[[The Rhyme of Gormless Morgan]]''". As with all of the characters in these poems, he is based on a real [[Wizardkind|wizard]], with his name changed to protect his identity. Morgan was a [[magic]]al [[creature]] hunter who was hired to capture the [[Gorgon]], but failed due to his inability to come up with a decent plan, despite [[Gormless Morgan's friends|his friends]]' advice.<ref name="WBS">{{WBS}}</ref>
+
+According to Goshawk's "Afterword", the traits Morgan lacked were cunning and shrewdness.<ref name="WBS"/>
+
+==Biography==
+The wizard Gormless Morgan was based on was a magical creature hunter of some form. At a young age, [[Gormless Morgan's boss|his boss]] gave him the task of capturing the [[Gorgon]], who had [[Petrification|turned]] a number of men who had ventured into her domain into stone statues.<ref name="WBS"/>
+
+Though both his boss and his friends advised that Morgan take a while and think up a good plan to tackle the Gorgon so that he would not be petrified himself, Morgan ignored their advice. He thought that sneaking up behind her and trapping her in a truss would be a good enough plan.<ref name="WBS"/>
+
+When he went to enact his plan, however, he found that the Gorgon owned a mirror, which she used for the express purpose of guarding against anyone that may try to sneak up behind her. When their eyes met in the mirror, Morgan was immediately Petrified, thus failing in his task. It is unknown if Morgan was ever able to be rescued from his fate and given an antidote such as a [[Mandrake Restorative Draught]].<ref name="WBS"/>
+
+==Behind the scenes==
+*Given that Morgan apparently had the job of catching magical creatures, it is possible he worked for the [[Committee for the Disposal of Dangerous Creatures]], or, in the case that he was not a [[Great Britain|British]] wizard, whatever the equivalent in his home country's government was.
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]
+[[Category:Monster hunters]]
+[[Category:Wizards]]

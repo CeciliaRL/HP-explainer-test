@@ -1,0 +1,30 @@
+{{WizardsUniteSpoiler}}
+{{Youmay|the [[Crup]] once owned by [[Constance Pickering]]|the [[Ross (woman)|woman]] who witnessed an [[Explosion in Northumberland|explosion]] in [[Northumberland]], or [[Ross family|the wizarding family of the same name]]}}
+{{Pet individual infobox
+|image = 
+|name = Ross
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Crup]]<ref name="WU"/>
+|gender = Male<ref name="WU"/>
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = [[Pickering family]] (former owner)<ref name="WU"/>
+|loyalty = [[Pickering family]] (formerly)<ref name="WU"/>
+}}
+'''Ross''' was a [[Crup]] once owned by [[Constance Pickering]]. The [[Pickering family]] ultimately had to give Ross away when [[Constance Pickering's brother]] turned out to be a [[Squib]] and Ross wouldn't stop biting him.<ref name="WU">{{WU}} {{see image|File:HPWU BE BB - Crup.jpg}}</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Constance Pickering's possessions]]
+[[Category:Crups]]
+[[Category:Individual dogs]]
+[[Category:Males]]

@@ -1,0 +1,65 @@
+{{Youmay|the [[goblin]]|[[Gringotts Wizarding Bank|the bank]]}}
+{{Individual infobox
+|theme = gringotts
+|image = Gringott.jpg
+|name = Gringott
+|born = [[15th century]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = Brown
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Head Goblin of [[Gringotts Wizarding Bank]]
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]
+}}
+'''Gringott''' (fl. [[1474]])<ref name="WWoHP" /> was a celebrated [[goblin]] who founded [[Gringotts Wizarding Bank]] in [[1474]].<ref name="WWoHP">{{WWHP}} {{see image|File:Gringotts1474Ref.png}}</ref> For the Bank's founding and presumable management, Gringott was featured on a [[Chocolate Frog Card]].
+
+==Behind the scenes==
+[[File:Gringott.png|150px|thumb|left|Gringott's [[Chocolate Frog Card]]]]
+*Gringott's [[Chocolate Frog Card]] does not give out his dates. However, since it is known that Gringotts Bank was established in [[1474]], we can assume that he lived sometime in the [[15th century]].
+*There is a gold statue of Gringott standing on a pile of coins at [[Diagon Alley]].<ref>[http://www.youtube.com/watch?v=rDirvZa_8zU Behind the Bricks: A Tour of Diagon Alley with Tom Felton and Matthew Lewis - Full Webcast] at [http://www.youtube.com/ Youtube]</ref>
+
+==Appearances==
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=None (position created)
+|position=Head Goblin of [[Gringotts Wizarding Bank]]
+|years=[[1474]]-?
+|successor=Unknown, eventually [[Gringotts Head Goblin|an unidentified goblin]]
+}}
+{{End box}}
+{{Gringotts}}
+{{Chocolate Frog Cards}}
+[[de:Gringott]]
+[[es:Gringott]]
+[[fi:Irveta (maahinen)]]
+[[fr:Gringott]]
+[[pt-br:Gringote]]
+[[ru:Гринготт]]
+[[Category:Bankers]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Famous Goblins Chocolate Frog Cards]]
+[[Category:Goblins]]
+[[Category:Historical figures]]
+[[Category:Males]]

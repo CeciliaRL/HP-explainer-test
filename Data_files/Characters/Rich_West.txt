@@ -1,0 +1,41 @@
+{{transcribed image|File:DrivingItHome1.jpg}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Rich West
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidea=
+|job=Musician
+|loyalty=
+}}
+'''Rich West''' was a [[Non-magic people|Muggle]] musician. He released at least one album, ''[[Driving It Home]]'', which was available for sale at [[Record Shop]] on [[Charing Cross Road]] in [[London]].<ref>{{WWHP}} {{see image|File:DrivingItHome1.jpg}}</ref>
+
+==Behind the scenes==
+*The name of this character is apparently a tribute to Rich West, who worked as the art director/show set designer for {{WWHP}} theme park in [[wikipedia:Orlando, Florida|Orlando]], [[wikipedia:Florida|Florida]] from 2012 to 2014.<ref>[https://www.linkedin.com/pub/rich-west/8/946/883 LinkedIn profile of Rich West]</ref>
+
+==Appearances==
+*{{WWHP}} {{comment|name appears on album cover}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:West, Rich}}
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Musicians]]

@@ -1,0 +1,63 @@
+{{Youmay|the Ravenclaw Hogwarts student|[[Maisie Cattermole|Mary and Reginald Cattermole's daughter]]}}
+{{Individual infobox
+|theme = ravenclaw
+|image = Maisy Reynolds.jpg
+|name = Maisy Reynolds
+|born = on or prior to [[31 August]] [[1986]]
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">Maisy was allowed to attend Hogwarts during the [[1997–1998 school year]], meaning she was not [[Muggle-born]].</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF2"/>
+|gender = Female<ref name="DHF2"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="DHF2"/>
+|eyes = 
+|skin = White<ref name="DHF2"/>
+|family = [[Maisy Reynolds's father|Mr Reynolds]] (father)<ref name="script"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="DHF2"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+**[[Ravenclaw]]<ref name="DHF2"/>
+**[[Dumbledore's Army]]<ref name="DHF2"/>
+}}
+{{Quote|...a different voice echoed throughout the Hall. It was high, cold, and clear. There was no telling from where it came. It seemed to issue from the walls themselves. Like the monster it had once commanded, it might have lain dormant there for centuries.... There were screams amongst the students, some of whom clutched each other, looking around in terror for the source of the sound.|Description|Harry Potter and the Deathly Hallows}}
+'''Maisy Reynolds'''<ref name="script">[http://pt.scribd.com/doc/163084623/HARRY-POTTER-AND-THE-DEATHLY-HALLOWS-PART-2-by-screenplay-Steve-Kloves#scribd ''Harry Potter and the Deathly Hallows - Part 2'' screenplay by Steve Kloves]</ref><ref name="BtM">[http://www.youtube.com/watch?v=rGhuErwolWw&feature=related ''Harry Potter and the Deathly Hallows: Part 2'' - Behind the Magic]</ref> was a [[pure-blood]] or [[half-blood]] [[Wizardkind|witch]] and a [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the late [[1990s]]. She was present during the evacuation of Hogwarts on 1 May, 1998 shortly before the final battle of the Second Wizarding War was fought.<ref name="DHF2"/>
+
+==Biography==
+She was studying at Hogwarts in the [[1997-1998 school year]], when [[Severus Snape|Professor Severus Snape]] was [[Headmaster]]. At some point during the school year, she disobeyed [[Alecto Carrow]], which made the [[Death Eaters|Death Eater]] "pay a visit" to [[Maisy Reynolds's father|her father]].<ref name="script"/> She also became a member of [[Dumbledore's Army]] this year.<ref name="DHF2"/>
+
+In the evening of [[1 May]], after [[Ousting of Severus Snape|Snape's ousting]], when the school was gathered in the [[Great Hall]] to discuss the evacuation of underage students from the Castle because of the [[Battle of Hogwarts|battle that would soon ensue]], [[Tom Riddle|Lord Voldemort]]'s voice sounded through the walls to warn the school that all he wanted was [[Harry Potter]], and that if they did not give him to him, the battle was inevitable. Maisy, who stood in a corner of the Hall, started screaming in terror at his voice.<ref name="DHF2">{{DH|F2}}</ref> It is unknown if Maisy stayed to participate in the battle or if she was evacuated from the school beforehand.
+
+==Behind the scenes==
+*Maisy was played by [[Sian Grace Phillips]] in {{DH|F2}}.
+*In the film, Maisy is credited as "Screaming Girl", however, her name is revealed on the screenplay, and in a behind the scenes feature.
+
+==Appearances==
+{{Imagecat|Images of Maisy Reynolds}}
+*{{DH}} {{C|Indirect mention}}
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Dumbledore's Army}}
+{{DEFAULTSORT:Reynolds, Maisy}}
+[[fr:Maisy Reynolds]]
+[[pl:Maisy Reynolds]]
+[[es:Maisy Reynolds]]
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Dumbledore's Army]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

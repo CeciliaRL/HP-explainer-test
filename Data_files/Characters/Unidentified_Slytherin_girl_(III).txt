@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = Charitchiehpgof.png
+|name = Unidentified Slytherin girl
+|born = Between [[1 September]] [[1979]] and [[31 August]] [[1980]]<ref name="age">In the film, she is shown to have attended the [[fourth year]] [[Defence Against the Dark Arts]] class (although this is not canon, her school year still is).</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFF"/>
+|gender = Female<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="GOFF"/>
+|eyes = 
+|skin = White<ref name="GOFF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="GOFF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOFF"/>
+**[[Slytherin]]<ref name="GOFF"/>
+}}
+This '''[[Slytherin]] girl''' was a [[Wizardkind|witch]] who started attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]], where she was [[Sorting ceremony|sorted]] into [[Slytherin]].<ref name="GOFF">{{GOF|F}} - Chapter 7 (''Mad Eye Moody'')</ref>
+
+==Behind the scenes==
+*She was portrayed by [[Charlotte Ritchie]] in {{GOF|FA}}.
+*In {{GOF|FA}}, this student is shown to be present in the same [[Defence Against the Dark Arts]] class with the [[trio]], regarding the [[Unforgivable Curses]].<ref name="GOFF"/> However, her appearance in this lesson cannot be considered canon, as the book clearly states that this specific lesson was only for [[Gryffindor]] students.<ref name="GOF14">{{GOF|B|14}}</ref>
+*She may possibly be [[Daphne Greengrass]], [[Tracey Davis]], [[Millicent Bulstrode]], [[Emma Vane (witch)|Emma Vane,]] [[Sophie Roper]], [[Lily Moon]], or [[Sally-Anne Perks]].
+
+==Appearances==
+*{{GOF|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowana dziewczyna z Slytherinu II]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Slytherins Sorted in 1991]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

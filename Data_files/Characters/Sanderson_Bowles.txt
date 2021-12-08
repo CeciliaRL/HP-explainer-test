@@ -1,0 +1,43 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Sanderson Bowles
+|born = 
+|died = 
+|blood = 
+|alias = 
+|title = 
+|marital = 
+|nationality = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Male<ref name="WU"/>
+|height = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[St. Troglodous Order of Labours]]<ref name="WU"/>
+}}
+'''Sanderson Bowles''' was a [[wizardkind|wizard]] and a member of the [[St. Troglodous Order of Labours]].<ref name="WU">{{WU}} {{see image|File:Sanderson Bowles and STOOL.jpeg}}</ref>
+
+==Biography==
+By at least the [[2010s]], Bowles became a member of the St. Troglodous Order of Labours. As part of this organisation, he proposed that blended [[Dragon dung Fertiliser]] increased the potency of [[Leaping Toadstool]]s. He shared this advice with a member of the [[Statute of Secrecy Task Force]], who brought it back to the rest of the organisation and used it to great effect when using Leaping Toadstools to brew [[Baruffio's Brain Elixir]].<ref name="WU"/>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bowles, Sanderson}}
+[[Category:Males]]
+[[Category:Statute of Secrecy Task Force]]
+[[Category:Wizards]]

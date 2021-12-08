@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Maria Monteith - card HBP-NDS.png|205px]]
+|name = Maria Monteith
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Australia]]n
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Black
+|eyes = Brown
+|skin = Tan
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Australian National Quidditch team]]
+|house = 
+|loyalty = [[Australian National Quidditch team]]
+}}
+'''Maria Monteith''' was an [[Australia]]n [[Wizardkind|witch]] who played as a [[Chaser]] on the [[Australian National Quidditch team]] during the [[1994]] [[Quidditch World Cup]].
+
+During the [[1996–1997 school year]], Monteith's [[Chocolate Frog Card]] could be won by beating [[Xander Lofthouse]] in a [[Quidditch]] challenge.<ref>{{HBP|G}} {{c|NDS edition}}</ref>
+
+==Etymology==
+A '''monteith''' is a large ornamental punch bowl, which has notches on it for hanging up the punch glasses. It can also be for holding wine and hanging wine glasses.
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{C|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Monteith, Maria}}
+
+[[fr:Maria Monteith]]
+[[pl:Maria Monteith]]
+[[Category:Australian individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Wizards]]

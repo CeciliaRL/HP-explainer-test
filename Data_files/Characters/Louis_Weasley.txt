@@ -1,0 +1,94 @@
+{{Individual infobox
+|theme = individual
+|image = [[File:LouisWeasley.png|250px]]
+|name = Louis Weasley
+|born =<!--Please leave this field blank unless it has been officially, directly confirmed in a canon source.--> 
+|died = 
+|blood = [[Half-Veela|One-eighth Veela]]<!-- Please DO NOT alter the blood status to include half-blood. A half-blood has magical and Muggle heritage; Fleur Delacour has Veela heritage, and it is unknown if she has Muggle heritage. -->
+|marital = 
+|nationality = <!--Please leave this field blank unless it has been officially, directly confirmed in a canon source.--> 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]] ([[Veela]] ancestry)
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[William Weasley|Bill Weasley]] (father)
+*[[Fleur Delacour|Fleur Weasley]]  {{c|née [[Delacour family|Delacour]]}} (mother)
+*[[Victoire Weasley]] (older sister)
+*[[Dominique Weasley]] (younger sister)
+*[[Gabrielle Delacour]] (maternal aunt)
+*[[Charles Weasley]] (paternal uncle)
+*[[Percy Weasley]] (paternal uncle)
+*[[Fred Weasley]] (paternal uncle) †
+*[[George Weasley]] (paternal uncle)
+*[[Ronald Weasley|Ron Weasley]] (paternal uncle)
+*[[Ginevra Weasley|Ginevra Potter]] {{c|née Weasley}} (paternal aunt)
+*[[Angelina Johnson|Angelina Weasley]] {{C|née [[Johnson family|Johnson]]}} (paternal aunt by marriage)
+*[[Audrey Weasley]] (paternal aunt by marriage)
+*[[Harry Potter]] (paternal uncle by marriage)
+*[[Hermione Granger]] (paternal aunt by marriage)
+*[[Fred Weasley II]] (paternal first cousin)
+*[[Roxanne Weasley]] (paternal first cousin)
+*[[Molly Weasley II]] (paternal first cousin)
+*[[Lucy Weasley]] (paternal first cousin)
+*[[James Potter II|James Sirius Potter]] (paternal first cousin)
+*[[Rose Granger-Weasley]] (paternal first cousin)
+*[[Albus Potter|Albus Severus Potter]] (paternal first cousin)
+*[[Lily L. Potter|Lily Luna Potter]] (paternal first cousin)
+*[[Hugo Granger-Weasley]] (paternal first cousin)
+*[[Cedrella Black|Cedrella Weasley]]<ref name="note"/> {{c|née [[House of Black|Black]]}} (paternal great-grandmother) 
+*[[Arthur Weasley]] (paternal grandfather)
+*[[Molly Weasley]] {{c|née [[Prewett family|Prewett]]}} (paternal grandmother)
+*[[Delacour sisters' father|Monsieur Delacour]] (maternal grandfather)
+*[[Septimus Weasley]]<ref name="note">Although it has never been confirmed that Septimus and Cedrella are Arthur's parents, this can be inferred based on [[Sirius Black]]'s statement in {{OOTP|B|6}} that Arthur was "something like [his] second cousin once removed." The [[House of Black|Black family tree]] establishes Cedrella as a first cousin once removed of both [[Orion Black|Orion]] and [[Walburga Black]], Sirius's parents. Thus, any children she had would be their second cousins, and second cousins once removed of their sons Sirius and Regulus. Also, almost all of Sirius's relatives can be seen on the Black family tree as both his parents were born into the House of Black, making it unlikely that he could be related to Arthur in a way not shown. See also this [[Talk:Cedrella Black|talk page]] and an [http://www.hplex.info/essays/essay-black-family-tree.html HPL essay] for more information.</ref> (paternal great-grandfather) 
+*[[Apolline Delacour]] (maternal grandmother)
+*[[Weasley family]]
+*[[Prewett family]]
+*[[Delacour family]]
+*[[House of Black]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Weasley family]]
+*[[Delacour family]]
+*[[Prewett family]]
+}}
+'''Louis Weasley''' was the youngest child of [[William Weasley|Bill]] and [[Fleur Delacour|Fleur Weasley]] {{c|née [[Delacour family|Delacour]]}}. He had two elder sisters, [[Victoire Weasley|Victoire]] and [[Dominique Weasley]].<ref name=WFT>[http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article3105517.ece Times Online - The Unwritten Story of Harry's Friends and Their Children]</ref> It is most likely that he lived at [[Shell Cottage]] with his family.
+
+==Behind the scenes==
+*Louis is the only known male in [[canon]] with [[Veela]] blood.
+*[[J. K. Rowling]]'s great-grandfather was also named Louis. It is unknown whether Louis Weasley is named in honour of him.
+
+==Etymology==
+The name "Louis" is the French form of Ludovicus, the Latinised form of Ludwig. From Old German ''hlod'' and ''wig'', meaning "fame" and "warrior". The king Clovis I (5th century) was the first Christian king in France. This was the name of eighteen kings of France, starting with Louis I, the son of Charlemagne (8th century), and including Louis IX (Saint Louis), who led two crusades, and Louis XIV (the 'Sun King'), who was the ruler of France during the height of its power, the builder of the Palace of Versailles, and the longest reigning monarch in the history of Europe.
+
+==Appearances==
+*''[[J.K. Rowling: A Year in the Life]]'' {{1st Mention}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Weasley, Louis}}
+[[de:Louis Weasley]]
+[[es:Louis Weasley]]
+[[fr:Louis Weasley|r:Louis Weasley]]
+[[pl:Louis Weasley]]
+[[ru:Луис Уизли]]
+[[zh:路易斯·韦斯莱]]
+[[pt-br:Louis Weasley]]
+[[Category:21st century births]]
+[[Category:English individuals]]
+[[Category:Half-breeds]]
+[[Category:House of Black descendants]]
+[[Category:Males]]
+[[Category:Prewett family descendants]]
+[[Category:Weasley family|Louis]]

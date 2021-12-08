@@ -1,0 +1,55 @@
+{{HogwartsLegacySpoiler}}
+{{Unreleased}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = Hogwarts Legacy without text.jpg
+|name = Unidentified 1800s Hogwarts student
+|born = Late [[19th century]], not later than [[31 August]] [[1888]]<ref name="birth">The game is set in the late 19th century, meaning the game starts no later than 1899, and this student was born in 1888 at the latest.</ref>
+|died = 
+|blood =[[Pure-blood]], [[Half-blood]] or [[Muggle-born]]
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]] 
+|gender = <!-- Gender is determined by player choice; leave this field blank -->
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = <!-- House is determined by player choice; leave this field blank -->
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''individual''' was a [[Wizardkind|wizard or witch]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the late 1800s.<ref name="HL1">[https://www.youtube.com/watch?v=1O6Qstncpnc/ See this video]</ref>
+
+==Biography==
+===Early life===
+This individual received a [[Late-bloomer|late acceptance]] to the [[Hogwarts School of Witchcraft and Wizardry]], where their unusual ability to perceive and master Ancient [[Magic]] was discovered.<ref name="HL2">[https://hogwartslegacy.warnerbrosgames.com/ Hogwarts Legacy - Warner Bros. Games]</ref>
+
+==Behind the scenes==
+*This individual is the protagonist of {{HL}}. Their name, gender, [[Hogwarts Houses|house]] and physical appearance are chosen by the player.
+*This individual was possibly a [[Late-bloomer]], since they were said to have received their [[Hogwarts acceptance letter|acceptance letter]] late.
+
+==Appearances==
+*{{HL}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+
+[[ja:氏名不祥の19世紀のホグワーツの学生]]
+[[Category:British or Irish individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Sorted in the 19th century]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,23 @@
+{{Individual infobox
+|name = Wilhelm Wigworthy
+|species = [[Human]]<ref name="FBR"/>
+|gender = Male<ref name="FBR"/>
+|job = Author<ref name="FBR"/>
+|theme = wizard
+}}'''Wilhelm Wigworthy''' was a [[Wizardkind|wizard]] and the author who wrote ''[[Home Life and Social Habits of British Muggles]]'' in [[1987]].<ref name="FBR">{{FB|R}}</ref>
+
+==Appearances==
+*{{FB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Wilhelm Wigworthy]]
+[[es:Wilhelm Wigworthy]]
+[[fr:Wilhelm Wigworthy]]
+[[pl:Wilhelm Wigworthy]]
+[[pt-br:Wilhelm Wigworthy]]
+[[Category:Authors|Wigworthy, Wilhelm]]
+[[Category:Males|Wigworthy, Wilhelm]]
+[[Category:Muggle experts]]
+[[Category:Wizards]]

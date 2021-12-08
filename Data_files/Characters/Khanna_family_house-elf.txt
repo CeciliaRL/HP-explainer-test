@@ -1,0 +1,17 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=house-elf
+|name = Khanna family house-elf
+|species = [[House-elf]]<ref name="HM55t"/>
+|loyalty = [[Khanna family]]<ref name="HM55t"/>
+}}
+This '''[[house-elf]]''' was owned by the [[Khanna family]]. The elf used a feather duster at some point prior to [[1988]] and was seen using it by [[Rowan Khanna]].<ref name="HM55t">{{HM|5|5|t}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:House-elves]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]

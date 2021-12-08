@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Otto Obermeier
+|born = before [[1997]], [[Liechtenstein]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Minister for Magic]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Minister for Magic]] (unknown years; in office by [[2014]])
+|house = 
+|loyalty = [[Liechtenstein Ministry of Magic]]
+}}
+{{Quote|We are very pleased that the Americans have returned our beloved mascot. Magizoologists are currently keeping Hans under close observation for ill effects. If any are discovered we will of course lobby the ICWQC for the USA's immediate disqualification from the World Cup.|Minister Obermeier's statement, after the Americans gave [[Hans|Hans the Augurey]] back to Liechtenstein during the [[2014 Quidditch World Cup]]|Pottermore}}
+Minister '''Otto Obermeier''' was, as [[Minister for Magic]], the head of the [[Liechtenstein Ministry of Magic]].<ref name="PM9June">{{PM}} - [[RETURN OF HANS THE AUGUREY]] (Archived)</ref>
+
+==Biography==
+Following the [[American National Quidditch team|American]] victory over Liechtenstein on the quarter-finals of the [[2014 Quidditch World Cup]], the Liechtenstein mascot, a large and gloomy [[Augurey]] called [[Hans]], was kidnapped by high-spirited American fans celebrating their team's historic triumph.<ref name="PM8June">[http://www.pottermore.com/en/daily-prophet/qwc2014/2014-06-08/late-breaking-news New from J.K. Rowling - Daily Prophet: 8 June 2014 (II)]</ref> Hans was put back in his customised pen the following day, [[9 June]] [[2014]], but not before negotiations for his return reached the highest levels: Minister Otto Obermeier and President of the [[Magical Congress of the United States of America]] [[Samuel G. Quahog]] had to exchange terse owls so that the bird was returned home. Even though President Quahog termed it was done in a "''friendly and cooperative fashion''", Minister Obermeier insisted that if any ill effects were discovered on [[Hans]], Liechtenstein would "''of course lobby the [[International Confederation of Wizards' Quidditch Committee|ICWQC]] for the USA's immediate disqualification from the World Cup''".<ref name="PM9June"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Obermeier, Otto}}
+
+[[de:Otto Obermeier]]
+[[fr:Otto Obermeier]]
+[[pl:Otto Obermeier]]
+[[Category:Liechtenstein Ministers for Magic]]
+[[Category:Males]]
+[[Category:Wizards]]

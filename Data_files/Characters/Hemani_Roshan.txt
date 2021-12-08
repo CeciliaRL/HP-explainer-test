@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Hemani Roshan
+|born = [[31 August]] [[1982]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Female<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Ravenclaw]]<ref name="HBPG"/>
+}}'''Hemani Roshan''' was a [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+She gave [[Harry Potter]] some powdered [[moonstone]] in exchange for two [[Wizard's Chess|chess pieces]]. After then she frequently said, ''"Thanks for the chess pieces, Harry."'' She could be found hanging around on the [[Wooden Bridge]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+Hermani is an Indian name meaning "made of gold", and is a 
+name for Parvati. Roshan means "Light" in various sanskirt languages.
+
+==Behind the scenes==
+*This student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|console versions]] of {{POA}}.
+*Based on her name, it can be presumed that she is of Indian descent.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Roshan, Hemani}}
+[[pl:Hemani Roshan]][[fr:Hemani Roshan]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

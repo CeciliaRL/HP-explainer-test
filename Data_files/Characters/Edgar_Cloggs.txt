@@ -1,0 +1,56 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = spirit
+|image = Cloggs.jpg
+|name = 
+|born = No later than [[1880s|1880]]<ref>Harry states that he is "the youngest seeker ''in a century''". If this statement is supposed to be taken literally, Edgar Cloggs cannot be younger than 12 at the time he died, as he was dead by 1892 and was already playing Quidditch.</ref>
+|died = Before [[1890s|1892]]<ref>Taking "as long as anyone can remember" at face value, he would have been haunting the Quidditch Pitch since the oldest known living person at Hogwarts, Albus Dumbledore, began studying there.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = *[[Human]] (formerly)<ref name="QWC"/>
+*[[Ghost]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch]] player<ref name="QWC"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="QWC"/>
+}}
+'''Edgar Cloggs''' was a [[ghost]] who was often found hanging around the [[Quidditch pitch]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] for as long as anyone could remember. He was willing to help the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Quidditch team]]s to practise.<ref name="QWC">{{QWC}}</ref> By the year of [[1993]], he was also included on a [[Chocolate Frog Card]], for his achievements in the sport.<ref name="POAG">{{POA|G}}</ref>
+
+==Etymology==
+Derived from the Old English elements ''ead'' "rich, blessed" and ''gar'' "spear". This was the name of a [[First millennium A.D.|10th century]] English king who is regarded as a saint. The name did not survive long after the Norman conquest, but it was revived in the 18th century, in part due to a character by this name in Sir Walter Scott's novel 'The Bride of Lammermoor' (1819). Famous bearers include author and poet Edgar Allan Poe (1809-1849), French impressionist painter Edgar Degas (1834-1917), and author Edgar Rice Burroughs (1875-1950).
+
+==Appearances==
+{{Imagecat|Images of Edgar Cloggs}}
+*{{POA|G}} {{FWC}}
+*{{QWC}} {{1st}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Cloggs, Edgar}}
+[[de:Edgar Cloggs]]
+[[fr:Edgar Cloggs]]
+[[pl:Edgar Cloggs]]
+[[ru:Эдгар Клоггс]]
+[[Category:British individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Ghosts]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Quidditch players]]
+[[Category:Wizards]]

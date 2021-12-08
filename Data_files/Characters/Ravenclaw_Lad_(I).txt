@@ -1,0 +1,53 @@
+{{HogwartsMysterySpoiler}}
+{{Notability}}
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:Ravenclaw Lad.jpg]]
+|name = Ravenclaw Lad
+|born = Between [[1 September]] [[1972]] and [[31 August]] [[1973]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="Transfiguration" />
+|gender = Male<ref name="Transfiguration" />
+|height = 
+|weight = 
+|hair = Brown<ref name="Transfiguration" />
+|eyes = Dark<ref name="Transfiguration" />
+|skin = Light<ref name="Transfiguration" />
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+{{Quote|I just want to sit alone and read for hours.|This boy to Jacob's sibling|Harry Potter: Hogwarts Mystery}}
+This '''[[Wizardkind|wizard]]''' was a student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]] and was [[Sorting ceremony|Sorted]] into [[Ravenclaw]].
+
+==Biography==
+He lived somewhere in [[Great Britain]] or [[Ireland]] and started attending Hogwarts on [[1 September]] [[1984]].<ref name="Transfiguration" />
+
+He had [[Transfiguration (class)|Transfiguration]] class with [[Jacob's sibling]] and didn't like the other students talking during lectures.<ref name="Transfiguration">{{HM}}</ref>
+
+By his [[fifth year]], this student attended [[Minerva McGonagall|Professor McGonagall]]'s lectures on [[Transfiguration|transforming]] [[ferret]]s to feather dusters<ref name="Transfiguration">{{HM}}</ref> and [[Switching Spell|switching]] ferrets with feather dusters.<ref name="HM5ch5">{{HM|5|5|t}}</ref>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Ravenclaws Sorted in 1984]]
+[[Category:Unidentified Ravenclaws]]
+[[Category:Wizards]]

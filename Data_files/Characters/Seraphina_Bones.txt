@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:D01LUiYrAaM.jpg|250px]]
+|name = Seraphina Bones
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Red
+|eyes = 
+|skin = White
+|family = *[[Amelia Bones]] (possible descendant)
+*[[Susan Bones]] (possible descendant)
+*[[Bones family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]] (possibly)<ref>"In Chapter 4 of {{HBP}}, Horace Slughorn states that family members are often Sorted into the same House. This may indicate that Seraphina was Sorted into Hufflepuff, as she is likely an ancestor of Susan Bones, a Hufflepuff. However, there are exceptions.</ref>
+|loyalty = [[Bones family]]
+}}
+'''Seraphina Bones''' was a [[wizardkind|witch]] whose [[portrait]] hung at [[Hogwarts Castle]] in the [[1990s]].<ref name="HPLE">{{HPLE|PA}}</ref> It is possible that Seraphina is a forerunner of the [[Bones family]], which was active in the [[20th century]].
+
+==Behind the scenes==
+*This portrait was based on a [http://uploads3.wikipaintings.org/images/john-singer-sargent/miss-elsie-palmer-1890.jpg 1890 portrait of Elsie Palmer (1873–1955)], by [[Wikipedia:John Singer Sargent|John Singer Sargent (1856–1925)]], currently at [[Wikipedia:Colorado Springs Fine Arts Center|Colorado Springs Fine Arts Center]].
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{Portrait}}
+*{{HPLE}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Bones, Seraphina}}
+[[ru:Серафина Боунс]]
+[[fr:Seraphina Bones]]
+[[pl:Seraphine Bones]]
+[[Category:Bones family]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Portraits]]
+[[Category:Wizards]]

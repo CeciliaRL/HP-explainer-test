@@ -1,0 +1,40 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Carlos Eduardos
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=Author
+|house=
+|loyalty=
+}}'''Carlos Eduardos''' was a [[wizardkind|wizarding]] author. He edited the book ''[[The Scars of Salem: Essays on the Witch Trials of 1692]]'', which featured a collection of essays on the [[Salem Witch Trials]] and their lasting impact on the [[United States of America|American]] wizarding community.<ref name="minalima">"[http://store.minalima.com/shop/fantastic-beasts/limited-edition-prints/no-maj-street-adverts/the-scars-of-salem/ The Scars of Salem]" from the MinaLima Store {{See image|File:The Scars of Salem.png}}</ref>
+
+==Appearances==
+*{{FB|F}} {{C|Name on book cover}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Eduardos, Carlos}}
+
+[[es:Carlos Eduardos]]
+[[pl:Carlos Eduardos]]
+[[pt-br:Carlos Eduardos]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Wizards]]

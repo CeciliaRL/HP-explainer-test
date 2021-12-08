@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme=death-eater
+|image=
+|name=Unidentified Death Eater
+|hideb=
+|born=[[Pure-blood]] or [[Half-blood]]<ref name="Blood">The [[Death Eaters]] were known to vehmently oppose and despise all [[Muggle-born]]s and [[Non-magic people|Muggles]].</ref>
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]<ref name="GOFF"/>
+|gender=Male<ref name="GOFF"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=f
+|family=
+|hidem=m
+|animagus=
+|boggart=
+|wand=
+|patronus=None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|hidea=
+|job=
+|house=[[Slytherin]] (possibly)
+|loyalty=*[[Death Eaters]]<ref name="GOFF"/>
+**[[Tom Riddle|Lord Voldemort]]<ref name="GOFF"/>
+}}
+This '''[[Wizardkind|wizard]]''' was a [[Death Eaters|Death Eater]] who was present at the [[Return of Lord Voldemort|return]] of [[Tom Riddle|Lord Voldemort]] in the [[Little Hangleton graveyard]] in [[1995]], and witnessed the [[Duel in Little Hangleton|duel]] between Voldemort and [[Harry Potter]].<ref name="GOFF">{{GOF|F}}</ref>
+
+==Behind the scenes==
+*This [[Death Eaters|Death Eater]] is portrayed by [[Barry Dowden]] in {{GOF|FA}}.
+
+==Appearances==
+*{{GOF|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Death Eaters]]

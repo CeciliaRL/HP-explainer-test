@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Thorsten Pfeffer
+|born = After [[1976]], [[Germany]] (possibly)
+|died =
+|blood =
+|alias =
+|title = [[Seeker]]<ref name="PM"/>
+|nationality = [[Germany|German]]<ref name="PM"/>
+|signature =
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|hair =
+|eyes =
+|height =
+|weight =
+|family =
+|romances =
+|wand =
+|animagus =
+|boggart =
+|patronus =
+|house = 
+|job = [[Seeker]] for the [[German National Quidditch team]]<ref name="PM"/>
+|loyalty = [[German National Quidditch team]]<ref name="PM"/>
+}}'''Thorsten Pfeffer''' was a [[Germany|German]] [[Wizardkind|wizard]] who played as the [[Seeker]] for the [[2014]] [[German National Quidditch team]].<ref name="PM" />
+
+==Biography==
+During their match against [[Welsh National Quidditch team|Wales]], he attempted the life-threatening [[Wronski Feint]]. However, he failed to pull out in time and collided with the ground at what onlookers estimated to be sixty miles an hour. [[Healer]]s immediately flooded the [[Quidditch pitch|Pitch]] and administered [[Skele-Gro]]. According to the team manager [[Franziska Faust]], Pfeffer was likely to make a complete recovery, though he had broken most of his bones and believed himself to be a [[budgerigar]] called Klaus.<ref name="PM">[[WALES VERSUS GERMANY]] (Archived from {{PM}})</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Pfeffer, Thorsten}}
+[[de:Thorsten Pfeffer]]
+[[pl:Thorsten Pfeffer]]
+[[fr:Thorsten Pfeffer]]
+[[ru:Торстен Пфеффер]]
+[[Category:20th century births]]
+[[Category:German individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Wizards]]

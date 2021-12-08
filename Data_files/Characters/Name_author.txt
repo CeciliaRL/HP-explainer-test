@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme = wizard
+|name = Name author
+|image = 
+|born = 
+|died = 
+|blood = 
+|nationality = 
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|house = 
+|job = Author<ref name="JKRS"/>
+|loyalty = 
+}}
+'''Name author''' was a [[Wizardkind|witch or wizard]] and author of ''[[Book of Spells (Name author)|Book of Spells]]''.<ref name="JKRS">{{JKRS}}</ref>
+
+==Behind the scenes==
+*It is possible this individual and [[Name]] are the same person.
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Authors]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

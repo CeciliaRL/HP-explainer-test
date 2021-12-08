@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:SendelinadelaFelino.JPG|250px]]
+|name = Sendelina de la Felino
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Spain|Spanish]]<ref name="QWC"/>
+|alias = 
+|title = [[Keeper]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Dark Brown<ref name="QWC"/>
+|eyes = 
+|skin = White (Tanned)<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Keeper]] for the [[Spanish National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[Spanish National Quidditch team]]<ref name="QWC"/>
+}}'''Sendelina de la Felino''' was a [[Spain|Spanish]] [[Wizardkind|witch]] who played as [[Keeper]] on the [[Spanish National Quidditch team]] in [[1994]].<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Felino's [[Chocolate Frog Card]] could be won by beating [[Alannis Shepley]] at a [[Quidditch]] challenge.<ref name="HBPG">{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Behind the scenes==
+*In Spanish, ''felino'' is a male gender word, and ''la'' is a female gender article. Technically, the correct writing of Sendelina's surname is ''del Felino'', or just ''Felino''.
+**However, this surname might refer to Sendelina's ancestors. ''De la Felino'' can mean "he/she who belongs to the Felino woman". This surname may have originated as a nickname for the child of a woman surnamed "Felino". Therefore, a son of hers would be called, for example, "José el de la Felino" (José, the son of that Felino woman), and through the generations, the nickname would have evolved to an official surname, "de la Felino".
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{C|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Felino, Sendelina de la}}
+
+[[es:Sendelina de la Felino]]
+[[fr:Sendelina de la Felino]]
+[[pl:Sendelina de la Felino]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Keepers]]
+[[Category:Spanish individuals]]
+[[Category:Wizards]]

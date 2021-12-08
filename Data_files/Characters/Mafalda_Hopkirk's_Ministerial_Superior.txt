@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Mafalda Hopkirk's Ministerial Superior
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Ministry of Magic Official
+|signature = [[File:Ministerial Superior sig.png|170px]]
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Improper Use of Magic Office]] employee
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Improper Use of Magic Office]]
+}}
+This '''individual''' was a [[Wizardkind|wizard or witch]] who worked at the [[British Ministry of Magic|Ministry of Magic]] in the [[Improper Use of Magic Office]]. A Ministry Official, this individual was a superior to [[Mafalda Hopkirk]] and, as such, validated her Ministry of Magic Identity Card.<ref>{{HPFW}} (see [[:File:MafaldaHopkirkMinistryID.jpg|this image]])</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}}
+*{{HPFW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+
+[[es:Superior del Ministerio de Mafalda Hopkirk]]
+[[Category:British individuals|Hopkirk's Ministerial Superior]]
+[[Category:Improper Use of Magic Office personnel]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals|Hopkirk's Ministerial Superior]]
+[[Category:Wizards|Hopkirk's Ministerial Superior]]

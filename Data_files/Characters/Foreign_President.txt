@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Foreign President
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HBP1"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = President<ref name="HBP1"/>
+|signature = 
+|species = [[Human]]<ref name="HBP1"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = President of [[Foreign country]]<ref name="HBP1"/>
+|house = 
+|loyalty = [[Foreign country]]<ref name="HBP1"/>
+}}
+{{Dialogue a-b-a-b|Prime Minister|Er, listen... It's not a very good time for me... I'm waiting for a telephone call, you see... from the President of –|Portrait of Ulick Gamp|That can be rearranged.|But I really was rather hoping to speak –|We shall arrange for the President to forget to call. He will telephone tomorrow night instead. Kindly respond immediately to Mr Fudge.|The [[Prime Minister]] exchanging words with the [[portrait]] of [[Ulick Gamp]] bearing news from [[Minister for Magic|Ex-Minister]] [[Cornelius Fudge]].|Harry Potter and the Half-Blood Prince}}
+This '''individual''' served as the President of a "far-distant" [[Foreign country|country]] in [[1996]]. In the summer of that year, the President was to telephone the [[Prime Minister]] of the [[Great Britain|United Kingdom]] but due to the visit of the recently sacked [[Minister for Magic]] [[Cornelius Fudge]] and his successor [[Rufus Scrimgeour]] he was made to forget to call, and telephone the next night instead.<ref name="HBP1">{{HBP|B|1}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Politicians]]
+[[Category:Unidentified Muggles‎]]

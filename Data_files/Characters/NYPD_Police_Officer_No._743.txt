@@ -1,0 +1,33 @@
+{{Individual infobox
+|image = Policeman.jpg
+|name = Unidentified NYPD Police Officer
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|America]]
+|species = [[Human]]
+|gender = Male
+|job = [[Police]]man
+|loyalty = [[New York Police Department]]
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidea = 
+|born = [[1905]] or earlier}}This '''Policeman''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who worked for the [[New York Police Department]] in [[1926]].
+
+==Biography==
+
+He interviewed [[Unidentified housewife|two]] [[Unidentified hobo|witnesses]] when some of [[Newton Scamander]]'s creatures were accidentally released from his [[Newton Scamander's suitcase|suitcase]], where one believed it was a gas explosion and the other was going to tell what he saw before he got [[Memory Charm|obliviated]] to make him agree with the other witnesses belief causing some arguments and paranoia in the crowd.<ref>{{FB|S|31}}</ref>
+
+==Behind the scenes==
+The Policeman was portrayed by [[Erick Hayden]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Police officers]]
+[[Category:Unidentified Muggles]]

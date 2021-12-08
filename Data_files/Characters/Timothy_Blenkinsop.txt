@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Timothy Blenkinsop
+|born = c. [[1976]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Barnabus Blenkinsop]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Timothy Blenkinsop''' (born c. [[1976]]) was a [[Quidditch]] fan who supported [[Puddlemere United]].<ref name="wizardsb">[http://www.hplex.info/wizards/a-z/b.html "Wizards, Witches and Beings: B"] on the Harry Potter Lexicon</ref> He was twenty-three when he attended a match between Puddlemere United and the [[Holyhead Harpies]] on [[30 September]], [[1999]].<ref name="wizardsb" /> These two teams had long been rivals, and, anticipating the possibility of crowd violence, the [[British Ministry of Magic|Ministry of Magic]] confiscated [[wand]]s at the gates.<ref name="dp">[http://www.hplex.info/about/sources/source_dp.html "Daily Prophet newsletters"] on The Harry Potter Lexicon</ref> However, many attendees turned over [[fake wand]]s.<ref name="dp" /> Thus, when [[Wilda Griffiths]], a [[Chaser]] for Puddlemere United who transferred from the Harpies earlier that year, disappeared mid-match, a riot broke out, and people were able to use their real wands.<ref name="dp" /> Timothy got caught in the crossfire, and was [[Tail-growing spell|left with a tail]] because of it, presumably due to a [[spell]] that hit him.<ref name="wizardsb" />
+
+==Etymology==
+The name "Timothy" is from the Greek name Τιμοθεος (''Timotheos'') meaning "honouring God", derived from τιμαω (''timao'') "to honour" and θεος (''theos'') "god". As an English name, Timothy was not used until after the Protestant Reformation.
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Blenkinsop, Timothy}}
+
+[[pl:Timothy Blenkinsop]]
+[[ru:Тимоти Бленкинсоп]]
+[[Category:1976 births]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Puddlemere United supporters]]
+[[Category:Wizards]]

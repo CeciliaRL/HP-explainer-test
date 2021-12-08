@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme=wizard
+|name =Cyrille Lestrange
+|blood = [[Pure-blood]]<ref>He was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|nationality = [[France|French]]
+|species =[[Human]]
+|gender =Male
+|hair =Brown
+|skin =Light
+|family =
+*[[Corvus Lestrange (I)|Corvus Lestrange]] (brother)
+*[[Darenne Lestrange]] (wife)
+*[[Cyrille Lestrange (II)|Cyrille Lestrange]] (son)
+*[[Fulcran Lestrange (I)|Fulcran Lestrange]] (son)
+*[[Balbine Lestrange (I)|Balbine Lestrange]] (daughter-in-law)
+*[[Pucine Lestrange (I)|Pucine Lestrange]] (daughter-in-law)
+*[[Corvus Lestrange (II)|Corvus Lestrange]] (nephew)
+*[[Falco Lestrange]] (nephew)
+*[[Cyrille Lestrange (III)|Cyrille Lestrange]] (grandson)
+*[[Fulcran Lestrange (II)|Fulcran Lestrange]] (grandson)
+*[[Cyrille Lestrange (IV)|Cyrille Lestrange]] (great-grandson)
+*[[Floxel Lestrange]] (great-grandson)
+*[[Fulcran Lestrange (III)|Fulcran Lestrange]] (grandson)
+*[[Balbine Lestrange (II)|Balbine Lestrange]] (granddaughter)
+*[[Pucine Lestrange (II)|Pucine Lestrange]] (granddaughter)
+*[[Lestrange family]]
+*Moreau family (in-laws)
+|loyalty = *[[Lestrange family]]
+*Moreau family
+|image = CYRILLE LESTRANGE I.jpg}}
+'''Cyrille Lestrange''' was a [[France|French]] [[Wizardkind|wizard]] and a member of the [[pure-blood]] [[Lestrange family]]. Cyrille had a brother [[Corvus Lestrange (I)|Corvus]]. He married [[Darenne Lestrange|Darenne Moreau]], and had two sons with her, [[Cyrille Lestrange (II)|Cyrille]] and [[Fulcran Lestrange (I)|Fulcran]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref>
+
+==Appearances==
+*{{COG}} {{c|Appears on the Lestrange family tree}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Lestrange, Cyrille I}}
+[[fr:Cyrille Lestrange I]]
+[[pl:Cyrille Lestrange I]]
+[[ru:Сирилл Лестрейндж I]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Lestrange family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

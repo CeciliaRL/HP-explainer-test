@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Lisette de Lapin
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title = 
+|hidep=
+|species=[[Human]]<ref name="TBB" />
+|gender=Female<ref name="TBB" />
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=
+|animagus=White [[rabbit]] (possibly)<ref name="TBB" />
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=Courtier/King's Advisor (possibly)<ref name="TBB" />
+|house=
+|loyalty=
+|nationality = [[France|French]]<ref name="TBB" />
+}}'''Lisette de Lapin''' (fl. [[1422]]) was a [[France|French]] [[Wizardkind|sorceress]] who was convicted of practising [[Magic|witchcraft]] by [[Non-magic people|Muggle]]s in the city of Paris in [[1422]], and was subsequently [[Capital punishment|sentenced to death]]. She disappeared from her prison cell the evening before her scheduled execution.<ref name="TBB">{{TBB|B}} (Albus Dumbledore's notes)</ref>
+
+==Animagus theory==
+One theory was that she was an [[Animagus]] whose animal form was small enough to allow her to slip out the barred window. This idea has never been confirmed, but, sometime after Lisette's escape, a large white rabbit was spotted sailing across the English Channel in a [[cauldron]]. A rabbit fitting that description would later serve as an advisor to [[Henry VI|King Henry VI]].<ref name="TBB" />
+
+==Inspiration for "Babbitty"==
+Magical historians have suggested that Lisette de Lapin may have been the inspiration behind [[Beedle the Bard]]'s character [[Babbitty Rabbity|Babbitty]], who turns into a rabbit to escape the foolish [[King (Babbitty Rabbitty and her Cackling Stump)|King]] and [[Charlatan]].<ref name="TBB" />
+
+==Etymology==
+"Lisette" is a French nickname for "Elisabeth"<ref>"[http://www.behindthename.com/name/lisette Lisette]" at [http://www.behindthename.com Behind the Name]</ref>. "''Lapin''" is the French word for "rabbit", which combined with the the [[Wikipedia:French_name#Particles|particle]] "''de"'' ("of") to form the surname "de Lapin", can be interpreted as meaning either "of the rabbit" or "of a place called "Lapin"."
+
+==Appearances==
+*{{TBB}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lapin, Lisette de}}
+[[de:Lisette de Lapin]]
+[[fr:Lisette de Lapin]]
+[[pl:Lisette de Lapin]]
+[[Category:Convicts]]
+[[Category:Courtiers]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Wizards]]

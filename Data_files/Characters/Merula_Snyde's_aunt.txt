@@ -1,0 +1,28 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual_infobox
+|theme = wizard
+|blood = [[Pure-blood]] or [[Half-blood]] (likely)<ref name="blood">Her sister was a Death Eater, so she and her likely came from wizard parents.</ref>
+|species = [[Human]]
+|gender = Female
+|family = *[[Merula Snyde's mother|Sister]]
+*[[Merula Snyde's father|Brother-in-law]]
+*[[Merula Snyde]] (niece)
+*[[Snyde family]]
+|loyalty = [[Snyde family]]
+}}
+'''This individual''' was a [[Wizardkind|witch]] and [[Merula Snyde]]'s aunt. She became her legal guardian after [[Merula Snyde]]'s [[Merula Snyde's mother|mother]] and [[Merula Snyde's father|father]] were both sent to [[Azkaban]] for being [[Death Eaters]] after the [[First Wizarding War]], although rather than living with her, she would let Merula live at the empty house of her parents, although she checked in regularly.<ref name="HM528">{{HM|5|28}}</ref>
+
+==Behind the scenes==
+*She raised Merula to think that [[black cat]]s are evil and bring bad luck.<ref>{{HM|5|No Strings Attached}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[es:Tía de Mérula Snyde]]
+[[Category:Females]]
+[[Category:Snyde family]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]
+[[Category:Articles with information from Harry Potter: Hogwarts Mystery]]

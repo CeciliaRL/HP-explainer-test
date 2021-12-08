@@ -1,0 +1,117 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1>Community 26</h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 600px;
+            background-color: white;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"blood": "unknown", "color": "#5E1B1E", "community": 26, "community_names": ["Walter Parkin", "Parkin (Seeker)", "Parkin (Keeper)"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Parkin (Chaser III)", "label": "Parkin (Chaser III)", "shape": "dot", "size": 22, "species": "Human", "title": "\u003cb\u003eParkin (Chaser III)\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 26"}, {"blood": "unknown", "color": "#5E1B1E", "community": 26, "community_names": ["Walter Parkin", "Parkin (Seeker)", "Parkin (Keeper)"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Parkin (Beater I)", "label": "Parkin (Beater I)", "shape": "dot", "size": 22, "species": "Human", "title": "\u003cb\u003eParkin (Beater I)\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 26"}, {"blood": "unknown", "color": "#5E1B1E", "community": 26, "community_names": ["Walter Parkin", "Parkin (Seeker)", "Parkin (Keeper)"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Parkin (Beater II)", "label": "Parkin (Beater II)", "shape": "dot", "size": 22, "species": "Human", "title": "\u003cb\u003eParkin (Beater II)\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 26"}, {"blood": "unknown", "color": "#5E1B1E", "community": 26, "community_names": ["Walter Parkin", "Parkin (Seeker)", "Parkin (Keeper)"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Parkin (Chaser I)", "label": "Parkin (Chaser I)", "shape": "dot", "size": 22, "species": "Human", "title": "\u003cb\u003eParkin (Chaser I)\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 26"}, {"blood": "unknown", "color": "#5E1B1E", "community": 26, "community_names": ["Walter Parkin", "Parkin (Seeker)", "Parkin (Keeper)"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Parkin (Chaser II)", "label": "Parkin (Chaser II)", "shape": "dot", "size": 22, "species": "Human", "title": "\u003cb\u003eParkin (Chaser II)\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 26"}, {"blood": "unknown", "color": "#5E1B1E", "community": 26, "community_names": ["Walter Parkin", "Parkin (Seeker)", "Parkin (Keeper)"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Parkin (Keeper)", "label": "Parkin (Keeper)", "shape": "dot", "size": 22, "species": "Human", "title": "\u003cb\u003eParkin (Keeper)\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 26"}, {"blood": "unknown", "color": "#5E1B1E", "community": 26, "community_names": ["Walter Parkin", "Parkin (Seeker)", "Parkin (Keeper)"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Parkin (Seeker)", "label": "Parkin (Seeker)", "shape": "dot", "size": 22, "species": "Human", "title": "\u003cb\u003eParkin (Seeker)\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 26"}, {"blood": "unknown", "color": "#5E1B1E", "community": 26, "community_names": ["Walter Parkin", "Parkin (Seeker)", "Parkin (Keeper)"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Walter Parkin", "label": "Walter Parkin", "shape": "dot", "size": 23, "species": "Human", "title": "\u003cb\u003eWalter Parkin\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 26"}, {"blood": "unknown", "color": "#5E1B1E", "community": 26, "community_names": ["Walter Parkin", "Parkin (Seeker)", "Parkin (Keeper)"], "font": {"color": "black"}, "gender": "Female", "house": "unknown", "id": "Blythe Parkin", "label": "Blythe Parkin", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eBlythe Parkin\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Female \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 26"}, {"blood": "unknown", "color": "#5E1B1E", "community": 26, "community_names": ["Walter Parkin", "Parkin (Seeker)", "Parkin (Keeper)"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Roderick Plumpton", "label": "Roderick Plumpton", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eRoderick Plumpton\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 26"}, {"blood": "unknown", "color": "#5E1B1E", "community": 26, "community_names": ["Walter Parkin", "Parkin (Seeker)", "Parkin (Keeper)"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Witch and Wizard Couple", "label": "Witch and Wizard Couple", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eWitch and Wizard Couple\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 26"}]);
+        edges = new vis.DataSet([{"color": "lightgrey", "from": "Parkin (Chaser III)", "to": "Parkin (Beater I)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Chaser III)", "to": "Parkin (Beater II)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Chaser III)", "to": "Parkin (Chaser I)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Chaser III)", "to": "Parkin (Chaser II)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Chaser III)", "to": "Parkin (Keeper)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Chaser III)", "to": "Parkin (Seeker)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Chaser III)", "to": "Walter Parkin", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Seeker)", "to": "Parkin (Beater I)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Seeker)", "to": "Parkin (Beater II)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Seeker)", "to": "Parkin (Chaser I)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Seeker)", "to": "Parkin (Chaser II)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Seeker)", "to": "Parkin (Keeper)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Seeker)", "to": "Walter Parkin", "weight": 1}, {"color": "lightgrey", "from": "Blythe Parkin", "to": "Roderick Plumpton", "weight": 1}, {"color": "lightgrey", "from": "Blythe Parkin", "to": "Walter Parkin", "weight": 1}, {"color": "lightgrey", "from": "Roderick Plumpton", "to": "Witch and Wizard Couple", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Beater II)", "to": "Parkin (Beater I)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Beater II)", "to": "Parkin (Chaser I)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Beater II)", "to": "Parkin (Chaser II)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Beater II)", "to": "Parkin (Keeper)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Beater II)", "to": "Walter Parkin", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Chaser I)", "to": "Parkin (Beater I)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Chaser I)", "to": "Parkin (Chaser II)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Chaser I)", "to": "Parkin (Keeper)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Chaser I)", "to": "Walter Parkin", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Chaser II)", "to": "Parkin (Beater I)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Chaser II)", "to": "Parkin (Keeper)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Chaser II)", "to": "Walter Parkin", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Beater I)", "to": "Parkin (Keeper)", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Beater I)", "to": "Walter Parkin", "weight": 1}, {"color": "lightgrey", "from": "Parkin (Keeper)", "to": "Walter Parkin", "weight": 1}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "curvedCW"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": true,
+        "hideNodesOnDrag": true
+    },
+    "physics": {
+        "enabled": true,
+        "forceAtlas2Based": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.02,
+            "damping": 1,
+            "gravitationalConstant": -111,
+            "springConstant": 0.025,
+            "springLength": 75
+        },
+        "solver": "forceAtlas2Based",
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>

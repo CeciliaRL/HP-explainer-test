@@ -1,0 +1,51 @@
+{{conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Edgar Bones' children
+|born = 
+|died = late [[1981]]<ref>Edgar Bones appeared in a photograph with [[Marlene McKinnon]] that was taken two weeks before Marlene's death in July 1981. Therefore the Bones family had to have been killed sometime between then and Voldemort's fall (31 October, 1981).</ref>
+|blood = [[Pure-blood]]s, [[Half-blood]]s or [[Squib]]s
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Edgar Bones]] (father) †
+*[[Edgar Bones' wife|Mrs Bones]] (mother) †
+*[[Amelia Bones]] (aunt) †
+*[[Susan Bones]] (cousin)
+*[[Amelia Bones' father|Mr Bones]] (paternal grandfather) †
+*[[Amelia Bones' mother|Mrs Bones]] (paternal grandmother) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Bones family]]
+}}
+The '''children''' of [[Edgar Bones]] and his [[Edgar Bones's wife|wife]] were murdered along with their parents by [[Death Eaters]] in [[1981]]. This was because of their affiliation with the [[Order of the Phoenix]].<ref name="OOTP25">{{OOTP|B|25}}</ref> It is unknown how many children the Bones' had, or any of their names.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Bones, Edgar's children}}
+[[fr:Enfants d'Edgar Bones]]
+[[pl:Dzieci Edgara Bonesa]]
+[[Category:1981 deaths]]
+[[Category:Bones family]]
+[[Category:British individuals]]
+[[Category:First Wizarding War casualties]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Murder victims]]
+[[Category:Unnamed family members]]

@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Martha Steward II's friend
+|born=
+|died=
+|blood=
+|nationality = [[Native Americans|Native American]]<ref name="Pottermore"/>
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="Pottermore"/>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|family=*[[Martha Steward II's husband|At least one brother]]<ref name="Pottermore"/>
+*[[Chadwick Boot]] (adoptive brother-in-law)<ref name="Pottermore"/>
+*[[Webster Boot]] (adoptive brother-in-law)<ref name="Pottermore"/>
+*[[Rionach Steward]] (sister-in-law)<ref name="Pottermore"/>
+*[[Martha Steward II|Martha Steward]] (sister-in-law)<ref name="Pottermore"/>
+|job=
+|house=
+|loyalty=[[Pocomtuc]]<ref name="Pottermore"/>
+}}
+This '''individual''' was a member of the [[Pocomtuc]] people during the [[17th century]]. They were [[magic]]al, but had a [[Martha Steward II's husband|brother]] who was not, although it unknown whether the siblings were, respectively, a [[Muggle-born|No-Maj-born]] [[wizardkind|wizard/witch]] and a [[Muggle|No-Maj]], or a wizard and [[Squib]] born into a wizarding family. This person was friends with [[Martha Steward II|Martha Steward]], the Squib daughter of [[Isolt Sayre]] and [[James Steward]], and their brother eventually married her.<ref name="Pottermore">{{WW|ilvermorny}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Przyjaciel Marty Steward II]]
+
+[[Category:American individuals]]
+[[Category:Historical figures]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Native Americans]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

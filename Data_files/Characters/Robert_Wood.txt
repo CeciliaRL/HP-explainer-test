@@ -1,0 +1,22 @@
+{{Individual infobox
+|name = Robert Wood
+|nationality = [[Great Britain|British]]
+|species = [[Human]]
+|gender = Male
+|family = [[Wood family]] (possibly)
+|theme=individual
+}}'''Robert Wood''' was a resident of [[32a North Street|number 32a]], [[North Street]], [[Crowford]], [[Brookshire]]. He may be a relative of [[Oliver Wood's father|Mr]], and [[Oliver Wood]].<ref name="JKRS">{{JKRS}}</ref>
+
+==Behind the scenes==
+*The fictitious Robert Wood is only mentioned on the F.A.Q. section of {{JKRS}}, where a letter adressed to [[J. K. Rowling]] is stated to have been sent by him.
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[ru:Роберт Вуд]]
+[[pl:Robert Wood]]
+[[Category:British individuals|Wood, Robert]]
+[[Category:Males|Wood, Robert]]
+[[Category:Wood family]]

@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Notability|Is this really notable? This article seems to identify someone purely by their ethnicity, not something the wiki really does.}}
+{{Individual infobox
+|name = Unidentified man
+|image = Unidentified man who opened the doors of the Hearing Room for Newton and Theseus Scamander.png
+|born = 
+|died = 
+|blood = 
+|nationality = 
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="COGF"/>
+|gender = Male<ref name="COGF"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+|theme = wizard<ref name="COGF"/>
+}}
+This unidentified '''man''' was a [[Wizardkind|wizard]].<ref name="COGF"/>
+
+==Biography==
+[[File:Newt and Theseus entering Hearing Room.gif|250px|thumb|left|This man opening the door]]
+In [[1927]], he opened the door of the [[British Ministry of Magic Hearing Room]] for [[Theseus Scamander]] and [[Newton Scamander]] for his [[Newton Scamander's hearing|hearing]].<ref name="COGF">{{COG|F|19}}</ref>
+
+==Appearances==
+*{{COG}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Asian individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

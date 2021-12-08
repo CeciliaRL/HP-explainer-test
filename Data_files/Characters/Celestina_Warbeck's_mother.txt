@@ -1,0 +1,59 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mrs Warbeck
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="Pottermore">{{WW|celestina-warbeck}} on Pottermore</ref>
+|marital = Married<ref name="Pottermore"/>
+|nationality = [[Wales|Welsh]]<ref name="Pottermore"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="Pottermore"/>
+|gender = Female<ref name="Pottermore"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Celestina Warbeck's father|Mr Warbeck]] (husband)<ref name="Pottermore"/>
+*[[Celestina Warbeck]] (daughter)<ref name="Pottermore"/>
+*[[Celestina Warbeck's first husband|First son-in-law]]<ref name="Pottermore"/>
+*[[Celestina Warbeck's second husband|Second son-in-law]]<ref name="Pottermore"/>
+*[[Irving Warble]] (third son-in-law)<ref name="Pottermore"/>
+*[[Celestina Warbeck's son|One grandson]]<ref name="Pottermore"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Actress (formerly)<ref name="Pottermore"/>
+|house = 
+|loyalty = [[Warbeck family]]<ref name="Pottermore"/>
+}}
+'''Mrs Warbeck''' was the [[Non-magic people|Muggle]] wife of [[Celestina Warbeck's father|Mr Warbeck]], a [[wizardkind|wizard]], and the mother of internationally famous singer [[Celestina Warbeck]].
+
+==Biography==
+Mrs Warbeck, a [[Non-magic people|Muggle]], lived in [[Wales]] in the early [[20th century]]. Before [[marriage|marrying]], she pursued a career in acting, but was not successful. She met [[Celestina Warbeck's father|Mr Warbeck]], a [[wizardkind|wizard]] who worked in the [[Muggle Liaison Office]], after she was attacked (presumably during a performance) by a [[Lethifold]] that had hidden itself by taking the form of a stage curtain.<ref name="Pottermore" /> The couple married on an unknown date and had at least one child, [[Celestina Warbeck|Celestina]], who was born [[18 August]]<ref name="Pottermore" /> [[1917]].<ref name="chocolatefrog">[[Chocolate Frog Card|Famous Wizard Card]] ([[Celestina Warbeck]])</ref>
+
+Celestina proved to be an exceptionally gifted singer at a young age.<ref name="Pottermore" /> Mrs Warbeck wished to enrol Celestina in wizarding stage school, but upon learning there was no such thing, she agreed to allow her to attend [[Hogwarts School of Witchcraft and Wizardry]].<ref name="Pottermore" /> Fiercely supportive of her daughter, Mrs Warbeck sent many letters to the school, requesting the creation of a [[Frog Choir|choir]], drama club, and dancing class to allow young Celestina to showcase her talents.<ref name="Pottermore" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Warbeck, Celestina's mother}}
+
+[[pl:Pani Warbeck]]
+[[fr:Mère de Celestina Moldubec]]
+[[Category:Actors]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Warbeck family]]
+[[Category:Welsh individuals]]

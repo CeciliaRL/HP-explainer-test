@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Loony Nonby
+|hideb=hide
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+'''Loony Nonby''' is a fictional character from the wizard's comic book ''[[Loony Nonby v.s. Cornish Pixie]]''.<ref name="PA8">{{POA|F}} - Chapter 8 (''Welcome and Warning'')</ref>
+
+==Appearances==
+*{{POA|F}} {{1st}}
+*{{OOTP|F}}
+*{{HBP|F}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Nonby, Loony}}
+[[Category:Fictional characters]]
+[[Category:Males]]
+[[Category:Wizards]]

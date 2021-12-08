@@ -1,0 +1,48 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = Pitts.png
+|name = Pitts
+|born = [[1980s]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HM518"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[House-elf]]<ref name="HM518"/>
+|gender = Male<ref name="HM518"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Light<ref name="HM518"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Hogwarts kitchens]] employee<ref name="HM518"/>
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HM518"/>
+**[[Hogwarts kitchens]]<ref name="HM518"/>
+}}
+'''Pitts''' was a [[house-elf]] employed at [[Hogwarts School of Witchcraft and Wizardry]]. He was previously owned by a [[Wizardkind|wizard or witch]], who treated him cruelly and gave him to the [[Hogwarts kitchens]] for next to nothing.<ref name="HM518">{{HM|5|18}}</ref> According to [[Rita Skeeter]], [[Jacob (Hogwarts student)|Jacob]] spoke to him shortly before his expulsion.<ref name="HM4RR">{{HM|4|Rita Returns}}, if the player chooses to learn a secret and let Rita write a story about [[Torvus]]</ref> He was strict when it came to making sure other house-elves and students in [[Discipline at Hogwarts|detention]] did their work properly in the kitchens.
+
+He also noted that [[Barnaby Lee]] had "an appetite like a [[Mountain troll|Mountain Troll]]" and Hogwarts kitchens had to increase their sandwich production.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+{{Staff}}
+[[fr:Pitts]]
+[[ru:Питтс]]
+[[Category:British individuals]]
+[[Category:Hogwarts employees]]
+[[Category:House-elves]]
+[[Category:Males]]

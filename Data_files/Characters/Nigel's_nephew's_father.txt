@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Nigel's nephew's father
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]] (most likely)<ref name="COSG"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Nigel's nephew|Son]]<ref name="COSG"/>
+*[[Nigel]] (brother or brother-in-law)<ref name="COSG"/>
+*[[Nigel's wife|Sister-in-law or brother-in-law's wife]]<ref name="COSG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''individual''' was a [[wizardkind|wizard]] and father of a [[Nigel's nephew|male Slytherin Hogwarts student]] in the [[1990s]].<ref name="COSG"/>
+
+In [[1992]], his brother or brother-in-law [[Nigel]] married a [[Nigel's wife|Muggle woman]], which made him furious. [[Nigel's nephew|This individual's son]] did not seem to be as upset, as his [[Non-magic people|Muggle]] aunt brought him sweets.<ref name="COSG">{{COS|G}} {{C|PC version}}</ref>
+
+==Appearances==
+*{{COS|G}} {{1st mention}} {{C|PC version}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Brat Nigela]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Pure-blood supremacists]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

@@ -1,0 +1,60 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Ms Fleamont.png|250px]]
+|name = Mrs Potter (née Fleamont)
+|born = 
+|died = Pre-[[1909]]<ref name="age">She died before the birth of [[Fleamont Potter]], who was known to be born by [[1909]].</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="Pottermore"/>
+|gender = Female<ref name="Pottermore"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Henry Potter]] (son) †<ref name="Pottermore"/>
+*[[Fleamont Potter]] (grandson) †<ref name="Pottermore"/>
+*[[Charlus Potter]] (possibly) †
+*[[James Potter I|James Potter]] (descendant) †<ref name="Pottermore"/>
+*[[Charlus Potter's son|Charlus' son]] (possibly)
+*[[Harry Potter]] (descendant)<ref name="Pottermore"/> 
+*[[James Potter II|James Sirius Potter]]  (descendant)<ref name="Pottermore"/> 
+*[[Albus Potter|Albus Severus Potter]]  (descendant)<ref name="Pottermore"/> 
+*[[Lily L. Potter|Lily Luna Potter]]  (descendant)<ref name="Pottermore"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Fleamont family]]<ref name="Pottermore"/>
+*[[Potter family]]<ref name="Pottermore"/>
+}}
+'''Mrs Potter''' (née '''Fleamont''') was a [[wizardkind|witch]]. On her deathbed, she asked her son, [[Henry Potter|Henry]], to preserve her maiden name, which would otherwise die out with her, as she was apparently the last of [[Fleamont family|her line]]. He honoured her request by naming his son [[Fleamont Potter|Fleamont]].<ref name="Pottermore">{{WW|the-potter-family}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Potter, Henry's mother}}
+[[pl:Matka Henry'ego Pottera]]
+[[ru:Миссис Поттер]]
+[[fr:Mère de Henry Potter]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Fleamont family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Peverell family descendants]]
+[[Category:Potter family]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

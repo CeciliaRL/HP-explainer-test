@@ -1,0 +1,46 @@
+{{Noncanon|Character}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Irish feller
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Ireland|Irish]]<ref name="PSF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSF"/>
+|gender = Male<ref name="PSF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Dialogue a-b-c-b|[[Hermione Granger]]|[[Fluffy|That thing]] has a name?|Rubeus Hagrid|Well of course he's got a name, he's mine! I bought him off an Irish feller I met down the pub last year! Then I lent him to [[Albus Dumbledore|Dumbledore]] to guard [[Philosopher's Stone|the]]-|[[Harry Potter]]|Yes?|I shoudn't have said that.|Hagrid's mention of the Irish feller|Harry Potter and the Philosopher's Stone (film)}}
+This '''unnamed [[Ireland|Irish]] man''' met [[Rubeus Hagrid]] in the [[Leaky Cauldron]] in [[1990]]. He sold Hagrid the [[Fluffy|three-headed dog]] he owned. Hagrid named this dog [[Fluffy]], and, the [[1991|following year]], lent him to [[Albus Dumbledore]], who used him to guard the [[Philosopher's Stone]].<ref name="PSF">{{PS|F}} - Chapter 26 (''Up to Something'')</ref>
+
+==Behind the scenes==
+*In the novel {{PS}}, [[Rubeus Hagrid|Hagrid]] states that he bought [[Fluffy]] from "a [[Greece|Greek]] [[Greek man|man]]", rather than "an Irish feller,". Because of this change in the film, it loses [[J. K. Rowling]]'s reference to [[Wikipedia:Greek mythology|Greek mythology]], in which there was a three-head dog, [[Wikipedia:Cerberus|Cerberus]], that guarded the gates of [[Wikipedia:Hades|Hades]]. However, [[Steve Kloves]], the film's screenwriter, stated that he originally used "Greek chappie," but did not know how the line got changed.<ref>[http://www.hp-lexicon.org/about/books/ps/rg-ps11.html Reader's Guide to Chapter 11 of ''Philosopher's Stone''] on The Harry Potter Lexicon</ref>
+
+==Appearances==
+*{{PS|F}} {{1st Mention}} {{C|[[Harry Potter Wiki:Canon|Non-canonical]] mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,41 @@
+{{Individual infobox
+|image = 
+|name = M. P. N. Carnerius 
+|born = 
+|died = 
+|blood = 
+|nationality = 
+|title = 
+|alias = 
+|marital = 
+|species = [[Human]]<ref name="MinaLima"/>
+|gender = 
+|skin = 
+|eyes = 
+|hair = 
+|height = 
+|weight = 
+|family = *[[M. Carneirus (British)|M. Carneirus]] (possibly)
+*[[M. P. Carneirus]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Astronomer]], Author<ref name="MinaLima"/>
+|house = 
+|loyalty = 
+|theme = individual
+}}
+'''M. P. N. Carneirus''' was the name of an individual who authored the book ''[[Atlas of Celestial Anomalies]]''.<ref name="MinaLima">[https://minalima.com/product/atlas-of-celestial-anomalies-print/ "Atlas of Celestial Anomalies"] from [[MinaLima Design]] (prop featured in {{COG}})</ref>
+
+==Appearances==
+*{{COG}} {{1st Mention}} {{C|Name seen on book cover}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Carneirus, M. P. N.}}
+[[Category:Astronomers]]
+[[Category:Authors]]
+[[Category:Humans]]
+[[Category:Individuals of unknown or undetermined gender]]

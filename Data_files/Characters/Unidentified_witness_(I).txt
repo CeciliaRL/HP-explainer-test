@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = muggle
+|image = Witness.jpg
+|name = Unidentified witness
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="FBS"/>
+|marital = 
+|nationality = [[United States of America|American]]<ref name="FBS"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBS"/>
+|gender = Male<ref name="FBS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''individual''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who was interviewed after he saw the [[Obscurus]] destroy a building in [[New York]] in [[1926]].<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+*The witness was portrayed by [[Tim Bentinck]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowany niemag]]
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

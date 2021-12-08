@@ -1,0 +1,26 @@
+{{Individual infobox
+|image = [[File:Steve.png|250px]]
+|name = Steve
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|alias = Ol' Shoe-shinin' Steve
+|species = [[Human]]
+|gender = Male
+|hair = Brown
+|skin = White
+|job = [[Wikipedia:Shoeshiner|Shoeshiner]]
+|theme = muggle
+}}
+{{Quote|Aw, yeah! Ol' Shoe-shinin' Steve is back in business!|Steve, once his [[shoe-shine machine]] was fixed|LEGO Dimensions}}
+'''Steve''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who operated an automatic [[shoe-shine machine]] on [[New York]]'s [[43rd Street]], in [[1926]].
+
+His shoe-shine machine once broke down, much to the dismay of his assembled clientele.<ref>{{LEGO|D}} (see [https://www.youtube.com/watch?v=UNRWFaIjA9o this video])</ref>
+
+==Appearances==
+*{{LEGO|D}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

@@ -1,0 +1,66 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Crispin Cronk.jpg|250px]]
+|name = Crispin Cronk
+|born = [[1795]]
+|died = [[1872]] (age 76-77)
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Red
+|eyes = 
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Egypt]]
+*[[Sphinx]]es
+}}
+'''Crispin Cronk''' ([[1795]]–[[1872]]) was an Egyptophile [[Great Britain|British]] [[Wizardkind|wizard]] who insisted on keeping [[Crispin Cronk's sphinxes|several sphinxes]] in his backyard. The [[British Ministry of Magic]] warned him repeatedly about this infraction, but he did not listen, and was eventually sent to [[Azkaban]] for this.<ref name="PM">{{PM}}</ref><ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+==Etymology==
+*The name ''"Crispin"'' is from the Roman cognomen ''Crispinus'' which was derived from the name ''Crispus''. Saint Crispin was a 3rd-century Roman who was martyred with his twin brother Crispinian in Gaul. They are the patrons of shoemakers. They were popular saints in England during the Middle Ages, and the name has occasionally been used since that time.
+*A ''"Cronk"'' is an Australian slang word for "fraudulent," particularly in talking about running racehorses.
+
+==Appearances==
+{{Imagecat|Images of Crispin Cronk}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Cronk, Crispin}}
+
+{{Chocolate Frog Cards}}
+
+[[de:Crispin Cronk]]
+[[es:Crispin Cronk]]
+[[ru:Криспин Кронк]]
+[[pl:Crispin Cronk]]
+[[fr:Crispin Cronk]]
+[[it:Crispin Cronk]]
+[[fi:Crispin Cronk]]
+[[nl:Crispijn Kronk]]
+[[no:Crispin Cronk]]
+[[Category:1795 births]]
+[[Category:1872 deaths]]
+[[Category:Azkaban convicts]]
+[[Category:British individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizards]]

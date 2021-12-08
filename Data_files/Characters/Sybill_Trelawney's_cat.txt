@@ -1,0 +1,31 @@
+{{conjecture}}
+{{Pet individual infobox
+|image = Trelawney cat 1.jpg
+|name = Sybill Trelawney's cat
+|born = Pre [[1993]]
+|died = 
+|alias = 
+|title = 
+|species = [[Cat]]<ref name="POAF"/>
+|gender = 
+|height = 
+|hair = Grey<ref name="POAF"/>
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Sybill Trelawney]] (owner)<ref name="POAF"/>
+}}
+This '''[[cat]]''' lived in the [[Divination Classroom]] in [[Hogwarts School of Witchcraft and Wizardry]] in [[1993]]. It was laying in a chair in the room in [[1994]] when [[Harry Potter]] witnessed [[Divination]] [[Professor]] [[Sybill Trelawney]] reciting her [[Sybill Trelawney's second prophecy|second prophecy]].<ref name="POAF">{{POA|F}} - Chapter 21 (''Professor Trelawney's Prediction'')</ref>
+
+==Appearances==
+*{{POA|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Gato de Sybill Trelawney]]
+[[ru:Кот Сивиллы Трелони]]
+[[pl:Kot Sybilli Trelawney]]
+[[Category:Individual cats]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Sybill Trelawney’s possessions]]

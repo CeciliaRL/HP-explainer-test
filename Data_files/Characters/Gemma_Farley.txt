@@ -1,0 +1,66 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Gemma Farley
+|born = Between [[1 September]] [[1973]] and [[31 August]] [[1976]]<ref name="born">She was [[Prefect]] during the [[1991–1992 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]<ref name="PM"/>
+|signature = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Female<ref name="PM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Bella Farley]] (possibly)
+*[[Charlie Farley]] (possibly)
+*[[Jake Farley]] (possibly)
+*[[Madge Farley]] (possibly)
+*[[Farley family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="PM"/>
+|loyalty = *[[Farley family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PM"/>
+**[[Slytherin]]<ref name="PM"/>
+}}
+'''Gemma Farley''' was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] between [[1985]] and [[1987]].<ref name="PM"/>
+
+==Biography==
+[[Sorting ceremony|Sorted]] into [[Slytherin]], she was made a [[prefect]] by [[1991]], and welcomed [[first year]]s when they initially arrived in her [[Hogwarts Houses|House]].<ref name="PM">{{PM}} introduction for Slytherins (transcription available  [http://lady-slytherin-forever.tumblr.com/post/9001546270/slytherin-information-spoilers here])</ref> Among them would have been boys [[Draco Malfoy]], [[Gregory Goyle]], [[Vincent Crabbe]], [[Blaise Zabini]], and [[Theodore Nott]] and girls [[Pansy Parkinson]], [[Millicent Bulstrode]], [[Daphne Greengrass]] and [[Tracey Davis]].
+
+==Appearances==
+*{{PM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=Female [[Prefect#Slytherin|prefect of Slytherin House]]<br/>(along with two other female Slytherins in different years taking the post)
+|years=at least [[1991]]—[[1992]]
+|successor=Unknown, eventually<br/>[[Pansy Parkinson]]
+}}
+{{End box}}
+{{Head boys and prefects}}
+{{DEFAULTSORT:Farley, Gemma}}
+[[de:Gemma Farley]]
+[[es:Gemma Farley]]
+[[fr:Gemma Farley]]
+[[ru:Джемма Фарли]] [[pl:Gemma Farley]]
+[[Category:British or Irish individuals]]
+[[Category:Farley family]]
+[[Category:Females]]
+[[Category:Hogwarts prefects]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1980s]]
+[[Category:Wizards]]

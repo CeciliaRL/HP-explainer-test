@@ -1,0 +1,75 @@
+{{Youmay|[[Beedle the Bard]]'s character|[[Wizardkind|wizards]] in general}}
+{{Individual infobox
+|theme = wizard
+|image =  [[File:Pot.jpg|250px]]
+|name = Wizard
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="TBBE"/>
+|gender = Male<ref name="TBBE"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Light<ref name="TBBE"/>
+|family = [[Wizard's father|Father]]<ref name="TBBE"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+The '''wizard''' is the main character in [[Beedle the Bard]]'s tale ''[[The Wizard and the Hopping Pot]]''.<ref name="TBBE">{{TBB|W}}</ref>
+
+==Biography==
+===Early life===
+This [[Wizardkind|wizard]], unlike his [[Wizard's father|father]], felt those without [[magic]] were worthless. Upon his death, his father left him his "[[The Hopping Pot|lucky one-legged cooking pot]]" with a slipper inside, instead of the [[gold]] he had been expecting. His father had wrote a note to his son, hoping that "he would never need the pot". The son was very angry at this and decided to use it as a rubbish [[bin]].<ref name="TBBE"/>
+
+===The Hopping Pot===
+As his father, a compassionate wizard, had helped out the local [[Non-magic people|Muggles]] by using his "magic pot" to [[Healing magic|cure]] people's diseases, the villagers turned to his son for the same services. However, the son turned out to be a cold-hearted man who turned away anybody who sought his help. As such, the pot began sprouting manifestations of the forms of untreated diseases that villagers were suffering from. The pot also began to continuously hop on its foot, resulting in an endless clamour.<ref name="TBBE"/>
+
+===Change as a character===
+[[File:The Wizard and the Hopping Pot 2.jpg|150px|thumb|left|The Wizard and the Pot walking away from the village]]
+
+{{Quote|The young wizard's conscience awakes and he agreed to use his magic for the benefit of his non-magical neighbours.|[[Albus Dumbledore]]'s notes.|The Tales of Beedle the Bard (real)}}
+
+The son finally gave up in the end and ran through the town, crying out to the villagers to come see him to remedy their ailments. As he used his magic to heal them, the horrific manifestations on the pot begun to disappear. Finally, the pot was back to its former appearance and the son could slip the slipper onto the pot's foot. Once that was done, he and the pot walked away from the village to go and help other people.<ref name="TBBE"/>
+
+==Personality and traits==
+Unlike his father, this wizard was a cold-hearted man who turned away anybody who sought his help. He felt that [[Non-magic people|people who could not perform magic]] were worthless. He also did not care about his father's death, and was angry that his father did not leave him any money, showing him to have been extremely selfish and uncaring. In the end, however, he decided to help the people who needed his help.<ref name="TBBE"/>
+
+==Relationships==
+===Father===
+{{Quote|In the fond hope, my son, that you will never need it.|His father's note that was left in the Hopping Pot.|The Tales of Beedle the Bard (real)}}The Wizard had a difficult relationship with his father as they had two different views of how things are. The son thought that those who could not do [[magic]] were worthless, a thought shared by wizard fanatics some years later when Muggle persecution of wizards and witches began.<ref name="TBBE"/>
+
+When his father only left him an old cooking pot and a slipper, he cursed his father's age-softened mind as he had expected gold. However, after he was given the taste of the Muggles' misery, his conscience awoke and he agreed to use his magic to help his Muggle neighbours as his father did before him.<ref name="TBBE"/>
+
+===Muggle neighbours===
+{{Quote|A kind old wizard decides to teach his son a lesson by giving him the taste of the local Muggles' misery. The young wizard's conscience awakes and he agreed to use his magic for the benefit of his non-magical neighbours.|[[Albus Dumbledore]]'s notes.|The Tales of Beedle the Bard (real)}}
+The Wizard felt that muggles were worthless, and thus he refused to help them, when they asked him for help. Unlike his father, who was a good person who always helped people, the wizard turned away anybody who sought his help. In the end, the wizard was given a taste of the muggles' misery, and started to use his magic in order to help them.<ref name="TBBE"/>
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{TBB|E}} {{1st}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Tales of Beedle}}
+
+[[es:Mago (El Mago y el Cazo Saltarín)]]
+[[Category:Fictional characters]]
+[[Category:Males]]
+[[Category:The Wizard and the Hopping Pot]]
+[[Category:Wizarding supremacists]]
+[[Category:Wizards]]

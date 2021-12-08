@@ -1,0 +1,31 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Blaise Zabini's mother's seven husbands
+|died = Before [[1996]]
+|marital = Married
+|species = [[Human]]s
+|gender = Males
+|family = *[[Blaise Zabini's mother|Wife]]
+*[[Blaise Zabini]] (son/stepson)
+|theme = wizard
+}}
+{{Quote|Zabini, who was interrogated after McLaggen, turned out to have a famously beautiful witch for a mother (from what Harry could make out, she had been married seven times, each of her husbands dying mysteriously and leaving her mounds of gold).|Description.|Harry Potter and the Half-Blood Prince}}
+These '''seven individuals''' (d. before [[1996]]) were all married to [[Blaise Zabini's mother]] at some point, later having died mysteriously and leaving the widow with "mounds of gold".<ref name="HBP7">{{HBP|B|7}}</ref> Which, if any of them, was Blaise's biological father is unknown.
+
+==Behind the scenes==
+*It is possible that they were murdered by their wife, given how they all died under mysterious circumstances and how their widow inherited significant fortune from them.
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Zabini, Blaise's mother's seven husbands}}
+[[de:Sieben Ehemänner von Blaise Zabinis Mutter]]
+[[ru:Мужья матери Блейза Забини]]
+[[vi:Bảy người chồng của mẹ của Blaise Zabini]]
+[[Category:Deceased individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]
+[[Category:Zabini family]]

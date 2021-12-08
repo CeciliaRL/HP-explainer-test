@@ -1,0 +1,59 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Cecilia Gallerani.png|230px]]
+|name=Cecilia Gallerani
+|hideb=
+|born=[[1473]]<br />[[Wikipedia:Siena|Siena]], [[Italy]]
+|died=[[1536]] (aged 63)<br />[[Wikipedia:Cremona|Cremona]], [[Italy]]
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="COSG"/>
+|gender=Female<ref name="COSG"/>
+|height=
+|hair=Brown<ref name="COSG"/>
+|eyes=Brown<ref name="COSG"/>
+|skin=Light<ref name="COSG"/>
+|hidef=
+|family=*Ludovico Carminati dé Brambilla (husband)
+*Gallerani family
+*Carminati family (in-laws)
+|romances=*Ludovico Carminati dé Brambilla (husband)
+*[[Wikipedia:Ludovico Sforza|Ludovico Sforza, Duke of Milan]]
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+'''Cecilia Gallerani''' ([[1473]]–[[1536]]) was an [[Italy|Italian]] [[Wikipedia:Renaissance|Renaissance]] [[wizardkind|witch]], and the favourite and most celebrated of the many mistresses of [[Wikipedia:Ludovico Sforza|Ludovico Sforza, Duke of Milan]]. 
+
+==Biography==
+She is best known as the subject of one of [[Leonardo Da Vinci]]'s portraits. She used to arrange meetings in which Milanese intellectuals discussed philosophy and other subjects, and Cecilia herself presided over these discussions.
+
+By the [[1990s]], there was a [[portrait]] of Gallerani hung at [[Hogwarts Castle]], on the stairway leading to the [[Dungeons]].<ref name="COSG">{{COS|G}} - PS1 version</ref>
+
+==Behind the scenes==
+*[[Wikipedia:Cecilia Gallerani|Cecilia Gallerani]]'s portrait can be seen during the end credits of the [[Harry Potter and the Chamber of Secrets (video game)|PS1 video game adaptation]] of {{COS}}, representing one of the designers of the game Anna Larke.
+
+==Appearances==
+*{{COS|G}} {{1st}} {{Portrait}} {{C|PS1 version}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts below ground floor}}
+[[es:Cecilia Gallerani]]
+[[pl:Cecilia Gallerani]]
+[[Category:1473 births|Gallerani, Cecilia]]
+[[Category:1536 deaths|Gallerani, Cecilia]]
+[[Category:Deceased individuals|Gallerani, Cecilia]]
+[[Category:Females|Gallerani, Cecilia]]
+[[Category:Historical figures]]
+[[Category:Italian individuals|Gallerani, Cecilia]]
+[[Category:Portraits|Gallerani, Cecilia]]
+[[Category:Wizards|Gallerani, Cecilia]]

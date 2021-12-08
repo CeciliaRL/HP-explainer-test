@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified yelling man
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFF"/>
+|gender = Male<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Quidditch World Cup]]<ref name="GOFF"/>
+}}
+{{Quote|Get out, it's the [[Death Eaters]]!|The wizard|Harry Potter and the Goblet of Fire (film)}}
+This '''man''' was a [[Wizardkind|wizard]] who attended the final of the [[1994 Quidditch World Cup]].<ref name="GOFF">{{GOF|F}}</ref>
+
+He yelled that people should get out when the [[Death Eaters]] arrived at [[Roberts's campsite]].<ref name="GOFF"/>
+
+==Appearances==
+*{{GOF|F}} {{Comment|Heard only}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

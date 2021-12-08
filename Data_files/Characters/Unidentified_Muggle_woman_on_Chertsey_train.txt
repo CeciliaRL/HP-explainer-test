@@ -1,0 +1,14 @@
+{{Conjecture}}
+{{Imageless}}{{Individual infobox
+|theme=muggle|blood = [[Non-magic people|Muggle]]|species = [[Human]]|gender = Female|hair = Blonde|eyes = Blue|skin = Light}}{{Quote|I fell asleep on the train again... I was supposed to get off at [[Chertsey]].|The [[Non-magic people|Muggle]] woman|Harry Potter and the Chamber of Secrets (video game)}}
+
+This [[Non-magic people|Muggle]] '''woman''' was travelling to [[Chertsey]] on a train, but fell asleep (something she apparently does often), and woke up having arrived at [[King's Cross Station]] in [[London]] on [[1 September]], [[1992]]. Her arrival to the incorrect destination was made more irksome when, while waiting near [[Platform 10|Platform Ten]], she stepped in some old [[chewing gum]].<ref>{{COS|G}} - GBC version</ref>
+
+==Appearances==
+*{{COS|G}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified Muggles‎]]

@@ -1,0 +1,46 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Olivier Kikkert
+|born = Before [[1990]]<ref name="HM77A1">{{HM|7|7|Assist Madam Bones}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HM77A1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM77A1"/>
+|gender = Male<ref name="HM77A1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = [[Frog]]<ref name="HM77A1"/>
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|We arrested Olivier Kikkert, an unregistered Animagus.|[[Alastor Moody]]|Harry Potter: Hogwarts Mystery}}
+'''Olivier Kikkert''' was a [[Wizardkind|wizard]]. He was an unregistered [[frog]] [[Animagus]], who was arrested during the [[1990–1991 school year]] after committing robbery.<ref name="HM77A1"/>
+
+He was spotted by a [[Unidentified witness (II)|witness]] who was interrogated by [[Alastor Moody]] and [[Jacob's sibling|a trainee in the Ministry student programme]], before testifying before the [[Wizengamot]]. The case was conducted by [[Amelia Bones]].<ref name="HM77A1"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Animagi}}
+{{DEFAULTSORT:Kikkert, Olivier}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unregistered Animagi]]
+[[Category:Wizards]]

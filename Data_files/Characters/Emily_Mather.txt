@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Emily Mather
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Gabriella Mather]] (unknown)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Mather family]]
+}}
+__NOTOC__
+'''Emily Mather'''<ref>Closed captions on the DVD/Blu-ray of {{DH|F1}}</ref> was a [[Wizardkind|witch]] reported missing along with her relative, [[Gabriella Mather|Gabriella]], on the ''[[Potterwatch]]'' radio programme in [[1997]]. Her disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.
+
+==Behind the scenes==
+*This character is presumably a tribute to a relative of [[James Mather]], who worked as a supervising sound editor on every ''Harry Potter'' film from ''[[Harry Potter and the Order of the Phoenix (film)|Harry Potter and the Order of the Phoenix]]'' onward.<ref>[http://www.imdb.com/name/nm0558450/?ref_=ttfc_fc_cr274/ James Mather's profile on IMDb]</ref>
+*She may be related to New England Mather family, of whom, Increase, who, along with his son was responsible for several writings and involvement in the Salem Witch Trials.<ref>https://en.wikipedia.org/wiki/Increase_Mather</ref> Increase's father, Richard, was born in Lancashire, England.<ref>https://en.wikipedia.org/wiki/Richard_Mather</ref> 
+
+==Appearances==
+*{{DH|F1}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Mather, Emily}}
+
+[[fr:Emily Mather]]
+[[pl:Emily Mather]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Mather family]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

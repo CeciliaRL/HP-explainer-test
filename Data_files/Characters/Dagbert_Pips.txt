@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Dagbert Pips
+|born = Before [[1982]]<ref name="age">As he owned a business in [[1999]], he was likely over 17.</ref>
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|died = 
+|blood = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Owner of [[Pumpkins R Us]]<ref name="DP"/>
+|house = 
+|loyalty = Pumpkin-growers, [[Pumpkins R Us]]<ref name="DP"/>
+}}
+{{Quote|I've spent the last five years cultivating luminous pumpkins, flying pumpkins, singing pumpkins and exploding pumpkins.... This is my livelihood, I'm not going down without a fight.|Dagbert Pips to the ''[[Daily Prophet]]'', regarding proposed Ministry Hallowe'en restrictions|The Daily Prophet (real-world)}}
+'''Dagbert Pips''' was a [[Great Britain|British]] [[Wizardkind|wizard]], who was the owner of [[Pumpkins R Us]]. He stated to a ''[[Daily Prophet]]'' reporter that the latest [[British Ministry of Magic|Ministry]]-imposed restrictions on [[Hallowe'en]] celebrations would affect pumpkin-growers  like himself extremely harshly.<ref name="DP">{{DP}}: [[1 October]], [[1999]], Page 1</ref>
+
+[[Magic]]al pumpkins cultivated by Pips included [[luminous pumpkin]]s, [[flying pumpkin]]s, [[singing pumpkin]]s and [[exploding pumpkin]]s.<ref name="DP"/>
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pips, Dagbert}}
+[[de2:Dagbert Pips]]
+[[vi:Dagbert Pips]]
+[[zh:达格伯特·皮普斯]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

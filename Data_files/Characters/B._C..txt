@@ -1,0 +1,55 @@
+{{youmay|the Slug Club member|the [[B.C. era]]}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:BC.jpg|250px]]
+|name = B. C.
+|born = Between [[1914]] and [[1970]]<ref name="age">Slughorn resigned from his teaching position in [[1981]], meaning this individual would have been a member of the Slug Club by at least then. Slughorn became [[Potions Master]] in [[1931]]. </ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = [[File:B.C. sig.png|70px]]
+|species = [[Human]]<ref name="HBPF"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Mountain climber (apparently)<ref name="HBPF"/>
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPF"/>
+**[[Slug Club]]<ref name="HBPF"/>
+}}
+{{Quote|Prof. Slughorn,<br />you always said I'd make it to the top!<br />B. C.|Signed inscription on their photograph|Harry Potter and the Half-Blood Prince (film)}}
+'''B. C.''' was a [[wizardkind|witch or wizard]] who apparently worked as a mountain climber.
+
+==Biography==
+In their childhood, he or she attended [[Hogwarts School of Witchcraft and Wizardry]], and was singled out for membership in the [[Slug Club]]. [[Horace Slughorn]] kept a picture of them on a snowy windy mountain top on his shelf.<ref name="HBPF">{{HBP|F}} - Chapter 2 (''Horace Slughorn'')</ref>
+
+==Behind the scenes==
+*B. C. is someone's initials. It is currently unknown what this individual's actual name is, although a number of characters in canon have B.C. as their initials: [[Bartemius Crouch Senior|Bartemius Crouch Snr]], [[Bartemius Crouch Junior|Bartemius Crouch Jnr]] and [[Buckley Cooper]].
+*It is possible, as this individual was a former [[Slug Club]] member, that the person attended the [[Slug Club Christmas party|Christmas party]] in [[1996]].
+
+==Appearances==
+*{{HBP|F}} {{1st}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:C., B.}}
+[[pl:B. C.]]
+[[Category:British or Irish individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Slug Club]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

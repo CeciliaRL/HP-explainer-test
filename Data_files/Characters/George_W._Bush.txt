@@ -1,0 +1,46 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=George W. Bush
+|nationality=[[United States of America|American]]
+|born=6 July, 1946 
+|died=
+|blood=[[Non-magic people|No-Maj]]
+|alias=
+|title=President
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=President of the [[United States of America]] (formerly)
+|loyalty=[[United States of America]]
+}}
+'''George Walker Bush''' was a [[United States of America|American]] [[Non-magic people|No-Maj]] politician and former [[President of the United States of America|President]] of the [[United States of America]].<Ref>{{W|George W. Bush}} on Wikipedia</ref>
+
+A story in ''[[The Guardian]]'' newspaper reported that Bush decided to award the [[Congressional Gold Medal of Honor]] to the then-current [[Dalai Lama]], a move that angered the [[China|Chinese]] government.<ref name="HPLE">{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Behind the scenes==
+*The story about Bush is mentioned as an article on the front page of the edition of [[The Guardian]] that reported on the [[Millennium Bridge]] disaster.
+*In real life, {{wplink|George W. Bush}} served as President of the United States from [[2001]]-[[2009]] but, according to the [[Dating conventions|Book Timeline]], the bridge attack (on the fictional [[Brockdale Bridge]] in the novel) occurred in [[1996]]. At that time, the real world Millennium Bridge had not been built, Bush was serving as Governor of Texas, and [[Bill Clinton]] served as President. 
+**This is one of many such apparent anachronisms that place the film timeline approximately 10 years after the book's, roughly contemporaneously with the films series release dates. Additionally, the date on the newspaper is  5 July, 2007 and the stories mentioned, aside from the fictional bridge collapse, are real world stories from that year.
+**Interestingly, Clinton is also mentioned in the same film prop as Bush.
+*[[Jamie Waylett]], who played [[Vincent Crabbe]], is the only ''Harry Potter'' actor to have met President Bush.
+
+==Appearances==
+*{{HBP|F}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Bush, George}}
+[[es:George W. Bush]]
+[[Category:American individuals]]
+[[Category:Articles containing anachronistic information]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Politicians]]

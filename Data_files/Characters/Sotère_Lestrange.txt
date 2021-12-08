@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme=wizard
+|image=SOTÉRE PETIT.jpg
+|name=Sotère Lestrange
+|born=
+|died=
+|blood = [[Pure-blood]]
+|marital = Married
+|alias=
+|title=
+|signature=
+|species=Human
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+*[[Fulcran Lestrange (II)|Fulcran Lestrange]] (husband)
+*[[Fulcran Lestrange (III)|Fulcran Lestrange]] (son)
+*[[Balbine Lestrange (II)|Balbine Lestrange]] (daughter)
+*[[Pucine Lestrange (II)|Pucine Lestrange]] (daughter)
+*[[Fulcran Lestrange (I)|Fulcran Lestrange]] (father-in-law)
+*[[Pucine Lestrange (I)|Pucine Lestrange]] (mother-in-law)
+*[[Quintilla Lestrange]] (daughter-in-law)
+*[[Nozéa Lestrange]] (granddaughter)
+*Petit family
+*[[Lestrange family]] (in-laws)
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+*Petit family
+*[[Lestrange family]]
+}}'''Sotère Lestrange''' (née '''Petit''') was a [[Wizardkind|witch]] and a member of the [[pure-blood]] [[Lestrange family]]. She married [[Fulcran Lestrange (II)|Fulcran Lestrange]] and had a three children with him: daughters [[Balbine Lestrange (II)|Balbine]] and [[Pucine Lestrange (II)|Pucine]] and son [[Fulcran Lestrange (III)|Fulcran]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref>
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Lestrange, Sotère}}
+[[fr:Sotére Petit]]
+[[pl:Sotère Lestrange]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Lestrange family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

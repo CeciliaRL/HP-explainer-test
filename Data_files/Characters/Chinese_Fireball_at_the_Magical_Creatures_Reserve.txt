@@ -1,0 +1,39 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = ChineseFireballAtTheMagicalCreaturesReserve.jpg
+|name = Chinese Fireball at the Magical Creatures Reserve
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Chinese Fireball]]<ref name="RTF">{{HM|2|Relight the Fire}}</ref>
+|gender = Female<ref name="RTF"/>
+|height = 
+|hair = 
+|feathers = 
+|eyes = Green<ref name="RTF"/>
+|skin = Red<ref name="RTF"/>
+|family = 
+|loyalty = [[Magical Creatures Reserve]]<ref name="RTF"/>
+}}
+This female '''[[Chinese Fireball]]''' lived in the [[Magical Creatures Reserve]] in the [[1980s]].<ref name="RTF"/>
+
+==Biography==
+The Fireball was born without the ability to breathe [[fire]]. During the [[1985–1986 school year]], her original owner sent her to the [[Magical Creatures Reserve]] hoping that [[Rubeus Hagrid]] could help her solve this problem, and should he fail, they would sell her to [[Corrine Cribb]] who wanted to make a [[dragon-skin coat]] out of her. [[Jacob's sibling]] discussed with [[Penny Haywood]] and decided that she was sick, so they helped her by bonding with her, brewing an altered version of the [[Pepperup Potion]] and using it on her to relight her fire, which worked.<ref name="RTF"/>
+
+==Behind the scenes==
+*If the player suggests exposing her to other dragons, Hagrid will try to get her the socialise with a [[Common Welsh Green at the Magical Creatures Reserve|Welsh Green]] before the next meeting, but it has minor setback because she seems more close to humans.<ref name="RTF"/>
+*The dragon's name, just like all creatures in the Magical Creatures Reserve, can be customised by the player. The dialogue of the quest will subsequently change according to the name determined by the player.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Creature-stub}}
+{{Magical Creatures Reserve}}
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Individual dragons]]
+[[Category:Magical Creatures Reserve]]

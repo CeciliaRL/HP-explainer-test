@@ -1,0 +1,50 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = spirit
+|image = Devil.jpg
+|name = Devil
+|born = [[Amortality|Amortal]] (presumably, if real)
+|died = [[Amortality|Amortal]] (presumably, if real)
+|blood = 
+|marital = 
+|nationality = 
+|alias = Lucifer<ref name="HPLE"/>
+|title = 
+|signature = 
+|species = Deity
+|gender = Male<ref name="POAF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Red (as most commonly depicted)<ref name="HBPF">{{HBP|F}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = Evil
+}}
+The '''devil''' is an entity believed in many religions (notably [[Christianity]] and [[Islam]]) to be the embodiment of evil and the enemy of [[human]]kind.<ref name="wikipedia">"[[wikipedia:Devil|Devil]]" on Wikipedia</ref>
+
+In certain Christian traditions, the devil was said to have once been an [[angel]] named Lucifer, cast out of heaven for disobeying [[God]].<ref name="wikipedia2">"[https://en.wikipedia.org/wiki/Lucifer Lucifer]" on Wikipedia</ref> The story of Lucifer's fall was covered in the book ''[[The Hierarchie of the Blessed Angells]]''.<ref name="HPLE">{{HPLE|G}} {{see image|File:The Hierarchie of the blessed Angells.jpg}}</ref>
+
+The [[Fat Lady]] described [[Sirius Black]] as having "eyes like the devil" after he attacked her [[portrait]] in [[1993]].<ref name="POAF">{{POA|F}} - Chapter 13 (''Flight of the Fat Lady'')</ref>
+
+==Appearances==
+*{{COS|F}} {{1st Mention}}
+*{{POA|F}} {{1st Mention}}
+*{{HBP|F}} {{Drawing}}
+*{{DH|F2}} {{Mention}}
+*{{DH|G2}} {{Mention}}
+*{{HPLE|G}} {{Indirect}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Amortals]]
+[[Category:Biblical figures]]
+[[Category:Deities]]
+[[Category:Males]]

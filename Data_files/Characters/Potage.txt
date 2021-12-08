@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Potage.png|250px]]
+|name = Potage
+|born = Before [[1974]] (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PSG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSG"/>
+|gender = Female<ref name="PSG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="PSG"/>
+|eyes = Blue<ref name="PSG"/>
+|skin = White<ref name="PSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Owner of [[Potage's Cauldron Shop]]<ref name="PSG"/>
+|house = 
+|loyalty = 
+}}
+'''Potage''' was a [[Great Britain|British]] [[Wizardkind|witch]], who was the owner and shopkeeper of [[Potage's Cauldron Shop]] in [[Diagon Alley]], [[Hogsmeade]] and in [[Knockturn Alley]].<ref name="PSG">{{PS|G}} - GBC version</ref>
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{PS|F}} {{Name on sign}}
+*{{PS|G}} {{1st}} {{Comment|GBC version only}}
+*{{COS|F}} {{Name on sign}}
+*{{HPPU}} {{Name on sign}}
+*{{LEGO|Y1}} {{Name on sign}}
+*{{LEGO|Y2}} {{Name on sign}}
+*{{PM}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley North Side}}
+{{Hogsmeade}}
+{{Knockturn Alley}}
+[[es:Potage]]
+[[pl:Madame Potage]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

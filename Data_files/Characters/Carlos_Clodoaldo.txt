@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme=quidditch-player
+|image=
+|name=Carlos Clodoaldo
+|hideb=
+|born=After [[1976]], [[Brazil]] (possibly)
+|died=
+|blood=
+|nationality=[[Brazil]]ian
+|alias=
+|title=[[Beater]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Beater]] for the [[Brazilian National Quidditch team]]
+|house=
+|loyalty=*[[Brazilian National Quidditch team]]
+*[[Castelobruxo]]
+}}'''Carlos Clodoaldo'''<ref name="FN1">{{PM}} - [http://insider.pottermore.com/2014/07/the-final-of-2014-quidditch-world-cup.html New from J.K. Rowling: The final of the 2014 Quidditch World Cup between Bulgaria and Brazil has begun!]</ref> was a [[Brazil]]ian [[wizardkind|wizard]] and a [[Beater]] for the [[2014]] [[Brazilian National Quidditch team]].
+
+==Biography==
+According to [[Ludovic Bagman]] in a report to the ''[[Daily Prophet]]'', American Beaters [[Lucas Picquery|Picquery]] and [[Pringle]] would have to "''find better form''" if they were to best the Brazilians [[Rafael Santos|Santos]] and Clodoaldo in their semi-final match on [[4 July]], [[2014]].<ref name="PM">{{PM}} - [[PLACE YOUR BETS WITH LUDO BAGMAN]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{Character stub}}
+
+
+{{DEFAULTSORT:Clodoaldo, Carlos}}
+
+[[de:Carlos Clodoaldo]]
+[[es:Carlos Clodoaldo]]
+[[fr:Carlos Clodoaldo]]
+[[pl:Carlos Clodoaldo]]
+[[ru:Карлос Клодоалдо]]
+[[Category:Beaters]]
+[[Category:Brazilian individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

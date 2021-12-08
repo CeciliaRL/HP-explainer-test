@@ -1,0 +1,55 @@
+{{Individual infobox
+|image = [[File:Winifred Whittle.png|250px]]
+|name = Winifred Whittle
+|born = 
+|died = 
+|blood = 
+|nationality = [[Great Britain|British]]<ref name="FBC3.1"/>
+|alias = 
+|marital = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC3.1"/>
+|gender = Female<ref name="FBC3.1"/>
+|hair = Blonde<ref name="FBC3.1"/>
+|eyes = Blue<ref name="FBC3.1"/>
+|skin = Fair<ref name="FBC3.1"/>
+|height = 
+|weight = 
+|family = [[Hadrian Whittle]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|house = 
+|job = Environmental Activist<ref name="FBC3.1"/>
+|loyalty = [[Witches' Holistic Institute for Friends of Fairies]]<ref name="FBC3.1"/>
+|theme = wizard
+}}
+{{Dialogue a-b|Mathilda Grimblehawk|Winifred Whittle? Sorry to intrude, but we're from the Ministry of Magic. We need to ask you a few questions.|Winifred Whittle|Finally, a response to my letters about the scandalous fairy habitat intrusion!|[[Mathilda Grimblehawk]] and [[Mathilda Grimblehawk's partner|her partner]] first approach Whittle to enquire about the attacks on [[Non-magic people|Muggle]] construction workers|Fantastic Beasts: Cases from the Wizarding World}}
+'''Winifred Whittle''' was a [[Great Britain|British]] [[Wizardkind|witch]] who established the [[Witches' Holistic Institute for Friends of Fairies]] (or, simply, WHIFF) of which only she and [[Sage Bragnam]] were members.<ref name="FBC3.1"/>
+
+==Biography==
+She was openly critical of [[Non-magic people|Muggles]], denouncing them for cutting down the forest where [[Fairy|fairies]] lived. She lived in a cottage in a forest inhabited by [[magic]]al [[creature]]s.<ref name="FBC3.1">{{FBC|3|1}}</ref>
+
+[[Bethany Harrison]], the daughter of the [[Don Harrison|foreman]] of the [[Non-magic people|Muggle]] construction works, was scared of her and included her in [[Bethany Harrison's sketch|a drawing of the forest]] in which she was depicted as a green-skinned [[hag]] with sharp teeth.<ref name="FBC3.1"/> While at first, [[Mathilda Grimblehawk]] suspected it might be Whittle that was attacking the [[Non-magic people|Muggle]] construction workers in an attempt to scare them away from the forest, after meeting her, she dismissed it, regarding her as "a harmless fairy fanatic".<ref name="FBC3.1"/>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': After being made to give up the [[blowtorch]] she had found, she remarked that she would have to return to using the [[Fire-Making Spell]] to create [[fire]] when needed.<ref name="FBC34">{{FBC|3|4}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Winifred Whittle}}
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Whittle, Winifred}}
+[[pl:Winifred Whittle]]
+[[fr:Winifred Whittle]]
+[[ru:Уинифред Уиттл]]
+[[Category:Activists]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Whittle family]]
+[[Category:Wizards]]

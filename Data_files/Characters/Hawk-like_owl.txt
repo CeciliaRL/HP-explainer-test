@@ -1,0 +1,33 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = 
+|name = Hawk-Like Owl
+|born = In or before [[December]] [[1997]]<ref name="DH20"/>
+|died = 
+|alias = 
+|title = 
+|species = [[Owl]]<ref name="DH20"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Lovegood family]] (most likely)<ref name="DH20"/>
+}}
+{{Quote|A little owl with a slightly flattened, [[hawk]]-like head peered down at them from one of the branches.|Description|Harry Potter and the Deathly Hallows}}
+A '''hawk-like [[owl]]''' could be seen at times perched in one of two aged crab-apple trees in the front garden of the [[Lovegood House|Lovegoods' home]].<ref name="DH20">{{DH|B|20}}</ref> It is unknown if any [[Wizardkind|wizard]] owned this owl, but it may have belonged to the [[Lovegood family|Lovegoods]].
+
+==Behind the scenes==
+*This may be the owl [[Xenophilius Lovegood]] used to deliver a message to the [[Death Eaters]] to inform them that [[Harry Potter]] was in his house.
+*This owl may be a Northern Hawk Owl (''Surnia ulula''), a species known for its similarities with hawks.
+*It is not a [[Wikipedia:Eurasian Eagle Owl|Eurasian Eagle Owl]] as the text describes it as small, while this species is one of the world's largest.
+
+==Appearances==
+*{{DH}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Owls]]

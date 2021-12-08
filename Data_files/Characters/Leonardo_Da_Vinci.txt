@@ -1,0 +1,61 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Leonardo da Vinci
+|born = [[15 April]], [[1452]]<br />{{W|Republic of Florence}}, [[Italy]]
+|died = [[2 May]], [[1519]]<br />{{w|Touraine}}, [[France]] (aged 67)
+|blood =  
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Polymath
+*Artist
+*Inventor
+|house = 
+|loyalty = 
+}}
+{{Quote|Paracelsus (1493—1541): Contemporary of Copernicus and Leonardo Da Vinci. A medical genius whose bold theories challanged medieval thought[sic]. Credited with discovering Parseltongue.|[[Phillipus von Hohenheim|Paracelsus]]'s [[Chocolate Frog Card]]|Harry Potter and the Chamber of Secrets (video game)}} 
+'''Leonardo da Vinci''' ([[15 April]], [[1452]]—[[2 May]], [[1519]]) was an [[Italy|Italian]] [[Wikipedia:Polymath|polymath]] who lived during the Renaissance era.<ref name="wikipedia">{{Wikilink|Leonardo da Vinci}}</ref> He was a contemporary of [[Phillipus von Hohenheim|Paracelsus]] and [[Nicolaus Copernicus|Copernicus]].<ref name="CSpc">{{COS|G}} - PC version</ref>
+
+One of his most famous works is his [[portrait]] of [[Mona Lisa]], a copy of which hung at [[Hogwarts Castle|Hogwarts School of Witchcraft and Wizardry]].<ref name="CSpc"/>
+
+==Behind the scenes==
+*Da Vinci died 479 years to the day before the [[Battle of Hogwarts]].
+*In the real-world, Da Vinci is perhaps the most diversely talented person ever to have lived, with interests and pursuits ranging from painting, sculpting, architecture, music, science, mathematics, engineering, invention, anatomy, geology, cartography, botany and writing. He is widely considered to be one of the greatest painters of all time.<ref name="wikipedia" />[[file:Werewolf.gif|thumb|250px]]
+*In {{POA|FA}}, [[Severus Snape]] shows a number of images of [[Werewolf|werewolves]] during his lecture as a temporary [[Defence Against the Dark Arts]] teacher. One of these images is a variant of the ''{{w|Vitruvian Man}}'', a famous sketch by Leonardo da Vinci.
+*Illustrator [[Jim Kay]] loves Leonardo da Vinci. When working on {{COS|IE}}, he wondered, "what if Leonardo da Vinchi did a study of the [[Mandrake]], and what would it look like?", and used that as an inspiration when he approached the illustration.<ref name="JimKayComment">[https://www.youtube.com/watch?v=PDPcGdt40RU Jim Kay Illustrator - Create Expo 2016] {{c|from 23:55 to 24:31}}</ref><ref>{{COS|IE}} {{see image|File:Mandrakes - Jim Kay COS Illustrated Edition.jpg}}</ref>
+==Appearances==
+*{{COS|G}} {{FWC mention}} {{Comment|[[Phillipus von Hohenheim|Paracelsus]]}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Vinci, Leonardo Da}}
+
+[[es:Leonardo Da Vinci]]
+[[fr:Léonard de Vinci]]
+[[pt-br:Leonardo da Vinci]]
+[[Category:1452 births]]
+[[Category:1519 deaths]]
+[[Category:Artists]]
+[[Category:Authors]]
+[[Category:Historical figures]]
+[[Category:Inventors]]
+[[Category:Italian individuals]]
+[[Category:Males]]
+[[Category:Musicians]]

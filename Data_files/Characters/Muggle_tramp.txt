@@ -1,0 +1,40 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Muggle tramp
+|hideb=
+|born=
+|died=After [[1946]], but before the [[1970s]]
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=hide
+|job=
+|loyalty=
+}}
+This '''Muggle tramp''' was killed by [[Tom Riddle|Tom Marvolo Riddle]] in order for him to turn [[Salazar Slytherin]]'s [[Salazar Slytherin's Locket|locket]] into a [[Horcrux]].<ref>[https://archive.org/stream/J.k.RowlingChatTranscript/ChatJkRowling_djvu.txt Bloomsbury Chat transcript]</ref>
+
+==Behind the scenes==
+* [[Albus Dumbledore]] speculated that Voldemort was reserving the creation of his Horcruxes via significant murders.<ref>{{HBP|B|23}}</ref> This means that this individual played an important role in Voldemort's life, or that Dumbledore's speculation was incorrect (as he admitted he was not perfect, proven with his incorrect belief that Voldemort used [[Frank Bryce]]'s murder to create his [[Nagini|final Horcrux]] when it was in fact [[Bertha Jorkins]]).
+
+==Appearances==
+*''[[Bloomsbury Live Chat]]'' {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Mugolski włóczega]]
+[[Category:20th century deaths]]
+[[Category:Horcrux victims]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Unidentified Muggles‎]]

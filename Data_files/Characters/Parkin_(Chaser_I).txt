@@ -1,0 +1,35 @@
+{{Individual infobox
+|name = Parkin
+|born = [[1405]] or earlier
+|nationality = [[Scotland|Scottish]]
+|title = [[Chaser]]
+|species = [[Human]]
+|family = *[[Walter Parkin]] (father)
+*[[Parkin (Keeper)]] (sibling)
+*[[Parkin (Chaser II)]] (sibling)
+*[[Parkin (Chaser III)]] (sibling)
+*[[Parkin (Beater I)]] (sibling)
+*[[Parkin (Beater II)]] (sibling)
+*[[Parkin (Seeker)]] (sibling)
+|job = [[Chaser]] for the [[Wigtown Wanderers]]
+|loyalty = *[[Wigtown Wanderers]]
+*[[Parkin family]]
+|theme = quidditch-player
+}}'''Parkin''' (fl. [[1422]]) was a [[Scotland|Scottish]] [[Wizardkind|witch or wizard]] who played as a [[Chaser]] for the original [[Wigtown Wanderers]] team during the [[15th century]] and was a child of Wanderers founder [[Walter Parkin]]. 
+
+The Wanderers were a formidable team during this time who won most of their matches, perhaps partly because Walter himself used to attend every game holding his wand in one hand and a meat cleaver in the other.<ref>{{QTA|R|7}}</ref> The original Chasers invented their own signature move, known as the [[Parkin's Pincer]], where three Chasers fly from different directions at an opposing Chaser.<ref>{{QTA|R|10}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+[[pl:Parkin (ścigający I)]]
+[[Category:Chasers]]
+[[Category:Historical figures]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Parkin family]]
+[[Category:Scottish individuals]]
+[[Category:Wizards]]

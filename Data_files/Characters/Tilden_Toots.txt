@@ -1,0 +1,80 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Tilden Toots.png|250px]]
+|name = Tilden Toots
+|born = [[1959]]<ref name="JKRS"/>
+|died = 
+|blood = 
+|marital = Married<ref name="JKRS"/>
+|nationality = [[Great Britain|British]]<ref name="JKRS"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Male<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="JKRS"/>
+|eyes = Blue<ref name="JKRS"/>
+|skin = White<ref name="JKRS"/>
+|family = [[Daisy Hookum]] (wife)<ref name="JKRS"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Herbologist]]<ref name="JKRS"/>
+*[[Potioneer]]<ref name="JKRS"/>
+*Presenter of ''[[Toots, Shoots 'n' Roots]]''<ref name="JKRS"/>
+|house = 
+|loyalty = [[Toots, Shoots 'n' Roots]]<ref name="JKRS"/>
+}}
+{{Quote|Hello and welcome back to "Toots, Shoots 'n' Roots" with me, Tilden Toots!|Tilden Toots opening his radio broadcast|J.K.Rowling Official Site}}
+'''Tilden Toots''' (b. [[1959]]) was a [[Great Britain|British]] [[Wizardkind|wizard]], who worked as a famous [[Herbologist]], [[Potioneer]], and radio personality and presenter.<ref name="JKRS">{{JKRS}}</ref>
+
+==Biography==
+Tilden Toots was well-known for having three [[green thumb]]s, due to both having a wizarding condition and {{W|Polydactyly|radial polydactyly}} in his left hand.<ref name="JKRS" />
+
+He hosted the ''[[Toots, Shoots 'n' Roots]]'' radio programme on the [[Wizarding Wireless Network]], and he produced his own line of plant-related [[potion]]s, such as [[Rejuicing Potion|Rejuicer]] and [[Regerminating Potion|Regerminator]].<ref name="JKRS" /> According to [[Severus Snape]], Toots built a fortune selling his potions.<ref name="HM626p">{{HM|6|26|p}}</ref>
+
+He was married to bestselling author [[Daisy Hookum]].<ref name="JKRS"/>
+
+==Magical abilities and skills==
+*'''[[Herbology]]''': Being a professional [[Herbologist]], Toots was a natural expert in the study of [[magic]]al plants and fungi. Toots hosted his own radio show on the subject of magical gardening, called ''[[Toots, Shoots 'n' Roots]]'', in which he gave considerable knowledge and advice to other wizards and witches in this field.<ref name="JKRS"/>
+*'''[[Potion]]s''': Toots was also a professional [[Potioneer]], having invented at least two of his own gardening based potions, the [[Rejuicing Potion]] and [[Regerminating Potion]], showing his excellent skills in this field of [[magic]].<ref name="JKRS"/>
+
+==Behind the scenes==
+*On {{JKRS}}, Tilden Toots' radio show could sometimes be heard when one switched on the radio in Extra Stuff, prior to the site's redesign in [[2012]].
+*If he attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], Toots might have been in the same year as the [[Marauders]], [[Lily J. Potter|Lily Evans]], and [[Severus Snape]]. If he was not, he was in the year ahead of them.
+*He had a broad [[West Country]] accent as an adult, which suggests he spent the better part of his youth in the West Country where there are several magical settlements.
+*his condition is a reference to the idiom "''to have a green thumb''", an expression used to describe someone's affinity or skill at gardening or growing plants.
+
+==Appearances==
+{{Imagecat|Images of Tilden Toots}}
+*{{JKRS}} {{1st}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Toots, Tilden}}
+
+{{Herbology}}
+{{Potions}}
+[[de:Krautwig Kross]]
+[[es:Tilden Toots]]
+[[fr:Tilden Toots]]
+[[it:Tilden Toots]]
+[[pt-br:Tilden Toots]]
+[[pl:Tilden Toots]]
+[[Category:1959 births]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Broadcasters]]
+[[Category:Herbologists]]
+[[Category:Inventors]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Potioneers]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:Lancaster Pyke FB-F.png|250px]]
+|name=Lancaster Pyke
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=Magic Joe<ref name= "poster">{{FB|F}} - {{see image|File:Lancaster Pyke FB-F.png}}</ref>
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Lancaster Pyke''', also known as '''Magic Joe'''<ref name="poster" />, was an [[United States of America|American]] [[wizardkind|wizarding]] criminal who operated in the [[United States of America]] in the [[1920s]].<ref name="CinemaBlend">"[http://www.cinemablend.com/news/1554929/10-fantastic-things-we-learned-on-the-fantastic-beasts-set?story_page=4 10 Fantastic Things We Learned On The Fantastic Beasts Set]" from CinemaBlend</ref>
+
+==Biography==
+In [[1926]], the [[Magical Congress of the United States of America]] issued a wanted poster for Pyke offering 4850 [[dragot]]s for is arrest, which described him as "older" and stated that he was wanted for "embezzlement of [[spell]]s and [[Muggle|No-Maj]] murder".<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{C|Appears on a wanted poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Pyke, Lancaster}}
+
+[[fr:Lancaster Pike]]
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Wizards]]

@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Suzuki.png|250px]]
+|name = 
+|born = Before [[1977]], [[Japan]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Japan]]ese<ref name="QWC"/>
+|alias = 
+|title = [[Chaser]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="QWC"/>
+|eyes = 
+|skin = Light<ref name="QWC"/>
+|family = [[Natsumi Suzuki]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Japanese National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = *[[Suzuki family]]<ref name="QWC"/>
+*[[Mahoutokoro]]<ref name="PMM">{{WW|mahoutokoro}}</ref>
+*[[Japanese National Quidditch team]]<ref name="QWC"/>
+}}
+'''Yoshihiro Suzuki''' was a [[Japan]]ese [[Wizardkind|wizard]] who played on the [[Japanese National Quidditch team]] during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]], a member of the [[Suzuki family]]. He played as a [[Chaser]], and wore a red scarf around his head.<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Suzuki's [[Chocolate Frog Card]] was able to be won by beating [[Lucy Hurst]] at an [[Exploding Snap]] challenge.<ref name="HBPG">{{HBP|G}} {{c|NDS edition}}</ref>
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{c|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Suzuki, Yoshihiro}}
+[[pl:Yoshihiro Suzuki]]
+[[fr:Yoshihiro Suzuki]]
+[[ru:Ёсихиро Сузуки]]
+[[Category:20th century births]]
+[[Category:Chasers]]
+[[Category:Japanese individuals]]
+[[Category:Mahoutokoro students]]
+[[Category:Males]]
+[[Category:Suzuki family]]
+[[Category:Wizards]]

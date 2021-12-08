@@ -1,0 +1,32 @@
+{{Individual infobox
+|image = [[File:Beryl.png|250px]]
+|name = Beryl
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Female
+|eyes = Brown
+|skin = Dark
+|job = [[Typing Pool]] for the [[Magical Congress of the United States of America]]
+|loyalty = [[Magical Congress of the United States of America]]
+|theme = macusa
+}}'''Beryl''' was an [[United States of America|American]] [[Wizardkind|witch]] who lived in [[New York]] in [[1926]] and worked at the [[Magical Congress of the United States of America]] in the [[Typing Pool]].<ref name="CB">{{CB}}</ref>
+
+==Behind the scenes==
+*Beryl was portrayed by [[Wunmi Mosaku]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+*{{CB}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+[[pl:Beryl]]
+[[de2:Beryl]]
+[[ru:Берил]]
+[[es:Beryl]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Wizards]]

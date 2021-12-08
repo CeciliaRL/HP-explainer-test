@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = gringotts
+|image = [[File:Harry Potter films Goblin 04.jpg|255px]]
+|name = Unidentified goblin
+|born = Before [[1991]]<ref name="PSF"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]<ref name="PSF"/><ref name="DHF2"/>
+|gender = Male<ref name="PSF"/><ref name="DHF2"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="PSF"/><ref name="DHF2"/>
+|eyes = Black<ref name="PSF"/><ref name="DHF2"/>
+|skin = Pink<ref name="PSF"/><ref name="DHF2"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Worker at [[Gringotts Wizarding Bank]]<ref name="PSF"/><ref name="DHF2"/>
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="PSF"/><ref name="DHF2"/>
+}}
+This '''[[goblin]]''' worked at [[Gringotts Wizarding Bank]] from at least [[1991]]-[[1998]].<ref name="PSF"/>
+
+==Biography==
+===1991===
+He was present at the bank when [[Harry Potter]] went to withdraw his money in [[1991]].<ref name="PSF">{{PS|F}}</ref>
+
+===1998===
+In [[1998]], he worked at the bank when Harry, [[Hermione Granger]], [[Ronald Weasley|Ron Weasley]], and [[Griphook]] hosted a break-in in order to retrieve one of [[Tom Riddle|Lord Voldemort]]'s [[Horcrux]]es, [[Helga Hufflepuff's cup]], from the [[Lestrange Vault]].<ref name="DHF2">{{DH|F2}}</ref>
+
+===Later life===
+It is unknown what happened to him after the break-in but he may have been killed.
+
+==Physical description==
+He had brown bunches of hair and wore a brown suit; he also carried a book with him.<ref name="PSF"/><ref name="DHF2"/>
+
+==Behind the scenes==
+*This goblin was portrayed by an unknown actor in the film adaptations of {{PS}} and {{DH|F2}}.
+
+==Appearances==
+*{{PS|F}} {{1st}}
+*{{DH|F2}}
+*{{LEGO|Y1}} {{C|Appears as generic [[goblin]]}}
+*{{LEGO|Y2}} {{C|Appears as generic [[goblin]]}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+
+[[es:Duende no identificado en Gringotts en 1998 (IV)]]
+[[Category:Bankers]]
+[[Category:Black-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Gringotts employees]]
+[[Category:Males]]
+[[Category:Unidentified Goblins]]

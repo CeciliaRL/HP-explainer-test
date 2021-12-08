@@ -1,0 +1,38 @@
+{{Individual infobox
+|theme=muggle
+|image=[[File:NoOneLooksAtTheCeiling.jpg|250px]]
+|name=Charlie G
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidea=
+|job=Musician
+|loyalty=
+}}
+'''Charlie G''' was a [[Non-magic people|Muggle]] musician who played the [[trumpet]]. He released at least one album, ''[[No One Looks at the Ceiling]]'', which was available for sale at [[Record Shop]] on [[Charing Cross Road]] in [[London]].<ref>{{WWHP}} {{see image|File:NoOneLooksAtTheCeiling.jpg}}</ref>
+
+==Appearances==
+*{{WWHP}} {{comment|photo appears on album cover}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:G, Charlie}}
+[[pl:Charlie G]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Musicians]]

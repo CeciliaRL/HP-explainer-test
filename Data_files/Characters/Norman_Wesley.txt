@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Norman Wesley
+|born = 
+|died = 
+|blood = [[Muggle|No-Maj]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = Human
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Choreographer
+|house = 
+|loyalty = 
+}}
+'''Norman Wesley''' was a [[Muggle|No-Maj]] choreographer in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:It's Just Heavenly.png}}</ref>
+
+He choreographed a production of the musical ''[[It's Just Heavenly]]'' that was staged at the [[Pegasi Theatre]] in [[New York]] in [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Wesley, Norman}}
+[[Category:Choreographers]]
+[[Category:Males]]
+[[Category:Muggles]]

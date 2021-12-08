@@ -1,0 +1,57 @@
+{{Transcribed image|File:ChessPlayersNames.jpg}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Muldoon Cragg.jpg|250px]]
+|name = Muldoon Cragg
+|born = 
+|died = Before [[1991]]
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Head of Gryffindor House]]<ref name="MHP">{{MHP}} (see [http://www.flickr.com/photos/karen_roe/7366145410/in/set-72157630012281279/ this image])</ref>
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = 
+|skin = White
+|family = [[Elfrida Cragg]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Head of Gryffindor House]] (? - before [[1991]])<ref name="MHP" />
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+'''Muldoon Cragg'''<ref name="name">{{MHP}} {{see image|File:ChessPlayersNames.jpg}}</ref> was a [[wizardkind|wizard]] that was depicted in a large painting that hung in [[Gryffindor Tower]], at [[Hogwarts Castle]]. In his lifetime, he was [[Head of Gryffindor House]].<ref name="MHP" />
+
+In the painting, Cragg is depicted as standing against a windowsill in the background, absorbed in reading while, in the foreground, [[Tobias Stump]] watches over a game of [[Wizard's Chess]] between [[Podric Piles]] and [[Uric Oapley]]. Cragg is depicted in black robes and matching pointy hat, with a voluminous powdered wig, and reading a book.
+
+==Behind the scenes==
+*In the deleted scenes of {{POA|FA}}, Muldoon Cragg is accidentally knocked out of the window by [[Cadogan|Sir Cadogan]], who disturbs the occupants of this portrait.
+
+==Appearances==
+*{{PS|F}} {{Portrait}}
+*{{POA|F}} {{Portrait}}
+*{{GOF|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+*{{HM}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Cragg, Muldoon}}
+[[fr:Muldoon Cragg]]
+[[pl:Muldoon Cragg]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Heads of House]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

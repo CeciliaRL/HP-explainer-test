@@ -1,0 +1,44 @@
+{{HogwartsMysterySpoiler}} 
+{{Conjecture}} 
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Murphy McNully's mother
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HMQ4"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HMQ4"/>
+|gender = Female<ref name="HMQ4"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Murphy McNully]] (son)<ref name="HMQ4"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = McNully family<ref name="HMQ4"/>
+}}
+{{Quote|My mum taught me the Blackboard Writing Spell when I was seven...|[[Murphy McNully]]|Harry Potter: Hogwarts Mystery}} 
+This '''individual''' was a [[Wizardkind|witch]] and the mother of [[Murphy McNully]], who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]]. When her son was seven, she taught him the [[Blackboard Writing Spell]].<ref name="HMQ4">{{HM}}, Quidditch, Season 1, Chapter 4</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}} 
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

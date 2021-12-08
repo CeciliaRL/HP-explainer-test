@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Rod J. Freddy
+|born = [[1903]]<ref name="GOFG"/>
+|died = [[1966]] (aged 62 - 63)<ref name="GOFG"/>
+|blood = [[Non-magic people|Muggle]]<ref name="GOFG"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFG"/>
+|gender = Male<ref name="GOFG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Rod J. Freddy''' ([[1903]]-[[1966]]) was a [[Non-magic people|Muggle]] who lived in [[Little Hangleton]]. He was buried in [[Little Hangleton graveyard]] after his death.<ref name="GOFG">{{GOF|G}}</ref>
+
+==Appearances==
+*{{GOF|G}} {{Comment|Name seen on tombstone}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Freddy, Rod}}
+[[pl:Rod J. Freddy]]
+[[Category:1903 births]]
+[[Category:1966 deaths]]
+[[Category:British individuals]]
+[[Category:Buried at Little Hangleton graveyard]]
+[[Category:Males]]
+[[Category:Muggles]]

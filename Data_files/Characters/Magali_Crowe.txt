@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=macusa
+|image=[[File:MagaliJCroweID.jpg|250px]]
+|name=Magali J. Crowe
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=Brown
+|eyes=Brown
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Surveillor of Activity]]
+|house=
+|loyalty=[[Magical Congress of the United States of America]]
+}}
+'''Magali J. Crowe''' was an [[United States of America|American]] [[wizardkind|witch]] who worked as a [[Surveillor of Activity]] at the [[Magical Congress of the United States of America]] in the [[1920s]].<ref name="fb-chronicle">"[http://www.gazette-du-sorcier.com/Compte-rendu-ouverture-de-l-exposition-Harry-Potter-a-Bruxelles-pour-Noel Compte-rendu : ouverture de l’exposition Harry Potter à Bruxelles pour Noël]" from the Gazette du Sorcier {{see image|File:MagaliJCroweID.jpg}}</ref>
+
+==Appearances==
+*{{FB|F}} {{1st}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+
+{{DEFAULTSORT:Crowe, Magali J.}}
+
+[[es:Magali Crowe]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Wizards]]

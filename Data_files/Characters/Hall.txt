@@ -1,0 +1,39 @@
+{{Real world subject}}
+{{Individual infobox
+|name = Mr Hall
+|died = [[14 September]] [[1926]]
+|blood = [[Muggle|No-Maj]]
+|marital = Married
+|nationality = [[United States of America|American]]
+|title = Reverend
+|species = [[Human]]
+|gender = Male
+|family = [[Hall's wife|Mrs Hall]] (wife)
+|job = [[Christianity|Christian]] minister
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = 
+|hidem = y
+|hidea = 
+}}
+'''Mr Hall''' (died [[14 September]] [[1926]]) was an [[United States of America|American]] [[Muggle|No-Maj]] [[Christianity|Christian]] minister who lived during the early [[20th century]].<ref name="fb-paper">"[http://www.gazette-du-sorcier.com/Compte-rendu-ouverture-de-l-exposition-Harry-Potter-a-Bruxelles-pour-Noel Compte-rendu : ouverture de l’exposition Harry Potter à Bruxelles pour Noël]" from the Gazette du Sorcier {{see image|File:New York Chronicle - Monday Dec 1926 (HQ).png}}</ref><ref name="eveningworld">[http://chroniclingamerica.loc.gov/lccn/sn83030193/1922-11-21/ed-1/seq-1/ Front page of the 21 November 1922 issue of ''The Evening World''] from Chronicling America</ref>
+
+He was murdered on the night of 14 September 1926 along with a [[Mills|Mrs Mills]].<ref name="fb-paper" /><ref name="eveningworld" /> His wife, [[Hall's wife|Mrs Hall]], stood trial for the murders.<ref name="fb-paper" /><ref name="eveningworld" /> A [[Gibson|Mrs Gibson]] testified that she saw Mrs Hall on [[De Russey Lane]] with a male companion, presumed to be her accomplice, on the night of 14 September.<ref name="fb-paper" /><ref name="eveningworld" /> The trial was reported on in the [[6 December]] 1926 issue of the ''[[New York Chronicle]]''.<ref name="fb-paper" />
+
+==Behind the scenes==
+*The text of the article mentioning Mr Hall in the [[:File:New York Chronicle - Monday Dec 1926 (HQ).png|prop issue]] of the ''[[New York Chronicle]]'' featured in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'' was taken from the real [[21 November]] [[1922]] issue of ''[[wikipedia:The Evening World|The Evening World]]''.<ref name="eveningworld" /> This represents an anachronism, as the film is set in [[1926]], but the actual events referenced occurred in 1922.
+
+==Appearances==
+*{{FB|F}} {{comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hall, Mr}}
+[[Category:1926 deaths]]
+[[Category:American individuals]]
+[[Category:Articles containing anachronistic information]]
+[[Category:Clergy]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Murder victims]]

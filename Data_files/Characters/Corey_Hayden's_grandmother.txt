@@ -1,0 +1,43 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Corey Hayden's grandmother
+|born = 
+|died = 
+|blood = [[Pure-blood]], [[half-blood]] or [[Muggle-born]] {{C|most likely}}<ref name="blood">She knew about Zenith Xeep, so unless Zenith was also active in the Muggle world, she most likely had to be a witch.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM715">{{HM|7|15}}</ref>
+|gender = Female<ref name="HM715"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Corey Hayden]] {{C|grandchild}}<ref name="HM715"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = Hayden family<ref name="HM715"/>
+}}
+{{Quote|[[Zenith Xeep|She]]'s been an opera icon for decades! My grandmum must have every single record she's ever produced!|Corey Hayden|Harry Potter: Hogwarts Mystery}}
+This '''individual''' was [[Corey Hayden]]'s grandmother and a fan of [[Zenith Xeep]].<ref name="HM715"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

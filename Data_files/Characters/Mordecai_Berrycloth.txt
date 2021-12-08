@@ -1,0 +1,50 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Mordecai Berrycloth
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Auror]]
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Department of Magical Law Enforcement]]
+***[[Auror Office]]
+**[[Statute of Secrecy Task Force]]
+}}
+{{Quote|All field members of the Department for the Regulation and Control of Magical Creatures get a combat training visit from Auror Mordecai Berrycloth.|Description|Harry Potter: Wizards Unite}}
+'''Mordecai Berrycloth''' was a [[Great Britain|British]] [[Wizardkind|wizard]] employed by the [[British Ministry of Magic|Ministry of Magic]] in [[London]] in the capacity of [[Auror]],<ref name="WU">{{WU}} ([https://www.youtube.com/watch?v=hCIfSWgMX-c see video])</ref> under head of [[Auror Office|department]], [[Harry Potter]].
+
+==Biography==
+In the [[2010s]], Mordecai Berrycloth visited the [[Department for the Regulation and Control of Magical Creatures]], where he held a course in [[Martial magic|combative magic]] for their field members; [[Magizoologist]] members of the [[Statute of Secrecy Task Force]] were also in attendance.<ref name="WU" />
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Berrycloth, Mordecai}}
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

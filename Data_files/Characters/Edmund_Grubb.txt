@@ -1,0 +1,58 @@
+{{Cut content}}
+{{Noncanon|Character}}
+{{Individual infobox
+|theme=spirit
+|image=
+|name=Edmund Grubb
+|hideb=
+|born=
+|died=c. [[Wikipedia:Victorian era|1837–1901]]<br/>
+[[Great Hall]], [[Hogwarts Castle]]
+|blood=
+|alias=
+|title=
+|hidep=
+|species=*[[Human]] (formerly)
+*[[Ghost]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=Pale
+|hidef=f
+|family=
+|hidem=m
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Edmund Grubb''' was a [[ghost]] at [[Hogwarts School of Witchcraft and Wizardry]].
+
+He lived in the [[Wikipedia:Victorian era|Victorian era]], and died in the doorway of the [[Great Hall]] at [[Hogwarts Castle]] after ingesting [[poison]]ous berries. After his death, he returned as a ghost to haunt the Castle, sometimes stopping people from getting into the Great Hall out of spite.
+
+==Behind the scenes==
+*Edmund Grubb was one of the original ghosts created by [[J. K. Rowling]] but did not survive final edits. She "rather regrets" not using his character.<ref name="pottermoreghosts">{{WW|hogwarts-ghosts}}</ref>
+
+==Appearances==
+*{{PS}} {{C|Cut from final drafts}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Grubb, Edmund}}
+[[es:Edmund Grubb]]
+[[pl:Edmund Grubb]]
+[[fr:Edmond Graille]]
+[[ru:Эдмунд Грабб]]
+[[Category:19th century deaths]]
+[[Category:Deaths by poisoning]]
+[[Category:Ghosts]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

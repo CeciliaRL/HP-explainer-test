@@ -1,0 +1,46 @@
+{{Individual infobox
+|image = [[File:Bruno Schmidt defeats an Erkling.png|250px]]
+|name = Bruno Schmidt
+|born = Before [[1985]], [[Germany]]<ref name="FBR"/>
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">His [[Bruno Schmidt's father|father]] was a wizard, meaning he was not [[Muggle-born]].</ref>
+|died =
+|alias =
+|title =
+|signature =
+|nationality = [[Germany|German]]<ref name="FBR"/>
+|species = [[Human]]<ref name="FBR"/>
+|gender = Male<ref name="FBR"/>
+|hair = Brown<ref name="FBR"/>
+|skin = Light<ref name="FBR"/>
+|eyes =
+|height =
+|weight =
+|family = [[Bruno Schmidt's father|Mr Schmidt]] (father)<ref name="FBR"/>
+|wand = 
+|animagus =
+|patronus =
+|boggart =
+|job =
+|house =
+|loyalty = [[Schmidt family]]<ref name="FBR"/>
+|theme = wizard
+}}'''Bruno Schmidt''' was a [[Germany|German]] [[Wizardkind|wizard]] who, according to [[Newton Scamander|Newt Scamander]] in his [[1991]] edition of his book {{FB}}, was the last person known to have been attacked by an [[Erkling]]. As a six-year-old child, he managed to kill the Erkling who attacked him, hitting it over the head with his [[Bruno Schmidt's father|father]]'s [[Collapsible Cauldron]].<ref name="FBR">{{FB|R}}</ref>
+
+==Etymology==
+The name "Bruno" is derived from the Germanic element brun meaning "brown". Saint Bruno of Cologne was a German monk of the 11th century who founded the Carthusian Order. Schmidt is a common German occupational surname derived from the German word "Schmied" meaning "blacksmith" and/or "metalworker". This surname is the German equivalent of "Smith" in the English-speaking world.
+
+==Appearances==
+*{{FB|R}} {{1st mention}}
+*{{FB|IE}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Bruno Schmidt]]
+[[es:Bruno Schmidt]]
+[[fr:Bruno Schmidt]]
+[[pl:Bruno Schmidt]]
+[[pt-br:Bruno Schmidt]]
+[[Category:German individuals|Schmidt, Bruno]]
+[[Category:Males|Schmidt, Bruno]]
+[[Category:Schmidt family]]
+[[Category:Wizards|Schmidt, Bruno]]

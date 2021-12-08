@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Robert Hilliard
+|born = Between [[1 September]] [[1973]] and [[31 August]] [[1976]] (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]<ref name="pottermore"/>
+|signature = 
+|species = [[Human]]<ref name="pottermore"/>
+|gender = Male<ref name="pottermore"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="pottermore"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="pottermore"/>
+**[[Ravenclaw]]<ref name="pottermore"/>
+}}
+'''Robert Hilliard''' was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] between [[1985]] and [[1987]]. [[Sorting ceremony|Sorted]] into [[Ravenclaw]], he was made a [[Prefect]] by [[1991]], and welcomed [[First year|first-year]]s when they initially arrived in his [[Hogwarts Houses|House]].<ref name="pottermore">[[Pottermore Introductions to Hogwarts Houses]] (Archived from {{PM}})</ref>
+
+==Appearances==
+*{{PM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually<br/>[[Chester Davies]]
+|position=Male [[Prefect#Ravenclaw|prefect of Ravenclaw House]]<br/>(along with two other male Ravenclaws in different years taking the post)
+|years=at least [[1991]]—[[1992]]
+|successor=Unknown, eventually<br/>[[Marcus Turner]]
+}}
+{{End box}}
+{{Head boys and prefects}}
+{{DEFAULTSORT:Hilliard, Robert}}
+
+[[de:Robert Hilliard]]
+[[fr:Robert Hilliard]]
+[[pl:Robert Hilliard]]
+[[ru:Роберт Хиллиард]]
+[[es:Robert Hilliard]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts prefects]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1980s]]
+[[Category:Wizards]]

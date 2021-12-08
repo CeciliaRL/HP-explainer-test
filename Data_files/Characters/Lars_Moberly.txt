@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:Lars Moberly.jpg|250px]]
+|name=Lars Moberly
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Lars Moberly''' was an [[United States of America|American]] [[wizardkind|wizarding]] criminal who operated in the [[1920s]].<ref name="moberly">{{CB|119}} {{see image|File:LarsMoberlyWanted.png}}</ref>
+
+==Biography==
+In [[1926]], the [[Magical Congress of the United States of America]] issued a wanted poster for Moberly, which stated he was wanted for [[Muggle|No-Maj]] murder.<ref name="moberly" /> It described him as a "malicious killer" and "bearing [[wand]], most menacing and extremely dangerous."<ref name="moberly" /> A reward of 3000 [[dragot]]s was offered for information leading to his capture.<ref name="moberly" /> The poster was hanging in [[The Blind Pig]] when [[Newton Scamander|Newt Scamander]] paid it a visit in December 1926.<ref name="moberly" />
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Moberly, Lars}}
+[[fr:Lars Moberly]]
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Wizards]]

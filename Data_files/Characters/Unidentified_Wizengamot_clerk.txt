@@ -1,0 +1,46 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = HM Unidentified Сlerk.png
+|name = Unidentified Wizengamot clerk
+|born = Before [[1990]]<ref name="HM76A1">{{HM|7|6|Plan Ministry Party}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]] or [[Ireland|Irish]]<ref name="HM76A1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM76A1"/>
+|gender = Male<ref name="HM76A1"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HM76A1"/>
+|eyes = 
+|skin = Light<ref name="HM76A1"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Department of Magical Law Enforcement]]
+***[[Wizengamot Administration Services]]
+}}
+{{Quote|I have nightmares about piles of parchment...|This wizard to Jacob's sibling|Harry Potter: Hogwarts Mystery}}This '''[[Wizardkind|wizard]]''' was a clerk of the [[Wizengamot]] who performed clerical duties. [[Jacob's sibling]] would often help him as a part of their [[Ministry of Magic student programme]] assignments.<ref name="HM76A1"/><ref name="HM76A2">{{HM|7|6|Auror Field Training}}</ref>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+[[Category:British or Irish individuals]]
+[[Category:Department of Magical Law Enforcement personnel]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

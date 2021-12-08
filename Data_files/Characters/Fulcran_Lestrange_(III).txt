@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:Fulcran Lestrange III.png]]
+|name=Fulcran Lestrange
+|born=
+|died=
+|blood = [[Pure-blood]]<ref>He was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|marital=Married
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+*[[Fulcran Lestrange (II)|Fulcran Lestrange]] (father)
+*[[Sotère Lestrange]] (mother)
+*[[Quintilla Lestrange]] (wife/second cousin once removed)
+*[[Balbine Lestrange (II)|Balbine Lestrange]] (sister)
+*[[Pucine Lestrange (II)|Pucine Lestrange]] (sister)
+*[[Nozéa Lestrange]] (daughter)
+*[[Floxel Lestrange]] (father-in-law)
+*[[Jodelle Lestrange]] (mother-in-law)
+*[[Cyrille Lestrange (IV)|Cyrille Lestrange]] (second cousin)
+*[[Floxel Lestrange]] (second cousin)
+*[[Fulcran Lestrange (I)|Fulcran Lestrange]] (paternal grandfather)
+*[[Pucine Lestrange (I)|Pucine Lestrange]] (paternal grandmother)
+*[[Lestrange family]]
+*Petit family
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=[[Lestrange family]]
+}}
+'''Fulcran Lestrange''' was a French wizard and a member of the [[pure-blood]] [[Lestrange family]]. He was the son of [[Fulcran Lestrange (II)|Fulcran Lestrange]] and [[Sotère Lestrange|Sotère Petit]]. He married his second cousin [[Quintilla Lestrange]] and had a daughter with her, [[Nozéa Lestrange]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref>
+
+==Appearances==
+*{{COG}} {{c|Appears on the Lestrange family tree}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Lestrange, Fulcran III}}
+[[fr:Fulcran Lestrange III]]
+[[pl:Fulcran Lestrange III]]
+
+[[Category:French individuals]]
+[[Category:Lestrange family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

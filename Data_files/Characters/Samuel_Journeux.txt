@@ -1,0 +1,43 @@
+{{Transcribed image|File:SamuelJourneuxRef.png}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Samuel Journeux
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Author
+|house=
+|loyalty=
+}}
+'''Samuel Journeux''' was a [[wizardkind|wizard]] who wrote ''[[The Book of Charms & Spells]]'', presumably a spells compendium.<ref>{{WWHP}} {{see image|File:SamuelJourneuxRef.png}}</ref>
+
+==Appearances==
+*{{WWHP}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Journeux, Samuel}}
+
+[[pl:Samuel Journeux]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Wizards]]

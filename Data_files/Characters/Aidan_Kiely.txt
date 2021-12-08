@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Aidan Kiely
+|born = [[1981]] or earlier<ref>As he was employed by the [[Kenmare Kestrels]] by [[1998]] he was presumably over 17.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Ireland|Irish]]
+|alias = 
+|title = [[Seeker]]
+|signature = 
+|species = 
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] of the [[Kenmare Kestrels]]
+|house = 
+|loyalty = [[Kenmare Kestrels]]
+}}
+'''Aidan Kiely''' was an [[Ireland|Irish]] [[wizardkind|wizard]] who played as the [[Seeker]] for the [[Kenmare Kestrels]] [[Quidditch]] [[Quidditch team|team]] during the [[1990s]]<ref name=":0">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[8 February]], [[1999]], Page 3</ref>.
+
+==Biography==
+In a game against the [[Montrose Magpies]], Aidan managed to catch the Snitch against opposing seeker [[Alasdair Maddock]] when the former attempted to use Muggle Football techniques during the game<ref name=":0" />.
+
+==Behind the scenes==
+*Aidan Kiely was named for Aidan Kiely, the author's close friend's brother who died as a child.
+
+==Etymology==
+The name "Aidan" is the anglicised form of Aodhán. In the latter part of the 20th century, it became popular in America due to its sound, since it uses the same fashionable aden suffix sound found in such names as Braden and Hayden.
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Kiely, Aiden}}
+
+[[fr:Aidan Kiely]]
+[[pl:Aidan Kiely]]
+[[ru:Айдан Кили]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Wizards]]

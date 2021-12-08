@@ -1,0 +1,48 @@
+{{Individual infobox
+|image = MATHIS GAGE.png
+|name = Mathis Gage
+|blood = [[Pure-blood]]
+|nationality = [[France|French]]
+|species = [[Human]]
+|gender = Male
+|hair = Blond
+|skin = Light
+|family = *[[Reynard Gage]] (father)
+*[[Josette Gage]] (mother)
+*[[Louis Gage]] (brother)
+*[[Manon Perrot]] (maternal aunt)
+*[[Corvus Lestrange (III)|Corvus Lestrange]] (maternal uncle)
+*[[Sebastien Perrot]] (maternal uncle by marriage)
+*[[Eglantine Lestrange]] (maternal aunt by marriage/first cousin once removed)
+*[[Odile Perrot]] (first cousin)
+*[[Huguette Perrot]] (first cousin)
+*[[Laurelle Perrot]] (first cousin)
+*[[Corvus Lestrange (IV)|Corvus Lestrange]] (first cousin)
+*[[Clarisse Lestrange]] (second cousin)
+*[[Falco Tremblay]] (second cousin)
+*[[Corvus Lestrange (III)|Corvus Lestrange]] (paternal grandfather)
+*[[Minette Lestrange]] (paternal grandmother)
+*[[Gage family]]
+*[[Lestrange family]]
+|loyalty = *[[Gage family]]
+*[[Lestrange family]]
+|theme = wizard
+}}'''Mathis Gage''' was a [[France|French]] [[Wizardkind|wizard]] and a member of the [[Gage family]]. He was the son of [[Reynard Gage]] and [[Josette Gage]], and the brother of [[Louis Gage]].<ref>{{COG}} {{see image|File:The art of CoG lestrange.jpeg}}</ref>
+
+== Etymology ==
+The name <dfn>Mathis</dfn> is a name of Hebrew origin meaning "gift of God".
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Gage, Mathis}}
+[[fr:Mathis Gage]]
+[[pl:Mathis Gage]]
+[[ru:Матис Гаж]]
+[[Category:French individuals]]
+[[Category:Gage family|Mathis]]
+[[Category:Males]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

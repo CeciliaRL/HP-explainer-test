@@ -1,0 +1,67 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Harfang Longbottom's son
+|born = 
+|died = 
+|blood = [[Pure-blood]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Harfang Longbottom]] (father)
+*[[Callidora Black|Callidora Longbottom]] (née [[House of Black|Black]]) (mother)
+*[[Harfang Longbottom's daughter|Sister]]
+*[[Cedrella Black|Cedrella Weasley]] (maternal aunt)
+*[[Septimus Weasley]] (maternal uncle by marriage)
+*[[Arthur Weasley's brothers|Two male maternal first cousins]]
+*[[Bilius]] (possible cousin) †
+*[[Arthur Weasley]] (maternal first cousin)
+*[[Charis Black|Charis Crouch]] (née [[House of Black|Black]]) (maternal aunt) †
+*[[Caspar Crouch]] (maternal uncle by marriage) †
+*[[Caspar Crouch's son|Male maternal first cousin]] †
+*[[Bartemius Crouch Senior|Bartemius Crouch Snr]] (possible cousin) †
+*[[Caspar Crouch's daughters|Two female maternal first cousins]] †
+*[[Arcturus Black II]] (maternal grandfather) †
+*[[Lysandra Yaxley|Lysandra Black]] (maternal grandmother)
+*[[Frank Longbottom's father|Mr Longbottom]] (possible) †
+*[[Algie Longbottom]] (possible)
+*[[Frank Longbottom]] (possible)
+*[[Neville Longbottom]] (possible)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Longbottom family]]
+*[[House of Black]]
+}}
+The '''only son''' of [[Harfang Longbottom]] and [[Callidora Black]] was a [[pure-blood]] wizard.<ref name="BFT">[[House of Black|Black family tree]]</ref> He had a [[Harfang Longbottom's daughter|sister]].<ref>[[House of Black#Black family tree|Black family tree]]</ref> He was a first cousin of [[Arthur Weasley]] and possibly [[Bartemius Crouch Senior|Bartemius Crouch Snr]] through his mother. He was also possibly related to [[Frank Longbottom]] and his [[Neville Longbottom|son]] through his father.
+
+==Behind the scenes==
+*This individual was not featured on the Longbottom family tree shown on Pottermore.
+
+==Appearances==
+*{{OOTP|F}} {{C|[[House of Black|Black family]] tapestry}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Longbottom, Harfang's son}}
+[[fr:Fils de Harfang Londubat]]
+[[pl:Syn Harfanga Longbottoma]]
+[[Category:British individuals]]
+[[Category:House of Black descendants]]
+[[Category:Longbottom family]]
+[[Category:Males]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

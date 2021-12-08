@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = vampire
+|image = [[File:AmarilloLestoat.png|250px]]
+|name = Amarillo Lestoat
+|born = [[1776]]<br/>[[United States of America]]<ref name="POAG"/>
+|died = [[1977]] (aged 200 - 201)<ref name="POAG"/>
+|blood = 
+|marital = 
+|nationality = [[United States of America|American]]<ref name="POAG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Vampire]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="POAG"/>
+|eyes = 
+|skin = Pale<ref name="POAG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author<ref name="POAG"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|Flamboyant American vampire. Author of ''[[A Vampire's Monologue]]'' — intended to bore the reader into a stupor making him/her easier prey for vampires.|[[Chocolate Frog Card]]|Harry Potter and the Prisoner of Azkaban (video game)}}
+'''Amarillo Lestoat''' ([[1776]]—[[1977]]) was a flamboyant [[United States of America|American]] [[vampire]]. He wrote a book, ''[[A Vampire's Monologue]]'', which was intended to bore readers out of their minds and render them easier to bite. For his infamy, he was immortalised onto a [[Chocolate Frog Card]].<ref name="POAG">{{POA|G}}</ref>
+
+==Etymology==
+"''Amarillo''" is [[Spain|Spanish]] for "''yellow''", "''le''" is [[France|French]] for "''the''" and a [[wikipedia:Stoat|stoat]] is an animal related to the weasel. Consequently, his name appears to translate to "''the yellow stoat''".
+
+==Behind the scenes==
+*His surname and overall character might be based on the character [[w:c:vampirechronicles:Lestat_de_Lioncourt|Lestat de Lioncourt]], a vampire in Anne Rice's ''[[w:c:vampirechronicles:The_Vampire_Chronicles|The Vampire Chronicles]]'', who has a similar appearance and lived within the same time frame.
+
+==Appearances==
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+
+[[fr:Amarillo Lestoat]]
+[[de:Amarillo Lestoat]]
+[[de2:Amarillo Lestoat]]
+[[fi:Amarillo Lestoat]]
+[[it:Amarillo Lestoat]]
+[[pl:Amarillo Lestoat]]
+[[ru:Амарильо Лестат]]
+{{DEFAULTSORT:Lestoat, Amarillo}}
+[[Category:1776 births]]
+[[Category:1977 deaths]]
+[[Category:American individuals]]
+[[Category:Authors]]
+[[Category:Centenarians]]
+[[Category:Famous Vampires Chocolate Frog Cards]]
+[[Category:Males]]
+[[Category:Vampires]]

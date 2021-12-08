@@ -1,0 +1,84 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Harfang.jpg|250px]]
+|name = Harfang Longbottom
+|born = 
+|died = 
+|blood = [[Pure-blood]]
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Callidora Black|Callidora Longbottom]] (wife)
+*[[Harfang Longbottom's son|Son]]
+*[[Harfang Longbottom's daughter|Daughter]]
+*[[Arcturus Black II]] (father-in-law)
+*[[Lysandra Yaxley|Lysandra Black]] (mother-in-law)
+*[[Cedrella Black|Cedrella Weasley]] (sister-in-law)
+*[[Charis Black|Charis Crouch]] (sister-in-law)
+*[[Septimus Weasley]] (brother-in-law)
+*[[Caspar Crouch]] (brother-in-law)
+*[[Arthur Weasley's brothers|Two nephews]]
+*[[Bilius]] (possible nephew)
+*[[Arthur Weasley]] (nephew)
+*[[Caspar Crouch's son|Nephew]]
+*[[Bartemius Crouch Senior|Bartemius Crouch Snr]] (possible nephew)
+*[[Caspar Crouch's daughters|Two nieces]]
+*[[Frank Longbottom's father|Mr Longbottom]] (possible)
+*[[Augusta Longbottom]] (possible)
+*[[Frank Longbottom]] (possible)
+*[[Neville Longbottom]] (possible)
+*[[Longbottom family]]
+*[[House of Black]] (in-laws)
+|romances = [[Callidora Black]] (wife)
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Longbottom family]]
+*[[House of Black]]
+}}
+'''Harfang Longbottom''' (fl. 20th centuy) was a [[pure-blood]] [[Wizardkind|wizard]] who married [[Callidora Black]]. The couple had two children, a son and a daughter.<ref>''[[House of Black|Black Family tree]]''</ref> Harfang may be related to [[Frank Longbottom|Frank]] and [[Neville Longbottom]].
+
+==Behind the scenes==
+*Harfang was not Featured on the Longbottom family tree shown on Pottermore, but he is Featured on the Black Family tree.<ref>[https://web.archive.org/web/20191002072132/https://www.pottermore.com/about/black-family-tree Pottermore - The Black family tree]</ref>
+
+==Etymology==
+The name Harfang may be derived from ''Harfang des neiges'', a French term for "snowy owl."<ref>"[http://en.wiktionary.org/wiki/harfang Harfang]" at Wiktionary</ref> In ''The Silver Chair'', the sixth book in the ''The Chronicles of Narnia'' series by [[Wikipedia:C.S. Lewis|C.S. Lewis]], Harfang is a city of giants in the far north.
+
+J.R.R Tolkien, the author of The Hobbit and The Lord of the Rings, gave the name Longbottom to one of the Hobbits' villages in the Shire, which is known for its pipe-weed.
+
+==Appearances==
+*{{OOTP|F}} {{Comment|[[House of Black|Black family]] tapestry}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Longbottom, Harfang}}
+
+
+{{Character-stub}}
+[[de:Harfang Longbottom]]
+[[es:Harfang Longbottom]]
+[[fr:Harfang Londubat]]
+[[nl:Harfang Lubbermans]] 
+[[ru:Арфанг Долгопупс]]
+[[pl:Harfang Longbottom]]
+
+[[Category:British individuals]]
+[[Category:House of Black]]
+[[Category:Longbottom family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

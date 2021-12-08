@@ -1,0 +1,54 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mercy Lewis
+|born = [[1674]] or [[1675]]<ref name="wiki">{{Wikilink|Mercy Lewis}}</ref>
+|died = [[18th century]]<ref name="wiki"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mercy Lewis''' ([[1674]]/[[1675|75]] – [[18th century]]) was an [[United States of America|American]] woman accusing others of [[Magic|witchcraft]] during the [[Salem Witch Trials]] of [[1692]] and [[1693]].<ref name="wiki" />
+
+==History==
+In [[1926]], [[Porpentina Goldstein|Tina Goldstein]] used her name as an exclamation of surprise, asking [[Newton Scamander|Newt Scamander]] "Mercy Lewis, what is [[Murtlap|that]]?"<ref name="FB35">{{FB|S|35}}</ref>
+
+==Appearances==
+*{{FB|S}} {{1st Mention}}
+*{{FB|F}} {{Mention}}
+
+==See also==
+*[[Deliverance Dane]]
+
+==Behind the scenes==
+*Mercy Lewis appears as a character in the Arthur Miller play ''The Crucible''.
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lewis, Mercy}}
+[[de2:Mercy Lewis]]
+[[Category:1670s births]]
+[[Category:18th century deaths]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Humans]]

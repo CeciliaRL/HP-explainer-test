@@ -1,0 +1,47 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Pablo Picasso
+|hideb=
+|born=[[25 October]], [[1881]]<br />Málaga, [[Spain]]
+|died=[[8 April]], [[1973]]<br />Mougins, [[France]]
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Artist
+|loyalty=
+}}
+{{Quote|Not exactly Picasso, are you? I hope you demonstrate more talent on the [[Quidditch]] pitch this weekend then you do as an artist.|[[Severus Snape]] catches [[Harry Potter]] with a drawing by [[Draco Malfoy]].|Harry Potter and the Prisoner of Azkaban (film)}}
+
+'''Pablo Diego José Francisco de Paula Juan Nepomuceno María de los Remedios Cipriano de la Santísima Trinidad Clito Ruiz y Picasso''' was a [[Non-magic people|Muggle]] artist. His works are known in both the [[Non-magic people|Muggle]] and the [[Wizarding world]].<ref>[http://imsdb.com/scripts/Harry-Potter-and-the-Prisoner-of-Azkaban.html ''Prisoner of Azkaban'' script at the Internet Movie Script Database] (archived [http://web.archive.org/web/20090216093016/http://imsdb.com/scripts/Harry-Potter-and-the-Prisoner-of-Azkaban.html here] via the Internet Archive's Wayback Machine)</ref> However, it is also possible that [[Severus Snape]] only knew about him because he was a [[half-blood]], and therefore had more knowledge of the [[Non-magic people|Muggle]] world than the average wizard.
+
+==Behind the scenes==
+*This individual is mentioned only in the script of ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]''. Snape's line about him was cut from the film.
+
+==Appearances==
+*{{POA|F}} {{Comment|script (Cut)}}
+
+==External links==
+*[[Wikipedia:Pablo Picasso|Pablo Picasso on Wikipedia]]
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Picasso, Pablo}}
+[[Category:1881 births]]
+[[Category:1973 deaths]]
+[[Category:Artists]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Spanish individuals]]

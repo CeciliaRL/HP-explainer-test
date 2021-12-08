@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme = muggle
+|image = Young Man.jpg
+|name = Unidentified young man
+|born = 
+|died = 
+|blood = [[Non-magic people|No-Maj]]<ref name="FBF"/>
+|marital = 
+|nationality = [[United States of America|American]]<ref name="FBF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBF"/>
+|gender = Male<ref name="FBF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''individual''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who walking out of the [[Woolworth Building]] when [[Porpentina Goldstein]] was taking [[Newton Scamander]] in for exposing [[magic]] in the [[Steen National Bank]].<ref name="FBF">{{FB|F}}</ref>
+
+==Behind the scenes==
+*The Young Man was portrayed by [[Max Cazier]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles]]

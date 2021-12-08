@@ -1,0 +1,51 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = Muggle who bought a cursed kettle.jpg
+|name = Unidentified Muggle witness
+|born = Before [[1990]]<ref name="HM712A1"/>
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HM712A1"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM712A1">{{HM|7|12|Muggle Artefact Smuggler}}</ref>
+|gender = Male<ref name="HM712A1"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HM712A1"/>
+|eyes = Brown<ref name="HM712A1"/>
+|skin = Brown<ref name="HM712A1"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This man was a '''[[Non-magic people|Muggle]]''' who witnessed some aspects of the [[wizarding world]] several times and had to be [[Memory Charm|Obliviated]]. He was often interviewed by [[Alastor Moody]] and [[Jacob's sibling]], who worked with Moody during their time with the [[Ministry of Magic student programme]]. After these interviews, he would have his memory wiped.<ref name="HM712A1"/>
+
+==Biography==
+During the [[1990–1991 school year]], he bought a [[cursed kettle]] from a [[Muggle Artefact Smuggler]] and received severe burns from it.<ref name="HM712A1"/>
+
+He also witnessed a [[dragon]] [[Attack in Kenilworth|attack]] in [[Kenilworth]].<ref name="HM712A2">{{HM|7|12|A Dragon Mishap}}</ref>
+
+One Saturday morning, while chatting with [[Stevens|Mrs Stevens]] and [[Ross (woman)|Mrs Ross]] in [[Northumberland]], he witnessed an [[Explosion in Northumberland|explosion]] caused by an [[Erumpent horn]] that had been dropped.<ref name="HM714A">{{HM|7|14|Catastrophe Clean-Up}}</ref>
+
+==Behind the scenes==
+*This character appears to be a general NPC for the "obliviate memories" part of the Ministry assignments in {{HM}}.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Brown-eyed individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles]]

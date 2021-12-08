@@ -1,0 +1,32 @@
+{{Individual infobox
+|image = Daughter.jpg
+|name = Unidentified daughter
+|born = Pre [[1926]]
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Female
+|family = *[[Unidentified young husband|Father]]
+*[[Unidentified young wife|Mother]]
+*[[Unidentified son|Brother]]
+*[[Unidentified grandfather|Grandfather]]
+*[[Unidentified grandmother|Grandmother]]
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidea = 
+}}This '''individual''' was an [[United States of America|American]] [[Muggle|No-Maj]] who was in an apartment with her family as their memories where being wiped from a [[Obscurial attack on New York|recent magical catastrophe]] in [[1926]].<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+The Daughter was portrayed by an unidentified extra in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|F}}
+*{{FB|S}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Unidentified Muggles]]

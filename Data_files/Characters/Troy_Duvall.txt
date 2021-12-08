@@ -1,0 +1,59 @@
+{{Youmay|the [[Beater]] for the [[American National Quidditch team]]|the [[Chaser]] for the  [[Irish National Quidditch team]], [[Troy]]}}
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Usabeaters.JPG]]
+|name = Troy Duvall
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[United States of America|American]]
+|alias = Tank
+|title = *[[Beater]]
+*[[Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = Light Brown
+|skin = Black
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] and [[Captain]] for the [[American National Quidditch team]]
+|house = 
+|loyalty = [[American National Quidditch team]]
+}}
+'''Troy "Tank" Duvall''' was an [[United States of America|American]] [[Wizardkind|wizard]] who played as a [[Beater]] on the [[American National Quidditch team]], and also served as the team's [[Captain]] at the [[1994]] [[Quidditch World Cup]]. He wore a helmet with a brown [[pumpkin]] design on it.<ref>{{QWC}}</ref>
+
+By [[1996]], Troy was included on a [[Chocolate Frog Card]] for his achievements in [[Quidditch]].<ref>{{HBP|G}}</ref>
+
+==Etymology==
+The name "Troy" is from a surname that originally denoted a person from the city of Troyes in [[France]]. This was also the name of the ancient city that was besieged by the Greeks in Homer's ''Iliad''.
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Duvall, Troy}}
+
+[[es:Troy Duvall]]
+[[pl:Troy Duvall]]
+[[fr:Troy Duvall]]
+[[Category:20th century births]]
+[[Category:American individuals]]
+[[Category:Beaters]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Males]]
+[[Category:Quidditch Captains]]
+[[Category:Wizards]]

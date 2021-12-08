@@ -1,0 +1,44 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = Augurey at the Magical Creatures Reserve.jpg
+|name = Augurey at the Magical Creatures Reserve
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Augurey]]<ref name="MBOAF">{{HM|5|Magical Birds of a Feather}}</ref>
+|gender = 
+|height = 
+|hair = Blue<ref name="MBOAF"/>
+|feathers = Black<ref name="MBOAF"/>
+|eyes = Black<ref name="MBOAF"/>
+|skin = Grey<ref name="MBOAF"/>
+|family = 
+|loyalty = [[Magical Creatures Reserve]]<ref name="MBOAF"/>
+}}
+This '''[[Augurey]]''' lived in the [[Magical Creatures Reserve]] in the late [[1980s]].<ref name="MBOAF"/>
+
+==Biography==
+[[File:Liz meeting Augurey.jpg|250px|thumb|left|[[Liz Tuttle]] meeting this Augurey in the Magical Creatures Reserve]]
+During the [[1988–1989 school year]], [[Albus Dumbledore]] asked [[Rubeus Hagrid]] to procure a feather of an [[Augurey]] to make a special [[quill]] for a special book. [[Jacob's sibling]] wanted to help him with the feather, so they started to bond with this Augurey, taking it hunting for a meal in [[Rubeus Hagrid's garden|Hagrid's garden]], but the Augurey turned to be incapable of catching insects and [[Fairy|fairies]] due to its inability to fly.<ref name="MBOAF"/>
+
+[[Silvanus Kettleburn|Professor Kettleburn]] gave it an examination and reached the conclusion that there was nothing wrong with it. He explained that there was an evolutionary purpose behind Augureys' cries, which, contrary to common misbelief, could predict rain, and they could only fly when it was raining.<ref name="MBOAF"/>
+
+[[File:Augurey flying.jpg|250px|thumb|right|The Augurey flying]]
+Jacob's sibling and [[Liz Tuttle]] brought the Augurey to the [[Herbology Classroom]] and asked [[Pomona Sprout|Professor Sprout]] to [[Metelojinx|create a local rainstorm]] so it could fly. After having received some help spraying [[Flesh-Eating Slug Repellent]] on [[Mandrake]]s, Sprout created the rainstorm and the Augurey took off, leaving one of its feathers to the students.<ref name="MBOAF"/>
+
+[[File:Dumbledore, Jacob's sibling, Liz, Sir Ribbithe, Hagrid and Augurey.jpg|250px|thumb|left|The Augurey with Dumbledore, Jacob's sibling, Liz, Sir Ribbithe and Hagrid]]
+They presented the feather to Dumbledore, who believed Hagrid had misunderstood him and thought the feather was for the [[Quill of Acceptance]], while in fact it was only for a quill to write his diary.<ref name="MBOAF"/>
+
+==Appearances==
+{{Imagecat|Images of the Augurey at the Magical Creatures Reserve}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Magical Creatures Reserve}}
+[[Category:Augureys]]
+[[Category:Black-eyed individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Magical Creatures Reserve]]

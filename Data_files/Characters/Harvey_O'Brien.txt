@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Harvey O'Brien
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[O'Brien family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="house">{{POA|G}} {{C|PS2 version}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+}}
+'''Harvey O'Brien''' was a [[Hufflepuff]]<ref name="house" /> [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He competed in the school [[Wizard Skittles]] tournament during the [[1996–1997 school year]].
+
+==Etymology==
+The name "Harvey" comes from the Breton given name Haerviu, which meant "battle worthy", from haer "battle" and viu "worthy". This was the name of a 6th-century Breton hermit who is the patron saint of the blind. It was introduced to [[England]] by settlers from Brittany after the Norman conquest.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:O'Brien, Harvey}}
+[[pl:Harvey O'Brien]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:O'Brien family]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizard Skittles Players]]
+[[Category:Wizards]]

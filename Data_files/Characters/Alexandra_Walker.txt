@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Alexandra Walker
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Walker]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Walker family]]
+}}
+[[File:Alexandra Walker Daily Prophet.JPG|thumb|Alexandra Walker makes headlines]]
+'''Alexandra Walker''' was a [[Wizardkind|witch]]. She was charged with attempted robbery of [[Ollivanders]] in the early summer of [[1996]]; this was recorded in the ''[[Daily Prophet]]''.<ref>{{OOTP|F}} - Chapter 30 (''The Lost Prophecy'')</ref>
+
+==Behind the scenes==
+
+*This character was presumably named after Alexandra Walker, an art director on ''[[Harry Potter and the Order of the Phoenix (film)|Harry Potter and the Order of the Phoenix]]'', as well as the two [[Harry Potter (film series)|films]] preceding it.<ref>"[http://www.imdb.com/name/nm1023180/ Alexandra Walker]" on IMDb</ref>
+
+==Appearances==
+*{{OOTP|F}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[es:Alexandra Walker]]
+[[fr:Alexandra Walker]]
+{{DEFAULTSORT:Walker, Alexandra}}
+[[Category:British individuals]]
+[[Category:Criminals]]
+[[Category:Females]]
+[[Category:Walker family]]
+[[Category:Wizards]]

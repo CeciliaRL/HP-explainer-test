@@ -1,0 +1,51 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:Edward Scot WU.jpg]]
+|name = Kensington Millbottom
+|born = [[1988]] or earlier<ref name="age">{{WU}} - 'Edward Scot' was working at the Ministry in 2015, so he had to be at least seventeen.</ref> 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="WU"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WU"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Male<ref name="WU"/>
+|height =
+|weight = 
+|hair = Blonde<ref name="WU"/>
+|eyes = Green<ref name="WU"/>
+|skin = Light<ref name="WU"/>
+|family =
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job =  
+|house = 
+|loyalty = 
+}}{{Quote|As expected, "Edward Scot" transformed back into Gareth Greengrass as soon as his Polyjuice Potion wore off. I've done some digging since then. As it turns out, there is no wizard named Edward Scot. He's actually a persona Gareth created using Muggle Kensington Millbottom's appearance.|Harry Potter|Harry Potter: Wizards Unite}}
+'''Kensington Millbottom''' was a [[Muggle]] whose appearance was stolen by [[Gareth Greengrass]] using [[Polyjuice Potion]] in order to take on the persona of 'Edward Scot'.<ref name="WU">{{WU}} - [[Brilliant Event: Secrets Revealed]]</ref>  
+
+==Biography==
+By [[2015]],<ref>{{WU}} - Grim named 'Edward Scot' as one of [https://wizardsuniteworld.com/foundables/note-page/ Ministry officials] he suspected of failing the [[London Five]] investigation. If 'Scot' was working at the Ministry then, Kensington's appearance had been stolen by that point.</ref> [[Gareth Greengrass]] stole Kensington's appearance using [[Polyjuice Potion]] in order to deceive the [[British Ministry of Magic|Ministry of Magic]]. He invented the persona of 'Edward Scot', and became the Lead Liaison Minister of the [[Department of International Magical Co-operation]].<ref name="WU"/>
+
+Gareth was secretly a member of [[The Unforgivable]]. In [[2021]], [[Harry Potter]] was investigating Gareth when he persuaded a naïve well-wisher to help him escape. Harry found out  through [[Hermione Granger]] that a bottle of Polyjuice Potion had been taken. Gareth had taken Kensington's appearance again in order to run away unnoticed, but Harry saw 'Edward' leaving in a hurry and stopped him, finding out the truth when the effect of the Polyjuice Potion faded.<ref name="WU"/>
+
+It is not known what became of the real Kensington.
+
+==Appearances==
+*{{WU}} {{1st Mention}} {{C|As an assumed identity}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Millbottom, Kensington}}
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Green-eyed individuals]]
+[[Category:Impersonated individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:Gryffindor girl I COG.png|thumb]]
+|name = Unidentified Gryffindor girl
+|born = [[31 August]] [[1896]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COGS"/>
+|gender = Female<ref name="COGS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="COGS"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="COGS"/>
+**[[Gryffindor]]<ref name="COGS"/>
+}}
+This '''individual''' was a [[Wizardkind|witch]] and student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1910s]] who was [[Sorting ceremony|sorted]] in [[Gryffindor]] house.<ref name="COGS">{{COG|S}}</ref>
+
+==Biography==
+
+Sometime in the [[1910s]], whilst attending Hogwarts, she and her [[Unidentified Gryffindor girl 2 (1910's)|friend]] spitefully gossiped about [[Leta Lestrange]] about being an unwanted child and for the [[death]] of her [[Corvus Lestrange (V)|half-brother]], before her friend got hit with the [[dark charm]] ''[[Oscausi]]'' by Leta out of retaliation, sealing her mouth shut.<ref name="COGS"/>
+
+==Behind the scenes==
+*This girl was portrayed by [[Jemima Woolnough]] in {{COG}}.
+
+==Appearances==
+*{{COG|S}} {{1st}} {{Flashback}}
+*{{COG}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British or Irish individuals]]
+[[Category:Bullies]]
+[[Category:Females]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

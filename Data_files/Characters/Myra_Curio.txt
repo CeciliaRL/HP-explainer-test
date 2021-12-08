@@ -1,0 +1,77 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = [[File:Myra Curio - large.png|250px]]
+|name = Myra Curio
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]] {{c|most likely}}<ref name="FBC3">In {{FBC|3}}, she mentioned that she once "almost took her eye out" trying to work out how an electric toothbrush worked. Hence, it is safe to say that she probably had no Muggles in her immediate family.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = [[Officer]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Black
+|eyes = Brown
+|skin = Dark
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[British Ministry of Magic]] official
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Muggle Liaison Office]] (formerly)
+**[[Department for the Regulation and Control of Magical Creatures]] (formerly)
+**[[Department of Magical Law Enforcement]]
+***[[Misuse of Muggle Artefacts Office]]
+**[[Statute of Secrecy Task Force]]
+}}
+'''Officer Myra Curio''' was a [[Great Britain|British]] [[Wizardkind|witch]] who worked for the [[British Ministry of Magic]] in [[London]] as an expert on examining and dealing with [[Non-magic people|Muggle]] artefacts. In this capacity, she assisted the [[Ministry of Magic]]'s [[Department for the Regulation and Control of Magical Creatures]] in solving cases related to [[magic]]al [[beast]]s,<ref>[https://www.youtube.com/watch?v=AiIdj3X6w1E Youtube - FANTASTIC BEASTS Cases From The Wizarding World iOS / Android Gameplay HD]</ref> and later transferred to the [[Department of Magical Law Enforcement]], where she became an [[Officer]] in the [[Misuse of Muggle Artefacts Office]]. In this capacity, she also assisted members the [[Statute of Secrecy Task Force]] tackling [[Calamity|The Calamity]].<ref>{{WU}} - ([https://youtu.be/eMg4E84XeCE?t=1444 see video])</ref>
+
+==Biography==
+
+Born into a [[wizardkind|wizarding]] family that resided somewhere in the [[Great Britain|British Isles]], she grew up in a magical household.<ref name="FBC3" /> During her formative years, she received her magical education, presumably by attending [[Hogwarts School of Witchcraft and Wizardry]], like most magical children in their wizarding community.<ref>{{DH|B|11}} - "Of course, '''nearly every witch and wizard in Britain has been educated at Hogwarts''', but their parents had the right to teach them at home or send them abroad if they preferred."</ref> She excelled in [[Muggle Studies]].<ref>In {{OOTP|B|29}}, a pamphlet revealed you need an O.W.L. in Muggle Studies to work within Muggle Relations, the purview of the Muggle Liaison Office.</ref>
+
+Sometime after her seventeenth birthday, Myra joined the [[British Ministry of Magic|Ministry of Magic]] in [[London]], and eventually began working for the [[Muggle Liaison Office]] in the [[Department of Magical Accidents and Catastrophes]]. A respected authority on the subject of [[Muggle Relations]] and the [[Muggle world]] in general, Myra was known to have been called upon to lend her expertise to other Ministry authorities, such as the [[Department for the Regulation and Control of Magical Creatures]], where she alongside [[Sage Bragnam]], [[Gethsemane Prickle]] and [[Omar Abasi]] during investigations relating to creature-related incidents. As such, Myra would sometimes help examine Muggle objects found by the [[Beast Division]].<ref name="FBC">{{FBC}}</ref>
+
+Presumably inspired to pursue a career that was more "hands-on" after having assisted of [[Mathilda Grimblehawk]] and her [[Mathilda Grimblehawk's partner|partner]] with their field work, she eventually transferred to the [[Department of Magical Law Enforcement]] and became a [[Officer|Magical Law Enforcement Officer]], working for the [[Misuse of Muggle Artefacts Office]].
+
+Following the outbreak of the [[Calamity]], she became part of the Ministry [[Calamity Management Team|committee]] dedicated to gaining further insight into the origin and nature of the phenomenon. In due time, she began working with members of the then recently established [[Statute of Secrecy Task Force]] pursuing a career as an [[Auror]] to improve their spell casting.<ref name="WU">{{WU}}</ref>
+
+==Personality and traits==
+An avid [[Non-magic people|Muggle]] enthusiast who thoroughly enjoyed her job and the opportunity to work with other people, Myra was a friendly, well-meaning individual who were always happy to help out her colleagues, being friendly with people like [[Mathilda Grimblehawk]], and [[Mathilda Grimblehawk's partner|her partner]]. While mild-mannered, she was not timid, being sufficiently confident in her own abilities to want to pursue a job within magical law enforcement later on in her career, proving her resolve.
+
+==Magical abilities and skills==
+A witch capable of using an array of sophisticated [[spell]]-work when she was required to do so, Myra had to deal with a wide variety of [[jinx]]es, [[hex]]es and [[curse]]s placed on Muggle artefacts after she switched positions.
+*'''[[Muggle Studies]]''': A well-respected [[Non-magic people|Muggle]] expert at the Ministry, she was knowledgeable on the subject of Muggle Studies and often called upon to advice co-workers who came across Muggle objects at work.
+*'''[[Potions]]''': Myra was very good at potion-making; occasionally hosting potion-making workshops. On one such event, she combined her skills as a [[potioneer]] with her speciality by successfully adapting Muggle cooking techniques to the potion-making process. Notably, she was able to make good use of sous vide, a method wherein food was cooked in a water bath for longer than usual cooking times at a precisely regulated temperature, by bottling potion-ingredients and immersing them in boiling water to increase their effect, much to the benefit of the [[Statute of Secrecy Task Force|SOS Task Force]] members attending one such event.
+*'''[[Charm]]s''': She was proficient with the casting of charms, to the point where she was able to assist candidates for the [[Auror Office]] working for the [[Statute of Secrecy Task Force|SOS Task Force]] with their charms-work in preparation for tackling the [[Calamity]].
+*'''[[Magical Law]] knowledge''': As an [[Officer]] in the [[Department of Magical Law Enforcement]], Myra was knowledgeable on the subject of magical laws and regulations, such as the [[Registry of Proscribed Charmable Objects]] and the [[Muggle Protection Act]] drafted by [[Arthur Weasley]] and which artefacts were listed on the [[Registry of Proscribed Charmable Objects]].
+*'''[[Fencing]]''': Myra Curio had an interest in the Muggle sport of fencing and was capable of using the diagrams and practical exercises associated with the sport to make her movements more focused and purposeful while casting spells, which she would eventually go on and share with a [[Calamity Investigator]] working for the [[Statute of Secrecy Task Force]] by advicing them to read it too.
+*'''Cooking''': Myra was apparently a very capable cook, who could cook a wide variety of different dishes. 
+
+==Appearances==
+*{{FBC}} {{1st}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Curio, Myra}}
+
+[[pl:Myra Curio]]
+[[es:Myra Curio]]
+[[fr:Myra Curio]]
+[[ru:Мира Курио]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Misuse of Muggle Artefacts Office personnel]]
+[[Category:Statute of Secrecy Task Force]]
+[[Category:Wizards]]

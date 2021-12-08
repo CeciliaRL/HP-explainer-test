@@ -1,0 +1,66 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = Unidentified Keeper's custom-made Keeper Gear HM.jpg
+|name = Unidentified Keeper
+|born = Between 1 September [[1968]] and 31 August [[1969]]<ref name="HMQch2">{{HM|3|Q2|13}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Keeper]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Brown
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Reserve [[Keeper]] for the [[Wigtown Wanderers]]
+|house = 
+|loyalty = 
+*[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Wigtown Wanderers]]
+}}
+This '''[[Wizardkind|wizard]]''' (born c. 1969) attended [[Hogwarts School of Witchcraft and Wizardry]] in [[1980]].
+
+==Biography==
+[[File:Unidentified Keeper.jpg|thumb|Keeper during his Hogwarts years.|left]]He started his education in [[1980]] and was [[Sorting ceremony|Sorted]] into an unknown [[Hogwarts Houses|House]]. At some point before or during the [[1985–1986 school year]], he became the [[Keeper]] of his House Quidditch team.<ref name="HM">{{HM}}</ref>
+
+He continued playing on the team the following year and was well known for making bad Keeper related puns.<ref>{{HM|3|Q2|1}}</ref>
+
+He later went on to play [[Quidditch]] professionally after graduating from Hogwarts. [[Ethan Parkin]] recruited him as the Keeper for [[Wigtown Wanderers]]' reserve team, after watching him play in the [[1986–1987 school year]]'s final.<ref name="HMQch2"/>
+
+In the [[1987–1988 school year]], he learned of [[Orion Amari|Orion]]'s injury and returned to Hogwarts. He told [[Skye Parkin|Skye]] and [[Jacob's sibling]] about the legendary [[Golden Snitch]], escaped from the [[1927]] Quidditch Cup match. He said that he saw it in [[Hogsmeade]] and offered the team to catch it. While his story was untrue and a way to cheer up the team, Jacob's sibling did get the real legendary escaped Golden Snitch down. As a reward for this achievement, he gave Jacob's sibling his custom-made Keeper Gear.<ref>{{HM|4|Q3|The legendary snitch of Hogsmeade}}</ref>
+
+==Possessions==
+*'''Custom-made [[Keeper]] Gear''': This Keeper owned custom-made [[Keeper]] Gear that was tougher and more comfortable than the standard issue armor. He gave it to [[Jacob's sibling]] after they caught the legendary, escaped [[Golden Snitch]].
+
+==Behind the scenes==
+*His house is the same as that of [[Jacob's sibling]], which is chosen by the player.
+*He may be the same person as the [[unidentified Gryffindor Keeper]] if Jacob's sibling is in [[Gryffindor]].
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+{{Stub}}
+[[Category:1960s births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Sorted in 1980]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Artemius Lawson
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Activist
+|house = 
+|loyalty = 
+}}
+'''Artemius Lawson''' was a [[Wizardkind|wizard]] who was an outspoken advocate for the restraint of [[troll]]s. A quote from the ''[[Daily Prophet]]''<ref name="DP">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]], [[8 February]], [[1999]], Page 1</ref> revealed he thought that they should not be allowed to roam free, stating that they were creatures who weighed a ton, but had brains the size of a bogey.<ref name="wizardsl">"[http://www.hplex.info/wizards/a-z/l.html Wizards, Witches and Beings: L]" on the Harry Potter Lexicon</ref>
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lawson, Artemius}}
+
+[[it:Artemius Lawson]]
+[[Category:Activists]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

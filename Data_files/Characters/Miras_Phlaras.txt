@@ -1,0 +1,45 @@
+{{Transcribed image|File:MirasPhlaras.png}}
+{{Individual infobox
+|theme = daily-prophet
+|image = [[File:MirasPhlaras.png|250px]]
+|name = Miras Phlaras
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Reporter for the ''[[Daily Prophet]]''
+|house = 
+|loyalty = ''[[Daily Prophet]]''
+}}
+'''Miras Phlaras''' was a reporter who worked for the ''[[Daily Prophet]]''. In [[1993]], he wrote a front-page article<ref name="HPTE">Prop from {{POA|FA}} featured in {{HPE}} {{see image|File:MirasPhlaras.png}}</ref> about the upcoming [[International Warlock Convention]] to be held by the [[Brazilian Ministry of Magic]].<ref name="HPLE">{{HPLE|G}} {{see image|File:DailyProphetWeasleysEgypt.png}}</ref>
+
+==Appearances==
+*{{POA|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Daily Prophet employees}}
+{{DEFAULTSORT:Phlaras, Miras}}
+[[Category:British individuals]]
+[[Category:Daily Prophet staff]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Wizards]]

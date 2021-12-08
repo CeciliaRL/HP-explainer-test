@@ -1,0 +1,41 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Aceline Faure
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|nationality=
+|species=[[Human]]<ref name="WU"/>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Aceline Faure ''' was a [[Wizardkind|wizard or witch]].<ref name="WU"/>
+
+In the [[21st century]], the [[Calamity]] transported their [[Nose-Biting Teacup]] around the world.<ref name="WU">{{WU}}</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Faure, Aceline}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

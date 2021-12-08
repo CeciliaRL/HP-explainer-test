@@ -1,0 +1,48 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Unidentified Gryffindor Keeper
+|born = late [[1960s]] - early [[1970s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Keeper]]
+|signature = 
+|species = 
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = [[Gryffindor Quidditch team]]
+}}
+This '''individual''' was a witch or wizard who began attending [[Hogwarts School of Witchcraft and Wizardry]] in the late [[1970s]] or early-mid-[[1980s]] and was Sorted into [[Gryffindor]]. By the [[1985–1986 school year]], he or she had been made [[Keeper]] of the [[Gryffindor Quidditch team]], and was known for misplacing the [[Broom Wax]].<ref>{{HM|2|Team Gryffindor}} {{c|Gryffindor players only}}</ref>
+
+==Behind the scenes==
+*This information would only be available if the player of {{HM}} made [[Jacob's sibling]] a [[Gryffindor]].
+*It is possible that this individual is the [[unidentified Keeper]] of the player's Quidditch team seen in Quidditch quests, as Quidditch Season 1 is unlocked in Year 2 and this individual is only mentioned if Jacob's sibling is in Gryffindor.
+
+==Appearances==
+*{{HM}} {{1st Mention}} {{Possible}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+
+[[es:Guardián de gryffindor no identificado]]
+[[Category:British or Irish individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Keepers]]
+[[Category:Unidentified Gryffindors]]

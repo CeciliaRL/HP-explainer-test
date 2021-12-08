@@ -1,0 +1,55 @@
+{{Cut content}}
+{{Conjecture}}
+{{Individual infobox
+|name = Mrs Westenberg
+|born =
+|died = Summer, [[1997]]<ref name="DHF1"/>
+|blood =
+|title =
+|alias =
+|signature =
+|marital = Married<ref name="DHF1"/>
+|nationality = [[England|English]]<ref name="DHF1"/>
+|species = [[Human]]<ref name="DHF1"/>
+|gender = Female<ref name="DHF1"/>
+|skin =
+|eyes =
+|hair =
+|weight =
+|height =
+|wand =
+|animagus =
+|boggart =
+|patronus =
+|family = [[Westenberg|Mr Westenberg]] (husband)†<ref name="DHF1"/>
+|job =
+|house = 
+|loyalty = *[[Order of the Phoenix]]<ref name="DHF1"/>
+*[[Westenberg family]]<ref name="DHF1"/>
+|theme = phoenix
+}}
+{{Quote|... comes to us this evening from the north of England, where a wizard family by the name of Westenberg were found dead in their cellar. While not a member of the Order, Mr Westenberg and his wife had, on numerous occasions, provided shelter for its members...|[[Order of the Phoenix]] radio broadcast|Harry Potter and the Deathly Hallows: Part 1}}
+
+'''Mrs Westenberg'''<ref name="name">Closed captions for the deleted scene "The Burrows Shed" on the Blu-ray of {{DH|F1}}.</ref> (d. [[1997]]) was an [[England|English]] [[Wizardkind|witch]] who lived in the north of [[England]].<ref name="DHF1"/> 
+
+==Biography==
+She and [[Westenberg|her husband]] were supporters of the [[Order of the Phoenix]] and had, on occasion, provided shelter for its members. The couple was found murdered in their cellar in the summer of [[1997]].<ref name="DHF1">[http://www.oclumencia.com.br/2011/01/divulgado-roteiro-completo-de-reliquias-da-morte-parte-1/ "Divulgado roteiro COMPLETO de ''Relíquias da Morte: Parte 1'' - FULL ''Deathly Hallows: Part 1'' script released″] on [http://www.oclumencia.com.br/ Oclumencia.com.br.] (translation [http://babelfish.yahoo.com/translate_url?doit=done&tt=url&intl=1&fr=bf-home&trurl=http%3A%2F%2Fwww.oclumencia.com.br%2F2011%2F01%2Fdivulgado-roteiro-completo-de-reliquias-da-morte-parte-1%2F&lp=pt_en&btnTrUrl=Translate here])</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}} {{Comment|Mentioned in a deleted scene}}
+
+==Notes and references==
+{{Reflist}}
+{{Order of the Phoenix}}
+[[fr:Épouse de Westenberg]]
+[[pl:Pani Westenberg]]
+[[Category:1997 deaths]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Murder victims]]
+[[Category:Order of the Phoenix allies]]
+[[Category:Second Wizarding War casualties]]
+[[Category:Unnamed family members]]
+[[Category:Westenberg family]]
+[[Category:Wizards]]

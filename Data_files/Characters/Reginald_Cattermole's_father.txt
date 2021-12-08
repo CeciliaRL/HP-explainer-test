@@ -1,0 +1,48 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=individual
+|image=
+|name=Mr Cattermole
+|born=
+|died=
+|blood=
+|marital=
+|nationality=
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="HM77"/>
+|gender=Male<ref name="HM77"/>
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=*[[Reginald Cattermole]] (son)<ref name="HM77"/>
+*[[Mary Cattermole]] (daughter-in-law)
+*[[Maisie Cattermole]] (granddaughter)
+*[[Ellie Cattermole]] (granddaughter)
+*[[Alfred Cattermole]] (grandson)
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=[[Cattermole family]]<ref name="HM77"/>
+}}
+{{Quote|Please, just 'Reg'. Mr Cattermole is my father.|[[Reginald Cattermole]] to [[Jacob's sibling]]|Harry Potter: Hogwarts Mystery}}
+This '''individual''' was the father of [[Reginald Cattermole]]. Even as an adult, Reginald preferred to be addressed as simply "Reg", as "Mr Cattermole" was how people addressed his father.<ref name="HM77">{{HM|7|7}}</ref>
+
+==Appearances==
+*{{HM}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:Cattermole family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

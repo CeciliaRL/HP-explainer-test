@@ -1,0 +1,32 @@
+{{Pet individual infobox
+|image = 
+|name = Hogwarts school mice
+|born = Before [[1994]]
+|died = 
+|alias = 
+|title = 
+|species = [[Mouse|Mice]]
+|gender = Males and females
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Transfiguration department]]
+**[[Minerva McGonagall]]
+}}
+These '''mice''' belonged to the [[Transfiguration department]] of [[Hogwarts School of Witchcraft and Wizardry]] were used in various classes. Given the short life span of a mouse, it is possible that there were several groups of mice used in different years.<ref name="OOTP15">{{OOTP|B|15}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Males]]
+[[Category:Mice]]
+[[Category:Minerva McGonagall's possessions]]
+[[Category:Pets]]
+[[Category:Transfiguration department]]

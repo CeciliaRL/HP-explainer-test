@@ -1,0 +1,48 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = Martin MacFusty.jpg
+|name = Martin MacFusty
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Scotland|Scottish]]<ref name="FB"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FB"/>
+|gender = Male<ref name="FB"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HM">{{HM}}</ref>
+|eyes = Brown<ref name="HM"/>
+|skin = Light<ref name="HM"/>
+|family = [[MacFusty clan]]<ref name="FB"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[MacFusty clan]]<ref name="FB"/>
+}}
+'''Martin MacFusty''' was a [[Scotland|Scottish]] [[Wizardkind|wizard]] who looked after [[Hebridean Black]] [[dragon]]s alongside his [[MacFusty clan|family]].<ref name="FB">{{FB|R}}</ref>
+
+==Behind the scenes==
+*If he was educated, he most likely went to [[Hogwarts School of Witchcraft and Wizardry]] as the [[MacFusty clan|family]] was based in [[Scotland]] which Hogwarts resided in.
+
+==Appearances==
+{{Imagecat|Images of Martin MacFusty}}
+*{{FB|R}} {{1st Mention}} {{C|Indirect mention as "wizard clan MacFusty"}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Stub}}
+{{DEFAULTSORT:MacFusty, Martin}}
+[[Category:Brown-eyed individuals]]
+[[Category:Males]]
+[[Category:Scottish individuals]]
+[[Category:Wizards]]

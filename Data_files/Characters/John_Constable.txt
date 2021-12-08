@@ -1,0 +1,47 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=John Constable
+|hideb=
+|born=[[11 June]] [[1776]]
+|died=[[31 March]] [[1837]]
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Painter
+|house=
+|loyalty=
+}}
+'''John Constable''' ([[11 June]] [[1776]] – [[31 March]] [[1837]]) was an [[England|English]] [[Non-magic people|Muggle]] painter.<ref name="wikipedia">"[https://en.wikipedia.org/wiki/John_Constable John Constable]" on Wikipedia</ref><ref name="tate">"[http://www.tate.org.uk/context-comment/blogs/work-week-flatford-mill-scene-on-navigable-river-john-constable Work of the week: Flatford Mill ('Scene on a Navigable River') by John Constable]" from the Tate</ref> 
+
+He was perhaps best known for his [[1817]] painting ''Flatford Mill (Scene on a Navigable River)''.<ref name="tate" /> The [[Dursley family]] had a print of this painting hanging in the front hallway of their [[4 Privet Drive|home]] by [[1993]].<ref>{{POA|F}} {{see image|File:PicturesDursleyHallPoA.jpg}}</ref><ref>{{MHP}} {{see image|File:FlatfordMill.jpg}}</ref>
+
+==Appearances==
+*{{POA|F}} {{Comment|Signature on print of painting}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Constable, John}}
+[[Category:1776 births]]
+[[Category:1837 deaths]]
+[[Category:Artists]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

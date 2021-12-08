@@ -1,0 +1,49 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = individual
+|name = Cereus Greengrass
+|born = 
+|died = 
+|blood = [[Pure-blood]], [[Half-blood]] or [[Squib]]<ref name="Blood">She had a wizard father and a mother of unknown blood status. Her father was unlikely to be Muggle-born, as he was a member of a Sacred Twenty-Eight family.</ref>
+|nationality = [[Great Britain|British]]<ref name="nationality">The Greengrass family were British.</ref>
+|alias = 
+|title = 
+|marital = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|skin = 
+|hair = 
+|eyes = 
+|weight = 
+|height = 
+|family = *[[Gareth Greengrass]] (father) †
+*[[Aquila Greengrass]] (mother) †
+*[[Gareth Greengrass' brother|Uncle]]
+*[[Daphne Greengrass]]
+*[[Astoria Malfoy]] (née [[Greengrass family|Greengrass]]) †
+*[[Astoria Malfoy's ancestor]] {{c|possible ancestor}}<ref name="WU"/>
+*[[Greengrass family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Greengrass family]]
+}}
+'''Cereus Greengrass''' was a [[Great Britain|British]] woman, who was a member of the [[Greengrass family]], an ancient family that was part of the [[Sacred Twenty-Eight]].<ref name="WU">{{WU}}</ref>
+
+She had a [[blood malediction]], for which both [[Gareth Greengrass|her father]] and [[Harry Potter]] were desperate to find a cure.<ref name="WU"/>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+{{DEFAULTSORT:Greengrass, Cereus}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Greengrass family|Cereus]]

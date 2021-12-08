@@ -1,0 +1,51 @@
+{{HogwartsLegacySpoiler}}
+{{Unreleased}}
+{{conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 19th-century Potions teacher - HL.png
+|name = 19th-century Potions professor
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HL"/>
+|gender = Male<ref name="HL"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HL"/>
+|eyes = 
+|skin = Light<ref name="HL"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Potions Master]] at [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HL"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HL"/>
+}}
+This '''[[Wizardkind|wizard]]''' taught [[Potions (class)|Potions]] at [[Hogwarts School of Witchcraft and Wizardry]] in the late [[19th century]].<ref name="HL">{{HL}} ([https://youtu.be/1O6Qstncpnc see video])</ref>
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': As an old [[Potions Master]] at [[Hogwarts School of Witchcraft and Wizardry]], he would have been a highly skilful and accomplished [[Potioneer]].<ref name="HL"/>
+
+==Appearances==
+*{{HL}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Staff}}
+{{Potions}}
+{{Character-stub}}
+[[pl:Niezidentyfikowany profesor eliksirów z XIX-wieku]]
+[[Category:British or Irish individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Potions Masters]]
+[[Category:Wizards]]

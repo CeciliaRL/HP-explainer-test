@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Wizard who killed a Chimaera
+|hideb=hide
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|There is only one known instance of the successful slaying of a Chimaera and the unlucky wizard concerned fell to his death from his winged horse shortly afterwards, exhausted by his efforts.|[[Newton Scamander]] on the danger of Chimaeras.|Fantastic Beasts and Where to Find Them (real)}}
+
+This '''wizard''' is the only known person to successfully kill a [[Chimaera]]. It is unknown how he did so other then that he rode a [[winged horse]] during the conflict, and that he died shortly afterward from collapsing off his horse from exhaustion.<ref>''[[Fantastic Beasts and Where to Find Them (companion book)|Fantastic Beasts and Where to Find Them (real)]]''</ref>
+
+==Behind the scenes==
+*This character is most likely a reference to {{wplink|Bellerophon}}, an ancient Greek hero who defeated the mythical {{wplink|Chimaera}} from the back of the winged horse {{wplink|Pegasus}}. He also collapsed from his steed after the encounter, but not from exhaustion; he felt that his defeat of the Chimaera was enough to earn him a place among the gods, and attempted to fly to Mount Olympus. He was stopped by Zeus, who sent a gadfly to bite Pegasus and make Bellerophon fall off. Furthermore, he did not die from the fall, but was merely injured enough to live out the rest of his days as a blinded, crippled hermit.<ref>{{wplink|Bellerophon}} on Wikipedia</ref>
+
+==Appearances==
+*{{FB|R}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Accidental deaths]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

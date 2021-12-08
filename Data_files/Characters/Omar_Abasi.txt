@@ -1,0 +1,73 @@
+{{Spoiler|WU}}
+{{Individual infobox
+|theme = st-mungo-employee
+|image = [[File:Omar Abasi.png|250px]]
+|name = Omar Abasi
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBC"/>
+|alias = 
+|title = [[Healer]]<ref name="FBC"/>
+|signature = 
+|species = [[Human]]<ref name="FBC"/>
+|gender = Male<ref name="FBC"/>
+|height = 
+|weight = 
+|hair = Black<ref name="FBC"/>
+|eyes = Brown<ref name="FBC"/>
+|skin = Dark<ref name="FBC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Healer]]<ref name="FBC"/>
+|house = 
+|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="FBC"/>
+}}
+{{Quote|I think that's enough excitement for now, [[Mathilda Grimblehawk|Mathilda]]. I prescribe tea, cake, and plenty of rest.|Healer Abasi tends to [[Bethany Harrison]]|Fantastic Beasts: Cases from the Wizarding World}}
+'''Omar Abasi''' was a [[Wizardkind|wizard]] who worked as a [[healer]] at [[St Mungo's Hospital for Magical Maladies and Injuries]], working on the first floor and tended to patients suffering from [[creature]]-induced Injuries, an area at which he was an expert.<ref name="FBC">{{FBC}}</ref>
+
+==Biography==
+===Early career===
+At some point in his life, Omar successfully underwent the required tutelage to become a fully-fledged [[Healer]] and were eventually successful at obtaining a position at [[St Mungo's Hospital for Magical Maladies and Injuries]] in [[London]], where he worked in the [["Dangerous" Dai Llewellyn Ward for Serious Bites]] on the first floor, specialising in creature-induced injuries.<ref name="FBC1"/>
+
+===Working with the Ministry===
+At some point in his career, Omar was drafted in for conjecture by the [[Beast Division]] in the [[Department for the Regulation and Control of Magical Creatures]] at the [[British Ministry of Magic|Ministry of Magic]], wherein he would lend its investigators his expertise and give his opinion on cases they were working on. At one point, he attended to [[Chudley Cannons]]' [[keeper]] [[Gordon Horton]] after he was attacked at the [[Chudley Cannons's training ground]] and diagnosed him with a mild concussion. He also noted that Horton's kit had been badly torn, likely by sharp claws.<ref name="FBC1" />
+
+His observation was indeed correct, as the investigators from the [[Department for the Regulation and Control of Magical Creatures]] discovered Mr Horton had been attacked by a [[Hippogriff]].<ref name="FBC1">{{FBC|1}}</ref>
+
+He later used the [[Memory Charm]] to erase the memories of the [[Non-magic people|Muggle]] [[Laura Thorn]] after she had found about a [[Mountain troll]].<ref name="FBC2"/>
+
+==Magical abilities and skills==
+*'''[[Healing magic]]''': As a professional [[Healer]], he was highly adept and knowledgeable in the field of healing magic. He was an expert at dealing with [[creature]]-induced injuries.<ref name="FBC1"/> In order to have become a Healer, he would have had at least five [[Nastily Exhausting Wizarding Test|N.E.W.T.s]] in the subjects of [[Charms (class)|Charms]], [[Transfiguration (class)|Transfiguration]], [[Herbology]], [[Potions (class)|Potions]] and [[Defence Against the Dark Arts]], all at either "[[Exceeds Expectations]]" or "[[Outstanding]]" level.<ref name="OOTP29">{{OOTP|B|29}}</ref>
+*'''[[Charm]]s''': Being a Healer, Abasi was accomplished with charms. In addition for needing both an O.W.L. and N.E.W.T. in the subject at high grades for his career,<ref name="OOTP29"/> he was also capable of using the [[Memory Charm]] to erase the memories of the Muggle [[Laura Thorn]] after she had discovered a [[Mountain troll]],<ref name="FBC2">{{FBC|2}}</ref> showing his proficiency in the field.
+
+==Behind the scenes==
+*Based on {{w|Abbasi (surname)|his surname}}, it is possible that he may have been of West Asian or South Asian descent.
+
+==External links==
+*[https://www.youtube.com/watch?v=-LCMPyqiQI8&feature=youtu.be Youtube - FANTASTIC BEASTS: CASES Android Gameplay]
+
+==Appearances==
+*{{FBC}} {{1st}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+{{St Mungo's}}
+{{DEFAULTSORT:Abasi, Omar}}
+[[es:Omar Abasi]]
+[[fr:Omar Abasi]]
+[[pl:Omar Abasi]]
+[[ru:Омар Абаси]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Healers]]
+[[Category:Males]]
+[[Category:St Mungo's employees]]
+[[Category:Wizards]]

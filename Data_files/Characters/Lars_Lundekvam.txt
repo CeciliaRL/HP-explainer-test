@@ -1,0 +1,28 @@
+{{Individual infobox
+|name = Lars Lundekvam
+|born = After [[1976]]<ref name="age">[[Viktor Krum]], born [[1976]], was said to be the oldest player at the [[2014 Quidditch World Cup]].</ref>
+|nationality = [[Norway|Norwegian]]
+|title = [[Chaser]]
+|species = [[Human]]
+|gender = Male
+|job = [[Chaser]] for the [[Norwegian National Quidditch team]]
+|loyalty = [[Norwegian National Quidditch team]]
+|theme = quidditch-player
+}}'''Lars Lundekvam''' was [[Norway|Norwegian]] [[Wizardkind|wizard]] who played as a [[Chaser]] for the [[2014]] [[Norwegian National Quidditch team]].
+
+==Biography==
+During the first match of the [[2014 Quidditch World Cup]] against the [[Ivorian National Quidditch team|Ivory Coast]], Lundekvam twice suffered [[jinx]]es cast at him from members of the crowd, leading the match to be halted while security wizards located the culprits.<ref name="PM">{{PM}} - [[NORWAY VERSUS IVORY COAST]] (Archived)</ref> These unprovoked attacks were presumably due to the crowd's distaste at the Norwegian team, as their mascot, a [[Selma]], had instigated a fight against the [[Fiji]]an [[Dukuwaqa]] that escalated into a chaotic riot amongst the mascots that left three hundred wizards injured.<ref name="PM2">{{PM}} - [[DISASTROUS OPENING CEREMONY LEADS TO QUESTIONS ABOUT QUIDDITCH WORLD CUP SECURITY]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Lundekvam, Lars}}
+[[de:Lars Lundekvam]]
+[[fr:Lars Lundekvam]]
+[[pl:Lars Lundekvam]]
+[[ru:Ларс Люндквам]]
+[[Category:Chasers]]
+[[Category:Males]]
+[[Category:Norwegian individuals]]
+[[Category:Wizards]]

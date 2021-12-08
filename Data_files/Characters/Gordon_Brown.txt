@@ -1,0 +1,49 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Gordon Brown
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chancellor of the Exchequer]]
+|house = 
+|loyalty = 
+}}
+'''Gordon Brown''' was a [[Non-magic people|Muggle]] British politician and [[Chancellor of the Exchequer]] sometime before the [[1990s]]. In July of [[1996]], chancellor [[Alistair Darling]] announced "controversial changes" to the [[capital gains tax]]. [[Mark Constantine]] told ''[[The Guardian]]'' that the measures would alienate the business community that Gordon Brown, as Chancellor, had fought to attract to the [[Labour Party]].<ref>{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Behind the scenes==
+{{Quote|Hello Jo. I have just returned from India, China, other countries during the course of the last year, and every young person I've met, has been reading your books. You have done more for literacy and reading and helping young children start to read than I believe anybody in our country, indeed, anybody on this continent. So congratulations on your latest book. We're incredibly proud of what you've achieved.|Gordon Brown, "Harry Potter: A Blue Peter Special".|http://www.accio-quote.org/articles/2007/0720-bluepeter.html}}
+*The listing of [[Wikipedia:Gordon Brown|Gordon Brown]] as Chancellor of the Exchequer sometime before 1996 is anachronistic, as Brown ''was'' the chancellor at the time.
+*[[J. K. Rowling]] has been a long-term friend of Gordon Brown, his family, and his party, donating £1 million to the Labour Party in [[September]] of [[2008]], being present during the birth of his son Fraiser, and supporting both him and his actions in various public statements.
+*When asked what [[Hogwarts Houses|house]] she would sort Gordon Brown into if she were the [[Sorting Hat]], J. K. Rowling went with [[Gryffindor]], though she merely based her choice on the fact that both Gryffindor and the Labour Party use red for their colours.<ref>[http://www.accio-quote.org/articles/2007/0720-bluepeter.html 'Harry Potter: A Blue Peter Special.' Blue Peter (CBBC), July 20 2007.]</ref>
+
+==Appearances==
+*{{HBP|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Brown, Gordon}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Politicians]]

@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = [[File:Malcolm Preece.png]]
+|name = Malcolm Preece
+|born = [[31 August]] [[1982]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Chaser]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="QWC"/>
+|eyes = Blue<ref name="QWC"/>
+|skin = Light<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="QWC"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="QWC"/>
+**[[Hufflepuff Quidditch team]]<ref name="QWC"/>
+**[[Hufflepuff]]<ref name="QWC"/>
+}}
+'''Malcolm Preece''' was a [[Wizardkind|wizard]] and student of [[Hogwarts School of Witchcraft and Wizardry]], [[Sorting ceremony|sorted]] into [[Hufflepuff]] who was a [[Chaser]] on the [[Hufflepuff Quidditch team]] when it was captained by [[Cedric Diggory]].<ref name="QWC">{{QWC}}</ref>
+
+==Etymology==
+The name "Malcolm" is from Scottish Máel Coluim which means "disciple of Saint Columba". This was the name of four kings of Scotland starting in the 10th century, including Malcolm III, who became king after killing Macbeth, the usurper who had murdered his father. The character Malcolm in Shakespeare's tragedy ''Macbeth'' (1606) is based on him.
+
+==Appearances==
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Preece, Malcolm}}
+[[de:Malcolm Preece]]
+[[es:Malcolm Preece]]
+[[pl:Malcolm Preece]]
+[[ru:Малькольм Прис]]
+[[Category:20th century births]]
+[[Category:Blue-eyed individuals]]
+[[Category:British or Irish individuals]]
+[[Category:Chasers]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Wizards]]

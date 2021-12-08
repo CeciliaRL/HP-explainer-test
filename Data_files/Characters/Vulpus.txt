@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme=hogwarts-staff
+|image=[[File:Vulpus.JPG|250px]]
+|name=Vulpus
+|hideb=
+|born=
+|died=In or before [[1992]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, Vulpus must have died sometime in or before [[1992]], given his portrait's appearance in the [[Headmaster's office]] in {{COS|FA}}.</ref>
+|blood=
+|alias=
+|nationality={{GBorIE}}
+|title=*[[Professor]]
+*[[Headmaster]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=Brown
+|eyes=
+|skin=White
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Headmaster of [[Hogwarts School of Witchcraft and Wizardry]] (formerly)
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]
+}}'''Professor Vulpus'''<ref name="HPLE">{{HPLE}} (''The Paintings of Hogwarts'')</ref> was a [[Wizardkind|wizard]]. It is unknown if he was a [[Muggle-born]], [[half-blood]] or [[Pure-blood|pure blood]].
+
+==Biography==
+===Lifetime===
+Professor Vulpus was appointed as [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] sometime before [[Armando Dippet]].
+
+===Post-mortem===
+After his death, his [[Headmaster portraits|portrait]] was hung in the [[Headmaster's office]] in order to give advice to the current Head.<ref name="COSF">{{COS|F}} DVD (Disc 2 - ''Dumbledore's Office'')</ref>
+
+==Etymology==
+*The name ''Vulpus'' may come from ''[[wikipedia:Vulpes|Vulpes]]'', the Latin word for "fox".
+
+==Appearances==
+*{{COS|F}} {{Portrait}}
+*{{WWHP}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Staff}}
+{{Hogwarts towers}}
+[[de:Professor Vulpus]]
+[[pl:Vulpus]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Budleigh Babberton milkman
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Milkman<ref name="LEGOY2"/>
+|house = 
+|loyalty = [[Budleigh Babberton]]
+}}
+This '''individual''' was a [[Non-magic people|Muggle]] served [[Budleigh Babberton]] in the capacity of milkman during the [[1990s]].<ref name="LEGOY2">{{LEGO|Y2}}</ref>
+
+==Behind the scenes==
+*This character does not appear during the main game, however, his milk float can be seen and interacted with. He is one of the game's unlockable characters, and appears nearly identical to [[Little Hangleton milkman|another milkman]] in the first LEGO game.
+
+==Appearances==
+*{{LEGO|Y2}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Laitier de Budly Babberton]]
+[[pl:Mleczarz z Budleigh Babberton]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Milkmen]]
+[[Category:Unidentified Muggles‎]]

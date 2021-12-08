@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Paul Males owl post.png|250px]]
+|name = Paul Males
+|born = Between [[1973]] and [[1980]],
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Paul Males''' (born c. [[1970s]]) was a [[wizardkind|wizard]] who was attending [[Hogwarts School of Witchcraft and Wizardry]] during the [[1991–1992 school year]].<ref name="MOHP">{{MHP}} {{see image|File:Paul Males owl post.png}}</ref>
+
+In [[1991]], he received a letter via [[Owl Postal Service|owl post]], incorrectly addressed to him at "''School Of Witchcraft & Wizzardry''".<ref name="MOHP"/>
+
+==Appearances==
+*{{PS|F}} {{C|Possible appearance}}
+*{{MHP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Males, Paul}}
+[[pl:Paul Males]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,30 @@
+{{Individual infobox
+|image = [[File:CyprienAlesi.png|250px]]
+|name = Cyprien Alesi
+|born = before [[1977]] (most likely)
+|nationality = [[France|French]]<ref name="QWC"/>
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|hair = Brown<ref name="QWC"/>
+|skin = White<ref name="QWC"/>
+|job = [[Quidditch referee]]<ref name="QWC"/>
+|theme = wizard
+}}'''Cyprien Alesi''' was a [[France|French]] [[wizardkind|witch]] and a [[Quidditch referee]].<ref name="QWC">{{QWC}}</ref>
+
+==Etymology==
+"Cyprien" or 'Cyprian' is from the Roman family name Cyprianus which meant "from Cyprus" in Latin. Saint Cyprian was a 3rd-century bishop of Carthage and a martyr under the emperor Valerian.
+
+==Appearances==
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Alesi, Cyprien}}
+
+[[es:Cyprien Alesi]]
+[[pl:Cyprien Alesi]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Quidditch referees]]
+[[Category:Wizards]]

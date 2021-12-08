@@ -1,0 +1,56 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Nicolaus Copernicus
+|born = [[19 February]], [[1473]]<br />[[Wikipedia:Royal Prussia|Royal Prussia]], [[Poland]]
+|died = [[24 May]], [[1543]]<br />[[Wikipedia:Royal Prussia|Royal Prussia]], [[Poland]] (aged 70)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Astronomy (class)|Astronomer]]
+|house = 
+|loyalty = 
+}}
+{{Quote|Paracelsus (1493—1541): Contemporary of Copernicus and [[Leonardo Da Vinci]]. A medical genius whose bold theories challanged[sic] medieval thought. Credited with discovering [[Parseltongue]].|[[Phillipus von Hohenheim|Paracelsus]]'s [[Chocolate Frog Card]]|Harry Potter and the Chamber of Secrets (video game)}} 
+'''Nicolaus Copernicus''' (b. [[19 February]], [[1473]]—[[24 May]], [[1543]]) was a [[Poland|Polish]] [[Wikipedia:Polymath|polymath]] who lived during the Renaissance era.<ref name="wikipedia">"[http://en.wikipedia.org/wiki/Nicolaus_Copernicus Nicolaus Copernicus]" at [[Wikipedia:Main Page|Wikipedia]]</ref> He was a contemporary of [[Phillipus von Hohenheim|Paracelsus]] and [[Leonardo Da Vinci]].<ref name="CSpc">{{COS|G}} - PC version</ref>
+
+Copernicus is best known for his [[Astronomy (class)|astronomical]] work. This included coming up with the first comprehensive heliocentric cosmology, which displaced the [[Orrery|Earth]] from the centre of the universe.<ref name="wikipedia" /> In addition, he was a mathematician, astronomer, physician, quadrilingual polyglot, classical scholar, translator, artist, Catholic cleric, jurist, governor, military leader, diplomat and economist.<ref name="wikipedia" />
+
+==Appearances==
+*{{COS|G}} {{FWC mention}} {{Comment|[[Phillipus von Hohenheim|Paracelsus]]}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Copernicus, Nicolaus}}
+[[es:Copérnico]]
+[[fr:Copernic]]
+[[pt-br:Nicolau Copérnico]]
+[[pl:Mikołaj Kopernik]]
+[[Category:1473 births]]
+[[Category:1543 deaths]]
+[[Category:Astronomers]]
+[[Category:Authors]]
+[[Category:Clergy]]
+[[Category:Historical figures]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Physicians]]
+[[Category:Polish individuals]]
+[[Category:Translators]]

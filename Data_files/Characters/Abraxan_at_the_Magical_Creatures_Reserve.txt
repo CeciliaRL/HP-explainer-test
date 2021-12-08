@@ -1,0 +1,36 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = AbraxanAtTheMagicalCreaturesReserve.jpg
+|name = Abraxan at the Magical Creatures Reserve
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Abraxan]]<ref name="HA">{{HM}}, Year ?, Side Quest "Horsing Around"</ref>
+|gender = 
+|height = 
+|hair = White<ref name="HA"/>
+|feathers = 
+|eyes = Black<ref name="HA"/>
+|skin = Palomino<ref name="HA"/>
+|family = 
+|loyalty = [[Magical Creatures Reserve]]<ref name="HA"/>
+}}
+This '''[[Abraxan]]''' lived in the [[Magical Creatures Reserve]] in the [[1980s]].<ref name="HA"/>
+
+==Biography==
+[[File:AbraxanScared.jpg|150px|thumb|left|The Abraxan scared of shadows]]
+During the late [[1980s]], this [[Abraxan]] lived on the Grasslands in the [[Magical Creatures Reserve]], and [[Jacob's sibling]] would often bond with and feed this [[Abraxan]]. As a part of [[Rubeus Hagrid]]'s research on Abraxans, it was brought to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] grounds, but became afraid of its own shadows. Jacob's sibling and [[Penny Haywood]] soothed it and gave it a bucket of [[single-malt whiskey]]. They ended up finishing the research with Hagrid in the Reserve.<ref name="HA"/>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Creature-stub}}
+{{Magical Creatures Reserve}}
+[[Category:Abraxans]]
+[[Category:Black-eyed individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Magical Creatures Reserve]]

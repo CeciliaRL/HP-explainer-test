@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Wendy Slinkhard.jpg|250px]]
+|name = Wendy Slinkhard
+|born = between [[1914]] and [[1970]]<ref>[[Horace Slughorn]] resigned from his [[Professor|teaching position]] in [[1981]], meaning Slinkhard would have been a member of the [[Slug Club]] by at least then. Slughorn began teaching in 1931.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Brown
+|eyes = 
+|skin = White
+|family = [[Wilbert Slinkhard]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slug Club]]
+*[[Slinkhard family]]
+}}
+'''Wendy Slinkhard''' was a British [[Wizardkind|witch]] who wrote at least one book.<ref>[http://www.cosforums.com/showthread.php?t=117938 The All Inclusive HBP List] on Cosforums.com</ref><ref>"[http://www.snitchseeker.com/harry-potter-news/nina-voelker-talks-half-blood-prince-role-54546 Nina Voelker talks Half-Blood Prince role]" from SnitchSeeker.com</ref> While at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], she studied under [[Horace Slughorn]], and was selected to join the [[Slug Club]]. Slughorn kept a picture of the two, showing Wendy signing a copy of her book to Slughorn.<ref>{{HBP|F}} - Chapter 2</ref>
+
+Wendy may be related to [[Wilbert Slinkhard]], the author of ''[[Defensive Magical Theory]]''.
+
+==Behind the scenes==
+*Wendy appears only in {{HBP|FA}} and is portrayed by [[Nina Aimer Fox]].
+*It is possible, as a former [[Slug Club]] member, she attended the [[Slug Club Christmas party|Christmas party]] in [[1996]].
+
+==Etymology==
+In the case of the character from J. M. Barrie's play ''Peter Pan'' (1904), the name "Wendy" was created from the nickname fwendy "friend", given to the author by a young friend. However, the name was used prior to the play (rarely), in which case it could be related to the Welsh name Gwendolen and other names beginning with the element gwen meaning "white, fair, blessed".
+
+==Appearances==
+*{{HBP|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Slinkhard, Wendy}}
+
+[[de:Wendy Slinkhard]]
+[[pl:Wendy Slinkhard]]
+[[Category:Authors]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+
+[[Category:Slinkhard family|Wendy]]
+[[Category:Slug Club]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

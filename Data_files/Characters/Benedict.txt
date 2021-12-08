@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Brother Benedict
+|born = [[Middle Ages]]
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Franciscan Monk
+|house = 
+|loyalty = 
+}}
+'''Brother Benedict''' was a [[Franciscans|Franciscan]] monk from [[Worcestershire]] during the [[Middle Ages]].<ref name="FBR">{{FB|R}}</ref> 
+
+==Biography==
+While in the Monastery's herb garden, he uncovered what he believed to be a ferret rooting around. However, it was a [[Jarvey]], who yelled ''"Get out of it, baldy!"'' then bit him on the nose. When he related the tale to the [[Friar]], he was not believed, and asked if he had been drinking [[Boniface|Brother Boniface]]'s [[Turnip Wine]]. Since his nose was bleeding heavily, Brother Benedict was excused from [[Vespers]].<ref name="FBR">{{FB|R}}</ref>
+
+Brother Benedict later recorded the incident on a manuscript, which survived to the [[20th century]], and referenced by [[Newton Scamander|Newt Scamander]] in his [[Magizoology]] book {{FB}}.<ref name="FBR">{{FB|R}}</ref>
+
+==Etymology==
+The name "Benedict" comes from the Late Latin name Benedictus which meant "blessed". Saint Benedict was an Italian monk who founded the Benedictines in the 6th century. After his time the name was common among Christians, being used by 16 popes. In England it did not come into use until the 12th century, at which point it became very popular. This name was also borne by the American defector Benedict Arnold (1741-1801).
+
+==Appearances==
+*{{FB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Bruder Benedikt]]
+[[fr:Frère Benedict]]
+[[pl:Benedykt]]
+[[pt-br:Benedito]]
+[[Category:Clergy]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

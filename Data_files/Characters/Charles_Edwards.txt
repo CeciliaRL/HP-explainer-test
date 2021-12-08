@@ -1,0 +1,42 @@
+{{Transcribed image|File:CharlesWEdwardsOffice.jpg}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Charles W. Edwards
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Charles W. Edwards''' was an [[United States of America|American]] [[Muggle|No-Maj]] who had an office inside the [[Woolworth Building]] in [[New York]] in [[1926]].<ref name="pottermorevid">{{PM}} - [https://www.facebook.com/pottermore/videos/1110333645667665/ Fantastic Beasts and Where to Find Them: Behind the Scenes Feature] {{see image|File:CharlesWEdwardsOffice.jpg}}</ref> 
+
+==Appearances==
+*{{FB|F}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Edwards, Charles W.}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

@@ -1,0 +1,47 @@
+{{youmay|the [[United States of America|American]] [[Non-magic people|No-Maj]]|[[Martha (disambiguation)|someone else with this name]]}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Martha
+|born = 
+|died = 
+|blood = [[Non-magic people|No-Maj]]
+|marital = 
+|nationality = [[United States of America|American]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Martha''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] woman who lived in the early [[20th century]].<ref name="FB5">{{FB|S|5}}</ref>
+
+==Biography==
+While at the scene of a [[Obscurial|mysterious attack]] in [[New York]] in [[1926]], a [[Unidentified reporter|newspaper reporter]] asked his [[Unidentified photographer (II)|photographer colleague]] if he felt like getting a drink, to which the photographer replied that he had promised Martha (presumably his wife or girlfriend) that he would abstain from consuming [[alcohol]].<ref name="FB5" />
+
+==Appearances==
+*{{FB|S}} {{1st Mention}}
+*{{FB|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Marta (niemagiczna Amerykanka)]]
+
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Muggles]]

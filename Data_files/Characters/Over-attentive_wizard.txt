@@ -1,0 +1,42 @@
+{{Imageless}}
+{{Individual infobox
+|theme=wizard
+|name = Over-attentive wizard
+|image =
+|born =
+|died =
+|blood =
+|marital =
+|nationality = [[Great Britain|British]]<ref name="CC"/>
+|alias =
+|title =
+|signature =
+|species = [[Human]]<ref name="CC"/>
+|gender = Male<ref name="CC"/>
+|height =
+|weight =
+|hair =
+|eyes =
+|skin =
+|family =
+|romances =
+|animagus =
+|boggart =
+|wand =
+|patronus=
+|job =
+|house =
+|loyalty =
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who asked [[Harry Potter]] if he would sign something for him while at [[Platform Nine and Three-Quarters]].<ref name="CC">{{CC|B|1|4}}</ref>
+
+==Appearances==
+*{{CC}} {{1st}}
+*{{CC|P}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

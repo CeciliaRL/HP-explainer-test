@@ -1,0 +1,37 @@
+{{Individual infobox
+|theme=wizard
+|name = Drooble
+|image=
+|species = [[Human]]<ref name="PS6"/><ref name="OOTP23"/>
+|job = Inventor, Confectioner<ref name="PS6"/><ref name="OOTP23"/>
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|house=
+|loyalty=
+}}
+'''Drooble''' was a [[Wizardkind|wizard or witch]] who invented [[Drooble's Best Blowing Gum]] at an unknown time.<ref name="PS6">{{PS|B|6}}</ref><ref name="OOTP23">{{OOTP|B|23}}</ref>
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{GOF|F}} {{Mention}}
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[pl:Droople]]
+[[Category:Confectioners]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Inventors]]
+[[Category:Wizards]]

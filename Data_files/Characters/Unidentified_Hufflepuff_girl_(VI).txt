@@ -1,0 +1,44 @@
+{{Notability}}
+{{Conjecture}}
+{{Individual infobox
+|theme = hufflepuff
+|image = Unidentified Hufflepuff girl OOTPF.jpg
+|name = Unidentified Hufflepuff girl (VI)
+|born =
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTPF"/>
+|gender = Female<ref name="OOTPF"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="OOTPF"/>
+|eyes = 
+|skin = Pale<ref name="OOTPF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand =
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="OOTPF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTPF"/>
+**[[Hufflepuff]]<ref name="OOTPF"/>
+}}
+This '''girl''' was a [[Wizardkind|witch]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She was sorted into [[Hufflepuff]] in a unknown year. In [[1995]], she, along with [[Cho Chang]] and [[Fred Weasley|Fred]] and [[George Weasley]], watched [[Argus Filch]] hammer notices into a wall, displaying [[Dolores Umbridge]]'s [[Educational Decree]]s.<ref name="OOTPF">{{OOTP|F}}</ref>
+
+==Appearances==
+*{{OOTP|F}} {{1st}} 
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Unidentified Hufflepuffs]]
+[[Category:Wizards]]

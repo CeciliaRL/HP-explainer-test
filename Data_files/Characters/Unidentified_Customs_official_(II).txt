@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Youmay|the {{LEGO|D}} character|[[Unidentified Customs official|the character from the ''Fantastic Beasts and Where to Find Them'' film adaptation]]}}
+{{Individual infobox
+|theme = muggle
+|image = File:ship guy.png
+|name = Unidentified Customs official (II)
+|born = 
+|died = 
+|blood = [[Non-magic people|No-Maj]]
+|marital = 
+|nationality = [[United States of America|American]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Customs Officer
+|house = 
+|loyalty = [[Port Authority]] of [[New York]]
+}}
+This '''Customs official''' worked within the [[Port Authority]] of [[New York|New York City]] collecting and managing passengers' luggage.
+
+==History==
+In [[1926]], he was influenced by [[Queenie Goldstein]] into moving luggage. After that, he left his job early unbeknownst to [[Port Authority boss|his boss]].<ref name="LD">{{LEGO|D}} (see [https://www.youtube.com/watch?v=UNRWFaIjA9o this video])</ref>
+
+==Appearances==
+
+*{{LEGO|D}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

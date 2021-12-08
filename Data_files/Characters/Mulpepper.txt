@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Mulpepper.jpg|250px]]
+|name = Mr Mulpepper
+|born = Before [[1974]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = White
+|eyes = Blue
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Owner of [[Mr Mulpepper's Apothecary]]
+*[[Potioneer]]
+|house = 
+|loyalty = [[Mr Mulpepper's Apothecary]]
+}}
+{{Dialogue a-b-a-b|Harry Potter|Excuse me, how much is this potion [[Phial|vial]]?|Mr Mulpepper|It costs eight [[Sickle]]s.|I'd like to buy that please.|Thank you. You're very welcome to fill your Potion Vial with [[Wiggenweld potion|Wiggenweld stamina potion]]. The Wiggenweld's in the large [[cauldron]] over there.|Mr Mulpepper making a sale|Harry Potter and the Chamber of Secrets (video game)}}
+'''Mr Mulpepper''' was a [[Wizardkind|wizard]] and [[potioneer]] who owned and ran [[Mr Mulpepper's Apothecary]]. In [[1992]], he sold [[Harry Potter]] a potion [[Phial|vial]] for eight [[Sickle]]s.<ref>{{COS|G}}</ref> He also sold Harry and [[Ginevra Weasley|Ginny Weasley]] two potion kits for the price of five [[Wizarding currency|sickles]] each.<ref>{{COS|G}} {{C|Game Boy version only}}</ref>
+
+==Behind the scenes==
+[[File:Screenshot 1065.png|165x165px|thumb|left]]
+*'Mulpepper' seems to be a reference to [[Wikipedia:Nicholas Culpeper|Nicholas Culpeper]], an English botanist and pharmacologist who was accused of witchcraft after angering his fellow physicians by condemning their greed and their use of harmful practises such as toxic remedies and bloodletting. A revolutionary, Culpeper was able to provide his services for free. This, and a willingness to examine patients in person rather than simply examining their urine created an affray between him and the Society of Apothecaries, who were similarly incensed by the fact that he suggested cheap herbal remedies as opposed to their expensive concoctions.
+
+==Appearances==
+*{{PS|F}} {{Name on sign}}
+*{{PS|G}} {{1st}} {{Comment|GBC version only}}
+*{{COS|F}} {{Name on sign}}
+*{{COS|G}} {{Comment|GBC, GBA and PS2 versions only}}
+*{{HBP|F}} {{Name on sign}}
+*{{LEGO|Y1}} {{Name on sign}}
+*{{LEGO|Y2}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley}}
+{{Knockturn Alley}}
+{{Potions}}
+
+[[es:Mulpepper]]
+[[fr:Mr Mulpepper]]
+[[pl:Mulpepper]]
+[[pt-br:Mulpepper]]
+[[ru:Мистер Малпеппер]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Potioneers]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

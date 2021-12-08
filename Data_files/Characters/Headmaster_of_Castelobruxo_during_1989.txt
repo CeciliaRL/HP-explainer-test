@@ -1,0 +1,57 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Headmaster of Castelobruxo
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=*[[Professor]]
+*[[Headmaster]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Headmaster]] of [[Castelobruxo]] (c. 1989)
+|house=
+|loyalty=[[Castelobruxo]]
+}}
+{{Quote|Our Headmaster joked that Castelobruxo is going to be a lot quieter with me gone.|[[Alanza Alves]]|Harry Potter: Hogwarts Mystery}}
+This '''individual''' (fl. [[1989]]) was a [[Headmaster]] of [[Castelobruxo]] during the late [[1980s]].<ref name="HM622">{{HM|6|22}}</ref>
+
+==Biography==
+When Castelobruxo student [[Alanza Alves]] applied to go to [[Hogwarts School of Witchcraft and Wizardry]] as a foreign exchange student in the [[1989–1990 school year]], the Headmaster jokingly remarked that the school was going to be a lot quieter with her gone.<ref name="HM622"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Benedita Dourado]]
+|position=Head of [[Castelobruxo]]
+|years=c. [[1989]]
+|successor=Unknown
+}}
+{{End box}}
+[[Category:Castelobruxo staff]]
+[[Category:Headmasters]]
+[[Category:Males]]
+[[Category:South American individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Heathcote Barbary.JPG|250px]]
+|name = Heathcote Barbary
+|born = [[1974]]<ref name="COSG"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="COSG"/>
+|eyes = 
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Rhythm guitar]]ist for the [[Weird Sisters]]<ref name="COSG"/>
+|house = 
+|loyalty = The [[Weird Sisters]]<ref name="COSG"/>
+}}
+{{Quote|Ma ma ma, ma ma ma, ma ma ma|In the song|Harry Potter and the Goblet of Fire (film)}}
+'''Heathcote Barbary''' (b. [[1974]]) was a [[Wizardkind|wizard]] and the [[rhythm guitar]]ist for the popular [[Wizarding world|wizarding]] band the [[Weird Sisters]].<ref name="COSG">{{COS|G}}</ref> On [[25 December]] [[1994]], he performed at the [[Yule Ball]] along with the rest of his band at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="GOF23">{{GOF|B|23}}</ref>
+
+==Behind the scenes==
+*Barbary was portrayed by [[Jason Buckle]] in {{GOF|FA}}.
+*If he attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], he would have been in school between [[1985]] and [[1992]], which means he would have been in his [[seventh year]] when [[Harry Potter]] was in his [[first year]].
+
+==Appearances==
+{{Imagecat|Images of Heathcote Barbary}}
+*{{PS|G}} {{FWC}} 
+*{{COS|G}} {{FWC}} {{1st ID}}
+*{{GOF}} {{1st}} {{C|Unnamed}}
+*{{GOF|F}}
+
+==Notes and references==
+{{Reflist}}
+{{Weird Sisters}}
+{{Chocolate Frog Cards}}
+{{DEFAULTSORT:Barbary, Heathcote}}
+[[de:Heathcote Barbary]]
+[[es:Heathcote Barbary]]
+[[fi:Heathcote Barbary]]
+[[fr:Heathcote Barbary]]
+[[it:Heathcote Barbary]]
+[[pl:Heathcote Barbary]]
+[[ru:Хиткот Барбари]]
+[[Category:1974 births]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Males]]
+[[Category:Weird Sisters]]
+[[Category:Wizards]]

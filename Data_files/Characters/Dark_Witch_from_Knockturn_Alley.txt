@@ -1,0 +1,60 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = dark-wizard
+|image = Verucca HM.png
+|name = Dark Witch from Knockturn Alley
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM510">{{HM|5|10}}</ref>
+|gender = Female<ref name="HM510"/>
+|height = 
+|weight = 
+|hair = White<ref name="HM645"/>
+|eyes = Brown<ref name="HM510"/>
+|skin = Pale<ref name="HM510"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[R]]<ref name="HM635">{{HM|6|35}}</ref>
+*[[Knockturn Alley]]<ref name="HM510"/>
+}}
+The '''Dark Witch from Knockturn Alley''' was a high-ranking member of a dangerous organisation known as [[R]].<ref name="HM715">{{HM|7|15}}</ref>
+
+==Biography==
+===1988–1989 school year===
+During the [[1988–1989 school year]], when [[Jacob's sibling]] and a friend visited [[Knockturn Alley]], she prevented them from entering [[Borgin and Burkes]] and asked for a sacrifice. She duelled them and attracted more witches and wizards. However, [[Patricia Rakepick]] arrived in time and defeated them, including the witch.<ref name="HM510"/>
+
+===1989–1990 school year===
+During the [[1989–1990 school year]], she attended a secret meeting of [[R]], which [[Jacob's sibling]] infiltrated impersonating [[Patricia Rakepick]] using [[Polyjuice Potion]]. When the real Rakepick [[Apparition|Apparated]] onto the scene, she helped her fight Jacob's sibling's team.<ref name="HM635"/>
+
+At some point near the end of the school year, she was seen in the [[Hog's Head Inn]] and was unknowingly eavesdropped by Jacob's sibling and [[Mundungus Fletcher]] while talking about meeting someone later. In [[Knockturn Alley]], she met [[Merula Snyde]], who was ready to join [[R]]. Then she transformed into her original look and took Merula with her.<ref name="HM645">{{HM|6|45}}</ref>
+
+===1990–1991 school year===
+During the [[1990–1991 school year]], originally disguised as [[Wilkie Twycross]], she revealed herself during a meeting with [[Zenith Xeep]] in [[Knockturn Alley]] and talked about [[Xeep's Luscious Locks Solution]] and the [[Wand stolen by Zenith Xeep|wand Zenith had stolen]] from [[Ollivanders]]. When Zenith was about to give her the wand, [[Ben Copper]], who had been secretly watching with [[Jacob's sibling]], interrupted them, and the Dark Witch used the [[Stunning Spell]] on him. When Jacob's sibling also emerged, she [[Apparition|Disapparated]].<ref name="HM714">{{HM|7|14}}</ref>
+
+==Magical abilities and skills==
+*'''[[Dark Arts]]''': As a [[Dark Wizard|Dark Witch]], she was highly proficient in dark magic.<ref name="HM510"/><ref name="HM635"/> She was capable of performing the [[Slug-vomiting Charm]] proficiently.<ref name="HM510"/>
+*'''[[Duelling]]''': She was an excellent duellist, as she held her own against [[Nymphadora Tonks]].<ref name="HM635"/>
+*'''[[Apparition]]''': She was able to Apparate at will.<ref name="HM635"/>
+*'''[[Transfiguration]]''': She was able to transform herself into a different look instantly, but the true nature of this transformation was unknown.<ref name="HM645"/> It is possible that she was a [[Metamorphmagus]] (possibly the [[Unidentified Metamorphmagus|Metamorphmagus who infiltrated the Ministry]] in the [[1990–1991 school year]]) who could change her appearance at will, or that she simply used advanced [[Human Transfiguration]] to change her appearance on sudden notice.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+[[Category:Dark wizards]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]

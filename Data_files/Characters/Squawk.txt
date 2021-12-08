@@ -1,0 +1,44 @@
+{{HogwartsMysterySpoiler}}
+{{Pet individual infobox
+|name = Squawk
+|image = Squawk.jpg
+|born = Before [[1986]]<ref name="ABO">{{HM|3|A BAD OMEN}}</ref>
+|died = 
+|alias = 
+|species = [[Occamy]]<ref name="ABO"/>
+|gender = Female<ref name="ABO"/>
+|hair = 
+|eyes = Yellow<ref name="ABO"/>
+|height = 
+|title = 
+|skin = Turquoise<ref name="ABO"/>
+|family = 
+|loyalty = [[Silvanus Kettleburn]] (owner)<ref name="ABO"/>
+}}
+'''Squawk''' was a female [[Occamy]] owned by [[Professor]] [[Silvanus Kettleburn]].<ref name="ABO"/>
+
+==Biography==
+[[File:Squawk sleeping.jpg|250px|thumb|left|Squawk sleeping]]
+During the [[1986–1987 school year]], in the [[Hippogriff Clubhouse]], Kettleburn asked [[Jacob's sibling]] and [[Liz Tuttle]] to take care of her while he was away helping a [[Magical Creatures Reserve in Ireland|Magical Creatures Reserve]] in [[Ireland]] with their [[Chimaera]]. 
+
+While the club members were distracted by discussing a bad omen that [[Barnaby Lee]] saw while practising [[Cartomancy]], Liz realised Squawk was gone. She presumably had used her [[Choranaptyxis|choranaptyxic]] ability to shrink herself and slipped out without being noticed.<ref name="ABO" />
+
+[[File:Squawk coming down to protect the fake Occamy eggs 2.jpg|250px|thumb|left|Squawk coming down to protect the fake Occamy eggs]]
+She went to the [[Courtyard]], and after she was gone, the students found some torn paper from a mysterious package sent to the [[Hippogriff Club]] along with her feathers on the ground. She had also been to [[Room 234-00|Filch's office]] and wreaked havoc there, leaving some more paper. The students devised a plan to lure her out by taking advantage of the Occamy's protective instincts towards their eggs.<ref name="ABO" />
+
+[[File:Squawk protecting fake Occamy eggs 2.jpg|250px|thumb|right|Squawk protecting the fake Occamy eggs]]
+As true [[Occamy egg]]s are extremely rare and expensive, even [[Jae Kim]] couldn't obtain any, so they used silver painted [[Ostrich egg]]s as a substitute. [[Jacob's sibling]] and [[Charles Weasley|Charlie Weasley]] then used [[Fire-Making Spell|Incendio]] to create small, controlled fires to simulate danger. Though an adult Occamy wouldn't have been fooled by the ruse, Squawk was. She protectively encircled the eggs, allowing [[Liz Tuttle|Liz]] to capture her.<ref name="ABO" />
+
+[[File:Hippogriff Club fiesta 2.jpg|250px|thumb|left|The Hippogriff Club fiesta]]
+Later, the students determined that the package that Squawk had destroyed was a first edition copy of ''[[Have Yourself a Fiesta in a Bottle!]]'' by [[Libatius Borage]] that the [[Castelobruxo Hippogriff Club]] had sent them as a goodwill gift. They were eventually able to recover enough pieces to [[Mending Charm|restore]] the book and sent the Castelobruxo club some [[Laughing Potion]] brewed from the book's recipe in return. Squawk was present when the Hippogriff Club decided to throw [[Hippogriff Club's first fiesta|their own fiesta]], that is, party.<ref name="ABO" />
+
+==Appearances==
+{{Imagecat|Images of Squawk}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Occamies]]
+[[Category:Silvanus Kettleburn's possessions]]
+[[Category:Yellow-eyed individuals]]

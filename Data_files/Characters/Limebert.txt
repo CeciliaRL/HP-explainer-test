@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Limebert.jpg|250px]]
+|name = Limebert
+|born = 
+|died = In or before [[1992]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, Limebert must have died sometime in or before [[1992]], given his portrait's appearance in the [[Headmaster's office]] in {{COS|FA}}.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = *[[Professor]]
+*[[Headmaster]]
+|signature = 
+|species = Human
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]]
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Professor Limebert''' was a [[Wizardkind|wizard]] and [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] sometime before [[Armando Dippet]].<ref name="HeadPortrait">See [[:File:Headmaster Limebert.jpg|this image]]</ref>
+
+==Biography==
+===Lifetime===
+[[File:Headmaster Limebert.jpg|thumb|left|Limebert in his portrait in [[1992]]]]
+At some point in his life, Limebert became the [[Headmaster]] of Hogwarts.<ref name="HeadPortrait"/>
+
+===Post-mortem===
+Professor Limebert died sometime in or before [[1992]].<ref name="DOD" /> A portrait of him was hung in the [[Headmaster's office]] at [[Hogwarts School of Witchcraft and Wizardry]] in order to give advice to the current Head.<ref name="HeadPortrait"/>
+
+==Behind the scenes==
+*Limebert's portrait seems to have been based on an [https://commons.wikimedia.org/wiki/File:1851._BrullovPort_Lanchi.jpg 1851 portrait of archaeologist Michelangelo Lanci] by [[Wikipedia:Karl Bryullov|Karl Bryullov]].
+
+==Appearances==
+{{Imagecat|Images of Limebert}}
+*{{COS|F}} {{Portrait}}
+*{{WWHP}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Staff}}
+{{Hogwarts towers}}
+
+[[es:Limebert]]
+[[fr:Limebert]]
+[[pl:Limebert]]
+[[pt-br:Limebert]]
+[[Category:British individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

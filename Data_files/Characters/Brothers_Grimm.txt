@@ -1,0 +1,22 @@
+{{Real world subject}}
+'''Jacob Grimm''' ([[1785]]–[[1863]]) and '''Wilhelm Grimm''' ([[1786]]–[[1859]]), commonly referred to collectively as the '''Brothers Grimm''', were [[Germany|German]] philologists and cultural historians who specialised in folklore.<ref name="wikipedia">"[https://en.wikipedia.org/wiki/Brothers_Grimm Brothers Grimm] on Wikipedia</ref>
+
+==History==
+In [[1812]], they published ''[[wikipedia:Grimms' Fairy Tales|Children's and Household Tales]]'', a collection of German fairy tales they had gathered.<ref name="wikipedia" /> Among the stories it contained were "[[Cinderella]]" and "[[Snow White and the Seven Dwarves]]".<ref name="wikipedia" /> These became favourites of [[Non-magic people|Muggle]] children but remained relatively unknown among [[wizardkind|wizarding]] families.<ref name="dh7">{{DH|7}}</ref> However, the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Hogwarts Library|library]] kept at least one copy of ''[[Household Stories]]'', an English translation of the tales by [[Lucy Crane]].<ref name="hple">{{HPLE|G}} {{See image|File:Household Stories.png}}</ref>
+
+==Appearances==
+*''[[Harry Potter films|''Harry Potter'' films]] {{Comment|Name on book label}}
+*{{HPLE}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Grimm}}
+
+[[es:Hermanos Grimm]]
+[[Category:Authors|Grimm, Brothers]]
+[[Category:German individuals]]
+[[Category:Historians]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Muggles]]

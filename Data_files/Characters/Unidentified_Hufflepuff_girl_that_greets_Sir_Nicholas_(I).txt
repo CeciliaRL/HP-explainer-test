@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Hufflepuff girl
+|born = on or before [[31 August]] [[1981]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSF"/>
+|gender = Female<ref name="COSF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="COSF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSF"/>
+**[[Hufflepuff]]<ref name="COSF"/>
+}}
+{{Dialogue a-b|Girl|Good evening, Sir Nicholas.|Nick|Good evening.|The girl and Sir Nicholas|Harry Potter and the Chamber of Secrets (film)}}
+This '''girl''' was a [[Wizardkind|witch]] and student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]] and was sorted into [[Hufflepuff]]. She greeted [[Nicholas de Mimsy-Porpington|Sir Nicholas]] for being back after being [[Petrification|petrified]]<ref name="COSF">{{COS|FA}}</ref>.
+
+==Appearances==
+*{{COS|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hufflepuff girl that greets Sir Nicholas}}
+
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Unidentified Hufflepuffs]]
+[[Category:Wizards]]

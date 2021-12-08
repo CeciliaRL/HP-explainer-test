@@ -1,0 +1,70 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Gryffindor lady.jpeg|250px]]
+|name = Gryffindor Common Room Portrait
+|born = 
+|died = Before [[1991]]
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Head of House]]<ref name="MHP">{{MHP}} (see [http://www.flickr.com/photos/karen_roe/7366145410/in/set-72157630012281279/ this image])</ref>
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Grey
+|eyes = Dark
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Head of Gryffindor House]] (? - before [[1971]])<ref name="MHP" /><ref>[[Minerva McGonagall]] was head of Gryffindor House when [[James Potter I|James Potter]] and [[Lily J. Potter|Lily Evans]] were at Hogwarts and they started in 1971, so she must have become head of Gryffindor House sometime before that date.</ref>
+|house = [[Gryffindor]]
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''lady''' was a [[wizardkind|witch]] who, in her lifetime, was [[Head of Gryffindor House]].<ref name="MHP" /> A portrait of her hung in [[Gryffindor Tower]].
+
+In [[1994]], when [[Harry Potter]] opened his [[golden egg]], her portrait was terrified of the sound and was seen holding her hands over her ears. In [[1995]], she asked [[Hermione Granger]] to fetch a [[House-elf]] so it could clean her frame. Hermione gave her a lecture on [[Society for the Promotion of Elfish Welfare|S.P.E.W.]]
+
+==Behind the scenes==
+*In the [[Harry Potter and the Order of the Phoenix (video game)|video game adaptation]] of {{OOTP}}, she was credited as "GCR Portrait Female 1", and was voiced by [[Isobel Middleton]]. Her portrait also appears in the [[Gryffindor]] Common Room in the [[Harry Potter and the Half-Blood Prince (video game)|video game adaptation]] of {{HBP}}, but does not speak.
+
+==Appearances==
+*{{PS|F}} {{1st}} {{Portrait}}
+*{{COS|F}} {{Portrait}}
+*{{POA|F}} {{Portrait}}
+*{{GOF|F}} {{Portrait}}
+*{{OOTP|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|F}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+*{{WWHP}} {{Portrait}}
+*{{QH}} {{Portrait}}
+*{{HM}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor = Unknown, eventually<br/> [[Godric Gryffindor]]
+|position = [[Head of Gryffindor House]]
+|years = Unknown
+|successor = Unknown, eventually [[Minerva McGonagall]]
+}}
+{{End box}}
+
+{{Hogwarts towers}}
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Heads of House]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

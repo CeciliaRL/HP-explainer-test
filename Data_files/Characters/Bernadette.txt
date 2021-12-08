@@ -1,0 +1,68 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = macusa
+|image = [[File:Bernadette.png|250px]]
+|name = Bernadette
+|born = Before [[1909]] (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[United States of America|American]]
+|alias = 
+|title = [[Executioner]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = [[Bernadette's wand|Unknown length, wood and core]]
+|patronus = 
+|job = [[Executioner]]
+|house = 
+|loyalty = [[Magical Congress of the United States of America]]
+}}
+{{Quote|Don't that look good. You wanna get in? Huh?|Bernadette encouraging Tina Goldstein to enter the death potion|Fantastic Beasts and Where to Find Them: The Original Screenplay}}
+
+'''Bernadette''' was an [[United States of America|American]] [[wizardkind|witch]] who worked for the [[Magical Congress of the United States of America]] in [[1926]] as an [[executioner]].<ref name="FBS">{{FB|S}}</ref>
+
+==Biography==
+After [[Gellert Grindelwald]] (disguised as [[Percival Graves]]) sentenced [[Newton Scamander|Newt Scamander]] and [[Porpentina Goldstein|Tina Goldstein]] to death, Bernadette helped lead them to the [[Death Cell|Death cell]]. She [[Memory extraction spell|extracted]] Tina's memories and cast them in the [[death potion]] and encouraged her to get in.<ref>{{FB|S|62}}</ref> Just as her fellow executioner was about to do the same to Newt, he broke free (his pet [[Bowtruckle]] having [[Lock picking|picked the lock]] on his handcuffs) and unleashed his [[Swooping Evil]] which knocked out the third executioner. The second executioner tried to use her wand on Newt, but he redirected her aim so that she hit Bernadette with a [[Stunning Spell]] instead, rendering Bernadette unconcious. With no backup, the second executioner was then knocked out and Newt managed to save Tina from her execution, leaving Bernadette and her fellow executioners alone at the Death Cell.<ref name="FBS">{{FB|S}}</ref>
+
+In the [[2010]]s, Bernadette appeared during the [[Calamity]] in the [[2010s]] as a [[Confoundable]], attempting to extract the memories of both Percival Graves and Newt Scamander. Volunteer members of the [[Statute of Secrecy Task Force]] could repel her by casting the [[Ebublio Jinx]] on her, [[Foundable|returning]] both wizards to their original timelines.<ref name="WU">{{WU}}</ref>
+
+==Possessions==
+[[File:Bernadette's_wand.png|250px|right|Bernadette's wand]]
+*'''[[Bernadette's wand|Wand]]''': Bernadette's wand was of unknown length, wood, and core materials. It featured a carving of a head on the handle. The style and carvings of the wand may have indicated that it was a [[Shikoba Wolfe]] wand, and therefore had a [[Thunderbird]] [[Thunderbird tail feather|feather]] core. The wand was destroyed in the [[Death Cell]]'s [[Death potion]].<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+*Bernadette was portrayed by [[Miquel Brown]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'', but was credited in the end credits as "Executioner #2".
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+*{{LEGO|D}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+[[de:Bernadette]]
+[[de2:Bernadette]]
+[[es:Bernadette]]
+[[fr:Bernadette]]
+[[pl:Bernadeta]]
+[[ru:Бернадетт]]
+[[zh:伯纳黛特]]
+[[Category:American individuals]]
+[[Category:Confoundables]]
+[[Category:Executioners]]
+[[Category:Females]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Wizards]]

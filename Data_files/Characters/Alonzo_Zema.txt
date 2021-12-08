@@ -1,0 +1,39 @@
+{{Transcribed image|File:AlonzoZema.jpg}}
+{{Individual infobox
+|theme=muggle
+|name=Alonzo Zema
+|image=
+|hideb=
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Shop owner
+|loyalty=
+}}
+'''Alonzo Zema''' was an [[United States of America|American]] [[Muggle|No-Maj]] who ran a shop that sold twine and paper in [[New York]] in the [[1920s]].<ref name="pottermorevid">[https://www.facebook.com/pottermore/videos/1110333645667665/ Fantastic Beasts and Where to Find Them: Behind the Scenes Feature] {{see image|File:AlonzoZema.jpg}}</ref>
+
+==Appearances==
+*{{FB|F}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Zema, Alonzo}}
+[[pl:Alonzo Zema]]
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Shop owners]]

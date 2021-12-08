@@ -1,0 +1,86 @@
+{{HogwartsLegacySpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Faris Spavin
+|born = [[1755]] - [[1756]]<ref name="age">He was 147 when he resigned in 1903, though it is unknown if he already had his bithday in that year.</ref>
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office) meaning that he was not a muggle-born</ref>
+|marital = 
+|nationality = 
+|alias = Spout-Hole
+|title = [[Minister for Magic|Minister]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Minister for Magic]] ([[1865]] - [[1903]])
+|house = 
+|loyalty = [[British Ministry of Magic]]
+}}
+'''Minister Faris Spavin''', also known as '''Spout-Hole''', (fl. [[1756]] - [[1903]]) was [[Minister for Magic]] from [[1865]] to [[1903]].
+
+==Biography==
+Faris Spavin was born around the year [[1756]]. He became [[Minister for Magic]] on [[1865]] at 109 years old, and was known for being the longest-ever serving and most long-winded Minister. He survived an assassination attempt (kicking) made by [[Faris Spavin's centaur assailant|a centaur who took offence]] to the punch line of his infamous 'a centaur, a ghost and a dwarf walk into a bar' [[Faris Spavin's joke|joke]].<ref name=PMministers>{{WW|ministers-for-magic}}</ref>
+
+Spavin was elected by the Wizarding population in [[Great Britain]] and [[Ireland]] at least six times.
+
+Minister Spavin's term in office saw the introduction of an important piece of wizarding legislation: the [[Decree for the Reasonable Restriction of Underage Sorcery]], in [[1875]].<ref name="CS2">{{COS|B|2}}</ref> This Decree made it illegal for an [[underage magic|underage wizard to do magic outside school]]. The Ministry of Magic detects breaches of this Decree by means of [[Trace|The Trace]].
+
+In the late 19th century, the Muggle government made plans to flatten the [[Leaky Cauldron]], with the creation of [[Charing Cross Road]]. Faris Spavin made a melancholy seven-hour speech before the [[Wizengamot]] explaining why the Leaky Cauldron could not be saved. During the course of his tedious speech, however, the wizarding community rallied and performed a mass of [[Memory Charm]]s (some say, although it has never been conclusively proven, that the [[Imperius Curse]] was additionally used on several Muggle town planners), so that the Leaky Cauldron was now accommodated in the revised plans for the new road. After his speech, his [[Faris Spavin's secretary|secretary]] presented him with a note describing the developments that had just invalidated his words.<ref name="PMleakycauldron">{{WW|the-leaky-cauldron}}</ref>
+
+Spavin's term was also notable for introducing some reforms to the game of [[Quidditch]] (and the commotion they originated): on the night of [[21 June]], [[1884]], the [[Department of Magical Games and Sports]] decreed the institutionalisation of the [[Stooging]] Penalty in [[Quidditch]]. This announcement caused widespread discontent among British Quidditch players and fans, who [[1884 riot at the British Ministry of Magic Headquarters|demonstrated profusely at the Ministry of Magic Headquarters]]: the assembled crowd bombarded a [[Unidentified Department of Magical Games and Sports representative|Departmental representative]] with [[Quaffle]]s, as well as threatened to stooge Minister Spavin himself. Wizards from the [[Department of Magical Law Enforcement]] were duly dispatched there and the crowd reluctantly dispersed.<ref name="QA6">{{QTA|R|6}}</ref> This was not without precedent: just over a year before, [[1883 riot at the British Ministry of Magic Headquarters|another riot]] had broken out at the Ministry as the Department of Magical Games and Sports had decided to get rid of "goal baskets" in favour of the modern [[goalpost]]s.<ref name="QA6" />
+
+Spavin attended [[Victoria|Queen Victoria]]'s funeral in an admiral's hat and spats, at which point the [[Wizengamot]] suggested gently he step down as [[Minister for Magic]]. He was 147 when he resigned, in [[1903]].<ref name="PMministers" />
+
+==Behind the scenes==
+*He is known to have served the longest term as Minister: thirty-eight years.
+*Spavin was most likely the Minister during the event of {{HL}}.
+
+==Etymology==
+*The name "''Faris''" means "''knight''" in Arabic, but also "''stone''" in both Greek and English. Faris is also the name of a municipality in Laconia, Greece. It has a population of roughly 5,000.
+*Spavin is a word given to a disorder located in a horse's neck, usually a swelling. The word has French origins and comes from the word "''espavin''", meaning "''swelling''".
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+*{{QTA|R}} {{Indirect}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=[[Dugald McPhail]]
+|position=[[Minister for Magic]]
+|years=[[1865]]-[[1903]]
+|successor=[[Venusia Crickerly]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Spavin, Faris}}
+
+[[de:Faris Spavin]]
+[[es:Faris Spavin]]
+[[fr:Faris Spavin]]
+[[pl:Faris Spavin]]
+[[pt-br:Faris Spavin]]
+[[ru:Фэрис Спэвин]]
+[[zh:法里斯·斯帕文]]
+[[Category:1756 births]]
+[[Category:British Ministers for Magic]]
+[[Category:Centenarians]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

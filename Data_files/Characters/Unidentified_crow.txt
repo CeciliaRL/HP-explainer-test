@@ -1,0 +1,29 @@
+{{Pet individual infobox
+|image = [[File:Unidentified crow.jpg|250px]]
+|name = Unidentified crow
+|born = Pre [[1994]]
+|died = 
+|alias = 
+|title = 
+|species = [[Crow]]<ref name="POAF"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = Black<ref name="POAF"/>
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Hagrid's cabin]]<ref name="POAF"/>
+}}
+This '''[[crow]]''' sat on the top of a wooden marker, holding [[Buckbeak]] the [[Hippogriff]]. The crow appeared to be a kind of guard, biting [[Harry Potter]] when he tried to free Buckbeak. The crow then flew away when the [[Walden Macnair|Executioner]] used his [[axe]] to cut a [[pumpkin]] from [[Rubeus Hagrid]]'s [[Rubeus Hagrid's pumpkin patch|patch]] in two.<ref name="POAF">{{POA|F}}</ref>
+
+==Behind the scenes==
+*This crow was portrayed by [[Cheyenne]].
+
+==Appearances==
+*{{POA|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Crows]]
+[[Category:Individuals of unknown or undetermined gender]]

@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|name=Unidentfied man killed by an explosion in the Viaduct Courtyard
+|image=[[File:HPDH2-1781.jpg|250px]]
+|hideb=
+|born=
+|died=[[2 May]], [[1998]], [[Hogwarts Castle]], [[Scotland]], [[Great Britain]]<ref name="DHF2"/>
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DHF2"/>
+|gender=Male<ref name="DHF2"/>
+|height=
+|hair=Black<ref name="DHF2"/>
+|eyes=
+|skin=Pale<ref name="DHF2"/>
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who fought during the [[Battle of Hogwarts]] in [[1998]]. He was one of the [[Hogwartian|defenders]] who were stationed by the [[Viaduct Courtyard Gatehouses|checkpoint towers]] entrance to the [[Viaduct Courtyard]]. When the towers were attacked he ran into the courtyard but was killed by either an explosion or the heat from it.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts fatalities]]
+[[Category:Deaths by explosion]]
+[[Category:Deceased individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

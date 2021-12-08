@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = H. Knighton's offspring
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="DHG1"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[H. Knighton]] (father) †<ref name="DHG1"/>
+*[[H. Knighton's wife|Mrs Knighton]] (mother)<ref name="DHG1"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Knighton family]]<ref name="DHG1"/>
+}}
+{{Quote|H. Knighton. Father, husband, philosopher.|H. Knighton's epitaph.|Harry Potter and the Deathly Hallows: Part 1 (video game)}}
+[[H. Knighton]], a man who lived in [[Godric's Hollow]], had one or more '''children'''. They and [[H. Knighton's wife|their mother]] wrote a brief epitaph for Knighton's grave.<ref name="DHG1">{{DH|G1}}</ref>
+
+==Appearances==
+*{{DH|G1}} {{1st Mention}} {{Indirect}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Knighton}}
+[[pl:Potomstwo H. Knightona]]
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Knighton family]]
+[[Category:Unnamed family members]]

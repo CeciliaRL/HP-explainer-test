@@ -1,0 +1,45 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Corey Hayden's parents
+|born = 
+|died = 
+|blood = 
+|nationality = [[Great Britain|British]]<ref name="HM721"/>
+|alias = 
+|title = 
+|marital = Married (presumably)
+|signature = 
+|species = [[Human]]s<ref name="HM721"/>
+|gender = Female, Male<ref name="HM721"/>
+|hair = 
+|eyes = 
+|skin = 
+|height = 
+|weight = 
+|family = [[Corey Hayden]] (child)<ref name="HM721"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Shopkeepers<ref name="HM721"/>
+|house = 
+|loyalty = Hayden family<ref name="HM721"/>
+}}
+The '''parents''' of [[Corey Hayden]] owned a [[Hayden family shop|shop]]<ref name="HM721">{{HM|7|21}}</ref> in [[Hogsmeade]].<ref name="HM724">{{HM|7|24}}</ref> They regularly visited [[Diagon Alley]] with their child to restock it, but didn't allow Corey to enter [[Knockturn Alley]].<ref name="HM721"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogsmeade}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Shop owners]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

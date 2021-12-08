@@ -1,0 +1,47 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Maxwell Barnett
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Celia Barnett]] {{comment|possibly}}
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author
+|house = 
+|loyalty = 
+}}
+'''Maxwell Barnett''' was a [[wizardkind|wizard]] versed in the art of [[Occlumency]], who wrote a [[list of books|book]] on the subject, called ''[[Guide to Advanced Occlumency]]''.<ref name="book">{{See image|File:Guide to Advanced Occlumency.jpg}}</ref><ref name="HM518">{{HM|5|18}}</ref>
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{1st Mention}} {{C|Name on book cover}}
+*{{HM}} {{Mention}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]'' {{Mention}} {{C|Name on book cover}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Barnett, Maxwell}}
+
+[[fr:Maxwell Barnett]]
+[[pl:Maxwell Barnett]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Occlumens]]
+[[Category:Wizards]]

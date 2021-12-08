@@ -1,0 +1,69 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Lord Palmerston
+|born = [[20 October]], [[1784]]
+|died = [[18 October]], [[1865]]
+|blood = [[Non-magic people|Muggle]]<ref name="PMministers"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PMministers"/>
+|alias = 
+|title = [[Prime Minister (title)|Prime Minister]]<ref name="PMministers"/>
+|signature = 
+|species = [[Human]]<ref name="PMministers"/>
+|gender = Male<ref name="PMministers"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = Emily Lamb (wife)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Prime Minister|Prime Minister of United Kingdom]] ([[1855]]-[[1858]], [[1859]]-[[1865]])<ref name="PMministers"/>
+|house = 
+|loyalty = *[[Great Britain]]<ref name="PMministers"/>
+*British government<ref name="PMministers"/>
+*[[Muggle world|Muggle community]]<ref name="PMministers"/>
+}}
+'''Henry John Temple, 3rd Viscount Palmerston''' ([[20 October]], [[1784]] – [[18 October]], [[1865]]) was the [[Non-magic people|Muggle]]<ref name="PMministers"/> [[Prime Minister (title)|Prime Minister]] from [[6 February]], [[1855]] to [[19 February]], [[1858]] and again from [[12 June]], [[1859]] to [[18 October]], [[1865]].<ref name="Wikipedia">[[Wikipedia:Henry John Temple, 3rd Viscount Palmerston|"Henry John Temple, 3rd Viscount Palmerston"]] on [[Wikipedia:Main page|Wikipedia]]</ref>
+
+The [[Minister for Magic]], [[Priscilla Dupont]], developed an irrational loathing of him. This attained such proportions that it ended up in her being forced to step down on [[17 February]], [[1858]], after such incidents as coins turning to frogspawn in his coat pockets.<ref name="PMministers">{{WW|ministers-for-magic}}</ref>
+
+Ironically, Palmerston was forced to resign by the Muggles two days later on [[19 February]], [[1858]].<ref name="PMministers"/> He was later reelected on [[12 June]], [[1859]] and died in office.<ref name="Wikipedia"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Eventually, the [[Duke of Wellington]]
+|position=[[Prime Minister (title)|Prime Minister]]
+|years=[[1855]]-[[1858]]<br/>[[1859]]-[[1865]]
+|successor=Eventually, [[Winston Churchill]]
+}}
+{{End box}}
+
+{{DEFAULTSORT:Palmerston, Lord}}
+
+[[de:Lord Palmerston]]
+[[fr:Lord Palmerston]]
+[[pt-br:Lord Palmerston]]
+[[zh:巴麦尊勋爵]]
+[[pl:Lord Palmerston]]
+[[Category:1784 births]]
+[[Category:1865 deaths]]
+[[Category:British individuals]]
+[[Category:Deceased individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Nobility]]
+[[Category:Prime Ministers]]

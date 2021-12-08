@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Weiss.jpg|250px]]
+|name = Konrad Weiss
+|born = Before [[1977]], [[Germany]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[German]]<ref name="QWC"/>
+|alias = 
+|title = [[Seeker]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Red<ref name="QWC"/>
+|eyes = Blue<ref name="QWC"/>
+|skin = White<ref name="QWC"/>
+|family = *[[Helmut Weiss]] {{c|possibly}}
+*[[Weiss family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] for the [[German National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[German National Quidditch team]]<ref name="QWC"/>
+}}
+'''Konrad Weiss''' was a [[Germany|German]] [[Wizardkind|wizard]] who played as [[Seeker]] on the [[German National Quidditch team]] during the [[1994 Quidditch World Cup|422nd Quidditch World Cup]], in [[1994]], and wore [[Quidditch Goggles|goggles]] when playing.<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]] at [[Hogwarts School of Witchcraft and Wizardry]], Weiss' [[Chocolate Frog Card]] could be won by beating [[Sean Ogbourne]] at an [[Exploding Snap]] challenge.<ref name="HBPG">{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': As a [[Seeker]] for the [[Nordic National Quidditch team]], Konrad was a highly proficient flyer.<ref name="QWC"/>
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{C|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Weiss, Konrad}}
+[[es:Konrad Weiss]]
+[[fr:Konrad Weiss]]
+[[pl:Konrad Weiss]]
+[[Category:Blue-eyed individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:German individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Weiss family]]
+[[Category:Wizards]]

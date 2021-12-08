@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Mizuho Yoshii
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = 
+}}
+'''Mizuho Yoshii''' was a [[Ravenclaw]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She was seen walking around the school during the [[1993-1994 school year]].
+
+==Etymology==
+Mizuho is an archaic Japanese term meaning "fresh ears of rice". Yoshii, written 吉井 is a Japanese surname.
+
+==Behind the scenes==
+*Based on her name, she is presumably of [[Japan]]ese descent.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Yoshii, Mizuho}}
+[[pl:Mizuho Yoshii]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

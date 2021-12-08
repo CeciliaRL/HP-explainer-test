@@ -1,0 +1,46 @@
+{{Individual infobox
+|image=
+|theme = pet
+|name=Old man's donkey
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Donkey]]<ref name="TBB"/>
+|gender=Female<ref name="TBB"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=[[Unidentified Old Man|Old Man]] (owner)<ref name="TBB"/>
+}}
+{{Dialogue a-b|Old man|'Tis my old donkey, sir. Lost, she is, or stolen, and without her I cannot take my wares to market, and my family will go hungry tonight.|Wizard|And I am hungry now!|The old man and the [[Wizard (The Wizard and the Hopping Pot)|Wizard]]|The Tales of Beedle the Bard (real)}}
+
+The '''old man's donkey''' was a character in the tale ''[[The Wizard and the Hopping Pot]]'' by [[Beedle the Bard]]. The [[Unidentified Old Man|old man]] used his donkey to carry his wares to the market. One day, the donkey had disappeared, so the old man asked the [[Wizard (The Wizard and the Hopping Pot)|Wizard]] to help him, for without the donkey to carry his wares to the market, his family would starve. The Wizard rudely refused to help him. Later, when the Wizard could bear no more of his father's [[The Hopping Pot|lucky cooking pot]], he [[Summoning Charm|summoned]] the donkey from a distant briar patch.<ref name="TBB">{{TBB|W}}</ref>
+
+==Appearances==
+*{{TBB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Tales of Beedle}}
+[[es:Burra del anciano]]
+[[Category:Donkeys]] 
+[[Category:Females]]
+[[Category:Fictional characters]]
+[[Category:Pets]]
+[[Category:The Wizard and the Hopping Pot]]

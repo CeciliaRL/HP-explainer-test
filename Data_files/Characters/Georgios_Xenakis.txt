@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Georgios Xenakis
+|born = before [[1997]], [[Greece]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch]] [[Quidditch referee|referee]]
+|house = 
+|loyalty = [[International Confederation of Wizards' Quidditch Committee]]
+}}
+'''Georgios Xenakis''' was a Greek wizard and a [[Quidditch]] [[Quidditch referee|referee]]. He officiated in the [[Bulgarian National Quidditch Stadium|Bulgaria]] versus [[New Zealand National Quidditch team|New Zealand]] first round encounter at the [[2014 Quidditch World Cup]] in [[Argentina]].<ref name="PM">{{PM}} - [[BULGARIA VERSUS NEW ZEALAND]] (Archived)</ref>
+
+==Behind the scenes==
+*If this individual's name is indication of anything, he is probably [[Greece|Greek]] or of Greek descent — the name "Georgios" is the Greek form of George.<ref>[http://www.behindthename.com/name/georgios "Georgios"] at [http://www.behindthename.com/ Behind the Name]</ref>
+*The surname Xenakis is also Greek, from ''ξένος ['ksenos]'' ("stranger", "foreigner", but also "friend from far away"). Greek artist [[Wikipedia:Constantin Xenakis|Constantin Xenakis]] (born 1931), Greek composer and architect [[Wikipedia:Iannis Xenakis|Iannis Xenakis]] (1922–2001), and Greek gymnast [[Wikipedia:Thomas Xenakis|Thomas Xenakis]] (1875–1942) are some notable people who bore this surname.
+
+==Appearances==
+*{{PM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Xenakis, Giorgios}}
+[[de:Georgios Xenakis]]
+[[es:Georgios Xenakis]]
+[[pl:Georgios Xenakis]]
+[[fr:Georgios Xenakis]]
+[[Category:Greek individuals]]
+[[Category:Males]]
+[[Category:Quidditch referees]]
+[[Category:Wizards]]

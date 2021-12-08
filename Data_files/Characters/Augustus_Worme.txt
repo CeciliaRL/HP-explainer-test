@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Augustus Worme
+|hideb=y
+|born=before [[1901]] (likely)<ref>He was likely of age when he commissioned Scamander.</ref>
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Publisher for [[Obscurus Books]]
+|house=
+|loyalty=
+}}
+'''Augustus Worme''' was a [[Wizardkind|wizard]] who worked for the publisher [[Obscurus Books]]. In [[1918]], he commissioned a young [[Newton Scamander|Newt Scamander]] to write {{FB}}. The first edition of the book was published in [[1927]], and was a world-wide bestseller.<ref>{{FB|R}}</ref>
+
+==Etymology==
+The name "Augustus" means "great" or "venerable", derived from Latin augere "to increase". Augustus was the title given to Octavian, the first Roman emperor. He was the adopted son of Julius Caesar who rose to power through a combination of military skill and political prowess. This was also the name of three kings of Poland.
+
+==Appearances==
+*{{FB|R}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Augustus Worme]]
+[[fr:Augustus Worme]]
+[[pl:Augustus Worme]]
+[[Category:Males|Worne, Augustus]]
+[[Category:Wizards|Worne, Augustus]]

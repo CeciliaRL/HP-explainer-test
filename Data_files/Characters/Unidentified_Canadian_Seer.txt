@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Unidentified Canadian Seer
+|nationality=[[Canada|Canadian]]<ref name="FB-dec1"/>
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="FB-dec1"/>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+This '''individual''' was a purported [[Seer]] from [[Montreal]], [[Canada]].<ref name="FB-dec1"/>
+
+==Biography==
+In [[1926]], they won a jackpot after predicting they would win it, defying the people who doubted the validity of their predictions. ''[[The New York Ghost]]'' reported the incident in its [[1 December]] [[1926]] issue.<ref name="FB-dec1">{{FB|F}} {{See image|File:NewYorkGhost-1December1927.jpg}}</ref>
+
+==Appearances==
+*{{FB|F}} {{1st Mention}} {{C|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Vidente canadiense no identificado]]
+[[pt-br:Vidente canadense não identificado]]
+[[Category:Canadian individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Seers]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

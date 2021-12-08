@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:Hardwin Potter.png|250px]]
+|name=Hardwin Potter
+|hideb= 
+|born= 
+|died= 
+|blood= 
+|marital=Married<ref name="WW"/>
+|alias= 
+|title= 
+|signature= 
+|hidep= 
+|species=[[Human]]<ref name="WW"/>
+|gender=Male<ref name="WW"/>
+|height= 
+|hair= 
+|eyes= 
+|skin= 
+|hidef= 
+|family=*[[Linfred of Stinchcombe]] (father) †<ref name="WW"/>
+*[[Hardwin Potter's siblings|Six siblings]] †<ref name="WW"/>
+*[[Iolanthe Peverell]] (wife) †<ref name="WW"/>
+*[[James Potter I|James Potter]] (descendant) †<ref name="WW"/>
+*[[Harry Potter]] (descendant)<ref name="WW"/>
+*[[James Potter II|James Sirius Potter]]<ref name="DHe">{{DH|B|E}}</ref> (descendant)
+*[[Albus Potter|Albus Severus Potter]]<ref name="DHe"/>(descendant)
+*[[Lily L. Potter|Lily Luna Potter]]<ref name="DHe"/>  (descendant)
+*[[Potter family]]<ref name="WW"/> 
+*[[Peverell family]] (in-laws)<ref name="WW"/>
+|hidem=hide 
+|animagus= 
+|boggart= 
+|wand= 
+|patronus= 
+|hidea= 
+|job= 
+|house= 
+|loyalty=*[[Potter family]]<ref name="WW"/> 
+*[[Peverell family]]<ref name="WW"/>
+}}
+'''Hardwin Potter''' was the eldest son of [[Linfred of Stinchcombe]]. Upon his father's [[death]], he inherited a sizable sum of [[galleon|gold]], as did each of his six siblings. Hardwin met and married [[Iolanthe Peverell]] of [[Godric's Hollow]]. Iolanthe, the granddaughter of [[Ignotus Peverell]], inherited the [[Cloak of Invisibility]], since there were no male heirs in her generation. She told Hardwin that, by tradition in her family, possession of the cloak was kept secret. He respected her wishes, and, from then on, the cloak was passed down to the eldest child of each new generation of the [[Potter family]]. [[Henry Potter]], a member of the [[Wizengamot]] from [[1913]] to [[1921]] and the great-grandfather of [[Harry Potter]], was a direct descendant of Hardwin and Iolanthe.<ref name="WW">{{WW|the-potter-family}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Potter, Hardwin}}
+[[de:Hardwin Potter]]
+[[es:Hardwin Potter]] 
+[[pl:Hardwin Potter]] 
+[[fr:Hardwin Potter]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Peverell family]]
+[[Category:Potter family]]
+[[Category:Wizards]]

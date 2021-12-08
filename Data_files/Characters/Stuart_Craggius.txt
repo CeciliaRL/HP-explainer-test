@@ -1,0 +1,48 @@
+{{Transcribed image|File:StuartCraggius.jpg}}
+{{Youmay|the [[Wizardkind|wizard]] whose name was carved into [[Sybill Trelawney]]'s wood panelling|the production designer [[Stuart Craig]], or [[Stuart Craggy]] the [[Slytherin]] student and [[Quidditch]] [[Slytherin Quidditch team|team]] [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]]}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:StuartCraggius.jpg|50px]]
+|name=Stuart Craggius
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Stuart Craggius''' was a [[Wizardkind|wizard]] whose name was carved into wood panelling on a wall of [[Sybill Trelawney|Professor Trelawney]]'s [[Divination]] classroom.<ref>{{POA|F}} - Chapter 21 (''Professor Trelawney's Prediction'')</ref>
+
+==Etymology==
+From an occupational surname originally belonging to a person who was a steward. It is ultimately derived from Old English ''stig'' "house" and ''weard'' "guard". As a given name, it arose in 19th-century Scotland in honour of the Stuart royal family, which produced several kings and queens of Scotland and Britain between the 14th and 18th centuries.
+
+==Behind the scenes==
+*This character's name is presumably a tribute to [[Stuart Craig]], who was the production designer on of all the ''Harry Potter'' [[Harry Potter (film series)|films]].
+
+==Appearances==
+*{{POA|F}} {{C|Name seen on wood panelling}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Craggius, Stuart}}
+[[Category:Males]]
+[[Category:Wizards]]

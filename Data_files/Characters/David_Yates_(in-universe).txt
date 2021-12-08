@@ -1,0 +1,50 @@
+{{Real world subject}}
+{{Youmay|a character from {{HBP|FA}}|the director of several [[Harry Potter (film series)|''Harry Potter'' films]]}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=David Yates
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=Mayor
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Mayor of [[London]]
+|loyalty=[[London]]
+}}
+{{Quote|Mayor David Yates described London as left "scared, confused and desperate for answers", pledging to uncover the reason for these attacks, find those responsible and prevent any possible repeat.|[[Jamie Wolpert (in-universe)|Jamie Wolpert]], "[[Millennium Bridge|Bridge disaster]] hits London" in ''[[The Guardian]]'' (July, [[1996]])|Harry Potter Limited Edition}}
+'''David Yates''' was a [[Non-magic people|Muggle]] British politician who, in the mid-[[1990s]], held the office of Mayor of the [[London|City of London]].
+
+==Biography==
+===Millennium Bridge disaster===
+{{Quote|The police are continuing with the investigation into the cause of the [[Millennium Bridge]] disaster. River traffic has been halted as police search for survivors. The surrounding area remains closed. The Mayor has urged Londoners to remain calm...|A [[Non-magic people|Muggle]] radio broadcast|Harry Potter and the Half-Blood Prince (film)}}
+
+After the collapse of the [[Millennium Bridge]] at the hands of [[Fenrir Greyback]] and a group of [[Death Eaters]], the Mayor urged [[London]]ers to remain calm, for this was a most unusual event.<ref>{{HBP|F}} - Chapter 1</ref> He also addressed ''[[The Guardian]]'', where he described Londoners as having been left "''scared, confused and desperate for answers''" and pledging to uncover the truth behind the disaster (widely speculated among [[Non-magic people|Muggle]]s to have been caused by a fundamentalist political group).<ref name="HPLE">{{HPLE|G}}</ref>
+
+==Behind the scenes==
+*The existence of this individual constitutes an anachronism as the office was created by the [[Wikipedia:Greater London Authority Act 1999|Greater London Authority Act 1999]] and the first Mayor of London, [[Wikipedia:Ken Livingstone|Ken Livingstone]], was elected in [[2000]].
+*The Mayor's name is an obvious reference to [[David Yates]], the man who directed the last four [[Harry Potter films|''Harry Potter'' films]], including ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]''.
+
+==Appearances==
+*{{HBP|F}} {{Mention}}
+*{{HPLE}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Yates, David}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Politicians]]

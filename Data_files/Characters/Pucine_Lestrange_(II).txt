@@ -1,0 +1,28 @@
+{{Individual_infobox|image = Pucine Lestrange.jpg|name = Pucine Lestrange|blood = [[Pure-blood]] |nationality = [[France|French]]|species = [[Human]]|gender = Female|skin = White|family = *[[Fulcran Lestrange (II)|Fulcran Lestrange]] (father)
+*[[Sotére Lestrange]] (mother)
+*[[Balbine Lestrange (II)|Balbine Lestrange]] (sister)
+*[[Fulcran Lestrange (III)|Fulcran Lestrange]] (brother)
+*[[Quintilla Lestrange]] (second cousin/sister-in-law)
+*[[Cyrille Lestrange (IV)|Cyrille Lestrange]] (second cousin)
+*[[Floxel Lestrange]] (second cousin)
+*[[Nozéa Lestrange]] (niece)
+*[[Fulcran Lestrange (I)|Fulcran Lestrange]] (paternal grandfather)
+*[[Pucine Lestrange (I)|Pucine Lestrange]] (paternal grandmother)
+|loyalty = *[[Lestrange family]]
+*Petit family
+|theme = wizard}}
+'''Pucine Lestrange''' was a [[France|French]] [[Wizardkind|witch]] and a member of the [[pure-blood]] [[Lestrange family]]. She's the daughter of [[Fulcran Lestrange (II)|Fulcran Lestrange]] and [[Sotére Lestrange]] and sister of [[Balbine Lestrange (II)]] and [[Fulcran Lestrange (III)|Fulcran Lestrange]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref> She was named after her grandmother, [[Pucine Lestrange (I)|Pucine Leroy]].
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lestrange, Pucine}}
+[[fr:Pucine Lestrange II]]
+[[pl:Pucine Lestrange II]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Lestrange family]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

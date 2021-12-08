@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Abraham Peasegood
+|born = c. [[18th century]]<ref name="QTA8"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="QTA8"/>
+|gender = Male<ref name="QTA8"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Arnold Peasegood]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="QTA8"/>
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Peasegood family]]
+*[[Quodpot]]<ref name="QTA8"/>
+}}
+'''Abraham Peasegood''' was an [[18th century]] [[Wizardkind|wizard]] who invented the game of [[Quodpot]].<ref name="QTA8"/>
+
+==Biography==
+While travelling to the [[United States of America|United States]] from [[England]], his [[wand]] came into contact with a [[Quaffle]] in his trunk. Peasegood, who had been intending to recruit a [[Quidditch]] [[Quidditch team|team]] upon his arrival, was unaware of this occurrence and began throwing the ball around. Due to the interaction with his wand, the Quaffle exploded in his face.<ref name="QTA8">{{QTA|R|8}}</ref>
+
+Peasegood, who had a lively sense of humour, saw the appeal in an exploding ball, and immediately began attempting to recreate the effect. Soon, Quidditch was forgotten as he and his friends developed the game of Quodpot.<ref name="QTA8"/>
+
+==Etymology==
+The name "Abraham" may be viewed either as meaning "father of many" in Hebrew or else as a contraction of Abram and הָמוֹן (hamon) "many, multitude".
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Peasegood, Abraham}}
+
+[[de:Abraham Peasegood]]
+[[es:Abraham Peasegood]]
+[[fr:Abraham Bondupois]]
+[[it:Abraham Peasegood]]
+[[pl:Abraham Peasegood]]
+[[ru:Абрахам Писгуд]]
+[[de2:Abraham Peasegood]]
+[[Category:18th century births]]
+[[Category:18th century deaths]]
+[[Category:British individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Peasegood family]]
+[[Category:Wizards]]

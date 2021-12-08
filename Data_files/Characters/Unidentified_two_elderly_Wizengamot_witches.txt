@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=mom
+|image=
+|name=Unidentified two elderly Wizengamot witches
+|nationality=[[Great Britain|British]]<ref name="OP8"/>
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="OP8"/>
+|gender=Female<ref name="OP8"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=*[[British Ministry of Magic]]<ref name="OP8"/>
+**[[Wizengamot]]<ref name="OP8"/>
+*[[Albus Dumbledore]]<ref name="OP8"/>
+}}
+{{Quote|The members of the Wizengamot were muttering. All eyes were now on Dumbledore. Some looked annoyed, others slightly frightened; two elderly witches in the back row, however, raised their hands and waved in welcome.|Description|Harry Potter and the Order of the Phoenix}}
+These '''two elderly women''' were [[wizardkind|witches]] and members of the [[Wizengamot]] in the mid-[[1990s]]. They seemed to be friendly with [[Albus Dumbledore]], and were not influenced by the [[Campaign to discredit Albus Dumbledore and Harry Potter|Ministry's campaign to discredit Dumbledore and Harry Potter]]. On [[12 August]], they were present at [[Harry Potter]]'s [[Disciplinary hearing of Harry Potter|disciplinary hearing]]. When [[Albus Dumbledore|Dumbledore]] arrived at [[Courtroom Ten]] as witness for the defence, these two witches waved to him as a welcome.<ref name="OP8">{{OOTP|B|8}}</ref>
+
+==Behind the scenes==
+*One of these two witches may be [[Griselda Marchbanks|Professor Griselda Marchbanks]], who knew Dumbledore since his youth and was one of the [[Wizengamot]] elders at the time of the hearing.
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{OOTP|F}} {{Comment|Possible appearance}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 10 employees}}
+
+[[pt-br:Duas bruxas idosas não identificadas da Suprema Corte]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]
+[[Category:Wizengamot members]]

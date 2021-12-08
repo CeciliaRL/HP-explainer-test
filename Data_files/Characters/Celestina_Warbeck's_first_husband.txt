@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Celestina Warbeck's first husband
+|born = 
+|died = 
+|blood = 
+|nationality = 
+|title = 
+|alias = 
+|marital = Divorced<ref name="PM"/>
+|signature = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = *[[Celestina Warbeck]] (ex-wife)<ref name="PM"/>
+*[[Celestina Warbeck's father|Mr Warbeck]] (ex-father-in-law)<ref name="PM"/>
+*[[Celestina Warbeck's mother|Mrs Warbeck]] (ex-mother-in-law)<ref name="PM"/>
+*[[Warbeck family]] (ex-in-laws)<ref name="PM"/>
+|romances = [[Celestina Warbeck]] (formerly)<ref name="PM"/>
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Backing dancer for [[Celestina Warbeck]]<ref name="PM"/>
+|house = 
+|loyalty = [[Celestina Warbeck]] (formerly)<ref name="PM"/>
+}}
+This '''man''' was a backing dancer for [[Celestina Warbeck]] early in her career. He became [[Love|romantically]] involved with her at some point, and they married, but ended up divorcing after only a year, for reasons unknown.<ref name="PM">{{WW|celestina=warbeck}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Warbeck, Celestina's first husband}}
+[[de2:Celestina Warbecks erster Ehemann]]
+[[es:Primer marido de Celestina Warbeck]]
+[[fr:Premier mari de Celestina Moldubec]]
+[[pl:Pierwszy mąż Celestyny Warbeck]]
+[[zh:塞蒂娜·沃贝克的第一任丈夫]]
+[[Category:Celestina Warbeck's romantic relationships]]
+[[Category:Dancers]]
+[[Category:Divorced individuals]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Unnamed family members]]

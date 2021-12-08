@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme=macusa
+|name=E. A. Limus
+|image=
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|nationality=[[United States of America|American]]
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Limus family]]
+*[[Luciano Limus]] (possibly)
+*[[Eduardus Limus (criminal)|Eduardus Limus]] (possibly)
+|hidem=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=[[Federal Identity Commissioner]]<ref name="macusaid">See [[:File:PorpentinaGoldsteinsID.jpg|this image]] of Porpentina Goldstein's [[Magical Congress of the United States of America|MACUSA]] identification card on display as part of a prop exhibition in [[Japan]].</ref>
+[[Chief Auror]]<ref name="CB">{{CB}} - {{See image|File:MACUSA Auror Reference.jpg}}</ref>
+|house=
+|loyalty=*[[Magical Congress of the United States of America]]
+**[[Department of Magical Law Enforcement (MACUSA)|Department of Magical Law Enforcement]]
+***[[Department of Aurors]]
+*[[Limus family]]
+}}
+'''E. A. Limus''' was an [[United States of America|American]] [[wizardkind|wizard or witch]] who worked as the [[Federal Identity Commissioner]] and [[Chief Auror]]<ref name="CB" /> at the [[Magical Congress of the United States of America]] in the [[1920s]].<ref name="macusaid" />
+
+As Federal Identity Commissioner, their job involved keeping records of MACUSA employees and certifying employee identification.<ref name="macusaid" /> As such, their signature appeared on the identification card of [[Porpentina Goldstein]], a worker in the [[Wand Permit Office]].<ref name="macusaid" />
+
+As Chief Auror, they were presumably partly responsible for overseeing the work of American Aurors. Their signature appeared on wanted posters as certification.<ref name="CB" />
+
+==Behind the scenes==
+*This character was named after [[Eduardo Lima]], a graphic artist who has worked on every [[Harry Potter films|''Harry Potter'' film]] since ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]. ''
+
+==Appearances==
+*{{FB|F}} {{1st Mention}} {{C|Mentioned on identification card}}
+*{{CB}} {{C|Mentioned on poster}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+{{DEFAULTSORT:Limus, E. A.}}
+
+[[ru:Э. А. Лимус]]
+[[fr:E. A. Limus]]
+[[es:E. A. Limus]]
+[[pt-br:E. A. Limus]]
+[[de2:E. A. Limus]]
+[[Category:American individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Limus family|E. A.]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Wizards]]

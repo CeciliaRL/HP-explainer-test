@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=
+|born=
+|died=
+|blood=
+|marital=
+|nationality=
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="COS3"/>
+|gender=
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=[[Wireless]] broadcaster<ref name="COS3"/>
+|house=
+|loyalty=[[Wizarding Wireless Network]]<ref name="COS3"/>
+}}
+This''' [[Wizardkind|witch or wizard]]''' (fl. [[1992]]) was heard from an old [[Wireless|radio]] at the [[Weasley family|Weasley]] family's home ([[The Burrow]]) announcing that "''[[Witching Hour]], with the popular singing sorceress, [[Celestina Warbeck]]''" was coming up.<ref name="COS3">{{COS|B|3}}</ref>
+
+==Behind the scenes==
+*It is likely that this individual was [[Glenda Chittock]], although it may have been a substitute for her.
+
+==Appearances==
+*{{COS}} {{1st}} {{C|Voice only}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Broadcasters]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

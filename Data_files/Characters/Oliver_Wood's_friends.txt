@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified wizards
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="DHF2"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+}}
+These '''[[Wizardkind|individuals]]''' were friends of [[Oliver Wood]], once [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] for the [[Hogwarts School of Witchcraft and Wizardry]] [[Gryffindor]] [[Quidditch]] [[Gryffindor Quidditch team|team]].
+
+==Biography==
+They joined Oliver in the [[Battle of Hogwarts]] on the [[2 May]] [[1998]], defending Hogwarts School by fighting against [[Tom Riddle|Lord Voldemort]]'s army of [[Death Eaters]] and [[Dark Arts|dark]] [[creature]]s.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:British individuals]]
+[[Category:Cliques]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

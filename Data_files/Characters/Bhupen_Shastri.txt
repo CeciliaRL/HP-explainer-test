@@ -1,0 +1,51 @@
+{{Imageless}}
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Bhupen Shastri
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+'''Bhupen Shastri''' was a [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He was seen walking around the school during the [[1993-1994 school year]].
+
+==Etymology==
+Bhupen is an Indian given name, of Sanskrit origin, meaning "king." Shastri is a surname of Indian origin. 
+
+==Behind the scenes==
+*Given his name, it can be presumed the he is of [[India]]n descent.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Shastri, Bhupen}}
+[[pl:Bhupen Shastri]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

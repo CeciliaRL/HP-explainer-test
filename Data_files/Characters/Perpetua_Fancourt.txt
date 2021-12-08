@@ -1,0 +1,88 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:Perpetua Fancourt.jpg|250px]]
+|name = Perpetua Fancourt
+|born = [[1900]]
+|died = [[1991]] (aged 90 - 91)
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Red <small>(dyed blue at one point)</small>
+|eyes = Green
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Astronomer]]
+*Inventor
+|house = [[Ravenclaw]]<ref name="pottermore">{{PM}} introduction for Ravenclaws (transcription available [http://lady-slytherin-forever.tumblr.com/post/9001220525/ravenclaw-spoilers-stop-reading-if-you-dont-want-to here])</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+'''Perpetua Fancourt''' ([[1900]]-[[1991]]) was a [[wizardkind|witch]] who is credited with the invention of the [[lunascope]], an astronomical device used to analyse the phases of the [[moon]].
+
+==Biography==
+===Early life===
+{{Quote|Ravenclaw house has an illustrious history. Most of the greatest wizarding inventors and innovators were in our house, including Perpetua Fancourt, the inventor of the lunascope ''[…]''.|[[Robert Hilliard]].|Pottermore}}Perpetua Fancourt was born in [[1900]],<ref name="PSg">{{PS|G}}</ref> somewhere in the [[Great Britain|British Isles]].
+
+In her youth, she attended [[Hogwarts School of Witchcraft and Wizardry]] from around [[1911]] to [[1918]], where she was [[Sorting ceremony|sorted]] into [[Ravenclaw]].<ref name="pottermore"/>
+
+===Adulthood===
+[[File:Perpetua FancourtGBC.png|200px|thumb|left|A younger Perpetua Fancourt]]
+
+{{Quote|It's a lunascope, old boy — no more messing around with moon charts, see?|A diner at the [[Leaky Cauldron]] in [[1993]].|Harry Potter and the Prisoner of Azkaban}}
+After her graduation from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]], Ms. Fancourt studied further into [[Astronomy (class)|Astronomy]], becoming an accomplished and celebrated Astronomer. Perhaps in an attempt to further the study of her area of expertise, she invented an optical device to counter the difficulty of working with moon charts, which she named [[lunascope]].<ref name="PSg"/> Ms. Fancourt must have created it at a fairly young age, as by [[1926]] they were available to own.
+
+===Death and post-mortem===
+Ms. Fancourt died in [[1991]], aged around 91. In her honour, her achievement, the invention of the [[lunascope]], was recorded on a [[Chocolate Frog Card]].<ref name="PSg"/>
+
+On [[1 September]], [[1991]], [[Prefect]] [[Robert Hilliard]] welcomed the [[Ravenclaw]] [[first year]]s to [[Ravenclaw Tower]] with a short speech in which he mentioned inventor Perpetua Fancourt as one of the many notable Hogwarts students who had been [[Sorting ceremony|sorted]], like them, into Ravenclaw.<ref name="pottermore"/>
+
+==Magical abilities and skills==
+*'''[[Astronomy (class)|Astronomy]]''': Fancourt was a celebrated and highly accomplished professional [[Astronomer]] with much knowledge of this branch of both [[magic]] and [[science]]. She specialised in the study of [[moon]]s, and even invented her own Astronomical device, the [[Lunascope]], to help overcome the difficulty of [[Moon chart]]s, a very impressive achievement in the field which gained her recognition on a [[Chocolate Frog Card]].
+
+==Etymology==
+The name "Perpetua" is derived from Latin perpetuus meaning "continuous".
+
+==Behind the scenes==
+*Based on her year of birth, she would have been three or four years below Newt Scamander, who owned one of her Lunascopes, during their school years at Hogwarts, though it is unknown if they knew each other.
+==Appearances==
+{{Imagecat|Images of Perpetua Fancourt}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Astronomy}}
+{{Chocolate Frog Cards}}
+
+{{DEFAULTSORT:Fancourt, Perpetua}}
+
+[[de:Perpetua Fancourt]]
+[[es:Perpetua Fancourt]]
+[[fi:Perpetua Fancourt]]
+[[fr:Perpetua Fancourt]]
+[[pl:Perpetua Fancourt]]
+[[ru:Перпетуа Фанкорт]]
+[[Category:1900 births]]
+[[Category:1991 deaths]]
+[[Category:Astronomers]]
+[[Category:British or Irish individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Inventors]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1910s]]
+[[Category:Wizards]]

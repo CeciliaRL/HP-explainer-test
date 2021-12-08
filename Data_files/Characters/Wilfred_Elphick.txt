@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Wilfred Elphick COSG.png|thumb]]
+|name = Wilfred Elphick
+|born = [[1112]]<ref name="COSG"/>
+|died = [[1199]] (aged 86 - 87)<ref name="COSG"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Black<ref name="COSG">{{COS|G}}</ref>
+|eyes = Brown<ref name="COSG"/>
+|skin = Dark<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Wilfred Elphick''' ([[1112]]-[[1199]]) was the first [[Wizardkind|wizard]] to be gored by an [[Africa]]n [[Erumpent]], which is an extremely unlikely event, given the fact that the [[Erumpent horn|horn]] of an Erumpent almost always explodes on contact, due to the [[Exploding Fluid|fluid]] it contains.<ref name="COSG"/> On his [[Chocolate Frog Card]], he was shown in bandages, showing he survived this attack.<ref name="POAG">{{POA|G}}</ref>
+
+==Etymology==
+Wilfred means "wanting peace," from the Old English ''wil'', "desire," and ''fred'', "peace."<ref>"[http://www.behindthename.com/name/wilfred Wilfred]" on Behind the Name</ref> The surname Elphick derived from the Old English given name Aelfheah, which meant "high elf," from ''aelf'', "elf," and ''heah'', "high."<ref>"[http://www.surnamedb.com/surname.aspx?name=Elphick Elphick]" on The Internet Surname Database</ref>
+
+==Appearances==
+{{Imagecat|Images of Wilfred Elphick}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Elphick, Wilfred}}
+[[de:Wilfred Elphick]]
+[[es:Wilfred Elphick]]
+[[ru:Уилфред Элфик]]
+[[pl:Wilfred Elphick]]
+[[fr:Wilfrid Elphick]]
+[[it:Wilfred Elphick]]
+[[fi:Wilfred Elphick]]
+[[nl:Wilfred Elfick]]
+[[el:Γουίλφρεντ Έλφικ]]
+[[zh:威尔弗雷德·艾尔菲克]]
+[[Category:1112 births]]
+[[Category:1199 deaths]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Brown-eyed individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

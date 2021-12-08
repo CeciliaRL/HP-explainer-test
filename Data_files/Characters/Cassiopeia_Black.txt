@@ -1,0 +1,96 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Cassiopeia Black.jpg|250px]]
+|name = Cassiopeia Black
+|born = [[1915]]<ref name="BFT">''[[House of Black|Black family tree]]''</ref>
+|died = [[1992]]<ref name="BFT" /> (aged 76–77)
+|blood = [[Pure-blood]]<ref name="BFT" />
+|marital = Single
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="BFT" />
+|gender = Female<ref name="BFT" />
+|height = 
+|weight = 
+|hair = 
+|eyes = Brown
+|skin = White
+|family = *[[Cygnus Black II]] (father) †<ref name="BFT" />
+*[[Violetta Bulstrode|Violetta Black]] (mother)<ref name="BFT" />
+*[[Pollux Black]] (older brother) †<ref name="BFT" />
+*[[Marius Black]] (younger brother)<ref name="BFT" />
+*[[Dorea Black|Dorea Potter]] (younger sister) †<ref name="BFT" />
+*[[Irma Crabbe|Irma Black]] (sister-in-law)<ref name="BFT" />
+*[[Charlus Potter]] (brother-in-law) †<ref name="BFT" />
+*[[Walburga Black]] (niece) †<ref name="BFT" />
+*[[Alphard Black]] (nephew) †<ref name="BFT" />
+*[[Cygnus Black III]] (nephew) †<ref name="BFT" />
+*[[Charlus Potter's son|Charlus's son]] (nephew)<ref name="BFT" />
+*[[Sirius Black II]] (paternal uncle) †<ref name="BFT" />
+*[[Phineas Black]] (paternal uncle) †<ref name="BFT" />
+*[[Arcturus Black II]] (paternal uncle) †<ref name="BFT" />
+*[[Belvina Black|Belvina Burke]] (paternal aunt) †<ref name="BFT" />
+*[[Hesper Gamp|Hesper Black]] (paternal aunt by marriage)<ref name="BFT" />
+*[[Lysandra Yaxley|Lysandra Black]] (paternal aunt by marriage)<ref name="BFT" />
+*[[Herbert Burke]] (paternal uncle by marriage)<ref name="BFT" />
+*[[Arcturus Black III]] (paternal first cousin) †<ref name="BFT" />
+*[[Lycoris Black]] (paternal first cousin) †<ref name="BFT" />
+*[[Regulus Black I]] (paternal first cousin) †<ref name="BFT" />
+*[[Belvina Burke's sons]] (paternal first cousins)<ref name="BFT" />
+*[[Belvina Burke's daughter]] (paternal first cousin)<ref name="BFT" />
+*[[Callidora Black|Callidora Longbottom]] (paternal first cousin)<ref name="BFT" />
+*[[Cedrella Black|Cedrella Weasley]] (paternal first cousin)<ref name="BFT" />
+*[[Charis Black|Charis Crouch]] (paternal first cousin) †<ref name="BFT" />
+*[[Phineas Nigellus Black]] (paternal grandfather) †<ref name="BFT" />
+*[[Ursula Flint|Ursula Black]] (paternal grandmother)<ref name="BFT" />
+*[[House of Black]]
+*[[Bulstrode family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="slytherin">In {{HBP|B|4}}, [[Horace Slughorn]] states: "The whole Black family had been in my house, but Sirius ended up in [[Gryffindor]]!" This implies that all Blacks except Sirius were sorted into [[Slytherin]] while Slughorn was teaching at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. As revealed in ''[[Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies]]'', Chapter 3 (Horace Slughorn), Slughorn had "completed half a century of service" at the time of his retirement in [[1981]], meaning he started teaching there circa [[1931]]. Cassiopeia, born in [[1915]], presumably attended Hogwarts from [[1926]] to [[1933]], and thus would have been a student of Slughorn for at least part of her time at Hogwarts.</ref>
+|loyalty = *[[House of Black]]
+*[[Bulstrode family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+'''Cassiopeia Black''' ([[1915]]–[[1992]]) was a [[pure-blood]] [[Wizardkind|witch]], the eldest daughter of [[Cygnus Black II]] and [[Violetta Bulstrode|Violetta Black]] (née Bulstrode) and sister of [[Pollux Black|Pollux]], [[Marius Black|Marius]] and [[Dorea Black|Dorea]]. Cassiopeia never married or had any children.<ref name="BFT" />
+
+==Behind the scenes==
+*Based on a statement by [[Horace Slughorn]], Cassiopeia may well have been a member of the [[Slytherin|Slytherin House]].  She attended Hogwarts c. [[1926]]–[[1933]]. Slughorn became Potions Master in 1931 when she would likely have been in her fifth or sixth year. She also would have been one of the first ever Slytherin students that Horace Slughorn taught when he joined in [[1931]]. 
+*Since Cassiopeia and [[Callidora Black|Callidora]] were born in the same year, it is likely that they were classmates at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].
+*Cassiopeia is a queen in Greek mythology, and her daughter is Andromeda. Another relative was [[Andromeda Tonks]], a grand-niece of Cassiopeia Black.
+*Cassiopeia died two years after her brother Pollux and one after their [[Arcturus Black III|cousin]], and the same year as [[Lucretia Black|two]] [[Cygnus Black III|other]] members of the Black family. At that time, Cassiopeia's grand-nephew ([[Sirius Black|Sirius Black III]]) was in [[Azkaban]].
+*On the family tree featured in the film, her first name is misspelt "Cassiapeia".
+
+==Etymology==
+Like many members of the [[House of Black]], Cassiopeia is named after a [[Wikipedia:Cassiopeia (constellation)|constellation]]. The constellation is in turn named after [[Wikipedia:Cassiopeia (mythology)|Queen Cassiopeia]] of Greek mythology, a beautiful but vain woman whose arrogant boasting led to her downfall. The name is derived from the Greek Κασσιόπη, meaning "she whose words excel".
+
+==Appearances==
+*{{OOTP|F}} {{C|Appears on Black family tapestry}}
+*{{OOTP|G}} {{C|Seen on [[House of Black|Black family]] tree tapestry}}
+*{{DH|G1}} {{C|Seen on [[House of Black|Black family]] tree tapestry}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Cassiopeia Black]]
+[[fr:Cassiopeia Black]]
+[[ru:Кассиопея Блэк]]
+[[pl:Cassiopeia Black]]
+
+{{DEFAULTSORT:Black, Cassiopeia}}
+[[Category:1915 births]]
+[[Category:1992 deaths]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:House of Black]]
+[[Category:Pure-bloods]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1920s]]
+[[Category:Unmarried individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,59 @@
+{{Individual infobox
+|image = [[File:Ya Zhou.png|250px]]
+|name = [[Ya Zhou]]
+|born = Before [[1926]]
+|died = 
+|title = [[Madam]]<ref name="FBS22"/>
+|alias = 
+|nationality = Chinese {{C|possibly}}
+|signature = 
+|species = [[Human]]<ref name="FBS22"/>
+|gender = Female<ref name="FBS22"/>
+|hair = 
+|eyes = 
+|skin = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|wand = 
+|animagus = 
+|patronus = 
+|boggart = 
+|house = 
+|job = Delegate of the [[International Confederation of Wizards]]<ref name="FBS22"/>
+|loyalty = [[International Confederation of Wizards]]<ref name="FBS22"/>
+|theme = wizard
+}}
+'''Madam Ya Zhou''' was a [[wizardkind|witch]] who was a delegate to the [[International Confederation of Wizards]].<ref name="FBS22">{{FB|S|22}}</ref>
+
+==Biography==
+{{Quote|You know which of your creatures was responsible, Mr Scamander?|Ya asking Newt about what killed Senator Shaw|Fantastic Beasts and Where to Find Them: The Original Screenplay}}
+On [[6 December]] [[1926]], she met in [[New York]] to discuss the magical disturbances in [[New York]], including the death of [[Muggle|No-Maj]] Senator [[Henry Shaw Junior]].<ref name="FBS22"/>
+
+==Behind the scenes==
+*Ya Zhou was portrayed by [[Gemma Chan]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.<ref>{{IMDb name|nm2110418|Gemma Chan}}</ref>
+*Based on her name, Ya Zhou was most likely from [[China]] and as such may have worked for the [[Chinese Ministry of Magic]].
+*If "Ya" is indeed her surname, not "Zhou", then the name's pronunciation is the same as the word "Asia" in Chinese. In fact, the simplified Chinese translation of {{FB|S}} translates the name to "亚洲", which means Asia. But since "亚" is a very uncommon surname, the surname could be "周" ("Zhou") instead.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+*{{LEGO|D}}
+
+==Notes and references==
+{{Reflist}}
+{{ICW}}
+{{DEFAULTSORT:Zhou, Ya}}
+[[de:Ya Zhou]]
+[[de2:Ya Zhou]]
+[[es:Ya Zhou]]
+[[fr:Ya Zhou]]
+[[pl:Ya Zhou]]
+[[pt-br:Ya Zhou]]
+[[ru:Йа Чжоу]]
+[[zh:周雅]]
+[[Category:Asian individuals]]
+[[Category:Females]]
+[[Category:International Confederation of Wizards members]]
+[[Category:Wizards]]

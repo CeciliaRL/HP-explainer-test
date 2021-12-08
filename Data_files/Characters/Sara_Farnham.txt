@@ -1,0 +1,34 @@
+{{Individual infobox
+|image = [[File:SaraFarnham.png|250px]]
+|name = Sara Farnham
+|blood = [[Non-magic people|Muggle]]
+|nationality = [[England|English]]
+|species = [[Human]]
+|gender = Female
+|hair = Blonde
+|eyes = Green
+|skin = White
+|theme = muggle
+}}
+'''Sara Farnham''' was an [[England|English]] [[Non-magic people|Muggle]] and neighbour of [[Bilius Finbok]], a [[Wizardkind|wizard]] and employee of the [[Department of Intoxicating Substances]] at the [[British Ministry of Magic]].<ref name=":0">{{FBC|5|1}}</ref>
+
+==Biography==
+
+During an investigation into Finbok's disappearance, Farnham aided investigator [[Mathilda Grimblehawk]] and her [[Mathilda Grimblehawk's partner|partner]], providing an eyewitness account that she found Finbok injured and unconscious in his home<ref name=":0" />. She likely aided in transporting Finbok to [[St David's Hospital|St David's]], a Muggle hospital.
+
+==Behind the scenes==
+*Before she introduces herself to the player, Sara Farnham's lines are identified as those of "Muggle Neighbour".
+
+==Appearances==
+{{Imagecat|Images of Sara Farnham}}
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Farnham, Sara}}
+[[pl:Sara Farnham]]
+[[fr:Sara Farnham]]
+[[ru:Сара Фарнем]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Muggles]]

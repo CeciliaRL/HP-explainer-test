@@ -1,0 +1,51 @@
+{{Youmay|the Slytherin student|[[Simon Dedworth (I)|the Hogwarts prefect]]}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Simon Dedworth.jpg|150px]]
+|name = Simon Dedworth
+|born = [[31 August]] [[1985]] or earlier<ref>He must have at least been in his first year in 1996.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Simon Dedworth (I)]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+*[[Dedworth family]]
+}}
+'''Simon Dedworth''' was a [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. During the [[1996–1997 school year]], he blocked access to areas of the school grounds that were off limits.
+
+==Etymology==
+The name "Simon" is from Σιμων (''Simon''), the New Testament Greek form of the Hebrew name שִׁמְעוֹן (''Shim'on'') which meant "he has heard".
+
+==Appearances==
+*{{HBP|G}} {{C|Nintendo DS version only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dedworth, Simon}}
+
+[[fr:Simon Dedworth]]
+[[Category:British or Irish individuals]]
+[[Category:Dedworth family]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

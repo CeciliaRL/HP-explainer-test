@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = muggle
+|image = Newspaper_seller2.jpg
+|name = Newspaper Seller
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Newspaper vendor
+|house = 
+|loyalty = 
+}}
+{{Quote|Get the gossip. Grab yourself a copy!|Newspaper seller|Harry Potter and the Deathly Hallows: Part 1 (video game)}}
+
+This '''newspaper seller''' was selling [[Non-magic people|Muggle]] newspapers on [[Shaftesbury Avenue]] on [[1 August]], [[1997]].<ref name="DHVG1">{{DH|G1}}</ref>
+
+==Behind the scenes==
+*In the [[Harry Potter and the Deathly Hallows: Part 1 (video game)|video game adaptation]] of {{DH|F1}}, after [[Apparition|Disapparating]] from [[Wedding of William Weasley and Fleur Delacour|Bill and Fleur's wedding]], [[Ronald Weasley|Ron]] wanted [[Harry Potter|Harry]], while under the [[Cloak of Invisibility|Invisibility Cloak]], to check if this individual was a [[Non-magic people|Muggle]], or in fact a [[Death Eaters|Death Eater]], for which he was thankfully the former.<ref name="DHVG1">{{DH|G1}}</ref>
+
+==Appearances==
+*{{DH|G1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males|Muggle newspaper seller]]
+[[Category:Unidentified Muggles]]

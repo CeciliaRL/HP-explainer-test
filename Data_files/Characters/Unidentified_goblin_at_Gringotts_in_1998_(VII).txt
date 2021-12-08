@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = gringotts
+|image = [[File:Goblin.png|250px]]
+|name = Unidentified goblin
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]<ref name="DHF2"/>
+|gender = Male<ref name="DHF2"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="DHF2"/>
+|eyes = Black<ref name="DHF2"/>
+|skin = Light<ref name="DHF2"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Gringotts Wizarding Bank|Gringotts Bank]] employee<ref name="DHF2"/>
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="DHF2"/>
+}}
+This '''goblin''' worked at [[Gringotts Wizarding Bank]] during the wizard management in [[1997]]-[[1998]], after the Ministry fell to the Death Eaters.<ref name="DHF2"/>
+
+==Biography==
+===1998===
+He was present at the bank when [[Harry Potter]], [[Hermione Granger]], [[Ronald Weasley|Ron Weasley]], and [[Griphook]] hosted a break-in in order to retrieve one of [[Tom Riddle|Lord Voldemort]]'s [[Horcrux]]es, [[Helga Hufflepuff's Cup]], from the [[Lestrange Vault]].<ref name="DHF2">{{DH|F2}}</ref>
+
+===Death===
+When the Gringotts dragon started to escape, the goblin became shocked and most likely got killed by it when he appeared not to be running from his seat, but his fate is unknown.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==See also==
+*[[Unidentified Goblin at Gringotts (VIII)]]
+
+==Notes and references==
+{{Reflist}}
+
+{{Gringotts}}
+
+[[es:Duende no identificado en Gringotts en 1998 (VII)]]
+[[Category:Bankers]]
+[[Category:British individuals]]
+[[Category:Gringotts employees]]
+[[Category:Males]]
+[[Category:Unidentified Goblins]]

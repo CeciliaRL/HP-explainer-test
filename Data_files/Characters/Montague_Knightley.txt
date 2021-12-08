@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Montague Knightley.jpg|250px]]
+|name = Montague Knightley
+|born = [[1506]]
+|died = [[1588]] (aged 81-82)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Wizard's Chess]] Champion
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Dark
+|eyes = Green
+|skin = Fair
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Professional [[Wizard's Chess]] player
+|house = 
+|loyalty = 
+}}
+'''Montague Knightley''' ([[1506]]-[[1588]]) was a professional [[Wizard's Chess]] player. During his career, he eventually became the Wizard's Chess Champion. For his skill at Wizard's Chess, he became immortalised on a [[Chocolate Frog Card]].<ref>{{PS|G}}</ref>
+
+==Etymology==
+The name "Montague" is from a surname meaning "pointed mountain" in French. "Knightly" is presumably a nod to the Knight chess piece.
+
+==Appearances==
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+{{DEFAULTSORT:Knightley, Montague}}
+
+[[de:Montague Knightley]]
+[[fr:Montague Knightley]]
+[[fi:Montague Knightley]]
+[[pl:Montague Knightley]]
+[[ru:Монтаги Найтли]]
+[[sv:Montague Knightley]]
+[[Category:1506 births]]
+[[Category:1588 deaths]]
+[[Category:British individuals]]
+[[Category:Deceased individuals]]
+[[Category:Gold Chocolate Frog Cards]]
+[[Category:Green-eyed individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

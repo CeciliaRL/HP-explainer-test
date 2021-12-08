@@ -1,0 +1,61 @@
+{{HogwartsMysterySpoiler}}
+{{Youmay|the Potions Master|[[Bartholomew Barebone]]}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = 
+|born = 
+|died = Before [[1887]]<ref name="age">In the [[1986–1987 school year]], [[Nicholas de Mimsy-Porpington]] told [[Jacob's sibling]] that Bartholomew had been dead for hundreds of years. While the exact time that had passed since his death is unknown, it was certainly more than a hundred years.</ref>
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="Y3SQ"/>
+|signature = 
+|species = [[Human]]<ref name="Y3SQ"/>
+|gender = Male<ref name="Y3SQ">{{HM|3|Nearly Headless Nick}}</ref>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Potions Master]] at [[Hogwarts School of Witchcraft and Wizardry]]<ref name="Y3SQ"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="Y3SQ"/>
+}}
+'''Professor Bartholomew''' was the [[Potions Master]] at [[Hogwarts School of Witchcraft and Wizardry]] at some point between the 15th and 19th centuries. He was working at Hogwarts during the same time as [[Charms (class)|Charms]] professor [[Fortinbras]], and he was the only one she trusted with her search for the [[Cursed Vaults]]. He wrote his discoveries about the Vaults on his [[Beaker of Bartholomew|beaker]] in [[Rune|ancient runes]], and left it behind in the [[Potions Classroom]] in the hopes that those who came after would find it and continue his work.<ref name="Y3SQ" />
+
+[[Nicholas de Mimsy-Porpington|Sir Nicholas de Mimsy-Porpington]] knew him.<ref name="Y3SQ" />
+
+He died at some point before [[1887]] and did not become a [[ghost]].<ref name="Y3SQ" />
+
+==Appearances==
+
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=[[Potions Master]]
+|years= Unknown
+|successor=Unknown, eventually [[Horace Slughorn]]
+}}
+{{End box}}
+{{Staff}}
+{{Potions}}
+[[es:Bartolomeo]]
+[[ru:Бартоломью]]
+[[Category:British or Irish individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Potions Masters]]
+[[Category:Wizards]]

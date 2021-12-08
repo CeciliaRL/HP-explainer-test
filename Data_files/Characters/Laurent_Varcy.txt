@@ -1,0 +1,19 @@
+{{Transcribed image|File:Marauder's_Map_POA_ILL.png}}
+{{Individual_infobox
+|theme = individual
+|name = Laurent Varcy
+|born = 
+|house = 
+|gender = Male
+|image = Lurent Varcy.png
+}}
+
+'''Laurent Varcy''' was a individual who visited the [[Hogwarts Castle#Fourth Floor|fourth floor]] of [[Hogwarts School of Witchcraft and Wizardry]] with [[Benjamin Hater]] as seen on the [[Marauder's Map]] in the [[1993-1994 school year]].<ref>''[[Harry Potter and the Prisoner of Azkaban|Harry Potter and the Prisoner of Azkaban (illustrated edition)]]'', chapter 10</ref>
+
+==Appearances==
+*{{POA|IE}} {{C|Name seen on the Marauder's Map}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Varcy, Laurent}}
+[[Category:Males]]

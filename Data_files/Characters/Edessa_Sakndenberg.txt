@@ -1,0 +1,104 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = EdessaSakndenbergPortrait.jpg
+|name = Edessa Sakndenberg
+|born = 
+|died = In or before [[1986]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, Sakndenberg must have died sometime in or before [[1992]], given her portrait's appearance in the [[Headmaster's office]] in {{COS|FA}}.</ref>
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]
+*[[Headmaster|Headmistress]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Blonde
+|eyes = Blue
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Social historian specialising in [[Non-magic people|Muggle]]s
+*[[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] (formerly)
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Professor Edessa Sakndenberg'''<ref name="HPLE-PA">{{HPLE|PA}} {{see image|File:Edessa Sakndenberg - HPLE-PA.jpg}}</ref><ref name="quest">{{POA|F}} DVD (Disc 2 - ''The Quest of Sir Cadogan'') ([https://youtu.be/WGhrPGFcheg?t=308 see video])</ref> (or possibly '''Skanderberg'''<ref name="HPLEG" /><ref name="panel" />)  (fl. 1503) was a [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]] in the early [[16th century|sixteenth century]].<ref name="cosdvd">{{COS|F}} DVD (Disc 2 - ''Dumbledore's Office'')</ref>
+
+==Biography==
+===Lifetime===
+Professor Sakndenberg lived in the [[15th century|fifteenth century]]. In her lifetime, she was a social historian, specialising in [[Non-magic people|Muggle]] society.<ref name="HPLEG">{{HPLE|G}} {{see image|File:HomeLifeAndSocialHabitsOfBritishMuggles.png}}</ref> She was appointed [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]], and had a [[portrait]] painted in [[1503]].<ref>{{HPLE}} {{see image| File:EdessaSakndenbergPortrait.jpg}}</ref>
+
+===Post-mortem===
+After her death, her [[Headmaster portraits|portrait]] was hung in the [[Headmaster's office]], so that she could advise the current Headmaster.<ref name="cosdvd" /> She had more portraits around the castle: in the [[East Wing]],<ref name="PoAVG">{{POA|G}}</ref> [[Grand Staircase]]<ref>{{OOTP|G}}</ref> and other halls such as the [[Glanmore Peakes' Corridor]]<ref name="PoAVG"/>
+
+==Etymology==
+*"Edessa" (probably originally from a Phrygian or Illyrian word meaning "tower in the water") is the name of a [[wikipedia:Edessa,_Greece|Greek city]] and, in Ancient Greece, also a province.
+*Her surname may be the {{wplink|Albania}}n name {{wplink|Skanderbeg}} influenced by German names ending in ''-en-berg''.
+
+==Behind the scenes==
+*Edessa Sakndenberg's portrait was based on a [http://www.nationalgalleries.org/media/5/artworks_other/the_hen_wife.jpg 1706 portrait of the Henwife of Castle Grant] by [[Wikipedia:Richard Waitt|Richard Waitt]].
+*The phrase on Sakndenberg's portrait (''mirabile visu'') is a Latin expression, meaning "wonderful to behold."<ref name="HPLE-PA"/><ref>[http://www.merriam-webster.com/dictionary/mirabile%20visu "Mirabile visu"] at Meriam-Webster.com</ref>
+*On a wood panel in the Divination Classroom of Hogwarts, a name is partially visible, with '...essa Skanderberg' readable, possibly yet another alternative spelling of her name.<ref name="panel">{{POA}} {{see image|File:EoessaSkanderbergName.jpg}}</ref>
+*On the cover of the ''[[Home Life and Social Habits of British Muggles]]'' prop that was featured on {{COS|FA}}, Edessa Skanderberg is credited to have authored the book. This is canonically wrong, as we know the book was written by [[Wilhelm Wigworthy]] in [[1987]], but nevertheless we can conclude from the text of the back cover blurb that Edessa was a "''social historian and Muggle specialist''".<ref name="HPLEG" />
+*Her portrait in {{HM}} is titled "Edessa Skandenberg", but as third-tier [[canon]] is outranked by the spelling on the second-tier film portrait.<ref>{{HM|4|16}} ([https://youtu.be/4k8KS864KCs?t=1745 see video])</ref>
+
+==Appearances==
+{{Imagecat|Images of Edessa Sakndenberg}}
+*{{PS|G}} {{Portrait}}
+*{{COS|F}} {{Portrait}}
+*{{COS|G}} {{Portrait}}
+*{{POA|F}} {{Portrait}}
+*{{POA|G}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+*{{DH|G2}} {{Portrait}}<ref>Edessa herself had escaped during the [[Battle of Hogwarts]], but the portrait is there.</ref>
+*{{WWHP}} {{Portrait}}
+*{{LEGO|Y1}} {{Portrait}}
+*{{LEGO|Y2}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+*{{HPLE|PA}} {{Portrait}}
+*{{HM}} {{Portrait}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Phyllida Spore]]
+|position=[[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=Before [[1503]]
+|successor=Unknown, eventually [[Amrose Swott|Ambrose Swott]]
+}}
+{{End box}}
+{{Staff}}
+
+{{Hogwarts sixth floor}}
+
+{{DEFAULTSORT:Sakndenberg, Edessa}}
+
+[[de:Edessa Sakndenberg]]
+[[de2:Edessa Sakndenberg]]
+[[es:Edessa Sakndenberg]]
+[[fr:Edessa Sakndenberg]]
+[[pl:Edessa Sakndenberg]]
+[[ru:Иоэсса Сакнденберг]]
+
+[[Category:Blue-eyed individuals]]
+[[Category:British or Irish individuals]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Historians]]
+[[Category:Historical figures]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Muggle experts]]
+[[Category:Portraits]]
+[[Category:Wizards]]

@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = ravenclaw
+|image = hp4askedoutravenclaw.png
+|name = Unidentified Ravenclaw student
+|born = Between [[1 September]] [[1977]] and [[31 August]] [[1983]] (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFF">{{GOF|F}}</ref>
+|gender = Female<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = Red<ref name="GOFF"/>
+|eyes = 
+|skin = Light<ref name="GOFF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="GOFF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]<ref name="GOFF"/>
+}}
+{{Dialogue a-b|Durmstrang student|Would you please come to the Ball with me?|Ravenclaw student|Yes|The students|Harry Potter and the Goblet of Fire (film)}}
+This '''individual''' was a [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]]. During the [[Triwizard Tournament]] in [[1994]], she was asked to the [[Yule Ball]] by a [[Durmstrang Institute|Durmstrang]] [[Unidentified Durmstrang students#Unidentified Durmstrang Boy III|student]].<ref name="GOFF">{{GOF|F}}</ref>
+
+==Behind the scenes==
+*It is possible that this student is [[Marietta Edgecombe]], who was described as strawberry blonde in the books.
+
+==Appearances==
+*{{GOF|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pt-br:Aluna de Corvinal não identificada que foi ao Baile de Inverno com um aluno de Durmstrang]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Unidentified Ravenclaws]]
+[[Category:Wizards]]

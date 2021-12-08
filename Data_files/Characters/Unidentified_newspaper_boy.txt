@@ -1,0 +1,26 @@
+{{Individual infobox
+|image = Newspaper Boy.jpg
+|name = Unidentified newspaper boy
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|job = Newspaper vendor
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidea = 
+}}This '''individual''' was an [[United States of America|American]] [[Muggle|No-Maj]] who worked as a newspaper boy in [[New York]] in [[1926]].<ref name="FBF">{{FB|F}}</ref>
+
+==Behind the scenes==
+The Newspaper boy was portrayed [[Gabriele Antonini]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles]]

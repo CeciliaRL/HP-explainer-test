@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme=wizard
+|name=Olaf
+|image=
+|bgcolor1=
+|species=[[Human]]<ref name="QTA3"/>
+|gender=Male<ref name="QTA3"/>
+|eyes=
+|hair=
+|born=
+|died=
+|family=*[[Goodwin Kneen]] (cousin)<ref name="QTA3"/>
+*[[Gunhilda Kneen]] (cousin-in-law)<ref name="QTA3"/>
+|blood=
+|title=
+|alias=
+|wand=
+|boggart=
+|patronus=
+|animagus=
+|job=
+|affiliation=
+|hideb=y
+|hidea=y
+|hidem=y
+|nationality = [[Norway|Norwegian]]<ref name="QTA3"/>
+}}
+'''Olaf''' (fl. [[12th century]]) was a [[Norway|Norwegian]] [[wizardkind|wizard]] who was the cousin of [[Goodwin Kneen]].
+
+During the [[12th century]], he received a letter from Goodwin that described a game of ''Kwidditch'' (''[[Quidditch]]''). Due to the historical importance of the letter, it is now on display at the [[Norwegian Ministry of Magic]].<ref name="QTA3">{{QTA|R|3}}</ref>
+
+==Etymology==
+The name "Olaf" comes from the Old Norse name Áleifr meaning "ancestor's descendent", derived from the elements anu "ancestor" and leifr "descendent". This was the name of five kings of Norway, including Saint Olaf (Olaf II).
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Olaf]]
+[[es:Olaf]]
+[[fr:Olaf]]
+[[no:Olaf]]
+[[pl:Olaf]]
+[[ru:Олаф]]
+[[Category:Males]]
+[[Category:Norwegian individuals]]
+[[Category:Wizards]]

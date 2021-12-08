@@ -1,0 +1,43 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Roger Handlebaum
+|born=
+|died=[[2003]]<br>[[Las Vegas]], [[Wikipedia:Nevada|Nevada]], [[United States]]<ref name="WU"/>
+|blood=
+|marital=
+|nationality=
+|alias=The Master of [[Troll]]s<ref name="WU"/>
+|title=
+|signature=
+|species=[[Human]]<ref name="WU"/>
+|gender=Male<ref name="WU"/>
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=[[Troll trainer]]<ref name="WU"/>
+|house=
+|loyalty=
+}}
+'''Roger "the Master of Trolls" Handlebaum''' (d. [[2003]]) was a [[wizardkind|wizard]] who, apparently, worked as a [[troll trainer]].<ref name="WU"/>
+
+Handlebaum proposed that training [[troll]]s when they were young would make the task easier, but his theory was questioned following his very public demise in [[Las Vegas]] in [[2003]].<ref name="WU">{{WU}}</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Handlebaum, Roger}}
+[[Category:2003 deaths]]
+[[Category:Males]]
+[[Category:Wizards]]

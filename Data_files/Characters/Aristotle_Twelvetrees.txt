@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme=macusa
+|image=
+|name=Aristotle Twelvetrees
+|hideb=
+|born=year unknown, [[United States of America]]
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=[[Dorcus Twelvetrees]] (daughter)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Keeper of Treasure and Dragots]]
+|house=
+|loyalty=*[[Magical Congress of the United States of America]]
+*[[Twelvetrees family]]
+}}
+'''Aristotle Twelvetrees''' was an [[United States of America|American]] [[wizardkind|wizard]].<ref name="pottermore-rappaport">"[https://www.pottermore.com/collection-episodic/history-of-magic-in-north-america-en History of Magic in North America: Rappaport's Law]" on {{PM}}</ref> He served as [[Keeper of Treasure and Dragots]] during the [[President of the Magical Congress of the United States of America|presidency]] of [[Emily Rappaport]] in the late [[18th century]], and was apparently good at his job, being described as a "competent man."<ref name="pottermore-rappaport" />
+
+==Biography==
+He had a daughter, [[Dorcus Twelvetrees|Dorcus]], who did not take after him.<ref name="pottermore-rappaport" /> She did poorly at [[Ilvermorny School of Witchcraft and Wizardry|Ilvermorny]] and was still living with him at the time he took office.<ref name="pottermore-rappaport" /> Her fraternisation with the [[Muggle|No-Maj]] [[Bartholomew Barebone]] lead to one of the greatest breaches of the [[International Statute of Wizarding Secrecy|International Statute of Secrecy]] in history and prompted the passage of [[Rappaport's Law]].<ref name="pottermore-rappaport" />
+
+==Appearances==
+*{{PM}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{MACUSA}}
+{{DEFAULTSORT:Twelvetrees, Aristotle}}
+[[de:Aristotle Twelvetrees]]
+[[de2:Aristotle Twelvetrees]]
+[[es:Aristotle Twelvetrees]]
+[[pl:Arystoteles Twelvetrees]]
+[[ru:Аристотель Твелвтрис]]
+[[fr:Aristote Douzebranches]]
+[[Category:American individuals]]
+[[Category:Historical figures]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Males]]
+[[Category:Twelvetrees family]]
+[[Category:Wizards]]

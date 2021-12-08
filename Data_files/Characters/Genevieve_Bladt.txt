@@ -1,0 +1,50 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Genevieve Bladt
+|born = 
+|died = After [[2015]] (possibly)<ref>''Wizards Unite'' reveals she went ''missing'' in 2015, but it is unknown as to whether she ''died'' or not and is only being classified as missing instead of deceased. At least one person, Gareth Greengrass, believed she ''is'' dead.</ref>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Member of the [[Department of Magical Artefacts]]
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Department of Magical Artefacts]]
+}}
+[[File:London Five Missing.png|250px|thumb|The ''[[Daily Prophet]]'' reports the disappearance of Genevieve Bladt, among others]]
+'''Genevieve Bladt''' was a [[Great Britain|British]] [[Wizardkind|witch]] and one of the [[London Five]].<ref name="WU trailer img"/>
+
+==Biography==
+She mysteriously vanished sometime during the mid-to-late [[2010s]]. Her disappearance occurred within a few hours of the other four [[Auror]]s. It was the first instance of people having gone mysteriously missing since the [[Second Wizarding War]], and hence came as a great shock to the [[Wizardkind|wizarding community]] of [[Great Britain]] at large. An investigation was launched by the [[British Ministry of Magic]] to try and locate Bladt and their fellow victims. As time passed, however, the Ministry met a dead end when the trail went cold, and it was generally felt by many that the chance of finding Bladt grew increasingly smaller, causing the despair of their family to increase and turn into outrage when the case was closed. As [[Gareth Greengrass]] indeed speculated, it is very likely that Bladt was deceased, as of [[2018]], though there was a small chance they were still alive.<ref name="WU trailer img">{{WU}} {{See image|file:WU trailer documents ref.png}}</ref>
+
+By at least the [[2010s]], during the [[Calamity]], volunteer members of the [[Statute of Secrecy Task Force]] investigated more into the Genevieve's life. They suspected her work with artefacts was related to her disappearance, but they didn't know why.<ref name="WU">{{WU}}</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bladt, Genevieve}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:London Five]]
+[[Category:Ministry of Magic employees]]
+[[Category:Wizards]]

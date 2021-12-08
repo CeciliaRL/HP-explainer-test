@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Nigel's wife
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Nigel]] (husband)
+*[[Nigel's nephew|Nephew]]
+*[[Nigel's nephew's father|Brother-in-law or husband's brother-in-law]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''individual''' was a [[Non-magic people|Muggle]] woman. In [[1992]], she married [[Nigel]], a [[wizardkind|wizard]], which made [[Nigel's nephew's father|her husband's brother or brother-in-law]] furious, as he was presumably [[Pure-blood supremacy|prejudiced against Muggles]]. [[Nigel's nephew|Her nephew]], however, was not upset at all, as this Muggle woman bought him sweets.<ref>{{COS|G}} - PC version</ref>
+
+==Appearances==
+*{{COS|G}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Żona Nigela]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Unnamed family members]]

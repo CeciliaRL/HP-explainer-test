@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Charlie Baverstock
+|hideb=hide
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=Manager
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Manager of the [[New Zealand National Quidditch team]]
+|house=
+|loyalty=[[New Zealand National Quidditch team]]
+}}'''Charlie Baverstock''' was a wizard from New Zealand who worked as manager of the [[New Zealand National Quidditch team]].<ref name="PM">{{PM}} - [[BULGARIA VERSUS NEW ZEALAND]] (Archived)</ref>
+
+He proclaimed himself 'madder then a bloke who's been locked in a box of Fwoopers' after his [[Chaser]] [[Dennis Moon]] was sent off in the 106th minute of New Zealand's first round match against [[Bulgarian National Quidditch Stadium|Bulgaria]] at the [[2014 Quidditch World Cup]]. New Zealand lost the match 410 - 170.<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Baverstock, Charlie}}
+
+[[de:Charlie Baverstock]]
+[[fr:Charlie Baverstock]]
+[[pl:Charlie Baverstock]]
+[[de2:Charlie Baverstock]]
+[[Category:Males]]
+[[Category:New Zealand individuals]]
+[[Category:Quidditch managers]]
+[[Category:Wizards]]

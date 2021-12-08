@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Kris Kolumbiko
+|born = Between [[1739]] and [[1743]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+**[[Slytherin Quidditch team]]
+}}
+'''Kris Kolumbiko''' (b. [[1730s]]/[[1740s]]) was a [[Slytherin]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1750s]]. He was [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin]] [[Quidditch]] [[Slytherin Quidditch team|team]] from [[1752]] to [[1756]].<ref>{{HPPS}}, p. 349 {{see image|File:Slytherin Captains Plaque 2.jpg}}</ref>[[File:Slytherin Captains Plaque 2.jpg|236x236px|thumb|left|{{PAGENAME}}'s name appearing on a plaque]]
+
+==Behind the scenes==
+*The naming seems to be a variant spelling of [[Chris Columbus]], director of the first two [[Harry Potter (film series)|Harry Potter films]] and a producer of the [[Harry Potter and the Prisoner of Azkaban (film)|third]].
+
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Jess Lafington]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]]
+|years=[[1752]]—[[1756]]
+|successor=[[David Makehay]]
+}}
+{{End box}}
+
+{{DEFAULTSORT:Kolumbiko, Kris}}
+
+[[pl:Kris Kolumbiko]]
+[[pt-br:Kris Kolumbiko]]
+[[ru:Крис Коламбико]]
+[[fr:Kris Kolumbiko]]
+[[Category:18th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 18th century]]
+[[Category:Wizards]]

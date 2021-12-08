@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Lucas Bargeworthy
+|hideb=y
+|born= before [[1860]], [[England]]
+|died=
+|blood=
+|alias=
+|title=[[Beater]]
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=Hide
+|family=
+|hidem=Hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Beater]] for the [[English National Quidditch team]]
+|house=
+|loyalty=[[English National Quidditch team]]
+}}
+'''Lucas Bargeworthy''' was an [[England|English]] [[Wizardkind|wizard]] who played as a [[Beater]] for the [[English National Quidditch team]] during the late [[19th century]]. In [[August]] [[1877]], he woke up along with the rest of the [[wizarding world]] with no memory of the [[Quidditch World Cup]] that was supposed to have taken place that year, although he was mysteriously missing most of his teeth.<ref>[https://web.archive.org/web/20160307004515/https://www.pottermore.com/writing-by-jk-rowling/history-of-the-quidditch-world-cup History of the Quidditch World Cup] from {{PM}} (via The Internet Archive)</ref>
+
+==Appearances==
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Bargeworthy, Lucas}}
+
+[[de:Lucas Bargeworthy]]
+[[pl:Lucas Bargeworthy]]
+[[fr:Lucas Bargeworthy]]
+[[Category:Beaters]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

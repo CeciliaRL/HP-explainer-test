@@ -1,0 +1,67 @@
+{{Individual infobox
+|image = Josette Lestrange.jpg
+|name = Josette Gage
+|born = 
+|died 
+|blood = [[Pure-blood]]<ref name="Blood">She was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|alias = 
+|title = 
+|signature = 
+|marital = Married
+|nationality = [[France|French]]
+|species = [[Human]]
+|gender = Female
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = *[[Corvus Lestrange (II)|Corvus Lestrange]] (father)
+*[[Minette Lestrange]] (mother)
+*[[Manon Perrot]] (sister)
+*[[Corvus Lestrange (III)|Corvus Lestrange]] (brother)
+*[[Sebastien Perrot]] (husband)
+*[[Odile Perrot]] (daughter)
+*[[Laurelle Perrot]] (daughter)
+*[[Huguette Perrot]] (daughter)
+*[[Eglantine Lestrange]] (cousin/sister-in-law)
+*[[Reynard Gage]] (brother-in-law)
+*[[Mathis Gage]] (nephew)
+*[[Louis Gage]] (nephew)
+*[[Corvus Lestrange (IV)|Corvus Lestrange]] (nephew)
+*[[Falco Lestrange]] (paternal uncle)
+*[[Salomé Lestrange]] (maternal aunt by marriage)
+*[[Leonie Tremblay]] (cousin)
+*[[Clarisse Lestrange]] (first cousin once removed)
+*[[Falco Tremblay]] (first cousin once removed)
+*[[Corvus Lestrange (I)|Corvus Lestrange]] (paternal grandfather)
+*[[Heloise Lestrange]] (paternal grandmother)
+*[[Lestrange family]]
+*[[Rosier family]]
+*[[Gage family]] (in-laws)
+|loyalty = *[[Lestrange family]]
+*[[Rosier family]]
+*[[Gage family]]
+|theme = wizard
+}}
+'''Josette Gage''' (née '''Lestrange''') was a [[wizardkind|witch]] and a member of the [[pure-blood]] [[Gage family]]. She was the daughter of [[Corvus Lestrange (II)|Corvus Lestrange]] and [[Minette Lestrange]]. She had two siblings, sister [[Manon Perrot|Manon]] and brother [[Corvus Lestrange (III)|Corvus]]. She married [[Reynard Gage]] and had two sons with him, [[Louis Gage|Louis]] and [[Mathis Gage|Mathis]].<ref name="COG">{{COG}} {{see image|File:The art of CoG lestrange.jpeg}}</ref>
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Gage, Josette}}
+[[es:Josette Lestrange]]
+[[pl:Josette Gage]]
+[[fr:Josette Lestrange]]
+[[ru:Жозетт Лестрейндж]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Gage family]]
+[[Category:Historical figures]]
+[[Category:Lestrange family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

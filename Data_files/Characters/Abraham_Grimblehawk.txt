@@ -1,0 +1,62 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Abraham Grimblehawk
+|born = 
+|died = 
+|blood = [[Half-blood]]
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Mathilda Grimblehawk]] (niece)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="FBC">{{FBC}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+*[[Ministry of Magic]]
+**[[Department for the Regulation and Control of Magical Creatures]]<ref name="FBC" />
+***[[Beast Division]]
+*[[St Oswald's Home for Old Witches and Wizards]]
+}}
+'''Abraham Grimblehawk''' was a [[Great Britain|British]] [[wizardkind|wizard]] who worked for the [[British Ministry of Magic|Ministry of Magic]]. He was the uncle of [[Mathilda Grimblehawk]].
+
+==Biography==
+Abraham attended [[Hogwarts School of Witchcraft and Wizardry]] and was placed in [[Hufflepuff|Hufflepuff House]]. He most likely studied [[Herbology]] and [[Care of Magical Creatures]] at Hogwarts.<ref name="FBC" />
+
+Abraham worked in the [[British Ministry of Magic]], but it is unknown in which department. It is most likely that he worked in the [[Department for the Regulation and Control of Magical Creatures]], as he had extensive knowledge on the subject of [[Magizoology]].<ref name="FBC" />
+
+Abraham and Mathilda were very good friends of [[Gethsemane Prickle]]<ref name="FBC" />, a [[Herbologist]] and [[Potioneer]] who worked alongside the Department for the Regulation and Control of Magical Creatures.
+
+Abraham would often read [[Newton Scamander]]'s {{FB}} to Mathilda when she was younger.<ref name="FBC" />
+
+Abraham retired to [[St Oswald's Home for Old Witches and Wizards]] in his later years.<ref name="FBC" />
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Grimblehawk, Abraham}}
+[[pl:Abraham Grimblehawk]]
+[[ru:Абрахам Гримблхок]]
+[[Category:British or Irish individuals]]
+[[Category:Department for the Regulation and Control of Magical Creatures personnel]]
+[[Category:Grimblehawk family|Abraham]]
+[[Category:Half-bloods]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:St Oswald's residents]]
+[[Category:Wizards]]

@@ -1,0 +1,36 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Lauren
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidea=
+|job=Writer for ''[[My Teeth]]'' magazine
+|loyalty=
+}}
+'''Lauren''' was a [[Non-magic people|Muggle]] who wrote for ''[[My Teeth]]'' magazine. She contributed an article urging mothers to take better care of their gums to the [[28 February|28th February]]-[[26 March|26th March]] [[1997]] issue. The ad for the article on the issue's front cover promised to reveal Lauren's "gum treat."<ref>{{HPLE|G}} {{see image|File:MyTeeth.png}}</ref>
+
+==Behind the scenes==
+*This character was presumably named after [[Lauren Wakefield]], who worked as a graphic artist on {{HBP}}, {{DH|F1}}, and {{DH|F2}}.<ref>"[http://www.imdb.com/name/nm3204651/ Lauren Wakefield]" on IMDb.com</ref>
+
+==Appearances==
+*{{DH|F1}} {{comment|Mentioned on magazine cover}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Journalists]]
+[[Category:Muggles]]

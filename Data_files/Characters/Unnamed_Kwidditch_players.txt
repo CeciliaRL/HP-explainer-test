@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=quidditch-player
+|image=
+|name=Unnamed Kwidditch players
+|hideb=
+|born=c. [[11th century]]<br />[[England]]<ref name="jkr-manchester">[[J. K. Rowling]] on Twitter: [https://twitter.com/jk_rowling/status/834073293770616832 "Untrue, I'm afraid! Quidditch was invented in Manchester."]</ref>
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Males
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|I hexed the man who came for it. I’d like to see him fly with his [[Knee-reversal hex|knees on back to front]], the great hairy hog.|Excerpt from [[Gertie Keddle's diary]]|Quidditch Through the Ages (real)}}
+There were '''unnamed Kwidditch players''', probably living on the edge of [[Queerditch Marsh]] in [[Manchester]], [[England]]<ref name="jkr-manchester" /> in the [[11th century]]. They were playing [[Quidditch|Kwidditch]], and their game took place over the marsh, between two trees, serving as a primitive form of modern [[Goalpost|goal posts]], and was recorded by [[Gertie Keddle]] in her [[Gertie Keddle's diary|diary]]. Each of them had his own flying [[broomstick]]. Their leather ball (an early equivalent of today's [[Quaffle]]) accidentally fell into Keddle's bowl of cabbage and through her window. She was so angry she hexed one of the players, who flew for it.<ref>{{QTA|R|3}}</ref> These people are the first documented [[Wizardkind|wizards]] to play the oldest form of contemporary broomstick game called [[Quidditch]].
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Quidditch players]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Céléase Lestrange
+|born=[[1610s|1611]]<ref name="Archive">{{AM}}</ref>
+|died=[[1630s|1635]]<ref name="Archive" /> (aged 24)
+|blood=[[Pure-blood]] (probably)
+|marital=
+|nationality=[[France|French]]
+|alias=
+|title=
+|signature=
+|species=Human
+|gender=Female<ref name="Archive" />
+|height=
+|hair=
+|eyes=
+|skin=
+|family=*[[Volant family]]<ref name="Archive" />
+*[[Lestrange family]]<ref name="Archive" />
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+*[[Volant family]]<ref name="Archive" />
+*[[Lestrange family]]<ref name="Archive" />
+}}
+'''Céléase Lestrange''' (née '''Volant''') was a [[France|French]] [[Wizardkind|witch]] born in [[1610s|1611]] who married into the [[pure-blood]] [[Lestrange family]]. She died in [[1630s|1635]] and was laid to rest in the [[Lestrange Mausoleum|Lestrange family Mausoleum]] in [[Cimetière du Père-Lachaise]], [[Paris]], France.<ref name="Archive" />
+
+==Behind the scenes==
+*Céléase may be related to [[Salomé Lestrange|Salomé Volant]] and [[Jodelle Lestrange|Jodelle Volant]], both of whom also married into the Lestrange family.<ref name="Tree">{{COG}} {{see image|File:LestrangeFamilyTree HighRes.png}}</ref>
+
+==Appearances==
+*{{AM}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Lestrange, Céléase}}
+
+[[fr:Céléase Volant]]
+[[pl:Céléase Lestrange]]
+
+[[Category:1610s births]]
+[[Category:1630s deaths]]
+[[Category:Buried at Cimetière du Père-Lachaise]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Lestrange family]]
+[[Category:Married individuals]]
+[[Category:Pure-bloods]]
+[[Category:Volant family]]
+[[Category:Wizards]]

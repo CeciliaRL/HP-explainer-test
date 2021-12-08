@@ -1,0 +1,72 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Goodwin Kneen
+|born = c. [[12th century]]<ref name="QA3"/>
+|died = 
+|blood = 
+|marital = Married<ref name="QA3"/>
+|nationality = [[England|English]]<ref name="QA3"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="QA3"/>
+|gender = Male<ref name="QA3"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Gunhilda Kneen]] (wife)<ref name="QA3"/>
+*[[Olaf]] (cousin)<ref name="QA3"/>
+*[[Kneen family]]<ref name="QA3"/>
+|romances = [[Gunhilda Kneen]] (wife)<ref name="QA3"/>
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch|Kwidditch]] player<ref name="QA3"/>
+|house = 
+|loyalty = [[Kneen family]]<ref name="QA3"/>
+}}
+{{Quote|Gunhilda was a bit angry I got back so late. I had to duck a couple of nasty jinxes but I've got my fingers back now.|Goodwin Kneen on [[Goodwin Kneen's letter to Olaf|his letter]] to his cousin [[Olaf]]|Quidditch Through the Ages (real)}}
+'''Goodwin Kneen''' (fl. [[12th century]]) was an [[England|English]] [[wizardkind|wizard]] who lived in [[Yorkshire]], [[England]], in the [[12th century|twelfth century]]. A ''Kwidditch'' player (a forerunner to the modern game of [[Quidditch]]), [[Goodwin Kneen's letter to Olaf|a letter]] he once wrote to his [[Norway|Norwegian]] cousin [[Olaf]] demonstrates the spread of the sport throughout [[Great Britain]].<ref name="QA3">{{QTA|R|3}}</ref>
+
+==Biography==
+{{Quote|We enjoyed a spirited game of Kwidditch last Saturday night, though poor Gunhilda was not up to playing Catcher, and we had to use Radulf the blacksmith instead. The team from Ilkley played well though was no match for us, for we had been practising hard all month and scored forty-two times. Radulf got a Blooder in the head because old Ugga wasn't quick enough with his club. The new scoring barrels worked well. Three at each end on stilts, Oona from the inn gave us them. She let us have free mead all night because we won as well.|Kneen's description of ''Kwidditch''.|Quidditch Through the Ages (real)}}
+Kneen lived with [[Gunhilda Kneen|Gunhilda]] in [[Yorkshire]] some time around the mid-[[12th century|twelfth century]]. He also had a cousin in [[Norway]], [[Olaf]], which seemed to be an occasional correspondent of his.<ref name="QA3"/>
+
+Kneen played "''[[Quidditch|Kwidditch]]''" along with his wife [[Gunhilda Kneen|Gunhilda]] (who played "[[Chaser|Catcher]]"), [[Ugga]] (who played [[Beater]]) and [[Radulf]] (a reserve "[[Chaser|Catcher]]").<ref name="QA3"/>
+
+On a match against a team from [[Ilkley]], on a Saturday night, Kneen's team scored forty-two times and won. This match was crucial for the introduction of [[Goalpost|goal posts]] in modern [[Quidditch]], as they introduced "new scoring barrels", three on each end of the pitch on stilts, given to them by [[Oona]], a innkeeper.<ref name="QA3"/> Following the match, [[Oona]] offered the team free [[mead]] all night. Gunhilda was not pleased with the late hour of his return home, and he had to "''duck a couple of nasty [[jinx]]es''", ending up with his fingers temporarily [[Finger-removing jinx|jinxed]] off.<ref name="QA3"/>
+
+Later that same week, Kneen wrote [[Goodwin Kneen's letter to Olaf|a letter]] by [[Goodwin Kneen's owls|owl]] to his cousin [[Olaf]], relaying the match. This eight-hundred-year old letter is preserved in the [[Norwegian Ministry of Magic]] archives as an important artefact about the evolution of the game.<ref name="QA3"/>
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': As a player of ''Kwidditch'', the forerunner of [[Quidditch]], he was presumably a skilled enough [[broomstick]] flyer to play the game.<ref name="QA3"/>
+
+==Etymology==
+The name "Goodwin" means "friend of god", derived from Old English god combined with wine "friend". This was the name of the powerful 11th-century Earl of Wessex, the father of King Harold II of England.
+
+==Appearances==
+*{{QTA|R}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Kneen, Goodwin}}
+
+[[de:Goodwin Kneen]]
+[[es:Goodwin Kneen]]
+[[fr:Goodwin Kneen]]
+[[no:Goodwin Kneen]]
+[[pl:Goodwin Kneen]]
+[[ru:Гудвин Нин]]
+[[Category:English individuals]]
+[[Category:Historical figures]]
+[[Category:Kneen family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Quidditch players]]
+[[Category:Wizards]]

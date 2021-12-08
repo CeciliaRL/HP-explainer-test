@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Oswald Beamish.jpg|250px]]
+|name = Oswald Beamish
+|born = [[1850]]<ref name="COSG">{{COS|G}}</ref>
+|died = [[1932]] (aged 81 - 82)<ref name="COSG">{{COS|G}}</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey<ref name="COSG">{{COS|G}}</ref>
+|eyes = Grey<ref name="COSG">{{COS|G}}</ref>
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Activist
+|house = 
+|loyalty = [[Goblin]]s
+}}
+'''Oswald Beamish''' ([[1850]] - [[1932]]) was a [[Wizardkind|wizard]]ing activist and a pioneer of [[Goblin]] rights. He is featured on a [[Chocolate Frog Card]] for this reason.<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+==Etymology==
+The name "Oswald" is derived from the Old English elements os "god" and weald "rule". Saint Oswald was a king of Northumbria who introduced Christianity to northeast England in the 7th century before being killed in battle. There was also an Old Norse cognate Ásvaldr in use in England, being borne by the 10th-century Saint Oswald of Worcester, who was of Danish ancestry. Though the name had died out by the end of the Middle Ages, it was revived in the 19th century.
+
+==Appearances==
+{{Imagecat|Images of Oswald Beamish}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Beamish, Oswald}}
+
+{{Chocolate Frog Cards}}
+
+[[de:Oswald Beamish]]
+[[fr:Oswald Beamish]]
+[[fi:Oswald Beamish]]
+[[it:Oswald Beamish]]
+[[pl:Oswald Beamish]]
+[[ru:Освальд Бимиш]]
+[[Category:1850 births]]
+[[Category:1932 deaths]]
+[[Category:Activists]]
+[[Category:British individuals]]
+[[Category:Grey-eyed individuals]]
+[[Category:Males]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizards]]

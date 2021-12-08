@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Elveira Elkins
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Daily Prophet]]
+}}
+'''Elveira Elkins''' was a [[Great Britain|British]] [[Wizardkind|witch]] who wrote to the ''[[Daily Prophet]]'s'' advice column. She could not get a simple [[Fixing Charm]] to last. [[Zamira Gulch]] told her that this was due to her failure to concentrate while casting the spell and recommended that she rely on nails instead.<ref>[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[1 June]], [[1999]], Problem Page</ref>
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Elkins, Elveira}}
+[[pt-br:Elveira Elkins]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Wizards]]

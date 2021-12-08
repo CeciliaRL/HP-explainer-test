@@ -1,0 +1,68 @@
+{{Conjecture}}
+{{Individual_infobox
+|theme=wizard
+|image=[[File:Mr Goldstein FB1.png|250px]]
+|name=Mr Goldstein
+|marital=Married
+|born=1884 or earlier<ref>Presumably he was (at least) seventeen when Tina was born and Dragon Pox is said to be more fatal for the "young" and the "elderly" implying he was one or the other at the time. Given how he appears in Tina's memories, it is implied to be the former.</ref>
+|died=[[1900s]] or [[1910s]]<ref name="fb44">{{FB|S|44}}</ref>
+|blood=
+|alias=
+|title=
+|signature=
+|nationality=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+*[[Goldstein sisters' grandfather|Father or father-in-law]]
+*[[Goldstein sisters' mother|Mrs Goldstein]] (wife) †
+*[[Porpentina Goldstein]] (daughter)
+*[[Queenie Goldstein]] (daughter)
+*[[Newton Scamander|Newt Scamander]] (son-in-law)
+*At least one grandchild<ref name="grandson">Since Rolf Scamander kept Newt's family name, it can be presumed that he is the son of a son of Newt's. If he were the son of a daughter of Newt's, he would likely bear whichever his father's surname was, and not Scamander. However, Newt could have had a daughter who kept his family name.</ref>
+*[[Anthony Goldstein]] (distant relative)<ref name="JKR-twitter-anthonygoldstein">[https://twitter.com/jk_rowling/status/632611629843263488 ''(any rlation to Anthony Goldstein)'' Yes (but distant).] posted by JKR on Twitter on 15 August 2015</ref>
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=[[Goldstein family]]
+}}
+'''Mr Goldstein''' was a [[wizardkind|wizard]] who lived in the early [[20th century]].<ref name="fb44" /> He was the father of [[Porpentina Goldstein|Porpentina]] and [[Queenie Goldstein]].<ref name="fb44" />
+
+==Biography==
+[[File:Goldstein family dancing.gif|250px|left|thumb|Mr Goldstein, dancing with her wife and daugthers]]
+Sometime in his daughters' childhood, the [[Goldstein family]] danced together while dressed up.<ref name="FBS69">{{FB|S|69}}</ref><ref name="FBF">{{FB|F}}</ref>
+
+He and [[Goldstein sisters' mother|his wife]] died of [[Dragon Pox]] when their daughters were young.<ref name="fb44" /> This left the girls to "raise each other," which lead them to forge a life-long bond.<ref name="fb44" /><ref name="collider">"[http://collider.com/fantastic-beasts-and-where-to-find-them-things-to-know/?utm_source=twitter&utm_medium=social&utm_campaign=collidersocial ‘Fantastic Beasts and Where to Find Them’: 43 Things to Know about the New Wizarding World Story]" from Collider</ref><ref name="pottermorevideo">[https://twitter.com/pottermore/status/693594721097101312 Behind-the-scenes video] from the official {{PM}} account on Twitter</ref>
+
+After being sentenced to [[death]] in [[1926]], Tina Goldstein had her happy [[memory|memories]] extracted from her head by [[Bernadette]], who then cast them into the [[death potion]] in the [[Death Cell]].<ref name="fb67">{{FB|S|67}}</ref> To keep Tina sedated, the potion replayed the memories for her, which included "happy images" of her mother and father.<ref name="fb67" /><ref name="fb69">{{FB|S|69}}</ref>
+
+==Behind the scenes==
+*Mr Goldstein was portrayed by [[Alan Mandel]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'', but his role was not listed in the film's end credits.
+
+==Appearances==
+*{{FB|S}} {{1st}} {{Vision}}
+*{{FB|F}} {{Vision}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Goldstein, Mr}}
+[[fr:Père de Porpentina et Queenie Goldstein]]
+[[pl:Pan Goldstein]][[de2:Vater der Goldstein-Schwestern]]
+[[Category:20th century deaths]]
+[[Category:Deaths from dragon pox]]
+[[Category:Deceased individuals]]
+[[Category:Goldstein family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

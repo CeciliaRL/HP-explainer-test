@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Magical Menagerie salesman.png|250px]]
+|name = Magical Menagerie salesman
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COSG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="COSG"/>
+|eyes = 
+|skin = Light<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Salesman at the [[Magical Menagerie]]<ref name="COSG"/>
+|house = 
+|loyalty = [[Magical Menagerie]]<ref name="COSG"/>
+}}
+This individual was a [[Great Britain|British]] [[Wizardkind|wizard]] who worked as a '''salesman''' at the [[Magical Menagerie]] in [[Diagon Alley]].<ref name="COSG"/>
+
+==Biography==
+[[File:Christmasspell.gif|thumb|left|This wizard conjuring Christmas decorations]]
+Sometime in [[1992]], he was hired as a temporary salesman for the [[Magical Menagerie]], as the usual [[Magical Menagerie saleswoman|saleswoman]] was on holiday. He was very stingy during morning hours and did not allow people to enter the shop, however in the afternoon he was willing to give [[Harry Potter]] some [[Lacewing fly|lacewing flies]] if he could catch them. Harry was warned of this man's morning grumpiness by [[Menagerie Message|a note]] from his friend [[Ronald Weasley]].<ref name="COSG">{{COS|G}}</ref>
+
+In [[December]] [[1992]], he used a [[Christmas decorations conjuring spell|spell]] to [[Conjuration|conjure]] decorations for [[Christmas]] in the shop.<ref name="COSG"/>
+
+==Behind the scenes==
+*In the PS1 version of the [[Harry Potter and the Chamber of Secrets (video game)|video game adaption]] of {{COS}} the individual is old and will not allow Harry to destroy the crates in the shop, however in the console version he is also very stingy and will not let people inside the Menagerie. In the GBA version [[Ronald Weasley]] describes him as miserable and old in a note to Harry that says he should be careful as the salesman would throw those out who sneak around.
+
+==Appearances==
+*{{COS|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley North Side}}
+[[es:Vendedor de la Casa de Fieras Mágicas]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

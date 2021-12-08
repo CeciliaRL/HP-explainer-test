@@ -1,0 +1,40 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Gormless Morgan's friends
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="WBS"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Gormless Morgan]]<ref name="WBS"/>
+}}
+{{Quote|Morg's friends told him: 'Think out a plan, first!' But of all things, he hated to think worst. 'Don't make such a fuss. I'll just take a truss. And trap her before I can be cursed!'|[[Miranda Goshawk]], [[The Rhyme of Gormless Morgan]]}}
+These '''people''' were the friends of [[Gormless Morgan]] and written into [[The Rhyme of Gormless Morgan]]. They are most likely based on real people as most stories made by [[Miranda Goshawk]] were about real people who had their name changed to protect their identity. Morgan had been given a job by [[Gormless Morgan's boss|his boss]] to kill a fearsome [[Gorgon]], a [[creature]] that could turn people into stone. They gave Morg the advice to have a plan first. Sadly, their friend was [[Petrification|turned into stone]].<ref name="WBS">{{WBS}}</ref>
+
+==Appearances==
+*{{WBS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

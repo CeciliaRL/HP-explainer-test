@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = grindelwald-acolyte
+|image = MacDuff.jpg
+|name = MacDuff
+|born = Before [[1927]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COG23"/>
+|gender = Male<ref name="COG23"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Gellert Grindelwald]]<ref name="COG23"/>
+**[[Alliance|The Alliance]]<ref name="COG23"/>
+}}
+'''MacDuff''' was a [[Wizardkind|wizard]] who lived during the early [[20th century]]. He was a member of [[Gellert Grindelwald]]'s [[Alliance]], and was among the [[dark wizard]]'s foremost acolytes.<ref name="COG23"/>
+
+==Biography==
+[[File:MacDuff door.jpg|180px|thumb|left|MacDuff in Paris]]
+In [[1927]], he accompanied [[Gellert Grindelwald]] to [[Paris]] to assist with his plans.<ref name="COG23">{{COG|S|23}}</ref> He wore a chain decorated with a number of items, including a [[rabbit's foot]] and a collection of [[human]] teeth, during his time assisting Grindelwald.<ref name="Archive">{{AM}}</ref>
+
+==Behind the scenes==
+*MacDuff was portrayed by [[Andrew Turner]] in {{COG}}.
+
+==Appearances==
+{{Imagecat|Images of MacDuff}}
+*{{COG|S}} {{1st}}
+*{{COG}}
+*{{AM}}
+
+==Notes and references==
+{{Reflist}}
+{{stub}}
+{{Gellert Grindelwald's army}}
+
+[[de:MacDuff]]
+[[de2:MacDuff]]
+[[es:MacDuff]]
+[[fr:MacDuff]]
+[[pl:MacDuff]]
+[[ru:Макдафф (1920-е)]]
+[[Category:Dark wizards]]
+[[Category:European individuals]]
+[[Category:Males]]
+[[Category:Members of the Alliance]]

@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=snatcher
+|image=HPDH1-1622.jpg
+|name=Unidentified Snatcher
+|hideb=b
+|born=
+|died=[[2 May]], [[1998]]<ref name="DHF2"/><ref name="LEGOY2"/>
+|blood=[[Pure-Blood]] or [[half-Blood]]<ref name="blood">[[Snatchers]] specifically hunted [[Muggle-born]]s, so he himself was not one.</ref>
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]<ref name="DHF2"/>
+|gender=Male<ref name="DHF2"/>
+|height=
+|hair=Reddish<ref name="DHF2"/>
+|eyes=
+|skin=Light<ref name="DHF2"/>
+|hidef=f
+|family=
+|hidem=m
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Snatchers|Snatcher]]<ref name="DHF2"/>
+|house=
+|loyalty= [[Snatchers]]
+}}
+This '''individual''' was a [[Wizardkind|wizard]] and a [[Snatchers|Snatcher]].
+
+==Biography==
+In [[1997]], he and some [[Unidentified Snatchers in Diagon Alley|fellow Snatchers]] patrolled [[Diagon Alley]] in their search for [[Muggle-born]]s. He and his fellow Snatchers died when the [[Wooden Bridge|Covered Bridge]] were blown up by [[Neville Longbottom]], [[Seamus Finnigan]] and other students.<ref name="DHF2">{{DH|F2}}</ref><ref name="LEGOY2">{{LEGO|Y2}}</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st}}
+*{{DH|F2}}
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}
+[[pt-br:Sequestrador gordo não identificado no Beco Diagonal]]
+[[Category:Battle of Hogwarts fatalities]]
+[[Category:Killed by Neville Longbottom]]
+[[Category:Males]]
+[[Category:Unidentified snatchers]]

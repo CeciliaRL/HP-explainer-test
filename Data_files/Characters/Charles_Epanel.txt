@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Charles Epanel
+|born = [[1936]]<ref name="GOFG"/>
+|died = [[1972]] (aged 35 - 36)<ref name="GOFG"/>
+|blood = [[Non-magic people|Muggle]]<ref name="GOFG"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFG"/>
+|gender = Male<ref name="GOFG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Charles Epanel''' ([[1936]]-[[1972]]) was a [[Non-magic people|Muggle]] who lived in [[Little Hangleton]]. He died for an unknown reason at the age of 36. He was buried in the [[Little Hangleton graveyard]].<ref name="GOFG">{{GOF|G}}</ref>
+
+==Appearances==
+*{{GOF|G}} {{Comment|Name seen on tombstone}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Epanel, Charles}}
+[[pl:Charles Epanel]]
+[[Category:1936 births]]
+[[Category:1972 deaths]]
+[[Category:British individuals]]
+[[Category:Buried at Little Hangleton graveyard]]
+[[Category:Males]]
+[[Category:Muggles]]

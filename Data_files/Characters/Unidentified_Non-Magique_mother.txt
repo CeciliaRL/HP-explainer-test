@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|image = Unidentified Non-Magique Mother in Paris.jpg
+|name = Unidentified Non-Magique mother
+|died = August, [[1927]]
+[[Paris]], [[France]]
+|blood = [[Non-magic people|Non-Magique]]
+|marital = Married
+|nationality = [[France|French]]
+|species = [[Human]]
+|gender = Female
+|hair = Blonde
+|skin = Pale
+|family = *[[Unidentified Non-Magique father|Husband]] †
+*[[Unidentified Non-Magique toddler|Child]] †
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidea = 
+}}
+This '''woman''' was a [[France|French]] [[Non-magic people|Non-Magique]] resident of [[Paris]] in the [[1920s]].
+
+==Biography==
+Together with her [[Unidentified Non-Magique father|husband]] and their [[Unidentified Non-Magique toddler|child]], she lived with them in a [[Unidentified home used by Gellert Grindelwald|apartment]] on [[Boulevard Haussmann]] but was murdered by [[Carrow (1920s)|Carrow]] under the orders of Grindelwald himself. 
+
+They later used the [[Non-Magique family|family]]'s [[Unidentified home used by Gellert Grindelwald|home]] as a temporary headquarters, from where he conducted a search for [[Credence Barebone]].<ref name="COGS">{{COG|S}}</ref>
+
+==Behind the scenes==
+*The mother was portrayed by [[Kayt Webster-Brown]] in {{COG}}.
+
+==Etymology==
+The name "Chérie" originates from [[France|French]] background, the name means "darling".
+
+==Appearances==
+*{{COG|S}} {{1st}}
+*{{COG}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowana mugolska matka]]
+[[Category:1927 deaths]]
+[[Category:Deaths by Killing Curse]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Global wizarding war casualties]]
+[[Category:Killed by Gellert Grindelwald]]
+[[Category:Married individuals]]
+[[Category:Murder victims]]
+[[Category:Parents]]
+[[Category:Unidentified Muggles]]

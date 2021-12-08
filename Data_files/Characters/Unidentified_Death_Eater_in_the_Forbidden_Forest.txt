@@ -1,0 +1,43 @@
+{{Notability}}
+{{Conjecture}}
+{{Individual infobox
+|theme = death-eater
+|image = [[File:LongBlondhairde.png|250px]]
+|name = Unidentified Death Eater in the Forbidden Forest
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Death Eaters|Death Eater]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Blond
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]] (possibly)
+|loyalty = *[[Death Eaters]]
+*[[Tom Riddle|Lord Voldemort]]
+}}
+This '''individual''' was a [[Death Eaters|Death Eater]] during the [[Second Wizarding War]]. He later fought during the [[Battle of Hogwarts]]. He was later seen in the [[Forbidden Forest]] when [[Tom Riddle|Lord Voldemort]] tried to kill [[Harry Potter]].<ref>''{{DH|F2}}</ref>
+
+==Appearances==
+*{{DH|F2}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Death Eaters]]

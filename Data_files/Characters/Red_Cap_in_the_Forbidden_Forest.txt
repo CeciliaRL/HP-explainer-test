@@ -1,0 +1,58 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = Red Cap in the Forbidden Forest HM.png
+|name = Red Cap in the Forbidden Forest
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Red Cap]]<ref name="HM410">{{HM|4|10}}</ref>
+|gender = Male<ref name="HM410"/>
+|height = 
+|weight = 
+|hair = White<ref name="HM410"/>
+|eyes = Red<ref name="HM410"/>
+|skin = Pale blue<ref name="HM410"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Forbidden Forest]]<ref name="HM410"/>
+}}
+{{Quote|Die! Die! Die! Kill! Kill! Kill!|This Red Cap's bloodlust|Harry Potter: Hogwarts Mystery}}
+This male '''[[Red Cap]]''' lived in [[Red Cap's Hole|his hole]] in the [[Forbidden Forest]].<ref name="HM410"/>
+
+==Biography==
+===1987–1988 school year===
+During the [[1987–1988 school year]], this [[Red Cap]] encountered [[Charles Weasley]], [[Jacob's sibling]], and another student in [[Red Cap's Hole|his hole]] using [[Sickleworth]], a [[Niffler]], to try and search for the jewelled head of [[Torvus' arrow]].<ref name="HM410"/>
+
+[[File:Red Cap in the Forbidden Forest after Beautification Potion HM.png|200px|thumb|right|The Red Cap after having been doused with Beautification Potion]]
+He drove them out of his hole,<ref name="HM410"/> but they came back later with some [[Beautification Potion]] and used it on him. He was alarmed by his slightly more handsome look and climbed away, allowing Sickleworth to find the arrowhead.<ref name="HM413">{{HM|4|13}}</ref>
+
+At the end of the school year, due to an [[Forest Vault Acromantula|Acromantula]] in his hole, the Red Cap was afraid of going back in there. He was seen batting [[Fairy|fairies]] in the [[Forest Grove]]. Jacob's sibling and [[Barnaby Lee]] distracted him using a piece of jewellery.<ref name="TTF">{{HM|4|TORVUS AND THE TROUBLED FOREST}}</ref>
+
+===1988–1989 school year===
+In [[1988–1989 school year|the next school year]], this Red Cap met Jacob's sibling and [[Ben Copper]] who came back to find Sickleworth. Ben struck it down with the [[Knockback Jinx]].<ref name="HM532">{{HM|5|32}}</ref>
+
+===1989–1990 school year===
+During the [[1989–1990 school year]], this Red Cap found Jacob's sibling, [[Fred Weasley|Fred]] and [[George Weasley]], and another student from the [[Weasley family]] in his hole. The Weasleys threw a [[Dungbomb]] at him.<ref name="HM65">{{HM|6|5}}</ref>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Forbidden Forest]]
+[[Category:Males]]
+[[Category:Red Caps]]
+[[Category:Red-eyed individuals]]

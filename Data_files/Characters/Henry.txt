@@ -1,0 +1,42 @@
+{{youmay|the assistant at Kowalski Quality Baked Goods|[[Henry (disambiguation)|another person called Henry]]}}
+{{Individual infobox
+|image = [[File:Henry FB1.png|250px]]
+|name = Henry
+|born = 
+|died = 
+|title = 
+|marital = 
+|blood = [[Non-magic people|No-Maj]]<ref name="FB123"/><ref name="FB124"/>
+|nationality = [[United States of America|American]]<ref name="FB123"/><ref name="FB124"/> 
+|species = [[Human]]<ref name="FB123"/><ref name="FB124"/>
+|gender = Male<ref name="FB123"/><ref name="FB124"/>
+|skin =
+|hair =
+|eyes = 
+|height =
+|weight =
+|family = 
+|romances = 
+|job = Assistant at [[Kowalski Quality Baked Goods]]<ref name="FB123"/><ref name="FB124"/>
+|loyalty=[[Kowalski Quality Baked Goods]]<ref name="FB123"/><ref name="FB124"/>
+|theme = muggle
+}}'''Henry''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who worked as an assistant at [[Kowalski Quality Baked Goods]]. In [[March]] [[1927]], just before [[Queenie Goldstein]] came into the shop for the first time, [[Jacob Kowalski]] handed Henry a set of keys and asked him to go to the storage room.<ref name="FB123">{{FB|S|123}}</ref><ref name="FB124">{{FB|S|124}}</ref>
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Henry (Bäcker)]]
+[[fr:Hendry]]
+[[ru:Генри]]
+[[pl:Henry]]
+[[pt-br:Henry]]
+[[de2:Henry]]
+[[Category:American individuals]]
+[[Category:Cooks]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Personal assistants]]

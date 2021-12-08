@@ -1,0 +1,48 @@
+{{Noncanon|Character}}
+{{Cut content}}
+{{Conjecture}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=
+|hideb=
+|born=Before [[1981]]<ref name="ghostplot" />
+|died=
+|blood=[[Non-magic people|Muggle]]<ref name="ghostplot" />
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="ghostplot" />
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Tom Riddle|Lord Voldemort]]<ref name="ghostplot" />
+}}
+This '''Muggle''' betrayed [[James Potter I|James]] and [[Lily J. Potter|Lily Potter]] when asked by [[Tom Riddle|Lord Voldemort]] to reveal their location of [[Godric's Hollow]] in October [[1981]].<ref name="ghostplot">"Opening Chapters of Philosopher's Stone" - [[J. K. Rowling's official site|J.K.Rowling Official Site]] - archived [http://web.archive.org/web/20110623035050/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=1 here]</ref>
+
+==Behind the scenes==
+*The muggle only appeared in an early and abandoned draft of {{PS}}, portraying the role that was eventually given to [[Peter Pettigrew]].<ref name="ghostplot" />
+*It is likely that the Muggle would have given their location willingly, as Rowling described them as a "horrible Muggle" who betrayed them in a similar way that Peter had, rather than someone who was made to by means of [[magic]] or threats.<ref name="ghostplot" />
+*Since Voldemort had hated Muggles and [[Muggle-born]]s, it is unknown why Rowling originally wanted a Muggle to betray the Potters for him. It is possible that they had no idea who he was, but just wanted to cause trouble, while Voldemort saw them as a means to his plan.
+
+==Appearances==
+*{{PS}} {{1st}} {{C|Early drafts only}}
+*{{JKRS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Death Eater allies]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified Muggles]]

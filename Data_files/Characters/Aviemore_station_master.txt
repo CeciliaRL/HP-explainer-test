@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=
+|born=Pre [[1963]]<ref>As this individual was a [[Non-magic people|Muggle]] working in [[1981]].</ref>
+|died=
+|blood=
+|marital=
+|alias=*Mr Station Master (by [[Scorpius Malfoy]])<ref name="CC">{{CC|B|4|2}}</ref>
+*Mr Muggle (by Scorpius Malfoy)<ref name="CC">{{CC|B|4|2}}</ref>
+|title=
+|signature=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=Station master at [[Aviemore train station]]
+|house=
+|loyalty=
+}}
+{{Dialogue a-b-a|Station master|Ye ken th' [[Edinburgh|Auld Reekie]] train is running late, boys?|Scorpius Malfoy|Sorry?|If you're waiting oan th' Auld Reekie train, you'll need tae ken it's running late. Train wirks oan th' line. It's a' oan th' amended time buird. Late.|[[Scorpius Malfoy]] and [[Albus Potter]] approach the station master|Harry Potter and the Cursed Child}}
+This '''individual''' worked as the [[Wikipedia:Station master|station master]] at [[Aviemore train station]] in [[1981]]. He speaks in very strong [[Wikipedia:Scots language|Scots]].<ref name="Act4Scene2">{{CC|B|4|2}}</ref>
+
+When they inadvertently were brought back in time to [[1981]] by [[Delphini]], wandless and broomless [[Albus Potter]] and [[Scorpius Malfoy]] walked from the Hogwarts grounds to Aviemore train station. There, they learned from the oblivious station master that it was the day before [[Tom Riddle|Lord Voldemort]] [[Attack at Godric's Hollow (1981)|killed]] [[James Potter I|James]] and [[Lily J. Potter|Lily Potter]], and the two boys journeyed to [[Godric's Hollow]] in the [[West Country]] to prevent Delphini from changing history.<ref name="Act4Scene2" />
+
+==Appearances==
+*{{CC}} {{1st}}
+*{{CC|P}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:Jefe de estación de Aviemore]]
+[[fr:Chef de gare d'Aviemore]]
+[[ru:Начальник станции в Авиморе]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Scottish individuals]]

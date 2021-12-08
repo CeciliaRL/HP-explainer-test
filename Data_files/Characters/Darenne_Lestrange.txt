@@ -1,0 +1,62 @@
+{{Individual infobox
+|theme = wizard
+|image = DARENNE MOREAU.jpg
+|name = Darenne Lestrange
+|born = 
+|died = 
+|blood = [[Pure-blood]]
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = Human
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Cyrille Lestrange (I)|Cyrille Lestrange]] (husband)
+*[[Cyrille Lestrange (II)|Cyrille Lestrange]] (son)
+*[[Fulcran Lestrange (I)|Fulcran Lestrange]] (son)
+*[[Balbine Lestrange (I)|Balbine Lestrange]] (daughter-in-law)
+*[[Pucine Lestrange (I)|Pucine Lestrange]] (daughter-in-law)
+*[[Cyrille Lestrange (III)|Cyrille Lestrange]] (grandson)
+*[[Fulcran Lestrange (II)|Fulcran Lestrange]] (grandson)
+*[[Fulcran Lestrange (III)|Fulcran Lestrange]] (great-granddaughter)
+*[[Cyrille Lestrange (IV)|Cyrille Lestrange]] (great-grandson)
+*[[Floxel Lestrange]] (great-grandson)
+*[[Nozéa Lestrange]] (great-great-granddaughter)
+*Moreau family
+*[[Lestrange family]] (in-laws)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *Moreau family
+*[[Lestrange family]]
+}}
+'''Darenne Lestrange''' (née '''Moreau''') was a French [[wizardkind|witch]] and a member of the [[pure-blood]] [[Lestrange family]]. She married [[Cyrille Lestrange (I)|Cyrille Lestrange]] and had two sons with him, [[Cyrille Lestrange (II)|Cyrille]] and [[Fulcran Lestrange (I)|Fulcran]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref>
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Lestrange, Darenne}}
+[[fr:Darenne Moreau]]
+[[pl:Darenne Lestrange]]
+[[ru:Даренн Лестрейндж]]
+
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Lestrange family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

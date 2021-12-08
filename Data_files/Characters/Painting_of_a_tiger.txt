@@ -1,0 +1,23 @@
+{{Conjecture}}
+{{Portrait individual infobox
+|image = [[File:Painting of a tiger.jpg|250px]]
+|name = Painting of a tiger
+|died = Before [[1993]] (possibly)
+|species = [[Tiger]]<ref name="PA8"/>
+|hair = Orange, black and white<ref name="PA8"/>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="PA8"/>
+}}
+This '''painting''' depicted a [[tiger]]. It was hung at [[Hogwarts Castle]] in the [[1990s]], on the seventh-floor level of the [[Grand Staircase]], among portraits of other animals such as [[Painting of a hippopotamus|a hippopotamus]], a [[Painting of a caged monkey|caged monkey]] and [[Painting of an elephant|an elephant]].<ref name="PA8">{{POA|F}} - Chapter 8 (''Flight of the Fat Lady'')</ref>
+
+==Appearances==
+*{{POA|F}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts seventh floor}}
+
+[[es:Pintura de un tigre]]
+[[pl:Obraz tygrysa]]
+[[Category:Individual cats]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Paintings of creatures]]

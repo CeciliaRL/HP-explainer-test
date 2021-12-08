@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Trupti Kadam
+|born = [[31 August]] [[1982]] or earlier<ref>She was at least in her first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+'''Trupti Kadam''' was a [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. She was seen walking through the school corridors during the [[1993-1994 school year]].
+
+==Etymology==
+Trupti is a female given name derived from a Sanskrit word meaning "satisfaction, satiety or contentment."<ref>"[http://www.naamkaran.com/babynames/meaning-of-trupti.html Trupti]" on Naamkaran.com</ref>
+
+==Behind the scenes==
+*This student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|PlayStation 2 version]] of {{POA}}.
+*Given her name and place at Hogwarts, it is likely that although she must've born in the UK she was of Indian descent.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Kadam, Trupti}}
+[[pl:Trupti Kadam]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

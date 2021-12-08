@@ -1,0 +1,27 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Unidentified guitarist
+|blood = [[Non-magic people|Muggle]]
+|nationality = [[Great Britain|British]]
+|species = [[Human]]
+|gender = Male
+|job = Guitarist
+|loyalty = [[Fisher's daughter]] (girlfriend)
+|theme = muggle
+|hideb = 
+|hidef = 1
+|affiliation = 
+}}
+This '''guitarist''' (fl. [[1977]]) was dating the [[Fisher's daughter|daughter]] of Sergeant [[Fisher]] in [[1978|1977]]. He was considered to be lazy by Fisher, and resembled [[Sirius Black]], who reminded Fisher of him when he encountered him after a [[motorbike]] chase.<ref>[[Untitled charity auction story|Harry Potter Prequel]]</ref>
+
+==Appearances==
+*''[[Untitled charity auction story|Harry Potter Prequel]]'' {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Guitarrista no identificado]]
+[[fr:Petit ami de la fille de Fisher]]
+[[Category:British individuals]]
+[[Category:Males|Guitarist]]
+[[Category:Musicians|Guitarist]]
+[[Category:Unidentified Muggles|Guitarist]]

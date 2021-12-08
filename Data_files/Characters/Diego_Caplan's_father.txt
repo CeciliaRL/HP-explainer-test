@@ -1,0 +1,48 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Diego Caplan's father
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DDD">{{HM|5|Dance, Duelling, and Diego!}}</ref>
+|gender = Male<ref name="DDD"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Diego Caplan's grandfather|Father or father-in-law]]<ref name="DDD"/>
+*[[Diego Caplan's grandmother|Mother or mother-in-law]]<ref name="DDD"/>
+*[[Diego Caplan]] {{C|grandson}}<ref name="DDD"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = Caplan family<ref name="DDD"/>
+}}
+'''Mr Caplan''' was the father of [[Diego Caplan]].<ref name="DDD"/>
+
+==Biography==
+When [[Diego Caplan|Diego]] was young and shy, Mr Caplan encouraged him to dance and invented the [[Badger Shuffle]] with him.<ref name="DDD"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Caplan, Diego father}}
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

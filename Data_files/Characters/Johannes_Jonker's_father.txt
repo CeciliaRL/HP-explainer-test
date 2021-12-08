@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Jonker
+|born = 
+|died = 
+|blood = [[Non-magic people|No-Maj]]<ref name="pottermore-1920s" />
+|marital = 
+|nationality = [[United States of America|American]]<ref name="pottermore-1920s" />
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="pottermore-1920s" />
+|gender = Male<ref name="pottermore-1920s" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Johannes Jonker]] (son)<ref name="pottermore-1920s" />
+*[[Jonker family]]<ref name="pottermore-1920s" />
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Cabinet maker<ref name="pottermore-1920s" />
+|house = 
+|loyalty = [[Jonker family]]<ref name="pottermore-1920s" />
+}}
+'''Mr Jonker''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who had an accomplished career as a cabinet maker.<ref name="pottermore-1920s">{{WW|1920s-wizarding-america-en}}</ref> His son, [[Johannes Jonker|Johannes]], was a [[Muggle-born|No-Maj-born]] [[wizardkind|wizard]], and became a well-known [[wandmaker]].<ref name="pottermore-1920s" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Jonker, Mr}}
+
+[[pl:Ojciec Johannesa Jonkera]]
+
+[[Category:American individuals]]
+[[Category:Jonker family]]
+[[Category:Males]]
+[[Category:Muggles]]

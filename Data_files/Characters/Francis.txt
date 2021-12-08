@@ -1,0 +1,41 @@
+{{Pet individual infobox
+|image = 
+|name = Francis
+|born = Spring; between 1972 and 1978<ref>1971 to 1978 were the years [[Lily J. Potter|Lily Evans]] was a student at Hogwarts.</ref>
+|died = [[31 October]], [[1981]]<ref name="HBPF">{{HBP|F}} - Chapter 23 (''After Aragog's Burial'')</ref>
+|alias = 
+|title = 
+|species = {{Wplink|Fish}} (previously [[lily]] petal)<ref name="HBPF"/>
+|gender = Male<ref name="HBPF"/>
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = *[[Lily J. Potter|Lily Evans]]<ref name="HBPF"/>
+*[[Horace Slughorn]]<ref name="HBPF"/>
+}}
+{{Quote|T'was a student who gave me Francis... One spring afternoon I discovered a bowl on my desk, just a few inches of clear water in it. Floating on the surface was a flower petal... as I watched, it sank... just before it reached the bottom, it was transformed, into a wee fish. It was beautiful magic, wondrous to behold. The flower petal had come from a lily... your mother. The day I came downstairs, the day the bowl was empty, was the day your mother...|[[Horace Slughorn]] regarding his pet fish Francis to [[Harry Potter]]|Harry Potter and the Half-Blood Prince (film)}}
+'''Francis''' was the name of a pet fish owned by [[Horace Slughorn]].<ref name="HBPF"/>
+
+==Biography==
+[[File:Horace_Slughorn.jpg|120px|thumb|left|Horace Slughorn, Francis' owner]]
+It was originally a [[lily]] petal which [[Lily J. Potter|Lily Evans]] had [[Piscifors|transfigured]] into piscine form during her studying years at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="HBPF"/>
+
+The fish came into Slughorn's possession when Lily set the petal to float inside a bowl filled with [[water]]. When Slughorn found his gift, the petal sank down in the bowl and [[Transformation|turned]] into Francis, much to the [[Professor]]'s delight. Slughorn kept Francis for many years, until the morning of [[1 November]], [[1981]], when he found Francis had disappeared. This was due to Lily's [[Attack at Godric's Hollow (1981)|death]] at the hands of [[Tom Riddle|Lord Voldemort]].<ref name="HBPF"/>
+
+==Appearances==
+*{{HBP|F}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Francis]]
+[[fr:Francis]]
+[[pl:Franka]]
+[[Category:1970s births]]
+[[Category:1981 deaths]]
+[[Category:Fish]]
+[[Category:Horace Slughorn's possessions]]
+[[Category:Males]]
+[[Category:Pets]]

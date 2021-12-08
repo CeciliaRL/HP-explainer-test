@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = daily-prophet
+|image = 
+|name = Peter Blotting
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Reporter for the ''[[Daily Prophet]]''
+|house = 
+|loyalty = [[Daily Prophet]]
+}}
+'''Peter Blotting''' was a reporter for the ''[[Daily Prophet]]'' who wrote an article covering a [[Break-in of Gringotts Wizarding Bank (1991)|break-in]] at [[Gringotts Wizarding Bank]] in [[1991]] (''Goblins' Heads are up in Arms'').<ref>{{PS|F}} - see [http://www.bonhams.com/auctions/19801/lot/97/ this image].</ref>
+
+==Appearances==
+*{{PS|F}} {{Comment|Name appears in newspaper}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Daily Prophet employees}}
+
+{{DEFAULTSORT:Blotting, Peter}}
+[[pl:Peter Blotting]]
+[[Category:British individuals]]
+[[Category:Daily Prophet staff]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Wizards]]

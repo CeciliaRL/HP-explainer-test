@@ -1,0 +1,40 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=A. Conan Doyle
+|hideb=hide
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=*Author
+*[[Doctor|Physician]]
+|loyalty=|nationality = [[Scotland|Scottish]]}}
+
+'''Sir Arthur Ignatius Conan Doyle''' was a [[Scotland|Scottish]] physician and author famous for his stories about the detective [[The Adventures of Sherlock Holmes|Sherlock Holmes]].<ref name="WWoHP">{{WWHP}} {{see image|File:The Adventures of Sherlock Holmes.png}}</ref>
+
+==Appearances==
+*{{WWHP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Doyle, A}}
+[[pl:A. Doyle]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Nobility]]
+[[Category:Physicians]]
+[[Category:Scottish individuals]]

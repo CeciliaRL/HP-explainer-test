@@ -1,0 +1,30 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|image = Sir Ribbithe HM MBOAF.jpg
+|name = Sir Ribbithe
+|born = In or prior to [[1988]]
+|died = 
+|alias = 
+|species = [[Frog]]<ref name="HM5"/>
+|gender = Male<ref name="HM5"/>
+|skin = Green<ref name="HM5"/>
+|eyes = Yellow<ref name="HM5"/>
+|family = 
+|loyalty = [[Liz Tuttle]] (owner)<ref name="HM5"/>
+|theme = pet
+}}
+'''Sir Ribbithe''' was a [[frog]] and the pet of [[Liz Tuttle]].<ref name="HM5">{{HM|5|Egg hunt}}</ref>
+
+==Biography==
+When he got lost and fed on [[Glow Bug]]s during the [[1988–1989 school year]], he was discovered by [[Jacob's sibling]], [[Chiara Lobosca]] and [[Barnaby Lee]] and was for a moment mistaken as a [[Moon Frog]]. When Jacob's sibling recognised him as Sir Ribbithe, Chiara returned him to Liz.<ref name="Quibbler">{{HM|5|THE QUIBBLER: FIGHT FOR THE FRONT PAGE|4}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Sir Ribbithe}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Frogs]]
+[[Category:Liz Tuttle's possessions]]
+[[Category:Males]]
+[[Category:Pets]]

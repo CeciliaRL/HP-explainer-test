@@ -1,0 +1,66 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:RomildaGoshawk.png|250px]]
+|name = Romilda Goshawk
+|born = [[1921]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Miranda Goshawk's mother|Mrs Goshawk]] (mother)<ref name="WBoS">{{WBS}} - see [http://www.youtube.com/watch?v=4w9eXBjHUQk& this video]</ref>
+*[[Miranda Goshawk's father|Mr Goshawk]] (father)<ref name="WBoS" />
+*[[Miranda Goshawk's aunts and uncles|Several aunts and uncles]]<ref name="WBoS" />
+*[[Diadema Goshawk]] (sister)<ref name="WBoS" />
+*[[Tangwystl Goshawk]] (sister)<ref name="WBoS" />
+*[[Miranda Goshawk]] (sister)<ref name="WBoS" />
+*[[Goshawk sisters|Five more sisters]]<ref name="WBoS" />
+*[[Miranda Goshawk's cousins|Several cousins]]<ref name="WBoS" />
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Goshawk family]]
+}}
+{{Quote|I also had a few special editions printed for my dear sisters, which unfortunately contained a few misprints that led to quite a few comical mishaps! But Romilda's tail has vanished now, and we're all friends again.|[[Miranda Goshawk]], ''[[Book of Spells]]'' (''Foreword'')|Wonderbook: Book of Spells}}
+'''Romilda Goshawk''' (fl. [[1921]]) was one of [[Miranda Goshawk]]'s eight older sisters.<ref name="WBoS"/>
+
+==Biography==
+===Early life===
+Romilda grew up in a [[Goshawk family|wizarding family]] with eight sisters, including [[Diadema Goshawk|Diadema]], [[Tangwystl Goshawk|Tangwystl]], and the youngest, [[Miranda Goshawk|Miranda]].<ref name="WBoS"/>
+
+Along with the other seven older sisters, Romilda used to try to give Miranda the wrong [[incantation]] for every [[spell]] she attempted to cast, thus hindering her learning of [[magic]]. Miranda found learning spells complex enough as it was, given that the instructions that she found in the old-fashioned textbooks she was given during her school years were needlessly complicated.<ref name="WBoS"/>
+
+Miranda kept Romilda out of her room when she wanted some peace by casting the [[Bat-Bogey Hex]] on her.<ref name="WBoS"/>
+
+===Later life===
+[[File:Goshtail.png|250px|thumb|left|Romilda's tail]]
+As a result of the difficulty she experienced learning spells as a child, when she grew up, Miranda became quite an accomplished spellbook author, wishing to make teaching and learning about spells an easier task. When she released ''[[Book of Spells]]'', Miranda had a few "special editions" (actually editions containing deliberate misprints) sent to her sisters, and as a result, Romilda was left with a [[Tail-growing spell|tail]] that eventually vanished.<ref name="WBoS"/>
+
+{{Clear}}
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Goshawk, Romilda}}
+
+[[es:Romilda Goshawk]]
+[[fr:Romilda Fauconnette]]
+[[pl:Romilda Goshawk]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Goshawk family|Romilda]]
+[[Category:Wizards]]

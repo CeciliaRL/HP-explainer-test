@@ -1,0 +1,74 @@
+{{Individual infobox
+|theme = durmstrang
+|image = 
+|name = Nerida Vulchanova
+|born = Before [[1294]],<ref name="year">{{GOF|B|12}} The Triwizard Tournament was established some 700 years ago = c.[[1294]]</ref> [[Bulgaria]]
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">Given how Durmstrang did not admit [[Muggle-born]]s by [[1994]], it is unlikely that one of its founders was Muggle-born.</ref>
+|marital = 
+|nationality = [[Bulgaria]]n<ref name="Pottermore"/>
+|alias = 
+|title = *Founder<ref name="Pottermore"/>
+*[[Headmaster|Headmistress]]<ref name="Pottermore"/>
+*[[Professor]]<ref name="Pottermore"/>
+|signature = 
+|species = [[Human]]<ref name="Pottermore"/>
+|gender = Female<ref name="Pottermore"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Pyotr Vulchanov]] (possibly)
+*[[Boris Vulchanov]] (possibly)
+*[[Vulchanov family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Founder and [[Headmaster|Headmistress]] of [[Durmstrang Institute]]<ref name="Pottermore"/>
+|house = 
+|loyalty = *[[Vulchanov family]]<ref name="Pottermore"/>
+*[[Durmstrang Institute]]<ref name="Pottermore"/>
+}}
+'''Professor Nerida Vulchanova''' was the great [[Bulgaria]]n [[Wizardkind|witch]] who founded [[Durmstrang Institute]], serving as its first [[Headmaster|Headmistress]],<ref name="Pottermore">{{WW|durmstrang-institute}}</ref> in the Middle Ages.
+
+==Biography==
+At some point, Vulchanova suffered a mysterious [[death]], and shortly afterwards [[Harfang Munter]] took over the school, in what was later to be considered a dark period in the history of the school: Munter substantially altered the curriculum to focus on [[duelling]] and [[martial magic]].<ref name="Pottermore"/>
+
+==Behind the scenes==
+*In {{GOF|FA}}, the Durmstrang Institute is portrayed as an all male school. However according to {{PM}}, the school was founded by Nerida Vulchanova; a witch. In {{GOF}}, at least one [[Durmstrang girl|female]] is known to have attend Durmstrang during the [[1994-1995 school year]]. Therefore, according to the books, the school is in fact co-ed, just like Hogwarts. 
+
+==Etymology==
+*''Nerida'' is an uncommon variant of the female Nereida (Spanish, Greek) or Nerine (Greek), which can be translated as ''sea nymph''.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Position established
+|position=[[Headmaster|Headmistress]] of [[Durmstrang Institute]]
+|years=
+|successor=[[Harfang Munter]]
+}}
+{{End box}}
+
+{{DEFAULTSORT:Vulchanova, Nerida}}
+
+[[de:Nerida Vulchanova]]
+[[ru:Нерида Волчанова]]
+[[pl:Nerida Vulchanova]]
+[[fr:Nérida Vulchanova]]
+[[Category:Bulgarian individuals]]
+[[Category:Deceased individuals]]
+[[Category:Durmstrang Headmasters and Headmistresses]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Vulchanov family]]
+[[Category:Wizards]]

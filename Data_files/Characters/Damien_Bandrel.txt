@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:Damien Bandrel - wanted poster.png|250px]]
+|name=Damien Bandrel
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=Black Scorpion
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+
+'''Damien Bandrel''', also known by the nickname '''Black Scorpion''', was an [[United States of America|American]] [[wizardkind|wizarding]] criminal who operated in the [[1920s]].<ref name="globalfaneventvid">"[https://www.youtube.com/watch?v=_r-sI8la5vU A Return to J.K. Rowling's Wizarding World - Fantastic Beasts Global Fan Event]" {{See image|File:DamienBandrelWanted.jpg}}</ref>
+
+In or around [[1926]], the [[Magical Congress of the United States of America]] issued a wanted poster for Bandrel, which stated that he was wanted for forging [[potion]]s and [[spell]]s and offered a 2500 [[dragot]] reward for his arrest.<ref>{{FB|F}} {{see image|File:Damien Bandrel - wanted poster.png}}</ref>
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Bandrel, Damien}}
+
+[[fr:Damien Bandrel]]
+[[pl:Damien Bandrel]]
+[[ru:Дэмиен Бандрел]]
+[[Category:American individuals]]
+[[Category:Con artists]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified St Mungo's patient
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP22"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP22"/>
+|gender = Female<ref name="OOTP22"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="OOTP22"/>
+}}
+This '''[[Great Britain|British]] [[Wizardkind|witch]]''' came into [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]] in [[1995]] because a [[magic]]al [[creature]] had taken a bite out of her leg but she also refused to tell the [[Healer]]s what it was that bit her. This made the other patients think that she may have been illegally handling a [[creature]]. [[Arthur Weasley]] noted that the bite smelt highly unpleasant whenever the dressings were taken off.<ref name="OOTP22">{{OOTP|B|22}}</ref>
+
+Her bed in St Mungo's was near the door of the Dai Llewellyn Ward when [[Harry Potter]], [[Alastor Moody|Mad-Eye Moody]], [[Nymphadora Tonks]] and the [[Weasley family]] went to see [[Arthur Weasley]].<ref name="OOTP22"/>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{St Mungo's}}
+
+[[es:Paciente mordida de San Mungo]]
+[[pt-br:Paciente do St Mungus mordida]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:St Mungo's patients]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

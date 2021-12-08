@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Darren_OHare.png]]
+|name = Darren O'Hare
+|born = Before [[1930]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Ireland|Irish]]<ref name="QTA7"/>
+|alias = 
+|title = *[[Captain]]<ref name="QTA7"/>
+*[[Keeper]]<ref name="QTA7"/>
+|signature = 
+|species = [[Human]]<ref name="QTA7"/>
+|gender = Male<ref name="QTA7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Quidditch Captain|Captain]]  and [[Keeper]] of the [[Kenmare Kestrels]] (formerly)<ref name="QTA7"/>
+*Captain of the [[Irish National Quidditch team]]<ref name="QTA7"/>
+|house = 
+|loyalty = *[[Kenmare Kestrels]]<ref name="QTA7"/>
+*[[Irish National Quidditch team]]<ref name="QTA7"/>
+*[[Ireland]]<ref name="QTA7"/>
+}}
+'''Darren O'Hare''' was an Irish [[wizardkind|wizard]] who played as the [[Quidditch Captain|Captain]]  and [[Keeper]] of the [[Kenmare Kestrels]] from [[1947]] to [[1960]]. He captained the [[Irish National Quidditch team]] three times, and is credited with the invention of the [[Chaser]] [[Hawkshead Attacking Formation]].<ref name="QTA7">{{QTA|R|7}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:O'Hare, Darren}}
+[[de:Darren O'Hare]]
+[[de2:Darren O'Hare]]
+[[es:Darren O'Hare]]
+[[fr:Darren O'Hare]]
+[[pl:Darren O'Hare]]
+[[pt-br:Darren O'Hare]]
+[[ru:Даррен О'Хара]]
+[[zh:达伦·奥黑尔]]
+[[Category:Irish individuals]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Quidditch Captains]]
+[[Category:Wizards]]

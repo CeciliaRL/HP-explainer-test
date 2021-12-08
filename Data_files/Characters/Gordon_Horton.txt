@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Gordon Horton.png|250px]]
+|name = Gordon Horton
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBC1"/>
+|alias = 
+|title = [[Keeper]]<ref name="FBC1"/>
+|signature = 
+|species = [[Human]]<ref name="FBC1"/>
+|gender = Male<ref name="FBC1"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="FBC1"/>
+|eyes = Brown<ref name="FBC1"/>
+|skin = Dark<ref name="FBC1"/>
+|family = *[[Basil Horton]] (possibly)<ref name="FBC1"/>
+*[[Horton family]]<ref name="FBC1"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Keeper]] for the [[Chudley Cannons]]<ref name="FBC1"/>
+|house = 
+|loyalty = *[[Chudley Cannons]]<ref name="FBC1"/>
+*[[Horton family]]<ref name="FBC1"/>
+}}
+'''Gordon Horton''' was a [[wizardkind|wizard]] who played as the [[Keeper]] for the [[Quidditch]] [[Quidditch team|team]] the [[Chudley Cannons]].<ref name="FBC1"/>
+
+==Biography==
+He was attacked and injured by a [[magic]]al [[beast]] at the [[Chudley Cannons training grounds|Chudley Cannons' training grounds]]. He was sent to [[St Mungo's Hospital for Magical Maladies and Injuries]] to be treated by a [[Healer]]. [[Omar Abasi]] concluded that he had a mild concussion from his fall.<ref name="FBC1"/><ref name="FBC video">[https://www.youtube.com/watch?v=-LCMPyqiQI8&feature=youtu.be Youtube - FANTASTIC BEASTS: CASES Android Gameplay]</ref>
+
+It was later discovered that he had been attacked by a [[Hippogriff]] nesting with its young in the nearby [[Old Bell Tower]].<ref name="FBC1">{{FBC|1}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Horton, Gordon}}
+{{Quidditch positions}}
+[[de2:Gordon Horton]]
+[[pl:Gordon Horton]]
+[[es:Gordon Horton]]
+[[fr:Gordon Horton]]
+[[ru:Гордон Хортон]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Hippogriff victims]]
+[[Category:Horton family|Gordon Horton]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:St Mungo's patients]]
+[[Category:Wizards]]

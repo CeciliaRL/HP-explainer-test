@@ -1,0 +1,70 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Leonard Spencer-Moon
+|hideb=
+|born=Before [[1922]]
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office.</ref>
+|alias=
+|title=[[Minister for Magic]]
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Lily Moon]] (possibly)
+*[[Dennis Moon]] (possibly)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Minister for Magic|British Minister for Magic]] ([[1939]]-[[1948]])
+|house=
+|loyalty=[[British Ministry of Magic]]
+}}
+'''Minister Leonard Spencer-Moon''' was [[Minister for Magic]] from [[1939]] to [[1948]]. He was elected at least twice.
+
+Spencer-Moon began his career at the [[British Ministry of Magic|Ministry of Magic]] as a tea-boy in the [[Department of Magical Accidents and Catastrophes]], and rose through the ranks from there. He became Minister for Magic following his predecessor, [[Hector Fawley]]'s, political downfall for not taking [[Gellert Grindelwald]]'s [[Global wizarding war|"For the Greater Good" revolution]] seriously. He proved himself a sound Minister, overseeing a period of great international turmoil in both the wizarding ([[global wizarding war]]) and the [[Non-magic people|Muggle]] world ([[Second World War]]). He was also known to have maintained a good working relationship with [[Winston Churchill]], the [[Prime Minister (title)|Muggle Prime Minister]].<ref>{{WW|ministers-for-magic}}</ref>
+
+==Behind the scenes==
+*Coincidentally or not, "Leonard" was [[Wikipedia:Winston Churchill|Winston Churchill]]'s middle name. Also, Churchill was born into the family of the Dukes of Marlborough, a branch of the Spencer family (Churchill's full name was, indeed, "Winston Leonard Spencer-Churchill").
+*Moon may be related to the [[Lily Moon]] sorted before Harry in {{PS}}.
+
+==Appearances==
+*{{PM}} {{1st mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Hector Fawley]]
+|position=[[Minister for Magic]]
+|years=[[1939]]-[[1948]]
+|successor=[[Wilhelmina Tuft]]
+}}
+{{End box}}
+{{Minister for Magic}}
+{{Ministry Level 3 employees}}
+
+{{DEFAULTSORT:Spencer-Moon, Leonard}}
+
+[[de:Leonard Spencer-Moon]]
+[[es:Leonard Spencer-Moon]]
+[[fr:Leonard Spencer-Moon]]
+[[pl:Leonard Spencer-Moon]]
+[[pt-br:Leonard Spencer-Moon]]
+[[ru:Леонард Спенсер-Мун]]
+[[zh:伦纳德·斯潘塞－穆恩]]
+[[Category:British Ministers for Magic]]
+[[Category:Department of Magical Accidents and Catastrophes personnel]]
+[[Category:Males]]
+[[Category:Moon family]]
+[[Category:Wizards]]

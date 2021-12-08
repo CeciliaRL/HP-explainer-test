@@ -1,0 +1,76 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Henry VIII
+|hideb=
+|born=[[28 June]] [[1491]] 
+|died=[[28 January]] [[1547]] (aged 55)
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|marital=Married
+|title=King of England
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Henry VII]] (father)
+*[[Anne Boleyn]] (second wife)
+*[[Mary I]] (daughter)
+*[[Elizabeth I]] (daughter)
+*[[William I]] (ancestor)
+*[[House of Tudor]]
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=King of England
+|house=
+|loyalty=*[[House of Tudor]]
+*[[England]]
+*{{Wplink|Church of England}}
+|nationality = [[England|English]]}}
+'''Henry VIII''' ([[28 June]] [[1491]] – [[28 January]] [[1547]]) was a [[Non-magic people|Muggle]] who reigned as [[King]] of [[England]] from [[1509]] until his death.<ref name="wikipedia">"[https://en.wikipedia.org/wiki/Henry_VIII_of_England Henry VIII of England]" on Wikipedia</ref>
+
+==Biography==
+His second wife, [[Anne Boleyn]], was believed to have been a [[wizardkind|witch]] by [[Non-magic people|Muggle]]s, but may have actually been a [[Squib]].<ref>Fifth question of the Third [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]] at {{JKRS}}.</ref>
+
+[[Mary I]] was his daughter by his first wife, Catherine of Aragon, whom he [[divorce]]d.<ref name="wikipedia" /> [[Elizabeth I]] was Henry's daughter by [[Anne Boleyn]].<ref name="wikipedia" />
+
+==Etymology==
+The name "Henry" comes from the Germanic name Heimirich which meant "home ruler", composed of the elements heim "home" and ric "power, ruler". It was later commonly spelled Heinrich, with the spelling altered due to the influence of other Germanic names like Haganrich, in which the first element is hagan "enclosure".
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Henry VII]]
+|position=King of England
+|years=[[1509]]-[[1547]]
+|successor=Edward VI ([[Mary I|→]])
+}}
+{{End box}}
+
+[[es:Enrique VIII]]
+[[pl:Henryk VIII]]
+[[pt-br:Henrique VIII de Inglaterra]]
+[[Category:1491 births]]
+[[Category:1547 deaths]]
+[[Category:Deceased individuals]]
+[[Category:English individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Royalty]]
+[[Category:Tudor dynasty]]

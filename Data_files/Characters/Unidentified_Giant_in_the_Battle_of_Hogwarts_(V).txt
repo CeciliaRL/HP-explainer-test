@@ -1,0 +1,30 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Giant at the Battle of Hogwarts
+|died = [[2 May]], [[1998]]<br />[[Hogwarts School of Witchcraft and Wizardry]] (most likely)
+|species = [[Giant]]
+|gender = Male
+|hair = Bald
+|skin = Dark brown
+|loyalty = *[[Giant colony]]
+*[[Death Eaters]]
+**[[Tom Riddle|Lord Voldemort]]
+|theme = giant
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidea = 
+}}
+This '''individual''' was a male [[giant]] who fought in the [[Battle of Hogwarts]] for [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]]. He was seen in a courtyard close to [[Greenhouse One]] in which he slept. He held a [[Ice pop|blue ice cream]], which [[Ronald Weasley]] and [[Hermione Granger]] took in order to make an [[Exploding Potion]].<ref>{{LEGO|Y2}}</ref>
+
+==Appearances==
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Giants}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:Death Eater allies]]
+[[Category:Giants]]
+[[Category:Males]]

@@ -1,0 +1,45 @@
+{{MagicAwakenedSpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = centaur
+|image = Unidentified auburn-haired Centaur.png
+|name = Unidentified auburn-haired centaur
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Centaur]]<ref name="MA19">{{MA|1|9}}</ref>
+|gender = Male<ref name="MA19"/>
+|height = 
+|weight = 
+|hair = Auburn<ref name="MA19"/>
+|eyes = 
+|skin = Light<ref name="MA19"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Forbidden Forest centaur colony]]<ref name="MA19"/>
+}}
+This '''[[centaur]]''' lived in the [[Forbidden Forest]] in the [[2000s]].<ref name="MA19"/>
+
+==Biography==
+On [[2 September]], [[2008]], he was attacked by two [[Wizardkind|wizards or witches]] when they were found by [[Ivy Warrington]] and [[Unidentified 2000s Hogwarts student|another student]], who helped him get rid of the attackers. Later, he returned the favours by aiding a [[Attack in the Forbidden Forest|battle]] between them and a [[Norwegian Ridgeback]]. After they won, the centaur warned the students of the perils in the [[Forbidden Forest]] and advised them to be brave and honest.<ref name="MA19"/>
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Centaurs]]
+[[Category:Forbidden Forest]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]

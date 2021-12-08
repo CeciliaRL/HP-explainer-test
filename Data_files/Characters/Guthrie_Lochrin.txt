@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Guthrie Lochrin
+|hideb=
+|born=Prior to [[1107]]
+|died=After [[1107]]
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+'''Guthrie Lochrin''' (fl. [[1107]]) was a [[Scotland|Scottish]] [[Wizardkind|wizard]] who lived during the [[1100s]]. After making a [[broomstick]] flight from [[Montrose]] to [[Arbroath]] in [[1107]], he wrote about the discomfort of travelling on period broomsticks, describing his ''"splinter-filled buttocks and bulging [[piles]]"''.<ref>{{QTA|R|1}}</ref>
+
+==Appearances==
+*{{QTA|R}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lochrin, Guthrie}}
+[[de:Guthrie Lochrin]]
+[[es:Guthrie Lochrin]]
+[[fr:Guthrie Lochrin]]
+[[pl:Guthrie Lochrin]]
+[[ru:Гатри Лохрин]]
+
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Scottish individuals]]
+[[Category:Wizards]]

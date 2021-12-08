@@ -1,0 +1,64 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = William III
+|born = [[14 November]] [[1650]]
+|died = [[8 March]] [[1702]] (age 51)
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = [[King]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Mary II]] (wife) †
+*[[Henry VII]] (ancestor) †
+*[[William I]] (ancestor) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''William III''' ([[14 November]] [[1650]] – [[8 March]] [[1702]]) was [[King]] of [[England]], ruling jointly with his wife [[Mary II|Queen Mary II]] from [[1689]] until her [[death]] in [[1694]], and thereafter as sole monarch until his own death in 1702.<ref>"[https://en.wikipedia.org/wiki/William_III_of_England William III of England]" on Wikipedia</ref>
+
+When the [[British Ministry of Magic]] was begging for recognition and protection under [[Non-magic people|Muggle]] law, William and Mary failed to send a delegation to them, which contributed to the introduction of the [[International Statute of Wizarding Secrecy]] in [[1692]].<ref>First question of the Third [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]] at {{JKRS}}.</ref>
+
+==Etymology==
+The name "William" is from the Germanic name Willahelm, which was composed of the elements wil "will, desire" and helm "helmet, protection".
+
+==Appearances==
+*{{JKRS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=([[Elizabeth I|←]]) James II
+|position=King of England<br/>(with [[Mary II]])
+|years=[[1689]]-[[1702]]
+|successor=Anne ([[George III|→]])
+}}
+{{End box}}
+
+[[es:Guillermo III]]
+[[pt-br:Guilherme III de Inglaterra]]
+[[pl:Wilhelm III Orański]]
+[[Category:1650 births]]
+[[Category:1702 deaths]]
+[[Category:English individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Royalty]]

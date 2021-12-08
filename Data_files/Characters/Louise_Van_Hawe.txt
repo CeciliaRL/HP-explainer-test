@@ -1,0 +1,35 @@
+{{Transcribed image|File:ShakespearePoster.jpg}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Louise Van Hawe
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidea=
+|job=Theatre producer (presumably)
+|loyalty=
+}}
+'''Louise Van Hawe''' was a [[Non-magic people|Muggle]] woman who presumably founded the [[Louise Van Hawe Shakespeare Production Ensemble]].<ref>''Harry Potter and the Deathly Hallows: Part 1 - Behind the Magic'' {{see image|File:ShakespearePoster.jpg}}</ref>
+
+==Appearances==
+*{{DH|F1}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Van Hawe, Louise}}
+[[Category:Females]]
+[[Category:Muggles]]

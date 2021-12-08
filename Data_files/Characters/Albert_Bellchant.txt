@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Albert Bellchant
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[half-blood]]<ref name="Blood">His [[Astor Bellchant|father]] was a [[Wizardkind|wizard]], so he could not have been [[Muggle-born]]</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC5"/>
+|gender = Male<ref name="FBC5"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Astor Bellchant]] (father)<ref name="FBC5"/>
+*[[Bellchant family]]<ref name="FBC5"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Bellchant family]]<ref name="FBC5"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="FBC5"/>
+}}
+'''Albert Belchant''' was a [[Wizardkind|wizard]] and student at [[Hogwarts School of Witchcraft and Wizardry]] and member of the up and coming [[Bellchant family]].<ref name="FBC5"/>
+
+==Biography==
+His father Astor received [[Hogwarts letter to Astor Bellchant|a letter]] from Hogwarts detailing how Albert was failing [[Transfiguration (class)|Transfiguration]], [[Charms (class)|Charms]], and [[Herbology]]. This motivated Astor to blackmail [[Bilius Finbok]], with whom he had attended Hogwarts, into brewing an illegal mental acuity [[potion]]. [[Mathilda Grimblehawk]] and [[Mathilda Grimblehawk's partner|her partner]] investigated the situation after Finbok was injured and sent to [[St David's Hospital|a Muggle hospital]].<ref name="FBC5">{{FBC|5}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Bellchant, Albert}}
+[[fr:Albert Bellchant]]
+[[ru:Альберт Беллчант]]
+[[Category:Bellchant family|Albert]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

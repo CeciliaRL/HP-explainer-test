@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Pamela Alton's mother
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Female<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Pamela Alton]] (daughter)<ref name="HBPG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Alton family]]<ref name="HBPG"/>
+}}
+{{Quote|I hope Mum gets me a new [[Broomstick|broom]] for [[Christmas]].|Pamela talking about her mother|Harry Potter and the Half-Blood Prince (video game)}}
+'''Mrs Alton''' was the mother of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] student [[Pamela Alton]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Behind the scenes==
+*This particular individual was only featured in the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{HBP|G}} {{1st}} {{Comment|NDS version only}}
+
+==Notes and references==
+{{Reflist}}[[pl:Matka Pameli Alton]]
+{{DEFAULTSORT:Alton, Pamela mother}}
+[[Category:Alton family]]
+[[Category:British individuals|Alton, Mrs]]
+[[Category:Females|Alton, Mrs]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎|Alton's mother]]

@@ -1,0 +1,68 @@
+{{Individual infobox
+|theme=wizard
+|image=File:Mustafa Kama.png
+|name=Mustafa Kama
+|born=Before [[1884]]
+|died=Between [[1896]] and [[1901]]<ref>He died before the birth of [[Corvus Lestrange (V)]], as Yusuf originally thought he had to kill Leta until Corvus was born.</ref>
+|blood=[[Pure-blood]]<ref name="COG100" />
+|nationality = [[France|French]]
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=Dark
+|family=*[[Laurena Kama]] (wife) †
+*[[Yusuf Kama]] (son)
+*[[Kama family]]
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=[[Kama family]]
+}}
+'''Mustafa Kama''' was a [[France|French]] [[pure-blood]] [[Wizardkind|wizard]] of [[Senegal]]ese descent, the husband of [[Laurena Kama]] and the father of [[Yusuf Kama]].<ref name="COG100">{{COG|S|100}}</ref>
+
+==Biography==
+In [[1896]], Mustafa's wife, Laurena, was [[Imperius Curse|Imperiused]] by [[Corvus Lestrange (IV)|Corvus Lestrange]] and left him.<ref>{{COG|S|101}}</ref> When he learned of Laurena's death, he was driven insane out of grief. Shortly before his death, Mustafa made his son swear an [[Unbreakable Vow]] to kill the person whom Corvus loved the most.<ref>{{COG|S|102}}</ref>
+
+==Personality and traits==
+According to his son [[Yusuf Kama|Yusuf]], Mustafa was very much in [[love]] with his wife, indicating that he was a devoted husband, but he went insane with grief after learning of her death. Indeed, Mustafa became so overwhelmed by his grief that he forced his son to give an [[Unbreakable Vow]] to avenge his family' ruin by killing the one Corvus IV loved the most.
+
+==Etymology==
+His name means "the chosen one" in Arabic, an epithet of Muhammad.
+
+==Behind the scenes==
+*Mustafa Kama is played by [[Hugh Quarshie]] in {{COG}}.<ref>https://www.imdb.com/name/nm0702934/?ref_=ttfc_fc_cl_t46</ref>
+
+==Appearances==
+{{Imagecat|Images of Mustafa Kama}}
+*{{COG|S}} {{1st}} {{Flashback}}
+*{{COG}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Mustafa Kama]]
+[[de2:Mustafa Kama]]
+[[fr:Mustafa Kama]]
+[[pl:Mustafa Kama]]
+[[ru:Мустафа Кама]]
+[[zh:穆斯塔法·卡玛]]
+{{DEFAULTSORT:Kama, Mustafa}}
+
+[[Category:Deceased individuals]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Kama family|Mustafa]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Widowed individuals]]
+[[Category:Wizards]]

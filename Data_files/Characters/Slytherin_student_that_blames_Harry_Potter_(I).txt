@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Slytherin student
+|born = [[31 August]] [[1983]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFF"/>
+|gender = Male<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="GOFF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOFF"/>
+**[[Slytherin]]<ref name="GOFF"/>
+}}
+{{Quote|Cheat Potter|The student|Harry Potter and the Goblet of Fire (film)}}
+This '''boy''' was a [[Wizardkind|wizard]] and [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He and [[Slytherin student that blames Harry Potter (II)|his friend]] blamed [[Harry Potter]] for being a champion in the [[Triwizard Tournament]].<ref name="GOFF">{{GOF|F}}</ref>
+
+==Appearances==
+*{{GOF|F}} {{Comment|Briefly seen}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Bullies]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

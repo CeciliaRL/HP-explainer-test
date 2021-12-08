@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = daily-prophet
+|image = 
+|name = Limus Filhous
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Writer for the ''[[Daily Prophet]]''
+|house = 
+|loyalty = ''[[Daily Prophet]]''
+}}
+'''Limus Filhous''' was a [[Wizardkind|wizard]] who worked as a reporter and columnist for the ''[[Daily Prophet]]''. In [[1927]], Limus wrote an editorial entitled "''Grindewald Escape: No conclusions yet pledge the [[International Confederation of Wizards|I.C.W.]]''".<ref>{{COG}} (see [[:File:The Daily Prophet 1927.png|this image]]).</ref>
+
+==Behind the scenes==
+*This character was named after [[Eduardo Lima]], a graphic artist who has worked on every [[Harry Potter films|''Harry Potter'' film]] since ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]''.
+
+==Appearances==
+*{{COG}} {{C|Mentioned in a newspaper}}
+*{{AM}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Daily Prophet}}
+
+{{DEFAULTSORT:Filhous, Limus}}
+[[pl:Limus Filhous]]
+[[Category:British individuals]]
+[[Category:Daily Prophet staff]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Wizards]]

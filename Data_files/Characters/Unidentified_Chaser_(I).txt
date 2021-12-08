@@ -1,0 +1,67 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = Unidentified Chaser Quidditch Season 3.JPG
+|name = Unidentified Chaser (I)
+|born = [[31 August]] [[1973]] or earlier<ref>He was at least in her second year in 1985 as Harry Potter was said to have been the youngest Quidditch player in about a century in 1991.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Male<ref name="qc">{{HM|2|The Quidditch Cup}}</ref>
+|height = 
+|weight = 
+|hair = Black
+|eyes = 
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''[[Wizardkind|wizard]]''' attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]].
+
+==Biography==
+During his time at Hogwarts, he was [[Sorting ceremony|Sorted]] into an unknown house. At some point during his time at school, he became a [[Chaser]] of an unknown Quidditch team.<ref name="q1">{{HM|2|Q1|1}}</ref>
+
+In the [[1985–1986 school year]], during the first practice match of the term, [[Skye Parkin]] saved Jacob's sibling from getting hit by a [[Bludger]] that was heading towards the stands. However, while she saved them, her play cost her team by knocking out this individual for the season.<ref name="q1"/>
+
+He always ate [[kipper]]s for breakfast before each Quidditch match. The one time he skipped was before the [[Quidditch friendly]] against [[Erika Rath]]'s team during which he was injured, and as such, he made sure to never skip eating kippers for breakfast again.<ref name="qc"/>
+
+Before the final match, Skye Parkin was injured and unable to play. As a result, this individual played on the team during the final match.<ref name="qc"/>
+
+He continued playing on the team the [[1986–1987 school year|following year]].<ref>{{HM|3|Q2|1}}</ref> He ate kippers for an entire week before the team's first House match that year.<ref>{{HM|3|Q2|4}}</ref> After this, [[Poppy Pomfrey]] told him not to eat so many kippers.<ref>{{HM|3|Q2|5}}</ref>
+
+He also played on the team on the [[1987–1988 school year]].<ref>{{HM|4|Q3|1}}</ref>
+
+==Behind the scenes==
+[[File:Unidentified_Chaser.jpg|thumb|This character's original appearance]]
+*Before 1986–1987 school year, he never had detention.<ref>{{HM|4|Q3|3}}</ref>
+*His house is the same as that of [[Jacob's sibling]], which is chosen by the player.
+*Originally, the Chaser was female and had copper hair and light skin. The character's appearance was later changed to a male with dark skin and black hair for the "Quidditch Cup" achievement quest. Later, in Quidditch Season 2 Chapter 1, his appearance was changed yet again, this time with light skin and a different haircut, although he still keeps his appearance with dark skin in other places such as the Clean Sweep event. However, lines said in the Quidditch chapters indicate these are all the same character.
+**The Chaser's second appearance was later used for [[Unidentified Chaser (II)|another Chaser]] in Quidditch Season 3.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+{{Character-stub}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Chasers]]
+[[Category:Males]]
+[[Category:Sorted in the 20th century]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

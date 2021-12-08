@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Dame soothsayer
+|born = 
+|died = 
+|blood = [[Non-magic people|No-Maj]] (most likely)<ref name="Blood">This woman was almost definitely a [[Non-magic people|No-Maj]], as opposed to a [[Wizardkind|witch]] with talents in [[Divination]], given how she was able to freely liaise with [[Jacob Kowalski]], a No-Maj, in the United States, and did not accurately read his future. A witch also would most likely have not been legally allowed to publicly read the fortunes of Muggles with [[magic]], as such activity would have violated the [[International Statute of Wizarding Secrecy]] for demonstrating magic in front of Muggles.</ref>
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|nationality = 
+|species = [[Human]]<ref name="COGS86"/>
+|gender = Female<ref name="COGS86"/>
+|skin = 
+|hair = 
+|eyes = 
+|skin = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Fortune teller<ref name="COGS86"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|I've seen one of these before. It was at the fair. There was this dame there, and she had a veil. I gave her a nickel and she told me about my future. She missed out on quite a bit, actually.|Jacob Kowalski regarding this old dame's predictions|Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay}}
+This '''dame''' was a woman who worked as a fortune teller. During her lifetime, she claimed to people that she could [[Divination|tell them their future]], for a nickel.<ref name="COGS86">{{COG|S|86}}</ref>
+
+==History==
+In her lifetime, she told people their future. At some point, she worked at a fair and used a [[crystal ball]], and wore a veil. [[Jacob Kowalski]] gave her a nickel and she told him his future, but she "missed out on quite a bit" according to him.<ref name="COGS86"/>
+
+==Appearances==
+*{{COG|S}} {{1st Mention}}
+*{{COG}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Unidentified individuals]]

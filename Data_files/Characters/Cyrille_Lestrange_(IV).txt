@@ -1,0 +1,39 @@
+{{Individual infobox
+|theme=wizard
+|name =Cyrille Lestrange
+|blood = [[Pure-blood]]<ref>He was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|marital = Unmarried
+|species =[[Human]]
+|gender =Male
+|hair =
+|skin =Light
+|family =
+*[[Cyrille Lestrange (III)|Cyrille Lestrange]] (father)
+*[[Luminosa Lestrange]] (mother)
+*[[Floxel Lestrange]] (brother)
+*[[Jodelle Lestrange]] (sister-in-law)
+*[[Quintilla Lestrange]] (niece)
+*[[Cyrille Lestrange (II)|Cyrille Lestrange]] (grandfather)
+*[[Balbine Lestrange (I)|Balbine Lestrange]] (grandmother)
+*[[Lestrange family]]
+*[[Trouche family]]
+*[[Volant family]]
+|image = CYRILLE LESTRANGE IV.jpg|loyalty = [[Lestrange family]]}}
+'''Cyrille Lestrange''' was a [[Wizardkind|wizard]] and a member of the [[pure-blood]] [[Lestrange family]]. He was the son of [[Cyrille Lestrange (III)|Cyrille]] and [[Luminosa Lestrange]]. He had one brother, [[Floxel Lestrange|Floxel]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref>
+
+==Appearances==
+*{{COG}} {{c|Appears on the Lestrange family tree}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Lestrange, Cyrille IV}}
+[[fr:Cyrille Lestrange IV]]
+[[pl:Cyrille Lestrange IV]]
+[[Category:French individuals]]
+[[Category:Lestrange family]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Unmarried individuals]]
+[[Category:Wizards]]

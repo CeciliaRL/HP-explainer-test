@@ -1,0 +1,51 @@
+{{Youmay|the Hufflepuff student|[[Emily (disambiguation)|other people named Emily]]}}
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Emily
+|born = between [[1 September]] [[1975]] and [[31 August]] [[1981]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Black
+|eyes = Brown
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+}}
+'''Emily''' was a [[Hufflepuff]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]] during the [[1990s]].
+
+==Biography==
+In [[1992]], she trusted [[Harry Potter]] on his claim that he was not the [[Tom Riddle|Heir of Slytherin]], but blamed him for attacking [[Mrs Norris]].<ref>{{COS|G}} - PC version</ref>
+
+==Etymology==
+The name "Emily" is an English feminine form of ''Aemilius''. In the English-speaking world it was not common until after the German House of Hanover came to the British throne in the 18th century; the princess Amelia Sophia (1711-1786) was commonly known as Emily in English, even though Amelia is an unrelated name. Famous bearers include the British author Emily Brontë (1818-1848), who wrote ''Wuthering Heights'', and the American poet Emily Dickinson (1830-1886).
+
+==Appearances==
+*{{COS|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Emily (Hufflepuff)]]
+[[fr:Emily (Poufsouffle)]]
+[[pl:Emily (Hufflepuff)]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Wizards]]

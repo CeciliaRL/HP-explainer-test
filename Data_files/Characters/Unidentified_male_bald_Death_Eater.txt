@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:HPDH1-1592..jpg|250px]]
+|name = Unidentified male bald Death Eater
+|died = [[1 May]], [[1998]]<br />[[Malfoy Manor]], [[Wiltshire]]
+|nationality = [[Great Britain|British]]
+|blood = [[Pure-blood]] or [[Half-Blood]]
+|title = [[Death Eaters|Death Eater]]
+|species = [[Human]]
+|gender = Male
+|hair = Bald
+|skin = White
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|loyalty =*[[Death Eaters]]
+**[[Tom Riddle|Lord Voldemort]]
+|theme = death-eater
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidem = m
+|hidea = 
+}}
+{{Quote|Hey, losers, he isn't here.|[[Neville Longbottom]] to this and another Death Eater.|Harry Potter and the Deathly Hallows: Part 1}}
+This '''individual''' was a [[Dark Wizard|Dark]] [[wizardkind|wizard]] and, in the [[Second Wizarding War]], one among the [[Death Eaters]] faithful to [[Tom Riddle|Lord Voldemort]].
+
+==Biography==
+This Death Eater, along with [[Unidentified Male Death Eater (VIII)|another Death Eater]], [[Raid on the Hogwarts Express|raided]] the [[Hogwarts Express]] on [[1 September]], [[1997]], to search the train for [[Harry Potter]]. They were both disappointed to find he was absent, with [[Neville Longbottom]] insulting them as "losers".<ref>{{DH|F1}}</ref>
+
+This Death Eater was at [[Gringotts Wizarding Bank]] as [[Harry Potter]], [[Ronald Weasley]], [[Hermione Granger]] and [[Griphook]] staged a [[Break-in of Gringotts Wizarding Bank (1998)|break-in]] to retrieve [[Helga Hufflepuff's Cup]] from the [[Lestrange Vault]].
+
+Later that day, he was [[Killing Curse|killed]] by [[Tom Riddle|Lord Voldemort]] in a fit of rage at [[Malfoy Manor]], after the [[Dark Wizard|Dark Lord]] was informed by [[Goblin]]s working at Gringotts that [[Harry Potter]] had managed to steal [[Helga Hufflepuff's Cup]] from him.<ref>{{DH|F2}}</ref>
+
+==Behind the scenes==
+*This [[Death Eaters|Death Eater]] was portrayed by [[Simon Grover]] in {{DH|F1}} and ''[[Harry Potter and the Deathly Hallows: Part 2|Part 2]]''.
+
+==Appearances==
+*{{DH|F1}} {{1st}}
+*{{DH|F2}}
+
+==Notes and references==
+{{Reflist}}[[pl:Niezidentyfikowany śmierciożerca przeszukujący pociąg (I)]]
+[[Category:1998 deaths]]
+[[Category:British individuals]]
+[[Category:Deaths by Killing Curse]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Second Wizarding War casualties]]
+[[Category:Unidentified Death Eaters]]

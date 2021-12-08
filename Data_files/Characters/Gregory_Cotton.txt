@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Gregory Cotton
+|born = Before [[1982]]<ref name="age">As he was employed by the [[Appleby Arrows]] by [[1999]] he was presumably over 17.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = [[Seeker]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] of the [[Appleby Arrows]]
+|house = 
+|loyalty = [[Appleby Arrows]]
+}}
+'''Gregory Cotton''' (fl. [[1999]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] who played as the [[Seeker]] for the [[Appleby Arrows]].<ref name="wizardsc">"[http://www.hplex.info/wizards/a-z/c.html Wizards, Witches and Beings: C]" on the Harry Potter Lexicon</ref> 
+
+==Biography==
+During a match with the [[Pride of Portree]], he collided with the opposing team's Seeker, [[Dougal McBride]], while both were locked in a race to catch the [[Golden Snitch]].<ref name="wizardsc" /><ref name="wizardsm">"[http://www.hplex.info/wizards/a-z/m.html Wizards, Witches and Beings: M]" on The Harry Potter Lexicon</ref><ref name="dp">"[http://www.hplex.info/about/sources/source_dp.html Daily Prophet newsletters]" on The Harry Potter Lexicon</ref> Cotton came out with the Snitch in his hand, but an altercation with McBride ensued, during which [[jinx]]es were illegally exchanged, and McBride [[transfiguration|transfigured]] Cotton's head into a cabbage.<ref name="wizardsc" /><ref name="dp" /> McBride defended his actions to the referee, [[Josiah Plunkett]], by claiming that Cotton had hit him with a [[Jelly-Fingers Curse]] during the race for the Snitch, and thus deserved to be "cabbaged."<ref name="wizardsm" /><ref name="wizardsp">"[http://www.hplex.info/wizards/a-z/p.html Wizards, Witches and Beings: P]" on the Harry Potter Lexicon</ref>
+
+==Etymology==
+The name "Gregory" is the English form of Latin ''Gregorius'', which was from the Late Greek name Γρηγοριος (''Gregorios''), derived from γρηγορος (''gregoros'') meaning "watchful, alert". This name was popular among early Christians, being borne by a number of important saints including Saint Gregory Thaumaturgus (3rd century), Saint Gregory of Nyssa (4th century), Saint Gregory of Nazianzus (4th century), and Saint Gregory of Tours (6th century). It was also borne by the 6th-century pope Saint Gregory I the Great, a reformer and Doctor of the Church, as well as 15 subsequent popes.
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Cotton, Gregory}}
+[[pl:Gregory Cotton]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Wizards]]

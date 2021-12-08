@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref name="age">She was at least in her first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Female<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="HBPG"/>
+|loyalty = *[[Carter family]]<ref name="HBPG"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Slytherin]]<ref name="HBPG"/>
+}}
+'''Diane Carter''' was a [[Wizardkind|witch]] and [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. During the [[1996–1997 school year]], she confronted [[Harry Potter]] in the [[Viaduct]], challenging him to a [[Duelling|duel]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+*"Diana" is probably derived from an old Indo-European root meaning "heavenly, divine", related to ''dyeus''. Diana was a Roman goddess of the moon.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Carter, Diane}}
+[[pl:Diane Carter]]
+[[fr:Diane Carter]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Carter family]]
+[[Category:Females]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

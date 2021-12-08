@@ -1,0 +1,29 @@
+{{Individual infobox
+|name = [[Irene Kneedander]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Female
+|job = Head of [[Body for Protection of Magical Species]]
+|loyalty = *[[Magical Congress of the United States of America]]
+**[[Body for Protection of Magical Species]]
+|theme = macusa
+}}
+'''Irene Kneedander''' was an [[United States of America|American]] witch and the Head of the [[Body for Protection of Magical Species]] during the late [[1800s]]. She was deemed responsible for the [[Great Sasquatch Rebellion of 1892]] by historians as her interpretation of her job title had involved attacking any [[Sasquatch]] that "stepped out of line."<ref name="PM">{{WW|macusa}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+{{DEFAULTSORT:Kneedander, Irene}}
+[[de:Irene Knedander]]
+[[fr:Irene Kneedander]]
+[[ru:Ирен Нидандер]]
+[[pl:Irene Kneedander]]
+[[ja:アイリーン・ニーダンダー]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Wizards]]

@@ -1,0 +1,42 @@
+{{Imageless}}
+{{Individual infobox
+|theme = squib
+|image = 
+|name = Wally Wimbles
+|born = 
+|died = 
+|blood = [[Squib]]<ref name="FBC"/>
+|marital = 
+|nationality = [[Great Britain|British]] or [[Ireland|Irish]]<ref name="FBC"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC"/>
+|gender =  Male<ref name="FBC"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family =  
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Cleaner at [[Zonko's Joke Shop]]<ref name="FBC"/>
+|house = 
+|loyalty = [[Zonko's Joke Shop]]<ref name="FBC"/>
+}}
+'''Wally Wimbles''' was a [[Squib]] and cleaner at [[Zonko's Joke Shop]]. He was involved in a case about a big flying creature seen over a train station.<ref name="FBC">{{FBC|11}}</ref>    
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}} 
+{{Hogsmeade}}
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Squibs]]
+{{Character-stub}}

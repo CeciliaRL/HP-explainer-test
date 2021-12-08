@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = daily-prophet
+|image = [[File:D.Shaman.jpg|250px]]
+|name = D. Shaman
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male<ref name="gender">The picture of D. Shaman in the ''Daily Prophet'' features a long beard.</ref>
+|height = 
+|weight = 
+|hair = Black (also long beard)
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Advice columnist for the ''[[Daily Prophet]]''
+|house = 
+|loyalty = ''[[Daily Prophet]]''
+}}
+'''Dr. D. Shaman''' was a [[Wizardkind|wizard]]<ref name="gender" /> doctor and advice columnist.<ref name="ootp-f">{{OOTP|F}} {{See image|File:DShaman.jpg}}</ref><ref name="hbp-f">{{HBP|F}} {{see image|File:DShamanWrackspurtsArticle.jpg}}</ref>
+
+He wrote the "[[Ask D. Shaman]]" advice column for the ''[[Daily Prophet]]'' starting from the [[29 November|November 29]] [[1926]]<ref>{{FB|F}} - {{see image|File:Daily Prophet - 29 Nov 1926.png}}</ref> issue onward.<ref name="ootp-f" /><ref>{{GOF|F}}</ref>
+
+He also wrote an article about [[Wrackspurt]]s, entitled "Wrackspurts: Unfuss the Mystery", for a [[1996]] issue of ''[[The Quibbler]]''.<ref name="hbp-f" />
+
+==Appearances==
+*{{GOF|F}} {{Picture}}
+*{{OOTP|F}} {{Picture}}
+*{{HBP|F}} {{Picture}}
+*{{FB|F}} {{Picture}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Daily Prophet employees}}
+
+{{DEFAULTSORT:Shaman, D.}}
+
+[[es:D. Shaman]]
+[[pl:D. Shaman]]
+[[pt-br:D. Shaman]]
+[[Category:Advice columnists]]
+[[Category:British individuals|Shaman]]
+[[Category:Daily Prophet staff|Shaman]]
+[[Category:Doctors]]
+[[Category:Males|Shaman]]
+[[Category:Wizards|Shaman]]

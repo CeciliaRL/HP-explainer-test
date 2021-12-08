@@ -1,0 +1,51 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Diego Caplan's grandmother
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Diego Caplan's grandfather|Husband or co-grandparent]]
+*[[Diego Caplan's father|Son or son-in-law]]
+*[[Diego Caplan]] {{C|grandson}}
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = Caplan family
+}}
+{{Quote|No time to talk! I spilled ink on my letter to my grandmother!|[[Diego Caplan]]|Harry Potter: Hogwarts Mystery}}
+This '''individual''' was the grandmother of [[Diego Caplan]].
+
+==Biography==
+In the [[1990–1991 school year]], as her grandson was writing a letter to her in the [[Hogwarts Library]] — with the attachment of a recipe she had asked for — he spilled ink on the piece of parchment.<ref name="HM7.9">{{HM|7|9}}</ref>
+
+It is possible she was married to [[Diego Caplan's grandfather|Diego's duellist grandfather]].
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Caplan, Diego's grandmother}}
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

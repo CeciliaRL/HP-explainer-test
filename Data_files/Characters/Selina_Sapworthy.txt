@@ -1,0 +1,85 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:SelinaSapworthy.jpg|250px]]
+|name = Selina Sapworthy
+|born = before [[1969]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Black
+|eyes = Dark
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Author
+*Servant to the [[International Quidditch Team]]<ref name="HPLE">{{HPLE}}</ref>
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+*[[International Quidditch Team]]
+}}
+'''Selina Sapworthy''' was a [[Wizardkind|witch]], a [[Gryffindor]] alumna at [[Hogwarts School of Witchcraft and Wizardry]] and, later in her life, an award-winning author in the fields of [[Herbology]] and plant-related [[Divination]]. She was also a loyal servant to the [[International Quidditch Team]],<ref name="HPLE"/> sometime after her graduation.
+
+==Biography==
+===Early life===
+Selina Sapworthy was born somewhere in the [[Great Britain|British Isles]] and, in her youth, attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], where she was [[Sorting ceremony|Sorted]] into [[Gryffindor]] [[Hogwarts Houses|House]].<ref name="portrait">See [[:File:SelinaSapworthy.jpg|this image]]</ref> During this time, she presumably excelled in the studies of [[Herbology]] and [[Divination]], as she later wrote books on both subjects.
+
+===Later life===
+Once she graduated from Hogwarts, Sapworthy became a loyal servant to the [[International Quidditch Team]].<ref name="HPLE"/>
+
+She went on to write a [[Herbology]] [[Book]], ''[[Winogrand's Wondrous Water Plants]]'', focusing specifically on the [[water]] plants among [[Winogrand|Sir Winogrand's]] collection in the [[African Lakes]]. It was part of the required reading at [[Hogwarts School of Witchcraft and Wizardry]] for at least a quarter of a century.<ref name="book">{{HPLE|G}} (see [[:File:Winogrand'sFrontAndBackCover.png|this image]]).</ref> She also published ''[[Xylomancy (book)|Xylomancy]]'', a book exploring the eponymous (and often overlooked) art of [[Xylomancy|Divination by twigs]].<ref name="Pottermore">{{PM}}</ref>
+
+A [[portrait]] of her was hung at [[Hogwarts Castle]] by the [[1990s]], near the sixth-floor landing of the [[Grand Staircase]].
+
+==Magical abilities and skills==
+*'''[[Herbology]]''': Selina Sapworthy was an accomplished [[Herbologist]] with much knowledge of different [[magic]]al plants and fungi, having written the Herbology textbook ''[[Winogrand's Wondrous Water Plants]]'', a guide which specifically focuses on aquatic plant life, showing she was very knowledgeable and experienced in this field.
+*'''[[Divination]]''': Sapworthy was also very skilful and experienced in this rather esoteric and mysterious branch of magic, having authored the book ''[[Xylomancy (book)|Xylomancy]]'', which covers the art of [[Xylomancy]], the form of divination which involves the usage of twigs, showing she had much knowledge of this subject.
+
+==Etymology==
+*Selina is the English variant of the name Celine. Celine is a French feminine name that either descends from the Roman name ''Caelinus, ''which is derived from the Latin word ''caelum'', meaning "heaven," or serves a nickname for ''Marceline, ''which is also Latin in origin and is related to the name of the Roman god Mars.
+
+*Selina is also an alternate spelling of the name Selena. "Selena" is the Latinized form of "Selene", a Greek name meaning "moon." Selene was the Greek goddess of the moon, later conflated with the goddess Artemis.<ref name="BTN">[http://www.behindthename.com/name/selena "Selena"] on [http://www.behindthename.com/ Behind the Name]</ref>
+*"Sapworthy" may be a variation of the [[England|English]] surname "Sapworth" and a pun on the word "sap," the fluid that circulates in the vascular system of a plant. Both Sapworthy's known published works involve plants in some way.
+
+==Behind the scenes==
+*The portrait of Selina Sapworthy featured in the [[Harry Potter (film series)|''Harry Potter'' films]] seems to have been based on a [http://upload.wikimedia.org/wikipedia/commons/6/65/RothwellMaryShelley.jpg 1840 portrait of Mary Shelley], author of the Gothic novel ''[[Wikipedia:Frankenstein|Frankenstein: or, The Modern Prometheus]]'', by artist [[Wikipedia:Richard Rothwell|Richard Rothwell]].
+
+==Appearances==
+*{{POA|F}} {{Portrait}}
+*{{DH|F2}} {{Comment|Name on book cover}}
+*{{PM}} {{Mention}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Sapworthy, Selina}}
+
+{{Herbology}}
+{{Hogwarts sixth floor}}
+
+[[es:Selina Sapworthy]]
+[[it:Selina Sapworthy]]
+[[pl:Selina Sapworthy]]
+[[fr:Selina Sapworthy]]
+[[ru:Селина Сэпворфи]]
+[[Category:Authors]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Herbologists]]
+[[Category:Portraits]]
+[[Category:Wizards]]

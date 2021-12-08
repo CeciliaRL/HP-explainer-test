@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Donaghan Tremlett's spouse
+|born = 
+|died = 
+|blood = 
+|marital = Married<ref name="OOTP14"/>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP14"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Donaghan Tremlett]] (husband)<ref name="OOTP14"/>
+*[[Donaghan Tremlett's father|Mr Tremlett]] (father-in-law)
+*[[Donaghan Tremlett's mother|Mrs Tremlett]] (mother-in-law)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Tremlett family]]<ref name="OOTP14"/>
+}}
+{{Dialogue a-b|[[Ronald Weasley|Ron Weasley]]|Anything interesting?|[[Hermione Granger]]|No, just some guff about the bass player in the Weird Sisters getting married....|Mention of their wedding in the Daily Prophet|Harry Potter and the Order of the Phoenix}}
+'''Mrs or Mr Tremlett''' was an individual who married [[Donaghan Tremlett]] in [[September]] [[1995]]. The wedding was mentioned in the ''[[Daily Prophet]]''.<ref name="OOTP14">{{OOTP|B|14}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}} {{Indirect}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Tremlett, Donaghan's spouse}}
+[[pl:Żona Donaghana Tremletta]]
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Married individuals]]
+[[Category:Tremlett family]]
+[[Category:Unnamed family members]]

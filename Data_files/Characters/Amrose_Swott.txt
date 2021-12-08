@@ -1,0 +1,84 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = Amberose.jpg
+|name = Amrose Swott
+|born = 
+|died = In or before [[1992]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, Wilkins must have died sometime in or before [[1992]], given his portrait is visible in the "Dumbledore's Office" tour on Disc 2 of the {{COS|F}} DVD'.</ref>
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]
+*[[Headmaster]]
+|signature = 
+|species = *[[Human]]
+*[[Ghost]] (possibly)
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] (formerly)
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|Ora et Labora.|Professor Swott's motto, inscribed on his portrait|Harry Potter|Harry Potter Limited Edition}}
+'''Professor Amrose Swott'''<ref name="HPLE"/> was a [[Wizardkind|wizard]] and was once a [[Hogwarts Headmaster]].<ref name="cosdvd">{{COS|F}} DVD (Disc 2 - ''Dumbledore's Office'') {{See image|File:Amberose.jpg}}</ref>
+
+==Biography==
+[[File:AmberoseSwott.jpg|200px|thumb|Amrose Swott as a younger man]]
+===Lifetime===
+Professor Swott lived in the early [[18th century]].<ref name="HPLE">{{HPLE|PA}}</ref> He became the [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] at some point.
+
+===Post-mortem===
+Professor Swott died sometime in or prior to [[1992]].<ref name="DOD" /> Two [[portrait]]s of him hung at Hogwarts: one depicted a [[Glasses|bespectacled]] young man,<ref>{{See image|File:AmberoseSwott.jpg}}</ref> and another, painted in [[1724]]<ref name="HPLE" /> and hung in the [[Headmaster's office]], depicted an older wizard with a long ginger beard.<ref name="cosdvd" /> Swott's name was also carved into a wood panel on the wall of the school's [[Divination]] [[Divination Classroom|classroom]].<ref name="poapanel">{{POA|F}} - {{See image|File:Amberose Swott.jpg}}</ref>
+
+In the winter of [[1993]], Swott's name appeared on the [[Marauder's Map]],<ref>{{POA|F}} - Chapter 16</ref> presumably indicating that he lingered at Hogwarts as a [[ghost]] after his [[death]]<ref>In {{HBP}}, Chapter 24, Harry notices on the Marauder's Map that [[Draco Malfoy]] is in a boys' bathroom with [[Myrtle Warren]], thereby confirming that the Map shows ghosts.</ref> or that there is a student named after him.
+
+==Etymology==
+"Ambrose" is a name, which ultimately derives from the Greek name ''Ambrosios'', meaning "[[Immortality|immortal]]".<ref>"[http://www.behindthename.com/name/ambrose Ambrose]" on Behind the Name</ref> Swott may have been based on ''swot'', a British slang term, meaning "to study hard" or "one who studies hard."<ref>{{Wtlink|swot}}</ref>
+
+==Behind the scenes==
+*Swott's portrait is inspired by [https://upload.wikimedia.org/wikipedia/commons/3/37/Attributed_to_Arnold_Bronckorst_-_James_Douglas%2C_4th_Earl_of_Morton%2C_about_1516_-_1581._Regent_of_Scotland_-_Google_Art_Project.jpg a portrait] of {{W|James Douglas, 4th Earl of Morton}}.
+*The portrait depicting a younger Swott has been based on a [http://upload.wikimedia.org/wikipedia/commons/9/9e/Godfrey_Kneller_Selfportrait.jpg 1685 self-portrait] of {{W|Godfrey Kneller|Sir Godfrey Kneller (1646-1723)}}.
+*The [[motto]] inscribed on Swott's portrait, ''Ora et Labora'' (meaning "Pray and Work") was the motto of the {{W|Benedictine monk}}s.
+
+==Appearances==
+{{Imagecat|Images of Ambrose Swott}}
+*{{COS|F}} {{Portrait}}
+*{{POA|F}} {{Comment|Name seen on wood panelling}}
+*{{GOF|F}} {{Portrait}}
+*{{HM}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Swott, Amrose}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Edessa Skandenberg|Edessa Sakndenberg]]
+|position=[[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=????-[[1724]]
+|successor=Unknown, eventually [[Everard|Professor Everard]]}}
+{{End box}}
+{{Staff}}
+
+[[es:Amrose Swott]]
+[[de2:Amrose Swott]]
+[[fr:Ambrose Swott]]
+[[pl:Ambrose Swott]]
+[[pt-br:Ambrose Swott]]
+[[Category:British or Irish individuals]]
+[[Category:Deceased individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

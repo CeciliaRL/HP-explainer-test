@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Lilith Molesby
+|born = 
+|died = 
+|blood = 
+|marital = Single<ref name="dp3" />
+|nationality = [[Great Britain|British]]<ref name="dp3" />
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="dp3" />
+|gender = Female<ref name="dp3" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Daily Prophet]]<ref name="dp3" />
+}}
+'''Lilith Molesby''' was a lovelorn [[Great Britain|British]] [[wizardkind|witch]] who wrote in to the ''[[Daily Prophet]]'' problem page and had her letter published in the [[1 June]] [[1999]] issue.<ref name="dp3">''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'', Issue 3 (see [https://www.hp-lexicon.org/character/lilith-molesby/ this entry] on the Harry Potter Lexicon)</ref>
+
+==Biography==
+In the letter, Lilith sought advice on how to get a [[Wizardkind|wizard]] to fall in [[love]] with her, reporting that this man had told her friends he would rather be "beaten to death by [[troll]]s than take her out for dinner." She asked whether giving the wizard a [[Love Potion]] could help resolve her dilemma. Her letter was answered by [[Grizel Hurtz]], who advised her to start using [[Hate Potion]]s instead, as this would be preferable to having to constantly "doctor" her beloved's drinks.<ref name="dp3" />
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Molesby, Lilith}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unmarried individuals]]
+[[Category:Wizards]]

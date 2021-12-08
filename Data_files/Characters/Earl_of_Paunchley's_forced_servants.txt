@@ -1,0 +1,39 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=muggle
+|image=[[File:EarlOfPaunchleyServants.png|250px]]
+|name=Earl of Paunchley's forced servants
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Forced servants of the [[Earl of Paunchley]]
+|loyalty=
+}}
+{{Quote|The Earl was a tyrannical bully who made the lives of the villagers miserable. He doled out dreadful punishments for the slightest misdeeds: ''[…]'' young women who did not curtsey low enough when he passed were forced into service at the castle ''[…]''.|[[Miranda Goshawk]], ''[[Book of Spells]]''.|Wonderbook: Book of Spells}}
+These '''young women''' were villagers of [[Poppleton]], [[England]], in the [[15th century]]. They were forced into service at the [[Castle of the Earl of Paunchley|castle]] of the tyrannical [[Earl of Paunchley]], after the Earl took offence at them not curtseying low enough.<ref>{{WBS}}</ref>
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:English individuals]]
+[[Category:Females]]
+
+[[Category:Unidentified Muggles‎]]
+[[Category:Waitstaff]]

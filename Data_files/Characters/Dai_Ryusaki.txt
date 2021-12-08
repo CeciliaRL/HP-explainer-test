@@ -1,0 +1,59 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = dark-wizard
+|image =
+|name = Dai Ryusaki
+|born =
+|died = Before [[1990]]<ref name="HM722"/>
+|blood = 
+|marital = 
+|nationality = [[Japan]]ese<ref name="HM722"/>
+|alias = 
+|title = [[Professor]]<ref name="HM722"/>
+|signature = 
+|species = [[Human]]<ref name="HM722"/>
+|gender = Male<ref name="HM722"/>
+|height = 
+|weight = 
+|hair =
+|eyes =
+|skin =
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Professor]] at [[Mahoutokoro]]<ref name="HM722"/>
+|house = 
+|loyalty = [[Mahoutokoro]]<ref name="HM722"/>
+}}
+'''Dai Ryusaki''' was a [[Japan]]ese [[Wizardkind|wizard]] that lived hundreds of years prior to the [[20th century|21st century]], and who was known to have held a teaching post at [[Mahoutokoro]]. At some point in his life, he became a [[Dark Wizard]]. Ryusaki's life was briefly covered in a [[book on the history of Mahoutokoro]] found in the [[Restricted Section]] of the [[Hogwarts Library]].<ref name="HM722">{{HM|7|22}}</ref>
+
+==Biography==
+Dai Ryusaki was a [[professor]] at [[Mahoutokoro]] centuries ago.<ref name="HM722"/> At some point, he violated the [[Japanese wizard's code]] by indulging in "[[Dark Arts|forbidden practises]]",<ref name="Pottermore2">{{WW|mahoutokoro}}</ref> becoming a [[Dark Wizard]].<ref name="HM722"/>
+
+Legend had it that Dai Ryusaki created a [[Dai Ryusaki's mind-enhancing potion|mind-enhancing potion]] that highly powerful, but the potion was deemed dangerous and destroyed, with Ryusaki arrested. Rumour had it, was that before he was arrested, he was able to hide a [[Dark Scroll]] with the [[potion]] ingredients. Nobody after his death however knew if the scroll really existed, or what its contents could have been.<ref name="HM723">{{HM|7|23}}</ref>
+
+He created a [[Dai Ryusaki's weapon|powerful weapon]], but was stopped before it could be used. It is unknown what the weapon did or was created for, and the information died with his [[death]].<ref name="HM722"/>
+
+==Magical abilities and skills==
+*'''[[Dark Arts]]''': Ryusaki was said to be a [[Dark Wizard]], meaning he would have been proficient with Dark Magic. His [[Dai Ryusaki's weapon|weapon]] that he created was presumably of a dark nature.<ref name="HM722"/>
+*'''[[Potion]]s''': Legend had it that Ryusaki invented an incredibly powerful [[Dai Ryusaki's mind-enhancing potion|mind-enhancing potion]] that was destroyed due to it being dangerous.<ref name="HM723"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==References==
+{{Reflist}}
+{{Potions}}
+{{DEFAULTSORT:Ryusaki, Dai}}
+[[Category:Dark wizards]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Inventors]]
+[[Category:Japanese individuals]]
+[[Category:Mahoutokoro staff]]
+[[Category:Males]]
+[[Category:Potioneers]]
+[[Category:Professors]]

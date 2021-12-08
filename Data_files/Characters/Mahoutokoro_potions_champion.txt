@@ -1,0 +1,45 @@
+{{Conjecture}} 
+{{Individual infobox
+|theme=wizard
+|image = [[File:Mahoutokoropotioneer.png|250px]]
+|name = Mahoutokoro potions champion
+|born = year unknown, [[Japan]]
+|title = Potions Champion
+|nationality = [[Japan]]ese<ref name="WBP"/>
+|species = [[Human]]<ref name="WBP"/>
+|gender = Male<ref name="WBP"/>
+|hair = Black<ref name="WBP"/>
+|skin = Pale<ref name="WBP"/>
+|loyalty = [[Mahoutokoro]]<ref name="WBP"/>
+}} 
+This '''individual''' was a [[Japan]]ese [[Wizardkind|wizard]] who attended [[Mahoutokoro]]. He was a skilled [[potioneer]] and represented his school at the [[Wizarding Schools Potions Championship]].<ref name="WBP"/>
+
+==Biography==
+===Mahoutokoro===
+The Japanese wizard attended [[Mahoutokoro]] for his education.<ref name="WBP"/>
+
+===Wizarding Schools Potions Championship===
+[[File:River troll bridge.png|thumb|The wizard running past the [[River Troll]] underneath the bridge]]
+The wizard became a skilled [[potioneer]] and at age seventeen or above competed in the [[Wizarding Schools Potions Championship]] for the golden cauldron, where he represented his school, Mahoutokoro. At the start of the championship in the [[Enchanted garden (Book of Potions)|enchanted garden]], he headed towards the bridge, hoping to get an early lead. However, while crossing the bridge, he awakened a [[River Troll]]. Fortunately, the [[Troll]] was incapacitated by the [[Hogwarts potions champion]], who used a [[Shrinking Solution]] on it.<ref name="WBP"/>
+
+==Physical appearance==
+The wizard wore his [[Mahoutokoro uniform|school uniform]] and had black hair.<ref name="WBP"/>
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': This individual was highly proficient in the [[magic]]al art and [[science]] of potion-making, being talented enough that he represented his school in the [[Wizarding Schools Potions Championship]].<ref name="WBP">{{WBP}}</ref>
+
+==Behind the scenes==
+*This is the first student of Mahoutokoro introduced throughout the ''Harry Potter'' series.
+
+==Appearances==
+*{{WBP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[es:Campeón de pociones de Mahoutokoro]]
+[[pt-br:Campeão de poções de Mahoutokoro]]
+[[Category:Japanese individuals]]
+[[Category:Mahoutokoro students]]
+[[Category:Males]]
+[[Category:Potions Champions]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

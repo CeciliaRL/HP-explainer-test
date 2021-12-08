@@ -1,0 +1,112 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:MuggleBanknote.png|250px]]
+|name = Elizabeth II
+|born = [[21 April]], [[1926]]<br>[[London]], [[England]], [[Great Britain]]
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = Widowed
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = [[Queen]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height =5"4' 
+|weight =121 lbs 
+|hair =*Grey (Currently)
+*Auburn (Naturally) 
+|eyes =Blue 
+|skin =White 
+|family = *Prince Philip, Duke of Edinburgh (Husband) † 
+*Prince Charles, Duke of Cornwall (Son)
+*Anne, Princess Royal (Daughter)
+*Prince Andrew, Duke of York (Son)
+*Prince Edward, Earl of Wessex (Son)
+*Prince William, Duke of Cambridge (Grandson)
+*Prince Harry, Duke of Sussex (Grandson)
+*Peter Phillips (Grandson)
+*Zara Tindall (Granddaughter)
+*Princess Beatrice of York (Granddaughter)
+*Princess Eugenie of York (Granddaughter)
+*Lady Louise Windsor (Granddaughter)
+*James, Viscount Severn (Grandson)
+*Thomas Parker-Bowles (Step-Grandson)
+*Laura Lopes (Step-Granddaughter)
+*George VI (Father) †
+*Queen Elizabeth The Queen Mother (Mother) †
+*Princess Margaret, Countess of Snowdown (Sister) †
+*[[Victoria]] (Great-Great-Grandmother) †
+*[[George III]] (Ancestor) †
+*[[Henry VII]] (Ancestor) †
+*[[William I]] (Ancestor) †
+*[[Richard I]] (Distant Relative) †
+*[[Henry VI]] (Distant Relative) †
+*[[Henry VIII]] (Distant Relative) †
+*[[Anne Boleyn]] (Distant Relative) †
+*[[Mary I]] (Distant Relative) †
+*[[Elizabeth I]] (Distant Relative) †
+*[[William III]] (Distant Relative) †
+*[[Mary II]] (Distant Relative) †
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Queen]] of the [[Great Britain|United Kingdom]] and other [[wikipedia:Commonwealth|Commonwealth]] countries
+|house = 
+|loyalty = *{{Wplink|British royal family}}
+*{{Wplink|House of Windsor}}
+*{{Wplink|Church of England}}
+*[[Great Britain]]
+*The [[wikipedia:Commonwealth|Commonwealth]]
+}}
+'''Elizabeth II''' (full name '''Elizabeth Alexandra Mary'''; born [[21 April]] [[1926]]) was the reigning [[queen]] of the [[Great Britain|United Kingdom]] and other [[wikipedia:Commonwealth|Commonwealth]] countries during the [[1990s]]. She was still queen as of [[{{CURRENTYEAR}}]] and became the longest serving monarch of Britain in [[September]] [[2015]].<ref>"[https://en.wikipedia.org/wiki/Elizabeth_II Elizabeth II]" on Wikipedia</ref>
+
+==Corgi incident==
+In September [[1991]], one of the Queen's [[corgi|corgwn]] was [[Corgi to hamster spell|transformed]] into a [[hamster]] by an unknown [[wizardkind|witch or wizard]], prompting the [[Improper Use of Magic Office]] to launch an investigation and question several suspects.<ref name="ps-prophet">{{PS|F}} {{see image|File:GringottsBreakInProphetLarge.jpg}}</ref> The motive behind this attack was unknown at the time,<ref name="ps-prophet" /> and it is not known if the culprit was ever found.
+
+[[Non-magic people|Muggle]] authorities, on the other hand, concluded that the Queen's corgi had been stolen and replaced with a hamster as a "cruel" prank.<ref name="ps-prophet" /> They launched a "full scale" search to attempt to locate the [[dog]].<ref name="ps-prophet" />
+
+The incident was reported in the [[6 September]] 1991 issue of the ''[[Daily Prophet]]''.<ref name="ps-prophet" />
+
+==Depictions and references==
+[[File:EIIR.png|200px|thumb|left|The Queen's [[wikipedia:royal cypher|royal cypher]] on a streetlamp]]
+The Queen's likeness was featured on the obverse face of [[Great Britain|British]] [[Muggle money|banknotes]].<ref name="banknotewiki">"[https://en.wikipedia.org/wiki/Banknotes_of_the_pound_sterling Banknotes of the pound sterling]" on Wikipedia</ref> A £50 note was among several objects left on a table at the [[Siren's Rest]] pub in [[Wales]].<ref name="cob4">{{FBC|4}}</ref>
+
+The Queen's [[wikipedia:royal cypher|royal cypher]] appeared on streetlamps along the [[Victoria Embankment]] in [[London]].<ref name="WWHP">{{WWHP}} {{See image|File:EIIR.png}}</ref>
+
+==Behind the scenes==
+*In {{QH}}, Queen Elizabeth II lost her handbag and the [[Prime Minister]] sent the task of finding it to [[Harry Potter]], [[Hermione Granger]], [[Ronald Weasley|Ron Weasley]], and [[Neville Longbottom]]. The events surrounding this short skit cannot, however, be considered canon, as it contradicts canon in several points.
+*It is unknown if, as Queen of the United Kingdom in the second half of the [[20th century]], Elizabeth II was ever made aware of the existence of the [[wizarding world]] or the wizarding goings-on like the [[First Wizarding War|First]] or [[Second Wizarding War]], like her [[Prime Minister]] was. If [[Victoria|Queen Victoria]] is any indication,<ref name="pm-ministers">{{PM|ministers-for-magic}}</ref> then Queen Elizabeth probably remains ignorant of the wizarding world.
+
+==Etymology==
+The name "[[Elizabeth (disambiguation)|Elizabeth]]" comes from Ελισαβετ (''Elisabet''), the [[Greece|Greek]] form of the Hebrew name אֱלִישֶׁבַע (''Elisheva'') meaning "my [[God]] is an [[Unbreakable Vow|oath]]" or perhaps "my God is abundance".
+
+==Appearances==
+*{{PS|F}} {{1st Mention}} {{Comment|Mentioned in newspaper}}
+*{{QH}} {{Mention}}
+*{{WWHP}} {{Comment|Royal cypher appears on streetlamps}}
+*{{FBC}} {{Comment|Appears on a banknote}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Eventually, [[Victoria]]
+|position=Queen Regnant of the United Kingdom
+|years=[[1952]]-[[2010s|present]]
+|successor=Incumbent
+}}
+{{End box}}
+
+[[pt-br:Elizabeth II do Reino Unido]]
+[[pl:Elżbieta II]]
+[[ru: Елизавета II]]
+[[Category:1926 births]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Royalty]]

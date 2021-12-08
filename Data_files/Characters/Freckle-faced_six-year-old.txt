@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Freckle-faced six-year-old
+|born = between [[22 June]] [[1877]] and [[21 June]] [[1878]]
+|died = 
+|blood = [[Squib]], [[Pure-blood]] or [[Half-blood]]<ref name="blood">He mentions that he ''and'' his father like watching Quidditch, meaning his father is a wizard (though his blood is unknown), meaning as this boy has at least one wizarding parent he cannot be a [[Muggle-born]].</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="QTAR"/>
+|gender = Male<ref name="QTAR"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Freckle-faced six-year-old's father|Father]]<ref name="QTAR"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|One freckle-faced six-year-old left the hall in tears. 'I loved stooging,' he sobbed to the ''Daily Prophet''. 'Me and me dad like watching them Keepers flattened. I don't want to go to Quidditch no more.'|''[[Daily Prophet]]''|Quidditch Through the Ages (real)}}
+This '''individual''' (born c. [[1878]]) was among the crowd of [[Quidditch]] fans present at the announcement of the ban on [[Stooging]] by the [[Department of Magical Games and Sports]] on [[21 June]], [[1884]]. Much like the rest of the crowd present, this boy expressed his displeasure at the ban, telling a ''[[Daily Prophet]]'' reporter that he liked "watching them [[Keeper]]s flattened" and that the announcement made him not "want to go to Quidditch no more".<ref name="QTAR">{{QTA|R|6}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pt-br:Garotinho de seis anos e cara sardenta]]
+[[ru:Шестилетний болельщик]]
+[[Category:1870s births]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Quidditch fans]]
+[[Category:Unnamed family members]]

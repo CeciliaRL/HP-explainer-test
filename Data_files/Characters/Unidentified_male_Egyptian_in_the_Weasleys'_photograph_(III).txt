@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:Egyptian man III.jpg|250px]]
+|name=Unidentified male Egyptian in the Weasleys' photograph
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="POAF"/>
+|gender=Male<ref name="POAF"/>
+|height=
+|hair=Black (mostly bald)<ref name="POAF"/>
+|eyes=
+|skin=Light<ref name="POAF"/>
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|nationality=[[Egypt]]ian<ref name="POAF"/>
+|job=
+|house=
+|loyalty=[[Egypt]]<ref name="POAF"/>
+}}
+This '''Egyptian man''' appeared in the background of the photograph of the [[Weasley family]] on their trip to [[Egypt]], in [[1993]]. He was photographed while holding a small flag in the air.<ref name="POAF">{{POA|F}}</ref>
+
+==Appearances==
+*{{POA|F}} {{1st}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowany Egipcjanin na fotografii Weasley'ów (III)]]
+[[Category:Egyptian individuals|Male Egyptian in the Weasleys' photograph (III)]]
+[[Category:Males|Egyptian in the Weasleys' photograph (III)]]
+[[Category:Unidentified individuals|Egyptian in the Weasleys' photograph (III)]]
+[[Category:Wizards|Egyptian in the Weasleys' photograph (III)]]

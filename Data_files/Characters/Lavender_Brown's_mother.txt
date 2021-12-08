@@ -1,0 +1,36 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Mrs Brown
+|blood = [[Pure-blood]]<ref name="HPM">{{HPM}}</ref>
+|marital = Married
+|species = [[Human]]
+|gender = Female
+|family = *[[Lavender Brown's father|Mr Brown]] (husband)
+*[[Lavender Brown]] (daughter) †
+*[[Kelly Brown]] (possible niece)
+|house = [[Gryffindor]] (possibly)
+|loyalty = [[Brown family]]
+|theme = wizard
+}}
+'''Mrs Brown''' was a [[pure-blood]]<ref name="HPM"/> [[Wizardkind|witch]], wife of [[Lavender Brown's father|Mr Brown]] and mother of [[Lavender Brown|Lavender]]. In [[1993]], she and her husband sent a letter to Lavender, informing her that her pet [[rabbit]] [[Binky]] had been killed by a [[fox]].<ref name="POA8">{{POA|B|8}}</ref>
+
+Prior to that school year, either Mrs Brown or her husband signed a [[Hogsmeade permission form]] for Lavender.<ref name="POAF">{{POA|F}}</ref>
+
+On [[2 May]], [[1998]], her daughter died during the [[Battle of Hogwarts]] when she was attacked by [[Fenrir Greyback]].<ref name="PageToScreen">{{HPPS}}, page 215 - "Jessie Cave was also happy to come back, even knowing that Lavender Brown wasn't going to survive the final film. "She's not very lucky," the actress understates. "She doesn't meet a nice ending. She gets eaten by Fenrir Greyback. Cave recalls her death scene, which took several nights of shooting. "I had the most amazing prosthetic of a scar that looks so scary, it looked like I was actually mauled to death." </ref>
+
+==Behind the scenes==
+*Lavender's parents are only mentioned in the French version of {{POA}}.
+
+==Appearances==
+*{{POA}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Brown, Lavender's mother}}
+[[fr:Parents de Lavande Brown]]
+[[Category:Brown family|Brown, Lavender's mother]]
+[[Category:Females|Brown, Lavender's mother]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

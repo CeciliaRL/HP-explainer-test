@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:Music classroom monitor.png|150px]]
+|name = Music classroom monitor
+|born = [[31 August]] [[1979]] or earlier<ref name="age">He was at least in his [[third year]] by 1992.</ref>
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]] (possibly)<ref name="Blood">He was fascinated with the mistakes on non-magical music and bored with the flawlessness of magical music. This would be unlikely if he grew up around Muggles.</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Black<ref name="COSG"/>
+|eyes = Green<ref name="COSG"/>
+|skin = Black<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="COSG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSG"/>
+**[[Ravenclaw]]<ref name="COSG"/>
+}}
+{{Quote|A non-magical harmonica! Great! Magic music sounds so bland and free from error. Non-magical music has mistakes everywhere!|Music classroom monitor|Harry Potter and the Chamber of Secrets (video game)}}
+
+'''Music classroom monitor''' was a [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] during the [[1990s]].
+
+He attended [[Music]] classes and worked in the capacity of classroom monitor, in order to assist the [[Unidentified 1992–1993 Music teacher|professor]].<ref name="COSG">{{COS|G}} - GBC version</ref>
+
+==Biography==
+===1992===
+When [[Harry Potter]] gained possession of a harmonica during his second year, he thought he should give it to the [[Music]] [[Unidentified 1992–1993 Music teacher|Professor]]. Finding out he was absent from his [[Music Classroom|classroom]], he gave it to his assistant. In exchange for the harmonica, in return, the classroom monitor gave Harry a [[magic]] [[whistle]].<ref name="COSG" />
+
+==Appearances==
+*{{COS|G}} {{1st}} {{C|GBC version}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Green-eyed individuals]]
+[[Category:Males]]
+[[Category:Sorted in the 1980s]]
+[[Category:Unidentified Ravenclaws]]
+[[Category:Wizards]]

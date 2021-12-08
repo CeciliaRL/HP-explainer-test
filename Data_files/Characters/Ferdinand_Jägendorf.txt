@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Ferdinand Jägendorf
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Liechtenstein]]er<ref name="PM"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Manager of the [[Liechtenstein National Quidditch team]]<ref name="PM"/>
+|house = 
+|loyalty = [[Liechtenstein National Quidditch team]]<ref name="PM"/>
+}}
+'''Ferdinand Jägendorf''' was a [[wizardkind|wizard]] from [[Liechtenstein]], who, in the [[2010s]], worked as coach and manager of the [[Liechtenstein National Quidditch team]].<ref>[https://web.archive.org/web/20180314234522/http://www.pottermore.com/writing-by-jk-rowling/quidditch-world-cup-2014-daily-prophet-reports Quidditch World Cup 2014: Daily Prophet reports] at {{PM}} {{c|via The Internet Archive}}</ref><ref>[https://web.archive.org/web/20180315092254/https://www.pottermore.com/quidditch-world-cup/daily-prophet-reports-2014 Quidditch World Cup enhanced reading experience] at {{PM}} {{c|via The Internet Archive}}</ref>
+
+==Biography==
+During the celebrations following the quarter-final match of the [[2014 Quidditch World Cup]], in which the [[American National Quidditch team|USA]] defeated [[Liechtenstein National Quidditch team|Liechtenstein]] on [[8 June]], [[2014]], [[Hans]] was reported to have been kidnapped by celebrating American fans. Jägendorf issued the following statement: "''Das finden wir nicht lustig''" ("we don't find that funny").<ref name="PM">{{PM}} - [[LATE BREAKING NEWS]]</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{QTA|2018}} {{mention}}
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Jägendorf, Ferdinand}}
+
+[[de:Ferdinand Jägendorf]]
+[[fr:Ferdinand Jägendorf]]
+[[pl:Ferdinand Jägendorf]]
+[[ru:Фердинанд Ягендорф]]
+[[Category:Liechtenstein individuals]]
+[[Category:Males]]
+[[Category:Quidditch coaches]]
+[[Category:Quidditch managers]]
+[[Category:Wizards]]

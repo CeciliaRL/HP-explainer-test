@@ -1,0 +1,51 @@
+{{TranslationNewContent}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Archibald Bienbon
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=Co-president
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Co-president of a [[Académie française des sorciers]] committee
+|house=
+|loyalty=[[Académie française des sorciers]]
+}}
+{{Quote|Le Quidditch est né en Grande-Bretagne et le vocabulaire qui s'y rattache est bien entendu anglais. Pendant des siècles, l'usage de ces termes anglais a prévalu sur tous les terrains d'Europe. Cependant, depuis la fondation, en 1635, de l'Académie française des sorciers, une commission d'experts présidée par deux éminents académiciens, Boniface Toubeau et Archibald Bienbon, a créé des équivalents français à l'usage des équipes — et des supporters — de notre pays.<ref>Loosely translated: "''Quidditch was born in Britain and the vocabulary associated with it is, of course, English. For centuries, the use of English terms has prevailed on all areas of Europe. However, since the founding, in 1635, of the French Academy of Wizards, a committee of experts chaired by two prominent academics, Boniface Toubeau and Archibald Bienbon, created French equivalents for the use of teams — and fans — of our country.''"</ref>|"Glossaire à l'usage des apprentis sorciers", ''[[Quidditch Through the Ages|Le Quidditch à travers les âges]]''.|Quidditch Through the Ages (real)}}
+'''Archibald Bienbon''' was a [[France|French]] [[wizardkind|wizard]] and a prominent member of the [[Académie française des sorciers]]. 
+
+Bienbon, along with [[Boniface Toubeau]], was in charge of a committee of experts in charge of the translation of the originally British [[Quidditch]] terms into French.<ref name="QA">''[[Quidditch Through the Ages (real)|Le Quidditch à travers les âges]]''</ref>
+
+==Behind the scenes==
+*This individual is only mentioned in the French translation of {{QTA|R}}.
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}} {{C|French version only}}
+
+==Notes and references==
+{{Reflist}}
+
+[[fr:Archibald Bienbon]]
+{{DEFAULTSORT:Bienbon, Archibald}}
+[[Category:French individuals]]
+[[Category:Males]]
+[[Category:Translators]]
+[[Category:Wizards]]

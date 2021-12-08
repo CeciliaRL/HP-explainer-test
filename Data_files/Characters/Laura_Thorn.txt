@@ -1,0 +1,47 @@
+{{Individual infobox
+|image = [[File:Laura Thorn.png|250px]]
+|name = Laura Thorn
+|blood = [[Non-magic people|Muggle]]
+|nationality = [[England|English]]
+|species = [[Human]]
+|gender = Female
+|hair = Blonde
+|eyes = Hazel
+|skin = White
+|family = [[Laura Thorn's sister|Sister]]
+|job = *Professional monster hunter
+*Author
+|theme = muggle
+}}
+{{Quote|My head really hurts… Last I remember, I was in the Austrian Alps, chasing down a Yeti sighting… I'm a professional monster hunter you see — Laura Thorn, author of ''Hoax and Dreams''. Perhaps you've read it?|Laura Thorn|Fantastic Beasts: Cases from the Wizarding World}}
+'''Laura Thorn''' was an [[England|English]] [[Non-magic people|Muggle]] professional monster hunter and author. She wrote at least one book, ''[[Hoax and Dreams]]'', about her searches.
+
+==History==
+{{Quote|I'm not coming out! I want answers! Why is this tent bigger on the inside? Why are you lot dressed so funny? What smashed up that pub? Why are you all carrying fancy little sticks?… And what's a ''Muggle''?|Laura Thorn figures out about the [[wizarding world]] before being [[Memory Charm|Obliviated]] by [[Mathilda Grimblehawk]] and her [[Mathilda Grimblehawk's partner|partner]]|Fantastic Beasts: Cases from the Wizarding World}}Laura Thorn lived in [[London]]<ref name="FBC2.4">{{FBC|2|4}}</ref> and had at least one [[Laura Thorn's sister|sister]].<ref name="FBC2.3">{{FBC|2|3}}</ref> A professional monster hunter, she wrote at least one book about her search for mysterious creatures, ''[[Hoax and Dreams]]''.
+
+She went to the [[Austria]]n [[Alps]] to investigate a [[Yeti]] sighting at the same time that the [[wizardkind|wizard]] [[Percival Shacklehorn]] was there hunting [[Graphorn]]. She followed tracks into [[Percival Shacklehorn's tent|Shacklehorn's tent]]. When something attacked her, she was forced to hide in a [[grandfather clock]].
+
+She ultimately emerged from the tent in the [[Leaky Cauldron]] and was responsible for setting off a [[Sneakoscope]] that had been [[Mending Charm|magically mended]]. [[Mathilda Grimblehawk]] and her [[Mathilda Grimblehawk's partner|partner]] interviewed her as part of their investigation and her memory of the event was [[Memory Charm|erased]] by [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]] [[healer]] [[Omar Abasi]].<ref name="FBC2.2">{{FBC|2|2}}</ref>
+
+Later on, Laura Thorn went out to [[Charing Cross Road]] and started telling everyone about a big, grey monster. According to [[Omar Abasi]], his [[Memory Charm]] might not have been entirely successful due to Laura Thorn's memory being refreshed by a certain smell.<ref name="FBC2.3"/> Confining her to the [[Leaky Cauldron]], [[Mathilda Grimblehawk]] and her [[Mathilda Grimblehawk's partner|partner]] then looked for possible odorous objects that could be reminding her of the magical beast that tried to attack her in the tent. [[Omar Abasi]] then set up a smell test comprised of a bottle of [[Pumpkin Juice|pumpkin juice]], a bottle of [[Mrs Skower's All-Purpose Magical Mess Remover]], and [[Percival Shacklehorn's socks|a pair of Shacklehorn's socks]]. Laura responded to this last item, and then escaped back into Shacklehorn's tent while Abasi was busy brewing her a [[Calming Draught]].
+
+[[Mathilda Grimblehawk]] and her [[Mathilda Grimblehawk's partner|partner]] then briefly confronted Laura Thorn, who figured out that they were [[wizardkind|wizards]] and that magical creatures ''really'' existed. She was then taken to [[St Mungo's Hospital for Magical Maladies and Injuries]], and her memory erased again, before being let go in [[London]], mildly confused about how she had returned from the [[Alps]].<ref name="FBC2.4">{{FBC|2|4}}</ref>
+
+==Behind the scenes==
+*Before she introduces herself to the player, Laura's lines are identified as those of "Ruffled Stowaway". She is also repeatedly referred to as the "Monster Hunter".
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Thorn, Laura}}
+[[pl:Laura Thorn]]
+[[es:Laura Thorn]]
+[[fr:Laura Thorn]]
+[[ru:Лаура Торн]]
+[[Category:Authors]]
+[[Category:Brown-eyed individuals]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Monster hunters]]
+[[Category:Muggles]]

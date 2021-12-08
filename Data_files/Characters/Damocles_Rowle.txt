@@ -1,0 +1,76 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Damocles Rowle
+|born = Pre [[1701]]
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, The Rowle family was one of the [[Sacred Twenty-Eight]], as Damocles had already been alive by that point he was likely a Pure-Blood or Half-blood, as was common with other Pure-Blood families such as the Malfoys.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="MFM"/>
+|alias = 
+|title = [[Minister for Magic]]<ref name="MFM"/>
+|signature = 
+|species = [[Human]]<ref name="MFM"/>
+|gender = Male<ref name="MFM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Thorfinn Rowle]] {{c|possible}}
+*[[Rowle family]]<ref name="MFM"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Minister for Magic|British Minister for Magic]] ([[1718]]-[[1726]])<ref name="MFM">{{WW|ministers-for-magic}}</ref>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="MFM"/>
+*[[Azkaban]]<ref name="Azkaban"/>
+}}
+{{Quote|Rowle was an authoritarian who had risen to power on an anti-Muggle agenda, capitalising on the anger felt by much of the wizarding community at being forced to go underground. Sadistic by nature, Rowle scrapped the plans for the new prison at once and insisted on using Azkaban.|Rowle's rise to power and his nature|Pottermore}}
+'''Minister Damocles Rowle''' was an [[Wizarding supremacy|anti-Muggle]] [[wizardkind|wizard]] politician who had risen to the rank of [[Minister for Magic]] from [[1718]] to [[1726]].<ref name="MFM"/> Damocles was responsible for the creation of the wizard prison known as [[Azkaban]] and for utilising the [[Dementor]] colony living on the island as the prison's guards.<ref name="Azkaban"/>
+
+==Biography==
+[[File:Azkaban-002.jpg|245x245px|thumb|left|[[Azkaban]] Prison, established by Damocles Rowle in [[1718]]]]
+He was elected on a platform of being "tough on [[Non-magic people|Muggle]]s". At the time, plans for a purpose-built wizarding prison, located on some [[Hebrides|Hebridean]] island, had been made. However, Rowle scrapped the plans and insisted on using [[Azkaban]] instead, which had previously been a [[Dementor]]-infested fortress used by the insane dark wizard [[Ekrizdis]] in the [[15th century]] and was now abandoned. He claimed that the Dementors populating the island could be harnessed as guards, saving the [[British Ministry of Magic|Ministry]] time, expense and trouble, and thus being an advantage. Rowle carried out his plan, in spite of protests from experts on both Dementors and buildings with a dark history such as Azkaban. Many prisoners were placed there, and even those who had not been mad and dangerous when they came to Azkaban, swiftly became so. Yet none of them ever emerged while Rowle was the Minister.<ref name="Azkaban">{{WW|azkaban}}</ref>
+
+He was first elected as Minister in [[1718]] and was re-elected at least once.<ref name="MFM"/>
+
+His actions as Minister led to him being censured by the [[International Confederation of Wizards]], and he was therefore forced to step down, turning over the office to [[Perseus Parkinson]].<ref name="MFM"/> Despite Rowle being forced to step down however, the island still remained infested with Dementors, and the creatures were still used as guards until the outbreak of the [[Second Wizarding War]].
+
+==Etymology==
+{{wplink|Damocles}} is an anecdotal figure from Sicily. Supposedly a courier of {{wplink|Dionysius II of Syracuse}}, Damocles commented on his king's fortunate position. Dionysius offered to switch positions with Damocles and offered to let him sit on the throne. Dionysius then arranged for a heavy sword to be suspended above the throne by only a single tail hair of a horse. This allegory is meant to illustrate that with great fortune comes great peril and anxiety. Damocles Rowle can be said to exemplify this allegory, as he was censured and forced to retire as Minister.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Ulick Gamp]]
+|position=[[Minister for Magic]]
+|years=[[1718]] - [[1726]]
+|successor=[[Perseus Parkinson]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Rowle, Damocles}}
+[[de:Damocles Rowle]]
+[[es:Damocles Rowle]]
+[[fr:Damocles Rowle]]
+[[pl:Damocles Rowle]]
+[[ru:Дамокл Роули]]
+[[pt-br:Damocles Rowle]]
+[[Category:British Ministers for Magic]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Pure-bloods]]
+[[Category:Rowle family]]
+[[Category:Wizarding supremacists]]
+[[Category:Wizards]]

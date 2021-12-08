@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Normal mURI temp cba11769 (1).jpg|250px]]
+|name = Unidentified wizard
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF2"/>
+|gender = Male<ref name="DHF2"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="DHF2"/>
+|eyes = 
+|skin = White<ref name="DHF2"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="DHF2"/>
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who fought during the [[Battle of Hogwarts]] at [[Hogwarts School of Witchcraft and Wizardry]] in [[1998]].<ref name="DHF2">{{DH|F2}}</ref> 
+
+==Biography==
+On [[2 May]] [[1998]], he was one of the many [[Wizardkind|wizards and witches]] who fought bravely in the [[Battle of Hogwarts]] against [[Tom Riddle|Lord Voldemort]] and the [[Death Eaters]]. During the final stage of the battle, he was seen fighting a bald Death Eater in the [[Great Hall]], who he managed to kill while [[duelling]] ferociously against the Death Eaters. It is unknown if he survived the battle.<ref name="DHF2"/>
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,52 @@
+__NOTOC__
+{{Transcribed image|File:AlistaireBallcockeMap.jpg}}
+{{youmay|the wizard who appeared on the [[Marauder's Map]]|[[Alistair Ballcocke]]}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:AlistaireBallcockeMap.jpg|250px]]
+|name = Alistaire Ballcocke
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Alistair Ballcocke]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Alistaire Ballcocke''' was a [[wizardkind|wizard]] who appeared on the [[Marauder's Map]] in the winter of [[1993]].<ref>{{POA|F}} {{see image|File:AlistaireBallcockeMap.jpg}}</ref>
+
+==Etymology==
+''Ballcocke'' is an alternate spelling of the English surname ''Balcock'', which derives from the diminutive suffix -''cock'' combined with either ''Bald'', a pet form of the Germanic male given name ''Baldwin'', or the Old English ''beald'' ("brave," "bold").<ref>[http://books.google.com/books?id=DDF3mn8473wC&pg=PA161 ''A Dictionary of English Surnames''] by P. H. Reaney and R. M. Wilson</ref> 
+
+A ballcock is a mechanism for filling water tanks (such as in flush toilets) designed to prevent overflow and backflow.<ref>"[http://en.wikipedia.org/wiki/Ballcock Ballcock]" on Wikipedia</ref>
+
+==Behind the scenes==
+*This character was presumably named after [[Alastair Bullock]], the assistant art director on {{POA|FA}}.
+
+==Appearances==
+*{{POA|F}} {{Comment|Appears on Marauder's Map}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Ballcocke, Alistaire}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

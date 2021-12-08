@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Iefan Rice
+|born = Between [[1976]] and [[1997]]<ref>[[Viktor Krum]], born 1976, is the oldest player in the 2014 World Cup; however, if Rice had been any younger than seventeen, he would be too young to play internationally.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = Human
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[Welsh National Quidditch team]]
+|house = 
+|loyalty = [[Welsh National Quidditch team]]
+}}
+'''Iefan Rice''' was a [[Wales|Welsh]] [[Wizardkind|wizard]] and a [[Beater]] for the [[Welsh National Quidditch team]] in the [[2014 Quidditch World Cup]]<ref name="PM">[[2014 Quidditch World Cup]]</ref>. He shot such a ferocious [[Bludger]] at [[Brazilian National Quidditch team|Brazilian]] [[Keeper]] [[Raul Almeida]] that Almeida very nearly lost his head<ref name="PM"/>. Despite this, Rice was permitted to stay on and play, and had to drag manager [[Gwenog Jones]] off the pitch after she attacked Brazilian manager [[José Barboza]]<ref name="PM"/>.
+
+==Appearances==
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Rice, Iefan}}
+
+[[de:Iefan Rice]]
+[[es:Iefan Rice]]
+[[fr:Iefan Rice]]
+[[ru:Йефан Райс]]
+[[Category:Beaters]]
+[[Category:Males]]
+[[Category:Welsh individuals]]
+[[Category:Wizards]]

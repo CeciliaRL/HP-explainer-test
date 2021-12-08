@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Viola Landers
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Actress
+|house=
+|loyalty=
+}}
+'''Viola Landers''' was a [[Muggle|No-Maj]] actress in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:It's Just Heavenly.png}}</ref>
+
+She starred in a production of the musical ''[[It's Just Heavenly]]'' that was staged at the [[Pegasi Theatre]] in [[New York]] in [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Landers, Viola}}
+[[Category:Actors]]
+[[Category:Females]]
+[[Category:Muggles]]

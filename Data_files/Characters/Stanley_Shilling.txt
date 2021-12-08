@@ -1,0 +1,45 @@
+{{Transcribed image|File:ComingSoonSovereignTheatre.jpg}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Stanley Shilling
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Actor
+|house=
+|loyalty=
+}}
+'''Stanley Shilling''' was a [[Muggle|No-Maj]] actor in the early [[20th century]].<ref name="fbpic">{{FB|F}} {{See image|File:ComingSoonSovereignTheatre.jpg}}</ref>
+
+In [[December]] [[1926]], there was a sign on the side of the [[Sovereign Theatre]] in [[Times Square]] in [[New York]], announcing that a production of ''[[A Man Called Clark]]'' starring Shilling would begin there soon.<ref name="fbpic" />
+
+==Appearances==
+*{{FB|F}} {{Comment|Mentioned on a sign}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Shilling, Stanley}}
+[[Category:Actors]]
+[[Category:Males]]
+[[Category:Muggles]]

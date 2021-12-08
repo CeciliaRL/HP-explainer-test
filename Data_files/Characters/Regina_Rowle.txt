@@ -1,0 +1,55 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Regina Rowle
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Damocles Rowle]] (possibly)
+*[[Euphemia Rowle]] (possibly)
+*[[Thorfinn Rowle]] (possibly)
+*[[Rowena Rowle]] (possibly)
+*[[Rowle family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Junior [[Unspeakable]]
+|house = 
+|loyalty = *[[Rowle family]]
+*[[British Ministry of Magic]]
+**[[Department of Mysteries]]
+}}
+{{Quote|Regina Rowle is an Unspeakable. She's also, paradoxically, one of the Ministry's greatest gossips.|[[Constance Pickering]]|Harry Potter: Wizards Unite}}
+'''Regina Rowle''' was a [[Great Britain|British]] [[Wizardkind|witch]] who worked at the [[British Ministry of Magic]] in the [[2010s]], in the capacity of Junior [[Unspeakable]].<ref name="WUtrailer">{{WU}} {{see image|File:WU trailer documents ref.png}}</ref>
+
+==Biography==
+At some point in her career, she entered the [[Love Chamber]] in the [[Department of Mysteries]]; the log documenting the time of her entry and exit was brought to light during the investigation over the [[Calamity]], as it also showed [[Grim Fawley]] was frequently in the room at odd times.<ref name="WUtrailer"/>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 9 employees}}
+
+{{DEFAULTSORT:Rowle, Regina}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Rowle family|Regina Rowle]]
+[[Category:Unspeakables]]
+[[Category:Wizards]]

@@ -1,0 +1,24 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Leaky Cauldron wizard from Belgium
+|nationality = [[Belgium|Belgian]]<ref name="POAF"/>
+|species = [[Human]]<ref name="POAF"/>
+|gender = Male<ref name="POAF"/>
+|loyalty = [[Leaky Cauldron]]<ref name="POAF"/>
+|theme = wizard
+}}
+{{Dialogue a-b-a-b-a-b-a|Fred|Oh, not a [[soul]].|George|Unless you count [[Tom]]. . .|. . .the [[Day maid at Leaky Cauldron|day maid]]. . .|. . .the [[Night maid at the Leaky Cauldron|night maid]]. . .|. . .the [[Cook at the Leaky Cauldron|cook]]. . .|. . .the [[Bloke who fixed the toilet at Leaky Cauldron|bloke who fixed the toilet]]. . .|. . .and that wizard from Belgium.|[[Fred and George Weasley]]|Harry Potter and the Prisoner of Azkaban (film)}}
+This '''[[Wizardkind|wizard]]''' lived in [[Belgium]]. In [[1993]], he stayed at the [[Leaky Cauldron]] in [[London]]. For unknown reasons, [[Ronald Weasley|Ron Weasley]] showed this [[Wizardkind|wizard]] the [[Daily Prophet articles|Daily Prophet article]] about his family's trip to [[Egypt]].<ref name="POAF">{{POA|F}}</ref>
+
+==Appearances==
+*{{POA|F}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+[[pl:Czarodziej z Belgii]]
+[[Category:Articles with conjectural titles]]
+[[Category:European individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

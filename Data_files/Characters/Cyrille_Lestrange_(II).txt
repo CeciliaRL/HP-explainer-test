@@ -1,0 +1,42 @@
+{{Individual_infobox
+|theme=wizard
+|image=CYRILLELESTRANGE II.jpg
+|name=Cyrille Lestrange
+|blood = [[Pure-blood]]<ref>He was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|species=[[Human]]
+|gender=Male
+|loyalty=[[Lestrange family]]
+|family=
+*[[Cyrille Lestrange (I)|Cyrille Lestrange]] (father)
+*[[Darenne Lestrange]] (mother)
+*[[Fulcran Lestrange (I)|Fulcran Lestrange]] (brother)
+*[[Pucine Lestrange (I)|Pucine Lestrange]] (sister-in-law)
+*[[Balbine Lestrange (I)|Balbine Lestrange]] (wife)
+*[[Cyrille Lestrange (III)|Cyrille Lestrange]] (son)
+*[[Corvus Lestrange (I)|Corvus Lestrange]] (uncle)
+*[[Corvus Lestrange (II)|Corvus Lestrange]] (cousin)
+*[[Luminosa Lestrange]] (daughter-in-law)
+*[[Cyrille Lestrange (IV)|Cyrille Lestrange]] (grandson)
+*[[Floxel Lestrange]] (grandson)
+*[[Lestrange family]]
+|marital=Married
+|skin = Light}}
+'''Cyrille Lestrange''' was a [[Wizardkind|wizard]] and a member of the [[pure-blood]] [[Lestrange family]]. He was the son of [[Cyrille Lestrange (I)|Cyrille Lestrange]] and [[Darenne Lestrange|Darenne Moreau]]. He had a brother [[Fulcran Lestrange (I)|Fulcran.]] He married [[Balbine Lestrange (I)|Balbine Leroy]] and had a son with her, [[Cyrille Lestrange (III)|Cyrille]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref>
+
+==Appearances==
+*{{COG}} {{c|Appears on the Lestrange family tree}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Lestrange, Cyrille II}}
+[[fr:Cyrille Lestrange II]]
+[[pl:Cyrille Lestrange II]]
+[[ru:Сирилл Лестрейндж II]]
+[[Category:French individuals]]
+[[Category:Lestrange family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

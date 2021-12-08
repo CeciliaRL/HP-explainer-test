@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = muggle
+|image = Reporter.jpg
+|name = Unidentified reporter
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[United States of America|American]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Reporter
+|house = 
+|loyalty = 
+}}
+This '''individual''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who worked as reporter in the [[1920s]].
+
+==Biography==
+He interviewed a [[Unidentified witness|witness]] who saw a building get destroyed by an [[Obscurus]] in [[New York]] in [[1926]].<ref name="FBS">{{FB|S}}</ref>
+
+After interviewing, he asked a [[Unidentified photographer (II)|photographer colleague]] if he felt like getting a drink, to which the photographer replied that he had promised [[Martha (American Muggle)|Martha]] (presumably his wife or girlfriend) that he would abstain from consuming [[alcohol]].<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+*The reporter was portrayed by [[Tristan Tait]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowany dziennikarz]]
+[[Category:American individuals]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

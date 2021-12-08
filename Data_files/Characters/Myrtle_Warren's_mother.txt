@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mrs Warren
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Myrtle Warren's father|Husband]]
+*[[Myrtle Warren]] (daughter) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Warren family]]
+}}
+{{Quote|Come on, Rubeus. The dead girl's parents will be here tomorrow. The least Hogwarts can do is make sure that the thing that killed their daughter is slaughtered...|[[Tom Riddle]] falsely pins Myrtle's death on [[Aragog]]|Harry Potter and the Chamber of Secrets}}
+'''Mrs Warren''' was a [[Non-magic people|Muggle]]<ref name="COS12">{{COS|B|12}}</ref> and the mother of [[Myrtle Warren|Myrtle Elizabeth Warren]], a [[Muggle-born]] [[Wizardkind|witch]] who attended [[Hogwarts School of Witchcraft and Wizardry]], where she was killed by a [[Salazar Slytherin's Basilisk|Basilisk]] on [[13 June]], [[1943]]. She and her [[Myrtle's father|husband]] visited Hogwarts shortly after the tragic event occurred.<ref name="COS13">{{COS|B|13}}</ref>
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+*{{COS|F}} {{Mention}}
+*{{COS|G}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Madre de Myrtle la Llorona]]
+[[pl:Matka Marty Warren]]
+{{DEFAULTSORT:Warren, Myrtle's mother}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎]]
+[[Category:Warren family]]

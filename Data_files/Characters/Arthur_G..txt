@@ -1,0 +1,28 @@
+{{Transcribed image|File:ArthurGAdvertisement.jpg}}
+{{Individual infobox
+|image = [[File:ArthurAd.png|250px]]
+|name = Arthur B. G.
+|species = [[Human]]<ref name="POAF"/>
+|gender = Male<ref name="POAF"/>
+|job = Shopkeeper<ref name="POAF"/>
+|theme = wizard
+}}
+'''Arthur B. G.''' was a [[Wizardkind|wizard]] who owned a men's clothing shop that was advertised on a bill posted next to a wanted poster for [[Sirius Black]] on a noticeboard in [[Hogsmeade]] in [[1993]].<ref name="POAF">{{POA|F}}</ref>
+
+==Behind the scenes==
+*This character is mentioned only on a prop poster seen in {{POA|FA}}. All but the first letter of his surname is covered by an overlapping [[Sirius Black]] wanted poster.
+
+==Etymology==
+The meaning of this name is unknown. It could be derived from British art "bear" combined with viros "man", or it could be related to Irish art "stone". Alternatively it could be related to an obscure Roman family name Artorius. Arthur is the name of the central character in Arthurian legend, a 6th-century king of the Britons who presided over the knights of the Round Table. He may or may not have been a real person.
+
+==Appearances==
+*{{POA|F}} {{C|Name seen on poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:G., Arthur}}
+[[pl:Arthur G.]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

@@ -1,0 +1,77 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Hector Fawley
+|hideb=
+|born=Before [[1908]]
+|died=
+|blood=[[Pure-blood]]<ref name="blood">On {{WW|pure-blood}}, the Fawleys are mentioned to have been included in the ''[[Pure-Blood Directory]]'' published in Britain in the 1930s. As Hector Fawley was already alive by 1930 (and, indeed, was such a prominent wizarding figure on the time), this establishes that he must have been a pure-blooded wizard.</ref>
+|alias=Flamboyant Fawley<ref name="PM"/>
+|title=[[Minister for Magic]]<ref name="PM"/>
+|nationality=[[Great Britain|British]]<ref name="PM"/>
+|species=[[Human]]<ref name="PM"/>
+|gender=Male<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=[[Fawley family]]<ref name="PM"/>
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Minister for Magic|British Minister for Magic]] ([[1925]]-[[1939]])<ref name="PM"/>
+|house=
+|loyalty=*[[Fawley family]]<ref name="PM"/>
+*[[British Ministry of Magic]]<ref name="PM"/>
+}}
+'''Minister Hector Fawley''' was [[Minister for Magic]] from [[1925]] to [[1939]].<ref name="PM"/>
+
+==Biography==
+Minister Fawley was voted in because of his marked difference to his predecessor, [[Lorcan McLaird]] — while the latter was taciturn and an unlikely politician, Fawley was ebullient and flamboyant in character.<ref name="PM"/>
+
+His term in office coincided with the beginning of [[Gellert Grindelwald]]'s [[Global wizarding war|"For the Greater Good" revolution]]. Fawley did not take Grindelwald's threat to the world wizarding community sufficiently seriously, and his lack of response was openly questioned. The [[Daily Prophet]] once asked in [[1926]], whether "Flamboyant Fawley" was doing enough.<ref name="FBF">{{FB|F}} - {{see image|File:Daily Prophet - 29 Nov 1926.png}}</ref>  
+
+He was re-elected at least once, but the consequence of his lack of response to Grindelwald came in [[1939]], when he was forced from his office, being replaced with the more proactive [[Leonard Spencer-Moon]].<ref name="PM">{{WW|ministers-for-magic}}</ref>  
+
+==Behind the scenes==
+*Hector Fawley is the sitting Minister for Magic in Britain during the time setting of the films ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'' and {{COG}}.
+*While the "British Envoy" portrayed by [[Richard Clothier]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'' was speculated to be Fawley as Newt addresses him as Minister, Clothier's agency lists his role as [[Hector Podmore]].<ref>[http://www.unitedagents.co.uk/richard-clothier United Agents - Richard Clothier]</ref>
+*Hector Fawley's inability to properly respond to the threat Grindelwald posed seems to mirror real-life British Prime Minister [[Wikipedia:Neville Chamberlain|Neville Chamberlain]], who gave in to [[Wikipedia:Adolf Hitler|Adolf Hitler]] by signing the [[Wikipedia:Munich Agreement|Munich Agreement]] and announced "''peace in our time''" in 1938, shortly before the outbreak of World War II. Regardless of Chamberlain's other achievements, he went down in history as a bumbler.
+*The Fawleys (Aubrey and Julia) are characters in [[J. K. Rowling]]'s novel ''[[The Casual Vacancy]]''. In that novel, they are a rich aristocratic family and the owners of Sweetlove House, an historic manor in the outskirts of Pagford, whose ancestors were responsible for selling the nearby city of Yarvil a piece of Pagford land — one of the catalysts for the plot.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{FB|F}} {{c|Mentioned on newspaper}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Lorcan McLaird]]
+|position=[[Minister for Magic]]
+|years=[[1925]]-[[1939]]
+|successor=[[Leonard Spencer-Moon]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Fawley, Hector}}
+
+[[de:Hector Fawley]]
+[[es:Hector Fawley]]
+[[fr:Hector Fawley]]
+[[pl:Hector Fawley]]
+[[pt-br:Hector Fawley]]
+[[ru:Гектор Фоули]]
+[[zh:赫克托·弗利]]
+[[Category:British Ministers for Magic]]
+[[Category:Fawley family|Hector]]
+[[Category:Males]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:SamuelPlunkett.png|250px]]
+|name = Samuel Plunkett
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = Human<ref name="WP">{{WBP}} (See [http://www.youtube.com/watch?annotation_id=annotation_175630&feature=iv&src_vid=g1OVFdhMxPA&v=FdbGPzZSXEk this video])</ref>
+|gender = Male<ref name="WP"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="WP"/>
+|eyes = 
+|skin = Light<ref name="WP"/>
+|family = *[[Mirabella Plunkett]] (possibly)
+*[[Josiah Plunkett]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Plunkett family]]<ref name="WP"/>
+}}
+{{Quote|There was also the famous case of wizard Samuel Plunkett, who poured Shrinking Solution into the well of a village that had persecuted him, then spent his birthday chasing the shrunken villagers in hobnail boots.|[[Zygmunt Budge]], ''[[Book of Potions]]''|Wonderbook: Book of Potions}}
+'''Samuel Plunkett''' was a [[wizardkind|wizard]] who was famously persecuted by a [[Non-magic people|Muggle]] village at some point in history.<ref name="well">{{WBP}} - see [https://archive.is/20131112204506/www.sony.com/pottermore/gb/book-of-potions/view-image/assets/img/carousel-bop/BoP-ShrinkStory.jpg this]</ref> To avoid persecution he poured [[Shrinking Solution]] into the village well<ref name="well"/> and spent his entire birthday chasing the shrunken villagers around in hobnail boots.<ref name="WP"/> Author [[Zygmunt Budge]] wrote about this incident in his ''[[Book of Potions]]''.<ref name="WP"/>
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': Plunkett was evidently skilled in the field of potion-making, as he was able to successfully brew the [[Shrinking Solution]] and use it to take revenge on his Muggle persectuors.<ref name="WP"/>
+
+==Appearances==
+*{{WBP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Plunkett, Samuel}}
+
+[[fr:Samuel Plunkett]]
+[[ru:Сэмуэль Планкетт]]
+[[pl:Samuel Plunkett]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Plunkett family|Samuel]]
+[[Category:Wizards]]

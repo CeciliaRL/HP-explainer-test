@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:BroomShopkeeper.png|250px]]
+|name=Broom Shop shopkeeper
+|nationality=[[Great Britain|British]]<ref name="PSG"/>
+|born=Before [[1974]] (most likely)
+|died=
+|blood=
+|alias=
+|title=
+|species=[[Human]]<ref name="PSG"/>
+|gender=Male<ref name="PSG"/>
+|height=
+|hair=Blond<ref name="PSG"/>
+|eyes=Blue<ref name="PSG"/>
+|skin=Fair<ref name="PSG"/>
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Shopkeeper of the [[Broom Shop]]<ref name="PSG"/>
+|house=
+|loyalty=[[Broom Shop]]<ref name="PSG"/>
+}}
+{{Dialogue a-b-a|Shopkeeper|Hello, young man. Are you a first year student?|Harry Potter|I will be soon.|You know I can't sell to you, of course. But look around all you like.|This man speaks with Harry Potter in 1991.|Harry Potter and the Philosopher's Stone (video game)}}
+This '''individual''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who owned the [[Broom Shop]] in [[Diagon Alley]] by [[1991]].
+
+He was a blond man with blue eyes and a moustache, and often wore blue robes. He was a polite man, as he would let [[first year]] students browse around his shop, even though he refused to sell them anything, as [[broomstick]]s are contraband for first years at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].<ref name="PSG">{{PS|G}} - GBC version</ref>
+
+==Appearances==
+*{{PS|G}} {{1st}} {{C|GBC version}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Diagon Alley}}
+[[pl:Właściciel sklepu miotlarskiego]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

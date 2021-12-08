@@ -1,0 +1,18 @@
+{{Individual infobox
+|name = Grumble
+|alias = The Grubby Goat<ref name="TBBE"/>
+|species = [[Goat]]<ref name="TBBE"/>
+|theme = individual
+}}
+'''Grumble''' was the lead character of the tale ''[[Grumble the Grubby Goat]]'', which [[Aberforth Dumbledore]] was particularly fond of.<ref name="TBBE">{{TBB|E}}</ref>
+
+==Appearances==
+*{{TBB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Tales of Beedle}}
+[[Category:Fictional characters]]
+[[Category:Goats]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:The Tales of Beedle the Bard]]

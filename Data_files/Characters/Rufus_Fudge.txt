@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Rufus Fudge
+|born = c. [[1981]] or earlier<ref name="age">He must have been of age prior to starting work at the Ministry in February of 1999.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Cornelius Fudge]] (uncle)
+*[[Cornelius Fudge's wife|Mrs Fudge]] (aunt)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Improper Use of Magic Office]] employee<ref name="DP"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="DP"/>
+*[[Fudge family]]<ref name="DP"/>
+}}
+{{Quote|Scandal hit the Improper Use of Magic Office yesterday, as an enquiry was launched into the mysterious disappearance of a Muggle 'tube train' on Friday evening.|''[[Daily Prophet]]'', [[8 February]], [[1999]]|Daily Prophet Newsletters}}
+'''Rufus Fudge''' was the nephew of former [[Minister for Magic]] [[Cornelius Fudge]]. He joined the [[Improper Use of Magic Office]] in [[February]] of [[1999]], but made a [[London Underground|tube train]] [[Vanishing Spell|vanish]] for a bet and was suspended for his actions.<ref name="DP">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[8 February]], [[1999]], Page 1</ref>
+
+==Etymology==
+The name "Rufus" is a Roman cognomen which meant "red-haired" in Latin. Several early saints had this name, including one mentioned in one of Paul's epistles in the New Testament. As a nickname it was used by William II Rufus, a king of England, because of his red hair. It came into general use in the English-speaking world after the Protestant Reformation.
+
+==Behind the scenes==
+*His two names were names of Ministers for Magic,﻿ [[Rufus Scrimgeour|Rufus]] and [[Cornelius Fudge|Fudge]], the former being his uncle's successors.
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+{{DEFAULTSORT:Fudge, Rufus}}
+[[es:Rufus Fudge]]
+[[ru:Руфус Фадж]]
+[[pl:Rufus Knot]]
+[[ja:ルーファス・ファッジ]]
+[[Category:British individuals]]
+[[Category:Fudge family|Rufus]]
+[[Category:Improper Use of Magic Office personnel]]
+[[Category:Males]]
+[[Category:Wizards]]

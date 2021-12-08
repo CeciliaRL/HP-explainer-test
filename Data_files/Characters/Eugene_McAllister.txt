@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Eugene McAllister
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Actor
+|house=
+|loyalty=
+}}
+'''Eugene McAllister''' was a [[Muggle|No-Maj]] actor in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:TheNewYorkAffair.jpg}}</ref>
+
+McAllister appeared in a production of ''[[The New York Affair]]'' that was staged at the [[Brockman Theatre]] in [[New York]] in [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:McAllister, Eugene}}
+
+[[pl:Eugene McAllister]]
+[[Category:Actors]]
+[[Category:Males]]
+[[Category:Muggles]]

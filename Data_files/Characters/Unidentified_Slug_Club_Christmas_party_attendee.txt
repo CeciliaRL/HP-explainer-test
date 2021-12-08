@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:406px-Professor_and_partner.png|250px]]
+|name=Unidentified Slug Club Christmas party attendee
+|hideb=hide
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=White
+|eyes=
+|skin=Pale
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Slug Club]] (possibly)
+}}
+This '''individual''' (fl. [[1996]]) was a [[wizardkind|wizard]]. He may have been a former member of the [[Slug Club]], as in [[20 December]], [[1996]], he attended [[Horace Slughorn|Professor Slughorn]]'s [[Slug Club Christmas party|Christmas party]]. He was most likely acquainted with a [[Unidentified female Hogwarts teacher|female Hogwarts teacher]], as he stood with her at the party.<ref name="HBPf">{{HBP|F}}</ref>
+
+==Behind the scenes==
+*This individual was played by an unknown actor in [[Harry Potter and the Half-Blood Prince (film)|film adaptation]] of {{HBP}}.
+*Given that the [[Unidentified female Hogwarts teacher|female Hogwarts teacher]], whom he stayed with during the [[Slug Club Christmas party]], is depicted as wearing a wedding ring, this individual may be her husband. This is, of course, backed by no canon information, and should not be treated as fact.
+
+==Appearances==
+*{{HBP|F}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

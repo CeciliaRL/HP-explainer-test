@@ -1,0 +1,55 @@
+{{Youmay|Poderick Crookshank|[[Poderick Cruickshank]]}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:PoderickCrookshank2.jpg|250px]]
+|name = Poderick Crookshank
+|born = c. [[1532]]<ref name="HPLE">{{HPLE|PA}}</ref><ref name="TMOHP">{{MHP}} {{see image|File:PoderickCrookshank2.jpg}}</ref>
+|died = In or after [[1568]]<ref name="HPLE" /><ref name="TMOHP" />
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = Heterochromatic (green right eye, blue left eye)<ref name="TMOHP" />
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Poderick Crookshank'''<ref name="HPLE" /> (born c. [[1532]]) was a [[Wizardkind|wizard]] whose [[portrait]]  hung at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="TMOHP" />
+
+His portrait was inscribed "''Ano Dm. [[1568]]''", indicating the year in which it was painted, and "''Ætatis Suæ 36''", indicating his age at the time the portrait was made, as ''anno etatis suæ'' is [[Latin]] for "''in the year of his age''"''.''<ref name="HPLE" /><ref name="TMOHP" /><ref>{{Wikilink|List_of_Latin_phrases:_A|List of Latin Phrases: A}}</ref>
+
+==Behind the scenes==
+*Poderick Crookshank's portrait seems to have been based on a [http://upload.wikimedia.org/wikipedia/commons/0/03/Anthonis_Mor_024.jpg 1568 portrait] of [[wikipedia:Henry Lee of Ditchley|Henry Lee of Ditchley]] by [[Wikipedia:Antonis Mor|Antonis Mor]].
+*At {{MHP}}, the portrait of Poderick Crookshank was erroneously put in a frame labelled "[[Google Flange|Sir Google Flange]]," but Crookshank was correctly identified in ''[[The Paintings of Hogwarts: Masterpieces from the School of Witchcraft and Wizardry Sets]].
+*Within the in-universe continuity, this individual may have been [[Crookshanks]]'s namesake, just like a [[Hedwig (wizard)|name from ''A History of Magic'']] was picked by [[Harry Potter]] as [[Hedwig|his owl]]'s name.
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{Portrait}}
+*{{MHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Crookshank, Poderick}}
+[[fr:Poderick Crookshank]]
+[[pl:Poderick Crookshank]]
+[[Category:1530s births]]
+[[Category:British individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

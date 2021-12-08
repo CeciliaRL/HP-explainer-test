@@ -1,0 +1,90 @@
+{{Youmay|Lycoris Black|her relative [[Licorus Black]]}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Lycoris Black.jpg|250px]]
+|name = Lycoris Black
+|born = [[1904]]<ref name="BFT">''[[House of Black|Black family tree]]''</ref>
+|died = [[1965]]<ref name="BFT" /> (aged 60 - 61)
+|blood = [[Pure-blood]]<ref name="BFT" />
+|marital = Single
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="BFT" />
+|gender = Female
+|height = 
+|weight = 
+|hair = Black
+|eyes = 
+|skin = White
+|family = *[[Sirius Black II]] (father) †
+*[[Hesper Gamp|Hesper Black]] (née [[Gamp family|Gamp]]) (mother)
+*[[Arcturus Black III]] (older brother) †
+*[[Regulus Black I]] (brother) †
+*[[Melania Macmillan|Melania Black]] (née [[Macmillan family|Macmillan]]) (sister-in-law)
+*[[Lucretia Black|Lucretia Prewett]] (née [[House of Black|Black]]) (niece) †
+*[[Orion Black]] (nephew) †
+*[[Phineas Black]] (paternal uncle) †
+*[[Arcturus Black II]] (paternal uncle) †
+*[[Belvina Black|Belvina Burke]] (née [[House of Black|Black]]) (paternal aunt) †
+*[[Cygnus Black II]] (paternal uncle) †
+*[[Herbert Burke]] (paternal uncle by marriage)
+*[[Lysandra Yaxley|Lysandra Black]] (née [[Yaxley family|Yaxley]]) (paternal aunt by marriage)
+*[[Violetta Bulstrode|Violetta Black]] (née [[Bulstrode family|Bulstrode]]) (paternal aunt by marriage)
+*[[Pollux Black]] (paternal first cousin) †
+*[[Cassiopeia Black]] (paternal first cousin) †
+*[[Marius Black]] (paternal first cousin) †
+*[[Dorea Black|Dorea Potter]] (née [[House of Black|Black]]) (paternal first cousin) †
+*[[Belvina Burke's sons|Male paternal cousins]]
+*[[Belvina Burke's daughter|Female paternal cousin]]
+*[[Callidora Black|Callidora Longbottom]] (née [[House of Black|Black]]) (paternal first cousin)
+*[[Cedrella Black|Cedrella Weasley]] (née [[House of Black|Black]]) (paternal first cousin)
+*[[Charis Black|Charis Crouch]] (née [[House of Black|Black]]) (paternal first cousin) †
+*[[Phineas Nigellus Black]] (paternal grandfather) †
+*[[Ursula Flint|Ursula Black]] (née [[Flint family|Flint]]) (paternal grandmother)
+*[[House of Black]]
+*[[Gamp family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]] (possibly)
+|loyalty = [[House of Black]]<ref name="BFT" />
+*[[Gamp family]]<ref name="BFT" />
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]] (possibly)
+}}
+'''Lycoris Black''' ([[1904]] – [[1965]]) was a [[pure-blood]] [[Wizardkind|witch]], the middle child of [[Sirius Black II]] and his wife [[Hesper Gamp]] and sister of [[Arcturus Black III|Arcturus]] and [[Regulus Black]]. Lycoris never married and never had children.<ref name="BFT" />
+
+==Etymology==
+''[[Wikipedia:Lycoris|Lycoris]]'' means "twilight" in Greek. This name loosely fits into the Black family tradition of naming people after stars, in the sense that twilight denotes the times of day when the stars first begin to appear, or to disappear. It is also a [[Wikipedia:Lycoris (genus)|genus]] of flowering plants in the ''Amaryllis'' family that is associated with death and reincarnation in Chinese and [[Japan]]ese folklore; another member of family with a name of flower is [[Narcissa Malfoy]]. Ovid and [[Wikipedia:Virgil|Virgil]] also mention a mistress of [[Wikipedia:Mark Antony|Mark Antony]] called Lycoris. It is also possible that this name was derived from the plant and sweet [[Wikipedia:Licorice|liquorice]]. The name is also similar to that of [[wikipedia:Lycorias|Lycorias]], a Nereid (sea nymph) of Greek mythology.
+
+==Behind the scenes==
+*Lycoris Black's likeness on the [[Black Family Tapestry]], as featured in {{OOTP|FA}}, seems to have been based on [http://media.vam.ac.uk/media/thira/collection_images/2006BF/2006BF7031_jpg_l.jpg a depiction of a nobleman] from the [[Wikipedia:Devonshire Hunting Tapestries|Devonshire Hunting Tapestries]], currently in the collection of the [[Wikipedia:Victoria and Albert Museum|Victoria and Albert Museum]], in [[London]].
+*Based on a statement by [[Horace Slughorn]] that all members of the Black family were in his house, Lycoris may have been a member of the [[Slytherin|Slytherin House]]. However, she attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] c. [[1915]] - [[1922]], when [[Horace Slughorn|Slughorn]] was not [[Potions Master]].
+*Lycoris, on the [[House of Black|family]] [[Black Family Tapestry|tapestry]] in [[Harry Potter and the Order of the Phoenix (film)|the film adaption]] of {{OOTP}}, is depicted like a man rather than a woman.
+*It can also be noted that Lycoris's name is similar to her distant relative [[Licorus Black]] who appears only on the version of the [[Black Family Tapestry|Black family tree tapestry]] shown in {{OOTP|FA}}.
+
+==Appearances==
+*{{OOTP|F}} {{Comment|Appears on Black family tapestry}}
+*{{DH|G1}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Lycoris Black]]
+[[fr:Lycoris Black]]
+[[pl:Lycoris Black]]
+[[ru:Ликорис Блэк]]
+
+{{DEFAULTSORT:Black, Lycoris}}
+[[Category:1904 births]]
+[[Category:1965 deaths]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:House of Black|Lycoris]]
+[[Category:Pure-bloods]]
+[[Category:Unmarried individuals]]
+[[Category:Wizards]]

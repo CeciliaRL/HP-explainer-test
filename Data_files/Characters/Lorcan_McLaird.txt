@@ -1,0 +1,79 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Lorcan McLaird
+|born = Before [[31 August]] [[1906]]
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office.</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Minister for Magic]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Minister for Magic]] ([[1923]] - [[1925]])
+|house = [[Ravenclaw]]
+|loyalty = *[[British Ministry of Magic]]
+*[[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+}}
+{{Quote|There was also Minister Lorcan McLaird, who was a  quite brilliant wizard, but preferred to communicate by puffing smoke out of the end of his wand.|[[Robert Hilliard]].|Pottermore}}
+'''Minister Lorcan McLaird''' was a [[wizardkind|wizard]], a former [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] as well as, later in his life, [[Great Britain|British]] [[Minister for Magic]] from [[1923]] to [[1925]].<ref name="pottermore">{{PM}} introduction for Ravenclaws (transcription available [http://lady-slytherin-forever.tumblr.com/post/9001220525/ravenclaw-spoilers-stop-reading-if-you-dont-want-to here])</ref>
+
+==Biography==
+===Early life===
+Lorcan McLaird was born no later than [[1906]], somewhere in the [[Great Britain|British Isles]]. His surname suggests he was Scottish, or had Scottish ancestry.
+
+In his youth, he attended [[Hogwarts School of Witchcraft and Wizardry]], where he was [[Sorting ceremony|Sorted]] into [[Ravenclaw]].<ref name="pottermore"/>
+
+===As Minister for Magic===
+McLaird rose to the office of [[Minister for Magic]] of [[Great Britain]] and [[Ireland]] in [[1923]]. He was quite a talented [[wizardkind|wizard]], but was considered something of an eccentric, as he liked to communicate by puffing smoke from the tip of his [[wand]]. Eventually, he was forced out of office in [[1925]] due to irritation at his eccentricities.<ref name="pottermore2">{{WW|ministers-for-magic}}</ref>
+
+The ''[[Daily Prophet]]'' reported in its [[29 November]] [[1926]] issue that [[Ravenclaw]] students were planning to honour McLaird.<ref name="FBF">{{FB|F}} {{See image|File:Daily Prophet - 29 Nov 1926.png}}</ref>
+
+==Behind the scenes==
+*[[Luna Lovegood]] may have named her son — [[Lorcan Scamander|Lorcan]] — after this man, probably in admiration for his eccentricity.
+*Calvin Coolidge, the thirtieth President of the United States, was also known for being incredibly taciturn. He, too, came into office in 1923.
+
+==Appearances==
+*{{FB|F}} {{C|Mentioned in a newspaper}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=[[Archer Evermonde]]
+|position=[[Minister for Magic]]
+|years=[[1923]]-[[1925]]
+|successor=[[Hector Fawley]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:McLaird, Lorcan}}
+[[de2:Lorcan McLaird]]
+[[de:Lorcan McLaird]]
+[[es:Lorcan McLaird]]
+[[fr:Lorcan McLaird]]
+[[nl:Joris Heerald]]
+[[pl:Lorcan McLaird]]
+[[pt-br:Lorcan McLaird]]
+[[ru:Лоркан МакЛайрд]]
+[[zh:洛肯·麦克莱德]]
+[[Category:British Ministers for Magic]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

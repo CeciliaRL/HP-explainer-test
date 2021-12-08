@@ -1,0 +1,63 @@
+{{Real world subject}}
+{{Individual infobox
+|image=JesusDeathlyHallows.jpg
+|bgcolor1=
+|bgcolor2=
+|theme=individual
+|name=Jesus
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+*Jesus of Nazareth
+*Jesus Christ
+|title=
+|hidep=
+|species=*[[Human]]
+*Deity (in [[Christianity|Christian]] belief)
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|family=
+*[[God]] (father, in [[Christianity|Christian]] belief)
+*[[Mary]] (mother)
+|house=
+|loyalty=
+}}
+'''Jesus''', also known as '''Jesus of Nazareth''' or '''Jesus Christ''', was the central figure of [[Christianity]], regarded by most Christian denominations as the son of [[God]], born of a human mother, [[Mary]].<ref name="wikipedia">"[https://en.wikipedia.org/wiki/Jesus Jesus]" on Wikipedia</ref> He was considered an important prophet in [[Islam]].<ref name="wikipedia" />
+
+There was a stained glass window in the [[St Jerome's Church]] in [[Godric's Hollow]] which depicted Jesus along with the authors of the four books of the Gospel ([[Matthew]], [[Mark]], [[Luke]] and [[John]]).<ref>{{HPFW}} {{see image|File:Stained Glass Godric's Hollow.jpg}}</ref>
+
+One of the known works by artist [[Haniball Carathi]] was a "little piece" depicting "our Ladie" (i.e., Mary) with the presumably infant Jesus "upon her right hand."<ref name="lc">''Label Collection'' book in the {{HPWC}} box set {{see image|File:BelchPowder.jpg}}.</ref> A catalogue listing for this work was incorporated into the label of the [[Belch Powder]] box.<ref name="lc" />
+
+==Behind the scenes==
+*Jesus has been portrayed by some ''[[Harry Potter (film series)|Harry Potter]]'' actors:
+**[[John Hurt]], who played [[Garrick Ollivander]], played Jesus in ''{{wplink|History of the World, Part I}}.''
+**[[Ralph Fiennes]], who played [[Tom Riddle|Lord Voldemort]], provided the voice of Jesus in ''[[Wikipedia:The Miracle Maker (2000 film)|The Miracle Maker]]''.
+
+==Appearances==
+*{{HBP|F}} {{Comment|Mentioned on product label as "Christ"}}
+*{{DH|F1}} {{Comment|Depicted in a stained glass window}}
+*{{DH|G1}} {{Comment|Depicted in a stained glass window}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pt-br:Jesus]]
+[[Category:B.C. era births]]
+[[Category:Biblical figures]]
+[[Category:Christmas]]
+[[Category:Deities]]
+[[Category:Humans]]
+[[Category:Males]]

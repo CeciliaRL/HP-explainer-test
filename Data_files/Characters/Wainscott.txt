@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme=hogwarts-staff
+|image=
+|name=Wainscott
+|image=[[File:Nurse Wainscott DHF2.jpg]]
+|hideb=
+|born=In or before [[1981]]<ref name="SENSE">She had to have been at least seventeen to work at Hogwarts, and she was seen in the last film (set in 1998).</ref>
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]] (possibly)<ref name-"Blood">As she worked at Hogwarts School during the Carrows's rule, she could not have been [[Muggle-born]].</ref>
+|alias=
+|title=
+|nationality={{GBorIE}}
+|species=[[Human]]<ref name="DH"/>
+|gender=Female<ref name="DH">{{DH|F2}}</ref>
+|height=
+|hair=Dark<ref name="DH"/>
+|eyes=Dark<ref name="DH"/>
+|skin=White<ref name="DH"/>
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Nurse at [[Hogwarts School of Witchcraft and Wizardry]]<ref name="DH"/>
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DH"/>
+}}
+'''Nurse Wainscott'''<ref name="name">[http://www.modelmayhem.com/852862/ Model Mayhem]</ref> was a [[Wizardkind|witch]] who worked as a nurse at [[Hogwarts School of Witchcraft and Wizardry]] under [[Poppy Pomfrey]] during the [[1990s]]. She attended to the fighters' injuries in the [[Great Hall]] during the [[Battle of Hogwarts]].<ref name="DH"/>
+
+==Biography==
+===Early life===
+Little is known of Nurse Wainscott's early life; however, she was born presumably in [[Great Britain]], sometime before [[1981]].<ref name="SENSE"/>
+
+===School and later career===
+She somehow learned magic, presumably at Hogwarts, though it is unknown exactly where or when. After having done so, she began her profession as a nurse at Hogwarts, working under [[Poppy Pomfrey|Madam Poppy Pomfrey]].<ref name="DH"/>
+
+===Battle of Hogwarts===
+[[File:Z_23afa859.jpg|180px|thumb|left|Nurse Wainscott, her peers, and the [[Order of the Phoenix]] prepare for battle]]
+In [[1998]], Wainscott attended the [[Battle of Hogwarts]], attending to the various injuries of the fighters; it is possible that she fought as well, though this is is unknown. It is also unknown if Wainscott survived the battle, but if she did participate in actual combat and simply cared for the wounded, it is likely she survived.<ref name="DH"/>
+
+==Magical abilities and skills==
+*'''[[Healing magic]]''': As a Nurse at Hogwarts School, Wainscott would have had to have been accomplished in the field of medical magic, such as with various magical health treatments, such as [[healing spell]]s, [[potion]]s and other magical and non-magical remedies and medications. She tended to the injured and wounded during the [[Battle of Hogwarts]], showing she was a fully competent [[Healer]].<ref name="DH"/>
+
+==Behind the scenes==
+*In {{DH|F2}}, Nurse Wainscott was portrayed by [[Pauline Stone]].
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Staff}}
+[[pl:Wainscott]]
+[[ru:Уайнскотт]]
+[[es:Wainscott]]
+[[pt-br:Wainscott]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Healers]]
+[[Category:Medical staff of Hogwarts]]
+[[Category:Wizards]]

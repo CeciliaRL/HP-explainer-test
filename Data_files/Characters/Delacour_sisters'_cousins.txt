@@ -1,0 +1,62 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=veela
+|image=[[File:Delacour cousins.jpg|250px]]
+|name=Delacour sisters' cousins
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|nationality=[[France|French]]<ref name="DH8"/>
+|species=[[Veela]] or [[Half-Veela|part-Veela]]<ref name="DH8"/>
+|gender=Female<ref name="DH8"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Fleur Delacour]] (cousin)<ref name="DH8"/>
+*[[Gabrielle Delacour]] (cousin)<ref name="DH8"/>
+*[[Apolline Delacour's mother|Maternal grandmother]]<ref name="DH8"/>
+*[[Apolline Delacour]] (aunt)<ref name="DH8"/>
+*[[Delacour sisters' father|Monsieur Delacour]] (uncle)<ref name="DH8"/>
+*[[William Weasley|Bill Weasley]] (cousin by marriage)<ref name="DH8"/>
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Delacour family]]<ref name="DH8"/>
+}}
+{{Dialogue a-b|George Weasley|Excellent, I think I see a few veela cousins. They'll need help understanding our English customs, I'll look after them...|Fred Weasley|Not so fast, Lugless... Here – ''permettez-moi'' to ''assister vous''.|[[Fred Weasley|Fred]] and [[George Weasley]] meet [[Fleur Delacour]]'s cousins|Harry Potter and the Deathly Hallows}}
+The '''cousins''' of [[Fleur Delacour|Fleur]] and [[Gabrielle Delacour]] were two [[France|French]] [[Veela]], or [[Half-Veela|part-Veela]], who attended Fleur's wedding to [[William Weasley|Bill Weasley]] in the summer of [[1997]].<ref name="DH8"/>
+
+==Biography==
+When they attended the [[Wedding of William Weasley and Fleur Delacour|wedding]], the two Veela had exotic flowers and bewitched birds decorating their hats. Their beauty quickly attracted the attention of [[Fred and George Weasley]], two of the groom's younger brothers. Fred escorted them inside [[the Burrow]] while George was forced to assist a "gaggle of middle-aged witches".<ref name="DH8"/>
+
+Later that evening, during the reception, [[Harry Potter]] noticed that Fred and George "disappeared into the darkness" with Fleur's cousins.<ref name="DH8">{{DH|B|8}}</ref>
+
+==Behind the scenes==
+*One of the Veela cousins was portrayed by [[Alison Cain]] in {{DH|F1}}.
+*These two girls must be more distant cousins to Fleur and Gabrielle Delacour than first cousins, as they are full-blooded Veela, whereas the Delacours are [[Half-Veela|quarter-Veela]]. This indicates that they could not have had the same grandparents, since Fleur and Gabrielle's grandfather was a wizard. They are presumably related to the [[Delacour family|Delacours]] through their [[Apolline Delacour's mother|maternal grandmother]], who was a Veela. Alternatively George could simply be using the term 'Veela cousins' to mean that they have visible Veela ancestry. It is not directly stated that they are full blooded Veela and may simply be [[Half-Veela|part-Veela]] like Fleur and Gabrielle.
+
+==Appearances==
+*{{DH}} {{1st}}
+*{{DH|F1}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Cousines de Fleur Delacour]]
+[[pl:Kuzynki Fleur Delacour]] 
+[[ru:Кузины Флёр и Габриэль Делакур]]
+[[Category:Delacour family]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Unnamed family members‎]]
+[[Category:Veela]]

@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:TabithaTabellaSmall.jpg|250px]]
+|name=Tabitha Tabella
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=La Bella
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Tabitha Tabella''', also known by the nickname '''La Bella''', was an [[United States of America|American]] [[wizardkind|wizarding]] criminal who operated in the [[1920s]].<ref name="itm">''[[Inside the Magic: The Making of Fantastic Beasts and Where to Find Them]]'' {{see image|File:TabithaTabellaWanted.jpg}}</ref>
+
+==Biography==
+In [[1926]], the [[Magical Congress of the United States of America]] issued a wanted poster for Tabella, which stated that she was wanted for "[[Dragot]] laundering," "defenestration of wizards," and "[[Muggle|No-Maj]] murder."<ref name="itm" /> It warned that she was "bearing [a] [[wand]] and extremely dangerous."<ref name="itm" /> The poster promised a reward of 2538 Dragots for information leading to her capture.<ref name="itm" /> This poster was hanging in [[The Blind Pig]] when [[Newton Scamander|Newt Scamander]] visited in December 1926.<ref name="itm" />
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Tabella, Tabitha}}
+[[Category:American individuals]]
+[[Category:Con artists]]
+[[Category:Females]]
+[[Category:Murderers]]
+[[Category:Wizards]]

@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = "Mrs Next Door"
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="PS1"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PS1"/>
+|alias = Mrs Next Door (nickname)<ref name="PS1"/>
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PS1"/>
+|gender = Female<ref name="PS1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = Daughter<ref name="PS1"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+The [[Dursley family|Dursleys]]' next-door '''neighbour''' was a resident of either 2 Privet Drive or 6 Privet Drive since some point before [[November]] [[1981]]. [[Petunia Dursley]] told her [[Vernon Dursley|husband]] at that time that she had been spying on her, and found she had been having problems with her daughter.<ref name="PS1">{{PS|B|1}}</ref>
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Vecina de la familia Dursley]]
+[[pl:Sąsiadka Dursley'ów]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Privet Drive]]
+[[Category:Unidentified Muggles]]

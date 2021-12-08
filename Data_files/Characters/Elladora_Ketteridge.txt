@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Elladora Ketteridge.jpg|250px]]
+|name = Elladora Ketteridge
+|born = [[1656]]<ref name="PSG"/><ref name="COSG"/>
+|died = [[1729]] (aged 62-63)<ref name="PSG"/><ref name="COSG"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PM"/><ref name="PSG"/><ref name="COSG"/>
+|gender = Female<ref name="PM"/><ref name="PSG"/><ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Black<ref name="PSG"/><ref name="COSG"/>
+|eyes = Dark blue<ref name="PSG"/><ref name="COSG"/>
+|skin = Light<ref name="PSG"/><ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Elladora Ketteridge''' ([[1656]] - [[1729]]) was the first [[Wizardkind|witch]] to discover the [[magic]]al properties of [[Gillyweed]], having done so by accident. She nearly suffocated after eating the plant, but saved herself by sticking her head into a bucket of [[water]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="PM">{{PM}}</ref>
+
+==Behind the scenes==
+*Despite the fact that Elladora Ketteridge discovered the effects of Gillyweed, it is said that [[Beaumont Marjoribanks]] discovered the existence of the plant about a century later. This error would be fixed if the dates were switched, or if Ketteridge was alive at the same time as, or after Majoribanks, as Majoribanks only discovered the existence of Gillyweed, while Ketteridge discovered its magical effects.
+*While she discovered the properties of Gillyweed, Ketteridge did so in an accidental manner, and as no other information is known about Ketteridge's career, it is unknown if she regularly studied plants as a [[Herbologist]], or if this was just a one-time fluke.
+
+==Appearances==
+{{Imagecat|Images of Elladora Ketteridge}}
+*{{PS|G}} {{1st}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+{{DEFAULTSORT:Ketteridge, Elladora}}
+[[de:Elladora Ketteridge]]
+[[es:Elladora Ketteridge]]
+[[fi:Elladora Ketteridge]]
+[[fr:Elladora Ketteridge]]
+[[it:Elladora Ketteridge]]
+[[pl:Elladora Ketteridge]]
+[[pt-br:Elladora Ketteridge]]
+[[ru:Элладора Кеттеридж]]
+[[Category:1656 births]]
+[[Category:1729 deaths]]
+[[Category:Blue-eyed individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Herbology]]
+[[Category:Historical figures]]
+[[Category:Wizards]]

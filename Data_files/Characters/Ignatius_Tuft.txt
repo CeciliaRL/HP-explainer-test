@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Ignatius Tuft
+|hideb=
+|born=Before [[1942]]
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office.</ref>
+|alias=
+|title=[[Minister for Magic]]<ref name="PM"/>
+|nationality=[[Great Britain|British]]<ref name="PM"/>
+|species=[[Human]]<ref name="PM"/>
+|gender=Male<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Wilhelmina Tuft]] (mother)<ref name="PM"/>
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Minister for Magic]] ([[1959]]-[[1962]])<ref name="PM"/>
+|house=
+|loyalty=*[[British Ministry of Magic]]<ref name="PM"/>
+*[[Tuft family]]<ref name="PM"/>
+}}
+'''Minister Ignatius Tuft''' was [[Minister for Magic]] from [[1959]] to [[1962]]. Tuft was a hard-liner who capitalised on his mother [[Wilhelmina Tuft]]'s popularity to gain election for a single term. He promised to institute a controversial and dangerous [[Dementor]] breeding programme and was forced from office in [[1962]].<ref name="PM">{{WW|ministers-for-magic}}</ref>
+
+==Appearances==
+*{{PM}} {{1st mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Wilhelmina Tuft]]
+|position=[[Minister for Magic]]
+|years=[[1959]]-[[1962]]
+|successor=[[Nobby Leach]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Tuft, Ignatius}}
+
+[[de2:Ignatius Tuft]]
+[[de:Ignatius Tuft]]
+[[es:Ignatius Tuft]]
+[[fr:Ignatius Tuft]]
+[[pl:Ignacy Tuft]]
+[[pt-br:Ignatius Tuft]]
+[[ru:Игнатий Тафт]]
+[[zh:伊格内修斯·塔夫特]]
+[[Category:British Ministers for Magic]]
+[[Category:Males]]
+[[Category:Tuft family]]
+[[Category:Wizards]]

@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Blagdon Blay.png|250px]]
+|name = Blagdon Blay
+|born = 
+|died = 
+|blood = [[Magic]]al to unknown extent
+|marital = 
+|nationality = [[England|English]]<ref name="WBoS"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WBoS"/>
+|gender = Male<ref name="WBoS"/>
+|height = 
+|weight = 
+|hair = Dark<ref name="WBoS"/>
+|eyes = 
+|skin = White<ref name="WBoS"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Spell creation|Spell inventor]]<ref name="WBoS"/>
+|house = 
+|loyalty = [[London]]<ref name="WBoS"/>
+}}
+{{Quote|Then came the fateful day when Blagdon Blay, a wizard who had been burgled 19 times in two weeks, succeeded in inventing an Anti-Alohomora Charm. In a single night, the wizarding doors of London were sealed shut, and task-forces were dispatched to protect Muggle houses, too.|[[Miranda Goshawk]], ''[[Book of Spells]]''.|Wonderbook: Book of Spells}}
+'''Blagdon Blay''' (fl. early [[1600s]]) was an [[England|English]] [[wizardkind|wizard]] and a [[London]]er in the early [[17th century]] who was responsible for the creation of the [[Anti-Alohomora Charm]] — effectively stopping a series of burglaries by wizards using the then-innovative [[Unlocking Charm]].<ref name="WBoS"/>
+
+==Biography==
+When thief [[Eldon Elsrickle]] introduced the [[Unlocking Charm|Unlocking Spell]] (which he had learnt from an [[ancient African sorcerer]]) to London, there was an unprecedented series of recurring burglaries and break-ins by unscrupulous [[wizardkind|wizards]], upon the homes of [[Non-magic people|Muggles]] and [[wizardkind|fellow wizards]] alike.<ref name="WBoS"/>
+
+Blagdon Blay had his house broken into nineteen times in the course of just two weeks. He managed to [[spell creation|develop]] an [[Anti-Alohomora Charm]] to secure his house, and soon all the London wizards sealed their houses shut at night, and special wizard task-forces protected those of Muggles.<ref name="WBoS">{{WBS}} - see [http://www.youtube.com/watch?v=m9LNQV7cGIA&feature=relmfu this video]</ref>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': Blay was highly accomplished with charm-work, having successfully invented the [[Anti-Alohomora Charm]], which he ingeniously used to prevent locks being broken with the [[Unlocking Charm]] and preventing theft, to great success.
+*'''[[Spell creation]]''': Blay succeeded in the highly difficult [[magic]]al art of inventing new [[spell]]s, having invented the immensely useful [[Anti-Alohomora Charm]], an excellent magical achievement given the success of the charm.
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Blay, Blagdon}}
+
+{{Charms}}
+[[es:Blagdon Blay]]
+[[fr:Blagdon Blay]]
+[[pl:Blagdon Blay]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Spell inventors]]
+[[Category:Wizards]]

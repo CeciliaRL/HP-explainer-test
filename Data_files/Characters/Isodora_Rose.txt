@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:IsodoraRose.png|250px]]
+|name = Isodora Rose
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = Izzy Rose<ref name="WONDERBOOK"/>
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WONDERBOOK"/>
+|gender = Female<ref name="WONDERBOOK"/>
+|height = 
+|weight = 
+|hair = Bald (naturally black, [[Crinus Muto|formerly blonde]])<ref name="WONDERBOOK"/>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = [[Isodora Rose's wand|Unknown length, core, and materials]]<ref name="WONDERBOOK"/>
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|But as the days and weeks went by<br/>That lazy girl refused to try<br/>To master new spells; truth to tell<br/>She didn't do the old ones well|Miranda Goshawk, "The Tale of a Lazy Little Witch"|Wonderbook: Book of Spells}}
+
+'''Isodora "Izzy" Rose''' was a character in [[Miranda Goshawk]]'s conundrum "[[The Tale of a Lazy Little Witch]]", published in the ''[[Book of Spells]]''. Like all characters in these conundrums, she was based off a real [[Wizardkind|witch]], but had her name altered to protect her identity. She was well known for her arrogance and mediocrity.<ref name="WONDERBOOK">See [http://www.youtube.com/watch?annotation_id=annotation_518140&feature=iv&src_vid=2n5prI9L6G8&v=m9LNQV7cGIA this video] from {{WBS}}.</ref>
+
+==Biography==
+At some point in her life, this witch received her [[Isodora Rose's wand|wand]] as a gift. Seeing it as a way to avoid work, she vowed to use it to get all the things she'd ever wanted, and to [[curse]] anyone who dared insult her. Despite these vows, she did little with her wand other than [[Crinus Muto|turn her natural black hair blonde]] and curse a few people. Due to this, her wand began to [[Wilting|wilt]] and lose its effective from lack of use. In addition, what few [[spell]]s she had cast went poorly; her hair fell out soon after she changed its colour, and none of the curses she cast lasted very long. Blaming the wand on her follies, she threw it away into the local duck pond and presumably never used [[magic]] again.<ref name="WONDERBOOK"/>
+
+The tale of this witch somehow made its way to Miranda Goshawk, who wrote about her in her conundrum "The Tale of a Lazy Little Witch", changing her name to Isodora Rose to protect her identity.<ref name="WONDERBOOK"/>
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Rose, Isodora}}
+
+
+[[pl:Izadora Rose]]
+[[pt-br:Isodora Rose]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

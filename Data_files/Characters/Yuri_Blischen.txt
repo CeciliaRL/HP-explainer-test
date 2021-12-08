@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Yuri Blichen
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Magical affairs correspondent for a [[German]]-language [[Unidentified German wizarding newspaper|wizarding newspaper]]
+|house=
+|loyalty=[[Unidentified German wizarding newspaper]]
+}}
+'''Yuri Blischen''' was a [[magic]]al affairs correspondent for an unidentified [[German]]-language [[Unidentified German wizarding newspaper|wizarding newspaper]] in the [[1920s]].<ref name="fb-paper">"[http://mashable.com/2016/12/02/fantastic-beasts-opening-harry-potter-easter-eggs All the 'Harry Potter' Easter eggs you missed in the 'Fantastic Beasts' opening]" from Mashable {{see image|File:GermanWizardingNewspaper.jpg}}</ref>
+
+He wrote an article about the discovery of a [[curse]]d [[snowball]] in the [[Othmarschen Christmas Market]] that was published in a [[1926]] issue of the newspaper.<ref name="fb-paper" />
+
+==Appearances==
+*{{FB|F}} {{comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Blischen, Yuri}}
+[[Category:European individuals]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Wizards]]

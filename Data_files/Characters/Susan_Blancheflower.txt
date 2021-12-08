@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Susan Blancheflower
+|hideb=
+|born=After [[1976]], [[United States of America]]
+|died=
+|blood=
+|alias=
+|title=[[Keeper]]
+|signature=
+|hidep=
+|species=Human
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=Hide
+|family=
+|hidem=Hide
+|animagus=
+|boggart=
+|wand=
+|broom=
+|patronus=
+|hidea=
+|house=
+|job=[[Keeper]] for the [[American National Quidditch team]]
+|loyalty=[[American National Quidditch team]]
+}}
+'''Susan Blancheflower''' was an [[United States of America|American]] [[Wizardkind|witch]] and the [[Keeper]] for the [[American National Quidditch team]] in the [[2014 Quidditch World Cup]]<ref name="PMI">[http://insider.pottermore.com/2014/07/place-your-bets-with-ludo-bagman-and.html "Place your Bets with Ludo Bagman"] on the ''Pottermore Insider''</ref>.
+
+==Biography==
+Following the America-[[Jamaica]] match in the quarter-finals, [[Ludovic Bagman]] criticised Blancheflower for letting in so many Jamaican goals in a report made to the ''[[Daily Prophet]]''<ref name="PMI"/>. Partly because of this, he gave her team low odds on winning the semifinals<ref name="PMI"/>.
+
+During the America-[[Brazil]] semifinal match, she was hit in the face with a [[bludger]] sent there by one of her own [[Beater]]s, [[Lucas Picquery]]. She then attempted to jump onto his broom, and was cautioned by the referee. Her game did not improve, however, and she made a simple mistake and let [[Alejandra Alonso]] score, putting Brazil ten points ahead. 
+
+During the playoffs for third place against [[Japan]], the Japanese [[Chaser]]s got eighteen goals past her. At the end of the game, though, the two teams embraced.
+
+==Appearances==
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Blancheflower, Susan}}
+
+[[de:Susan Blancheflower]]
+[[es:Susan Blancheflower]]
+[[fr:Susan Blancheflower]]
+[[pl:Susan Blancheflower]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Keepers]]
+[[Category:Wizards|Blancheflower, Susan]]

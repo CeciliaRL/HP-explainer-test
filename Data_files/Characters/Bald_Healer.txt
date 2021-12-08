@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:HPDH2-2494.jpg|250px]]
+|name=Bald Healer
+|hideb=hide
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]<ref name="DHF2"/>
+|gender=Male<ref name="DHF2"/>
+|height=
+|hair=Bald<ref name="DHF2"/>
+|eyes=
+|skin=Light<ref name="DHF2"/>
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Healer]]<ref name="DHF2"/>
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+}}
+This '''[[Wizardkind|wizard]]''' was a [[Healer]] who participated in the [[Battle of Hogwarts]] having taken care of the injured in the one-hour armistice; one of these injured included [[Woman Tended by Bald Man|a woman]].<ref name="DHF2">{{DH|F2}}</ref>
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:Healers]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

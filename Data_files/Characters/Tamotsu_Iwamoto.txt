@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:TamotsuIwamoto.JPG|250px]]
+|name = Tamotsu Iwamoto
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Japan]]ese
+|alias = 
+|title = [[Keeper]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Green (Mohican)<ref name="QWC"/>
+|eyes = 
+|skin = Pale<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Keeper]] for the [[Japanese National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = *Iwamoto family
+*[[Mahoutokoro]]<ref name="WW">{{WW|mahoutokoro}}</ref>
+*[[Japanese National Quidditch team]]<ref name="QWC"/>
+}}
+'''Tamotsu Iwamoto''' was a Japanese [[Wizardkind|wizard]] who played as [[Keeper]] for the [[Japanese National Quidditch team]] during the four-hundred and twenty-second [[Quidditch World Cup]], in the year [[1994]].<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Iwamoto's [[Chocolate Frog Card]] could be won by beating [[Felix Brunt (II)|Felix Brunt]] at a [[Gobstones]] challenge.<ref name="HBPG">{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{C|NDS edition}} {{FWC}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Iwamoto, Tamotsu}}
+[[es:Tamotsu Iwamoto]]
+[[fr:Tamotsu Iwamoto]]
+[[ru:Тамоцу Ивамото]]
+[[Category:20th century births]]
+[[Category:Japanese individuals]]
+[[Category:Keepers]]
+[[Category:Mahoutokoro students]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Beatrix Bloxam's aunt
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="TBB"/>
+|gender=Female<ref name="TBB"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Beatrix Bloxam's cousins|More than one child]]<ref name="TBB"/>
+*[[Beatrix Bloxam's father|Brother or brother-in-law]]<ref name="TBB"/>
+*[[Beatrix Bloxam]] (niece)<ref name="TBB"/>
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+The '''aunt''' of [[Beatrix Bloxam]] had [[Beatrix Bloxam's cousins|children]] who were older than her niece. 
+When she was young, Beatrix listened at a keyhole and was disturbed to hear this aunt tell her children [[The Warlock's Hairy Heart]], as well as parts of a shocking tale involving Beatrix's uncle [[Nobby]], a [[hag]] who lived in the area, and a sack of [[Bouncing Bulb]]s.<ref name="TBB">{{TBB|H}}</ref>
+
+It is unlikely that Beatrix's aunt was married to her uncle Nobby, as she probably wouldn't have chosen to tell her children a scandalous story about their father, particularly not one of the nature implied.
+
+==Appearances==
+*{{TBB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bloxam, Beatrix's aunt}}
+
+[[fr:Tante de Beatrix Bloxam]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎]]
+[[Category:Wizards]]

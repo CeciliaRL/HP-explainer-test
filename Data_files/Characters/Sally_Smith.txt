@@ -1,0 +1,56 @@
+{{Cut content}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Sally Smith
+|born = between [[1 September]] [[1979]] and [[31 August]] [[1980]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Zacharias Smith's father|Mr Smith]] (possible relative)
+*[[Zacharias Smith]] (possible relative)
+*[[Hepzibah Smith]] (possible relative) †
+*[[Helga Hufflepuff]] (possible ancestor) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]], [[Hufflepuff]], or [[Slytherin]]<ref name=house>J. K. Rowling's original list of forty students contains five males and five females from each house. As all five Ravenclaw females are known, the remaining females whose houses are unknown must be in one of the other three houses.</ref>
+|loyalty = *[[Smith family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Sally Smith''' (c. [[1979]]-[[1980]]) was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]]. She was in the same year as [[Harry Potter]] and was sorted into either [[Gryffindor]], [[Hufflepuff]], or [[Slytherin]] house.
+
+==Behind the scenes==
+*Smith appeared on the student list shown by [[J. K. Rowling]] in {{HPM}}, but her given name was only partially visible, appearing to begin with "Ge-". On {{PM}}, Rowling revealed that the character's given name was originally "Georgina," but that this was crossed out and replaced with "Sally."<ref name="pottermore">{{PM}} (transcription available [http://lady-slytherin-forever.tumblr.com/post/8979923935/the-original-forty-off-pottermore here])</ref>
+*It is possible Sally is one of the many unidentified Hufflepuff girls.
+
+==Appearances==
+*{{HPM}} {{1st Mention}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Smith, Sally}}
+
+[[de:Sally Smith]]
+[[fr:Sally Smith]]
+[[pl:Sally Smith]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Smith family|Sally]]
+[[Category:Sorted in 1991]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

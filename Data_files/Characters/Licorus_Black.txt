@@ -1,0 +1,89 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Licorus.jpg|250px]]
+|name = Licorus Black
+|born = [[1808]]<ref name="hpts">See [[:File:Licorus Black.jpg|this image]].</ref>
+|died = [[1872]]<ref name="hpts" /> (aged 63 - 64)
+|blood = [[Pure-blood]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Light
+|family = *[[Phoebe Black]] (possible sister) †
+*[[Alexia Walkin Black]] (possible sister) †
+*[[Eduardus Limette Black]] (possible brother) †
+*[[Hesper Black]] (possible sister) †
+*[[Magenta Tripe|Magenta Black]] (née Tripe) (wife) †
+*[[Misapinoa Black|Misapinoa Blishwick]] (née [[House of Black|Black]]) (possible daughter) †
+*[[Jimbo Blishwick]] (possible son-in-law) †
+*[[Cygnus Black I]] (possible son) †
+*[[Ella Max|Ella Black]] (née Max) (possible daughter-in-law) †
+*[[Arcturus Black I]] (possible son) †
+*[[Sirius Black I]] (possible grandson) †
+*[[Phineas Nigellus Black]] (possible grandson) †
+*[[Elladora Black]] (possible granddaughter) †
+*[[Iola Black|Iola Hitchens]] (née [[House of Black|Black]]) (possible granddaughter) †
+*[[House of Black]]
+*Tripe family
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]] (possibly)
+|loyalty = *[[House of Black]]
+*Tripe family
+}}
+'''Licorus Black'''<ref>On the Black family tapestry in the Order of the Phoenix film, only Blacks by birth have portraits, and only their given names are listed on the scrolls beneath these portraits. This indicates that this character was a Black, not the husband of a female Black.</ref> ([[1808]] — [[1872]]<ref name="hpts" />) was a [[pure-blood]] [[Wizardkind|wizard]], as well as the earliest known member of the [[pure-blood]] [[House of Black]]. He married a pure-blood [[Wizardkind|witch]], [[Magenta Tripe]], and is the earliest known ancestor of the Black family, being depicted on the [[Black Family Tapestry|Black family tree tapestry]] that hangs in the ancestral home of [[12 Grimmauld Place]]<ref>{{OOTP|F}}</ref>. It is possible that he was the brother of [[Hesper Black|Hesper]], [[Alexia Walkin Black|Alexia Walkin]], [[Phoebe Black|Phoebe]] and [[Eduardus Limette Black]].
+
+==Biography==
+Licorus was born to the [[House of Black]] in [[1808]], to unknown pure-blood parents. He possibly seems to have had four siblings: [[Alexia Walkin Black|Alexia Walkin]], [[Phoebe Black|Phoebe]], [[Hesper Black|Hesper]] and [[Eduardus Limette Black]].
+
+Mr Black was raised in a household that strongly believed in the importance of blood purity, and as such likely carried a grudge against [[Muggle-born]]s, whom most of the family called [[Mudblood]]s. His brother Eduardus was disowned for unknown reasons, which likely had an effect on him.
+
+At the age of eleven, Black presumably began his schooling at [[Hogwarts School of Witchcraft and Wizardry]], where he may have been [[Sorting ceremony|Sorted]] into [[Slytherin|Slytherin House]].
+
+Sometime after completing his schooling, Black married a pure-blood witch, with whom he seems to have had several children: a daughter, [[Misapinoa Black|Misapinoa]], who married into the Blishwick family by being wed to [[Jimbo Blishwick]], and two sons, [[Arcturus Black I|Arcturus]], and [[Cygnus Black I|Cygnus Black]]. It is likely, after Cygnus's death, that Licorus and Magenta helped Ella Max raise Cygnus's children: Sirius, Phineas Nigellus, Iola and Elladora.
+
+Licorus died in [[1872]].
+
+==Etymology==
+''Licorus'' is a form of the name [[wikipedia:Lycorus|Lycorus]].
+
+In Greek mythology, Lycorus was a son of [[wikipedia:Apollo|the god Apollo]].<ref>Hyginus, ''Fabulae'', 161</ref> After him a city was named Lycoreia.<ref>Pausanias, ''Description of Greece'', 10. 6. 3</ref>
+
+==Behind the scenes==
+*Based on a statement by [[Horace Slughorn]], Licorus may have been a member of Slytherin house. However, Black attended Hogwarts in the [[1810s]], long before Slughorn was even born.<ref>''{{HBP}}</ref>
+*This character appears only on the version of the Black family tree shown in {{OOTP|FA}}. He was not included on the version of the tree which [[J. K. Rowling]] gave to a charity auction in 2006<ref>"[http://www.hplex.info/wizards/blackfamilytree.html Black Family Tree]" on The Harry Potter Lexicon</ref>. However, according to director [[David Yates]], Rowling provided the filmmakers with a copy of the Black family tree going back eight generations<ref>"[http://web.archive.org/web/20071218224958/http://www.the-leaky-cauldron.org/2007/5/24/empire-magazine-feature-on-ootp 'Empire' Magazine Feature on OotP]" from The Leaky Cauldron</ref>. The filmmakers presumably received a more complete version of the tree than the one auctioned off, which only goes back six generations.
+*Except for the colour of his hat, this character's picture on the family tree bears a striking resemblance to that of [[Pollux Black]]. This was likely done by the film-makers to save time, as other characters, such as [[Elladora Black|Elladora]] and [[Callidora Black]] also have images that are remarkably similar<ref>{{OOTP|F}}</ref>.
+*His name is similar to the name of his relative, [[Lycoris Black]].
+*He is the first known member of the [[House of Black|Black family]].
+
+==Appearances==
+*{{OOTP|F}} {{Comment|Seen on [[House of Black|Black family]] tree tapestry}}
+*{{HPPS}} {{Comment|Appears on Black family tapestry}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Black, Licorus}}
+[[es:Licorus Black]] 
+[[ru:Ликорис Блэк (р.1808)]]
+[[pl:Licorus Black]]
+[[fr:Licorus Black]]
+[[ja:リコラス・ブラック]]
+[[it:Licorus Black]]
+[[Category:1808 births]]
+[[Category:1872 deaths]]
+[[Category:British individuals]]
+[[Category:House of Black]]
+[[Category:Males]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

@@ -1,0 +1,50 @@
+{{Cut content}}
+{{Youmay|a ghost that was cut from final drafts of the original book.|[[Toad|the creature]]}}
+{{Individual infobox
+|theme=spirit
+|image=
+|name=The Toad
+|bgcolor1=
+|bgcolor2=
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Animal ghost]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=Pale
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''The Toad''' was an [[animal ghost]] at [[Hogwarts School of Witchcraft and Wizardry]]. It repeatedly left [[ectoplasm]] all over the school classrooms.
+
+==Behind the scenes==
+*The Toad was one of the original ghosts created by [[J. K. Rowling]] but did not survive final edits.<ref name="pottermoreghosts">{{WW|hogwarts-ghosts}}</ref>
+==Appearances==
+*{{PS}} {{C|Cut from final drafts}}
+*{{PM}}
+*{{WW}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:El Sapo]]
+[[ru:Призрак жабы]]
+[[Category:Ghosts]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Non-canonical articles]]

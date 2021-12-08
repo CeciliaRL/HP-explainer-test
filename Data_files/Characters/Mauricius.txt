@@ -1,0 +1,47 @@
+{{transcribed image|File:Mauricius.jpg}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mauricius
+|born = c. [[1979]]-[[1980]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]] (most likely)<ref name="House">As he was friends with Vincent Crabbe, he was likely a member of Slytherin house.</ref>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="DP"/>
+}}
+'''Mauricius''' (born c. [[1980]]) was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]]. He was friends with [[Vincent Crabbe]] and, in early [[1995]], took part in the ''[[Daily Prophet]]'' campaign to harass [[Rubeus Hagrid]].<ref name="DP">See [[:File:Daily Prophet Flying Pigs.jpg|this image]].</ref>
+
+==Behind the scenes==
+*This [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] student was only mentioned on a ''[[Daily Prophet]]'' prop in {{GOF|FA}}. The text on the prop appears to be a copy of the "DUMBLEDORE'S GIANT MISTAKE" article featured in the novel (chapter twenty-four), however, in the prop Rubeus Hagrid's name is replaced by "[[Eduardo]]", "he" and "him", and Draco Malfoy's is replaced by "Mauricius".
+
+==Appearances==
+*{{GOF|F}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Bullies]]
+[[Category:Males]]
+[[Category:Sorted in 1991]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

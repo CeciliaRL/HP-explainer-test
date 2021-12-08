@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = st-mungo-employee
+|image = 
+|name = Rutherford Poke
+|born = Prior to [[2010]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="POT"/>
+|alias = 
+|title = [[Healer]]<ref name="POT"/>
+|signature = 
+|species = [[Human]]<ref name="POT"/>
+|gender = Male<ref name="POT"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Royden Poke]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Healer]] at and spokeperson for [[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="POT"/>
+|house = 
+|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="POT"/>
+}}
+{{Quote|It's two Sickles a scoop, people, so stop being cheap, stop throwing powdered Runespoor fangs on the fire and stop blowing yourselves out of the chimney! If one more wizard comes in here with a burned backside, I swear I won't treat him. It's two Sickles a scoop!|Statement by Poke on the use of homemade [[Floo Powder]] [[Faux Floo|substitutes]]|Pottermore}} 
+'''Rutherford Poke''' was a [[Healer]] at and a spokesperson for [[St Mungo's Hospital for Magical Maladies and Injuries]].<ref name="POT"/>
+
+==Biography==
+In [[2010]], he lamented the incidence of injuries caused by people attempting to use [[Faux Floo|homemade substitutes]] for [[Floo Powder]], reminding people that the authentic article only cost two [[Sickle]]s per scoop, and swearing he would refuse to treat the next [[Wizardkind|wizard]] who came into St Mungo's with a burned bottom.<ref name="POT">{{WW|floo-powder}}</ref>
+
+==Magical abilities and skills==
+*'''[[Healing magic]]''': As a professional [[Healer]], Rutherhood would have been highly adept and accomplished with medical [[magic]], such as with [[healing spell]]s, [[potion]]s and other magical remedies.<ref name="POT"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{St Mungo's}}
+
+{{DEFAULTSORT:Poke, Rutherford}}
+
+[[fr:Rutherford Doissec]]
+[[pl:Rutherford Poke]]
+[[Category:British individuals]]
+[[Category:Healers]]
+[[Category:Males]]
+[[Category:Poke family]]
+[[Category:St Mungo's employees]]
+[[Category:Wizards]]

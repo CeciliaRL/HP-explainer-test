@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Symposia Rawle
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="WBS"/>
+|gender=Female<ref name="WBS"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=
+|animagus=
+|boggart=
+|wand=
+|patronus=[[Ladybird]]<ref name="WBS"/>
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}'''Symposia Rawle''' was a [[wizardkind|witch]]. Her [[Patronus Charm|Patronus]] notably took the form of a [[ladybird]], which despite it is tiny size, was very powerful.<ref name="WBS">{{WBS}}</ref>
+
+==Appearances==
+*{{WBS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Rawle, Symposia}}
+
+[[fr:Symposia Rawle]]
+[[ru:Симпозия Роул]]
+[[pl:Symposia Rawle]]
+[[Category:Females]]
+[[Category:Wizards]]

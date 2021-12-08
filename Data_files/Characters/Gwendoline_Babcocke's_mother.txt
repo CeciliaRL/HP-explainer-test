@@ -1,0 +1,19 @@
+{{Individual infobox
+|name = Gwendoline Babcocke's mother
+|nationality = [[Scotland|Scottish]]<ref name="FBC7"/>
+|species = [[Human]]<ref name="FBC7"/>
+|gender = Female<ref name="FBC7"/>
+|family = [[Gwendoline Babcocke]] (daughter)<ref name="FBC7"/>
+|theme = wizard
+}}'''Gwendoline Babcocke's mother''' was a [[Scotland|Scottish]] [[Wizardkind|witch]] who lived in [[Hogsmeade]]. Her [[Gwendoline Babcocke|daughter]] worked at [[The Magic Neep]]. Gwendoline decided that she would never leave Hogsmeade to pursue her dream of working with [[dragon]]s because it would break her mum's heart to see her go.<ref name="FBC7">{{FBC|7}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Mère de Gwendoline Babcocke]]{{DEFAULTSORT:Babcocke, Gwendoline mother}}
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Scottish individuals]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

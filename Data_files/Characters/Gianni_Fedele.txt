@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Giovanni Freydalei (Fidelli), USA Chaser.jpg|250px]]
+|name = Gianni Fedele
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[United States of America|American]]
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Black
+|eyes = Light Brown
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[American National Quidditch team]]
+|house = 
+|loyalty = [[American National Quidditch team]]
+}}
+'''Gianni Fedele''' was an [[United States of America|American]] [[Wizardkind|wizard]] who played as a [[Chaser]] on the [[American National Quidditch team]].<ref>{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Fedele's [[Chocolate Frog Card]] could be won by beating [[Daryl Morden]] at a [[Quidditch]] challenge.<ref>{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': As a former professional [[Chaser]] of the [[American National Quidditch team]], he is a proficient flyer.
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{C|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Fedele, Gianni}}
+[[es:Gianni Fedele]]
+[[fr:Gianni Fedele]]
+[[Category:20th century births]]
+[[Category:American individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Males]]
+[[Category:Wizards]]

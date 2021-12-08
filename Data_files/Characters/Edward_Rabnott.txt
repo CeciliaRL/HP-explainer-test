@@ -1,0 +1,66 @@
+
+{{Individual infobox
+|theme = portrait
+|image = [[File:Edward Rabnott.JPG|250px]]
+|name = Edward Rabnott
+|born = 
+|died = Before [[1995]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTPG"/>
+|gender = Male<ref name="OOTPG"/>
+|height = 
+|weight = 
+|hair = Black<ref name="OOTPG"/>
+|eyes = Dark<ref name="OOTPG"/>
+|skin = White<ref name="OOTPG"/>
+|family = *[[Modesty Rabnott]] (possibly)
+*[[Prudence]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Rabnott family]]<ref name="OOTPG"/>
+}}
+'''Edward Rabnott'''<ref name="OOTPG NDS">{{OOTP|G}} - NDS version</ref> was a [[Wizardkind|wizard]]. There were portraits of him hung at [[Hogwarts Castle]]. He had at least three different personalities, who often talked and bickered amongst themselves.<ref name="OOTPG">{{OOTP|G}}</ref>
+
+==Biography==
+===[[1995–1996 school year]]===
+In the [[1995–1996 school year]], Edward's portraits hid a secret passageway from the [[Seventh-floor corridor]] to the fourth-floor. The password to this shortcut was "''Three heads are better than one''." By [[1995]], one of his portraits was covered in cobwebs and inaccessible. Edward had promised to give [[Harry Potter]] the password to his secret passage, only if he could clear the cobwebs off the portrait. As Harry did so, the portrait kept his promise.<ref name="OOTPG"/>
+
+==Behind the scenes==
+*Edward Rabnott's portrait seem to be a direct homage to [http://upload.wikimedia.org/wikipedia/commons/2/2d/Anthonis_van_Dyck_041.jpg ''Charles I, King of England, from Three Angles''], by [[Wikipedia:Anthony van Dyck|Anthony van Dyck]].
+*Edward may be a relative of [[Modesty Rabnott]].
+*Mr Rabnott may have died sometime prior to [[1995]], as many portraits hung at [[Hogwarts Castle]] depict deceased individuals.
+*In the [[Harry Potter and the Order of the Phoenix (video game)|video game adaptation]] of {{OOTP}}, Edward was voiced by [[David Coker]].
+
+==Etymology==
+The name "Edward" means "rich guard", derived from the Old English elements ead "rich, blessed" and weard "guard". Saint Edward the Confessor was the king of England shortly before the Norman conquest.
+
+==Appearances==
+*{{PS|F}} {{1st}} {{Portrait}}
+*{{COS|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Rabnott, Edward}}
+
+{{Hogwarts fourth floor}}
+{{Hogwarts seventh floor}}
+
+[[es:Edward Rabnott]]
+[[ru:Эдвард Рабнотт]]
+[[pl:Edward Rabnott]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Rabnott family]]
+[[Category:Wizards]]

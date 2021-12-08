@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = muggle
+|image = [[File:BobHitchens.png|250px]]
+|name = Bob Hitchens
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Iola Black]] (wife) † 
+*[[Sirius Black I]] (brother-in-law) †
+*[[Phineas Nigellus Black]] (brother-in-law) †  
+*[[Elladora Black]] (sister-in-law) †
+*[[Ursula Flint]] (sister-in-law) †
+*[[Sirius Black II]] (nephew) †
+*[[Phineas Black]] (nephew) †
+*[[Arcturus Black II]] (nephew) †
+*[[Belvina Black]] (niece) †
+*[[Cygnus Black II]] (nephew) †
+*Hitchens family
+*[[House of Black]] (in-laws)
+|romances = [[Iola Black]] (wife) †
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = Hitchens family
+}}
+'''Bob Hitchens''' was a [[Non-magic people|Muggle]]<ref>{{HPFW}}</ref><ref>The hand-drawn tree by J.K. Rowling expressly states that Bob Hitchens is a Muggle, and as her word is the highest form of canon, we know he is a Muggle.</ref> who married the [[Wizardkind|pure-blood witch]] [[Iola Black]], the youngest sister of famous [[Phineas Nigellus Black]]. Their [[marriage]] caused her to be struck off the [[Black Family Tapestry|Black family tree tapestry]].<ref>''[[House of Black]]''</ref>
+
+==Behind the scenes==
+*It was not clear at first whether Hitchens was a [[Non-magic people|Muggle]] or a [[Muggle-born]] [[Wizardkind|wizard]]. Although the partial family tree on the Harry Potter Lexicon lists him as a [[Non-magic people|Muggle]], it does the same for [[Muggle-born]] wizard [[Edward Tonks|Ted Tonks]], possibly indicating that the [[House of Black|Blacks]] did not draw a distinction between Muggles and Muggle-borns. However, in the partial tree written by [[J. K. Rowling]] given in the {{HPFW}}, Ted Tonks is listed as a Muggle-born and Hitchens as a Muggle.
+
+==Appearances==
+*{{OOTP|F}} {{Comment|Appears on Black family tapestry}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hitchens, Bob}}
+
+
+[[fr:Bob Hitchens]]
+[[pl:Bob Hitchens]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]] 
+[[Category:Muggles]]

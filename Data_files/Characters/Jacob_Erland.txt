@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Jacob Erland
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Mimi Erland]] (unknown)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Jacob Erland'''<ref>Closed captions on the DVD/Blu-ray of {{DH|F1}}</ref> was a [[Wizardkind|wizard]] who was reported missing, along with his relative [[Mimi Erland|Mimi]], on the ''[[Potterwatch]]'' wireless programme in [[1997]]. His disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.
+
+==Etymology==
+From the Latin Iacobus, which was from the Greek Ιακωβος (Iakobos), which was from the Hebrew name יַעֲקֹב (Ya'aqov). In the Old Testament, Jacob (later called Israel) was the son of Isaac and Rebecca and the father of the twelve founders of the twelve tribes of Israel. He was born holding his twin brother Esau's heel, and his name is explained as meaning "holder of the heel" or "supplanter". Other theories claim that it is in fact derived from a hypothetical name like יַעֲקֹבְאֵל (Ya'aqov'el) meaning "may God protect".
+
+==Appearances==
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Erland, Jacob}}
+
+[[fr:Jacob Erland]]
+[[pl:Jacob Erland]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

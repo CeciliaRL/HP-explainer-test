@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Natsumi Suzuki
+|born = [[1 September]] [[1975]] - [[31 August]] [[1982]]<ref>She attended Hogwarts during the 1993-1994 school year. 1 September is the earliest possible birthday to not be able to go to Hogwarts that year upon turning 11. 31 August is the latest possible birthday to be able to go to Hogwarts that year upon turning 11.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Yoshihiro Suzuki]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Suzuki family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+}}
+'''Natsumi Suzuki''' was a [[Hufflepuff]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]], a member of the [[Suzuki family]]. She attended Hogwarts during the [[1993-1994 school year]].
+
+==Etymology==
+The name Natsumi is a Japanese given name, meaning either "summer" and "beautiful" or "vegetables" and "pick, pluck", depending on which characters one uses to write the name with.
+
+==Behind the scenes==
+*Based on her name, she is most likely of [[Japan]]ese descent.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Suzuki, Natsumi}}
+[[pl:Natsumi Suzuki]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Suzuki family]]
+[[Category:Wizards]]

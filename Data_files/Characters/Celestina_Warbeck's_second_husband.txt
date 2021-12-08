@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Celestina Warbeck's second husband 
+|born = 
+|died = 
+|blood = 
+|nationality = 
+|marital = Divorced<ref name="PM"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Celestina Warbeck]] (ex-wife)<ref name="PM"/>
+*[[Celestina Warbeck's son|One son]]<ref name="PM"/>
+*[[Celestina Warbeck's father|Mr Warbeck]] (ex-father-in-law)<ref name="PM"/>
+*[[Celestina Warbeck's mother|Mrs Warbeck]] (ex-mother-in-law)<ref name="PM"/>
+*[[Warbeck family]] (formerly in-laws)<ref name="PM"/>
+|romances = [[Celestina Warbeck]] (formerly)<ref name="PM"/>
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Manager of [[Celestina Warbeck]]<ref name="PM"/>
+|house = 
+|loyalty = [[Celestina Warbeck]] (formerly)<ref name="PM"/>
+}}
+This '''man''' was the manager of [[wizardkind|wizarding]] singer [[Celestina Warbeck]]. They married at some point and had [[Celestina Warbeck's son|one son]] together. However, after ten years of [[marriage]], Celestina left him for [[Irving Warble]].<ref name="PM">{{WW|celestina-warbeck}}</ref>
+
+==Behind the scenes==
+*It is unknown who received custody of their child, or whether this man remained Celestina's manager after the divorce.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Warbeck, Celestina's second husband}}
+[[fr:Manager de Celestina Moldubec]]
+[[pl:Drugi mąż Celestyny Warbeck]]
+[[Category:Celestina Warbeck's romantic relationships]]
+[[Category:Divorced individuals]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

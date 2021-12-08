@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = mom
+|image = [[File:Brunhilde Stokke.png|250px]]
+|name = Brunhilde Stokke
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Purple
+|eyes = Pale
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Member of the [[Wizengamot]]
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Wizengamot]]
+}}
+'''Brunhilde Stokke''' was a [[Great Britain|British]] [[Wizardkind|witch]] who worked for the [[British Ministry of Magic]] as a member of the [[Wizengamot]]. She demanded the assistance of [[Mathilda Grimblehawk]] and [[Mathilda Grimblehawk's partner|her partner]] in helping with a [[magic]]al [[beast]] loose at her house.<ref>{{FBC|8|1}}</ref>
+
+==Appearances==
+*{{FBC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Stokke, Brunhilde}}
+[[pl:Brunhilde Stokke]]
+[[fr:Brunhilde Stokke]]
+[[ru:Брунгильда Стокке]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Wizards]]
+[[Category:Wizengamot members]]

@@ -1,0 +1,35 @@
+{{Individual infobox
+|name = Luciano Volpi
+|born = Before [[1997]], [[Italy]] (possibly)
+|nationality = [[Italy|Italian]]
+|title = [[Seeker]]
+|species = [[Human]]
+|gender = Male
+|job = [[Seeker]] for the [[Italian National Quidditch team]]
+|loyalty = [[Italian National Quidditch team]]
+|theme = quidditch-player
+|hideb = hide
+|hidep = 
+|hidef = hide
+|hidem = hide
+|broom = 
+|hidea = 
+}}'''Luciano Volpi''' (fl. [[2014]]) was an [[Italy|Italian]] [[wizardkind|wizard]] who played as [[Seeker]] for the [[Italian National Quidditch team]].<ref name="PM">{{PM}} - [[Quidditch World Cup 1990 - 2014]] (Archived)</ref>
+
+==Biography==
+Prior to the [[2014 Quidditch World Cup]], accusations emerged that [[Polish National Quidditch team|Polish]] Seeker [[Bonawentura Wójcik]] was actually Volpi [[Transfiguration|Transfigured]]. This was only disproved when both attended a press conference together.<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Volpi, Luciano}}
+
+[[pl:Luciano Volpi]]
+[[Category:Italian individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Wizards]]

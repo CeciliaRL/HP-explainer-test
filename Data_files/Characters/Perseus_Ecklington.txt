@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:PerseusEcklington.png|250px]]
+|name = Perseus Ecklington
+|born = 
+|died = 
+|blood = 
+|marital = Married<ref name="BPsleepingpotion"/>
+|nationality = [[Great Britain|British]]<ref name="BPsleepingpotion"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="BPsleepingpotion"/>
+|gender = Male<ref name="BPsleepingpotion"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="BPsleepingpotion"/>
+|eyes = 
+|skin = White<ref name="BPsleepingpotion"/>
+|family = [[Daisy Twemlove]] (wife)<ref name="BPsleepingpotion"/>
+|romances = [[Daisy Twemlove]] (wife)<ref name="BPsleepingpotion"/>
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="BPsleepingpotion"/>
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Perseus Ecklington''' was a [[wizardkind|wizard]] who, in his youth, courted [[Daisy Twemlove]].<ref name="BPsleepingpotion">{{WBP}} - see [https://www.youtube.com/watch?v=Xk-PJsIbGX8&list=PLu-YMfPspAuGcYXaC2J1A2gb-0Zp34GI3&index=18 this video]</ref>
+
+On the eve of Ecklington's wedding to Daisy Twemlove, [[Norville Bezerko]], his love rival, slipped a powerful [[Sleeping Potion]] into his [[butterbeer]] mug, sending him into a deep death-like sleep. Bezerko prompty presented himself at Daisy's house, telling her that Ecklington had died of panic at the prospect of marrying her. An unsuspecting Daisy accepted a proposal of marriage from Bezerko the moment Ecklington was buried.<ref name="BPsleepingpotion"/>
+
+Ecklington was put in a coffin, and, just as [[Funeral of Perseus Ecklington|he was being lowered into the ground]], he woke up, as the effects of the [[Sleeping Potion]] had worn off. Ecklington soon realised Bezerko's scheme, and a [[Duelling|brawl]] ensued. Bezerko was left with an [[elephant]]'s trunk and six ears, thus hampering his chances of finding another bride, and Daisy Twemlove was reunited with Perseus Ecklington.<ref name="BPsleepingpotion"/>
+
+==Appearances==
+*{{WBP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ecklington, Perseus}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Wizards]]

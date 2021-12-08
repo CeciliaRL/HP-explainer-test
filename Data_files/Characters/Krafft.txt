@@ -1,0 +1,70 @@
+{{Individual infobox
+|theme = grindelwald-acolyte
+|image = [[File:Krafft.png|thumb]]
+|name = Krafft
+|born = Before [[1927]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COGF/>
+|gender = Male<ref name="COGF/>
+|height = 
+|weight = 
+|hair = Brown<ref name="COGF">{{COG|F}}</ref>
+|eyes = Brown<ref name="COGF"/>
+|skin = Pale<ref name="COGF/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Gellert Grindelwald]]
+**[[Alliance|The Alliance]]
+}}
+'''Krafft''' was a [[Wizardkind|wizard]] who lived during the early [[20th century]]. He was a member of [[Gellert Grindelwald]]'s [[Alliance]], and was among the [[dark wizard]]'s foremost [[Gellert Grindelwald's acolytes|acolytes]].<ref name="COGS">{{COG|S}}</ref>
+
+==Biography==
+Krafft joined [[Gellert Grindelwald]] at some point prior to [[1927]] and became one of his [[Alliance|acolytes]]. He travelled to [[Paris]] to help Grindelwald's plans in recruiting [[Credence Barebone]]. While in Paris, he helped overthrow and murder a [[Non-Magique family]] and take their [[Unidentified home used by Gellert Grindelwald|home]]. Alongside [[Krall]] and [[Abernathy]], he helped take out their bodies in coffins. 
+
+He then attended [[Gellert Grindelwald's Paris rally|Grindelwald's rally]] at the [[Lestrange Mausoleum]] in the [[Cimetière du Père-Lachaise]]. Krafft [[Apparition|Disapparated]] away after crossing the [[Protego Diabolica|enchanted fire]] that tested one's loyalty following the entrance of [[Auror]]s, and did not participate in the subsequent battle after that.<ref name="COGS"/>
+
+==Physical appearance==
+Krafft wore a militaristic jacket, with a bunch of little trinkets for decoration on it.<ref name="Archive">{{AM}}</ref>
+
+==Magical abilities and skills==
+*'''[[Apparition]]''': Kraft was capable of Apparition like most other accomplished adult wizards. He successfully Disapparated away from the [[Lestrange Mausoleum]] in [[1927]] to escape the battle there.<ref name="COGS" />
+
+==Etymology==
+
+*Krafft may be derived from the word "kraft", which in Swedish, Norwegian and Danish can be used to mean "power" or "force" depending on the context, or the German counterpart, in which it means just the former.
+
+==Behind the scenes==
+*Krafft is portrayed by [[Simon Meacock]] in the [[Fantastic Beasts: The Crimes of Grindelwald|second instalment]] of the ''[[Fantastic Beasts (film series)|Fantastic Beasts]]'' film series.<ref name="imdb">[http://www.imdb.com/title/tt4123430/fullcredits?ref_=tt_ov_st_sm Fantastic Beasts: The Crimes of Grindelwald IMDb page]</ref>
+
+==Appearances==
+*{{COG|S}} {{1st}}
+*{{COG}}
+*{{AM}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Gellert Grindelwald's army}}
+[[pl:Krafft]]
+[[fr:Krafft]]
+[[de2:Krafft]]
+[[de:Krafft]]
+[[es:Krafft]]
+[[Category:Dark wizards]]
+[[Category:European individuals]]
+[[Category:Gellert Grindelwald's Paris rally participants]]
+[[Category:Males]]
+[[Category:Members of the Alliance]]

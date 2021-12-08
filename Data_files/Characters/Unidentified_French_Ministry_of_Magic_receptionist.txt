@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|name = French Ministry of Magic receptionist
+|image = [[File:French Ministry receptionist witch COG.png|thumb]]
+|born = Before [[1927]], [[France]] (possibly)<ref name="COGS"/>
+|died = 
+|blood = 
+|nationality = [[France|French]]<ref name="COGS"/>
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="COGS"/>
+|gender = Female<ref name="COGS"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|job = Receptionist for the [[French Ministry of Magic]]<ref name="COGS"/>
+|house = 
+|loyalty = [[French Ministry of Magic]]<ref name="COGS"/>
+|theme = mom
+}}
+{{Quote|Welcome to the French Ministry of Magic. What is your business, please?|This witch greeting [[Queenie Goldstein]] at the [[French Ministry of Magic]]|Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay}}
+This '''individual''' was a [[France|French]] [[Wizardkind|witch]] who worked as a receptionist in the foyer of the [[French Ministry of Magic]].<ref name="COGS"/>
+
+==Biography==
+In [[September]] [[1927]], she informed [[Queenie Goldstein]] that her sister [[Porpentina Goldstein|Tina]] had not been registered at the Ministry.<ref name="COGS">{{COG|S|51}}</ref>
+
+==Behind the scenes==
+The Receptionist was portrayed by [[Olivia Popica]] in {{COG}}.
+
+==Appearances==
+*{{COG|S}} {{1st}}
+*{{COG}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Recepcionista no identificada del Ministerio francés de magia]]
+[[pl:Niezidentyfikowana recepcjonistka we Francuskim Ministerstwie Magii]]
+[[Category:Females]]
+[[Category:French Ministry of Magic employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

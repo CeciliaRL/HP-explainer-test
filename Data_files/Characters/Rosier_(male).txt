@@ -1,0 +1,73 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = death-eater
+|image = 
+|name = Rosier
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]] (likely)<ref name="Pure Blood">{{WW|pure-blood}}</ref><ref name="Malfoy">{{WW|the-malfoy-family}}</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP20"/>
+|gender = Male<ref name="HBP20"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Vinda Rosier]] (possibly)
+*[[Evan Rosier]] (possibly)
+*[[Felix Rosier]] (possibly)
+*[[Druella Black|Druella Rosier]] (possibly)
+*[[Rosier family]]<ref name="HBP20"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|job = 
+|house = 
+|loyalty = *[[Death Eaters]]<ref name="HBP20"/>
+**[[Tom Riddle|Lord Voldemort]]<ref name="HBP20"/>
+*[[Rosier family]]<ref name="HBP20"/>
+}}
+{{Quote|...-[[Nott]], Rosier, [[Mulciber (Riddle-era)|Mulciber]], [[Antonin Dolohov|Dolohov]]- waiting for [[Tom Riddle|your]] return... What devoted friends, travelling so far away in the snow and the night just to wish you good luck in trying to get a teacher position.|[[Albus Dumbledore]] to [[Tom Riddle]]|Harry Potter and the Half-Blood Prince}}
+'''Rosier''' was a [[Dark Wizard]] and one of the earliest [[Death Eaters]] of [[Tom Riddle|Lord Voldemort]]. He fought in the [[First Wizarding War]], and travelled to [[Hogsmeade]] in order to "wish good luck" to Tom Riddle in trying to get a teacher position at Hogwarts.<ref name="HBP20">{{HBP|B|20}}</ref> It is possible that Rosier was deceased before the start of the [[Second Wizarding War]]; if he was not, he possibly fought at the [[Battle of Hogwarts]] and was presumably killed or imprisoned in [[Azkaban]] after Voldemort's final defeat.
+
+==Biography==
+===Early life===
+Nothing is known of Rosier's early life.
+
+===First Wizarding War===
+Rosier fought in the [[First Wizarding War]] along with many other Death Eaters. He was also one of the [[Death Eaters]] who travelled to [[Hogsmeade]], to say "good luck"'' ''to Voldemort, during his attempt to ask for work at Hogwarts, along with [[Nott]], [[Mulciber (Riddle-era)|Mulciber]], and [[Antonin Dolohov|Dolohov]].<ref name="HBP20"/> It is possible that he was the father of [[Evan Rosier]], who attended Hogwarts with [[Severus Snape]] in the [[1970s]], and who was killed by [[Auror]]s in the end of the [[First Wizarding War]]. After Voldemort's first downfall, Rosier was presumably killed, imprisoned, or defected. If he survived, it is most likely that he was one of the [[Death Eaters]] who did not search for Voldemort.
+
+It is unknown if Rosier was still alive during the [[Second Wizarding War]].
+
+==Behind the scenes==
+*It's possible that he is related to [[Druella Black|Druella Rosier]], wife of [[Cygnus Black III|Cygnus Black]], given the timeline it's likely that the two are brother and sister or possibly cousins.
+*He was possibly the father of [[Evan Rosier]] or [[Felix Rosier]]. The former was a known Death Eater while the latter was said to have a Death Eater father.<ref name="HM3">{{HM|3}}</ref>
+*Rosier is not mentioned in the "Guide to Lord Voldemort's Death Eaters" on {{PM}}.
+*It's possible that he was one of the boys seen with Tom Riddle in [[Horace Slughorn]]'s memory, though it is unconfirmed.
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+*{{PM}} {{Indirect}}
+*{{WW}} {{Indirect}}
+
+==Notes and references==
+{{Reflist}}
+{{Death Eaters}}
+
+[[de:Rosier sr.]]
+[[ru:Розье старший]]
+[[es:Rosier]]
+[[fr:Rosier]]
+[[pl:Rosier]]
+[[Category:British individuals|Rosier]]
+[[Category:Death Eaters]]
+[[Category:Males|Rosier]]
+[[Category:Rosier family]]
+[[Category:Tom Riddle's gang]]

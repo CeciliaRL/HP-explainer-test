@@ -1,0 +1,61 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:GCR Portrait Male 4.jpg|250px]]
+|name = Gryffindor Common Room Portrait
+|born = {{GBorIE}}
+|died = Before [[1991]]
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Head of House]]<ref name="MHP">{{MHP}} (see [http://www.flickr.com/photos/karen_roe/7366145410/in/set-72157630012281279/ this image])</ref>
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Black/Grey
+|eyes = Dark
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Head of Gryffindor House]] (? - before [[1991]])
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+{{Quote|They were going to do me in watercolours, you know.|The portrait speaks to [[Harry Potter]]|Harry Potter and the Order of the Phoenix (video game)}}
+
+This '''individual''' was a [[wizardkind|wizard]] who, in his lifetime, was [[Head of Gryffindor House]].<ref name="MHP" />
+
+==Biography==
+A portrait of this wizard hung in [[Gryffindor Tower]]. In [[1994]], when [[Harry Potter]] opened his [[golden egg]] he was terrified and was seen holding his hands over his ears.<ref name="GOFF">{{GOF|F}}</ref> In [[1995]], he lamented the lack of a background in his picture, noting that the portrait of the [[Unidentified Gryffindor seeker|Quidditch Player]] on the opposite wall had an entire [[Quidditch pitch]].<ref name="OOTPG">{{OOTP|G}}</ref>
+
+==Behind the scenes==
+*In the [[Harry Potter and the Order of the Phoenix (video game)|video game adaptation]] of {{OOTP}}, he was credited as '''GCR Portrait Male 4''', and was voiced by [[Jonathan Kydd]]. His portrait also appears in the [[Gryffindor]] Common Room in the [[Harry Potter and the Half-Blood Prince (video game)|video game adaptation]] of {{HBP}}, but does not speak.
+
+==Appearances==
+*{{PS|F}} {{1st}} {{Portrait}}
+*{{COS|F}} {{Portrait}}
+*{{POA|F}} {{Deleted scenes}} {{Portrait}}
+*{{GOF|F}} {{Portrait}}
+*{{OOTP|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|F}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+*{{QH}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts towers}}
+[[Category:British or Irish individuals]]
+[[Category:Heads of House]]
+[[Category:Males]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

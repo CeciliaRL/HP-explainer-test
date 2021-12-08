@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Kouta Ohnishi
+|born = [[31 August]] [[1982]] or earlier<ref name="age">He was at least in his [[first year]] at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+**[[Duelling Club]]<ref name="HBPG"/>
+}}
+{{Quote|I'll be able to go back to [[Potions (class)|Potion Class]] now. Thanks, [[Harry Potter|Harry]].|Morcott in the [[Stone Bridge]]|Harry Potter and the Half-Blood Prince (video game)}}'''Kouta Ohnishi''' was a [[Wizardkind|wizard]] and [[Hufflepuff]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="POAG">{{POA|G}}</ref><ref name="HBPG"/>
+
+==Biography==
+During the [[1996–1997 school year]], he had to brew a [[Draught of Peace]] for [[Potions (class)|Potions]], but could not do so because he lacked the [[horned slug]]s that were one of the ingredients required to make the [[potion]]. He traded [[syrup of Hellebore]] with [[Harry Potter]] in order to get the horned slugs he needed. He was also a member of the [[Duelling Club]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+The name "Kouta" is from Japanese 康 (kou) "peace" and 太 (ta) "thick, big".
+
+==Behind the scenes==
+*It is most likely that Kouta was in his [[fifth year]] in the [[1996–1997 school year]], as the Draught of Peace is usually brewed in that year.
+*Given his name, he is most likely of Japanese descent.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}} {{1st}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Duelling Club}}
+{{DEFAULTSORT:Ohnishi, Kouta}}
+[[es:Kouta Ohnishi]]
+[[fr:Kouta Ohnishi]]
+[[pl:Kouta Ohnishi]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Duelling Club members]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

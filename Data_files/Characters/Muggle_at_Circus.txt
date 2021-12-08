@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Muggle at Circus
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+}}
+The '''Muggle at (the) Circus''' was an unknown muggle in [[1927]] that was close by [[Circus Arcanus]].<ref name= ''IMDB''>[https://www.imdb.com/title/tt4123430/fullcredits?ref_=tt_ov_st_sm ''Full Credits''] from [https://www.imdb.com '''IMDB''']</ref>
+
+==Behind the scenes==
+*The Muggle at the Circus was portrayed by [[Ireland|Irish]] actor [[Dave Simon]] in the upcoming [[Fantastic Beasts: The Crimes of Grindelwald|sequel]] to [[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]].<ref>[https://www.imdb.com/name/nm6078944/?ref_=ttfc_fc_cl_t31 ''Character Profile''] from [https://www.imdb.com '''IMDB''']</ref>
+
+==Appearances==
+*{{COG}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+[[Category:Males]]
+[[Category:Unidentified Muggles]]

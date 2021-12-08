@@ -1,0 +1,59 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = WitnessHM.png
+|name = Unidentified witness (II)
+|born = Before [[1990]]<ref name="HM75A2">{{HM|7|5|The Rogue Alchemist}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM75A2"/>
+|gender = Male<ref name="HM75A2"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HM75A2"/>
+|eyes = Black<ref name="HM75A2"/>
+|skin = Light<ref name="HM75A2"/>
+|family = [[Mildred (1990s)|Mildred]]<ref name="HM714A">{{HM|7|14|Catastrophe Clean-Up}}</ref>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[British Ministry of Magic]]<ref name="HM75A2"/>
+}}
+This '''[[Wizardkind|wizard]]''' was the witness of several cases investigated by the [[British Ministry of Magic]].<ref name="HM75A2"/><ref name="HM76A2">{{HM|7|6|Auror Field Training}}</ref> He lived in a village in [[Northumberland]] with his cousin [[Mildred (1990s)|Mildred]].<ref name="HM714A"/> He could often be seen in the [[Three Broomsticks Inn]].<ref name="HM">{{HM}}</ref>
+
+==Biography==
+He once bought the [[rogue alchemist]]'s [[Rogue alchemist's fake panacea|fake panacea]]. During the [[1990–1991 school year]], he was interviewed by [[Alastor Moody]] and [[Jacob's sibling]] as a part of their investigations of the rogue alchemist.<ref name="HM75A2"/>
+
+He spotted a [[fugitive Dark Witch]]<ref name="HM76A2"/> and a thief named [[Olivier Kikkert]] who was an unregistered [[frog]] [[Animagus]].<ref name="HM77A1">{{HM|7|7|Assist Madam Bones}}</ref>
+
+He saw some suspicious sweets, including [[Chocolate Frog]]s, [[Fizzing Whizzbees]] and [[Sugar Mice]], in [[Honeydukes]].<ref name="HM77A2">{{HM|7|7|Whispered Rumours}}</ref>
+
+He spotted a [[Muggle Artefact Smuggler]] on multiple occasions, such as outside the [[Leaky Cauldron]] and on the [[Charing Cross Road]].<ref name="HM712A1">{{HM|7|12|Muggle Artefact Smuggler}}</ref>
+
+He witnessed an [[Explosion in Northumberland|explosion]] in his hometown [[Northumberland]] and helped protect the bystanders with [[Mildred (1990s)|Mildred]].<ref name="HM714A"/>
+
+He fell victim to [[Xeep's Luscious Locks Solution]], and drank the [[Counter-serum for Xeep's Luscious Locks Solution|counter-serum]] prepared by [[Severus Snape|Professor Snape]], [[Penny Haywood]] and Jacob's sibling.<ref name="HM715">{{HM|7|15}}</ref>
+
+==Behind the scenes==
+*This character appears to be a general NPC for the "interview witness" part of the Ministry assignments in {{HM}}.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Black-eyed individuals]]
+[[Category:Males]]
+[[Category:Ministry of Magic allies]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

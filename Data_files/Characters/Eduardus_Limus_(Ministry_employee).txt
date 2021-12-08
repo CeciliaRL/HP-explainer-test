@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = mom
+|image = [[File:Eduardus Limus.png|250px]]
+|name = Eduardus Limus
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref>As he was working at the Ministry during Voldemort's rule, it is highly unlikely he was Muggle-born.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Exotic Symbol Analyst]], [[Minister for Magic and Support Staff|Minister for Magic Support Staff]] at the [[British Ministry of Magic|Ministry of Magic]]
+|house = 
+|loyalty = [[British Ministry of Magic|Ministry of Magic]]
+}}
+'''Eduardus Limus''' was a [[British Ministry of Magic|Ministry of Magic]] employee, who worked as [[Exotic Symbol Analyst]]<ref name="Twitter">[https://twitter.com/minalima/status/599605713455943683 "Our real jobs! :-)"] posted by MinaLima on Twitter on 16 May 2015</ref> for the [[Minister for Magic and Support Staff|Minister for Magic's Support Staff]].<ref name="SupportStaff">The plaque listing Eduardus Limus is identical in style to the other plaques on the doors to the offices of [[Minister for Magic and Support Staff|Level One]], as seen in {{DH|F1}} {{See image 2|File:MinistryLevelOne.png|File:Dolores Umbridge sign.png}}.</ref>
+
+==Behind the scenes==
+*Eduardus Limus is named after [[Eduardo Lima]], one of the graphic artists that produced many of the paper props seen in the [[Harry Potter (film series)|''Harry Potter'' films]].
+*If [[Rufus Scrimgeour]] took any notice of the [[Sign of the Deathly Hallows|sign]] of the [[Deathly Hallows]] in [[Albus Dumbledore]]'s old copy of {{TBB}} upon confiscating the objects the late Headmaster left to the [[Trio]] in his will, he presumably tasked Mr Limus with figuring out its meaning. If this is the case, it was presumably to no avail, seeing as Scrimgeour would primarily focus on opening the [[Golden Snitch]]. Alternatively, Mr Limus did indeed recognise the symbol for what it was, with Scrimgeour dismissing "[[The Tale of the Three Brothers]]" and its associated artefacts as superstition and myth.
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Minister for Magic and Support Staff}}
+{{DEFAULTSORT:Limus, Eduardus}}
+[[pt-br:Eduardus Limus (funcionário do Ministério)]]
+[[Category:British individuals]]
+[[Category:Limus family|Eduardus]]
+[[Category:Males]]
+[[Category:Minister for Magic's Support Staff]]
+[[Category:Wizards]]

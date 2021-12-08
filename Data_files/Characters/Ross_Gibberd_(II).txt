@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Ross Gibberd
+|born = c. [[1985]] or earlier<ref>He must have at least been in his first year in 1996.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Ross Gibberd (I)]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Ross Gibberd''' was a student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He played informal [[Quidditch]] matches with other students during the [[1996–1997 school year]].
+
+==Etymology==
+The name '''Ross''' comes from a Scottish and English surname which meant "promontory" in Gaelic, originally belonging to someone who lived on a headland. '''Ross''' may also come from the old French "rous" meaning "red".  A famous bearer of the surname was Sir James Clark Ross (1800-1862), an Antarctic explorer.
+
+==Appearances==
+*{{HBP|G}} {{Comment|Nintendo DS version only}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Ross Gibberd (II)]]
+[[Category:British individuals|Gibberd, Ross]]
+[[Category:Males|Gibberd, Ross]]
+[[Category:Sorted in the 1990s]]
+[[Category:Unknown House]]
+[[Category:Wizards|Gibberd, Ross]]

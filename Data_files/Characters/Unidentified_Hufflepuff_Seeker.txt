@@ -1,0 +1,55 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Unidentified Hufflepuff Seeker
+|born = [[31 August]] [[1979]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Seeker]]<ref name="PSG"/>
+|signature = 
+|species = [[Human]]<ref name="PSG"/>
+|gender = Male<ref name="PSG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="PSG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSG"/>
+**[[Hufflepuff]]<ref name="PSG"/>
+**[[Hufflepuff Quidditch team]]<ref name="PSG"/>
+}}
+This '''[[Wizardkind|wizard]]''' was a [[Seeker]] on the [[Hufflepuff Quidditch team]] in [[1991]] and [[1992]].<ref name="PSG">{{PS|G}}</ref> He was replaced by [[Cedric Diggory]] in [[1993]].
+
+==Behind the scenes==
+*The individual could be [[Cedric Diggory]], as it is unknown whether he was already on the [[Hufflepuff Quidditch team]] in [[1991]].
+
+==Appearances==
+*{{PS|G}} {{1st}}
+*{{COS|G}} {{Possible}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Male Hufflepuff Quidditch Seeker}}
+
+[[es:Unidentified Hufflepuff Seeker]]
+[[pl:Niezidentyfikowany szukający Hufflepuffu]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Unidentified Hufflepuffs]]
+[[Category:Wizards]]

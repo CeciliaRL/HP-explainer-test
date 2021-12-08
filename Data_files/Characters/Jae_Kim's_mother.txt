@@ -1,0 +1,38 @@
+
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Jae Kim's mother
+|born = 
+|died = 
+|blood = 
+|marital =  
+|nationality = 
+|alias = 
+|title = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family =*[[Jae Kim's father|Husband]]
+*[[Jae Kim]] (son)
+|job = 
+|loyalty = [[Kim family]]
+}}
+{{Quote|Is that the opera diva Zenith Xeep? My mum is a huge fan.|[[Jae Kim]] finds [[Zenith Xeep]] in the [[Janus Thickey Ward]]|Harry Potter: Hogwarts Mystery}}
+'''Mrs Kim''' was the mother of [[Jae Kim]].<ref name="HM724">{{HM|7|24}}</ref> According to Jae, his mother was a big fan of [[wizardkind|wizarding]] opera singer [[Zenith Xeep]].<ref name="HM724"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Kim family]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

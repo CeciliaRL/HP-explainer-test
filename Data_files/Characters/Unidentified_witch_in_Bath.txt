@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Witch in Bath
+|nationality=[[England|English]]<ref name="COS13"/>
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="COS13"/>
+|gender=Female<ref name="COS13"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+This '''[[Wizardkind|witch]]''' lived in [[Bath]], and owned a [[Cursed book owned by witch in Bath|cursed book]] that she was unable to stop reading. [[Ronald Weasley|Ron Weasley]] told [[Harry Potter]] about this witch out of caution when they first discovered an [[Tom Riddle's Diary|unknown diary]].<ref name="COS13">{{COS|B|13}}</ref>
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Stara wiedźma z Bath]]
+[[Category:English individuals|Witch in Bath]]
+[[Category:Females|Bath]]
+[[Category:Unidentified individuals|Witch in Bath]]
+[[Category:Wizards|Witch in Bath]]

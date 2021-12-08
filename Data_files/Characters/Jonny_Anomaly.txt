@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Jonny Anomaly
+|hideb=y
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Magician<ref name="poster-lego2">{{LEGO|D}} {{See image|File:Packer Theatre.png}}</ref>
+|house=
+|loyalty=
+}}
+'''Jonny Anomaly''' was a [[Non-magic people|Muggle]] magician in the early [[20th century]].<ref name="poster-lego2" /><ref name="poster-lego">{{LEGO|D}} {{See image|File:G. Forbes Productions.png}}</ref>
+
+In [[1926]], posters were put up around [[New York]]'s harbour promoting a series of twelve performances staged by [[G. Forbes Productions]], which were slated to begin on Saturday [[11 December]].<ref name="poster-lego" /> This included a show featuring the "amazing skills" of Jonny Anomaly.<ref name="poster-lego" /> Another poster was put up advertising a performance by the "magnificent" Anomaly at the [[Packer Theatre]] on the same day.<ref name="poster-lego2" />
+
+==Appearances==
+*{{LEGO|D}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Anomaly, Jonny}}
+[[Category:Magicians]]
+[[Category:Males]]
+[[Category:Muggles]]

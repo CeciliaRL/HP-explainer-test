@@ -1,0 +1,37 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Maurice Willards
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Theatre producer
+|house=
+|loyalty=
+}}
+'''Maurice Willards''' was a [[Non-magic people|Muggle]] theatre producer in the early [[20th century]]. He co-produced a production of ''[[Oh, Rosana!]]'' with [[Bernard Lockwood]] that was slated to open at the [[Brockman Theatre]] in [[New York]] on [[4 January]] [[1927]].<ref name="rosana">{{FB|F}} {{See image|File:Oh, Rosana!.png}}</ref>
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Willards, Maurice}}
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Producers]]

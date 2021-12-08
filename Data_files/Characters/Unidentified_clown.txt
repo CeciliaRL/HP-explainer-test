@@ -1,0 +1,29 @@
+{{WizardsUniteSpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Brilliant_Clown.png]]
+|name = Unidentified clown
+|blood = 
+|species = [[Human]]
+|gender = Male
+|job = Clown
+|loyalty = [[Circus Arcanus]]
+|theme = individual
+}}
+This '''individual''' was a clown in the [[1920s]].<ref name="WU"/>
+
+==Biography==
+He was part of the [[Circus Arcanus]], a travelling freak show.<ref name="WU"> {{WU}} "Brilliant Event: Circus Calamitous"</ref>
+
+During the [[2020s]], he appeared as a [[Foundable]] during the [[Calamity]]. Volunteer members of the [[Statute of Secrecy Task Force]] were able to free him, allowing he to return to his original time.<ref name="WU"> {{WU}} "Brilliant Event: Circus Calamitous"</ref>
+
+==Appearances==
+*{{COG}} {{Possible}}
+*{{WU}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Circus performers]]
+[[Category:Foundables]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]

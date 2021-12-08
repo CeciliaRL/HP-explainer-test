@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified St Mungo's patient
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP22"/>
+|alias = 
+|title = [[Warlock]]<ref name="OOTP22"/>
+|signature = 
+|species = [[Human]]<ref name="OOTP22"/>
+|gender = Male<ref name="OOTP22"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="OOTP22"/>
+}}
+This '''grubby-looking warlock''' came into [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]] in [[December]] [[1995]] because he clanged like a bell whenever he moved. With each of the clangs, he vibrated so much that he had to grab hold of his ears to keep his head steady. He was sat in the corner of the reception area when [[Harry Potter]], [[Mad-Eye Moody]], [[Nymphadora Tonks]] and the [[Weasley family]] went to see [[Arthur Weasley]].<ref name="OOTP22">{{OOTP|B|22}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{St Mungo's}}
+[[es:Paciente de San Mungo de aspecto sucio]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:St Mungo's patients]]
+[[Category:Unidentified individuals]]
+[[Category:Warlocks]]
+[[Category:Wizards]]

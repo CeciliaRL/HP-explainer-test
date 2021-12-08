@@ -1,0 +1,37 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=giant
+|image=[[File:Giant in the Blind Pig - FB.png]]
+|name=Unidentified giant in the Blind Pig
+|born=Before [[1926]]
+|died=
+|marital=
+|nationality=
+|alias=
+|title=
+|signature=
+|species=[[Giant]]<ref name="FB82"/>
+|gender=Male<ref name="FB82"/>
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|romances=
+|job=
+|loyalty=[[The Blind Pig]]<ref name="FB82"/>
+}}
+This '''unidentified giant''' was a patron in the [[The Blind Pig]] [[speakeasy]] in [[1926]] when [[Newton Scamander]] and his allies came to speak to [[Gnarlak]] about Newt's missing [[magic]]al [[beasts]]. A [[Unidentified house-elf bartender for Blind Pig|house-elf]] served the [[giant]] a drink although his hands dwarfed the small glass.<ref name="FB82">{{FB|S|82}}</ref><ref>{{FB|F}}</ref>
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Giants}}
+[[Category:Giants]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]

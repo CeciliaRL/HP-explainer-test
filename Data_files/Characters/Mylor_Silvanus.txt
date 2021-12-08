@@ -1,0 +1,49 @@
+{{Cut content}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mylor Silvanus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKR"/>
+|gender = Male<ref name="JKR"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mylor Silvanus''' was a [[Wizardkind|wizard]].<ref name="JKR"/>
+
+==Behind the scenes==
+Mylor Silvanus was one of two names which [[J. K. Rowling]] considered giving to the [[Defence Against the Dark Arts]] [[professor]] in [[Harry Potter]]'s [[fifth year]] at the time she was still planning {{POA}}.<ref name="JKR">"[http://www.hp-lexicon.org/about/sources/jkr.com/jkr-com-trans-jottings1.html More idle jottings (Page 1)]" on the Harry Potter Lexicon</ref>
+
+==Appearances==
+*{{OOTP}} {{Comment|Early drafts (planned only)}}
+*{{JKRS}} {{Mention}}
+
+==Etymology==
+According to legend, {{w|Melor|Saint Melor}} (called ''Mylor'' in Cornish) was a prince of Brittany whose uncle Rivod murdered his father to seize the throne and first maimed Melor, cutting off his right hand and left foot, but when Melor's prosthetic limbs began working like natural ones, Rivod sent an assassin to kill him. Veneration of Melor spread from Brittany to Cornwall where he has several churches dedicated to him.
+
+Silvanus was derived from the Latin ''silva'', "forest", and was the name of the {{w|Silvanus (mythology)|Roman god of woods}}.<ref>"[http://www.behindthename.com/name/silvanus Silvanus]" on Behind the Name</ref> It was later used as the given name of [[Silvanus Kettleburn]], professor of [[Care of Magical Creatures]].
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Silvanus, Mylor}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

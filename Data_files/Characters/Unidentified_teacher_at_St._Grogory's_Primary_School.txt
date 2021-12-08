@@ -1,0 +1,41 @@
+{{conjecture}}
+{{Individual infobox
+|image = [[File:Blue Wig.jpg|250px]]
+|name = Unidentified teacher at St. Grogory's Primary School
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="PS7"/>
+|nationality  = 
+|title = 
+|alias = 
+|signature = 
+|species = [[Human]]<ref name="PS7"/>
+|gender = Female<ref name="TCG">{{TCG}} {{Comment|[[Blue Wig]]}}</ref>
+|skin = White<ref name="TCG"/>
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|boggart = 
+|job = Teacher<ref name="PS7"/>
+|loyalty = [[St. Grogory's Primary School]]<ref name="PS7"/>
+|theme = muggle
+}}
+This female<ref name="TCG" /> [[Non-magic people|Muggle]] '''teacher''' taught an unknown year at [[St. Grogory's Primary School]] during the [[1980s]] or early [[1990s]].<ref name="PS7"/>
+
+==History==
+
+In the [[1980s]], [[Harry Potter]] was in her class and once [[Underage magic|accidentally]] [[Colour Change Charm|turned]] her wig blue.<ref name="PS7">{{PS|B|7}}</ref>
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{TCG}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowana nauczycielka szkoły podstawowej]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified Muggles‎]]

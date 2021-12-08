@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Rahul Tandel
+|born = [[31 August]] [[1982]] or earlier<ref name="age">He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Hardik Tandel]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Tandel family]]<ref name="POAG"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAG"/>
+**[[Gryffindor]]<ref name="POAG"/>
+}}
+'''Rahul Tandel''' was a [[Wizardkind|wizard]] and [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He was seen walking around the school during the [[1993-1994 school year]].<ref name="POAG">{{POA|G}}</ref>
+
+==Etymology==
+Rahul is an Indian name, meaning "capable". Rahul was the name of the son of Buddha. Tandel is a surname of Indian origin, widely found in the Gujarat state.
+
+==Behind the scenes==
+*This student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|PlayStation 2 version]] of {{POA}}.
+*Based on his name, it can be presumed that he is of Indian descent.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Tandel, Rahul}}
+[[pl:Rahul Tandel]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Sorted in the 20th century]]
+[[Category:Tandel family]]
+[[Category:Wizards]]

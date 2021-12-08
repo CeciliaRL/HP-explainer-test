@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = gringotts
+|image = 
+|name = Snaglok
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = Black
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Bank clerk
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]
+}}
+'''Snaglok''' was a [[goblin]] who worked at [[Gringotts Wizarding Bank]] as a bank clerk.<ref>{{FBC|14}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st}}
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+[[es:Snaglok]]
+[[fr:Snaglok]]
+[[pl:Snaglok]]
+{{Character-stub}}
+[[Category:Black-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Goblins]]
+[[Category:Gringotts employees]]
+[[Category:Males]]

@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = wizard
+|image =
+|name = Walter Parkin
+|nationality = [[Scotland|Scottish]]<ref name="QTA7"/>
+|born =
+|died =
+|blood =
+|alias =
+|title =
+|species = [[Human]]<ref name="QTA7"/>
+|gender = Male<ref name="QTA7"/>
+|height =
+|hair =
+|eyes =
+|skin =
+|family = *[[Walter Parkin's children|7 Children]]<ref name="QTA7"/>
+*[[Blythe Parkin]] (possibly)<ref name="QTA7"/>
+*[[Ethan Parkin]] (descendant)<ref name="QTA7"/>
+*[[Skye Parkin]] (descendant)<ref name="QTA7"/>
+|animagus =
+|boggart=
+|wand = Unknown length, wood and core<ref name="QTA7"/>
+|patronus=
+|job = Butcher<ref name="QTA7"/>
+|house=
+|loyalty = *[[Wigtown Wanderers]]<ref name="QTA7"/>
+*[[Parkin family]]<ref name="QTA7"/>
+}}
+'''Walter Parkin''' (fl. [[1422]]) was a [[Scotland|Scottish]] [[Wizardkind|wizard]] and butcher. In [[1422]], his seven children - four sons and three daughters - formed the [[Wigtown Wanderers]] [[Quidditch]] [[Quidditch team|team]]. Walter often attended matches holding his wand in one hand, and a [[meat cleaver]] in the other. Opposing teams were often intimidated by his presence on the sidelines.<ref name="QTA7">{{QTA|R|7}}</ref>
+
+==Etymology==
+The name "Walter" comes from a Germanic name meaning "ruler of the army", composed of the elements ''wald'' "rule" and ''hari'' "army". The Normans brought it to England, where it replaced the Old English cognate ''Wealdhere''. A famous bearer of the name was Sir Walter Scott (1771-1832), a Scottish novelist who wrote 'Ivanhoe' and other notable works.<ref>http://www.behindthename.com/name/walter</ref>
+
+"Ruler of the Army" is possibly a reference to the "army of children" that made up the Wigtown Wanderers team.
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Wlater Parkin]]
+[[fr:Walter Parkin]]
+[[pl:Walter Parkin]]
+[[pt-br:Válter Parkin]]
+[[ru:Уолтер Паркин]]
+[[Category:Historical figures]]
+[[Category:Males|Parkin, Walter]]
+[[Category:Parents]]
+[[Category:Parkin family]]
+[[Category:Scottish individuals|Parkin, Walter]]
+[[Category:Wigtown Wanderers supporters|Parkin, Walter]]
+[[Category:Wizards|Parkin, Walter]]

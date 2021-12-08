@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = HP4GoF1759.jpg
+|name = Hogwarts student that bet on Fleur Delacour
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFF"/>
+|gender = Male<ref name="GOFF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Light<ref name="GOFF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOFF"/>
+}}
+{{Quote|Hello there, sir. 10:1 for [[Fleur Delacour|Fleur]]. There you go. Thank you very much.|[[Fred Weasley]] to this student|Harry Potter and the Goblet of Fire (film)}}
+This '''boy''' was a [[Wizardkind|wizard]] and student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="GOFF">{{GOF|F}}</ref>
+
+During the [[Triwizard Tournament]] Dragon Challenge he bet 10:1 for [[Fleur Delacour]] in [[Fred Weasley|Fred]] and [[George Weasley]]'s [[Fred and George Weasley's Bets shop|Bets shop]] to that she won her challenge.<ref name="GOFF"/>
+
+==Appearances==
+*{{GOF|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

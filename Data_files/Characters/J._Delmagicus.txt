@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = wizard
+|name = J. Delmagicus
+|image = 
+|born = 
+|died = 
+|blood = 
+|nationality = [[United States of America|American]]<ref name="FBF"/>
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="FBF"/>
+|gender = 
+|hair = 
+|skin = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Journalist for the [[New York Ghost]]<ref name="FBF"/>
+|house = 
+|loyalty = [[New York Ghost]]<ref name="FBF"/>
+}}
+'''J. Delmagicus''' was an [[United States of America|American]] [[Wizardkind|wizarding]] journalist who worked for the ''[[The New York Ghost]]'' in the [[1920s]].<ref name="FBF"/>
+
+==Written articles==
+===[[1926]] edition===
+*''OFFICIALS APOLOGIZE FOR SOUTHERN [[floo network|FLOO NETWORK]] CONGESTION''<ref name="FBF">{{FB|F}} {{See image|File:J. Delmagicus Southern Network Congestion.png}}</ref>
+
+==Appearances==
+*{{FB|F}} {{1st Mention}} {{c|Mentioned in newspaper}}
+
+==Notes and References==
+{{Reflist}}
+{{DEFAULTSORT:Delmagicus J.}}
+
+[[Category:American individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Journalists]]
+[[Category:Wizards]]
+[[fr:J. Delmagicus]]

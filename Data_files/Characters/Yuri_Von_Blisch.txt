@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Yuri Von Blisch
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Author
+|house=
+|loyalty=
+}}
+'''Yuri Von Blisch''' was a [[wizardkind|wizarding]] author. He wrote the book ''[[Spell Casting in the Age of Rappaport's Law]]'', which examined the impact of [[Rappaport's Law]] on the use of [[magic]] in the [[United States of America|United States]].<ref name="Case of Beasts">{{CB}}, page 28</ref><ref name="nerdist">"[http://nerdist.com/new-fantastic-beasts-exhibit-opens-at-warner-bros/ NEW FANTASTIC BEASTS EXHIBIT OPENS AT WARNER BROS]" from Nerdist {{See image|File:SpellcastingInTheAgeOfRappaportsLaw.jpg}}</ref>
+
+==Appearances==
+*{{FB|F}} {{C|Mentioned on a book cover}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Blisch, Yuri Von}}
+[[es:Yuri Von Blisch]]
+[[fr:Yuri Von Blisch]]
+[[pl:Yuri Von Blisch]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Wizards]]

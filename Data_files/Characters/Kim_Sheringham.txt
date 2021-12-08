@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = Screenshot 1287.png
+|name = Kim Sheringham
+|born = [[31 August]] [[1982]] or earlier<ref name="age">She was at least in her first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Female<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = Red<ref name="HBPG"/>
+|eyes = 
+|skin = Light<ref name="HBPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Ravenclaw]]<ref name="HBPG"/>
+}}
+'''Kim Sheringham''' was a [[Wizardkind|witch]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="HBPG"/> 
+
+==Biography==
+In [[1996]], she took [[Luna Lovegood's dress robes|a silver dress]] belonging to [[Luna Lovegood]], which she described as "''horrid''" and thought needed to be hidden "''somewhere dark.''" Luna wanted to wear this dress to [[Horace Slughorn|Professor Slughorn]]'s [[Slug Club Christmas party|Christmas party]]. However, although she said she thought it ought to be kept out of sight, Kim wore the dress herself in public, allowing [[Harry Potter]] to find her in the [[Clock Tower Courtyard]]. Harry had to give her a bottle of [[Butterbeer]] in order to get her to give the dress back.<ref name="HBPG">{{HBP|G}}</ref>
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console version}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Sheringham, Kim}}
+[[pl:Kim Sheringham]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Bullies]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

@@ -1,0 +1,29 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:Portrait of a dog.png|250px]]
+|name = Unidentified dog
+|born = Before [[1991]]
+|died = Before [[1991]] (possibly)
+|alias = 
+|title = 
+|species = [[Dog]]<ref name="LEGOY1"/>
+|gender = 
+|height = 
+|hair = Brown<ref name="LEGOY1"/>
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="LEGOY1"/>
+}}
+A '''[[portrait]] of a dog''' hung at the [[Grand Staircase]]. It is seen biting its bone. If [[Unidentified Gryffindor chaser (III)|a chaser]] throws a [[Quaffle]] into its portrait, it will be distracted by it, and throws the bone out of the portrait.<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+
+==Appearances==
+*{{LEGO|Y1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Portret psa]]
+[[Category:Individual dogs]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Paintings of creatures]]

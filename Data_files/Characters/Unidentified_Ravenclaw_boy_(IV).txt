@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = ravenclaw
+|image = Unidentified Ravenclaw boy at Christmas.png
+|name = Unidentified Ravenclaw boy
+|born = [[31 August]] [[1980]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSF"/>
+|gender = Male<ref name="PSF"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="PSF"/>
+|eyes = 
+|skin = Light<ref name="PSF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="PSF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSF"/>
+**[[Ravenclaw]]<ref name="PSF"/>
+}}
+This '''boy''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] and was sorted in [[Ravenclaw|Ravenclaw House]]. During the [[1991]] [[Christmas holidays]] at Hogwarts, he appeared to have left the school in order to go home for the holiday.<ref name="PSF">{{PS|F}} - Chapter 21 (''Christmas Gift'')</ref>
+
+==Behind the scenes==
+*He is played by [[Derek Hough]] in {{PS|FA}}, but is uncredited.
+
+==Appearances==
+*{{PS|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ravenclaw boy at hogwarts}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Ravenclaws]]
+[[Category:Wizards]]

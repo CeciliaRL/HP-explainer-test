@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = macusa
+|image = 
+|name = Charity Wilkinson
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[United States of America|American]]
+|alias = 
+|title = President
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Saranna Wilkinson]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Auror]] (formerly)
+*[[President of the Magical Congress of the United States of America]]<ref name="PottermoreHistory3"/>
+|house = 
+|loyalty = [[Magical Congress of the United States of America]]
+}}
+'''Charity Wilkinson''' (fl. c.[[1693]]) was an [[United States of America|American]] [[wizardkind|witch]] and one of the two survivors of the original twelve [[Auror]]s in the country. She was also the third [[President of the Magical Congress of the United States of America]].<ref name="PottermoreHistory3">{{WW|macusa}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Josiah Jackson]]
+|position=[[President of the Magical Congress of the United States of America|President of MACUSA]]
+|years=? – ?
+|successor=Unknown, eventually [[Thornton Harkaway]]
+}}
+{{End box}}
+{{MACUSA|P}}
+
+{{DEFAULTSORT:Wilkinson, Charity}}
+
+[[de:Charity Wilkinson]]
+[[es:Charity Wilkinson]]
+[[fr:Charity Wilkinson]]
+[[ja:チャリティ・ウィルキンソン]]
+[[pl:Charity Wilkinson]]
+[[ru:Чарити Уилкинсон]]
+[[de2:Charity Wilkinson]]
+[[Category:17th century births]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Original twelve MACUSA Aurors]]
+[[Category:Wilkinson family]]
+[[Category:Wizards]]

@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Indira Choudry.png]]
+|name = Indira Choudry
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[England|English]]
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Black
+|eyes = Brown
+|skin = Dark
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[English National Quidditch team]]
+|house = 
+|loyalty = [[English National Quidditch team]]
+}}
+'''Indira Choudry''' was an [[England|English]] [[Wizardkind|witch]] who played as a [[Beater]] for the [[English National Quidditch team]].
+
+During the [[1996–1997 school year]], Choudry's [[Chocolate Frog Card]] could be won by beating [[Gareth Pewsey]] in a [[Gobstones]] challenge.<ref>{{HBP|G}} {{c|NDS edition}}</ref>
+
+==Etymology==
+"Indira" means "beauty" and "splendid" in Sanskrit. This is another name of Lakshmi, the wife of the Hindu god Vishnu. A notable bearer was Indira's first female prime minister, Indira Gandhi (1917-1984).
+
+==Appearances==
+*{{QWC}}
+*{{HBP|G}} {{c|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Choudry, Indira}}
+
+[[es:Indira Choudry]]
+[[fr:Indira Choudry]]
+[[pl:Indira Choudry]]
+[[ru:Индира Чоудри]]
+[[Category:Beaters]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Wizards]]

@@ -1,0 +1,73 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=gryffindor
+|image=Cr girls.png
+|name=Unidentified Gryffindor girls
+|born=[[1979]]-[[1980]]
+|died=
+|blood=
+|marital=
+|nationality={{GBorIE}}
+|alias=
+|title=
+|signature=
+|species=[[Human]]s<ref name="POAG"/>
+|gender=Females<ref name="POAG"/>
+|height=
+|weight=
+|hair=Brown, Blonde<ref name="POAG"/>
+|eyes=
+|skin=Pale<ref name="POAG"/>
+|family=
+|romances=
+|animagus=
+|boggart=Either one of the following:
+*[[Rat]]
+*[[Rattlesnake]]
+*Blood Eyeball<ref name="POA7"/>
+|wand=
+|patronus=
+|job=
+|house=[[Gryffindor]]<ref name="POAG"/>
+|loyalty=*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAG"/>
+**[[Gryffindor]]<ref name="POAG"/>
+}}
+{{Dialogue a-b|Brown-haired girl|I think [[Quidditch]] is the greatest sport in the [[Wizarding world]]!|Blonde-haired girl|I don't like Quidditch, it's too fast paced for me.|The two girls conversing in the girls' dormitory|Harry Potter and the Prisoner of Azkaban (video game)}}
+These two '''girls''' were [[Wizardkind|witches]] and students at [[Hogwarts School of Witchcraft and Wizardry]]. They were both members of [[Gryffindor]] house.<ref name="POAG">{{POA|G}} - Console versions</ref>
+
+==Biography==
+===Early lives===
+These two girls started their [[first year]] of [[magic]]al education at Hogwarts in [[1991]], and were both [[Sorting ceremony|Sorted]] into [[Gryffindor]] house. They shared a [[Gryffindor Girls' Dormitory|dormitory]] with [[Hermione Granger]], [[Parvati Patil]] and [[Lavender Brown]], who were also Gryffindor girls in their year.<ref name="POAG"/>
+
+===Third year===
+{{Quote|I can't believe they've brought Dementors in to guard Hogwarts. I'm never going near the forest again, I'll tell you that!|The brown-haired girl to [[Hermione Granger]] regarding the [[Dementor]]s placed around the school|Harry Potter and the Prisoner of Azkaban (video game)}}
+Throughout the [[1993–1994 school year]] at Hogwarts, their [[third year]], these two girls often hung around in the [[Gryffindor Girls' Dormitory]] in [[Gryffindor Tower]], and talked amongst each other.<ref name="POAG"/>
+
+{{Quote|I'm so excited about [[Care of Magical Creatures]]. Ugh, I only wish [[Vincent Crabbe|Crabbe]] and [[Gregory Goyle|Goyle]] weren't going to be there.|The blonde-haired girl to the dark-haired girl in the dormitory|Harry Potter and the Prisoner of Azkaban (video game)}}
+This year at Hogwarts, the time Dementors were standing guard at every entrance. Neither one of these girls liked the Dementors. After the brown haired-girl heard that she was doing the same subjects as [[Draco Malfoy]], she was highly displeased, and wished she did not have any classes with him. Her friend felt the same about having [[Care of Magical Creatures]] with [[Gregory Goyle]] and [[Vincent Crabbe]].<ref name="POAG"/>
+
+{{Quote|Hello Hermione! I'm going to try out for the Quidditch team next term!|The brown-haired girl speaking to [[Hermione Granger]] in the girls' dormitory|Harry Potter and the Prisoner of Azkaban (video game)}}
+The brown-haired planned on trying out for the [[Gryffindor Quidditch team]]. As she had a [[Beater's bat]] by her bed, she presumably liked playing [[Beater]], but the team already had two; [[Fred Weasley|Fred]] and [[George Weasley]]. However, it is possible that she hoped she could replace one of them, or was simply confused.<ref name="POAG"/>
+
+The two girls, as well as Parvati and Lavender, were up and ready for their first day before Hermione was, though Parvati and Lavender had already left. While Hermione rushed to her class, the two friends remained in the dormitory, talking for a while.<ref name="POAG"/> In the lesson, they were taught about [[Boggart]]s by [[Remus Lupin]], the new teacher as of [[Gilderoy Lockhart|Professor Lockhart]]'s departure, and had a practical lesson on how to [[Boggart-Banishing Spell|banish]] them. The girls faced the [[Boggart in the Wardrobe|Boggart]], and it turned into either a [[rat]], [[rattlesnake]] or bloody eyeball for them.<ref name="POA7">{{POA|B|7}}</ref>
+
+After [[Sirius Black]] broke onto [[Gryffindor Tower]], the girls slept with the rest of the school in the [[Great Hall]] in squashy purple sleeping bags that [[Albus Dumbledore|Professor Dumbledore]] [[Sleeping bag conjuring spell|conjured]]. However, she returned to her normal bed the day after, and spent most of her time talking with her friend in their dormitory.<ref name="POAG"/>
+
+==Personality and traits==
+{{Quote|I'm really looking forward to the summer holidays!|The Gryffindor girl speaking with Hermione.|Harry Potter and the Prisoner of Azkaban (video game)}}
+The brown-haired girl was more outgoing than her blonde-haired friend, openly shouting "''go away!''" one morning when Hermione rushed passed her, while her friend just exclaimed "''hey!''". She was the only girl in her dormitory who liked [[Quidditch]], and was unashamed at saying that [[Cedric Diggory]] was the most handsome boy in the school. She was also rather lazy at times, staying in the dormitory while everyone else ran off for [[Defence Against the Dark Arts]].<ref name="POAG"/>
+
+==Behind the scenes==
+*The identities of these girls are unspecified in the [[Harry Potter and the Prisoner of Azkaban (video game)|third video game]]. It is also possible that they are the two unidentified Gryffindor girls who appear in {{POA|FA}}.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors Sorted in 1991]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

@@ -1,0 +1,55 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = Forest Troll at the Forest Lake.jpg
+|name = Forest Troll at the Forest Lake
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Forest Troll]]<ref name="TTH">{{HM|4|TORVUS AND THE TROUBLED FOREST}}</ref>
+|gender = Male {{C|possibly}}<ref name="gender">Charlie calls it "Mr Troll", which might mean it is male.</ref>
+|height = 
+|weight = 
+|hair = Green<ref name="TTH"/>
+|eyes = Green<ref name="TTH"/>
+|skin = Green<ref name="TTH"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Forbidden Forest]]<ref name="TTH"/>
+}}
+This '''[[Forest Troll]]''' resided in the [[Forbidden Forest]] in the [[1980s]].<ref name="TTH"/>
+
+==Biography==
+During the [[1987–1988 school year]], this [[Forest Troll]] commonly picked the [[Bubotuber]]s, which grew in a clearing in the [[Forest Grove]], which it used as a food source. However, during the school year those were trampled by [[Sleepwalking curse|sleepwalking]] students affected by the curse of the [[Forest Vault]]. Therefore the troll began foraging for them near [[Forest Lake]]. It aggressively drove off anyone attempting to come near it when doing so, which caused a problem for the [[Forbidden Forest Centaur colony]], who relied the lake as their main source of water.<ref name="TTH"/>
+
+Near the end of the school year, the centaur [[Torvus]] tasked [[Jacob's sibling]] with dealing with the situation. Torvus was angry about how the curse, and the way the student had deal with it, had thrown off the balance of the forest. Therefore Torvus wanted Jacob's sibling to demonstrate that they could deal with the situation without making it worse, before trusting them again.<ref name="TTH"/>
+
+Jacob's sibling and [[Charles Weasley|Charlie Weasley]] went to the lake and saw the Troll. Though their first instinct was to [[Duelling|duel]] with it, fearing for their safety, they remembered what Torvus had said and attempted to communicate with it instead. It gestured with the Bubotuber in its hand, which they deduced meant that it didn't have enough.<ref name="TTH"/>
+
+They investigated the clearing and discovered the damage. Deciding to attempt to plant more, they consulted with [[Pomona Sprout|Professor Sprout]] in the [[Herbology Classroom]] about growing Bubotubers. They also met with [[Liz Tuttle]] in the greenhouse. After learning that it would take several weeks for the plants to grow naturally, they also consulted with [[Filius Flitwick|Professor Flitwick]] about using the [[Herbivicus Charm]] to speed up the process.<ref name="TTH"/>
+
+The three students returned to the clearing and used various pieces of the former supply of Bubotubers to plant a new field of them, using the charm and a supply of [[dragon dung fertiliser]] to quickly establish a new crop. They returned to the lake, just in time, as it was just about to fight with a Centaur, who was angry about the threat it posed to the colony. They lured it away with the Bubotubers that they had planted.<ref name="TTH"/>
+
+==Appearances==
+{{Imagecat|Images of the Forest Troll at the Forest Lake}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Forbidden Forest]]
+[[Category:Green-eyed individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Trolls]]
+[[Category:Unidentified individuals]]

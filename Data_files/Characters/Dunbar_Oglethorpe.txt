@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Dunbar Oglethorpe.jpg|250px]]
+|name = Dunbar Oglethorpe
+|born = [[1968]]<ref name="COSG">{{COS|G}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown<ref name="COSG">{{COS|G}}</ref>
+|eyes = Blue<ref name="COSG">{{COS|G}}</ref>
+|skin = White<ref name="COSG">{{COS|G}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Chief of [[Quidditch Union for the Administration and Betterment of the British League and its Endeavours|Q.U.A.B.B.L.E.]]
+|house = 
+|loyalty = [[Quidditch Union for the Administration and Betterment of the British League and its Endeavours|Q.U.A.B.B.L.E.]]
+}}
+'''Dunbar Oglethorpe''' (b. [[1968]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] who served as the Chief of the [[Quidditch Union for the Administration and Betterment of the British League and its Endeavours]]. For this, he was featured on a [[Chocolate Frog Card]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Dunbar Oglethorpe}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Oglethorpe, Dunbar}}
+
+{{Chocolate Frog Cards}}
+[[de:Dunbar Oglethorpe]]
+[[fi:Dunbar Oglethorpe]]
+[[es:Dunbar Oglethorpe]]
+[[fr:Dunbar Oglethorpe]]
+[[it:Dunbar Oglethorpe]]
+[[pl:Dunbar Oglethorpe]]
+[[Category:1968 births]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizards]]

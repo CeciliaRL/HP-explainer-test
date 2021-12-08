@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Grubby-looking wizard
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Three Broomsticks Inn]]
+}}
+{{Dialogue a-b|Madam Rosmerta|— and stay out! Oh, hello, Albus… you're out late|Albus Dumbledore|Good evening, Rosmerta, good evening… forgive me, I'm off to the [[Hog's Head Inn|Hogs’s Head]]… no offence, but I feel like a quieter atmosphere tonight…|[[Rosmerta|Madam Rosmerta]] forcibly ejects this wizard from the [[Three Broomsticks Inn]].|Harry Potter and the Half-Blood Prince}}
+This '''grubby-looking wizard''' (fl. [[1997]]) used to be a customer at the [[Three Broomsticks Inn]] until the evening of [[30 June]], [[1997]], when he was forcibly ejected from the Inn by [[Rosmerta|Madam Rosmerta]] for undisclosed reasons.<ref name="HBP25">{{HBP|B|25}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

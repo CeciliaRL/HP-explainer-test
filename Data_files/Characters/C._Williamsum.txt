@@ -1,0 +1,31 @@
+{{Transcribed image|File:NewYorkGhost-6December1926.jpg}}
+{{Individual infobox
+|name = C. Williamsum
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|job = Reporter for ''[[The New York Ghost]]''
+|loyalty = [[The New York Ghost]]
+|theme = wizard
+|hideb = 
+|hidep = 
+|hidef = 
+|hidem = y
+|hidea = 
+}}
+'''C. Williamsum''' was an [[United States of America|American]] [[Wizardkind|wizard or witch]] and reporter for ''[[The New York Ghost]]'' in the [[1920s]].<ref name="nyghost-dec6">{{WWMM|1}} {{see image|File:NewYorkGhost-6December1926.jpg}}</ref><ref name="nyghost-dec7">{{CB}} {{see image|File:The New York Ghost - 7 Dec 1926.png}}</ref>
+
+==Biography==
+Williamsum wrote an article about a "sinister" [[aura]] puzzling the [[wizardkind|wizarding]] community that was published in the [[6 December]] [[1926]] sunset issue of the paper.<ref name="nyghost-dec6" /> In the [[7 December]] sunset edition, they co-wrote a report with [[M. Carneirus (American)|M. Carneirus]] and [[R. Amorim (American)|R. Amorim]] about top [[Auror]]s being called to [[New York City Hall]] to investigate the death of [[Henry Shaw Junior]], which was published on the front page.<ref name="nyghost-dec7" />
+
+==Appearances==
+*{{FB|F}} {{comment|Name mentioned in newspaper}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Williamsum, C.}}
+[[fr:C. Williamsum]]
+[[Category:American individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Journalists]]
+[[Category:The New York Ghost staff]]
+[[Category:Wizards]]

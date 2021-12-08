@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Chris Lunney
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Photographer for the ''[[Daily Express]]''
+|house = 
+|loyalty = 
+}}
+'''Chris Lunney''' was a [[Non-magic people|Muggle]] photographer who worked for the ''[[Daily Express]]''. Two of his photos were featured on the front page of an issue of the paper in the summer of [[1995]]: the first was of heat-exhausted spectators at a [[Royal Air Force]] show being tended by a nurse, in an article about an unprecedented heat wave that was then affecting [[Great Britain]] titled "Killer Heat," and the second was of a soap star with her hand raised to shield her face from the camera.<ref name="HPLE">{{HPLE|G}} (see [[:File:DailyExpress.png|this image]])</ref>
+
+==Behind the scenes==
+*This character was presumably named after Chris Lunney, who worked as an archivist on the film adaptations of [[Harry Potter and the Prisoner of Azkaban (film)|''Prisoner of Azkaban'']], [[Harry Potter and the Goblet of Fire|''Goblet of Fire'']], and [[Harry Potter and the Order of the Phoenix|''Order of the Phoenix'']].<ref>"[http://www.imdb.com/name/nm1647244/ Chris Lunney]" on IMDb</ref>
+
+==Appearances==
+*{{OOTP|F}} {{comment|Mentioned in newspaper}}
+*{{HPLE}} {{comment|Mentioned in newspaper}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Lunney, Chris}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Photographers]]

@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Squibbert
+|born = [[1976]] or earlier<ref name="birth">The author who wrote about Squibbert was already published by 1992, making them at least 17 by that time. This means the latest year the author could be born was in 1975, and the latest year they could've been in their second year at Hogwarts was in 1987. If Squibbert was as young as a student could be at that time, (11), that makes the latest possible year of birth 1976.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Female<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSG"/>
+}}
+{{Quote|I can remember a certain incident that occurred in my second year, involving a rather large [[Slytherin]] boy and a [[Teapot to ferret spell|transfigured teapot]]. A girl called Squibbert had [[Transformation|transformed]] the teapot, rather unsuccessfully, I might add, into a spout-nosed [[ferret]]. The Slytherin boy decided that he would catch the transfigured teapot and proceeded to swipe at it with a [[butterfly]] net.|A [[Hogwarts Library]] book mentioning this individual|Harry Potter and the Chamber of Secrets (video game)}}
+'''Squibbert''' (b. [[1976]] or earlier)<ref name="birth" /> was a [[Wizardkind|witch]] and student at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="COSG"/>
+
+==Biography==
+Sometime throughout her education, she [[teapot to ferret spell|changed a teapot into a ferret]], albeit poorly, as its nose remained being a spout. A "rather large" [[Slytherin]] boy then chased after it with a [[butterfly]] net. A [[second year]] student witnessed this incident, and eventually wrote about it in a book after becoming an author. A copy of this book eventually found its way into the [[Hogwarts Library]] by the [[1992-1993 school year]].<ref name="COSG">{{COS|G}}</ref>
+
+==Appearances==
+*{{COS|G}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[ru:Сквибберт]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

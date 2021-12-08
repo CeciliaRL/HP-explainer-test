@@ -1,0 +1,40 @@
+{{Transcribed image|File:Marauder's_Map_POA_ILL.png}}
+{{Individual infobox
+|theme = individual
+|image = Evaan Mathew.png
+|name = Evaan Mathew
+|born = Before [[1993]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Evaan Mathew''' was an individual seen inside the [[Hogwarts Library|library]] with [[Jo Wono]] on the [[Marauder's Map]] in the [[1993-1994 school year]].<ref>*{{POA|B|10}} {{comment|Illustrated Edition}}</ref>
+
+==Appearances==
+*{{POA}} {{comment|Illustrated Edition}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Mathew, Evaan}}
+
+[[Category:Individuals of unknown or undetermined gender]]

@@ -1,0 +1,29 @@
+{{Real world subject}}
+{{Individual infobox
+|name = Roddy Doyle
+|born = [[8 May]], [[1958]]<br />
+Dublin, [[Ireland]]
+|blood = [[Non-magic people|Muggle]]
+|nationality = [[Ireland|Irish]]
+|species = [[Human]]
+|gender = Male
+|job = Author
+|theme = muggle
+}}
+'''Roddy Doyle''' (b. [[8 May]], [[1958]]) was an [[Ireland|Irish]] [[Non-magic people|Muggle]] author who wrote ''[[The Commitments]]'' and ''[[The Van]]''.<ref name="wiki"/>
+
+==Behind the scenes==
+*Roddy Doyle is an Irish novelist, dramatist, and screenwriter.<ref name="wiki">[[Wikipedia:Roddy Doyle|Roddy Doyle]] at [[Wikipedia:Main Page|Wikipedia]]</ref> [[J. K. Rowling]] has stated that Doyle's ''The Woman Who Walked Into Doors'' is her favourite novel, and that she would like to meet Doyle in person some day.<ref>[http://www.accio-quote.org/articles/2001/0101-oprah.html "J.K. Rowling's Books That Made a Difference." O, The Oprah Magazine January 2001.]</ref>
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Doyle, Roddy}}
+[[es:Roddy Doyle]]
+[[Category:1958 births]]
+[[Category:Authors]]
+[[Category:Irish individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

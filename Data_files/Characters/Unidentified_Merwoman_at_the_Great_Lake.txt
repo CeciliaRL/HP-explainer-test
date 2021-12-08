@@ -1,0 +1,46 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = HM638UnidentifiedMerwoman.jpg
+|name = Unidentified Merwoman at the Great Lake
+|born = Before [[1990]]<ref name="HM637">{{HM|6|37}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Merpeople|Merperson]]<ref name="HM637"/>
+|gender = Female<ref name="HM637"/>
+|height = 
+|weight = 
+|hair = Yellow<ref name="HM637"/>
+|eyes = Red<ref name="HM637"/>
+|skin = Grey<ref name="HM637"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Great Lake Merpeople colony]]<ref name="HM637"/>
+}}
+This '''merwoman''' was an individual [[Merpeople|Merperson]] that lived in the [[Great Lake Merpeople colony]].<ref name="HM637"/>
+
+==Biography==
+The merwoman [[Skirmish in the Great Lake|fought]] [[Jacob's sibling]] when they entered the [[Great Lake|Black Lake]] for the first time.<ref name="HM637"/> When the [[Weird Sisters]] were holding a [[Weird Sisters concert at the Great Lake|concert]] near the Lake, she surfaced and listened in joy. When Jacob's sibling entered the Lake for a second time, she led them into the [[Merpeople village]] and introduced them to the [[Merqueen]].<ref name="HM638">{{HM|6|38}}</ref>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+[[Category:Females]]
+[[Category:Merpeople]]
+[[Category:Red-eyed individuals]]
+[[Category:Unidentified individuals]]

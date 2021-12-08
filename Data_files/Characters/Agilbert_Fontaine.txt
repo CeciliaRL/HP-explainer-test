@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme=ilvermorny
+|name = Agilbert Fontaine
+|image = 
+|born = 
+|died = 
+|blood = 
+|alias=
+|title=*[[Headmaster]]<ref name="WW"/>
+*[[Professor]]<ref name="WW"/>
+|marital = 
+|nationality = [[United States of America|American]]<ref name="WW"/>
+|species=[[Human]]<ref name="WW"/>
+|gender=Male<ref name="WW"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Theodard Fontaine]] (ancestor)<ref name="WW"/>
+*[[Fontaine family]]
+|hidem=
+|animagus=
+|boggart=
+|patronus=
+|wand=  
+|hidea=
+|job=[[Headmaster]] of [[Ilvermorny School of Witchcraft and Wizardry]]<ref name="WW"/>
+|house=
+|loyalty=*[[Fontaine family]]
+*[[Ilvermorny School of Witchcraft and Wizardry]]<ref name="WW"/>
+}}'''[[Professor]]''' '''Agilbert Fontaine''' was an [[United States of America|American]] [[wizardkind|wizard]] and the [[Headmaster]] of [[Ilvermorny School of Witchcraft and Wizardry]] in [[2016]]. He was a direct descendant of the [[Auror]] [[Theodard Fontaine]].<ref name="WW">{{WW|macusa}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ilvermorny}}
+{{DEFAULTSORT:Fontaine, Agilbert}}
+[[de:Agilbert Fontaine]]
+[[fr:Agilbert Fontaine]]
+[[pl:Agilbert Fontaine]]
+[[ru:Агильберт Фонтейн]]
+[[de2:Agilbert Fontaine]]
+[[Category:American individuals]]
+[[Category:Fontaine family]]
+[[Category:Ilvermorny Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Wizards]]

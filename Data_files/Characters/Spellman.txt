@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Spellman
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Author
+|house=
+|loyalty=
+}}'''Spellman''' was a [[Wizardkind|wizard or witch]] who presumably wrote the first edition of ''[[Spellman's Syllabary]]''. The edition owned by [[Hermione Granger]] was written by [[Rosana Amorim]].<ref name="author">"[http://www.mugglenet.com/2016/01/harry-potter-celebration-day-one-recap/ A Celebration of Harry Potter Day 1 Highlights!]" from [[MuggleNet]] {{see image|File:SpellmansSyllabary.jpg}}</ref>
+
+==Etymology==
+"''Spellman''" is English name derived of "''Speller''". "''Speller''" : 1. a person who spells words in the manner specified & 2. (Social Science / Education) a book designed to teach or improve spelling. The name has a sort of double meaning. Spell is the name of a general magical action, so it could, additionally, mean: a person who practises spells.
+
+==Behind the scenes==
+*It is possible that Spellman is just a pen name of Rosana Amorin.
+*It is possible that Spellman is based on Sabrina Spellman. J.K. Rowling may have added her in just like she did with other magical characters, such as Merlin.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{HBP}} {{Mention}}
+*{{DH}} {{Mention}}
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Runes}}
+
+[[pl:Spellman]]
+[[Category:Authors]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

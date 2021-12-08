@@ -1,0 +1,45 @@
+{{SODSpoiler}}
+{{Unreleased}}
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Workman
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Workman
+|house = 
+|loyalty = 
+}}
+This '''workman''' was an individual that worked in the [[1930s]].<ref name="IMDb">[https://www.imdb.com/name/nm6251140/ Wilf Scolding IMDb]</ref><ref>[https://www.fantasticbeastsmovies.com/movies/fantastic-beasts-3/movie-3-what-we-know/ MOVIE 3 – WHAT WE KNOW]</ref>
+
+==Behind the scenes==
+*This individual is portrayed by [[Wilf Scolding]] in {{SOD}}.
+
+==Appearances==
+*{{SOD}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]

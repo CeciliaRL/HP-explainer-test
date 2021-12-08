@@ -1,0 +1,35 @@
+{{Individual infobox
+|image = Executioner witch.jpg
+|name = Unidentified executioner
+|born = [[United States of America]]
+|nationality = [[United States of America|American]]<ref name="FBS"/>
+|species = [[Human]]<ref name="FBS"/>
+|gender = Female<ref name="FBS"/>
+|hair = Blonde<ref name="FBF">{{FB|F}}</ref>
+|skin = Light<ref name="FBF"/>
+|wand = Unknown length, wood and core<ref name="FBS"/>
+|job = [[Executioner]] for the [[Magical Congress of the United States of America]]<ref name="FBS"/>
+|loyalty = [[Magical Congress of the United States of America]]<ref name="FBS"/>
+|theme = macusa
+}}This '''individual''' was an [[United States of America|American]] [[Wizardkind|witch]] who worked as an [[Executioner]] for [[Magical Congress of the United States of America|Magical Congress]] in [[1926]].<ref name="FBS"/>
+
+==Biography==
+Along with [[Bernadette]] and [[Unidentified executioner (II)|another wizard]] assisted in the execution of [[Newton Scamander]] and [[Porpentina Goldstein]] after being sentenced to [[Death]] by [[Gellert Grindelwald]] disguised as [[Percival Graves]] for violating the [[International Statute of Wizarding Secrecy]]. The execution was stopped when Newt and Tina were rescued by a [[Swooping Evil]].<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+*This Executioner was portrayed by [[Elizabeth Moynihan]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+[[es:Ejecutora no identificada]]
+[[Category:American individuals]]
+[[Category:Executioners]]
+[[Category:Females]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

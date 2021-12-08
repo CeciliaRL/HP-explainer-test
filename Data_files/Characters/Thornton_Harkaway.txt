@@ -1,0 +1,48 @@
+{{Individual infobox
+|name = Thornton Harkaway
+|born = Pre [[1760]]<ref name=PM>{{WW|macusa}}</ref>
+|nationality = [[United States of America|American]]
+|title = President
+|species = [[Human]]
+|gender = Male
+|job = [[President of the Magical Congress of the United States of America]]
+|loyalty = [[Magical Congress of the United States of America]]
+|theme = macusa
+
+}}'''Thornton Harkaway''' was an [[United States of America|American]] [[wizardkind|wizard]] and the [[President of the Magical Congress of the United States of America]].<ref name="PM"/>
+
+==Biography==
+He opted to have the headquarters for the [[Magical Congress of the United States of America]] moved to his hometown of [[Williamsburg]], [[Virginia]] in [[1760]]. He was described as flamboyant. He bred [[Crup]]s and unfortunately his pack savagely attacked several [[Muggle|No-Majs]], who afterwards were only able to bark for a period of 48 hours. This breach of the [[International Statute of Wizarding Secrecy|Statute of Secrecy]] led to him leaving office in disgrace.<ref name="PM"/>
+
+It may not be a coincidence that [[Public Hospital for Persons of Insane and Disordered Minds|the first dedicated psychiatric hospital]] was established in Williamsburg as odd sightings the Harkaway residence might account for many No-Majs who were admitted, but who were actually sane.<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Charity Wilkinson]]
+|position=[[President of the Magical Congress of the United States of America|President of MACUSA]]
+|years=c. [[1760]]
+|successor=Unknown, eventually [[Able Fleming]]
+}}
+{{End box}}
+{{MACUSA|P}}
+
+{{DEFAULTSORT:Harkaway, Thornton}}
+[[de:Thornton Harkaway]]
+[[de2:Thornton Harkaway]]
+[[es:Thornton Harkaway]]
+[[fr:Thornton Harkaway]]
+[[ja:ソーントン・ハーカウェイ]]
+[[pl:Thornton Harkaway]]
+[[ru:Торнтон Харкауэй]]
+[[Category:18th century births]]
+[[Category:American individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Presidents of the Magical Congress of the United States of America]]
+[[Category:Wizards]]

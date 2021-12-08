@@ -1,0 +1,68 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:1st Headmaster.jpg|250px]]
+|name = First Headmaster of Hogwarts
+|born = 
+|died = c. [[11th century]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = *[[Professor]]
+*[[Headmaster]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Headmaster of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]]
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|One statue is of Hogwarts' first headmaster: the founders were professors, none was ever a headmaster...|Description|The Wizarding World of Harry Potter}}
+
+This '''individual''' (fl. ''circa'' [[11th century]]) was the first [[Headmaster|Head]] of [[Hogwarts School of Witchcraft and Wizardry]], as none of the [[Hogwarts founders|Founders]] ever held that title.<ref name="LTC">[http://www.the-leaky-cauldron.org/2010/3/25/wizarding-world-of-harry-potter-to-open-june-18-details-about-hogwarts-emerge Wizarding World of Harry Potter Grand Opening June 18: Details About Hogwarts Emerge] at [http://www.the-leaky-cauldron.org/ The Leaky Cauldron]</ref> It is unknown how he came about to be Headmaster, but a statue of him was kept inside the [[Hogwarts Castle|castle]] in his memory.<ref name="LTC" />
+
+==Biography==
+[[File:Studying.png|100px|thumb|left|Some [[Unidentified studying girls|girls]] by his statue]]
+During the [[1992–1993 school year]], a [[Unidentified studying girls|group of girls]] were seen studying and reading books by his statue, before [[Nicholas de Mimsy-Porpington]] passed and they looked up.
+
+In [[1998]], his statue replaced by the one of the [[Architect of Hogwarts]] at the [[Entrance Hall]]. It is presumed the statue was destroyed in the [[Battle of Hogwarts]], as the ceiling above it came to collapse and, later on in the battle, all that was in the spot was a pile of rubble.<ref name="DHpt2vg">{{DH|G2}}</ref> For unknown reasons, a statue of him was stored in the [[Room of Requirement|Room of Hidden Things]].<ref name="DHpt2">{{DH|F2}}</ref>
+
+==Appearances==
+*{{COS|F}} {{Statue}}
+*{{DH|F2}} {{Statue}}
+*{{DH|G2}} {{Statue}}
+*{{WWHP}} {{Statue}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=None
+|position=[[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=[[11th century]]
+|successor=Unknown, eventually [[Phyllida Spore]]
+}}
+{{End box}}
+{{Hogwarts ground floor}}
+[[pl:Pierwszy dyrektor Hogwartu]]
+[[ru:Первый директор Хогвартса]]
+[[Category:British individuals|Headmaster of Hogwarts]]
+[[Category:Deceased individuals|Headmaster of Hogwarts]]
+[[Category:Historical figures|Headmaster of Hogwarts]]
+[[Category:Hogwarts Headmasters and Headmistresses|Headmaster of Hogwarts]]
+[[Category:Males|Headmaster of Hogwarts]]
+[[Category:Statues|Headmaster of Hogwarts]]
+[[Category:Wizards|Headmaster of Hogwarts]]

@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = daily-prophet
+|image = 
+|name = Mr Limunus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Horoscope]] writer for the ''[[Daily Prophet]]''
+|house = 
+|loyalty = ''[[Daily Prophet]]''
+}}
+'''Mr Limunus''' was a [[wizardkind|wizarding]] [[astrology|astrologer]]. He was writing the [[horoscope]] column for ''[[Daily Prophet|The Daily Prophet]]'' by [[1997]].<ref>{{DH|F1}} {{see image|File:DailyProphetHoroscopes.jpg}}</ref>
+
+==Behind the scenes==
+*This character was named after [[Eduardo Lima]], a graphic artist who has worked on every [[Harry Potter films|''Harry Potter'' film]] from ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'' onward.
+
+==Appearances==
+*{{DH|F1}} {{comment|Mentioned in newspaper}}
+
+==Notes and references==
+{{Reflist}}
+{{Daily Prophet employees}}
+
+[[pl:Limunus]]
+[[Category:Astrologers]]
+[[Category:British individuals]]
+[[Category:Daily Prophet staff]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Wizards]]

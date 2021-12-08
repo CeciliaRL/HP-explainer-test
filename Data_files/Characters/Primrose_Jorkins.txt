@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Primrose Jorkins
+|born = before [[1981]]<ref name="age">As she had at least one pregnancy before Griselda, she was presumably over 17.</ref>
+|died = 
+|blood = 
+|marital = Married<ref name="DP"/>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Female<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Albert Jorkins]] (husband)<ref name="DP"/>
+*[[Grimwold Jorkins]] (son)<ref name="DP"/>
+*[[Granville Jorkins]] (son)<ref name="DP"/>
+*[[Griselda Jorkins]] (daughter)<ref name="DP"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Jorkins family]]<ref name="DP"/>
+}}
+'''Primrose Jorkins''' was the wife of [[Albert Jorkins]], and the mother of [[Grimwold Jorkins|Grimwold]], [[Granville Jorkins|Granville]], and [[Griselda Jorkins|Griselda Harmonia]]. Along with her husband, she announced the birth of her youngest daughter, Griselda, in the ''[[Daily Prophet]]''.<ref name="DP">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[8 February]], [[1999]], Page 2</ref>
+
+==Etymology==
+The name "Primrose" is from the English word for the flower, ultimately deriving from Latin ''prima rosa'' "first rose".
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Jorkins, Primrose}}
+
+[[pl:Primrose Jorkins]]
+[[es:Primrose Jorkins]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Jorkins family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Wizards]]

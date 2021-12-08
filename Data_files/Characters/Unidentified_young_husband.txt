@@ -1,0 +1,33 @@
+{{Individual infobox
+|image = Young Husband.jpg
+|name = Unidentified husband
+|blood = [[Non-magic people|No-Maj]]
+|marital = Married
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|family = *[[Unidentified young wife|Wife]]
+*[[Unidentified daughter|Daughter]]
+*[[Unidentified son|Son]]
+*[[Unidentified grandfather|father]]
+*[[Unidentified grandmother|mother-in-law]]
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidea = 
+}}This '''individual''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who was in his apartment with his family where his [[Unidentified young wife|wife]] drank her glass of [[water]] as their memories where being wiped from a [[Obscurial attack on New York|recent magical catastrophe]] in [[1926]].<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+The Young Husband was portrayed by [[Joshua Diffley]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|F}}
+*{{FB|S}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Unidentified Muggles]]

@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Julius Dehoffe
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author
+|house = 
+|loyalty = 
+}}
+'''Julius Dehoffe''' was a [[Wizardkind|wizard]] and the author of ''[[Flying with the Cannons]]'', a book about the history of the [[Chudley Cannons]] [[Quidditch]] [[Quidditch team|team]].<ref>"[http://www.radiotimes.com/news/2013-06-20/from-quidditch-flyers-to-bellatrixs-wanted-poster---see-artwork-from-the-harry-potter-films From Quidditch flyers to Bellatrix's wanted poster - see artwork from the Harry Potter films]" from the Radio Times {{see image|File:FlyingWithTheCannons.png}}</ref>
+
+==Behind the scenes==
+*This character was named after [[Julia Dehoff (real-world)|Julia Dehoff]], who worked as a draughtsman on several [[Harry Potter films|''Harry Potter'' films]].<ref>"[http://www.imdb.com/name/nm0215005/ Julia Dehoff]" on IMDb</ref>
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{Comment|Name seen on book cover}}
+*{{HPE}} {{Comment|Name seen on book cover}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Dehoffe, Julius}}
+[[fr:Julius Dehoffe]]
+[[es:Julius Dehoffe]]
+[[pl:Julius Dehoffe]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

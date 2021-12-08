@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Eldon Pembroke
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the [[1993-1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Hufflepuff]]
+}}
+{{Dialogue a-b-a|Eldon Pembroke|A spot of [[Exploding Snap]], [[Harry Potter|Harry]]?|Harry Potter|Actually, I'm a little busy right now.|Not to worry, [[Harry Potter|Harry]]. Come back and see me anytime.|[[Harry Potter]] talk with Eldon Pembroke in the [[Charms Classroom]]|Harry Potter and the Half-Blood Prince (video game)}}
+'''Eldon Pembroke''' was a [[Hufflepuff]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. During the [[1996-1997 school year]], he could usually be found in the [[Charms Classroom]], and enjoyed playing [[Exploding Snap]] with other students.
+
+==Etymology==
+The name "Eldon" comes from a surname which was from a place name meaning "Ella's hill" in Old English.
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Pembroke, Eldon}}
+[[pl:Eldon Pembroke]]
+[[fr:Eldon Pembroke]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Exploding Snap players]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

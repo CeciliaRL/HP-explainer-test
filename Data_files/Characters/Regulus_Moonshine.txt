@@ -1,0 +1,59 @@
+{{Youmay|the potioneer|[[Regulus Black]], the former [[Death Eaters|Death Eater]]''}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Regulus Moonshine
+|born = Prior to [[1982]]<ref name="age">As Moonshine has a career and was called "Professor", he is clearly over-age and due to his title it can be assumed that he is older than seventeen.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Professor]]<ref name="DP"/>
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Potioneer]]<ref name="DP"/>
+*Inventor<ref name="DP"/>
+|house = 
+|loyalty = 
+}}
+'''Professor Regulus Moonshine''' was a [[Wizardkind|wizard]] who developed a [[Regulus Moonshine's potion|potion]] to suppress [[hag]]s' normal appetite for [[human]] [[flesh]]. He lost several chunks of own body while conducting the clinical trials.<ref name="DP">{{DP}} [[1 October]], [[1999]], Page 1</ref>
+
+An article in the ''[[Daily Prophet]]'' called him "Professor",<ref name="DP"/> but it is not known if he ever taught at a [[wizarding school]], like [[Hogwarts School of Witchcraft and Wizardry]].
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': Moonshine was evidently a talented [[potioneer]], given how he successfully developed a [[Regulus Moonshine's potion|potion]] to suppress the [[human]] [[flesh]]-eating tendencies of [[hag]]s.<ref name="DP"/>
+
+==Etymology==
+The name "Regulus" is a Roman cognomen which meant "rule" in Latin. This was the name of several early saints. Moonshine, also known as white lightning, mountain dew, hooch or Tennessee white whiskey, is a high-proof distilled spirit, generally produced illicitly.
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Moonshine, Regulus}}
+{{Potions}}
+[[de:Regulus Moonshine]]
+[[es:Regulus Moonshine]] 
+[[ru:Регулус Муншайн]]
+[[pl:Regulus Moonshine]]
+[[Category:Amputees]]
+[[Category:British individuals]]
+[[Category:Inventors]]
+[[Category:Males]]
+[[Category:Potioneers]]
+[[Category:Professors]]
+[[Category:Wizards]]

@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Bonawentura Wójcik
+|born = before [[1997]], [[Poland]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Seeker]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] for the [[Polish National Quidditch team]]
+|house = 
+|loyalty = [[Polish National Quidditch team]]
+}}
+'''Bonawentura Wójcik''' is a [[Poland|Polish]] [[wizardkind|wizard]] and a professional [[Seeker]] for the [[Polish National Quidditch team]].<ref name="PM">{{PM}} - [[Quidditch World Cup 1990 - 2014]] (Archived)</ref>
+
+==Biography==
+In anticipation for the [[2014 Quidditch World Cup]], accusations emerged that Wójcik was actually the famous Italian [[Seeker]] [[Luciano Volpi]] Transfigured. This was only disproven when both attended a press conference together.<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Wójcik, Bonawentura}}
+[[pl:Bonawentura Wójcik]]
+[[ru:Бонавентура Войчик]]
+[[fr:Bonawentura Wójcik]]
+[[Category:Males]]
+[[Category:Polish individuals]]
+[[Category:Seekers]]
+[[Category:Wizards]]

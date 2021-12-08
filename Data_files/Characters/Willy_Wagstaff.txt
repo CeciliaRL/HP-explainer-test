@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme = wizard
+|name = Willy Wagstaff
+|image = 
+|born = 
+|died = 
+|blood = 
+|nationality = 
+|title = 
+|alias = "Honest" Willy<ref name="DP"/>
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Street vendor in [[Diagon Alley]]<ref name="DP"/>
+|house = 
+|loyalty = 
+}}
+'''"Honest" Willy Wagstaff''' was a street vendor who worked in [[Diagon Alley]]. The [[Department of Magical Equipment Control]] issued a warning about him in the ''[[Daily Prophet]]'', alleging that he sold defective merchandise, including loose-bottomed [[cauldron]]s and [[wand]]s that had to be recalled after several people were burned by them.<ref name="DP">{{DP}}: [[31 July]], [[1998]], Page 1</ref>
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Wagstaff, Willy}}
+[[pl:Willy Wagstaff]]
+[[Category:British individuals]]
+[[Category:Con artists]]
+[[Category:Males]]
+[[Category:Wizards]]

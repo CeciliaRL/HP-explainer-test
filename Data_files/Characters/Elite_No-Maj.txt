@@ -1,0 +1,27 @@
+{{Individual infobox
+|name = Elite No-Maj
+|born = Pre [[1927]]
+|nationality = [[United States of America|American]]<ref name="FBF"/>
+|species = [[Human]]<ref name="FBF"/>
+|gender = Male<ref name="FBF"/>
+|hair = Blond<ref name="FBF"/>
+|skin = White<ref name="FBF"/>
+|job = Socialite<ref name="FBF"/>
+|loyalty = [[Henry Shaw Junior]]<ref name="FBF"/>
+|theme = muggle
+}}This '''Elite No-Maj''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who was a [[New York]] socialite in the [[1920]]s.<ref name="FBF"/>
+
+==Biography==
+This individual was one of the attendees of [[Henry Shaw Junior]]'s [[Fundraising Dinner for the Re-election of Senator Henry Shaw|Fundraising Dinner]] on the [[6 December]], [[1926]]. During the dinner, he witnessed the sudden and horrific death of Henry Shaw Junior at the hands of [[Credence Barebone]]'s [[Obscurial]] form, in which he and all of the No-Majs present witnessed [[magic]] with their own eyes.<ref name="FBF">{{FB|F}}</ref>
+
+==Behind the scenes==
+*Elite No-Maj was portrayed by [[David Decio]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles]]

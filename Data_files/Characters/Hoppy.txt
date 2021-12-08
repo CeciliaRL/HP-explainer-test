@@ -1,0 +1,33 @@
+{{WizardsUniteSpoiler}}
+{{Pet individual infobox
+|image = 
+|name = Hoppy
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Kneazle]]
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Scamander family]]
+}}
+'''Hoppy''' was one of three pet [[Kneazle]]s (the other two being [[Mauler]] and [[Milly]]) that belonged to [[Newton Scamander|Newt]] and [[Porpentina Goldstein|Porpentina Scamander]]. Hoppy lived with the couple in their home in [[Dorset]].<ref name="FBR">{{FB|R}}, ''About the Author''</ref>
+
+==Appearances==
+*{{FB|R}} {{1st Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[ru:Прыгалка]]
+[[fr:Hoppy]]
+[[pl:Hopek]]
+[[Category:Individual cats]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Kneazles]]
+[[Category:Scamander family]]

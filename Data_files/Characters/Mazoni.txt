@@ -1,0 +1,49 @@
+{{Imageless}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Mazoni
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="castlist"/>
+|signature = 
+|species = [[Human]]<ref name="castlist"/>
+|gender = Male<ref name="castlist"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Professor]] at [[Hogwarts School of Witchcraft and Wizardry]]<ref name="castlist"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="castlist"/>
+}}
+'''Professor Mazoni''' presumably taught at [[Hogwarts School of Witchcraft and Wizardry]] during the [[2010s]].<ref name="castlist"/>
+
+==Behind the scenes==
+*In {{CC|P1}}, Mazoni was played by [[Nuno Silva]].<ref name="castlist">[[:File:CursedChildCastList.jpg|Cast list]] from the programme from {{CC|P1}}</ref>
+*This character only appears in the play programme and not the published {{CC}} script book, so the role may have been added later than the development of the rehearsal script.
+
+==Appearances==
+*{{CC|P}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Staff}}
+{{Character-stub}}
+[[pl:Mazoni]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts employees]]
+[[Category:Males]]
+[[Category:Professors]]
+[[Category:Wizards]]

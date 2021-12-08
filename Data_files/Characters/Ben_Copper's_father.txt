@@ -1,0 +1,50 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = 
+|born = Before [[1973]]
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ben Copper's mother|Wife]]
+*[[Ben Copper]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Actuary<ref name="job"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|I wonder what's waiting for me under the tree at home. Knowing Dad, it's something practical like a toothbrush.|[[Ben Copper]]|Harry Potter: Hogwarts Mystery}}
+This '''individual''' was a [[Non-magic people|Muggle]] and the father of [[Wizardkind|wizard]] [[Ben Copper]]. He worked as an actuary.<ref name="job">{{HM|5}} onward; Defence Against the Dark Arts Lesson in general {{c|speech bubble: ''"Did I mention that my dad's an actuary?"''}}</ref>
+
+==Personality and traits==
+According to his son, Mr Copper was a very pragmatic individual, the type of person who would offer only practical [[Christmas]] presents, like a toothbrush.<ref>{{HM|2|Christmas at the Burrow|1}} - (see [https://youtu.be/FWMuQQ-1vt4?t=154 here])</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Copper, Ben mother}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

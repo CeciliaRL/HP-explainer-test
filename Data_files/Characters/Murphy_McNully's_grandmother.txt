@@ -1,0 +1,40 @@
+{{HogwartsMysterySpoiler}} 
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|name = Murphy McNully's grandmother
+|born = 
+|died = 
+|blood = 
+|nationality = 
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]
+|gender = Female 
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = [[Murphy McNully]] (grandson)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}} 
+This '''individual''' was a grandmother of [[Murphy McNully]]. Murphy mentioned her in his [[Quidditch]] commentary, comparing the [[Parkin's Pincer]] to the way she pinched his cheeks.<ref name="HM">{{HM}}, [[Quidditch friendly|Quidditch friendlies]]</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

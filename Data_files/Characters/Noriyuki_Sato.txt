@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Sato.jpg|250px]]
+|name = Noriyuki Sato
+|born = Before [[1977]], [[Japan]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Japan]]ese<ref name="QWC"/>
+|alias = 
+|title = [[Chaser]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Blue<ref name="QWC"/>
+|eyes = Brown<ref name="QWC"/>
+|skin = 
+|family = [[Sato family]]<ref name="QWC"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Japanese National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = *[[Sato family]]<ref name="QWC"/>
+*[[Mahoutokoro]]<ref name="PM">{{WW|mahoutokoro}}</ref>
+*[[Japanese National Quidditch team]]<ref name="QWC"/>
+}}
+'''Noriyuki Sato''' was a [[Japan]]ese [[Wizardkind|wizard]] who played as a [[Chaser]] on the [[Japanese National Quidditch team]] during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]].<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Sato's [[Chocolate Frog Card]] could be won by beating [[Lisa Cullen]] at an [[Exploding Snap]] challenge.<ref name="HPG">{{HBP|G}} {{c|NDS edition}}</ref>
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': As a former professional [[Chaser]] of the [[Japanese National Quidditch team]], he was a highly proficient flyer.<ref name="QWC"/>
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{NDS only}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Sato, Noriyuki}}
+[[de2:Noriyuki Sato]]
+[[fr:Noriyuki Sato]]
+[[pl:Noriyuki Satō]]
+[[ru:Нориюки Сато]]
+[[Category:20th century births]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Japanese individuals]]
+[[Category:Mahoutokoro students]]
+[[Category:Males]]
+[[Category:Sato family]]
+[[Category:Wizards]]

@@ -1,0 +1,64 @@
+{{Youmay|the Gryffindor Quidditch Captain in the late 17th century|[[Angelina Johnson]]}}
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:Gryffindor Captains Plaque.jpg|250px]]
+|name = Angelina Appleby
+|born = Between [[1681]] and [[1685]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain|Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+**[[Gryffindor Quidditch team]]
+}}
+'''Angelina Appleby''' (b. [[1680s]]) was a [[Gryffindor]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1690s]] and [[1700s]]. She was once [[Quidditch Captain|Captain]] of the [[Gryffindor Quidditch team]] from [[1696]] to [[1700]].<ref>{{HPE}} {{See image|File:Gryffindor Quidditch Captains Plaque.jpg}}</ref>
+
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+*{{HPE}} {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Filemina Alchin]]
+|position=[[Quidditch Captain|Captain]] of the [[Gryffindor Quidditch team]]
+|years=[[1696]]—[[1700]]
+|successor=[[Oona Ballington]]
+}}
+{{End box}}
+{{Hogwarts quidditch positions}}
+{{DEFAULTSORT:Appleby, Angelina}}
+
+
+[[es:Angelina]]
+[[fr:Angelina Appleby]]
+[[pl:Angelina Appleby]]
+[[de2:Angelina Appleby]]
+[[Category:1680s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Sorted in the 1690s]]
+[[Category:Wizards]]

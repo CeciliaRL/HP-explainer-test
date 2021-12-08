@@ -1,0 +1,45 @@
+{{DISPLAYTITLE:Editor of ''Which Broomstick?''}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Editor of ''Which Broomstick?''
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Periodical editor
+|house = 
+|loyalty = ''[[Which Broomstick?]]''
+}}
+{{Quote|Whisp has produced a thoroughly enjoyable book; Quidditch fans are sure to find it both instructive and entertaining.|Praise for {{QTA|R}}}}
+This '''individual''' was the editor of magazine ''[[Which Broomstick?]]'' in the [[1990s]]. They provided a quote for the critical acclaim of {{QTA}} by [[Kennilworthy Whisp]], giving a favourable review.<ref name="QApraise">{{QTA|R}} - ''Praise for Quidditch Through the Ages''</ref>
+
+==Appearances==
+*{{QTA|R}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

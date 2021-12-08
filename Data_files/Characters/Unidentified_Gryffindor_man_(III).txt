@@ -1,0 +1,73 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:GCR Portrait Male 3.jpg|255px]]
+|name = Gryffindor Common Room Portrait
+|born = Before [[1974]]
+|died = Before [[1991]]
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Head of House]]<ref name="MHP">{{MHP}} (see [http://www.flickr.com/photos/karen_roe/7366145410/in/set-72157630012281279/ this image])</ref>
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Black
+|eyes = Dark
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Head of Gryffindor House]] (? - before [[1991]])
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+This '''individual''' was a [[Wizardkind|wizard]] and a former [[Head of Gryffindor House]] who had a [[portrait]] of himself hung in the [[Gryffindor Tower|Gryffindor Common Room]].
+
+==Biography==
+===Early life===
+This individual was born in either [[Great Britain]] or [[Ireland]], sometime before [[1974]]. He attended [[Hogwarts School of Witchcraft and Wizardry]] in his youth, and was [[Sorting ceremony|sorted]] into [[Gryffindor|Gryffindor House]].
+
+===Later life===
+Sometime after [[Graduation ceremony|his graduation]], he returned to Hogwarts and became the [[Head of House|Head]] of [[Gryffindor|Gryffindor House]]. He had a portrait of himself hung in [[Gryffindor Common Room|his house's common room]], depicting him wearing a navy-blue coat and standing against a red background, with the Hogwarts crest printed beside his head. He had, unfortunately, died by [[1991]].
+
+===Post-mortem===
+The wizard's portrait remained, and in [[1994]], he was terrified by [[Harry Potter]] opening his [[Golden egg|wailing gold egg]], holding his hands over his ears in agony. 
+The next year, he wondered what [[Godric Gryffindor]] would say if he were still alive, perhaps indicating a dislike for that generation.<ref name="GOFG">{{GOF|G}}</ref>
+
+==Physical appearance==
+This wizard was tall and had a serious face; it was quite tan. He had dark, narrow eyes similar to [[Phineas Nigellus Black]]'s, and a long black beard with matching hair, both having silver streaks in them.
+
+==Personality and traits==
+He was, if his house indicated his personality, a brave man, who was very loyal, nervous, and chivalrous. He had plenty courage and daring, and obviously was deemed to be worth following, given his appointment as Head of House. However, he was also slightly snide and critical, telling sarcastic jokes about the [[Fat Lady]], even though she did not like this and asked him not to.
+
+==Behind the scenes==
+*In the [[Harry Potter and the Order of the Phoenix (video game)|video game adaptation]] of {{OOTP}}, he was credited as '''GCR Portrait Male 3''', and was voiced by [[Jonathan Kydd]]. His portrait also appears in the [[Gryffindor]] Common Room in the [[Harry Potter and the Half-Blood Prince (video game)|video game adaptation]] of {{HBP}}, but does not speak.
+
+==Appearances==
+*{{PS|F}} {{1st}} {{Portrait}}
+*{{COS|F}} {{Portrait}}
+*{{POA|F}} {{Deleted scenes}} {{Portrait}}
+*{{GOF|F}} {{Portrait}}
+*{{OOTP|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|F}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+*{{QH}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts towers}}
+[[Category:British or Irish individuals]]
+[[Category:Heads of House]]
+[[Category:Males]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

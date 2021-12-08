@@ -1,0 +1,49 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Lana Tuttle
+|born = Before [[31 August]] [[1973]]<ref name="age">Liz refers to her as "my older sister" in {{HM|7|22}}</ref>
+|died = 
+|blood = [[Half-blood]] or [[Pure-blood]]<ref name="blood">Her mother and her maternal grandparents were wizards. Her father's blood status is unknown.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Liz Tuttle]] (sister)
+*[[Liz Tuttle's mother|Mother]]
+*[[Liz Tuttle's maternal grandfather|Grandfather]]
+*[[Liz Tuttle's maternal grandmother|Grandmother]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Tuttle family]]
+}}
+{{Quote|My sister sent a letter saying her Crup just had Cruppies!|[[Liz Tuttle]]|Harry Potter: Hogwarts Mystery}}
+'''Lana'''<ref name="HM722">{{HM|7|22}}</ref> '''Tuttle''' was the older<ref name="age"/> sister of [[Liz Tuttle]]. The two were very close, with Liz saying she would do anything for her sister.<ref name="HM722"/>
+
+Lana owned a [[crup]] that had cruppies in the early [[1980s]]; she wrote to her sister at [[Hogwarts School of Witchcraft and Wizardry]] to let her know.<ref name="HM">{{HM|1|Magical Pets}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Tuttle, Lana}}
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Tuttle family|Lana]]
+[[Category:Wizards]]

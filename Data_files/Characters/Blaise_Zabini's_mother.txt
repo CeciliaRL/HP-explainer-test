@@ -1,0 +1,57 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Mrs Zabini
+|hideb=
+|born=
+|died=
+|blood=
+|marital=Widowed seven times<ref name="HBP7"/>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="HBP7"/>
+|gender=Female<ref name="HBP7"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Blaise Zabini's mother's seven husbands|Seven husbands]] †<ref name="HBP7"/>
+*[[Blaise Zabini]] (son)<ref name="HBP7"/>
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=[[Slytherin]] (likely)<ref name="House">{{HBP|B|4}} - "You'll be Gryffindor like her, I suppose? Yes, it usually goes in families. Not always, though."</ref>
+|loyalty=[[Zabini family]]<ref name="HBP7"/>
+}}
+{{Quote|Zabini, who was interrogated after [[Cormac McLaggen|McLaggen]], turned out to have a famously beautiful witch for a mother (from what [[Harry Potter|Harry]] could make out, she had been married seven times, each of her husbands dying mysteriously and leaving her mounds of gold).|Description|Harry Potter and the Half-Blood Prince}}
+'''Mrs Zabini''' (fl. [[1980]]) was a [[Wizardkind|witch]] and the mother of [[Blaise Zabini]]. She was famously beautiful, and married [[Blaise Zabini's mother's seven husbands|seven wizards]] who each died in mysterious circumstances, leaving her with a large amount of [[gold]] from each. Her fame was known to [[Horace Slughorn]], who invited her son to his compartment on the [[Hogwarts Express]] for that reason as a member of the [[Slug Club]].<ref name="HBP7">{{HBP|B|7}}</ref>
+
+==Behind the scenes==
+*It is unknown if Zabini was her maiden name or one of her married names.
+*It is speculated that she [https://en.wikipedia.org/wiki/Mariticide killed each of her husbands], to gain their inheritance, given the mysterious nature of their deaths.
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Zabini, Blaise's mother}}
+[[de:Mrs Zabini]]
+[[de2:Blaise Zabinis Mutter]]
+[[fr:Mère de Blaise Zabini]]
+[[pl:Matka Blaise'a Zabiniego]]
+[[vi:Mẹ của Blaise Zabini]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎]]
+[[Category:Widowed individuals]]
+[[Category:Wizards]]
+[[Category:Zabini family]]

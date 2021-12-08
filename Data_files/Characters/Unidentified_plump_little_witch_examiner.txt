@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Unidentified plump little witch examiner
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP31"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP31"/>
+|gender = Female<ref name="OOTP31"/>
+|height = "Little"<ref name="OOTP31"/>
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Examiner for the [[Wizarding Examinations Authority]]<ref name="OOTP31"/>
+|house = 
+|loyalty = [[Wizarding Examinations Authority]]<ref name="OOTP31"/>
+}}
+This '''individual''' was a member of the [[Wizarding Examinations Authority]].<ref name="OOTP31"/>
+
+==History==
+In [[June]] [[1996]], she administered [[Harry Potter]]'s practical [[Care of Magical Creatures]] [[Ordinary Wizarding Level|O.W.L.]] examination.<ref name="OOTP31">{{OOTP|B|31}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Departments unknown levels}}
+[[es:Bruja regordeta examinadora no identificada]]
+[[fr:Examinatrice petite et replète]]
+[[Category:British individuals|Examiner]]
+[[Category:Females|Examiner]]
+[[Category:Unidentified individuals|Examiner]]
+[[Category:Wizarding Examinations Authority personnel]]
+[[Category:Wizards|Examiner]]

@@ -1,0 +1,30 @@
+{{Individual infobox
+|image = [[File:Hobo.jpg|250px]]
+|name = Unidentified hobo
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|hair = Grey
+|skin = White
+|theme = muggle
+|maritial = 
+}}This '''hobo''' was an [[United States of America|American]] [[Muggle|No-Maj]] man living on the streets of [[New York]] in [[1926]].<ref name="FBS">{{FB|S}}</ref> 
+
+==History==
+He was one of the witnesses when some of [[Newton Scamander|Newt Scamander]]'s creatures escaped from his [[Newton Scamander's suitcase|briefcase]] that year.<ref name="FBS">{{FB|S}}</ref>
+
+When a [[NYPD Police Officer No. 743|policeman]] asked questions about the situation, the drunken hobo was about to tell about what he really saw while [[Unidentified housewife|another witness]] thought it was gas explosion, his memories were [[Memory Charm|obliviated]] by Newt leaving him and the crowd to agree that it was actually gas.<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+*The hobo was portrayed by [[Paul Birchard]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

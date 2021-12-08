@@ -1,0 +1,67 @@
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:Gryffindor Quidditch Captains Plaque.jpg]]
+|name = Astrix Alixan
+|born = Between [[1673]] and [[1677]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+**[[Gryffindor Quidditch team]]
+}}
+'''Astrix Alixan''' (b. [[1670s]]) was a [[Gryffindor]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1680s]] and [[1690s]]. He was once [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Gryffindor Quidditch team]] from [[1688]] to [[1692]].<ref>{{HPE}} {{See image|File:Gryffindor Quidditch Captains Plaque.jpg}} and {{see image|File:Gryffindor Captains Plaque.jpg}}</ref>
+
+==Behind the scenes==
+*In {{COS}}, set during the [[1992–1993 school year]], it is mentioned that the Gryffindor team had been one player short during the final match of the previous school year, against [[Ravenclaw Quidditch team|Ravenclaw]] ([[Harry Potter]] had been unconscious in the [[Hospital Wing]]), and had for that reason suffered their worst defeat in three-hundred years.<ref name="COS7">{{COS|B|7}}</ref> That would mean that their previous worst defeat ever had taken place in around the 1691-1692 school year, most likely during Astrix Alixan's captaincy.
+
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+*{{HPE}} {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Gryffindor Quidditch team]]
+|years=[[1688]]—[[1692]]
+|successor=[[Filemina Alchin]]
+}}
+{{End box}}
+
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Alixan, Astrix}}
+
+[[es:Astrix A.]]
+[[fr:Astrix Alixan]]
+[[pl:Astrix Alixan]]
+[[pt-br:Astrix Alixan]]
+[[Category:1670s births]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Males]]
+[[Category:Sorted in the 1680s]]
+[[Category:Wizards]]

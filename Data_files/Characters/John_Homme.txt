@@ -1,0 +1,48 @@
+{{Transcribed image|File:JohnHSignature.jpg}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=John Homme
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|signature=[[File:John Homme sig.png|160px]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Painter
+|house=
+|loyalty=
+}}
+'''John Homme''' was a [[Wizardkind|wizard]] and painter. He painted the [[portrait]] of [[Percival Pratt]], which he signed in the lower right corner, opposite the subject's name on the left.<ref>See [[:File:JohnHSignature.jpg|this image]] and [[:File:PercivalPratt.jpg|this image]].</ref>
+
+==Etymology==
+The name "John" is the English form of Iohannes, the Latin form of the Greek name Ιωαννης (Ioannes), itself derived from the Hebrew name יוֹחָנָן (Yochanan) meaning "Yahweh is gracious".
+
+==Appearances==
+*{{POA|F}} {{Comment|Name seen on portrait}}
+*{{POA|G}} {{Comment|Name seen on portrait}}
+*{{OOTP|G}} {{Comment|Name seen on portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Homme, John}}
+[[fr:John Homme]]
+[[Category:Artists]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,75 @@
+{{DISPLAYTITLE:Ollivander}}
+{{Youmay|the founder of Ollivanders|[[Garrick Ollivander|one of his descendants, active in the wand-making business in the 20th century]]}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Ollivander
+|hideb=
+|born=Before [[B.C. era|382 B.C.]]<br />Mediterranean Basin
+|died=
+|blood=[[Pure-blood]] (possibly)<ref>{{PM}} - The [[Ollivander family]] are listed among the [[Sacred Twenty-Eight]]. However, it is unknown how far back into the family's history [[Cantankerus Nott]] researched to make that claim.</ref>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Geraint Ollivander]] (descendant)
+*[[Gerbold Ollivander]] (descendant)
+*[[Gervaise Ollivander]] (descendant)
+*[[Garrick Ollivander]] (descendant)
+*[[Garrick Ollivander's son|Mr Ollivander]] (descendant)
+*[[Garrick Ollivander's daughter|Miss Ollivander]] (descendant) †
+|hidem=
+|animagus=
+|boggart=
+|wand=[[Ollivander's wand|Olive wood, unknown length and core materials]]
+|patronus=
+|hidea=
+|job=[[Wandmaker]]
+|house=
+|loyalty=
+}}
+'''Ollivander''' (fl. [[B.C. era|382 B.C.]]) was the [[wizardkind|wizard]] who arrived in [[Great Britain|Britain]] from, apparently, a Mediterranean country, and set up [[Ollivanders]] in [[B.C. era|382 B.C.]]. An expert [[wandmaker]], Ollivander sold to ancient British wizards whose wands were crude of construction and unreliable in performance.<ref name="pottermore">Pottermore background information on [[Garrick Ollivander]] (transcription available [http://lady-slytherin-forever.tumblr.com/post/8978736031/information-about-ollivander here])</ref>
+
+==Biography==
+===Early life===
+Ollivander was apparently an ancient Roman wizard. Based on the etymology of his name, which is said to mean "he who owns the olive wand", he may have been brought up in a [[Mediterranean Sea|Mediterranean]] country (olive trees not being native to [[Great Britain]]).<ref name="pottermore"/>
+
+===Career as a wandmaker===
+It is believed by [[Garrick Ollivander]], a descendant of this individual, that the founder of [[Ollivanders]] arrived with the Romans, setting up a stall (subsequently a shop) to manufacture and sell [[wand]]s to the ancient British wizards, whose wands were crudely-made and inferior in quality and performance.<ref name="pottermore"/>
+
+==Behind the scenes==
+*Despite [[Garrick Ollivander]]'s claims that the original Ollivander arrived to [[Great Britain]] with the Romans, this individual started his wand-making business in [[B.C. era|382 B.C.]] but the [[wikipedia:Roman conquest of Britain|Roman conquest of Britain]] (''Britannia'') only began effectively in [[First millennium A.D.|A.D. 43]], under Emperor Claudius.  An earlier attempt was made in 55-54 B.C. by [[wikipedia:Julius Caesar|Julius Caesar]], as an adjunct of his Gallic campaign.  Prior to then, the Romans had only sporadic contact with Britain, to the point where, up until 124 B.C., many Romans did not believe the land actually existed.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=None
+|position=Proprietor of [[Ollivanders]]
+|years=[[B.C. era|382 B.C.]]—?
+|successor=Unknown, eventually [[Geraint Ollivander]]
+}}
+{{End box}} 
+ 
+[[es:Ollivander (382 a.C)]]
+[[pl:Ollivander (382 r. p.n.e.)]]
+[[ru:Олливандер (382 г. до н.э.)]]
+[[Category:B.C. era births]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Ollivander family]]
+[[Category:Roman individuals]]
+[[Category:Shop owners]]
+[[Category:Wizards]]
+{{DEFAULTSORT:Ollivander, Geraint's ancestor}}
+[[Category:Unnamed family members]]

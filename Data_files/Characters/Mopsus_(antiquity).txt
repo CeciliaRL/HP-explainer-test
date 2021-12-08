@@ -1,0 +1,76 @@
+{{DISPLAYTITLE:Mopsus}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:Mopsus Portrait.jpg|250px]]
+|name = Mopsus
+|born = Ancient [[Greece]]<ref name="COSG"/>
+|died = Ancient [[Greece]]<ref name="COSG"/>
+|blood = 
+|marital = 
+|nationality = [[Greece|Greek]]<ref name="COSG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="COSG"/>
+|eyes = Blue<ref name="COSG"/>
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seer]]<ref name="COSG"/>
+|house = 
+|loyalty = 
+}}
+'''Mopsus''' (Ancient Greek: Μόψος) was a [[Wizardkind|wizard]] and [[Seer]] who lived in Ancient [[Greece]].<ref name="COSG"/>
+
+==Biography==
+Mopsus was born sometime in Ancient [[Greece]]. He was famous for having defeated fellow Seer [[Calchas]] in a competition of their powers. For his fame he was commemorated on a [[silver]] [[Chocolate Frog Card]].<ref name="PSG">{{PS|G}}</ref><ref name="POAG">{{POA|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+
+There was a [[portrait]] of Mopsus hung in the [[Dungeons]] of [[Hogwarts Castle]]. It hid a secret chamber, and the [[password]] was "''Forsooth''".<ref name="POAG">{{POA|G}}</ref>
+
+==Magical abilities and skills==
+*'''[[Divination]]''': Mopsus was a natural born [[Seer]], and thus possessed the [[magic]]al ability to view the future in [[vision]]s. His talents in Divination were shown to be extraordinary, given how he managed to defeat the rival Seer [[Calchas]] with his superior precognitive powers, which awarded him his legendary status in wizarding history.<ref name="COSG"/>
+
+==Behind the scenes==
+*Mopsus in Greek mythology was a seer and diviner in the court of Amphilochus. He correctly predicted that an upcoming battle would end in great defeat, to the contrary of rival seer Calchas's prediction that it would end in great victory. He later died in a quarrel with Amphilochus over the right to the throne.<ref>[[Wikipedia:Mopsus|Mopsus]] at [[Wikipedia:Main Page|Wikipedia]]</ref>
+
+==Appearances==
+{{Imagecat|Images of Mopsus}}[[File:Mopsus-73-chocFrogCard.png|thumb|Mopsus immortalised on a silver [[Chocolate Frog Card]]]]
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Divination}}
+{{Hogwarts below ground floor}}
+{{Chocolate Frog Cards}}
+
+[[de:Mopsus]]
+[[de2:Mopsus]]
+[[es:Mopsus (Antigüedad)]]
+[[fr:Mopsus]]
+[[fi:Mopsus]]
+[[nl:Mopsus]]
+[[no:Mopsus (antikken)]]
+[[pl:Mopsus]]
+[[pt-br:Mopso (antiguidade)]]
+[[ru:Мопсус]]
+[[sv:Mopsus]]
+[[zh:摩普索斯]]
+[[Category:B.C. era births]]
+[[Category:Blue-eyed individuals]]
+[[Category:Greek individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Seers]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizards]]

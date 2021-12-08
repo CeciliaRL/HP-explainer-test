@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Podric Batworthy XXIII
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family =
+*[[Podric Batworthy]] (ancestor)
+*[[Batworthy family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Barber
+|house = 
+|loyalty = [[Beard Trimming]]
+}}'''Podric Batworthy XXIII''' was a [[Wizardkind|wizard]] and the owner of the [[Beard Trimming]] barbershop in [[Knockturn Alley]] and [[Diagon Alley]].<ref name="LEGOY1">{{LEGO|Y1}}</ref><ref name="LEGOY2">{{LEGO|Y2}}</ref>
+
+==Appearances==
+*{{LEGO|Y1}} {{Name on sign}}
+*{{LEGO|Y2}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}
+{{Knockturn Alley}}
+{{Diagon Alley}}
+
+{{DEFAULTSORT:Batworthy, Podric}}
+[[es:Podric Batworthy XXIII]]
+[[ru:Подрик Бэтворфи XXIII]]
+[[pl:Podric Batworthy XXIII]]
+[[Category:Batworthy family]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

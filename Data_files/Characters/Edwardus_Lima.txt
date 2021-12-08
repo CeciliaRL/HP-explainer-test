@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:Lima.png|250px]]
+|name=Edwardus Lima
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="hppts" />
+|gender=Male<ref name="hppts" />
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Mina Lima]] (possibly)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Author<ref name="hppts" />
+|house=
+|loyalty=
+}}
+'''Edwardus Lima''' was a [[Wizardkind|wizard]] and the author of the [[magizoology]] tome ''[[The Monster Book of Monsters]]''.<ref name="hppts">{{HPPS}}, p. 505 {{see image|File:MonsterBookConceptArt1.jpg}}</ref>
+
+==Behind the scenes==
+*This character was named after [[Eduardo Lima]], a graphic artist who has worked on every [[Harry Potter films|''Harry Potter'' film]] since ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'', on concept art of ''[[The Monster Book of Monsters]]'' by his colleague, [[Miraphora Mina]].<ref name="hppts" />
+
+==Appearances==
+*{{HPPS}} {{1st Mention}} {{Comment|Name seen on book cover}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Lima, Edwardus}}
+
+[[de2:Edwardus Lima]]
+[[es:Edwardus Lima]]
+[[fr:Edwardus Lima]]
+[[pl:Edwardus Lima]]
+[[pt-br:Edwardus Lima]]
+[[ru:Эдвардас Лима]]
+[[vi:Edwardus Lima]]
+[[Category:Authors]]
+[[Category:Lima family|Edwardus]]
+[[Category:Magizoologists]]
+[[Category:Males]]
+[[Category:Wizards]]

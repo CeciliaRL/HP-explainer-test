@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = B. Dunstan
+|born = [[1983]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="QTAR"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="QTAR"/>
+}}
+'''B. Dunstan''' was a [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. Dunstan borrowed the [[Hogwarts Library]] copy of {{QTA}} after [[Oliver Wood]]. It was supposed to be returned as of [[16 May]], but it is unknown whether or not Dunstan really returned it on or before the given date.<ref name="QTAR">{{QTA|R}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dunstan, B.}}
+[[fr:B. Dunstan]]
+[[pl:B. Dunstan]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

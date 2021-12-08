@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Unidentified witch who tried to fool Alastor Moody on April Fools' Day
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="GOF15"/>
+|gender=Female<ref name="GOF15"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+This '''witch''' once tried to fool [[Alastor Moody]] on [[April Fools' Day]] by shouting "Boo" behind him. [[Bartemius Crouch Junior|Barty Crouch Jnr]] (disguised as [[Alastor Moody]]) told this story to [[Seamus Finnigan]] in [[1994]], which [[Ronald Weasley]] implied that it did not end well.<ref name="GOF15">{{GOF|B|15}}</ref>
+
+==Behind the scenes==
+*As this witch was only mentioned in a story that the fake Alastor Moody related to a student, there exists the possibility that there was no such individual and the fake Moody only created this story as part of his cover.
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

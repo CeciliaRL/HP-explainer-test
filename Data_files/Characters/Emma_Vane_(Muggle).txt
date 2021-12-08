@@ -1,0 +1,42 @@
+{{Youmay|the Muggle fashion designer|the [[Emma Vane (witch)|witch]] with the same name}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Emma Vane
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Vane family]]
+|hidea=
+|job=Fashion designer
+|loyalty=
+}}
+'''Emma Vane''' was a [[Non-magic people|Muggle]] fashion designer. Clothing designed by her was featured in the [[Costume Materialization]] collection opening that was held on [[28 September]], [[1997]], along with the work of fellow fashion designers [[Julia Dehoff]] and [[Mauricio Carneiro]].<ref name="HPLE">{{HPLE|G}} {{see image|File:CostumeMaterialization.jpg}}</ref>
+
+==Behind the scenes==
+*This character was named after [[Emma Vane (real-world)|Emma Vane]], who worked as a draughtsman on several [[Harry Potter films|''Harry Potter'' films]].<ref>{{IMDb|nm0888985|Emma Vane}}</ref>
+
+==Appearances==
+*{{DH|F1}} {{Mentioned on a poster}}
+*{{HPLE}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Vane, Emma}}
+[[pl:Emma Vane (mugolka)]]
+[[Category:Fashion designers]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Vane family]]

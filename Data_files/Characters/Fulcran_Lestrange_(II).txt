@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme=wizard
+|image=FULCANLESTRANGE II.jpg
+|name=Fulcran Lestrange
+|born=
+|died=
+|blood = [[Pure-blood]]<ref>He was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|nationality = [[France|French]]
+|marital=Married
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|weight=
+|hair=Brown
+|eyes=
+|skin=Light
+|family=*[[Fulcran Lestrange (I)|Fulcran Lestrange]] (father)
+*[[Pucine Lestrange (I)|Pucine Lestrange]] (mother)
+*[[Sotère Lestrange]] (wife)
+*[[Fulcran Lestrange (III)|Fulcran Lestrange]] (son)
+*[[Balbine Lestrange (II)|Balbine Lestrange]] (daughter)
+*[[Pucine Lestrange (II)|Pucine Lestrange]] (daughter)
+*[[Quintilla Lestrange]] (daughter-in-law/second cousin twice removed)
+*[[Nozéa Lestrange]] (granddaughter)
+*[[Fulcran Lestrange (I)|Fulcran Lestrange]] (paternal grandfather)
+*[[Pucine Lestrange (I)|Pucine Lestrange]] (paternal grandmother)
+*[[Lestrange family]]
+*[[Leroy family]]
+*Petit family (in-laws)
+|loyalty=*[[Lestrange family]]
+*[[Leroy family]]
+*Petit family
+}}
+'''Fulcran Lestrange''' was a [[France|French]] wizard and a member of the [[pure-blood]] [[Lestrange family]]. He was the son of [[Fulcran Lestrange (I)|Fulcran Lestrange]] and [[Pucine Lestrange (I)|Pucine Leroy]]. He married [[Sotére Lestrange|Sotére Petit]] and had a three children with her, two daughters [[Balbine Lestrange (II)|Balbine]] and [[Pucine Lestrange (II)|Pucine]], and a son [[Fulcran Lestrange (III)|Fulcran]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref>
+
+==Appearances==
+*{{COG}} {{c|Appears on the Lestrange family tree}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Lestrange, Fulcran II}}
+[[fr:Fulcran Lestrange II]]
+[[pl:Fulcran Lestrange II]]
+[[Category:French individuals]]
+[[Category:Lestrange family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

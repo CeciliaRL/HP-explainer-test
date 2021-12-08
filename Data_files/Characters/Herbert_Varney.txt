@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme = vampire
+|image = [[File:SirHerbertVarney.png|250px]]
+|name = Herbert Varney
+|born = [[1858]]<ref name="POAG"/>
+|died = [[1889]] (aged 30-31)<ref name="POAG"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="POAG"/>
+|alias = 
+|title = [[Honorific#Sir|Sir]]<ref name="POAG"/>
+|signature = 
+|species = [[Vampire]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = Black<ref name="POAG"/>
+|eyes = 
+|skin = Pale<ref name="POAG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Sir Herbert Varney''' ([[1858]]–[[1889]]) was a short-lived [[Great Britain|British]] [[vampire]] who preyed upon [[London]] women in the [[1880s]]. He was eventually caught and killed by a specially-assigned group of [[Wizardkind|wizards]] from the [[Department for the Regulation and Control of Magical Creatures]]. He appears on a [[Chocolate Frog Card|Famous Wizard Card]].<ref name="POAG">{{POA|G}} ([https://youtu.be/fUmFT12Bg2o?t=410 see video])</ref>
+
+==Behind the scenes==
+*This character probably references ''[[Wikipedia:Varney the Vampire|Varney the Vampire or the Feast of Blood]]'', a Gothic horror story written by James Malcolm Rymer in the [[19th century]], and one of the first vampire novels ever written (predating and influencing Bram Stoker's more popular Dracula).<ref name="WVV">{{Wikilink|Varney the Vampire}}</ref>
+*Herbert Varney may have also been loosely based on the unidentified serial killer [[Wikipedia:Jack the Ripper|Jack the Ripper]], who in [[1888]] brutally murdered at least five women in London, but was never caught or identified.<ref name="WJR">{{Wikilink|Jack the Ripper}}</ref>
+
+==Appearances==
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Varney, Herbert}}
+{{Chocolate Frog Cards}}
+[[de:Sir Herbert Varney]]
+[[es:Sir Herbert Varney]]
+[[fr:Sir Herbert Varney]]
+[[fi:Herbert Varney]]
+[[it:Herbert Varney]]
+[[pl:Herbert Varney]]
+[[nl:Herbert Sikkel]]
+[[no:Herbert Varney]]
+[[sv:Herbert Varney]]
+[[ru:Сэр Герберт Уорней]]
+[[zh:赫伯特·瓦尼]]
+[[Category:1858 births]]
+[[Category:1889 deaths]]
+[[Category:British individuals]]
+[[Category:Deceased individuals]]
+[[Category:Famous Vampires Chocolate Frog Cards]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Nobility]]
+[[Category:Vampires]]

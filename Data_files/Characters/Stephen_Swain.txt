@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Stephen Swain
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = *Reverend
+*Doctor
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Parochial vicar
+|house = 
+|loyalty = [[St Jerome's Church]]
+}}
+Revd. Dr '''Stephen Swain''' was a [[Non-magic people|Muggle]] and the vicar of the [[St Jerome's Church]], in [[Godric's Hollow]] during the [[1990s]].<ref name="DH1VG">{{DH|G1}}</ref>
+
+==Behind the scenes==
+*This character was named in honour of [http://www.film-architecture.com/blog/?page_id=44 Stephen Swain], who worked in the Art Department in all the [[Harry Potter films|''Harry Potter'' films]], first as an assistant, then as a draughtsman, and finally as an assistant art director.
+
+==Appearances==
+*{{DH|G1}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Swain, Stephen}}
+
+[[Category:British individuals|Swates, Stephen]]
+[[Category:Clergy|Swates, Stephen]]
+[[Category:Doctors|Swates, Stephen]]
+[[Category:Godric's Hollow residents]]
+[[Category:Males|Swates, Stephen]]
+[[Category:Muggles|Swates, Stephen]]

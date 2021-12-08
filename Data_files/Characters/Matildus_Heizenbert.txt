@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:Matildus Heizenbert.jpg|250px]]
+|name=Matildus Heizenbert
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=Billie
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+
+'''Matildus Heizenbert''', also known by the nickname '''Billie''', was an [[United States of America|American]] [[wizardkind|wizarding]] criminal who operated in the [[1920s]].<ref name="cob">{{CB|119}} {{see image|File:Matildus Heizenbert - Wanted Poster.png}}</ref>
+
+==Biography==
+In [[1926]], the [[Magical Congress of the United States of America]] issued a wanted poster for Heizenbert, stating that she had escaped from the [[New York Witches' Penitentiary]] and was wanted for "atrocities against the wizarding community."<ref name="cob" /> It described her as a "vicious witch" who was "bearing [a] [[wand]]  and extremely dangerous."<ref name="cob" /> A reward of 4850 [[Dragot]]s was offered for information leading to her capture.<ref name="cob" />
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Heizenbert, Matildus}}
+[[fr:Matildus Heizenbert]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:New York Witches' Penitentiary convicts]]
+[[Category:Wizards]]

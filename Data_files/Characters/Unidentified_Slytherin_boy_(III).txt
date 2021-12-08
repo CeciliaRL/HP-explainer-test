@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = slytherin
+|image = Unidentified Slytherin boy (III).jpg
+|name = Male Slytherin Student
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male<ref name="HBPG">{{HBP|G}}</ref>
+|height = 
+|weight = 
+|hair = Black<ref name="HBPG"/>
+|eyes = Brown<ref name="HBPG"/>
+|skin = Dark<ref name="HBPG"/> 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+This '''male Slytherin student''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|sorted]] into [[Slytherin|Slytherin House]].
+
+==Biography==
+This boy started his [[magic]]al education at [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]] and was [[Sorting ceremony|Sorted]] into [[Slytherin|Slytherin House]]. He confronted Harry and Ron, and told them that Gryffindor was going to lose the match to Slytherin and that "Slytherin is Supreme". He managed to stun Ron, but he lost his duel to Harry.
+
+==Appearances==
+*{{HBP|G}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Bullies]]
+[[Category:Males]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

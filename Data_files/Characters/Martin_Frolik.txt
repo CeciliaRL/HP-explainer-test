@@ -1,0 +1,42 @@
+{{Transcribed image|File:MartinFrolik.jpg}}
+{{Individual infobox
+|theme=wizard
+|image=MartinFrolik.jpg
+|name=Martin Frolik
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Martin Frolik''' was a [[Wizardkind|wizard]] whose name was carved into wood panelling on a wall of [[Sybill Trelawney|Professor Trelawney's]] [[Divination (class)|Divination]] [[Divination Classroom|classroom]].<ref>{{POA|F}} - Chapter 21 (''Professor Trelawney's Prediction'') {{see image|File:MartinFrolik.jpg}}</ref>
+
+==Appearances==
+*{{POA|F}} {{Comment|Name seen on wood panelling}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Frolik, Martin}}
+[[pl:Martin Frolik]]
+[[Category:Males]]
+[[Category:Wizards]]

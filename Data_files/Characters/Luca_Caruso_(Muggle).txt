@@ -1,0 +1,55 @@
+{{Youmay|the Muggle musician|[[Luca Caruso (wizard)|the Hogwarts student]], or [[Luca (disambiguation)|other Lucas]]}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Luca Caruso
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Musician
+|house = 
+|loyalty = 
+}}
+__NOTOC__
+'''Luca Caruso''' was a [[Non-magic people|Muggle]] musician. He collaborated with [[Alice Tolipan (Muggle)|Alice Tolipan]] to provide the [[music]] for the adapted production of ''[[Romeo and Juliet]]'' that was staged at the [[Regency Playhouse]] in the summer of [[1997]].<ref>{{HPLE|G}} {{see image|File:Romeo&JulietDetail.png}}</ref>
+
+==Etymology==
+As a male given name, ''Luca'' is the Italian and Romanian form of ''Luke'', an English form of the Greek name ''Loukas'', meaning "from Lucania."<ref>"[http://www.behindthename.com/name/luca-1 Luca (1)]" on Behind the Name</ref><ref>"[http://www.behindthename.com/name/luke Luke]" on Behind the Name</ref> [[wikipedia:Lucania|Lucania]] was an ancient region of [[Italy|Southern Italy]] extending from the [[wikipedia:Tyrrhenian Sea|Tyrrhenian Sea]] to the [[wikipedia:Gulf of Taranto|Gulf of Taranto]].<ref>"[https://en.wikipedia.org/wiki/Lucania Lucania]" on Wikipedia</ref>
+
+''Caruso'' is an Italian surname derived from the Italian word ''caruso'', "close-cropped," itself from the Latin ''cariosus'', "smooth" or "bald."<ref name="ancestry">"[http://www.ancestry.ca/name-origin?surname=caruso Caruso]" on Ancestry.com</ref> The word took on the broader meaning of "boy" in Italian, since, during the Middle Ages, when most men wore their hair longer, it was fashionable for young men to keep theirs short.<ref name="ancestry" /> ''Caruso'' also became an occupational name for sulphur pit workers in the [[wikipedia:Agrigento|Girgenti]] region of [[wikipedia:Sicily|Sicily]] because their job required short hair.<ref name="ancestry" />
+
+==Behind the scenes==
+*The name of this character is a tribute to Luca Caruso, the son of [[Miraphora Mina]], a graphic artist who worked on all eight [[Harry Potter (film series)|''Harry Potter'' films]].<ref name="talkswith">Rick Gerardy, ''Talks with Emanuel Hurwitz: 82 Years with the Violi'', Page 109</ref>
+
+==Appearances==
+*{{DH|F1}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Caruso, Luca}}
+
+[[de2:Luca Caruso (Muggel)]]
+[[vi:Luca Caruso (Muggle)]]
+[[pl:Luca Caruso (mugol)]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Musicians]]

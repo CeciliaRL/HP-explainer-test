@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Day maid at Leaky Cauldron
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="POAF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAF"/>
+|gender = Female<ref name="POAF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Day maid at the [[Leaky Cauldron]]<ref name="POAF"/>
+|house = 
+|loyalty = [[Leaky Cauldron]]<ref name="POAF"/>
+}}
+{{Dialogue a-b-a-b-a-b-a|Fred|Oh, not a [[soul]].|George|Unless you count [[Tom]]. . .|. . .the day maid. . .|. . .the [[Night maid at the Leaky Cauldron|night maid]]. . .|. . .the [[Cook at the Leaky Cauldron|cook]]. . .|. . .the [[Bloke who fixed the toilet at Leaky Cauldron|bloke who fixed the toilet]]. . .|. . .and that [[Leaky Cauldron wizard from Belgium|wizard from Belgium]].|[[Fred and George Weasley]]|Harry Potter and the Prisoner of Azkaban (film)}}
+This '''day maid''' was a [[Great Britain|British]] [[Wizardkind|witch]] who worked at the [[Leaky Cauldron]] in [[1993]]. [[Ronald Weasley|Ron Weasley]] had shown this maid a ''[[Daily Prophet]]'' [[MINISTRY OF MAGIC EMPLOYEE SCOOPS GRAND PRIZE|article]] about his family's trip to [[Egypt]], along with as many other people as he could.<ref name="POAF">{{POA|F}}</ref>
+
+==Appearances==
+*{{POA|F}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Leaky Cauldron}}
+[[es:Empleada diurna del Caldero Chorreante]]
+[[Category:Articles with conjectural titles]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Leaky Cauldron employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

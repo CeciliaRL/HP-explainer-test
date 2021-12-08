@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Astoria Malfoy's ancestor
+|born=
+|died=
+|blood=[[Pure-blood]]
+|marital=
+|alias=
+|title=
+|signature=
+|species=Human
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|family=*[[Astoria Malfoy]] (descendant) †
+*[[Daphne Greengrass]] (descendant)
+*[[Scorpius Malfoy]] (descendant)
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|We were capable of having children, but Astoria was frail. A blood malediction, a serious one. An ancestor was cursed... it showed up in her. You know how these things can resurface after generations...|[[Draco Malfoy]]|Harry Potter and the Cursed Child}}
+This '''individual''' was an ancestor of [[Daphne Greengrass|Daphne]] and [[Astoria Malfoy|Astoria Greengrass]] who was [[curse]]d with a [[blood malediction]]. The curse resurfaced after several generations in Astoria, and was responsible for her lifelong frailty and untimely [[death]].<ref name="Act4Scene4">{{CC|B|4|4}}</ref>
+
+==Behind the scenes==
+*The reason for the Astoria's ancestor being cursed with a [[blood malediction]] causing death and passed down to their descendant is unknown, nor is it known whether they deserved it or if they were killed by it.
+*Daphne Greengrass, Astoria Malfoy, and Scorpius Malfoy are the only confirmed descendants of this individual. However, in {{WU}}, it is revealed that [[Cereus Greengrass]] suffers from a blood malediction as well. It is unknown if this is the same blood malediction passed on by this common ancestor.
+
+==Appearances==
+*{{CC}} {{1st Mention}}
+*{{CC|P}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[pl:Greengrass]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

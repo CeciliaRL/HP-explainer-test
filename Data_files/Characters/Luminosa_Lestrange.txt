@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme = wizard
+|image = Luminosa Trouche.jpg
+|name = Luminosa Lestrange
+|born =
+|died =
+|title =
+|alias =
+|signature =
+|nationality = [[France|French]]<ref name="COG"/>
+|blood = [[Pure-blood]]<ref name="COG"/>
+|marital = Married<ref name="COG"/>
+|species = [[Human]]<ref name="COG"/>
+|gender = Female<ref name="COG"/>
+|skin =
+|hair =
+|eyes =
+|height =
+|weight =
+|family = *[[Cyrille Lestrange (III)|Cyrille Lestrange]] (husband)<ref name="COG"/>
+*[[Cyrille Lestrange (IV)|Cyrille Lestrange]] (son)<ref name="COG"/>
+*[[Floxel Lestrange]] (son)<ref name="COG"/>
+*[[Cyrille Lestrange (II)|Cyrille Lestrange]] (father-in-law)<ref name="COG"/>
+*[[Balbine Lestrange (I)|Balbine Lestrange]] (mother-in-law)<ref name="COG"/>
+*[[Quintilla Lestrange]] (granddaughter)<ref name="COG"/>
+*[[Nozéa Lestrange]] (great-granddaughter)<ref name="COG"/>
+*[[Trouche family]]<ref name="COG"/>
+*[[Lestrange family]] (in-laws)<ref name="COG"/>
+|romances =
+|wand =
+|animagus =
+|patronus =
+|boggart =
+|job =
+|house =
+|loyalty = *[[Trouche family]]<ref name="COG"/>
+*[[Lestrange family]]<ref name="COG"/>
+}}
+'''Luminosa Lestrange''' (née '''Trouche''') was a [[France|French]] [[Wizardkind|witch]] and a member of the [[pure-blood]] [[Lestrange family]]. She married [[Cyrille Lestrange (III)|Cyrille Lestrange]] and had a two sons with him, [[Cyrille Lestrange (IV)|Cyrille]] and [[Floxel Lestrange|Floxel]].<ref name="COG">{{COG}} {{see image|File:The art of CoG lestrange.jpeg}}</ref>
+
+==Behind the scenes==
+*Her name, ''Luminosa'', means "bright" or "shiny" in Spanish and Italian. It may be possible that Luminosa's family had some connection with those countries.
+
+==Appearances==
+*{{COG}} {{1st Mention}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lestrange, Luminosa}}
+[[fr:Luminosa Trouche]]
+[[pl:Luminosa Lestrange]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Lestrange family]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Trouche family]]
+[[Category:Wizards]]

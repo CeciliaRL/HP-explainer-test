@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Debbiemuntz.JPG|250px]]
+|name = Debbie Muntz
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[United States of America|American]]
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Black (Braided)
+|eyes = Brown
+|skin = Dark
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[American National Quidditch team]]
+|house = 
+|loyalty = [[American National Quidditch team]]
+}}
+'''Debbie Muntz''' was an [[United States of America|American]] [[Wizardkind|witch]] who played as a [[Chaser]] on the [[American National Quidditch team]] during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]].
+
+During the [[1996–1997 school year]], Muntz's [[Chocolate Frog Card]] could be won by beating [[Poppy Caxton]] at a [[Gobstones]] challenge.<ref>{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{C|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Muntz, Debbie}}
+[[es:Debbie Muntz]]
+[[fr:Debbie Muntz]]
+[[pl:Debbie Muntz]]
+[[Category:American individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Wizards]]

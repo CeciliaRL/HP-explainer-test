@@ -1,0 +1,48 @@
+{{Imageless}}
+{{Individual infobox
+|theme = muggle
+|image =  
+|name =  
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[England|English]] 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes =  
+|skin =  
+|family = [[Megan Scott]] (granddaughter)  
+|romances = [[Horatio Cloke]] 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Catherine Tyler''' was a [[Non-magic people|Muggle]] that lived in [[Yorkshire]], who once planned to elope with a [[Wizard|wizard]], [[Horatio Cloke]].
+
+==Biography==
+Catherine Tyler was a [[Muggle]], who fell in love with a [[Wizardkind|wizard]], [[Horatio Cloke]]. They once planned to elope, and Horatio stashed away a chest full of gold and jewels to take when they did. Catherine had half a key to open the chest.<ref name="FBC9-4">{{FBC|9|4}}</ref> However, they didn't elope and when Horatio died, he turned into a [[Ghost|ghost]] who haunted [[Cloke Mansion]].<ref name="FBC9-1">{{FBC|9|1}}</ref>
+
+Catherine went on to gain a granddaughter, [[Megan Scott]]. She later gave her the key to chest and a map of the area, and told her to 'seek her past' and that '[[Horatio Cloke|Cloke]] knows the truth'. Catherine soon died, and her granddaughter pursued seeking what her grandmother told her to.<ref name="FBC9-1"/> [[Mathilda Grimblehawk]] and her partner had to help Megan when she was attacked by [[Jacturus Cloke III]], and they found and gave her the chest.<ref name="FBC9-4"/> 
+
+==Behind the scenes==
+*Despite being a Muggle, Catherine seemingly had the ability to see her lover Horatio Cloke's ghost; {{PM}} states that Muggles lack the ability to properly visualise ghosts, unlike wizards.
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}} 
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Muggles]]

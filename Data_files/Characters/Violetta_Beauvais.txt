@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Violetta Beauvais
+|hideb=
+|born=In or before [[1909]] (likely)<ref>{{FB|F}} {{see image|File:Wand Permit - full.png}} - She was likely of age by the time she was a recognised wandmaker in 1926.</ref><br/>[[New Orleans]], [[Louisiana]], [[United States of America]]
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Wandmaker]]
+|house=
+|loyalty=
+}}
+'''Violetta Beauvais''' was an [[United States of America|American]] [[wizardkind|witch]].<ref name="pottermore-1920s">{{WW|1920s-wizarding-america-en}}</ref> She, along with [[Shikoba Wolfe]], [[Thiago Quintana]], and [[Johannes Jonker]], was one of four [[wandmaker]]s who served [[North America]] in the early [[20th century]].<ref name="pottermore-1920s" />
+
+==Biography==
+Beauvais was born in [[New Orleans]], [[Louisiana]].<ref name="pottermore-1920s" /> All of the [[wand]]s she produced were made from [[swamp mayhaw]] wood.<ref name="pottermore-1920s" /> For many years, she kept the [[wand core|core]] she used in her wands a closely-guarded secret, but it was eventually discovered to be [[rougarou hair]].<ref name="pottermore-1920s" /> Beauvais's wands were often accused of having a natural affinity for [[Dark Arts|Dark magic]].<ref name="pottermore-1920s" /> However, many great American wizards of the [[1920s]] used Beauvais-made wands, including [[President of the Magical Congress of the United States of America|President]] [[Seraphina Picquery]].<ref name="pottermore-1920s" />
+
+==Etymology==
+''Violetta'' is a form of the name Violet, after the flower of the genus ''Viola''. They share their name with a shade of purple, a popular colour among wizards
+
+''Beauvais'' is a French surname, from ''beau'' ("beautiful") + ''vais'' ("to go (away)"). Violetta may be named after René Beauvais, a carpenter and master woodcarver from Lower Canada known for his extensive work on churches.
+
+==Behind the scenes==
+Since [[Rappaport's Law]] required  a [[Wand permit]], it is unknown how users of these wands would apply for a permit as the [[Wand permit|wand Permit application]] requires the applicant to tell the [[Wand Permit Office]] details of the wand. It might be that she was required to inform the [[Federal Wand Permit Officer]].
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{FB|F}} {{c|mentioned in a newspaper and on wand permit application}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Beauvais, Violetta}}
+
+[[de:Violetta Beauvais]]
+[[es:Violetta Beauvais]]
+[[fr:Violetta Beauvais]]
+[[pl:Violetta Beauvais]]
+[[ru:Виолетта Бове]]
+[[zh:维奥莱塔·博韦]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Wandmakers]]
+[[Category:Wizards]]

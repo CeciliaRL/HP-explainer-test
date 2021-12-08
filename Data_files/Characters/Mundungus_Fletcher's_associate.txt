@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:HPDH1-1618.jpg|250px]]
+|name = Unidentified associate of Mundungus Fletcher
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF1"/>
+|gender = Male<ref name="DHF1"/>
+|height = 
+|weight = 
+|hair = Black<ref name="DHF1"/>
+|eyes = 
+|skin = Light<ref name="DHF1"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Mundungus Fletcher]]'s associate<ref name="DHF1"/>
+|house = 
+|loyalty = [[Mundungus Fletcher]]<ref name="DHF1"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] and an associate of [[Mundungus Fletcher]]. He was seen dealing with Mundungus in [[Diagon Alley]] in [[1997]].<ref name="DHF1">{{DH|F1}}</ref>
+
+==Behind the scenes==
+*Mundungus's associate was portrayed by [[Martin Ballantyne]] in {{DH|F1}}.
+
+==Appearances==
+*{{DH|F1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Wspólnik Mundungusa Fletchera]]
+[[Category:British individuals|Fletcher's associate]]
+[[Category:Con artists]]
+[[Category:Males|Fletcher's associate]]
+[[Category:Unidentified individuals|Fletcher's associate]]
+[[Category:Wizards|Fletcher's associate]]

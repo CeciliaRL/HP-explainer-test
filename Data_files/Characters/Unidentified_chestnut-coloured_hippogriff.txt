@@ -1,0 +1,52 @@
+{{HogwartsMysterySpoiler}}
+{{Individual_infobox
+|image=[[File:Trio_and_hippogriff.jpg|250px]]
+|name=Unidentified chestnut-coloured hippogriff
+|theme=pet
+|hideb=
+|born= Before [[1993]]<ref name="POA6"/>
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species= [[Hippogriff]]<ref name="POA6"/>
+|gender=
+|height=
+|hair=Chestnut brown<ref name="POA6"/>
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts Hippogriff herd]]<ref name="POA6"/>
+}}
+This was a '''[[Hippogriff]]''' with a chestnut brown coat and a member of the [[Hogwarts Hippogriff herd]].<ref name="POA6"/>
+
+In [[1993]], [[Hermione Granger]] and [[Ronald Weasley|Ron Weasley]] approached it during a [[Care of Magical Creatures]] lesson, watched by [[Harry Potter]].<ref name="POA6">{{POA|B|6}}</ref>
+
+==Behind the scenes==
+*He/she may be [[Stormswift]], [[Fleetwing]] or [[Hothoof]].
+*This may have been the the Hippogriff newly acquired by [[Professor]] [[Silvanus Kettleburn]] in the "[[Magical Creatures Everywhere]]" quest in {{HM}}.
+
+==Appearances==
+*{{POA}} {{1st}}
+*{{PM}}
+*{{HM}} {{Possible}}
+
+==Notes and references==
+{{Reflist}}
+[[ru:Гиппогриф каштановой масти]]
+[[pl:Niezidentyfikowany hipogryf o kolorze kasztanowym]]
+[[Category:Care of Magical Creatures]]
+[[Category:Hagrid's pets]]
+[[Category:Hippogriffs]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]

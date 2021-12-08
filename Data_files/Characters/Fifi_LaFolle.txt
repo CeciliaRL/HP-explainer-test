@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:FifiLaFolle.png]]
+|name = Fifi LaFolle
+|born = [[1888]]<ref name="JKRS"/>
+|died = [[1971]] (aged 82-83)<ref name="JKRS"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Female<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="JKRS"/>
+|eyes = Brown<ref name="JKRS"/>
+|skin = White<ref name="JKRS"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author<ref name="JKRS"/>
+|house = 
+|loyalty = 
+}}
+'''Fifi LaFolle''' ([[1888]]–[[1971]]) was a [[Wizardkind|witch]] and the author of the ''[[Enchanted Encounters]]'' series.<ref name="JKRS"/>
+
+==Biography==
+
+===Early life===
+Fifi LaFolle was born in [[1888]] to parents of unknown blood status. She either was home schooled by her parents or attended [[Hogwarts School of Witchcraft and Wizardry]], which she would have attended from 1899 or 1900 to 1906 or 1907.
+
+In her adult life, she began writing her famous book collection, titled the ''[[Enchanted Encounters]]''.<ref name="JKRS">{{JKRS}}</ref>
+
+===Death and post-mortem===
+LaFolle died in [[1971]] at the age of 82 or 83. She was on a [[Chocolate Frog Card]] after her death and was awarded 'Wizard of the Month' in [[2005]].<ref name="JKRS"/>
+
+==Behind the scenes==
+*Fifi LaFolle was [[Wizard of the Month]] on {{JKRS}} for [[October]] [[2005]].
+*The image accompanying her entry on the website appears to be based on the deceased [[Great Britain|British]] romance novelist {{W|Barbara Cartland}}.
+*In French, 'La Folle' means 'the mad woman'.
+
+==Appearances==
+{{Imagecat|Images of Fifi LaFolle}}
+*{{JKRS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:LaFolle, Fifi}}
+[[es:Fifi LaFolle]]
+[[de:Fifi LaFolle]]
+[[fr:Fifi LaFolle]]
+[[it:Fifi LaFolle]]
+[[pl:Fifi LaFolle]]
+[[Category:1888 births]]
+[[Category:1971 deaths]]
+[[Category:Authors]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

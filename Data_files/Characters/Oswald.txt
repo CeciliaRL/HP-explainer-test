@@ -1,0 +1,46 @@
+{{youmay|the saint|[[Oswald (Niffler)|the Niffler of same name]], or [[Oswald Beamish]]}}
+{{Individual infobox
+|image=
+|name=Oswald
+|theme=individual
+|hideb=
+|born=
+|blood=
+|died=
+|marital=
+|alias=
+|title=[[Saint]]
+|hidep=
+|species=[[Human]]<ref name="CC16">{{CC|B|1|6}}</ref>
+|gender=Male<ref name="CC16"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|family=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Oswald''' was a [[saint]] after whom was named [[St Oswald's Home for Old Witches and Wizards]] in [[Upper Flagley]], [[Yorkshire]], [[England]].<ref name="CC16"/>
+
+==Behind the scenes==
+*There have been two real-life saints from [[Great Britain]] bearing the name Oswald: [[wikipedia:Oswald of Northumbria|Oswald of Northumbria]] (c. [[First millennium A.D.|604]] – [[5 August]] [[First millennium A.D.|642]]), who reigned as king of the ancient kingdom of [[wikipedia:Northumbria|Northumbria]] from [[First millennium A.D.|634]] until his death, and [[wikipedia:Oswald of Worcester|Oswald of Worcester]], Archbishop of York from [[First millennium A.D.|972]] to his death in [[First millennium A.D.|992]].
+
+==Appearances==
+*{{CC}} {{1st Mention}}
+*{{CC|P}} {{Mention}}
+*{{FBC}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Saints]]

@@ -1,0 +1,52 @@
+{{Youmay|Poderick Cruickshank|[[Poderick Crookshank]]}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:PoderickCruickshankHead.jpg|250px]]
+|name = Poderick Cruickshank
+|born = c. [[1492]]<ref name="MHP">{{MHP}} {{See image 2|File:PoderickCruickshank.jpg|File:PoderickCruickshank2.jpg}}</ref>
+|died = In or after [[1527]]<ref name="MHP" />
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Poderick Cruickshank''' (born c. [[1492]]) was a [[Wizardkind|wizard]] whose [[portrait]] hung at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="MHP" />
+
+His portrait was inscribed "''Anno MDXXVII''", indicating that it was painted in [[1527]], and "''Ætatis Suæ XXXV''", indicating he was 35 at the time the portrait was made, as ''ættatis suæ'' is [[Latin]] for "''of his age''"''.''<ref name="MHP" /><ref>"[http://en.wikipedia.org/wiki/List_of_Latin_phrases:_A List of Latin Phrases: A]" on Wikipedia</ref>
+
+==Behind the scenes==
+*Poderick Cruickshanks's portrait seems to have been based on a [https://commons.wikimedia.org/wiki/File:King_Henry_VII.jpg 1505 portrait] of [[Henry VII]] of England by an unknown artist.
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{Portrait}}
+*{{MHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Cruickshank, Poderick}}
+
+[[fr:Roderick Cruickshank]]
+[[pl:Poderick Cruickshank]]
+[[Category:1490s births]]
+[[Category:British individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

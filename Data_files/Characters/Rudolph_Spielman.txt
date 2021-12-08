@@ -1,0 +1,72 @@
+{{Individual infobox
+|theme = wizard
+|image = Spielman.png
+|name = Rudolph Spielman
+|born = Before [[1910]] (likely),<ref>As he was Head of Incarceration at the ICW in 1927, he was likely of age.</ref> [[Germany]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Germany|German]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = [[Rudolph Spielman's wand|Unknown wood, core material and length]]
+|patronus = 
+|job = [[Head of Incarceration]] at the [[International Confederation of Wizards]]
+|house = 
+|loyalty = [[International Confederation of Wizards]]
+}}
+'''Rudolph Spielman''' (fl. [[1920s]]) was a [[Germany|German]]<ref>''[[Lights, Camera, Magic!: The Making of Fantastic Beasts: The Crimes of Grindelwald]]'' - ([https://images-na.ssl-images-amazon.com/images/I/810Eau-4J0L.jpg See this image])</ref> [[wizardkind|wizard]] who worked as the [[Head of Incarceration]] at the [[International Confederation of Wizards]]. He participated in [[Gellert Grindelwald's extradition]] from [[Magical Congress of the United States of America|MACUSA]] to [[Europe]] to answer for his crimes, and was the only survivor of Grindelwald's escape.<ref name="COGS3">{{COG|S|3}}</ref>
+
+==Biography==
+===Career {{C|1927}}===
+{{Dialogue a-b-a|Rudolph Spielman|…you'll be glad to be rid of him, I expect.|Seraphina Picquery|We'd be more than happy to keep him here in custody.|Six months are enough. It's time for him to awnswer for his crimes in Europe.|Spielman getting ready to move Grindelwald|Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay}}
+As [[Head of Incarceration]], Spielman was in charge of overseeing the transfer of [[Gellert Grindelwald]] to [[Europe]]. Prior to boarding the [[Incarceration Carriage]] that contained the prisoner and two Aurors, Spielman spoke with [[Magical Congress of the United States of America|MACUSA]] President [[Seraphina Picquery]], who warned him not to underestimate Grindelwald. He told the President that the wizarding community owed her a great debt for capturing the [[Dark Wizard]] before being approached by [[Abernathy]], a MACUSA employee, who presented Spielman with a case that apparently contained Grindelwald's recently discovered wand and also a strange jewelled vial on a chain.<ref name="COGS3"/>
+
+As the carriage set off for the journey to Europe, Spielman examined the vial with interest before noting that Grindelwald no longer had his "silver tongue", MACUSA having cut it out to prevent him from coaxing his guards to side with him. To Spielman's shock and horror, however, "Grindelwald" was subsequently revealed to be a disguised Abernathy, who had swapped places with the real Grindelwald who was at that moment attacking the carriage. Spielman's white-handled wand, as well as those of the two Aurors with him, suddenly pointed themselves at their owner's necks before disintegrating, after which Spielman caught sight of Grindelwald's face peering in. Panicking, Spielman opened the case he held, only to find an infant chupacabra within that proceeded to maul the German wizard's neck, all whilst Abernathy retrieved the vial even as Spielman and the Aurors fought to restrain him.<ref name="COGS3"/>
+
+Eventually, however, Spielman was left as the sole survivor on the carriage as Grindelwald dispatched the remaining Aurors. Taking Spielman by the throat, Grindelwald held him out of the open door of the carriage before letting him go, sending the older wizard plummeting hundreds of feet. Seeing Abernathy's wand, which Grindelwald had dropped after him, Spielman was able to grab it and cast a Slowing Charm mere seconds before he impacted the water (it is possible that Grindelwald let him survive so he could tell the tale about his spectacular escape because right before Spielman was able to grab the wand, Grindelwald made a grabbing motion with his hand, which could've been some wandless charm, since Grindelwald is highly proficient in wandless and non-verbal magic). Soaking wet and traumatised, but alive, Spielman could only watch as Grindelwald escaped to wreak havoc once more.<ref name="COGS3"/>
+
+Some time afterwards, Spielman was present at the [[Newton Scamander's hearing|hearing]] as part of a committee to discuss the revocation of Newt Scamander's travel ban.<ref name="COGS19">{{COG|S|19}}</ref> He and Torquil Travers were later part of a group that travelled to Hogwarts after Grindelwald's rally in Paris in order to speak with Albus Dumbledore.<ref name="COGS116">{{COG|S|116}}</ref>
+
+==Magical abilities and skills==
+*'''[[Magic]]al mastery''': As [[Head of Incarceration]] for the [[International Confederation of Wizards]], Spielman was a highly capable wizard who was entrusted with overseeing the transfer of [[Gellert Grindelwald]]. Though Spielman was unable to put up any magical resistance as his wand was destroyed, he was able to swiftly cast a [[Slowing Charm]] to save his life without any apparent difficulty whilst using the wand of an enemy wizard, an impressive feat as he presumably had not earned that wand's allegiance.
+*'''[[Charm]]s''': Spielman was proficient with charms, with him being able to swiftly cast a successful [[Slowing Charm]] mid-fall as soon as he got a hold of a [[Abernathy's wand|falling wand]], doing so effectively enough to survive an extremely high fall without injury.
+*'''[[Non-verbal spell|Nonverbal magic]]''': Spielman was skilful with casting nonverbal spells, notably silently casting a Slowing Charm.
+*'''[[Apparition]]''': Being an accomplished adult wizard, Spielman was fully capable of Apparating at will.
+
+==Etymology==
+*Spielman is a German occupational surname meaning "minstrel". The name is composed of the words ''Spiel'' "play" and ''Mann'' "man". It originally referred to entertainers and later to medieval travelling musicians.
+
+==Behind the scenes==
+*Spielman is played by [[Wolf Roth]] in the [[Fantastic Beasts: The Crimes of Grindelwald|second instalment]] of the ''[[Fantastic Beasts (film series)|Fantastic Beasts]]'' film series.<ref name="pm">"[https://www.pottermore.com/news/next-fantastic-beasts-film-reveals-new-characters-including-nicolas-flamel Next Fantastic Beasts film reveals new characters – including Nicolas Flamel]" on {{PM}}</ref>
+
+==Appearances==
+*{{COG|S}} {{1st}}
+*{{COG}}
+
+==Notes and references==
+{{Reflist}}
+{{ICW}}
+{{DEFAULTSORT:Spielman, Rudoph}}
+[[de:Rudolph Spielman]]
+[[de2:Rudolph Spielman]]
+[[es:Rudolph Spielman]]
+[[fr:Spielman]]
+[[pl:Rudolph Spielman]]
+[[ru:Рудольф Шпильман]]
+[[Category:German individuals]]
+[[Category:International Confederation of Wizards members]]
+[[Category:Males]]
+[[Category:Wizards]]

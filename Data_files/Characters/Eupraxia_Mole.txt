@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Eupraxia Mole
+|born = Before [[1859]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="pottermore"/>
+|signature = 
+|species = [[Human]]<ref name="pottermore"/>
+|gender = Female<ref name="pottermore"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]]<ref name="pottermore"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="pottermore"/>
+}}
+'''Professor Eupraxia Mole''' was [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]] in the [[1870s]].<ref name="pottermore">{{WW|peeves}}</ref>
+
+==Biography==
+In [[1876]], caretaker [[Rancorous Carpe]] devised an "[[Rancorous Carpe's trap|elaborate trap]]" in an effort to remove [[Peeves]], the resident [[Poltergeist]], from the [[Hogwarts Castle|Castle]], which failed. The Castle had to be evacuated for three days as Peeves amused himself by firing weapons randomly and threatening the students with death.<ref name="pottermore"/>
+
+Professor Mole agreed to sign a [[Peeves' contract|contract]] with Peeves, so that he relinquished the weapons in exchange for additional privileges: a once-weekly swim in the boys' toilets on the ground floor, first refusal on stale bread from the kitchen for throwing purposes, as well as a new custom-made hat by [[Bonhabille|Madame Bonhabille]].<ref name="pottermore"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Dilys Derwent]]
+|position=[[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=c. [[1876]]
+|successor=Unknown, eventually [[Phineas Nigellus Black]]
+}}
+{{End box}}
+{{Staff}}
+
+{{DEFAULTSORT:Mole, Eupraxia}}
+
+[[de:Eupraxia Mole]]
+[[es:Eupraxia Mole]]
+[[fr:Eupraxia Mole]]
+[[pl:Eupraxia Mole]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Wizards]]

@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=mom
+|image=
+|name=Unidentified three successive Chief Warlocks of the Wizengamot
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=[[Chief Warlock]]s<ref name="pottermore"/>
+|signature=
+|hidep=
+|species=[[Human]]s<ref name="pottermore"/>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=
+|animagus=
+|boggart=
+|wand=[[Chestnut (tree)|Chestnut]] and [[unicorn hair]] cores, unknown length<ref name="pottermore"/>
+|patronus=
+|hidea=
+|job=Heads of the [[Wizengamot]]<ref name="pottermore"/>
+|house=
+|loyalty=*[[British Ministry of Magic]]<ref name="pottermore"/>
+**[[Wizengamot]]<ref name="pottermore"/>
+}}
+{{Quote|The wand of chestnut is attracted to witches and wizards who are skilled tamers of magical beasts, those who possess great gifts in Herbology, and those who are natural fliers. However, when paired with dragon heartstring, it may find its best match among those who are overfond of luxury and material things, and less scrupulous than they should be about how they are obtained. Conversely, three successive heads of the Wizengamot have possessed chestnut and unicorn wands, for this combination shows a predilection for those concerned with all manner of justice.|[[Garrick Ollivander]]'s notes on [[wand wood]]s|Pottermore}}
+These '''three individuals''' were [[wizardkind|wizards]] who headed the [[Wizengamot]] in successive terms in office. Prior to their education in the magical arts, they bought their [[wand]]s (presumably at [[Ollivanders|Ollivanders Wand Shop]]), and the three of them were chosen by wands of [[Chestnut (tree)|chestnut]] and [[unicorn hair]], the combination, as [[Garrick Ollivander]] noted, showing interest in matters of justice and law.<ref name="pottermore">{{PM}} wand wood information (transcription available [http://archive.is/20130109195708/pottermorespoilers.tumblr.com/post/9770067306/wand-woods here])</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Tres Jefes de Magos sucesivos del Wizengamot no identificados]]
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]
+[[Category:Wizengamot members]]

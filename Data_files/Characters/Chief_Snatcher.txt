@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = snatcher
+|image = 
+|name = Chief Snatcher
+|born = 
+|died = [[2 May]], [[1998]] (possibly)
+|blood = [[Pure-blood]] or [[half-blood]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Snatchers|Snatcher]]
+|loyalty = [[Snatchers]]
+}}
+The '''Chief Snatcher''' was the second in command of the [[Snatchers]] during the [[Second Wizarding War]]. He was second to [[Fenrir Greyback]] who was the leader of the group.<ref name="DHF2"/>
+
+==Biography==
+During the [[Battle of Hogwarts]], the Chief Snatcher participated the [[Skirmish at the Wooden Bridge|Skirmish at the Covered Bridge]] along with [[Scabior]] and many others and possibly fell to his death when the bridge collapsed.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*The Chief Snatcher was portrayed by [[David Decio]] in {{DH|F2}}.<ref>{{IMDb name|1595786|David Decio}}</ref>
+*[[Matthew Bancroft]] was a photo-double for the Chief Snatcher in the [[Harry Potter and the Deathly Hallows (film)|film adaptations]] of {{DH}}.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[pt-br:Sequestrador Chefe]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:Males|Snatcher]]
+[[Category:Unidentified snatchers]]

@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Flitneyplayer.png|250px]]
+|name = Keaton Flitney
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[England|English]]<ref name="QWC"/>
+|alias = 
+|title = [[Chaser]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="QWC"/>
+|eyes = Blue<ref name="QWC"/>
+|skin = White<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[English National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[English National Quidditch team]]<ref name="QWC"/>
+}}
+'''Keaton Flitney''' was an [[England|English]] [[Wizardkind|wizard]] who played as a [[Chaser]] on the [[English National Quidditch team]] during the four-hundred and twenty-second [[1994 Quidditch World Cup|Quidditch World Cup]], in [[1994]].<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]] at [[Hogwarts School of Witchcraft and Wizardry]], Flitney's [[Chocolate Frog Card]] could be won by beating
+[[Bastien Queensbury]] at a [[Gobstones]] challenge.<ref name="HBPG">{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Etymology==
+The name "Keaton" is from a surname which was derived from a place name meaning "shed town" in Old English.
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{FWC}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Flitney, Keaton}}
+[[fr:Keaton Flitney]]
+[[pl:Keaton Flitney]]
+[[Category:20th century births]]
+[[Category:Blue-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

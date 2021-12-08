@@ -1,0 +1,58 @@
+{{Individual_infobox
+|theme = wizard
+|image = Yaxley (1920s).png
+|name = Yaxley
+|blood = [[Pure-blood]]<ref name="PM"/>
+|died =
+|title =
+|signature =
+|alias =
+|marital = Married<ref name="COG"/>
+|nationality = [[Great Britain|British]]<ref name="COG"/>
+|species = [[Human]]<ref name="COG"/>
+|gender = Male<ref name="COG"/>
+|hair = 
+|eyes =  
+|skin = 
+|height =
+|weight = 
+|romances = [[Yaxley's wife|Wife]]
+|wand = 
+|animagus =
+|boggart =
+|patronus = 
+|family = *[[Yaxley's wife|Wife]]<ref name="COG"/>
+*[[Corban Yaxley]] (possible relative)
+*[[Yaxley family]]<ref name="COG"/>  
+|job =
+|house = 
+|loyalty = [[Yaxley family]]<ref name="COG"/> 
+}}
+{{Dialogue a-b-a|Leta Lestrange|Oh, no, Yaxley. I hate the way he makes a beeline for me every time.|Theseus Scamander|Well, if you insist on being the most beautiful woman in the room.|It's not that, and you know it. It's all blood with Yaxley.|[[Leta Lestrange]] and [[Theseus Scamander]]|Fantastic Beasts: The Crimes of Grindelwald}}
+'''Yaxley''' was a [[Great Britain|British]] [[Wizardkind|wizard]] born into the prominent [[pure-blood]] [[Yaxley family]], and a proponent of [[Pure-blood supremacy|pure-blood values]].<ref name="COG"/> 
+
+==Biography==
+{{Quote|Return, great avenger, with wings, from the water. Congratulations, Leta. Your brother lives. We all truly believe it.|Yaxley in Leta's ear|Fantastic Beasts: The Crimes of Grindelwald}}
+[[File:Theseus shaking hands with Shafiq and Yaxley.png|250px|left|thumb|Yaxley with Shafiq, his wife, and Theseus]]
+In [[1927]], Yaxley attended a wizarding ball and was busy socialising with [[Shafiq (1920s)|Shafiq]] when the pair was greeted by [[Theseus Scamander]]. Scamander embraced Shafiq and then shook hands with Yaxley as he introduced him to [[Yaxley's wife|his wife]]. Scamander's fiancée [[Leta Lestrange]] kept her distance from Yaxley as she disliked his behaviour of bee-lining towards her due to her [[blood status]] as a [[pure-blood]]. A short while later, as Leta was wandering the party alone, Yaxley came up to her and quoted from ''[[The Predictions of Tycho Dodonus]]'', expressing his belief that [[Corvus Lestrange (V)|her brother]] had indeed survived the sinking of the [[Unidentified ship|ship]].<ref name="COG">[https://www.youtube.com/watch?v=dE1rQCwjF_Y&t=219s Crimes of Grindelwald - Deleted Scenes]</ref>
+
+Around a decade later, he and his kinsmen became proud members of the [[Sacred Twenty-Eight]] in the ''[[Pure-Blood Directory]]''.<ref name="PM">{{PM}}</ref>
+
+==Behind the scenes==
+*Yaxley is played by [[Adam Ewan]] in {{COG}}.
+**By an apparent transcription mistake, some sources, including Ewan's IMDb profile, list the character's name as "Yarwood".<ref>[https://www.imdb.com/name/nm2652621/ Adam Ewan's profile on IMDb]</ref>
+
+==Appearances==
+*{{COG}} {{1st}} {{Deleted scenes}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Yaxley (lata 20.)]]
+[[fr:Yaxley (années 1920)]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Pure-bloods]]
+[[Category:Pure-blood supremacists]]
+[[Category:Wizards]]
+[[Category:Yaxley family]]

@@ -1,0 +1,54 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Duke of Wellington
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = Duke of Wellington
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Arthur Wellesley, 1st Duke of Wellington''' was a [[Non-magic people|Muggle]] [[Great Britain|British]] nobleman, soldier, and [[Prime Minister]]. He popularised the use of [[Wellington boots|a certain variety of waterproof boot]], which were named "Wellington boots" in his honour.<ref>{{PM}} - ([https://pottermore.fandom.com/wiki/Wellington_Boots see Pottermore wiki archive])</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Eventually, [[Lord North]]
+|position=[[Prime Minister (title)|Prime Minister]]
+|years=[[1828]]–[[1830]]<br/>[[1834]]
+|successor=Eventually, [[Lord Palmerston]]
+}}
+{{End box}}
+[[Category:1769 births]]
+[[Category:1852 deaths]]
+[[Category:British individuals]]
+[[Category:Deceased individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Nobility]]
+[[Category:Prime Ministers]]

@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Kevin Hopwood
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Gobstones Tournament|Gobstones World Champion]]<ref name="Pottermore"/>
+|signature = 
+|species = [[Human]]<ref name="Pottermore"/>
+|gender = Male<ref name="Pottermore"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[National Gobstone Association]]<ref name="Pottermore"/>
+}}
+'''Kevin Hopwood''' was a [[Wizardkind|wizard]] who was made the [[Gobstones Tournament|Gobstones World Champion]] at some point. Due to the lack of popularity the game of [[Gobstones]] has been having in latest years, the [[National Gobstone Association]] has attempted a recruitment campaign, "''[[Give Gobstones A Second Glance]]''", and issued a poster with an accompanying picture of Hopwood being squirted with an eyeful of gunk.<ref name="Pottermore">{{WW|gobstones}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hopwood, Kevin}}
+[[pl:Kevin Hopwood]]
+[[Category:British individuals]]
+[[Category:Gobstones players]]
+[[Category:Males]]
+[[Category:Wizards]]

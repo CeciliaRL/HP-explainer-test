@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = giant
+|image = 
+|name = Morholt's brother
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = King
+|signature = 
+|species = [[Giant]]<ref name="giant" />
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Morholt]] (brother)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+The '''brother''' of [[Morholt]] was the King of [[Ireland]]. He was a [[giant]] like his sibling.<ref name="giant">The Famous Wizard Card for [[Morgan le Fay]] explicitly refers to her as King Arthur's half-sister, whereas Morholt's card simply says he was the "brother" of the Irish King, implying that they have the same parents and are both full-blooded giants.</ref>
+
+==Behind the scenes==
+*In the real Arthurian legends, Morholt is the brother of the ''Queen'' of Ireland, Iseult (not to be confused with her daughter of the same name who is featured in ''Tristan and Iseult''.)<ref>[[Wikipedia:Morholt|Morholt]] at [[Wikipedia:Main Page|Wikipedia]].</ref>
+
+==Appearances==
+*{{POA|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Giants}}
+[[fr:Roi d'Irlande]]
+[[pl:Brat Morholta]]
+[[Category:Giants]]
+[[Category:Irish individuals]]
+[[Category:Males]]
+[[Category:Royalty]]
+[[Category:Unnamed family members‎]]

@@ -1,0 +1,44 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = 
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Andre Egwu]] (grandson)<ref name="yr4ch5">{{HM|4|5}} {{c|info revealed if Andre was selected as the one to borrow broomstick from}}</ref>
+*[[Andre Egwu's sister|Granddaughter]]<ref name="yr3ch3">{{HM|3|3}}</ref>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch]] player
+|house = 
+|loyalty = [[Pride of Portree]]
+}}
+This '''individual''' was a [[Wizardkind|witch]] who played for the [[Pride of Portree]].<ref>{{HM|6|Poor Sport}}</ref> She gave her grandson, [[Andre Egwu]], a broom as a present.<ref name="yr3ch3">{{HM|3|3}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Egwu, Andre's grandmother}}
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Quidditch players]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

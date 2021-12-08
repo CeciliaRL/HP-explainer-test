@@ -1,0 +1,51 @@
+{{Individual infobox
+|name = Emily Rappaport
+|nationality = [[United States of America|American]]
+|title = President
+|species = [[Human]]
+|gender = Female
+|job = [[President of the Magical Congress of the United States of America]]
+|loyalty = [[Magical Congress of the United States of America]]
+|theme = macusa
+}}'''President Emily Rappaport''' was an [[United States of America|American]] [[wizardkind|witch]] who served as [[President of the Magical Congress of the United States of America|President]] of the [[Magical Congress of the United States of America]] in the late [[18th century]].<ref name="pottermore-rappaport">"[https://www.pottermore.com/collection-episodic/history-of-magic-in-north-america-en History of Magic in North America: Rappaport's Law]" on {{PM}}</ref>
+
+==Biography==
+Rappaport was the fifteenth person to be elected to the office of [[President of the Magical Congress of the United States of America|President]] of the [[Magical Congress of the United States of America]].<ref name="pottermore-rappaport" />
+
+Rappaport's term saw one of the greatest ever breaches of the [[International Statute of Wizarding Secrecy|International Statute of Secrecy]].<ref name="pottermore-rappaport" /> [[Dorcus Twelvetrees]], the daughter of Rappaport's [[Keeper of Treasure and Dragots]], [[Aristotle Twelvetrees]], revealed the locations of both the MACUSA headquarters and [[Ilvermorny School of Witchcraft and Wizardry|Ilvermorny]], as well as information on how the wizarding community sought to hide itself, to a [[Muggle|No-Maj]] with whom she was infatuated, [[Bartholomew Barebone]].<ref name="pottermore-rappaport" /> Barebone, a [[Scourers|Scourer]] descendant, firmly believed in the existence of [[magic]], and that [[wizardkind|witches and wizards]] should be destroyed.<ref name="pottermore-rappaport" /> He thus stole Dorcus's [[Dorcus Twelvetrees's wand|wand]] and sought to publicise all of the details about the wizarding world which she had told him.<ref name="pottermore-rappaport" />
+
+The fallout of this incident was profound.<ref name="pottermore-rappaport" /> The MACUSA was forced to relocate its headquarters because of all the No-Maj attention drawn to it and faced "humiliating" censure by the [[International Confederation of Wizards]].<ref name="pottermore-rappaport" /> Rappaport was required to testify before the ICW at a public inquiry, and admitted to them that she could not be certain that all No-Majs exposed to the leaked information had been [[Memory Charm|Obliviated]].<ref name="pottermore-rappaport" />
+
+In [[1790]], Rappaport enacted [[Rappaport's Law]], which created total segregation between the magic and non-magic communities in the [[United States of America|United States]] by banning wizards and witches from [[marriage|marrying]] or befriending No-Majs, restricting them to interactions "necessary to perform daily activities."<ref name="pottermore-rappaport" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Elizabeth McGilliguddy]]
+|position=[[President of the Magical Congress of the United States of America|President of MACUSA]]
+|years=c. [[1790]]
+|successor=Unknown, eventually [[Seraphina Picquery]]
+}}
+{{End box}}
+{{MACUSA|P}}
+
+{{DEFAULTSORT:Rappaport, Emily}}
+
+[[es:Emily Rappaport]]
+[[de:Emily Rappaport]]
+[[de2:Emily Rappaport]]
+[[pl:Emily Rappaport]]
+[[fr:Emily Rappaport]]
+[[ru:Эмили Раппапорт]]
+[[ja:エミリー・ラパポート]]
+[[Category:18th century births]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Legislators]]
+[[Category:Presidents of the Magical Congress of the United States of America]]
+[[Category:Wizards]]

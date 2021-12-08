@@ -1,0 +1,46 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Octavia Xeep
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM712">{{HM|7|12}}</ref>
+|gender = Female<ref name="HM712"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Lydian Xeep]] (husband)<ref name="HM712"/>
+*[[Zenith Xeep]] (daughter)<ref name="HM712"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Opera singer]]<ref name="HM712"/>
+|house = 
+|loyalty =
+}}
+{{Quote|Only the most renowned opera diva in the wizarding world! I've been following her career since I was a lad. Her parents, Lydian and Octavia, were also opera stars, but now she is branching out into new ventures!|[[Garrick Ollivander]], about [[Zenith Xeep]]|Harry Potter: Hogwarts Mystery}}
+'''Octavia Xeep''' was a famous [[opera singer]], the wife of [[Lydian Xeep]] and the mother of [[Zenith Xeep]].<ref name="HM712"/>
+
+By [[1990]], both Octavia and her husband were either dead or retired.<ref name="HM712"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Xeep, Octavia}}
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Musicians]]
+[[Category:Parents]]

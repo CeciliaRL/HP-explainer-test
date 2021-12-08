@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = giant
+|image = [[File:Morholt.png|250px]]
+|name = Morholt
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Ireland|Irish]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Giant]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Dirty blonde
+|eyes = Brown
+|skin = Pink
+|family = [[Morholt's brother|Brother]] †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Morholt's brother|Brother]]
+}}
+'''Morholt''' was a [[Giant]] from [[Ireland]]. He was the brother of the [[Morholt's brother|King of Ireland]]. He wounded the Celtic hero, [[Tristan]] with a [[poison]]ed sword after Tristan tried to kill him.<ref>{{POA|G}}</ref>
+
+==Behind the scenes==
+*Morholt was based on the [[Wikipedia:Morholt|figure in Celtic legend of the same name]].
+*Although Morholt's brother was the King of Ireland, Morholt would not have been a prince nor royalty as the High King was elected, as opposed to inheriting the position from a family member.
+
+==Appearances==
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+{{Giants}}
+
+[[de:Morholt]]
+[[es:Morholt]]
+[[ru:Морхольт]]
+[[fi:Morholt]]
+[[fr:Morholt]]
+[[pl:Morholt]]
+[[Category:Brown-eyed individuals]]
+[[Category:Famous Giants Chocolate Frog Cards]]
+[[Category:Giants]]
+[[Category:Historical figures]]
+[[Category:Irish individuals]]
+[[Category:Males]]

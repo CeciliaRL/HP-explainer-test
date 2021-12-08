@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:Paper Shop Girl.png]]
+|name = Paper shop girl
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HBP16"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBP16"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP16"/>
+|gender = Female<ref name="HBP16"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Shop assistant<ref name="HBP16"/>
+|house = 
+|loyalty = [[Ottery St Catchpole]] paper shop<ref name="HBP16"/>
+}}
+{{Quote|We're off to the village, there's a very pretty girl working in the paper shop who thinks my card tricks are something marvellous...almost like real magic...|[[George Weasley]] in [[1996]]|Harry Potter and the Half-Blood Prince}}
+
+A very pretty [[Non-magic people|Muggle]] girl worked as a '''shopgirl''' at a paper shop in [[Ottery St Catchpole]].<ref name="HBP16"/>
+
+==Biography==
+During the [[Christmas]] holidays of [[1996]], she was visited by [[Fred Weasley|Fred]] and [[George Weasley]]; the latter showed her card tricks that she found extremely impressive, unaware that George was using real [[magic]].<ref name="HBP16"/>
+
+The Weasley twins mentioned her to [[Harry Potter]] and their younger brother [[Ronald Weasley|Ron]] when they announced that they were leaving [[the Burrow]] for the village, and refused to assist Harry and Ron in peeling sprouts. This was partly because Ron had thrown a knife at Fred, who taunted him about his romance with [[Lavender Brown]], suggesting that she must have suffered "extensive brain damage" to be dating him.<ref name="HBP16">{{HBP|B|16}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+*{{PM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Fille de Loutry Ste Chaspoule]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified Muggles‎]]

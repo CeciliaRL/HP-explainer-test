@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Sinister-LookingMonks.png|250px]]
+|name=Painting of sinister-looking monks
+|hideb=
+|born=
+|died=Before [[1993]]
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="POA6"/>
+|gender=Males<ref name="POA6"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POA6"/>
+}}
+These '''sinister-looking monks''' were depicted in a picture hung at [[Hogwarts Castle]]. Their portrait hung at the top of the [[Divination Stairwell]] in the [[North Tower]], close to the [[Divination Classroom]]. [[Cadogan|Sir Cadogan]] bade farewell to [[Harry Potter]], [[Ronald Weasley]] and [[Hermione Granger]] through this portrait, after leading the trio along the [[Divination corridor|long corridor]] to the Divination Classroom.<ref name="POA6">{{POA|B|6}}</ref>
+
+==Appearances==
+*{{POA}} {{1st}} {{Portrait}}
+*{{PM}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts towers}}
+[[pl:Obraz ponurych mnichów]]
+[[Category:Clergy]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Laura Thorn's sister
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[England|English]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Laura Thorn]] (sister)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|This juice — it's pumpkin, right? Smells like [[Hallowe'en]]. My sister makes smoothies that smell like this, too!|[[Laura Thorn]]|Fantastic Beasts: Cases from the Wizarding World}}
+This '''individual''' was the sister of [[Laura Thorn]], a [[Non-magic people|Muggle]] [[Wikipedia:Cryptozoologist|cryptozoologist]]. When her sister was given a bottle of [[pumpkin juice]] to smell, she remarked how it reminded her of her sister's smoothies.<ref name="FBC2.3">{{FBC|2|3}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Thorn, Laura's sister}}
+[[es:Hermana de Laura Thorn]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Unnamed family members]]

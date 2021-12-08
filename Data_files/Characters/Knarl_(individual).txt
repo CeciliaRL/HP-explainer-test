@@ -1,0 +1,35 @@
+{{DISPLAYTITLE:Knarl}}
+{{HogwartsMysterySpoiler}}
+{{Youmay|[[Barnaby Lee]]'s pet Knarl|the species [[Knarl]]}}
+{{Pet individual infobox
+|image = Knarl (individual).jpg
+|name = Knarl
+|born = Before or during the [[1988–1989 school year]]<ref name="AEK">{{HM|5|AN ENCHANTED KISS}}</ref>
+|died = 
+|alias = 
+|title = 
+|species = [[Knarl]]<ref name="AEK"/>
+|gender = Male<ref name="AEK"/>
+|height = 
+|hair = Brown<ref name="AEK"/>
+|feathers = 
+|eyes = Brown<ref name="AEK"/><!--His eyes appear to switch between black and brown, but in a very close shot his right eye is brown-->
+|skin = Brown<ref name="AEK"/>
+|family = 
+|loyalty = [[Barnaby Lee]] (owner)<ref name="AEK"/>
+}}
+'''Knarl''' was [[Barnaby Lee]]'s pet [[Knarl]].<ref name="AEK"/>
+
+==Biography==
+During the [[1988–1989 school year]], Barnaby wanted Knarl to be [[Jacob's sibling]]'s co-star in the play ''[[Equinox Enchanted]]'', and they taught him some stage directions. Before the dress rehearsal, Knarl went missing, and he was later found on stage, but due to a sudden exclamation of Barnaby, he got spooked and ran around, destroying the sets and costumes being prepared.<ref name="AEK"/>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Barnaby Lee's possessions]]
+[[Category:Brown-eyed individuals]]
+[[Category:Knarls]]
+[[Category:Males]]
+[[Category:Pets]]

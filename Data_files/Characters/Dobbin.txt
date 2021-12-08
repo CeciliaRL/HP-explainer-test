@@ -1,0 +1,48 @@
+{{Youmay|the [[Beater]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]|the [[House-elf]] with almost similar name [[Dobby]]}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Dobbin
+|born = [[1970s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Beater]]<ref name="PSG"/>
+|signature = 
+|species = [[Human]]<ref name="PSG"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSG"/>
+}}
+'''Dobbin''' was a [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Wizardkind|student]] in the early [[1990s]]. They played as one of the two [[Beater]]s for one of the School's [[Quidditch]] [[Quidditch team|teams]].<ref name="PSG">{{PS|G}}</ref>
+
+==Appearances==
+*{{PS|G}} {{1st Mention}}
+
+==Behind the scenes==
+*In {{HBP}}, [[Sybill Trelawney]] refers to the [[Centaur]] [[Firenze]] using this unflattering nickname.<ref name="HBP15">{{HBP|B|15}}</ref> "Dobbin" is a rural slang term for a common [[horse]].
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+[[es:Dobbin]]
+[[pl:Dobbin]]
+[[Category:1970s births]]
+[[Category:Beaters]]
+[[Category:British or Irish individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

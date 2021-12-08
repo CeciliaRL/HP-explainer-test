@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Emerett Picardy
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=[[Professor]]<ref name="PM"/>
+|hidep=
+|species=[[Human]]<ref name="PM"/>
+|gender=Male<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=Hide
+|family=
+|hidem=Hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Author<ref name="PM"/>
+|house=
+|loyalty=
+}}
+'''Professor Emerett Picardy''' was a [[Wizardkind|wizard]] and the author of ''[[Lupine Lawlessness: Why Lycanthropes Don't Deserve to Live]]''. His work was noted for its incorrect conclusion that [[Werewolf|werewolves]] lost their moral sense while in [[human]] form.<ref name="PM">{{WW|werewolves}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Picardy, Emerett}}
+[[pl:Emerett Picardy]]
+[[fr:Emerett Picardy]]
+[[es:Emerett Picardy]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Professors]]
+[[Category:Wizards]]

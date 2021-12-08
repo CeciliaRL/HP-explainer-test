@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Scrivenshaft
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Owner of [[Scrivenshaft's Quill Shop]]
+|house = 
+|loyalty = [[Scrivenshaft's Quill Shop]]
+}}
+'''Scrivenshaft''' was a [[Wizardkind|wizard or witch]] who owned [[Scrivenshaft's Quill Shop]] in [[Hogsmeade]].<ref name="OOTP16">{{OOTP|B|16}}</ref><ref name="OOTP25">{{OOTP|B|25}}</ref><ref name="HBP21">{{HBP|B|21}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{HBP}} {{Mention}}
+*{{DH|G2}} {{Mention}}
+*{{WWHP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogsmeade}}
+
+[[pl:Scrivenshaft]]
+[[ru:Писарро]]
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

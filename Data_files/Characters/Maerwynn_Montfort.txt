@@ -1,0 +1,52 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Maerwynn Montfort
+|born = [[Middle Ages|Medieval times]]<ref name="HM5.10"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM5.10"/>
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author<ref name="HM5.10"/>
+|house = 
+|loyalty = 
+}}
+{{Dialogue a-b-a|Villanelle|Ah! I was wondering if we'd ever meet. Your brother was one of my favourite customers.|Jacob's sibling|Really? Why?|He was always reading what others weren't. The dustier, the better, as he put it. He was especially interested in a largely forgotten medieval author named Maerwynn Montfort. I always felt like he was searching for something specific in those old volumes, but he never told me what it was.|[[Villanelle|Madam Villanelle]] and [[Jacob's sibling]]|Harry Potter: Hogwarts Mystery}}
+'''Maerwynn Montfort''' was a [[Middle Ages|medieval]] [[wizardkind|witch]] and author whose books were sold at [[Flourish and Blotts]]. By the [[1980s]], Montfort had been largely forgotten.<ref name="HM5.10">{{HM|5|10}}</ref>
+
+[[Villanelle|Madam Villanelle]] told [[Jacob's sibling]] that their brother [[Jacob (Hogwarts student)|Jacob]] had been very interested in Montfort's works before his disappearance. She remarked how Jacob was one of her favourite customers as she found it nice to talk to someone else who had also read those ancient texts.<ref name="HM5.10"/>
+
+==Etymology==
+The name Maerwynn is derived from two old English elements: "maer", meaning "famous", "renowned", or "one who Illuminates" and "wynn", meaning "friend," "white," or "fair." It is the name of a [[First millennium A.D.|10th century]] {{w|M%C3%A6rwynn|nun and saint}} who served as a foster mother to Edgar the Peaceable's daughter Ælfflæd.
+
+The surname "Montfort" is of Norman origin, coming from Old French mont 'hill' (see Mont 1) + fort 'strong', 'impregnable' (Latin fortis). It is also a habitational name from any of the numerous places called Montfort,
+
+==Behind the Scenes==
+*Montfort's gender is not specified in the one scene where they are discussed; however, based on their name, they might have been female.
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Montfort, Maerwynn}}
+[[Category:Authors]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Wizards]]

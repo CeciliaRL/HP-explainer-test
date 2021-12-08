@@ -1,0 +1,55 @@
+{{Real world subject}}
+{{Individual infobox
+|image=
+|theme=individual
+|bgcolor1=
+|bgcolor2=
+|name=Matthew
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+*Matthew the Apostle
+*Saint Matthew
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Writer
+|house=
+|loyalty=
+}} 
+'''Matthew''', also known as '''Matthew the Apostle''' or '''Saint Matthew''', was regarded as the traditional author of the [[wikipedia:Gospel of Matthew|Gospel of Matthew]], one of the books of the [[Bible]].<ref name="wikipedia">"[https://en.wikipedia.org/wiki/Matthew_the_Apostle Matthew the Apostle]" on Wikipedia</ref> He was one of the twelve [[wikipedia:Apostles (Christian)|apostles]] of [[Jesus]] and one of the [[wikipedia:Four Evangelists|Four Evangelists]].<ref name="wikipedia" />
+[[File:Stained Glass Godric's Hollow.jpg|200px|thumb|left|Matthew, along with [[John]], [[Mark]] and [[Luke]] flanking [[Jesus]]]]
+
+There was a stained glass window in the [[St Jerome's Church|Parish Church of St. Clementine]] in [[Godric's Hollow]] depicting Christ and the Four Evangelists — Matthew, [[Mark]], [[Luke]] and [[John]].<ref>{{HPFW}} {{see image|File:Stained Glass Godric's Hollow.jpg}}</ref>
+
+==Appearances==
+
+*{{DH|F1}} {{Comment|Depicted in a stained glass window}}
+*{{DH|G1}} {{Comment|Depicted in a stained glass window}}
+*{{HPFW}} {{Comment|Depicted in a stained glass window}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pt-br:Mateus]]
+[[Category:Authors]]
+[[Category:B.C. era births]]
+[[Category:Biblical figures]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Saints]]

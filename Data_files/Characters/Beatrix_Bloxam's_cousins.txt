@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Beatrix Bloxam's cousins
+|born = Before [[1794]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="TBBR"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="TBBR"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Beatrix Bloxam's aunt|Mother]]<ref name="TBBR"/>
+*[[Beatrix Bloxam's father|Uncle]]<ref name="TBBR"/>
+*[[Beatrix Bloxam]] (cousin)<ref name="TBBR"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = Bloxam family<ref name="TBBR"/>
+}}
+[[Beatrix Bloxam]] had at least two '''cousins'''. They were older than her and were the children of her [[Beatrix Bloxam's aunt|aunt]]. When Beatrix was young, she overheard her aunt tell them the story ''[[The Warlock's Hairy Heart]]'', as well as a shocking story which concerned Beatrix's uncle [[Nobby]], a [[hag]], and a sack of [[Bouncing Bulb]]s.<ref name="TBBR">{{TBB|R}}</ref>
+
+==Appearances==
+*{{TBB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bloxam, Beatrix's cousins}}
+[[fr:Cousins de Beatrix Bloxam]]
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unnamed family members‎]]
+[[Category:Wizards]]

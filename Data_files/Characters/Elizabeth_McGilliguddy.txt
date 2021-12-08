@@ -1,0 +1,46 @@
+{{Individual infobox
+|name = Elizabeth McGilliguddy
+|born = Before [[1777]]<ref name="PottermoreHistory3">{{WW|macusa}}</ref>
+|nationality = [[United States of America|American]]
+|title = President
+|species = [[Human]]
+|gender = Female
+|job = [[President of the Magical Congress of the United States of America]]<ref name="PottermoreHistory3"/>
+|loyalty = [[Magical Congress of the United States of America]]
+|theme = macusa
+}}'''Elizabeth McGilliguddy''' was an [[United States of America|American]] [[wizardkind|witch]] who was [[President of the Magical Congress of the United States of America]].
+
+==Biography==
+Elizabeth was President by [[1777]], when she presided over the infamous [[Country or Kind? debate]]. She had the [[Great Meeting Chamber]] at MACUSA headquarters in [[Washington]] expanded to fit the many witches and wizards from America who wanted to attend.<ref name="PottermoreHistory3" />
+
+The debate was held to reach an agreement on whether or not to intervene in the [[Revolutionary War]] being waged by the No-Maj community. They discussed whether to join them or whether they should not intervene as it was simply not their fight. When they could not reach a consensus, Elizabeth sought the advice of the [[British Ministry of Magic]] to find out whether they were planning to intervene. They replied with a simple four word message stating "Sitting this one out". Elizabeth sent an even shorter reply back, stating "Mind you do." Neither MACUSA or the Ministry of Magic intervened in the war.<ref name="PottermoreHistory3" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Able Fleming]]
+|position=[[President of the Magical Congress of the United States of America|President of MACUSA]]
+|years=c. [[1777]]
+|successor=Unknown, eventually [[Emily Rappaport]]
+}}
+{{End box}}
+{{MACUSA|P}}
+{{DEFAULTSORT: McGilliguddy, Elizabeth}}
+
+[[de:Elizabeth McGilliguddy]]
+[[de2:Elizabeth McGilliguddy]]
+[[es:Elizabeth McGilliguddy]]
+[[fr:Elizabeth McGilliguddy]]
+[[ja:エリザベス・マクギリガディ]]
+[[pl:Elizabeth McGilliguddy]]
+[[Category:18th century births]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Presidents of the Magical Congress of the United States of America]]
+[[Category:Wizards]]

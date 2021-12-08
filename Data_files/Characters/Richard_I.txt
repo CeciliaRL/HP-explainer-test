@@ -1,0 +1,68 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Richard I
+|born = [[8 September]], [[1157]],<br/>Oxford, [[England]]
+|died = [[6 April]], [[1199]],<br/>Limousin, [[France]] (aged 41)
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = King of [[England]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[William I]] (ancestor)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Gregory the Smarmy]]
+}}
+__NOTOC__
+'''Richard I''' ([[8 September]] [[1157]] – [[6 April]] [[1199]]) was a [[Non-magic people|Muggle]] who reigned as [[King]] of [[England]] from [[1189]] until his death.<ref name="wikipedia">"[https://en.wikipedia.org/wiki/Richard_I_of_England Richard I]" on Wikipedia</ref>
+
+[[Gregory the Smarmy]] allegedly made his fortune by worming his way into King Richard's confidence.<ref>{{COS|G}} - PS2 version</ref>
+
+==Etymology==
+The name "Richard" means "brave power", derived from the Germanic elements ric "power, rule" and hard "brave, hardy".
+
+==Behind the scenes==
+*[[Richard Harris]], who portrays [[Albus Dumbledore]] in the film adaptations of ''[[Harry Potter and the Philosopher's Stone (film)|Harry Potter and the Philosopher's Stone]]'' and ''[[Harry Potter and the Chamber of Secrets (film)|Harry Potter and the Chamber of Secrets]]'', played King Richard I in ''{{wplink|Robin and Marian}}''.
+
+==Appearances==
+*{{COS|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=([[William I|←]]) Henry the Young King
+|position=King of England
+|years=[[1189]]-[[1199]]
+|successor=John Lackland ([[Henry VI|→]])
+}}
+{{End box}}
+
+[[es:Richard I]]
+[[fr:Roi Richard]]
+[[zh:理查一世]]
+[[pt-br:Ricardo I de Inglaterra]]
+[[pl:Ryszard I]]
+[[Category:1157 births]]
+[[Category:1199 deaths]]
+[[Category:English individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Royalty]]

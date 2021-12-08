@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Fortunade Lestrange
+|born=[[1721]]<ref name="Archive">{{AM}}</ref>
+|died=[[1790s|1779]]<ref name="Archive" /> (aged 58)
+|blood=[[Pure-blood]] or [[half-blood]]<ref name="Archive" /><ref>She was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|marital=
+|nationality = [[France|French]]
+|alias=
+|title=
+|signature=
+|species=Human
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|family=[[Lestrange family]]<ref name="Archive" />
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=[[Lestrange family]]<ref name="Archive" />
+}}'''Fortunade Lestrange''' ([[1721]] – [[1790s|1779]]) was a [[France|French]] [[Wizardkind|witch]] and a member of the [[pure-blood]] [[Lestrange family]]. Fortunade died in [[1790s|1779]] and was laid to rest in the [[Lestrange Mausoleum|Lestrange family Mausoleum]] in [[Cimetière du Père-Lachaise]], [[Paris]], [[France]].<ref name="Archive" />
+
+==Appearances==
+*{{AM}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Lestrange, Fortunade}}
+
+[[fr:Fortunade Lestrange]]
+[[pl:Fortunade Lestrange]]
+[[Category:1720s births]]
+[[Category:1770s deaths]]
+[[Category:Buried at Cimetière du Père-Lachaise]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Lestrange family]]
+[[Category:Wizards]]

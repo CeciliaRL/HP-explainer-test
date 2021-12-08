@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Eddi Stoddy
+|born = [[1904]]<ref name="GOFG"/>
+|died = [[1936]] (aged 31 - 32)<ref name="GOFG"/>
+|blood = [[Non-magic people|Muggle]]<ref name="GOFG"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOFG"/>
+|gender = Male<ref name="GOFG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Eddi Stoddy''' ([[1904]]-[[1936]]) was a [[Non-magic people|Muggle]] who lived at [[Little Hangleton]]. He died of unknown reasons at age 32. He was buried in [[Little Hangleton graveyard]].<ref name="GOFG">{{GOF|G}}</ref>
+
+==Appearances==
+*{{GOF|G}} {{Comment|Name seen on tombstone}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Stoddy, Eddi}}
+[[pl:Eddi Stoddy]]
+[[Category:1903 births]]
+[[Category:1936 deaths]]
+[[Category:British individuals]]
+[[Category:Buried at Little Hangleton graveyard]]
+[[Category:Males]]
+[[Category:Muggles]]

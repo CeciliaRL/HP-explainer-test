@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Sawbridge.jpg|250px]]
+|name = Almeric Sawbridge
+|born = [[1602]]<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|died = [[1699]] (aged 96-97)<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|gender = Male<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|eyes = Brown<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|skin = White<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Troll]] hunter<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|house = 
+|loyalty = 
+}}
+'''Almeric Sawbridge''' ([[1602]] – [[1699]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] and [[troll]] hunter who defeated the largest [[River Troll|river troll]] to have ever existed in Britain (said to be over one tonne), that had been threatening people crossing the [[River Wye]]. For this, he was featured on a [[Chocolate Frog Card]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Almeric Sawbridge}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Sawbridge, Almeric}}
+
+{{Chocolate Frog Cards}}
+
+[[fr:Almerick Sawbridge]]
+[[fi:Almerick Sawbridge]]
+[[it:Almerick Sawbridge]]
+[[pl:Almerik Sawbridge]]
+[[ru:Алмерик Соубридж]]
+[[de2:Almerick Sawbridge]]
+[[de:Almerick Sawbridge]]
+[[es:Almeric Sawbridge]]
+[[nl:Almerick Zaagbrug]]
+[[sv:Almerick Sawbridge]]
+[[zh:阿尔莫里克·索布里奇]]
+[[Category:1602 births]]
+[[Category:1699 deaths]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Monster hunters]]
+[[Category:Wizards]]

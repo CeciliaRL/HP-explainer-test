@@ -1,0 +1,45 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme= wizard
+|image=
+|name=Arcadinho
+|born=
+|died=
+|blood=
+|marital=
+|nationality=[[Brazil]]ian<ref name="WhereAngelsDare">{{WU}} (Calamity Essentials III: Where Angels Dare)</ref>
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="WhereAngelsDare"/>
+|gender=Male<ref name="WhereAngelsDare"/>
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=Wizard guide<ref name="WhereAngelsDare"/>
+|house=
+|loyalty=
+}}
+'''Arcadinho''' was a local [[wizardkind|wizard]] guide to [[Brazil]]ian jungles.<ref name="WhereAngelsDare"/>
+
+==History==
+At some point during the [[Calamity]], a [[Calamity Investigator]] serving as part of the [[British Ministry of Magic|Ministry of Magic's]] [[Statute of Secrecy Task Force]] travelled to the jungles of Brazil in search of pure [[Angel's Trumpet]] with which they could brew [[Tonic for Trace Detection]]. After discovering a massive supply, they coordinated an export strategy with Arcadinho.<ref name="WhereAngelsDare"/>
+
+==Behind the scenes==
+*The Portuguese word "arcadinho" is the masculine singular diminutive noun form of "árcade", referring to a member of the [[Wikipedia:pt:Arcádia Lusitana|Arcádia Lusitana]], an 18th-century literary society (modelled after the Italian [[Wikipedia:Pontifical Academy of Arcadia|Accademia dell'Arcadia]]) that introduced [[Wikipedia:Neoclassicism|Neoclassicism]] to the possessions of the Portuguese Empire (which included [[Brazil]]).
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Brazilian individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

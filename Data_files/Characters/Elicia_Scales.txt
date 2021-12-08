@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:EliciaScalesInUniverse.jpg|250px]]
+|name = Elicia Scales
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Elicia Scales''' was a [[wizardkind|witch]] who the [[British Ministry of Magic|Ministry of Magic]] kept tabs on while it was under [[Fall of the Ministry of Magic|Death Eater control]] in [[1997]]. Her file was signed by Chief Registration Authority [[F. L. Wakefield]].<ref>{{HPLE|G}} {{See image|File:EliciaScalesFile.jpg}}</ref>
+
+==Behind the scenes==
+*This character was named after [[Elicia Scales (real-world)|Elicia Scales]], who worked as an archivist on {{HBP}},  {{DH|F1}}, and {{DH|F2}}.<ref>"[http://www.imdb.com/name/nm2915578/ Elicia Scales]" on IMDb.com</ref>
+
+==Appearances==
+*{{DH|F1}} {{Photograph}}
+*{{HPLE}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Scales, Elicia}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Wizards]]

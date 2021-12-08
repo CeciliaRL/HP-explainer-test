@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = [[File:Maxine O'Flaherty.png]]
+|name = Maxine O'Flaherty
+|born = [[31 August]] [[1982]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Beater]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Black<ref name="QWC"/>
+|eyes = Green<ref name="QWC"/>
+|skin = White<ref name="QWC"/>
+|family = [[Ortiz O'Flaherty]] (possible relative)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="QWC"/>
+|loyalty = *[[O'Flaherty family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="QWC"/>
+**[[Hufflepuff Quidditch team]]<ref name="QWC"/>
+**[[Hufflepuff]]<ref name="QWC"/>
+}}
+'''Maxine O'Flaherty''' was a [[Wizardkind|witch]] that attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="QWC">{{QWC}}</ref>
+
+==Biography==
+She was [[Sorting ceremony|sorted]] sometime before [[1994]] into [[Hufflepuff]]. She was one of the [[Beater]]s for the [[Hufflepuff Quidditch team]] at the time that it was captained by [[Cedric Diggory]].<ref name="QWC"/>
+
+==Appearances==
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:O'Flaherty, Maxine}}
+[[de:Maxine O'Flaherty]]
+[[es:Maxine O'Flaherty]]
+[[pl:Maxine O'Flaherty]]
+[[no:Martine O'Flammagan]]
+[[ru:Максин О'Флаэрти]]
+[[Category:20th century births]]
+[[Category:Beaters]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Hufflepuffs]]
+[[Category:O'Flaherty family]]
+[[Category:Wizards]]

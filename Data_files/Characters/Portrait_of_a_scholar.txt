@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Portrait of a scholar.jpg|250px]]
+|name=Portrait of a scholar
+|hideb=
+|born=
+|died=Before [[1991]]
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|Welcome to Hogwarts!|The portrait greets the [[first year]]s in [[1991]]|Harry Potter and the Philosopher's Stone (film)}}
+This '''individual''' was a [[Wizardkind|wizard]] whose portrait hung at [[Hogwarts Castle]] in the [[1990s]], near the first-floor landing of the [[Grand Staircase]], next to a [[Girl with Flowers|portrait of a girl with flowers]] and a portrait of [[Hengist Rawkes]]. He was depicted wearing red robes and a pointed hat, reading a book through a magnifying glass. He was polite, greeting the first year newcomers to the [[Hogwarts Castle|Castle]] in [[1991]].<ref name="PSf13">{{PS|F}} - Chapter 13 (''Nick and Other Residents'')</ref>
+
+==Appearances==
+*{{PS|F}} {{Portrait}}
+*{{COS|F}} {{Portrait}}
+*{{POA|F}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{Portrait}}
+*{{LEGO|Y1}} {{Portrait}}
+*{{LEGO|Y2}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts first floor}}
+
+[[es:Retrato de un hombre leyendo]]
+[[pl:Portret uczonego]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

@@ -1,0 +1,40 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Wilfred Kidd Senior
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="RCB">{{HM|6|THE RISE OF A CURSE-BREAKER}}</ref>
+|gender = Male<ref name="RCB"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Wilfred Levi Kidd]] {{C|son}}<ref name="RCB"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Wilfred Kidd Senior''' was the father of [[Wilfred Levi Kidd]]. He and his son had the same first name.<ref name="RCB"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Kidd, Wilfred Senior}}
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Parents]]

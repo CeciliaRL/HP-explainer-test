@@ -1,0 +1,56 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = ravenclaw
+|image = Ravenclaw Boy II.png
+|name = Ravenclaw boy
+|born = on or before [[2 May]] [[1981]] (possibly)
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">[[Muggle-born]] students were not allowed to attend Hogwarts in the [[1997–1998 school year]].</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHG2"/>
+|gender = Male
+|height = 
+|weight = 
+|hair = Dark<ref name="DHG2"/>
+|eyes = 
+|skin = Light<ref name="DHG2"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="DHG2"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHG2"/>
+**[[Ravenclaw]]<ref name="DHG2"/>
+}}
+{{Dialogue a-b|[[Hannah Abbott]]|Harry needs our help. We have to hold them as long as we can!|Ravenclaw boy|She's right. Attack! ATTACK!|Hannah Abbott and the boy|Harry Potter and the Deathly Hallows: Part 2 (video game)}}
+{{Dialogue a-b-c|Ravenclaw boy|Keep fighting... we have to win.|Hannah Abbott|Harry needs more time.|Hannah Abbott|They're breaking through our defences.|Hannah and the boy|Harry Potter and the Deathly Hallows: Part 2 (video game)}}
+{{Dialogue a-b-c-d-e|Ginny Weasley|I... I think that's the last of them.|Ravenclaw boy|Where are they going?|Ginny Weasley|I don't believe it. We've done it!|Hannah Abbott|That was brilliant!|Ravenclaw boy|Blimey.|The boy, Hannah and Ginny|Harry Potter and the Deathly Hallows: Part 2 (video game)}}
+{{Dialogue a-b-c-d|Ginny Weasley|Well done, everyone.|Ravenclaw boy|Look out! Incoming!|Hannah Abbott|Everyone, get back inside!|Ginny Weasley|Get back to the Great Hall.|The boy, Hannah and Ginny|Harry Potter and the Deathly Hallows: Part 2 (video game)}}
+This '''[[Wizardkind|individual]]''' was a student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]] and was sorted into [[Ravenclaw]].<ref name="DHG2"/>
+
+==Biography==
+He fought in the [[Battle of Hogwarts]] against the [[Death Eaters]].<ref name="DHG2">{{DH|G2}}</ref>
+
+==Behind the scenes==
+*He may be [[Terry Boot]], [[Michael Corner]] or another unidentified Ravenclaw boy.
+*He is voiced by [[Gregg Chillin]] in the video game.
+
+==Appearances==
+*{{DH|G2}} {{1st}}
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ravenclaw boy}}
+
+[[Category:20th century births]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Ravenclaws]]
+[[Category:Wizards]]

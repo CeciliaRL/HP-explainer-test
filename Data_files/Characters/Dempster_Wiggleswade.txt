@@ -1,0 +1,62 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Dempster Wiggleswade
+|hideb=hide
+|born=before [[1979]]
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=*[[Department of Magical Law Enforcement]] employee
+*Advice columnist for the ''[[Daily Prophet]]''
+|house=
+|loyalty=*[[British Ministry of Magic]]
+**[[Department of Magical Law Enforcement]]
+*''[[Daily Prophet]]''
+}}
+{{Quote|Dear Buckley,<br>No, the Ministry of Magic would not turn a blind eye if you turn your nieces and nephews into blood-sucking ferrets. We will arrest you and you will probably find yourself in Azkaban. I advise you to call a halt to this feud before somebody gets hurt. In the meantime, contact the Office for the Removal of Curses, Jinxes and Hexes, who will take care of both the broomstick and your brother.|Dempster Wiggleswade's reply on the Problem Page of the Daily Prophet.|Daily Prophet Newsletters}}
+'''Dempster Wiggleswade''' was a [[Wizardkind|wizard]] who worked for the [[Department of Magical Law Enforcement]].<ref name="newsletters">''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''</ref>
+
+==Biography==
+He also wrote for the ''[[Daily Prophet]]'', using his legal expertise to answer some of the questions submitted to the problem page, which also featured responses from [[Grizel Hurtz]], [[Zamira Gulch]], and [[Helbert Spleen]]. He strongly advised [[Buckley Cooper]] not to take revenge on his brother by turning his children into [[vampire]] [[ferret]]s.<ref name="newsletters" />
+
+Following the return of [[Tom Riddle|Lord Voldemort]], he answered security questions from ''Daily Prophet'' readers.<ref name="hple">{{HPLE}}, see [[:File:Daily Prophet - Dark Times Ahead.jpg|this image]]</ref>
+
+==Appearances==
+*{{HBP|F}} {{C|Mentioned in ''Daily Prophet''}}
+*{{HPLE}}
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''
+
+==Notes and references==
+{{Reflist}}
+
+{{Ministry Level 2 employees}}
+
+{{Daily Prophet employees}}
+
+{{DEFAULTSORT:Wiggleswade, Dempster}}
+
+[[pl:Dempster Wiggleswade]]
+[[pt-br:Dempster Wiggleswade]]
+[[Category:Advice columnists]]
+[[Category:British individuals]]
+[[Category:Daily Prophet staff]]
+[[Category:Department of Magical Law Enforcement personnel]]
+[[Category:Males]]
+[[Category:Wizards]]

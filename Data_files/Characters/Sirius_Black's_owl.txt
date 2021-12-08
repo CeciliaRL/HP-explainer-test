@@ -1,0 +1,32 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:Black_owl.png|250px|Sirius Black's owl delivering a letter to Harry]]
+|name = Sirius Black's owl
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Owl]]<ref name="GOFF"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = Black<ref name="GOFF"/>
+|eyes = 
+|skin = 
+|family = [[Sirius Black]] (owner)<ref name="GOFF"/>
+|loyalty = [[Sirius Black]]<ref name="GOFF"/>
+}}
+{{Quote|P.S.: the [[bird]] bites.|[[Sirius Black]].|Harry Potter and the Goblet of Fire (film)}}
+This was a '''black [[owl]]''' that belonged to [[Sirius Black]], which he sent to deliver a letter to [[Harry Potter]] in late [[1994]]. The owl had an unfortunate tendency of biting people, and was one of the many [[Tropical bird|exotic birds]] that Sirius used to deliver letters to Harry, as [[Hedwig]] was easily recognisable.<ref name="GOFF">{{GOF|F}}</ref>
+
+==Behind the scenes==
+*Director [[Mike Newell]] wanted a black owl, which simply do not exist. The animal grooming department used a non-toxic food colouring to actually paint a brown owl's feathers to create a black owl.<ref name="Ultimate Edition">''Harry Potter and the Goblet of Fire: Ultimate Edition''</ref>
+
+==Appearances==
+*{{GOF|F}} {{1st}}
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Articles to be expanded]]
+[[Category:Owls]]
+[[Category:Sirius Black's possessions|Owl]]

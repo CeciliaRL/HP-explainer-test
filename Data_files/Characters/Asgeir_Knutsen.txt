@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Asgeir Knutsen - card HBP-NDS.png|250px]]
+|name = Asgeir Knutsen
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Blonde
+|eyes = Blue
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[Nordic National Quidditch team]]
+|house = 
+|loyalty = [[Nordic National Quidditch team]]
+}}
+'''Asgeir Knutsen''' was a [[Wizardkind|witch]] who played as a [[Beater]] on the [[Nordic National Quidditch team]].<ref>{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Knutsens [[Chocolate Frog Card]] could be won by beating [[Alison Denshaw]] at an [[Exploding Snap]] challenge.<ref>{{HBP|G}} {{c|NDS edition}}</ref>
+
+==Etymology==
+The name "Asgeir" is from the Old Norse name Ásgeirr (or possibly the modern Icelandic name Ásgeir), derived from the elements áss meaning "god" and geirr meaning "spear". It is, however, a masculine name.
+
+==Appearances==
+*{{QWC}}
+*{{HBP|G}} {{c|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Knutsen, Asgeir}}
+
+[[es:Asgeir Knutsen]]
+[[fr:Asgeir Knutsen]]
+[[pl:Asgeir Knutsen]]
+[[ru:Асгейр Кнутсен]]
+[[Category:Beaters]]
+[[Category:Blue-eyed individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Scandinavian individuals]]
+[[Category:Wizards]]

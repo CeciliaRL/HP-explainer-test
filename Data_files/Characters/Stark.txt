@@ -1,0 +1,34 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Stark
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]<ref name="OOTPF"/>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="OOTPF"/>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|hidea=y
+|job=
+|loyalty=
+}}
+'''Stark''' was a [[Non-magic people|Muggle]] who spray-painted their name onto the wall of a pedestrian tunnel in [[Little Whinging]].<ref name="OOTPF">{{OOTP|F}}</ref>
+
+==Appearances==
+*{{OOTP|F}} {{1st Mention}} {{Comment|Name seen in graffiti}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:English individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Muggles]]

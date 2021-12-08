@@ -1,0 +1,51 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Scarlett
+|born = c. late [[1960s]] or early [[1970s]]
+|died = [[July]] or [[August]] [[1985]]<ref name="HM"/>
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Scarlett''' was a [[Non-magic people|Muggle]] friend of [[Penny Haywood]], who was killed by a [[werewolf]] in the summer of [[1985]].
+
+==Biography==
+Scarlett was presumably born around the same time [[Penny Haywood]] was born, in the late [[1960s]] or early [[1970s]], and was raised in the [[Non-magic people|Muggle]] world. Every summer, Scarlett and her family would spend the holiday in the countryside, where they befriended Penny and her family.<ref name="HM">{{HM}}, Year 3, Side Quest "Penny for Your Thoughts"</ref>
+
+In the summer of [[1985]], Scarlett and Penny snuck out of their house at night during the full-moon. They found a [[werewolf]] which fascinated Scarlett. Scarlett followed it while Penny followed them with her [[wand]] ready. Eventually, the werewolf noticed it was being followed and turned around. It killed Scarlett before Penny had time to react.<ref name="HM" />
+
+Penny later blamed herself for Scarlett's death and decided to brew a [[Forgetfulness Potion]]. From then on, Penny's [[Boggart]] became the werewolf.<ref name="HM" />
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[ru:Скарлетт]]
+[[Category:1985 deaths]]
+[[Category:British individuals]]
+[[Category:Deaths by creature]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Werewolf victims]]

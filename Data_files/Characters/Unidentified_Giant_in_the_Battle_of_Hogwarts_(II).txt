@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Giants and Death Eaters.jpg|250px]]
+|name = Giant at the Battle of Hogwarts
+|died = [[2 May]], [[1998]],<br/>[[Hogwarts Castle]]
+|species = [[Giant]]
+|gender = Male
+|skin = Reddish-brown
+|loyalty = *[[Giant colony]]
+*[[Death Eaters]]
+**[[Tom Riddle|Lord Voldemort]]
+|theme = giant
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidea = 
+}}
+{{Quote|Ghhhrrrr!!|The giant being held down by [[Devil's Snare]]|Harry Potter and the Deathly Hallows: Part 2}}
+This individual was a male [[giant]] who fought in the [[Battle of Hogwarts]] on the [[2 May]], [[1998]] for [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]].<ref name="DHF2"/>
+
+==Biography==
+[[File:Giant wrapped by Devil's Snare.png|thumb|left|The giant being held down by roots on the ground of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]]]
+When arriving at the battle he was violently grabbed by [[Devil's Snare]] in the grounds of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], which held him down and tried to strangle him. However, he managed to break free and continued to fight in the battle. He was later killed during the battle.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*This giant is played by [[Gary Sayer]] in the [[Harry Potter and the Deathly Hallows: Part 2|film adaptation]] of {{DH}}.<ref>[http://www.imdb.com/name/nm4522464/ Gary Sayer at IMDB]</ref>
+*In the film he had a bit of hair, but in the video game he was completely bald.
+*In {{LEGO|Y2}} he is seen standing in a courtyard in which he sees the trio. When he runs after them he collapses with the wall and falls to the ground. Some of the torches and a bit roof burries him. However he breaks free and is later seen close to the [[Wooden Bridge]] fighting [[Grawp]]. He is then killed by two [[Suit of armour|suits of armour]].
+*This giant's reddish skin and the small, horn-like protrusions over his eyes give him a resemblance to an [[Oni]], and [[ogre]]-like creature from [[Japan]]ese mythology.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+*{{DH|G2}}
+*{{LEGO|Y2}} {{C|Appears as generic [[Giant]]}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Giants}}
+[[Category:Battle of Hogwarts fatalities]]
+[[Category:Death Eater allies]]
+[[Category:Giants]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]

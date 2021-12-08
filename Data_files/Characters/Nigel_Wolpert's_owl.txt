@@ -1,0 +1,28 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:Nigel_Wespurt_owl_2.jpg|200px]]
+|name = Nigel Wolpert's owl
+|born = [[1996]] or earlier
+|died = 
+|alias = 
+|title = 
+|species = [[Owl]]<ref name="OOTPF"/>
+|gender = 
+|height = 
+|hair = Brown<ref name="OOTPF"/>
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Nigel Wolpert]]<ref name="OOTPF"/>
+}}
+During his time at [[Hogwarts School of Witchcraft and Wizardry]], [[Nigel Wolpert]] owned an '''owl'''. He was seen carrying this owl to the [[Hogwarts Express]] at the end of the [[1995–1996 school year]].<ref name="OOTPF">{{OOTP|F}}</ref>
+
+==Appearances==
+*{{OOTP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Nigel Wolpert's possessions]]
+[[Category:Owls]]

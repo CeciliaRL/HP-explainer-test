@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = death-eater
+|image = [[File:The Death Eater being stunned by Harry..jpg|250px]]
+|name = Unidentified Death Eater
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">The [[Death Eaters]] as an organisation vehemently opposed all [[Muggle-born]]s and [[Non-magic people|Muggles]].</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF2"/>
+|gender = Male<ref name="DHF2"/>
+|height = 
+|weight = 
+|hair =
+|eyes =
+|skin =
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|job = 
+|house = 
+|loyalty = *[[Death Eaters]]<ref name="DHF2"/>
+**[[Tom Riddle|Lord Voldemort]]<ref name="DHF2"/>
+}}
+This '''individual''' was a [[Dark Wizard]] and [[Death Eaters|Death Eater]] who participated in the [[Battle of Hogwarts]] during the [[Second Wizarding War]].<ref name="DHF2"/>
+
+==Biography==
+On [[2 May]] [[1998]], this wizard was one of the first Death Eaters to break into [[Hogwarts School of Witchcraft and Wizardry]] after the [[protective enchantment]]s were [[Shield penetration spell|broken]]. He was seen [[Unsupported flight|flying]] through the [[Marble Staircase Tower|tower]] of the [[Grand Staircase]], but was stunned by [[Harry Potter]]. The Death Eater subsequently collided with the pillars, possibly knocking himself out. It is unknown if he participated in the rest of the battle or if he survived. If he did, he would have likely been put in Azkaban for aiding Voldemort.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:Males]]
+[[Category:Unidentified Death Eaters]]

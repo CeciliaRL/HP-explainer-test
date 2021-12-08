@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=macusa
+|image=[[File:PalomaProudfoot.png|250px]]
+|name=Paloma Proudfoot
+|born=[[8 October]], [[1900]]<ref name="ID">"[http://nerdist.com/new-fantastic-beasts-exhibit-opens-at-warner-bros/?gallery=463677#gallery NEW FANTASTIC BEASTS EXHIBIT OPENS AT WARNER BROS.]" from Nerdist {{see image|File:Paloma Proudfoot MACUSA ID.png}}</ref>
+|nationality=American
+|died=
+|blood=[[Magic]]al to unknown extent
+|marital=
+|alias=
+|title=
+|signature=[[File:Paloma Proudfoot sig.svg|125px]]
+|species=[[Human]]
+|gender=Female
+|height=5' 8"<ref name="ID" />
+|hair=Brown<ref name="ID" />
+|eyes=Blue<ref name="ID" />
+|skin=White<ref name="ID" />
+|family=[[Proudfoot]] (possibly)
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=[[Surveillor of Activity]]<ref name="ID" />
+|house=
+|loyalty=[[Magical Congress of the United States of America]]
+}}'''Paloma Proudfoot''' (b. [[8 October]], [[1900]]) was an American [[Wizardkind|witch]] who worked as a [[Surveillor of Activity]] for the [[Magical Congress of the United States of America]] in [[1926]].<ref name="ID" /> She lived at [[76 Monroe Street|76]] [[Monroe Street]] in [[New York]].<ref name="ID" />
+
+She may have been related to the [[British Ministry of Magic|British]] [[Auror]] [[Proudfoot]].
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}} 
+
+{{DEFAULTSORT:Proudfoot, Paloma}}
+[[es:Paloma Proudfoot]]
+[[Category:1900 births]]
+[[Category:American individuals]]
+[[Category:Blue-eyed individuals]]
+[[Category:Females]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Wizards]]

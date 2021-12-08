@@ -1,0 +1,50 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Albert Sallow
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Unspeakable]]
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Department of Mysteries]]
+}}
+'''Albert Sallow''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who worked at the [[British Ministry of Magic]] in the [[2010s]], in the capacity of [[Unspeakable]].<ref name="WUtrailer">{{WU}} {{see image|File:WU trailer documents ref.png}}</ref>
+
+==Biography==
+At some point in his career, he entered the [[Love Chamber]] in the [[Department of Mysteries]]; the log documenting the time of his entry and exit was brought to light during the investigation over the [[Calamity]], as it also showed [[Grim Fawley]] was frequently in the room at odd times.<ref name="WUtrailer"/>
+
+At some point during at least the [[2010s]], Sallow took members of the [[Statute of Secrecy Task Force]] on an informal tour of the Department of Mysteries. While on the tour, he taught the task force members about many of the mysterious artefacts kept within the department.<ref name="WU">{{WU}}</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 9 employees}}
+
+{{DEFAULTSORT:Sallow, Albert}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unspeakables]]
+[[Category:Wizards]]

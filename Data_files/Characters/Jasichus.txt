@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=individual
+|image=
+|name=Jasichus
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|nationality=[[Persia]]n
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Calid]] (son)
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Jasichus''' was a [[Persia]]n man and the father of the [[alchemy|alchemist]] [[Calid]].<ref name="HPVA">{{HPV|A}} {{See image|File:TheDeclineOfPaganMagic.png}}</ref> His son's alchemical advice was referenced in a block of text featured on the back cover of the book ''[[The Decline of Pagan Magic]]'' by [[Bathilda Bagshot]].<ref name="HPVA" />
+
+==Behind the scenes==
+*This character is referenced in a block of text on the back cover of a prop book featured in {{DH|F1}}. The text in question was taken from an [[1889]] English translation of the [[French]] book ''Le livre des figures hiéroglyphiques'' (''The Book of Hieroglyphic Figures''), which was first published in [[1612]], and has been attributed to [[Nicolas Flamel]] (c. [[1330]] – [[1418]]).<ref>''[https://archive.org/stream/b24887092#page/18/mode/2up Nicholas Flammel: His Exposition of the Hieroglyphical Figures...]'' copy on the Internet Archive</ref><ref name="wiki1">"[https://en.wikipedia.org/wiki/Nicolas_Flamel Nicolas Flamel]" on Wikipedia</ref>
+*[[wikipedia:Calid|Calid]] is a legendary figure to whom [[alchemy|alchemical]] writings have been attributed.<ref name="wiki2">"[https://en.wikipedia.org/wiki/Calid Calid]" on Wikipedia</ref> He has been associated with an actual historical figure, Khalid ibn Yazid (died [[First millennium A.D.|708 A.D.]]), an [[Wikipedia:Umayyad Caliphate|Umayyad]] [[prince]] who took an interest in alchemy and helped to translate the existing body of alchemical literature into [[wikipedia:Arabic|Arabic]].<ref name="wiki2" /> Khalid's father, [[wikipedia:Yazid|Yazid I]] ([[First millennium A.D.|647 A.D.]] – [[First millennium A.D.|683 A.D.]]), was the second [[wikipedia:Caliph|Caliph]] of the Umayyad Caliphate,<ref name="wiki3">"[https://en.wikipedia.org/wiki/Yazid_I Yazid I]" on Wikipedia</ref> and may be to whom the name "Jasichus" refers.
+
+==Appearances==
+*{{DH|F1}} {{comment|Name appears on book cover}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Historical figures]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Persian individuals]]

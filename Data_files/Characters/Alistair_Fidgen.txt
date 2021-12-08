@@ -1,0 +1,60 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = Alistair Fidgen.jpg
+|name = Alistair Fidgen
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = Old Al (by [[Jae Kim]])
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Knockturn Alley]]
+}}
+'''Alistair Fidgen''' was a [[Great Britain|British]] [[Wizardkind|wizard]], who often patronised [[Knockturn Alley]] in the [[1980s]].
+
+==Biography==
+Alistair got to know [[Jacob (Hogwarts student)|Jacob]] when the latter visited [[Knockturn Alley]]. They had a deal where Jacob would give Alistair items from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] to sell and Alistair helped Jacob search for a painting. The last time Alistair saw Jacob was at [[The White Wyvern]], where he had found the painting. Alistair claimed Jacob "was excited to finally solve some mystery, and said he wanted to thank me before 'meeting up with the others'." He also knew an individual from the [[MacFusty clan]], who, according to him, owed him a favour.<ref name="Y5SQ">{{HM|5|Egg Hunt}}</ref>
+
+During the [[1988–1989 school year]], he met [[Charles Weasley|Charlie Weasley]] and [[Jacob's sibling]], and offered to sell them an [[Acromantula egg]], which he claimed to be a [[dragon egg]], for 500 [[galleon]]s. Seeing it as a scam, Jacob's sibling refused, but after offering information about Jacob in addition to the egg for 495 galleons, Jacob's sibling reluctantly agreed.<ref name="Y5SQ" />
+
+After Jacob's sibling and Charlie managed to get the money needed to buy the egg, the three met up in the [[Forbidden Forest]]. Alistair gave the egg to the two before they paid, something he did not normally do. After he was paid, he allowed Jacob's sibling to ask one question about their brother. After answering, Alistair left, saying he did not want to be there when the egg hatched.<ref name="Y5SQ"/>
+
+At some point, Alistair made a deal with [[Jae Kim]] in which the latter would give him a [[Love Potion]]. However, the Love Potion that Jae gave him turned out to be [[Butterbeer]].<ref name="Y6CH10">{{HM|6|10}}</ref>
+
+During the [[1989–1990 school year]], when Jacob's sibling was in need of a used [[Golden Snitch]], they met Alistair, who gave them one for free as a peace offering. The Snitch, according to Alistair, may or may not have been used in the [[1986 Quidditch World Cup]], and was said to have been originally caught by [[Maximus Brankovitch III]].<ref name="RCB">{{HM|6|THE RISE OF A CURSE-BREAKER}}</ref>
+
+Later, Jae, Jacob's sibling and [[Andre Egwu]] attempted to get an [[invisibility cloak]] from him in exchange for a [[Remembrall]] and [[fireproof sock]]s. Alistair refused the offer due to the earlier bad experience with Jae, and instead attacked Jae. Jacob's sibling fought back by casting the [[Bird-Conjuring Charm]] and defeating Alistair in a duel. After losing, he finally relented and offered to give up his own invisibility cloak in exchange for the students providing him a real Love Potion.<ref name="Y6CH10"/>
+
+==Physical appearance==
+Alistair had long grey hair and wore black robes.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[ru:Алистер Фиджен]]
+
+{{DEFAULTSORT:Fidgen, Alistair}}
+
+[[fr:Alistair Fidgen]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,46 @@
+{{Individual infobox
+|name = Johan Hoffman
+|image = 
+|born = Prior to [[1665]]
+|died = 
+|blood = 
+|title = 
+|alias = 
+|signature = 
+|marital = 
+|nationality = 
+|species = [[Human]]<ref name="HPLE"/>
+|gender = Male<ref name="HPLE"/>
+|skin = 
+|eyes = 
+|hair = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|house = 
+|job = Professional [[Seer]]<ref name="HPLE"/>
+|loyalty = 
+|theme = wizard
+}}
+'''Johan Hoffman''' was a [[Wizardkind|wizard]] and professional [[Seer]], who made a [[prophecy]] in [[January]] of [[1665]]. His prophecy was stored in the [[Hall of Prophecy]] in the [[Department of Mysteries]] of the [[British Ministry of Magic]].<ref name="HPLE">{{HPLE}}</ref>
+
+==Behind the scenes==
+*He may have been the [[Unidentified male Seer]] whose prophecy was knocked over by [[Bellatrix Lestrange]] and [[Lucius Malfoy]] in the Hall of Prophecy.
+
+==Appearances==
+*{{OOTP}} {{Possible}}
+*{{HPLE}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Divination}}
+{{DEFAULTSORT:Hoffman, Johan}}
+[[es:Johan Hoffman]]
+[[Category:Males]]
+[[Category:Seers]]
+[[Category:Wizards]]

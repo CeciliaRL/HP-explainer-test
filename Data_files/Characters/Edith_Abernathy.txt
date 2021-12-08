@@ -1,0 +1,42 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Edith Abernathy
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|nationality=
+|species=[[Human]]<ref name="WU"/>
+|gender=Female<ref name="WU"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=[[Abernathy]] (possibly)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Edith Abernathy''' was a [[Wizardkind|witch]], who kept a [[Niffler]].<ref name="WU"/>
+
+During the [[2010s]], her Niffler appeared as a [[Foundable]] during the [[Calamity]]. Volunteer members of the [[Statute of Secrecy Task Force]] were able to free him, allowing Niffler to return to Edith.<ref name="WU">{{WU}}</ref>
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Abernathy, Edith}}
+[[Category:Females]]
+[[Category:Wizards]]

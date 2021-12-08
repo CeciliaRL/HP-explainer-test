@@ -1,0 +1,31 @@
+{{HogwartsMysterySpoiler}}
+{{Pet individual infobox
+|image = 
+|name = Fuzzclaw
+|born = [[1986]] or earlier
+|died = 
+|alias = 
+|title = 
+|species = [[Cat]]<ref name="HM"/>
+|gender = Male<ref name="HM"/>
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Rowan Khanna]] (owner)<ref name="HM"/>
+}}
+'''Fuzzclaw''' was a male [[cat]] that belonged to [[Rowan Khanna]]. They often missed their cat whilst they were at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], meaning the cat must have lived with their family back home.<ref name="HM">{{HM}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Stub}}
+[[de2:Fuzzclaw]]
+[[es:Fuzzclaw]]
+[[Category:Individual cats]]
+[[Category:Males]]
+[[Category:Rowan Khanna's possessions]]

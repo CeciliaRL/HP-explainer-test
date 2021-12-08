@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Merge|Director of the Ministry Police No. 41041}}
+{{Individual infobox
+|theme = mom
+|image = [[File:Director Investigation Department.jpg]]
+|name = Director of the Investigation Department No. 61042
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Director of the [[Investigation Department]] of the [[Auror Office]]
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Investigation Department]]
+}}
+This '''individual''' (fl. [[1996]]) was the director of the [[Auror Office]] [[Investigation Department]] under [[Gawain Robards]], Head of the Auror Office. The [[Death Eaters|Death Eater]] wanted posters issued in the summer of [[1996]] were signed by this individual.<ref>See [[:File:05amycus wp degd.png|this image]].</ref>
+
+==Appearances==
+*{{HBP|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+
+[[es:Director del Departemento de Investigación Nº. 61042]]
+[[Category:Auror Office personnel]]
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

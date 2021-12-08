@@ -1,0 +1,55 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Shaina Shaw
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[United States of America|American]]<ref name="WU"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Female<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Shaw family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Women's activist
+*[[Calamity Investigator]]
+|house = 
+|loyalty = *[[Shaw family]]
+*[[Salem Witches' Institute]]
+*[[International Confederation of Wizards]]<ref name="WU"/>
+**[[Statute of Secrecy Task Force]]<ref name="WU"/>
+}}
+'''Shania Shaw''' was an [[United States of America|American]] [[wizardkind|witch]], [[Feminism|feminist]] and member of the [[Statute of Secrecy Task Force]].<ref name="WU" />
+
+==Biography==
+In her adult life, she became a women's activist and joined the [[Salem Witches' Institute]]. At some point during [[2020]], she and a cadre of its members joined the [[Statute of Secrecy Task Force]], bolstering the efforts to contain the [[Calamity]].<ref name="WU"/>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': She was an expert on the usage of the [[Hour-Reversal Charm]]. Her knowledge of the [[time]] manipulating [[spell]] allowed her to illuminate her [[Calamity Investigator|colleagues]], and to be seen as a "master" in its use.<ref name="WU">{{WU}} (Calamity Essentials II: The Salem Witches' Institute)</ref>
+
+==Appearances== 
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Shaw, Shania}}
+[[pl:Shania Shaw]]
+[[Category:Activists]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Shaw family]]
+[[Category:Statute of Secrecy Task Force]]
+[[Category:Wizards]]

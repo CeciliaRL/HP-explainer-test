@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Ollivander
+|born = 
+|died = 
+|blood = [[Muggle-born]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Gervaise Ollivander]] (husband)
+*[[Garrick Ollivander]] (son)
+*[[Garrick Ollivander's son|Grandson]]
+*[[Garrick Ollivander's daughter|Granddaughter]] †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mrs Ollivander''' was a [[Muggle-born]] [[wizardkind|witch]]. With [[Garrick Ollivander's father|her husband]], she had at least one child, [[Garrick Ollivander|Garrick]], who inherited the family&apos;s ancient [[wand]]-making [[Ollivanders|business]] in [[Diagon Alley]].<ref name="pottermore">Pottermore background information on Ollivander (transcription available [http://lady-slytherin-forever.tumblr.com/post/8978736031/information-about-ollivander here])</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ollivander, Mrs (I)}} 
+[[es:Madre de Garrick Ollivander]]
+[[fr:Mère de Garrick Ollivander]]
+[[ru:Миссис Олливандер]]
+[[pl:Matka Garricka Ollivandera]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggle-borns]]
+[[Category:Ollivander family]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

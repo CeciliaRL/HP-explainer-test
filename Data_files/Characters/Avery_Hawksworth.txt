@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Avery Hawksworth.png]]
+|name = Avery Hawksworth
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[England|English]]<ref name="QWC"/>
+|alias = 
+|title = *Captain<ref name="QWC"/>
+*[[Chaser]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Black<ref name="QWC"/>
+|eyes = Brown<ref name="QWC"/>
+|skin = Dark<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] and Captain of the [[English National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[English National Quidditch team]]<ref name="QWC"/>
+}}
+'''Avery Hawksworth''' was an [[England|English]] [[Wizardkind|wizard]] who played as a [[Chaser]] on the [[English National Quidditch team]] during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]]. He was also the team's Captain.<ref name="QWC">{{QWC}}</ref>
+
+By [[1996]], he was depicted on a [[Chocolate Frog Card]] for his achievements in [[Quidditch]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Hawksworth, Avery}}
+[[fr:Avery Hawksworth]]
+[[pl:Avery Hawksworth]]
+[[ru:Эйвери Хоксворт]]
+[[Category:20th century births]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Quidditch Captains]]
+[[Category:Wizards]]

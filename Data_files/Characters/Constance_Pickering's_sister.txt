@@ -1,0 +1,53 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Constance Pickering' sister
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">Her brother was a Squib, meaning that they had at least one magical parent. If both of their parents were Muggles, her brother would be considered a Muggle as well.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WU"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Female<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Constance Pickering's mother|Mother]]<ref name="WU"/>
+*[[Constance Pickering's older brother|Older brother]]<ref name="FirstYearAtHogwarts"/>
+*[[Constance Pickering]] (sister)<ref name="WU"/>
+*[[Constance Pickering's Squib brother|Brother]]<ref name="WU"/>
+*[[Constance Pickering's grandmother|Grandmother]]<ref name="WU"/>
+*[[Matthias Pickering]] (grandfather)<ref name="FirstYearAtHogwarts">{{WU}} "Brilliant Event: First Year at Hogwarts"</ref>
+*[[Constance Pickering's Muggle grandfather|Grandfather]]<ref>{{WU}} "Brilliant Event: Darkness Risings"</ref>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Pickering family]]<ref name="WU"/>
+}}
+This '''individual''' was the sister of [[Constance Pickering]].
+
+==Biography==
+During [[Christmas]], she and her [[Constance Pickering's mother|mother]] pulled [[Christmas cracker|crackers]] together.<ref name="WU"/>
+
+In [[2019]], the [[Pickering family]] had Christmas at her new house, but they did not send Constance any details or address. As a result, Constance was invited to a Christmas dinner with the [[Potter family]].<ref name="WU">{{WU}} "Brilliant Event: Christmas Calamity"</ref>
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Pickering, Constance sister}}
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Pickering family]]
+[[Category:Wizards]]

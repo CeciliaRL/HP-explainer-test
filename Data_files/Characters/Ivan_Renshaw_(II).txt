@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Ivan Renshaw
+|born = c. [[1985]] or earlier<ref>He must have at least been in his first year in 1996.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ivan Renshaw (I)]] (possibly)
+*[[Renshaw family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Renshaw family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Ivan Renshaw''' was a [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+He competed in the school [[Gobstones]] tournament during the [[1996–1997 school year]].
+
+==Etymology==
+The name "Ivan" is the newer form of the old Slavic name Іѡаннъ (Ioannu), which was derived from Greek ''Ioannes''. It refers back to ''John'', which means "God (Herbrew) is gracious".
+
+''Renshaw ''is a surname from Prestbury, Cheshire in England. The suffix ''shaw ''means "wood",so the whole name means "Ren-wood".
+
+==Appearances==
+*{{HBP|G}} {{Comment|Nintendo DS version only}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts Gobstones}}
+{{DEFAULTSORT:Renshaw, Ivan}}
+[[pl:Ivan Renshaw (II)]]
+[[fr:Ivan Renshaw]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gobstones players]]
+[[Category:Males]]
+[[Category:Renshaw family]]
+[[Category:Sorted in the 1990s]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

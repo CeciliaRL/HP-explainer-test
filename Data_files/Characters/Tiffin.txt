@@ -1,0 +1,30 @@
+{{Imageless}}
+{{Pet individual infobox
+|image =  
+|name = Tiffin
+|born =  
+|died =  
+|alias = 
+|title = 
+|species = [[Griffin]]<ref name="FBC14"/>
+|gender =  
+|height = 
+|hair =  
+|feathers = 
+|eyes =  
+|skin = 
+|family =  
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="FBC14"/>
+}}
+'''Tiffin''' was a [[Griffin]] who guarded [[Vault 619]] belonging to [[Edwin Avarus]] at [[Gringotts Wizarding Bank]]. [[Simeon Woderuff]] was forced to train Tiffin. Later, the [[Beast Division]] investigated Tiffin when Woderuff went missing, to find out what happened.<ref name="FBC14">{{FBC|14}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Creature-stub}}
+[[Category:Griffins]]
+[[Category:Gringotts employees]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Security guards]]

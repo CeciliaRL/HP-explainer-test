@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=G. Forbes
+|hideb=y
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Owner and/or founder of [[G. Forbes Productions]] (presumably)
+|house=
+|loyalty=
+}}
+'''G. Forbes''' was an [[United States of America|American]] [[Non-magic people|Muggle]] who presumably owned and/or founded the production company [[G. Forbes Productions]].<ref name="poster-lego">{{LEGO|D}} {{See image|File:G. Forbes Productions.png}}</ref> 
+
+In [[1926]], posters were put up around [[New York]]'s harbour promoting a series of twelve performances staged by G. Forbes Productions, which were slated to begin on Saturday [[11 December]].<ref name="poster-lego" /> 
+
+==Appearances==
+*{{LEGO|D}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Forbes, G.}}
+[[Category:American individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Muggles]]

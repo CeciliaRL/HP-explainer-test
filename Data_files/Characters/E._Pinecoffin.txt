@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = E. C. Pinecoffin
+|born = 
+|died = 
+|blood = 
+|marital = Married or widowed
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mrs E. C. Pinecoffin''' was a [[Wizardkind|witch]] during the [[1990s]].<ref name="WWHP">{{WWHP}} (see [http://www.flickr.com/photos/wideopencode/5262053413/# this image])</ref>
+
+==Appearances==
+*{{WWHP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pinecoffin, E.}}
+
+[[Category:British individuals|Pinecoffin, E. C.]]
+[[Category:Females|Pinecoffin, E. C.]]
+[[Category:Married individuals|Pinecoffin, E. C.]]
+[[Category:Wizards|Pinecoffin, E. C.]]

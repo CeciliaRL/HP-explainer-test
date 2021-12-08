@@ -1,0 +1,36 @@
+{{Youmay|the Muggle vandal|[[Tom]], the innkeeper of [[Leaky Cauldron|The Leaky Cauldron]]}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Tom
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|hidea=y
+|job=
+|loyalty=
+}}
+'''Tom''' was a [[Non-magic people|Muggle]] who spray-painted his name onto the wall of a pedestrian tunnel in [[Little Whinging]].<ref>See [[:File:TomGraffiti.jpg|this image]].</ref>
+
+==Appearances==
+*{{OOTP|F}} {{Comment|Name seen in graffiti}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Tom (wandal)]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

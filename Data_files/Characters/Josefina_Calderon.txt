@@ -1,0 +1,57 @@
+{{Individual infobox
+|image = PMFT_Josefina_Calderon.png
+|name = Josefina Calderon
+|born = Year unknown, [[Mexico|New Spain]]
+|marital = Married<ref name="Pottermore"/>
+|nationality = [[Mexico|Mexican]]<ref name="Pottermore"/>
+|species = [[Human]]<ref name="Pottermore"/>
+|gender = Female<ref name="Pottermore"/>
+|family = *[[Chadwick Boot]] (husband)<ref name="Pottermore"/>
+*[[Webster Boot]] (brother-in-law)<ref name="Pottermore"/>
+*[[Isolt Sayre]] (adoptive mother-in-law)<ref name="Pottermore"/>
+*[[James Steward]] (adoptive father-in-law)<ref name="Pottermore"/>
+*[[Rionach Steward]] (adoptive sister-in-law)<ref name="Pottermore"/>
+*[[Martha Steward II]] (adoptive sister-in-law)<ref name="Pottermore"/>
+*[[Martha Steward II's husband]] (adoptive brother-in-law)<ref name="Pottermore"/>
+*[[Calderon family]]<ref name="Pottermore"/>
+*[[Calderon-Boot family]]<ref name="Pottermore"/>
+|job = [[Healer]]<ref name="Pottermore"/>
+|loyalty = *[[Calderon family]]<ref name="Pottermore"/>
+*[[Calderon-Boot family]]<ref name="Pottermore"/>
+|theme = wizard
+}}'''Josefina Calderon''' was a [[17th century|17th-century]] [[Mexico|Mexican]] [[Wizardkind|witch]] and [[Healer]] who became the wife of [[Chadwick Boot]], one of the founders of [[Ilvermorny School of Witchcraft and Wizardry]].<ref name="Pottermore">{{WW|ilvermorny}}</ref>
+
+The couple established the [[Calderon-Boot family]], which remains one of America's most prominent wizarding families today.<ref name="Pottermore"/>
+
+==Magical abilities and skills==
+*'''[[Healing magic]]''': As a professional [[Healer]], Calderon would have been very accomplished with medical [[magic]], such as with [[healing spell]]s, [[potion]]s and other magical remedies.<ref name="Pottermore"/>
+
+==Etymology==
+Josefina is a Spanish name meaning "made bigger by god".
+
+While Calderón is a real surname, it was probably picked because of its similarity with "caldero", meaning "[[cauldron]]".
+
+==Behind the scenes==
+*Josefina was not featured on the [[Sayre family]] tree on {{PM}}, but was however on the [[House of Gaunt|Gaunt family]] tree.<ref>[https://www.pottermore.com/features/gaunt-family-tree Features: "The Gaunt family tree"] at {{PM}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Calderon, Josefina}}
+[[de:Josefina Calderon]]
+[[es:Josefina Calderon]]
+[[fr:Josefina Calderon]]
+[[pl:Josefina Calderon]]
+[[pt-br:Josefina Calderon]]
+[[ru:Хосефина Кальдерон]]
+[[Category:Boot family]]
+[[Category:Calderon family]]
+[[Category:Females]]
+[[Category:Healers]]
+[[Category:Historical figures]]
+[[Category:Married individuals]]
+[[Category:Mexican individuals]]
+[[Category:Wizards]]

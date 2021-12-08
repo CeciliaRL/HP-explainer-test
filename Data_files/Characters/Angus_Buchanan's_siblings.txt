@@ -1,0 +1,55 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image =
+|name = Angus Buchanan's siblings
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">Both their parents were wizards, so they were not [[Muggle-born]]s.</ref>
+|born =
+|died =
+|alias =
+|title =
+|signature =
+|nationality = [[Scotland|Scottish]]<ref name="PM"/>
+|species = [[Human]]s<ref name="PM"/>
+|gender = Males, Females<ref name="PM"/>
+|skin =
+|hair =
+|eyes =
+|weight =
+|height =
+|family = *[[Angus Buchanan]] (brother)<ref name="PM"/>
+*[[Hamish Buchanan]] (brother)<ref name="PM"/>
+*[[Flora Buchanan]] (sister)<ref name="PM"/>
+*[[John Buchanan]] (father)<ref name="PM"/>
+*[[Mary Buchanan]] (mother)<ref name="PM"/>
+|wand =
+|animagus =
+|patronus =
+|boggart =
+|job =
+|house =
+|loyalty = [[Buchanan family]]<ref name="PM"/>
+}}
+These eight [[Wizardkind|witches and wizards]] were siblings of [[Flora Buchanan|Flora]], [[Hamish Buchanan|Hamish]] and famed [[Rugby Union|rugby]] player [[Angus Buchanan]], and therefore children of [[John Buchanan|John]] and [[Mary Buchanan]]<ref name="PM">{{WW|scottish-rugby}}</ref>. The daughters among this group had won the village tug-of-war every year in living memory; all of the children were described as being "enormous" and "wild".<ref name="PM"/>
+
+When Angus was disowned by their father upon being rejected by the [[Sorting Hat]] as he was a [[Squib]], he placed an edict upon them forbidding them from seeing or talking to their brother again.<ref name="PM"/> They, however, revolted, and attended his first rugby match, against [[England]], which he won.<ref name="PM"/>
+
+==Behind the scenes==
+*In real life, Angus had eleven siblings, rather than ten, and none of them were called Hamish or Flora; their names were Mary (b. 1845), Marjory (b. 1837), Eleanor (b. 1851) , John (b. 1842), Duncan (b. 1839), Duncan Fletcher (b. 1855), Betsy (b. 1840), Margaret Eleanor (b. 1853), Ann (b. 1848), George (b. 1835) and Hugh Peter (b. 1857).<ref name="FS">[https://familysearch.org/search/record/results?count=20&query=%2Bgivenname%3AJohn~%20%2Bsurname%3ABuchanan~%20%2Bspouse_givenname%3AMary~%20%2Bspouse_surname%3AProctor~%20%2Brecord_country%3AScotland Search results for 'John Buchanan']</ref> Five of these siblings were born after the real-life Angus Buchanan.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pt-br:Irmãos de Angus Buchanan]]
+[[Category:Articles with information from Pottermore]]
+[[Category:Buchanan family]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Scottish individuals]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

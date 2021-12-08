@@ -1,0 +1,64 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = death-eater
+|image = 
+|name = Barnaby Lee's father
+|born = Before [[1970s]]
+|died = 
+|blood = 
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Barnaby Lee's grandmother|Mother or mother-in-law]]
+*[[Cecil Lee]] (brother)
+*[[Barnaby Lee's mother|Wife]]
+*[[Barnaby Lee]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|job = 
+|house = 
+|loyalty = *[[Lee family]]
+*[[Tom Riddle|Lord Voldemort]]
+**[[Death Eaters]]
+}}
+{{Quote|My dad always said he was going to get me some brains for my birthday.|[[Barnaby Lee]]|Harry Potter: Hogwarts Mystery}}
+'''Barnaby Lee's father''' was a [[Dark Wizard]] who was a [[Death Eaters|Death Eater]] during the [[First Wizarding War]].<ref>{{HM|3|8}}</ref>
+
+==Biography==
+He once owned a pet [[Kneazle]], which [[Tom Riddle|Lord Voldemort]] drowned.<ref name="HM4">{{HM|4|13|cmc}}</ref> One time he and his son were exterminating [[Pixie]]s at their house, and he yelled at Barnaby for crying.<ref>{{HM|5|7|d}}</ref> Mr Lee also always used to say he ought to get his son some brains for his birthday, clearly showing him as a rather cruel and abusive father.<ref name="task">{{HM|1|Party Planner|1}}</ref>
+
+Mr. Lee was also acquainted with [[Horace Slughorn]].<ref name="quiz">{{HM}} Slughorn is a correct answer to the question of who his dad knew during friendship quizzes</ref>
+
+==Possessions==
+
+*'''[[Kneazle]]''': He once owned a pet [[Kneazle]], which [[Tom Riddle|Lord Voldemort]] drowned.<ref name="HM4" />
+
+== Appearances==
+
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Death Eaters}}
+{{DEFAULTSORT:Lee, Barnaby's father}}
+[[es:Padre de Barnaby Lee]]
+[[Category:British individuals]]
+[[Category:Death Eaters]]
+[[Category:Lee family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

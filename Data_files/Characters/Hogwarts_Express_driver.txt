@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Hogwarts Express driver
+|theme = hogwarts-staff
+|image = 
+|born = 
+|died = 
+|blood = 
+|nationality = {{GBorIE}}
+|signature = 
+|marital = 
+|species = [[Human]]<ref name="PS6"/><ref name="POA5"/>
+|gender = 
+|hair = 
+|skin = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Driver of the [[Honeydukes Express]]<ref name="PS6"/><ref name="POA5"/>
+|house = 
+|loyalty = [[Hogwarts Express]]<ref name="PS6"/><ref name="POA5"/>
+}}
+The '''Hogwarts Express driver''' was the individual who drove the [[Hogwarts Express]] from [[Platform Nine and Three-Quarters]] to the [[Hogsmeade station]].<ref name="PS6"/><ref name="POA5"/>
+
+==History==
+On [[1 September]] [[1991]], [[Hermione Granger]] once asked the Hogwarts Express driver when they would be arriving at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. The driver claimed that they were nearly there.<ref name="PS6">{{PS|B|6}}</ref>
+
+On [[1 September]] [[1993]], the Hogwarts Express [[trolley witch]] assured the [[trio]] that she would be up with the Hogwarts Express driver if [[Remus Lupin]] woke and was hungry. On the same day, Hermione went to ask the driver why the train had stopped when [[dementor]]s were searching the train for [[Sirius Black]], and Remus Lupin also went to speak to the same individual.<ref name="POA5">{{POA|B|5}}</ref>
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{POA}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[ru:Машинист]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Express crew]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

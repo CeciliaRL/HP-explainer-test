@@ -1,0 +1,75 @@
+{{Conjecture}}
+{{Individual_infobox
+|theme=wizard
+|image=[[File:Mrs Goldstein FB1.png|250px]]
+|name=Mrs Goldstein
+|hideb=hide
+|born=[[19th century|1884 or earlier]]<ref>Presumably she was (at least) seventeen when Tina was born and Dragon Pox is said to be more fatal for the "young" and the "elderly" implying she was one or the other at the time. Given how she appears in Tina's memories, it is implied to be the former.</ref>
+|died=[[1900s]] or [[1910s]]<ref name="fb44">{{FB|S|44}}</ref>
+|blood=
+|marital=Married
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+*[[Goldstein sisters' grandfather|Father or father-in-law]]
+*[[Goldstein sisters' father|Mr Goldstein]] (husband) †
+*[[Porpentina Goldstein|Tina Goldstein]] (daughter)
+*[[Queenie Goldstein]] (daughter)
+*[[Newton Scamander|Newt Scamander]] (son-in-law)
+*At least one grandchild<ref name="grandson">Since Rolf Scamander kept Newt's family name, it can be presumed that he is the son of a son of Newt's. If he were the son of a daughter of Newt's, he would likely bear whichever his father's surname was, and not Scamander. However, Newt could have had a daughter who kept his family name.</ref>
+|nationality=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=[[Goldstein family]]
+}}
+'''Mrs Goldstein''' was a [[wizardkind|witch]] who lived during the early [[20th century]].<ref name="fb44" /> She was the mother of [[Porpentina Goldstein|Porpentina]] and [[Queenie Goldstein]].<ref name="fb44" />
+
+==Biography==
+{{Quote|Come on Pumpkin.. it's time to go to bed.|[[Goldstein sisters' mother|Mrs Goldstein]] telling a young Porpentina to get ready for bed|Fantastic Beasts and Where to Find Them: The Original Screenplay}}
+[[File:Goldstein family dancing.gif|250px|left|thumb|Mrs Goldstein, dancing with her daughter and husband]]
+Sometime in her daughters' childhood, the [[Goldstein family]] danced together while dressed up.<ref name="FBS69">{{FB|S|69}}</ref><ref name="FBF">{{FB|F}}</ref>
+
+She and [[Goldstein sisters' father|her husband]] died from [[Dragon Pox]] when their daughters were young.<ref name="fb44" /> This left the girls to "raise each other," which lead them to forge a life-long bond.<ref name="fb44" /><ref name="collider">"[http://collider.com/fantastic-beasts-and-where-to-find-them-things-to-know/?utm_source=twitter&utm_medium=social&utm_campaign=collidersocial ‘Fantastic Beasts and Where to Find Them’: 43 Things to Know about the New Wizarding World Story]" from Collider</ref><ref name="pottermorevideo">[https://twitter.com/pottermore/status/693594721097101312 Behind-the-scenes video] from the official {{PM}} account on Twitter</ref>
+
+After being sentenced to [[death]] in [[1926]], Tina Goldstein had her happy [[memory|memories]] extracted from her head by [[Bernadette]], who then cast them into the [[Death potion|execution potion]] in the [[Death Cell]].<ref name="fb67">{{FB|S|67}}</ref> To keep Tina sedated, the potion replayed the memories for her, including one of her mother calling her "pumpkin" and asking if she was ready for bed.<ref name="fb67" />
+
+==Behind the scenes==
+*Mrs Goldstein was played by [[Fanny Carbonnel]] in flashback scenes in the film ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.<ref name="Carbonnel">[http://www.fantasticbeastsmovies.com/index.php/2015/12/08/fanny-carbonnel-cast-as-mrs-goldstein/ "Fanny Carbonnel Cast As Mrs Goldstein"] at [http://www.fantasticbeastsmovies.com/ FantasticBeastsMovies.com]</ref> At 27-years-old when the film was made, she was actually younger than actresses [[Katherine Waterston]] and [[Alison Sudol]], who played her daughters as adults.<ref name="Carbonnel"/>
+
+==Appearances==
+*{{FB|S}} {{1st}} {{Vision}}
+*{{FB|F}} {{Vision}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Goldstein, Mrs}}
+[[es:Madre de las hermanas Goldstein]]
+[[de2:Mutter der Goldstein-Schwestern]]
+[[ru:Миссис Голдстейн]]
+[[fr:Mère de Porpentina et Queenie Goldstein]]
+[[ja:ゴールドスタイン姉妹の母親]]
+[[pl:Pani Goldstein]]
+[[Category:20th century deaths]]
+[[Category:Deaths from dragon pox]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Goldstein family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

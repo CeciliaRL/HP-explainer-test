@@ -1,0 +1,42 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Simon Dentata
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Author
+|house=
+|loyalty=
+}}'''Simon Dentata''' was a [[Wizardkind|wizard]] and the author of ''[[The Owl Airforce|The Owl Airforce: True Life Tales of War in Europe]]''. The book, published sometime prior to [[December]] [[1926]], explored real tales about magic involvement in the [[First World War]], one instance being the actions of an [[owl]] airforce.<ref>[[Fantastic Beasts and Where to Find Them: Character Guide]] - {{see image|File:The Owl Airforce.png}}</ref>
+
+==Appearances==
+*{{FB|F}}
+*{{CB}}
+*''[[Fantastic Beasts and Where to Find Them: Character Guide]]''
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dentata, Simon}}
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Wizards]]

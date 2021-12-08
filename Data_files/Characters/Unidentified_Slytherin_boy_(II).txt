@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = Unidentified Slytherin boy (II).jpg
+|name = Male Slytherin student
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG">{{HBP|G}}</ref>
+|height = 
+|weight = 
+|hair = Black<ref name="HBPG"/>
+|eyes = Brown<ref name="HBPG"/>
+|skin = Dark<ref name="HBPG"/> 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Slytherin]]<ref name="HBPG"/>
+}}
+This '''male Slytherin student''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|sorted]] into [[Slytherin|Slytherin House]].<ref name="HBPG"/>
+
+==Biography==
+In early [[1997]], he stole a [[Noisy Hitter]] from a [[Gryffindor]] girl. When Harry went to go get it back from him, he taunted him and told him that [[Professor]] [[Severus Snape]] would give him [[Discipline at Hogwarts|detention]] for assaulting a Slytherin. The two [[Duelling|duelled]], and he lost, with Harry managing to get the Noisy Hitter back from him.<ref name="HBPG"/>
+
+==Appearances==
+*{{HBP|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Bullies]]
+[[Category:Males]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

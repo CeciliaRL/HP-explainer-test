@@ -1,0 +1,77 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:ArmandMalfoy.png|250px]]
+|name = Armand Malfoy
+|born = Before [[1066]]<ref name="pottermore"/>, [[France]]
+|died = 
+|blood = [[Pure-blood]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Nicholas Malfoy]] (descendant) †
+*[[Lucius Malfoy I]] (descendant) †
+*[[Brutus Malfoy]] (descendant) †
+*[[Septimus Malfoy]] (descendant) †
+*[[Abraxas Malfoy]] (descendant) †
+*[[Lucius Malfoy]] (descendant)
+*[[Draco Malfoy]] (descendant)
+*[[Scorpius Malfoy]] (descendant)
+*[[Malfoy family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Malfoy family]]
+*[[William I|King William I]]
+}}
+'''Armand Malfoy''' (fl. [[1066]]) was a [[France|French]] born [[Wizardkind|wizard]] who arrived in [[Great Britain]] with the Norman invasion. He was the first [[Malfoy family|Malfoy]] in Britain, and the founder of [[Malfoy Manor]] in [[Wiltshire]].<ref name="pottermore">{{WW|the-malfoy-family}}</ref>
+
+==Biography==
+===Early life===
+Armand was presumably born sometime in the late [[First millennium A.D.|10th]] or early [[11th century]] in France. He came to Britain along with the Norman invasion, and presumably gained the friendship of [[William I|William the Conqueror]] sometime around this time.
+
+===Life in Britain===
+Sometime after William I was made King of [[England]] in [[1066]], Armand provided various services to the king. Though the exact details of these services are unknown, they were believed to be shady and magical in nature. In exchange for these services, King William granted Armand a prime piece of land in Wiltshire, seizing the property from the former landholders.
+
+===Legacy===
+This piece of property would go on to become Malfoy Manor, and would be the home of the Malfoy family for the next ten centuries. Later members of the family would expand the estate even further by annexing more property from the surrounding [[Non-magic people|Muggle]]s.
+
+==Behind the scenes==
+*Armand may have attended [[Beauxbatons Academy of Magic]], if the school already existed in his youth.
+
+==Etymology==
+*''Armand ''is a French name, derived from the Germanic name ''Herman'', meaning "army man".
+*''Malfoy ''comes from the French ''mal foi'', meaning "bad faith".
+*Therefore, the name ''Armand Malfoy ''could be taken to mean "man of bad faith," which could describe any (or rather, ''almost ''any) of Malfoy's descendants.
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Malfoy, Armand}}
+[[de:Armand Malfoy]]
+[[de2:Armand Malfoy]]
+[[es:Armand Malfoy]]
+[[fr:Armand Malefoy]]
+[[pl:Armand Malfoy]]
+[[ru:Арманд Малфой]]
+
+[[Category:Emigrants]]
+[[Category:English individuals]]
+[[Category:French individuals]]
+[[Category:Males]]
+[[Category:Malfoy family]]
+[[Category:Wizards]]

@@ -1,0 +1,86 @@
+{{Youmay|the son of [[Sirius Black II|Sirius Black (1877 – 1952)]]|[[Regulus Black|Regulus Arcturus Black]]}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Regulus Black I.jpg|250px]]
+|name = Regulus Black
+|born = [[1906]]<ref name="BFT">''[[House of Black|Black family tree]]''</ref>
+|died = [[1959]]<ref name="BFT" /> (aged 52-53)
+|blood = [[Pure-blood]]<ref name="BFT" />
+|marital = Single
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="BFT" />
+|gender = Male<ref name="BFT" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White
+|family = *[[Sirius Black II]] (father) †
+*[[Hesper Gamp|Hesper Black]] (mother)
+*[[Arcturus Black III]] (older brother) †
+*[[Lycoris Black]] (younger sister) †
+*[[Melania Macmillan|Melania Black]] (sister-in-law)
+*[[Lucretia Black|Lucretia Prewett]] (née [[House of Black|Black]]) (niece) †
+*[[Orion Black]] (nephew) †
+*[[Phineas Black]] (paternal uncle) †
+*[[Arcturus Black II]] (paternal uncle) †
+*[[Belvina Black|Belvina Burke]] (paternal aunt) †
+*[[Cygnus Black II]] (paternal uncle) †
+*[[Herbert Burke]] (paternal uncle by marriage)
+*[[Violetta Bulstrode|Violetta Black]] (paternal aunt by marriage)
+*[[Pollux Black]] (paternal first cousin) †
+*[[Cassiopeia Black]] (paternal first cousin) †
+*[[Marius Black]] (paternal first cousin) †
+*[[Dorea Black]] (paternal first cousin) †
+*[[Belvina Burke's sons|Male paternal cousins]]
+*[[Belvina Burke's daughter|Female paternal cousin]]
+*[[Callidora Black|Callidora Longbottom]] (paternal first cousin)
+*[[Cedrella Black|Cedrella Weasley]] (paternal first cousin)
+*[[Charis Black|Charis Crouch]] (paternal first cousin) †
+*[[Phineas Nigellus Black]] (paternal grandfather) †
+*[[Ursula Flint|Ursula Black]] (paternal grandmother)
+*[[House of Black]]
+*[[Gamp family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job =
+|house = [[Slytherin]] (possibly)
+|loyalty = *[[House of Black]]<ref name="BFT" />
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]] (possibly)
+}}
+'''Regulus Black''' ([[1906]] – [[1959]]) was a [[pure-blood]] [[Wizardkind|wizard]], the youngest child of [[Sirius Black II]] and [[Hesper Gamp]] and brother of [[Arcturus Black III]] and [[Lycoris Black|Lycoris]]. Regulus never married and never had children.<ref name="BFT" />
+
+==Etymology==
+Members of the [[House of Black]] and their history seem to have made a tradition of naming their children after stars and constellations. In Latin, ''regulus'' means "little king" and was one term for a [[basilisk]]. As a name, it has also been applied to the star [[Wikipedia:Regulus|Alpha Leonis]], which is situated at the heart of the lion in the constellation [[Wikipedia:Leo (constellation)|Leo]]. Regulus was also the family name of a Roman general, Marcus Atilius Regulus, who was known for his honour and self-sacrifice.<ref>[http://en.wikipedia.org/wiki/Regulus_%28disambiguation%29 Wikipedia: Regulus]</ref>
+
+==Behind the scenes==
+*Based on a statement by [[Horace Slughorn]], Regulus may have been a member of the [[Slytherin|Slytherin House]]. However, he attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] c. [[1917]] - [[1924]], when Slughorn may not have been Potions master.
+*Regulus was the granduncle of [[Regulus Black|another Black called Regulus]].
+
+==Appearances==
+*{{OOTP|F}} {{Comment|Appears on Black family tapestry}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Black, Regulus (1906)}}
+
+[[de:Regulus Black, (Großonkel von Sirius)]]
+[[es:Regulus Black I]]
+[[fr:Regulus Black I]] 
+[[ru:Регулус Блэк I]]
+[[pl:Regulus Black I]]
+[[Category:1906 births]]
+[[Category:1959 deaths]]
+[[Category:British individuals]]
+[[Category:House of Black]]
+[[Category:Males]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

@@ -1,0 +1,35 @@
+{{Individual infobox
+|name = Rafael Santos
+|born = After [[1976]], [[Brazil]] (possibly)
+|nationality = [[Brazil]]ian<ref name="FN1"/>
+|title = [[Beater]]<ref name="FN1"/>
+|species = [[Human]]
+|gender = Male
+|job = [[Beater]] for the [[Brazilian National Quidditch team]]
+|loyalty = *[[Brazilian National Quidditch team]]
+*[[Castelobruxo]]
+|theme = quidditch-player
+}}'''Rafael Santos'''<ref name="FN1">{{PM}} - [http://insider.pottermore.com/2014/07/the-final-of-2014-quidditch-world-cup.html New from J.K. Rowling: The final of the 2014 Quidditch World Cup between Bulgaria and Brazil has begun!]</ref> was a [[Brazil]]ian [[Wizardkind|wizard]] who played as [[Beater]] for the [[Brazilian National Quidditch team]].
+
+==Biography==
+He was the [[Beater]] for the [[2014]] [[Brazilian National Quidditch team]]. According to [[Ludovic Bagman]] in a report to the ''[[Daily Prophet]]'', American Beaters [[Lucas Picquery|Picquery]] and [[Pringle]] would have to "''find better form''" if they were to best the Brazilians Santos and [[Carlos Clodoaldo|Clodoaldo]] in their semi-final match on [[4 July]], [[2014]].<ref name="PM">{{PM}} - [[PLACE YOUR BETS WITH LUDO BAGMAN]] (Archived)</ref>
+
+On the final, Brazil versus [[Bulgarian National Quidditch team|Bulgaria]], Santos hit opposing [[Seeker]] [[Viktor Krum]] hard over the head with his [[Beater's bat|bat]] on the 123rd minute. Referee [[Herman Junker]] paused the game and examined [[Omnioculars|Omniocular]] footage to determine if a foul had been committed.<ref name="the-qwc2014-final">{{PM}} - [[2014 Quidditch World Cup final]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Santos, Rafael}}
+
+[[de:Rafael Santos]]
+[[es:Rafael Santos]]
+[[fr:Rafael Santos]]
+[[pl:Rafael Santos]]
+[[Category:Beaters]]
+[[Category:Brazilian individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

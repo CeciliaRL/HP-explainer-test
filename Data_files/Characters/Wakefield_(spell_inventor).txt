@@ -1,0 +1,23 @@
+{{Individual infobox
+|name = Wakefield
+|species = [[Human]]
+|family = [[Wakefield family]]
+|job = [[Spell creation|Spell inventor]]
+|loyalty = [[Wakefield family]]
+|theme = wizard
+|hideb = hide
+|hidep = 
+|hidef = hide
+|hidem = hide
+|hidea = 
+}}'''Wakefield''' was (presumably) the [[Wizardkind|wizard or witch]] who developed the [[Wakefield's Sambata]] spell.<ref name="HBPF">{{HBP|F}}</ref> Alternatively, it may have been named after him or her by someone else.
+
+==Appearances==
+*{{HBP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Spell inventors]]
+[[Category:Wakefield family]]
+[[Category:Wizards]]

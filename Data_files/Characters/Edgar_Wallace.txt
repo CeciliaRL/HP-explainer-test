@@ -1,0 +1,35 @@
+{{Real world subject}}
+{{Individual infobox
+|name = Edgar Wallace
+|born = [[1 April]], [[1875]]<br />Greenwich, [[London]]
+|died = [[10 February]], [[1932]] (aged 56)<br />Beverly Hills, [[United States of America|USA]]
+|blood = [[Non-magic people|Muggle]]
+|nationality = English
+|species = [[Human]]
+|gender = Male
+|skin = White
+|job = Author, Journalist, Screenwriter, Playwright
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidem = hide
+|hidea = 
+}}
+'''Richard Horatio Edgar Wallace''' ([[1 April]], [[1875]]—[[10 February]], [[1932]]) was a [[Non-magic people|Muggle]] [[England|English]] crime writer, journalist, novelist, screenwriter, and playwright, who wrote 175 novels, 24 plays, and numerous articles in newspapers and journals.
+
+Edgar Wallace was also the author of ''The Flying Squad''. [[Albus Dumbledore]] kept a copy of the Swedish translation of this book (''[[Kokain Nästet]]'') in his [[Headmaster's office|office]] at [[Hogwarts Castle]] in the [[1990s]].<ref name="chicagotribune">[http://www.chicagotribune.com/sns-harry-potter-tour-pg,0,1261345.photogallery "Sneak peek inside the "Making of Harry Potter" UK studio tour"] on ''[http://www.chicagotribune.com/ The Chicago Tribune]''</ref>
+
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Mentioned on book spine only}}
+*{{MHP}} {{Comment|Mentioned on book spine only}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Wallace, Edgar}}
+[[Category:1875 births]]
+[[Category:1932 deaths|Wallace, Edgar]]
+[[Category:English individuals]]
+[[Category:Journalists]]
+[[Category:Males|Wallace, Edgar]]
+[[Category:Muggles|Wallace, Edgar]]
+[[Category:Playwrights]]

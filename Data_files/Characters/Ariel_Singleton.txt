@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:arielsingleton.jpg|250px]]
+|name = Ariel Singleton
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[United States of America|American]]<ref name="QWC"/>
+|alias = 
+|title = [[Seeker]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Red<ref name="QWC"/>
+|eyes = 
+|skin = White<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] for the [[American National Quidditch team]]
+|house = 
+|loyalty = [[American National Quidditch team]]
+}}
+'''Ariel "Speedy" Singleton''' was an [[United States of America|American]] [[Wizardkind|witch]] who played as [[Seeker]] on the [[American National Quidditch team]].<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Singleton's [[Chocolate Frog Card]] could be won by beating [[Luna Lovegood]] in a [[duelling]] challenge.<ref name="HBPG">{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Etymology==
+[[File:Seeker_-_Ariel_Speedy_Singleton_QWC.png|thumb|Ariel Singleton]]
+The name "Ariel" means "lion of God" in Hebrew. In the Old Testament it is used as another name for the city of Jerusalem. Shakespeare used it as the name of a spirit in his play ''The Tempest'' (1611), and one of the moons of Uranus bears this name in his honour.
+
+==Appearances==
+{{Imagecat|Images of Ariel Singleton}}
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{C|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Singleton, Ariel}}
+
+[[es:Ariel Singleton]]
+[[fr:Ariel Singleton]]
+[[Category:American individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Seekers]]
+[[Category:Wizards]]

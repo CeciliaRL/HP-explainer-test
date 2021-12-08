@@ -1,0 +1,85 @@
+{{Spoiler|WU|HM}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Alberta Toothill.jpg|250px]]
+|name = Alberta Toothill
+|born = [[1391]], [[England]]<ref name="COSG">{{COS|G}}</ref>
+|died = [[1483]] (aged 91 - 92)<ref name="COSG">{{COS|G}}</ref>
+|blood = 
+|marital = 
+|nationality = [[England|English]]
+|alias = 
+|title = Duelling Champion
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Grey (formerly ginger)
+|eyes = Blue<ref name="COSG">{{COS|G}}</ref>
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Professional [[Duelling|Duellist]]
+|house = 
+|loyalty = 
+}}
+{{Quote|Alberta Toothill (1391—1483): Winner of All-England Wizarding Duelling Competition of 1430. Famously overcame the favorite, [[Samson Wiblin]], with a [[Blasting Curse]].|[[Chocolate Frog Card]]|Harry Potter and the Chamber of Secrets (video game)}}
+'''Alberta Toothill''' ([[1391]]—[[1483]]) was a [[England|English]] [[Middle Ages|medieval]] [[Wizardkind|witch]] and [[Duelling|duellist]] who, defying all odds, won the [[All-England Wizarding Duelling Competition]] of [[1430]].<ref name="COSG">{{COS|G}}</ref>
+
+==Biography==
+===Early life===
+Alberta was born in [[1391]], somewhere in [[England]]. If she enrolled at [[Hogwarts School of Witchcraft and Wizardry]], she attended the school from around [[1402]] to [[1409]], under [[Headmaster|Headmistress]] [[Phyllida Spore]].
+
+===Adulthood===
+[[File:AlbertaToothill.png|190px|thumb|left|Alberta Toothill cheering after winning the [[All-England Wizarding Duelling Competition]]]]
+In [[1430]], aged thirty-eight or thirty-nine, Toothill took part in the [[All-England Wizarding Duelling Competition]]. She made it to the finals, and proved to be an effective duellist when she, against all odds, defeated the expected winner, [[Samson Wiblin]], with a [[Blasting Curse]].<ref name="COSG">{{COS|G}}</ref>
+
+Alberta Toothill died in [[1483]], aged around ninety-two.<ref name="COSG">{{COS|G}}</ref>
+
+===Post-mortem===
+By the [[1990s]], Toothill was featured on a [[Chocolate Frog Card]] for her skill in duelling, which pictured her cheering and holding the All-England Wizarding Duelling trophy after her defeat of [[Samson Wiblin]].<ref name="COSG">{{COS|G}}</ref>
+
+Sometime in the [[2010s]], a member of the [[Statute of Secrecy Task Force]] discovered a long-lost [[memory]] phial belonging to Alberta Toothill, featuring her 1430 [[duelling]] victory. The historical discovery brought new techniques to light — studying the duel came in handy to contain the threat of the [[Calamity]].<ref name="WU">{{WU}} ([https://www.youtube.com/watch?v=hCIfSWgMX-c see video])</ref>
+
+==Magical abilities and skills==
+*'''[[Duelling]]''': Toothill was an incredibly accomplished and proficient duellist, having been the winner of the [[All-England Wizarding Duelling Competition]] in [[1430]], defeating numerous skilled opponents during the tournament. She was also a mistress of [[martial magic]], having successfully cast a particularly powerful and destructive [[Blasting Curse]] which defeated her opponent with much force. For her outstanding achievement in the sport of duelling, she was immortalised on a silver [[Chocolate Frog Card]].<ref name="COSG">{{COS|G}}</ref>
+
+==Etymology==
+*The name ''Alberta ''is the feminine form of German name ''Alberta ''which means ''noble and intelligent''.'' ''
+
+==Appearances==
+{{Imagecat|Images of Alberta Toothill}}[[File:Alberta Toothill.gif|thumb|Toothill immortalised on a silver Wizard Card]]
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{PM}} {{FWC}}
+*{{WU}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+
+{{DEFAULTSORT:Toothill, Alberta}}
+[[de:Alberta Toothill]]
+[[es:Alberta Toothill]]
+[[fr:Alberta Toothill]]
+[[fi:Alberta Toothill]]
+[[it:Alberta Toothill]]
+[[pl:Alberta Toothill]]
+[[ru:Альберта Тутхилл]]
+[[de2:Alberta Toothill]]
+[[Category:1391 births]]
+[[Category:1483 deaths]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Duelling Trophy recipients]]
+[[Category:Duellists]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizards]]

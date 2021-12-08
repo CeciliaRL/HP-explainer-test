@@ -1,0 +1,36 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = UnicornAtTheMagicalCreaturesReserve.jpg
+|name = Unicorn at the Magical Creatures Reserve
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Unicorn]]<ref name="AUS">{{HM|3|A Unicorn Surprise!}}</ref>
+|gender = 
+|height = 
+|hair = White<ref name="AUS"/>
+|feathers = 
+|eyes = Black<ref name="AUS"/>
+|skin = White<ref name="AUS"/>
+|family = 
+|loyalty = [[Magical Creatures Reserve]]<ref name="AUS"/>
+}}
+This '''[[unicorn]]''' lived in the [[Magical Creatures Reserve]] in the [[1980s]].<ref name="AUS"/>
+
+==Biography==
+At some time before or during the [[1986–1987 school year]], [[Jacob's sibling]] met this unicorn, and would often bond with and feed it.<ref name="AUS"/>
+
+==Appearances==
+{{Imagecat|Images of the Unicorn at the Magical Creatures Reserve}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Creature-stub}}
+{{Magical Creatures Reserve}}
+[[Category:Black-eyed individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Magical Creatures Reserve]]
+[[Category:Unicorns]]

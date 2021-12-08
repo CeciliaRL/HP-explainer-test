@@ -1,0 +1,60 @@
+{{Youmay|the Ravenclaw student|[[Raymond (disambiguation)|another person with this name]]}}
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:Raymond.jpg|250px]]
+|name = Raymond
+|born = Between [[1 September]] [[1974]] and [[31 August]] [[1980]] (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSG"/>
+|gender = Male<ref name="PSG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="PSG"/>
+|eyes = Brown<ref name="PSG"/>
+|skin = White<ref name="PSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="PSG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSG"/>
+**[[Ravenclaw]]<ref name="PSG"/>
+}}
+{{Quote|Harry! It's me, Raymond! Can you see [[Raymond's kitten|my kitten]]?|Raymond asking help from Harry|Harry Potter and the Philosopher's Stone (video game)}}
+
+'''Raymond''' was a [[Wizardkind|wizard]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PSG"/>
+
+==Biography==
+===Early life===
+Raymond was born between [[1974]] and [[1980]], if not earlier. He was accepted into [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|sorted]] into [[Ravenclaw|Ravenclaw House]].<ref name="PSG"/>
+
+===Cat in the bottom of the well===
+[[Harry Potter]] first met Raymond in the Hogwarts Grounds, in [[1991]]. The boy was sitting next to a well and when Harry went closer, he told him that [[Raymond's kitten|his kitten]] fell into the well. Later, Harry was in a [[Potions (class)|potions]] side-room and a cloaked [[Quirinus Quirrell]] blasted him in a potions storeroom with the ''[[Deprimo]]'' [[charm]]. After defeating some [[Troll]]s Harry went into the bottom of the well and saw Raymond on top. That was the first time he mentioned his name to Harry. After giving back [[Raymond's kitten|his kitten]], Raymond threw a [[Chocolate Frog Card]] to Harry.<ref name="PSG">{{PS|G}} (PS1 version)</ref>
+
+==Etymology==
+The name "Raymond" comes From the Germanic name Raginmund, composed of the elements ragin "advice" and mund "protector".
+
+==Appearances==
+*{{PS|G}} {{1st}} {{Comment|PS1 version only}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Raymond (Spiel 1)]]
+[[es:Raymond]]
+[[pl:Raymond]]
+[[fr:Raymond]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

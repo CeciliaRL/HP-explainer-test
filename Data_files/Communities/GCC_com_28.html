@@ -1,0 +1,117 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis.css" type="text/css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.16.1/vis-network.min.js"> </script>
+<center>
+<h1>Community 28</h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+
+<style type="text/css">
+
+        #mynetwork {
+            width: 100%;
+            height: 600px;
+            background-color: white;
+            border: 1px solid lightgray;
+            position: relative;
+            float: left;
+        }
+
+        
+
+        
+
+        
+</style>
+
+</head>
+
+<body>
+<div id = "mynetwork"></div>
+
+
+<script type="text/javascript">
+
+    // initialize global variables.
+    var edges;
+    var nodes;
+    var network; 
+    var container;
+    var options, data;
+
+    
+    // This method is responsible for drawing the graph, returns the drawn network
+    function drawGraph() {
+        var container = document.getElementById('mynetwork');
+        
+        
+
+        // parsing and collecting nodes and edges from the python
+        nodes = new vis.DataSet([{"blood": "Muggle", "color": "#853140", "community": 28, "community_names": ["Roberts", "Wizard in plus-fours", "Payne"], "font": {"color": "black"}, "gender": "unknown", "house": "unknown", "id": "Roberts children", "label": "Roberts children", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eRoberts children\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: unknown \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: Muggle \u003c/br\u003eCommunity: 28"}, {"blood": "Muggle", "color": "#853140", "community": 28, "community_names": ["Roberts", "Wizard in plus-fours", "Payne"], "font": {"color": "black"}, "gender": "Female", "house": "unknown", "id": "Roberts\u0027s wife", "label": "Roberts\u0027s wife", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eRoberts\u0027s wife\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Female \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: Muggle \u003c/br\u003eCommunity: 28"}, {"blood": "Muggle", "color": "#853140", "community": 28, "community_names": ["Roberts", "Wizard in plus-fours", "Payne"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Roberts", "label": "Roberts", "shape": "dot", "size": 22, "species": "Human", "title": "\u003cb\u003eRoberts\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: Muggle \u003c/br\u003eCommunity: 28"}, {"blood": "Pure-blood", "color": "#853140", "community": 28, "community_names": ["Roberts", "Wizard in plus-fours", "Payne"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Man who gave Mr Roberts Galleons", "label": "Man who gave Mr Roberts Galleons", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eMan who gave Mr Roberts Galleons\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: Pure-blood \u003c/br\u003eCommunity: 28"}, {"blood": "Muggle", "color": "#853140", "community": 28, "community_names": ["Roberts", "Wizard in plus-fours", "Payne"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Payne", "label": "Payne", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003ePayne\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: Muggle \u003c/br\u003eCommunity: 28"}, {"blood": "unknown", "color": "#853140", "community": 28, "community_names": ["Roberts", "Wizard in plus-fours", "Payne"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Arnold Peasegood", "label": "Arnold Peasegood", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eArnold Peasegood\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 28"}, {"blood": "unknown", "color": "#853140", "community": 28, "community_names": ["Roberts", "Wizard in plus-fours", "Payne"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Wizard in plus-fours", "label": "Wizard in plus-fours", "shape": "dot", "size": 21, "species": "Human", "title": "\u003cb\u003eWizard in plus-fours\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 28"}, {"blood": "unknown", "color": "#853140", "community": 28, "community_names": ["Roberts", "Wizard in plus-fours", "Payne"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Abraham Peasegood", "label": "Abraham Peasegood", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eAbraham Peasegood\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 28"}, {"blood": "unknown", "color": "#853140", "community": 28, "community_names": ["Roberts", "Wizard in plus-fours", "Payne"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Archie Aymslowe", "label": "Archie Aymslowe", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eArchie Aymslowe\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 28"}, {"blood": "unknown", "color": "#853140", "community": 28, "community_names": ["Roberts", "Wizard in plus-fours", "Payne"], "font": {"color": "black"}, "gender": "Male", "house": "unknown", "id": "Unidentified Ministry of Magic Wizard at the 1994 Quidditch World Cup", "label": "Unidentified Ministry of Magic Wizard at the 1994 Quidditch World Cup", "shape": "dot", "size": 20, "species": "Human", "title": "\u003cb\u003eUnidentified Ministry of Magic Wizard at the 1994 Quidditch World Cup\u003c/b\u003e \u003c/br\u003eHouse: unknown \u003c/br\u003eGender: Male \u003c/br\u003eSpecies: Human \u003c/br\u003eBloodstatus: unknown \u003c/br\u003eCommunity: 28"}]);
+        edges = new vis.DataSet([{"color": "lightgrey", "from": "Roberts children", "to": "Roberts\u0027s wife", "weight": 1}, {"color": "lightgrey", "from": "Roberts children", "to": "Roberts", "weight": 1}, {"color": "lightgrey", "from": "Roberts", "to": "Roberts\u0027s wife", "weight": 1}, {"color": "lightgrey", "from": "Roberts", "to": "Man who gave Mr Roberts Galleons", "weight": 1}, {"color": "lightgrey", "from": "Roberts", "to": "Payne", "weight": 1}, {"color": "lightgrey", "from": "Roberts", "to": "Arnold Peasegood", "weight": 1}, {"color": "lightgrey", "from": "Roberts", "to": "Wizard in plus-fours", "weight": 1}, {"color": "lightgrey", "from": "Arnold Peasegood", "to": "Abraham Peasegood", "weight": 1}, {"color": "lightgrey", "from": "Wizard in plus-fours", "to": "Archie Aymslowe", "weight": 1}, {"color": "lightgrey", "from": "Unidentified Ministry of Magic Wizard at the 1994 Quidditch World Cup", "to": "Archie Aymslowe", "weight": 1}]);
+
+        // adding nodes and edges to the graph
+        data = {nodes: nodes, edges: edges};
+
+        var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "curvedCW"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": true,
+        "hideNodesOnDrag": true
+    },
+    "physics": {
+        "enabled": true,
+        "forceAtlas2Based": {
+            "avoidOverlap": 0,
+            "centralGravity": 0.02,
+            "damping": 1,
+            "gravitationalConstant": -111,
+            "springConstant": 0.025,
+            "springLength": 75
+        },
+        "solver": "forceAtlas2Based",
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+        
+        
+
+        
+
+        network = new vis.Network(container, data, options);
+	 
+        
+
+
+        
+
+        return network;
+
+    }
+
+    drawGraph();
+
+</script>
+</body>
+</html>

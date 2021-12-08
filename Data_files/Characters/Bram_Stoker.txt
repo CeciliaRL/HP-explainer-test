@@ -1,0 +1,49 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Bram Stoker
+|born = [[8 November]] [[1847]]<br />
+Dublin, [[Ireland]]
+|died = [[20 April]] [[1912]] (aged 64)<br />
+[[London]], [[England]]
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Ireland|Irish]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author
+|house = 
+|loyalty = 
+}}
+'''Bram Stoker''' ([[8 November]], [[1847]] – [[20 April]], [[1912]]) was an [[Ireland|Irish]] [[Non-magic people|Muggle]] author best known today for his [[1897]] Gothic horror novel ''[[Wikipedia:Dracula|Dracula]]'', which featured [[Count Dracula]], a fictional character inspired by the historical [[vampire]] [[Vlad Drakul]].<ref name="POAG">{{POA|G}}</ref>
+
+==Appearances==
+*{{POA|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Stoker, Bram}}
+
+[[es:Bram Stoker]]
+[[fr:Bram Stoker]]
+[[pl:Bram Stoker]]
+[[Category:1847 births]]
+[[Category:1912 deaths]]
+[[Category:Authors]]
+[[Category:Irish individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

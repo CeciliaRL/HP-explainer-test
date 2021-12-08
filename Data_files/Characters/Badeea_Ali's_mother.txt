@@ -1,0 +1,44 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = 
+|born = Before [[1973]]
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HM51d"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM51d"/>
+|gender = Female<ref name="HM51d"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Badeea Ali]] (daughter)<ref name="HM51d"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Engineer<ref name="HM51d"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|Mum's a Muggle engineer. She doesn't quite get the "low tech" wizarding lifestyle.|[[Badeea Ali]]|Harry Potter: Hogwarts Mystery}}
+'''Mrs Ali''' was a [[Great Britain|British]] [[Non-magic people|Muggle]] woman who worked as an engineer. She disliked the fact that Muggle technology did not work at her [[wizardkind|witch]] daughter [[Badeea Ali|Badeea's]] [[Hogwarts School of Witchcraft and Wizardry|school]].<ref name="HM51d">{{HM|5|1|d}}</ref> She took her daughter bowling, but her daughter always ended up colouring.<ref name="HM643t">{{HM|6|43|t}}</ref> Sometime before [[1 September]] [[1989]], [[Badeea Ali|her daughter]] cast the [[Star Shower Spell]] on top of their house, which made her angry.{{fact}} She was also known for being able to cook a delicious [[fish stew]] that reminded Badeea of home.<ref name="TGHC">{{HM|5|THE GREAT HOGWARTS COOK-OFF|1}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ali, Mrs}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=snatcher
+|image=[[File:Unidentifiedsanthecr.jpg|250px]]
+|name=Unidentified Snatcher 
+|hideb=
+|born=
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="blood">[[Snatchers]] hunted [[Muggle-born]]s, so he was not one himself.</ref>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DH23"/>
+|gender=Male<ref name="DH23"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=1
+|family=
+|hidem=1
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Snatchers|Snatcher]]<ref name="DH23"/>
+|house=
+|loyalty=[[Snatchers]]<ref name="DH23"/>
+}}
+{{Dialogue a-b-a-b|Bellatrix Lestrange|What is that?|Snatcher|Sword.|Give it to me.|It’s not yours, missus, it's mine, I reckon I found it.|The [[Snatchers|Snatcher]] and [[Bellatrix Lestrange]].|Harry Potter and the Deathly Hallows}}
+This '''[[Wizardkind|wizard]]''' was a [[Snatchers|Snatcher]] who served under [[Fenrir Greyback]] during the [[Second Wizarding War]].
+
+==Biography==
+He was part of the group that captured [[Harry Potter]], [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]] and took them to [[Malfoy Manor]]. [[Bellatrix Lestrange]] was shocked when she saw him holding the [[Godric Gryffindor's Sword|sword]] of [[Godric Gryffindor|Gryffindor]], and demanded to know where he had gotten it (believing it to have been in her [[Lestrange Vault|vault]] at [[Gringotts Wizarding Bank|Gringotts]]). He most unwisely refused her demand to hand it over and was [[Stunning Spell|stunned]] by the enraged witch.<ref name="DH23">{{DH|B|23}}</ref>
+
+==Behind the scenes==
+*This Snatcher was portrayed by [[Samuel Roukin]] in {{DH|F1}}.
+*In the film, the Snatcher tells Bellatrix that the sword was in Hermione's bag when they searched her and reckons that it belongs to him now. In response, Bellatrix hits him with a spell which blasts him backwards onto the stairs, killing him. He is also shown to have the Snitch in his possession, but it flutters out of his pocket and returns to Harry when he passes his corpse on the stairs.
+*In {{LEGO|Y2}}, the Snatcher is omitted. Instead, [[Bellatrix Lestrange]] finds the [[Sword of Gryffindor]] in [[Hermione Granger's beaded handbag|Hermione's handbag]].
+
+==Appearances==
+*{{DH}} {{1st}}
+*{{DH|F1}}
+*{{DH|G1}}
+
+==Notes and references==
+{{Reflist}}
+[[pt-br:Sequestrador não identificado (I)]]
+[[Category:British individuals]]
+[[Category:Males|Snatcher]]
+[[Category:Unidentified snatchers]]
+[[Category:Skirmish at Malfoy Manor participants]]

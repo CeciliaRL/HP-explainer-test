@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Elsie Prod
+|born = 
+|died = 
+|blood = 
+|marital = Widowed
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Demetrius Prod]] (husband)†
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Elsie Prod''' was a [[Wizardkind|witch]] who lived in [[Didsbury]], [[England]] in late [[1992]]<ref name="COS8">{{COS|B|8}}</ref> and was the wife of [[Demetrius Prod]].
+
+==Biography==
+Sometime prior to [[January]] [[1992]], her husband wrote to [[Kwikspell Company]], and a month thereafter managed to [[Human to yak spell|turn Elsie into a yak]]; he wrote an advertisement for the Kwikspell Company, proud of this feat. [[Harry Potter]] and [[Argus Filch]] would later read about this.<ref name="COS8" />
+
+On the eve of [[27 November]], [[1998]]<ref>[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[8 February]], [[1999]], Page 2</ref> after supper, Demetrius and Elsie got into an argument over the washing-up. He died that night, described by the ''[[Daily Prophet]]'' to have been "noisily". His obituary claimed Elise "sadly missed"<ref>https://www.hp-lexicon.org/source/other-canon/dp/dp2/</ref> her husband, despite seemingly not getting along well with him.
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Prod, Elsie}}
+[[es:Elsie Prod]]
+''​[[pl:Pani Prod]] ''
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Widowed individuals]]
+[[Category:Wizards]]

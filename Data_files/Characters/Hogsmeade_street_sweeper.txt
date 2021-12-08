@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Hogsmeade street sweeper.jpg|250px]]
+|name = Hogsmeade street sweeper
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAF"/>
+|gender = Male<ref name="POAF"/>
+|height = 
+|weight = 
+|hair = White<ref name="POAF"/>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Street sweeper<ref name="POAF"/>
+|house = 
+|loyalty = [[Hogsmeade]]<ref name="POAF"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who worked in [[Hogsmeade]] as a street sweeper in the early [[1990s]]. In [[1993]], [[Harry Potter]] pushed him aside while under his [[Cloak of Invisibility|Cloak of Invisibilty]].<ref name="POAF">{{POA|F}}</ref>
+
+==Appearances==
+*{{POA|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

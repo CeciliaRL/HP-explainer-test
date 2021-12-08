@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = Eustace Fawley.png
+|name = Eustace Fawley
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]] (most likely)<ref>The Fawleys were included in the Pure-blood Directory published in the 1930s so Eustace cannot be Muggle-born and is at Hogwarts so he cannot be a Squib.</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC7" />
+|gender = Male<ref name="FBC7" />
+|height = 
+|weight = 
+|hair = Brown<ref name="FBC7" />
+|eyes = Grey<ref name="FBC7" />
+|skin = White<ref name="FBC7" />
+|family = *[[Eustace Fawley's father|Father]]<ref name="FBC7" />
+*[[Eustace Fawley's uncle|Uncle]]<ref name="FBC7" />
+*[[Fawley family]]<ref name="FBC7" />
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="FBC7" />
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="FBC7" />
+|loyalty = *[[Fawley family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="FBC7" />
+**[[Hufflepuff]]<ref name="FBC7" />
+}}
+'''Eustace Fawley''' was a [[Hufflepuff]] student who studied at [[Hogwarts School of Witchcraft and Wizardry]].
+
+==Biography==
+[[Sorting ceremony|Sorted]] into [[Hufflepuff|Hufflepuff House]], he was involved with a [[fire]] at the [[Boathouse]] during his [[third year]]. He said he came down to practise [[gobstones]], but ended up losing [[Eustace Fawley's father|his father]]'s best set during the fire.<ref name="FBC7">{{FBC|7}}</ref>
+
+He was known to read [[Martin Miggs]] comics and has [[Eustace Fawley's uncle|an uncle]] that lived in [[Fiji]].<ref name="FBC7" />
+
+==Etymology==
+Eustace is the English form of ''Eustathios'', derived from the Greek word ''eustathes ''meaning "well-built, stable".
+
+Fawley is a name derived from the Old English word ''fugelere'' which means "hunter of wild birds, fowler".
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Fawley, Eustace}}
+[[pl:Eustace Fawley]]
+[[fr:Eustace Fawley]]
+[[ru:Юстас Фоули]]
+[[Category:British or Irish individuals]]
+[[Category:Fawley family|Eustace]]
+[[Category:Gobstones players]]
+[[Category:Grey-eyed individuals‎]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Wizards]]

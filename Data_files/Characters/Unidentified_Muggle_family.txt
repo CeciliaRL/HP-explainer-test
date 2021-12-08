@@ -1,0 +1,27 @@
+{{Conjecture}}
+{{Family infobox
+|image = Daily Prophet reports Muggle Family murdered crop.jpg
+|name = Muggle family
+|blood = [[Non-magic people|Muggles]]<ref name="DHF1"/>
+|family members = *A woman<ref name="DHF1"/>
+*A man<ref name="DHF1"/>
+*A baby boy<ref name="DHF1"/>
+*A baby girl<ref name="DHF1"/>
+|status = Likely extinct (as of mid-[[1997]])<ref name="DHF1"/>
+}}
+This '''family''' of [[Non-magic people|Muggles]] was murdered sometime in mid [[1997]], they were likely killed by [[Death Eaters]] or other supporters of [[Tom Riddle|Lord Voldemort]]. Their deaths were reported in the ''[[Daily Prophet]]''.<ref name="DHF1">{{DH|F1}} {{see image|File:DarkMarkSparksPanic.png}}</ref>
+[[File:Daily Prophet reports Muggle Family murdered.jpg|thumb|left|The family's murder being reported in the [[Daily Prophet]]]]
+
+==Appearances==
+*{{DH|F1}} {{1st}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1997 deaths]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Males]]
+[[Category:Muggle families]]
+[[Category:Murder victims|Muggle]]
+[[Category:Second Wizarding War casualties]]
+[[Category:Unidentified Muggles|Muggle]]

@@ -1,0 +1,74 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Lord North
+|born = [[13 April]], [[1732]]
+|died = [[5 August]], [[1792]]
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = *[[Honorific|Lord]]
+*Earl of Guilford
+*[[Prime Minister (title)|Prime Minister]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Prime Minister (title)|Prime Minister of Great Britain]] ([[1970s|1770]]-[[1782]])
+|house = 
+|loyalty = *[[Great Britain]]
+*[[Great Britain|British]] Government
+*[[Muggle world]]
+}}
+'''Frederick North, 2nd Earl of Guilford''' ([[13 April]], [[1732]] – [[5 August]], [[1792]]), more often known by his courtesy title, '''Lord North''', was the [[Non-magic people|Muggle]] [[Prime Minister (title)|Prime Minister]] from [[28 January]], [[1770]] to [[22 March]], [[1782]].<ref name="Wikipedia">[[Wikipedia:Frederick North, Lord North|"Frederick North, Lord North"]] on [[Wikipedia:Main page|Wikipedia]]</ref>
+
+==Biography==
+Lord North called [[Minister for Magic]] [[Porteus Knatchbull]] in confidentially in [[1782]], to see whether he could help with [[George III|King George III]]'s emerging mental instability. Word leaked out that Lord North believed in wizards, and he was forced to resign after a motion of no confidence.<ref name="PMministers">{{WW|ministers-for-magic}}</ref>
+
+==Behind the scenes==
+*In reality, Lord North resigned from Prime Minister after a vote of no confidence resulting from the {{wplink|Siege of Yorktown}}, which was the decisive battle against the [[Great Britain|British]] in the {{wplink|American Revolutionary War}}.
+**Moreover, he subsequently served as Home Secretary and Leader of the House of Commons (jointly in the latter role with {{wplink|Charles James Fox}}) in a ministry nominally headed by {{wplink|William Cavendish-Bentinck, 3rd Duke of Portland}}.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=—
+|position=[[Prime Minister (title)|Prime Minister]]
+|years=[[1770]]-[[1782]]
+|successor=Eventually, the [[Duke of Wellington]]
+}}
+{{End box}}
+
+{{DEFAULTSORT:North, Lord}}
+
+[[de:Lord North]]
+[[ru:Фредерик Норт]]
+[[fr:Lord North]]
+[[pt-br:Lord North]]
+[[pl:Lord North]]
+[[Category:1732 births]]
+[[Category:1792 deaths]]
+[[Category:British individuals]]
+[[Category:Deceased individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Nobility]]
+[[Category:Prime Ministers]]

@@ -1,0 +1,80 @@
+{{Individual infobox
+|theme = wizard
+|image = PMFT_Herbert_Burke.png
+|name = Herbert Burke
+|born = 
+|died = 
+|blood = [[Pure-blood]]
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Belvina Black]] (wife)
+*[[Belvina Burke's sons|Two sons]]
+*[[Belvina Burke's daughter|One daughter]]
+*[[Phineas Nigellus Black]] (father-in-law) †
+*[[Sirius Black II]] (brother-in-law) †
+*[[Phineas Black]] (brother-in-law) †
+*[[Arcturus Black II]] (brother-in-law) †
+*[[Cygnus Black II]] (brother-in-law) †
+*[[Hesper Gamp|Hesper Black]] (sister-in-law by marriage)
+*[[Lysandra Yaxley|Lysandra Black]] (sister-in-law by marriage) †
+*[[Violetta Bulstrode|Violetta Black]] (sister-in-law by marriage) †
+*[[Arcturus Black III]] (nephew) †
+*[[Lycoris Black]] (niece) †
+*[[Regulus Black I]] (nephew) †
+*[[Pollux Black]] (nephew) †
+*[[Cassiopeia Black]] (niece) †
+*[[Callidora Black]] (niece) †
+*[[Cedrella Black|Cedrella Weasley]] (niece) †
+*[[Charis Black|Charis Crouch]] (niece) †
+*[[Marius Black]] (nephew) †
+*[[Dorea Black|Dorea Potter]] (niece) †
+*[[Caractacus Burke]] (possibly) †
+*[[Elizabeth Burke]] (possibly) †
+*[[Burke family]]
+*[[House of Black]] (in-laws)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Burke family]]
+*[[House of Black]]
+}}
+'''Herbert Burke''' was a [[Wizardkind|wizard]] who married the pure-blood witch [[Belvina Black]]. Given that Belvina was not disowned by her [[House of Black|family]], who believed strongly in [[Blood status|blood purity]], it is likely that Herbert was a [[pure-blood]]. The couple had [[Belvina Burke's sons|two sons]] and [[Belvina Burke's daughter|one daughter]].<ref>[[House of Black|Black family tree]]</ref> Herbert may be related to [[Caractacus Burke]] of [[Borgin and Burkes]].
+
+==Etymology==
+"[[wikipedia:Herbert (name)|Herbert]]" is derived from the Germanic elements ''hari'', "army" and ''beraht'', "bright". The Normans introduced this name to England, where it replaced an Old English cognate ''Herebeorht''. In the course of the Middle Ages it became rare, but it was revived in the 19th century.
+
+There was a real person with this name, [[wikipedia:J. Herbert Burke|J. Herbert Burke]].
+
+''Burke'' means "fortified hill".<ref>[[wikipedia:Burke (surname)|Burke (surname)]]</ref>
+
+==Appearances==
+*{{OOTP|F}} {{Comment|Appears on Black family tapestry}}
+*{{PM}} {{Mention}}
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Burke, Herbert}}
+[[es:Herbert Burke]]
+[[fr:Herbert Beurk]]
+[[pl:Herbert Burke]]
+[[ru:Герберт Бёрк]]
+
+[[Category:British individuals]]
+[[Category:Burke family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

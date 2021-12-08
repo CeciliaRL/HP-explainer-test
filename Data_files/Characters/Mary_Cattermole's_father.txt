@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mary Cattermole's father
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="DH13"/>
+|marital = Married<ref name="DH13"/>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH13"/>
+|gender = Male<ref name="DH13"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Mary Cattermole's mother|Wife]]<ref name="DH13"/>
+*[[Mary Cattermole]] (daughter)<ref name="DH13"/>
+*[[Reginald Cattermole]] (son-in-law)<ref name="DH13"/>
+*[[Maisie Cattermole]] (granddaughter)<ref name="DH13"/>
+*[[Ellie Cattermole]] (granddaughter)<ref name="DH13"/>
+*[[Alfred Cattermole]] (grandson)<ref name="DH13"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Greengrocer]]<ref name="DH13"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|...there are few pure-blood families to whom I am not related.... A pity.... that the same cannot be said for you. ''‘Parents professions: greengrocers’''.|[[Dolores Umbridge]] during [[Mary Cattermole]]'s trial|Harry Potter and the Deathly Hallows}}
+The '''father''' of [[Mary Cattermole]] was a [[Non-magic people|Muggle]] [[greengrocer]], as was his [[Mary Cattermole's mother|wife]].<ref name="DH13"/>
+
+Their daughter was a [[Muggle-born]] witch who eventually married [[Reginald Cattermole]] and had three children. Her [[blood status]] caused her trial with the [[Muggle-Born Registration Commission]] in [[1997]], when [[Tom Riddle|Lord Voldemort]] infiltrated the [[British Ministry of Magic|Ministry of Magic]]. On her questionnaire, she mentioned her parents' professions, which was inadvisable, as it made it extremely obvious to the unsympathetic regime at the time that she had no blood ancestry. Fortunately, [[Harry Potter]], [[Hermione Granger]], and [[Ronald Weasley|Ron Weasley]], who were all in disguise, saved Mary from going to prison and advised her to flee the country.<ref name="DH13">{{DH|B|13}}</ref>
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{DH|G1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[ru:Отец Мэри Кроткотт]]
+[[pl:Ojciec Mary Cattermole]]
+[[Category:British individuals|Cattermole's father]]
+[[Category:Greengrocers|Cattermole's father]]
+[[Category:Males|Cattermole's father]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

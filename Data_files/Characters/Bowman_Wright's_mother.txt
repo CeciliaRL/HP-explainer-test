@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Wright
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Bowman Wright's father|Mr Wright]] (husband)
+*[[Bowman Wright]] (son) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Wright family]]
+}}
+'''Mrs Wright''' was a [[Wizardkind|witch]] who lived sometime during the [[Middle Ages]]. She married a [[Non-magic people|Muggle]] [[Bowman Wright's father|man]], and had at least one child with him, a son named [[Bowman Wright|Bowman]].<ref name="COSG">{{COS|G}}</ref>
+
+==Appearances==
+*{{PS|G}} {{FWC mention}}
+*{{COS|G}} {{FWC mention}}
+*{{POA|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Madre de Bowman Wright]]
+[[pl:Pani Wright]]
+{{DEFAULTSORT:Wright, Bowman's mother}}
+[[Category:Blood traitors]]
+[[Category:British individuals|Wright]]
+[[Category:Females|Wright]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎]]
+[[Category:Wizards|Wright]]
+[[Category:Wright family]]

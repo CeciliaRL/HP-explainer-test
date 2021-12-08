@@ -1,0 +1,51 @@
+{{Transcribed image|File:JuliusDehoff.jpg}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:JuliusDehoff.jpg|250px]]
+|name = Julius Dehoff
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Dehoff family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Julius Dehoff''' was a [[Wizardkind|wizard]] whose name was carved into the wood panelling on a wall of [[Sybill Trelawney|Professor Trelawney]]'s [[Divination]] classroom.<ref>{{POA|F}} - Chapter 21 (''Professor Trelawney's Prediction'')</ref>
+
+==Etymology==
+The name "Julius" is from a Roman family name which was possibly derived from Greek ιουλος (''ioulos'') "downy-bearded". Alternatively, it could be related to the name of the Roman god Jupiter. This was a prominent patrician family of Rome, who claimed descent from the mythological Julus, son of Aeneas. Its most notable member was Gaius Julius Caesar, who is known for his clever conquest of Gaul. After a civil war he became the dictator of the Roman Republic, but was eventually stabbed to death in the senate. Although this name was borne by several early saints, including a pope, it was rare during the Middle Ages. It was revived in Italy and France during the Renaissance, and was subsequently imported to England.
+
+==Behind the scenes==
+*This character was named after [[Julia Dehoff (real-world)|Julia Dehoff]], who worked as a draughtsman on several [[Harry Potter films|''Harry Potter'' films]].<ref>"[http://www.imdb.com/name/nm0215005/ Julia Dehoff]" on IMDb</ref>
+
+==Appearances==
+*{{POA|F}} {{Comment|Name seen on wood panelling}}
+*{{WWHP}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Dehoff, Julius}}
+[[pl:Julius Dehoff]]
+[[Category:British individuals]]
+[[Category:Dehoff family|Julius]]
+[[Category:Males]]
+[[Category:Wizards]]

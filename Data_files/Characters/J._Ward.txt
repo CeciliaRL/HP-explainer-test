@@ -1,0 +1,47 @@
+{{Transcribed image|File:Memorandum Rodentium.png}}
+{{Individual infobox
+|theme = macusa
+|image = 
+|name = J. Ward
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Magical Congress of the United States of America]] employee
+|house = 
+|loyalty = [[Magical Congress of the United States of America]]
+}}
+'''J. Ward''' was an [[United States of America|American]] [[wizardkind|wizard or witch]] who worked for the [[Magical Congress of the United States of America]] in the [[1920s]].<ref name="cob">{{CB}} {{see image|File:Memorandum Rodentium.png}}</ref>
+
+==Biography==
+On [[7 December]] [[1926]], [[Y. Blishen]] sent a [[Memorandum Rodentium|rat memo]] to "all 2nd Floor Sorcery Staff," including J. Ward. The memo notified recipients that, following a vote approving the [[Calufrax Edict]], wand permit requests from aliens (non-U.S. citizens) would have to be filed with a variety of new codes.<ref name="cob" />
+
+==Appearances==
+*{{FB|F}} {{C|Mentioned on a document}}
+*{{CB}} {{C|Mentioned on a document}}
+
+==Notes and references==
+{{Reflist}}{{MACUSA}}
+{{DEFAULTSORT:Ward, J.}}
+[[es:J. Ward]]
+[[Category:American individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Wizards]]

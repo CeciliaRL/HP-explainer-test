@@ -1,0 +1,43 @@
+{{WizardsUniteSpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:Brilliant hornbill WU.png|thumb]]
+|name = Minerva McGonagall's hornbill
+|born = Pre [[1992]]
+|died = 
+|alias = 
+|title = 
+|species = *{{Wplink|Hornbill}}
+*Water goblet (briefly)
+|gender = Male<ref name="WU">{{WU}}</ref>
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = *[[Minerva McGonagall]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Transfiguration department]]
+}}
+This '''Hornbill''' was a pet male<ref name="WU"/> [[bird]] owned by [[Minerva McGonagall]] from [[1992]] or earlier.<ref name="COSF"/>
+
+==History==
+[[File:COS_Vera_Verto_demo.gif|thumb|left|McGonagall using her bird to demonstrate ''Vera Verto'']]
+In [[1992]], [[Minerva McGonagall|Professor McGonagall]] used the bird to demonstrate the [[Transforming Spells|transforming spell]], ''[[Vera Verto]],'' in front of her [[Second year|second-years']] [[Transfiguration (class)|Transfiguration]] class.<ref name="COSF">{{COS|F}} - Chapter 14 (''About the Chamber'')</ref>
+
+During the [[2020s]], this hornbill appeared as a [[Foundable]] during the [[Calamity]].<ref name="WU"/>
+
+==Appearances==
+*{{PS|F}} {{1st}}
+*{{COS|F}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}[[es:Ave de Minerva McGonagall]]
+[[Category:Birds]]
+[[Category:Foundables]]
+[[Category:Males]]
+[[Category:Minerva McGonagall's possessions]]
+[[Category:Pets]]
+[[Category:Transfiguration department]]

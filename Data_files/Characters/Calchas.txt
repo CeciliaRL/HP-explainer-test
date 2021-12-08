@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Calchas
+|born = Ancient [[Greece]]<ref name="COSG"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Greece|Greek]]<ref name="COSG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seer]]<ref name="COSG"/>
+|house = 
+|loyalty = 
+}}
+'''Calchas''' was an Ancient [[Greece|Greek]] [[Wizardkind|wizard]] and a [[Seer]] who was bested by [[Mopsus (antiquity)|Mopsus]] in a contest over who was the more powerful.<ref name="COSG">{{COS|G}}</ref>
+
+==Behind the scenes==
+*Calchas was a seer featured in Homer's ''Iliad'', famous for correctly predicting many events of the Trojan War. Upon being bested in a contest of soothsaying by Mopsus, he killed himself in shame.<ref>[[Wikipedia:Calchas|Calchas]] at [[Wikipedia:Main Page|Wikipedia]]</ref>
+
+==Appearances==
+*{{PS|G}} {{FWC mention}}
+*{{COS|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Divination}}
+
+[[de:Calchas]]
+[[de2:Kalchas]]
+[[es:Calcas]]
+[[fr:Calchas]]
+[[pl:Calchas]]
+[[pt-br:Calcas]]
+[[Category:B.C. era births]]
+[[Category:Greek individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Seers]]
+[[Category:Wizards]]

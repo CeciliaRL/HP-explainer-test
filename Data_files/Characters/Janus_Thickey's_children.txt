@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Janus Thickey's children
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]], or [[Squib]]<ref name="blood">Their father was a wizard, but their mother's blood status is unknown.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="FBR"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Janus Thickey]] (father)<ref name="FBR"/>
+*[[Janus Thickey's wife|Mrs Thickey]] (mother)<ref name="FBR"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+[[Janus Thickey]], a [[Great Britain|British]] [[Wizardkind|wizard]], was married to a [[Janus Thickey's wife|woman]] and had some '''children'''. When, in [[1973]], their father faked his own death by pretending that a [[Lethifold]] had eaten him, she and her children entered a period of mourning. However, their mourning was cut short when Janus was found to be living five miles away, with the [[Landlady of the Green Dragon|landlady]] of the [[Green Dragon]].<ref name="FBR">{{FB|R}}, ''Lethifold''</ref>
+
+==Appearances==
+*{{FB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Enfants de Janus Thickey]]
+[[pl:Dzieci Janusa Thickey'a]]
+[[Category:20th century births]]
+[[Category:British individuals|Thickey's children]]
+[[Category:Individuals of unknown or undetermined gender|Thickey's children]]
+[[Category:Unnamed family members|Thickey's children]]

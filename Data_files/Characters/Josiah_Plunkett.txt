@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Josiah Plunkett
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Mirabella Plunkett]] (possibly)
+*[[Samuel Plunkett]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch]] referee
+|house = 
+|loyalty = [[Plunkett family]]
+}}
+'''Josiah Plunkett''' was a [[Quidditch]] referee.<ref name="wizardsp">"[http://www.hplex.info/wizards/a-z/p.html Wizards, Witches and Beings: P]" on the Harry Potter Lexicon</ref> He oversaw the match between the [[Appleby Arrows]] and the [[Pride of Portree]] during which [[Dougal McBride]], the [[Seeker]] for the Pride of Portree, [[transfiguration|turned]] the head of the Arrows Seeker, [[Gregory Cotton]], into a [[cabbage]].<ref name="wizardsp" /><ref name="wizardsm">"[http://www.hplex.info/wizards/a-z/m.html Wizards, Witches and Beings: M]" on the Harry Potter Lexicon</ref><ref name="wizardsc">"[http://www.hplex.info/wizards/a-z/c.html Wizards, Witches and Beings: C]" on the Harry Potter Lexicon</ref> McBride defended his actions to Plunkett by claiming that Cotton had hit him with a [[Jelly-Fingers Curse]] while they were both racing towards the [[Golden Snitch|Snitch]] and thus deserved to be "cabbaged."<ref name="wizardsp" /><ref name="wizardsm" />
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[ru:Джозия Планкетт]]
+[[pl:Josiah Plunkett]]
+{{DEFAULTSORT:Plunkett, Josiah}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Plunkett family|Josiah]]
+[[Category:Quidditch referees]]
+[[Category:Wizards]]

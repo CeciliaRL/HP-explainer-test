@@ -1,0 +1,50 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = macusa
+|image = 
+|name = Cas Carneirus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[United States of America|American]]<ref name="WU"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Female<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[M. P. Carneirus]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Captain of Aurors]]<ref name="WU"/>
+|house = 
+|loyalty = *[[Magical Congress of the United States of America]]<ref name="WU"/>
+**[[Department of Magical Law Enforcement (MACUSA)|Department of Magical Law Enforcement]]<ref name="WU"/>
+***[[Department of Aurors]]<ref name="WU"/>
+}}
+'''Cas Carneirus''' was an [[United States of America|American]] [[wizardkind|witch]] and the [[Captain of Aurors]] for the [[Magical Congress of the United States of America]] in the [[2020s]].
+
+==Biography==
+In the early 2020s, during the [[Calamity]], she hosted a bootcamp to better prepare [[Statute of Secrecy Task Force|SOS agents]] for duels against Adversaries.<ref name="WU">{{WU}}</ref> 
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+[[Category:American individuals]]
+[[Category:Aurors]]
+[[Category:Females]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Statute of Secrecy Task Force]]
+[[Category:Wizards]]
+{{DEFAULTSORT:Carneirus, Cas}}

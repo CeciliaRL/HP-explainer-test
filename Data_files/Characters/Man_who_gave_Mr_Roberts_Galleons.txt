@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Man who gave Mr Roberts Galleons
+|hideb=
+|born=Prior to [[1994]]
+|died=
+|blood=[[Pure-blood]] or [[half-blood]]<ref name="Blood">If he was [[Muggle-born]], he would have likely had more sense than to try to pay a Muggle with Galleons.</ref>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="GOF7"/>
+|gender=Male<ref name="GOF7"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=Hide
+|family=
+|hidem=Hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=Hide
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|You're not the first one who's had trouble with money. I had two try and pay me with great gold coins the size of hubcaps ten minutes ago.|Mr Roberts|Harry Potter and the Goblet of Fire}}
+This '''unidentified man''' tried to pay [[Non-magic people|Muggle]] [[Roberts|Mr Roberts]] with [[Galleon]]s, or as Roberts described it ''big gold coins'', at the [[1994]] [[Quidditch World Cup]].<ref name="GOF7">{{GOF|B|7}}</ref> 
+
+==Biography==
+This man tried to pay with "[[Galleon|big gold coins]]" to get into the [[Quidditch World Cup Campsite]], but was unsuccessful as [[Roberts]] was a Muggle and so did not recognise the currency.<ref name="GOF7"/>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

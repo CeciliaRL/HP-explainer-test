@@ -1,0 +1,49 @@
+{{Real world subject}}
+{{Individual infobox
+|image=
+|theme=individual
+|name=Jim Hamilton
+|hideb=
+|born=[[17 November]], [[1982]]<br/>[[Wikipedia:Swindon|Swindon]], [[Wiltshire]], [[England]]
+|died=
+|blood=[[Squib]] (suspected)
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Rubeus Hagrid]] (possible relation)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Rugby union player
+|house=
+|loyalty=[[Scottish rugby team]]
+}}
+'''James Leigh Hamilton''' (b. [[17 November]], [[1982]]) was a professional rugby union player who played as a [[Wikipedia:Rugby union positions#Locks|lock]] for the [[Scottish rugby team]] since [[2006]].<ref name="Wikipedia">{{Wikilink|Jim Hamilton (rugby union)}}</ref> It is possible he was related to the wizarding [[Hagrid family]], given his strong physical resemblance to [[Rubeus Hagrid]].<ref name="Pottermore">{{PM}} - New from J.K. Rowling{{WW|scottish-rugby}}</ref>
+
+In [[2014]], Jim Hamilton, along with [[Kelly Brown]] and [[Stuart Hogg]], came under suspect, among [[wizarding world|wizarding circles]], of actually being a talented [[Squib]]. While there is no wizarding rule which prevents a Squib from actually playing on a Muggle team, the act of smuggling a Squib into the team, which is the rumoured mission of the [[Wizarding Supporters of Scottish Rugby Union|WSSRU]], is in violation of the [[International Statute of Wizarding Secrecy]] which prohibits wizards from participating in Muggle sports.<ref name="Pottermore"/>
+
+==Appearances==
+*{{PM}} {{1st mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Hamilton, Jim}}
+
+[[pl:Jim Hamilton]]
+[[Category:1982 births]]
+[[Category:English individuals]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Rugby players]]

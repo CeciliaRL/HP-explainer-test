@@ -1,0 +1,37 @@
+{{Notability}}
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:HPDH2-3479.jpg|250px]]
+|name = Unidentified male Death Eater killed on the Hogwarts Seventh Floor
+|died = [[2 May]], [[1998]]<br/>[[Hogwarts School of Witchcraft and Wizardry]], [[Seventh-floor corridor]]
+|species = [[Human]]
+|gender = Male
+|hair = Dark
+|skin = Light
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|loyalty = *[[Death Eaters]]
+**[[Tom Riddle|Lord Voldemort]]
+|theme = death-eater
+|hideb = hide
+|hidep = 
+|hidef = hide
+|hidem = hide
+|hidea = 
+}}
+This '''[[Dark Wizard]]''' was a [[Death Eaters|Death Eater]] who fought during the [[Second Wizarding War]]. 
+
+==Biography==
+This wizard was presumably born in [[Great Britain]] or [[Ireland]] some time during the [[20th century]]. At some point in his adult life, he became well-versed in the [[Dark Arts]] and joined the [[Death Eaters]], becoming a loyal servant of [[Tom Riddle|Lord Voldemort]]. He presumably fought during the [[First Wizarding War]] with his fellow Death Eaters for Voldemort's [[Pure-blood supremacy|cause]]. 
+
+On [[2 May]] [[1998]], This Death Eater was called by his master to fight in the [[Battle of Hogwarts]], which he responded to and fought with his fellow Death Eaters against the [[Hogwartian|defenders]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. During the battle, he was killed by a student or member of staff on the [[Hogwarts Castle#Seventh Floor|Seventh Floor]].<ref>{{DH|B|31}}</ref><ref>{{DH|F2}}</ref>
+
+==Appearances==
+*{{DH}}
+*{{DH|F2}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts fatalities]]
+[[Category:Deceased individuals]]
+[[Category:Males]]
+[[Category:Unidentified Death Eaters]]

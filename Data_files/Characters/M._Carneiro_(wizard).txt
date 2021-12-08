@@ -1,0 +1,49 @@
+{{Youmay|[[M. Carneiro (wizard)|the wizard]]|[[M. Carneiro (Muggle)|the muggle]]}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = M. Carneiro
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author
+|house = 
+|loyalty = 
+}}
+'''M. Carneiro''' was a [[wizardkind|wizarding]] linguist, and author of ''[[Grammatica]]'', a grammar compendium.
+
+==Behind the scenes==
+*This character was presumably named after Mauricio Carneiro, who worked as a costume illustrator for every [[Harry Potter films|''Harry Potter'' film]] from ''[[Harry Potter and the Goblet of Fire (film)|Goblet of Fire]]'' onward, and as a costumer for ''[[Harry Potter and the Order of the Phoenix (film)|Order of the Phoenix]]'' and ''[[Harry Potter and the Half-Blood Prince (film)|Half-Blood Prince]]''.<ref>"[http://www.imdb.com/name/nm1769188/ Mauricio Carneiro]" on IMDb</ref>
+
+==Appearances==
+*{{HPPS}} {{Mention}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:M. Carneiro (czarodziej)]]
+[[fr:M. Carneiro (sorcier)]]
+[[pt-br:M. Carneiro]]
+[[Category:Authors|Caneiro, M.]]
+[[Category:British individuals|Carneiro, M.]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards|Carneiro, M.]]

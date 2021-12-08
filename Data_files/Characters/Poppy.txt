@@ -1,0 +1,37 @@
+{{Youmay|The school matron|[[Poppy Pomfrey]]}}
+{{Pet individual infobox
+|image = Bowtruckles.png
+|name = Poppy
+|born = Pre [[1926]]
+|died = 
+|alias = 
+|title = 
+|species = [[Bowtruckle]]<ref name="bowtruckles">{{FB|F}}</ref>
+|gender = Male
+|height = 
+|hair = 
+|feathers = 
+|eyes = Black
+|skin = 
+|family = 
+*[[Titus]]<ref name="bowtruckles"/>
+*[[Finn]]<ref name="bowtruckles"/>
+*[[Marlow]]<ref name="bowtruckles"/>
+*[[Tom]]<ref name="bowtruckles"/>
+|loyalty = [[Newton Scamander|Newt Scamander]]
+}}
+'''Poppy''' was one of the [[Bowtruckle]]s that were kept by [[Newton Scamander|Newt Scamander]] as pets, together with [[Pickett]], [[Finn]], [[Titus]], [[Marlow]], and [[Tom (Bowtruckle)|Tom]].<ref>[https://twitter.com/FantasticBeasts/status/794333143096442880 Twitter - Fantastic Beasts]</ref>
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}} 
+
+==Notes and references==
+{{Reflist}}
+[[de2:Poppy]]
+[[fr:Poppy]]
+[[pl:Poppy]]
+[[Category:Bowtruckles]]
+[[Category:Females]]
+[[Category:Newton Scamander's suitcase]]
+[[Category:Pets]]

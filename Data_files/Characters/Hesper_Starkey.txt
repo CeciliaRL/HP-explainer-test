@@ -1,0 +1,72 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Hesper Starkey.png|250px]]
+|name = Hesper Starkey
+|born = [[1881]]
+|died = [[1973]] (aged 91 - 92)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Black
+|eyes = Brown
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Potioneer]]
+*[[Astronomer]]
+|house = 
+|loyalty = 
+}}
+'''Hesper Starkey''' ([[1881]] – [[1973]]) was a [[Wizardkind|witch]] who studied how the [[moon]]'s phases affected [[potion]] fabrication.<ref>{{PS|G}}</ref><ref>{{COS|G}}</ref>
+
+==History==
+In [[1993–1994 school year|1993-1994]], a [[Portrait]] of her guarded a secret room at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], to which the [[password]] (obtainable only from [[Fred Weasley|Fred]] and [[George Weasley]]) was ''Lunartickle''.<ref>{{POA|G}} - PC version</ref>
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': Starkey was a skilled and renowned [[potioneer]], who was highly proficient in the art of potion-making, as she discovered how the phases of the [[moon]] affected the fabrication of potions.
+*'''[[Astronomy (class)|Astronomy]]''': Starkey was also very knowledgeable in this branch of [[science]], as she studied and discovered how the phases of the [[moon]] affected potion-brewing, a significant achievement in the field of Astronomy as well.
+
+==Behind the scenes==
+*Judging from her year of birth, Hesper may have been in the same year as [[Albus Dumbledore]], if she attended [[Hogwarts School of Witchcraft and Wizardry]].
+*In some [[Harry Potter (video game series)|''Harry Potter'' video game series]], her surname is spelled '''Starky'''. {{PM}}, however, gives the name as Starkey.
+
+==Appearances==
+{{Imagecat|Images of Hesper Starkey}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}} {{Portrait}} {{1stID}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Astronomy}}
+{{Potions}}
+{{Chocolate Frog Cards}}
+{{DEFAULTSORT:Starkey, Hesper}}
+
+[[de:Hesper Starkey]]
+[[es:Hesper Starkey]]
+[[fi:Hesper Starkey]]
+[[fr:Hesper Starkey]]
+[[it:Hesper Starky]]
+[[pl:Hesper Starkey]]
+[[Category:1881 births]]
+[[Category:1973 deaths]]
+[[Category:Astronomers]]
+[[Category:British individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Potioneers]]
+[[Category:Wizards]]

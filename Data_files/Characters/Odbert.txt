@@ -1,0 +1,44 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = gringotts
+|image = Odbert.png
+|name = Odbert
+|born = Pre-[[1990]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HM6"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]<ref name="HM6"/>
+|gender = Male<ref name="HM6"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Odbert's father]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employee at [[Gringotts Wizarding Bank]]<ref name="HM6"/>
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="HM6"/>
+}}
+'''Odbert''' was a [[Goblin]] who worked at [[Gringotts Wizarding Bank]] at some point during [[1990]]. Like most goblins, he was rather suspicious of most [[Wizardkind|wizards]], including the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] students that visited the bank looking for [[William Weasley|Bill Weasley]]. He did, however, appear quite friendly with his colleague and fellow goblin, [[Burgock]].<ref name="HM6">{{HM|6|THE DRAGON'S TREASURE|1}}</ref>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+[[fr:Odbert]]
+[[ru:Одберт]]
+[[Category:British individuals]]
+[[Category:Goblins]]
+[[Category:Gringotts employees]]
+[[Category:Males]]

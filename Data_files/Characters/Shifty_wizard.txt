@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Shifty wizard.jpg|250px]]
+|name = Shifty wizard
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOHP">{{LEGO|Y1}}</ref>
+|wand = 
+|patronus = Non-corporeal<ref name="LEGOHP">{{LEGO|Y1}}</ref>
+|job = 
+|house = 
+|loyalty = [[Knockturn Alley]]
+}}
+This '''individual''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who would visit [[Knockturn Alley]] very frequently during the early [[1990s]]. He had pale greenish-white skin and wore a black hat and cloak.<ref name="LEGOHP">{{LEGO|Y1}}</ref>
+
+==Appearances==
+*{{LEGO|Y1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,42 @@
+{{transcribed image|File:Paul stark.jpg}}
+{{Individual infobox
+|image =
+|name=Paul Stark
+|theme = muggle
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]<ref name="trunk"/>
+|alias=
+|title=
+|nationality=[[Austria]]n<ref name="trunk"/>
+|species=[[Human]]<ref name="trunk"/>
+|gender=Male<ref name="trunk"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Luggage maker<ref name="trunk"/>
+|house=
+|loyalty=
+}}
+'''Paul Stark''' was a [[Non-magic people|Muggle]] luggage maker from [[wikipedia:Austria|Austria]].<ref name="trunk">{{POA|F}} {{see image 2|File:Paul stark.jpg|File:PaulStarkLabel.jpg}}</ref> His workshop was located at [[Erdbergstrasse]] [[Erdbergstrasse 35|35]] in [[Vienna]],<ref>The [[:File:Paul stark.jpg|label]] on [[Remus Lupin]]'s trunk bears the text "Paul Stark Wien." ''Wien'' is the official German name of the city of Vienna, Austria.</ref> and his [[telephone]] number was 98316.<ref name="trunk" />
+
+[[Remus Lupin]] owned a trunk produced by Paul Stark.<ref name="trunk" />
+
+==Appearances==
+*{{POA|F}} {{comment|Name appears on label}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Stark, Paul}}
+[[pl:Paul Stark]]
+[[Category:Austrian individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

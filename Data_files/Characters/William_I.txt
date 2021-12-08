@@ -1,0 +1,59 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=King William I
+|hideb=
+|born=c. [[1028]]
+|died=[[9 September]] [[1087]] (aged 58 or 59)
+|blood=[[Non-magic people|Muggle]]
+|alias=William the Conqueror
+|title=*King of [[England]]
+*Duke of Normandy
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=Light
+|hidef=
+|family=
+|hidea=hide
+|job=
+|loyalty=*[[England]]
+*Normandy
+}}
+'''William I''' (c. [[1028]] - [[1087]]), also known as '''William the Conqueror''', was the first [[Normans|Norman]] [[King]] of [[England]].<ref name="wikipedia">{{Wikilink|William the Conqueror}}</ref><ref name="malfoy">{{WW|the-malfoy-family}}</ref>
+
+==Biography==
+He led the [[Norman conquest]] of England in [[1066]].<ref name="wikipedia" /><ref name="malfoy" /> The [[wizardkind|wizard]] [[Armand Malfoy]] was among his invading army.<ref name="malfoy" /> Sometime after being crowned king, William granted Malfoy a [[Malfoy Manor|piece of land]] in [[Wiltshire]], in return for questionable services which Armand had rendered him.<ref name="malfoy" />
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=([[Arthur|←]]) Harold II
+|position=King of England
+|years=[[1066]]-[[1087]]
+|successor=William II ([[Richard I|→]])
+}}
+{{End box}}
+
+[[es:Guillermo I]]
+[[fr:Guillaume le Conquérant]]
+[[pl:Wilhelm Zdobywca]]
+[[pt-br:Guilherme I de Inglaterra]]
+[[zh:威廉一世]]
+[[Category:Deceased individuals]]
+[[Category:Emigrants]]
+[[Category:English individuals]]
+[[Category:French individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Royalty]]

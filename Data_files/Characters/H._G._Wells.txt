@@ -1,0 +1,40 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=H. G. Wells
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Author
+|loyalty=}}
+
+'''Herbert George Wells''' was an [[England|English]] author famous for his science fiction novels, including ''[[The War of the Worlds]]''.<ref name="WWoHP">{{WWHP}} {{see image|File:The War of the Worlds.png}}</ref>
+
+==Appearances==
+*{{WWHP}}
+
+==Notes and references==
+{{Reflist}}
+
+
+{{DEFAULTSORT:Wells, H. G.}}
+
+[[pl:H. Wells]]
+[[Category:Authors]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

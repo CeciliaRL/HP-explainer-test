@@ -1,0 +1,61 @@
+{{imageless}}
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Dennis Aldermaston
+|born = [[31 August]] [[1982]] or earlier<ref name="age">He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Dennis Aldermaston's mother|Mrs Aldermaston]] (mother)<ref name="HBPG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="HBPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Ravenclaw]]<ref name="HBPG"/>
+}}
+{{Quote|Hiya, [[Harry Potter|Harry]]! Where are you running off to? It's end of term! No classes!|Dennis talking with [[Harry Potter|Harry]] in the [[Hogwarts Library|Library]]|Harry Potter and the Half-Blood Prince (video game)}}
+'''Dennis Aldermaston''' was a [[Wizardkind|wizard]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="HBPG"/>
+
+==Biography==
+He was usually seen spending time at the [[Hogwarts Library|Library]] during the [[1996–1997 school year]]. Preferring to work with [[Rubeus Hagrid]], Dennis didn't like to study. His hero was [[Gilderoy Lockhart]]. In [[1996]] he wanted a new [[broomstick]], which he hoped to receive from [[Dennis Aldermaston's mother|his mother]] at [[Christmas]]. At some point in his life he used [[Skiving Snackbox]]es.<ref name="HBPG">{{HBP|G}} - NDS version</ref>
+
+==Etymology==
+*From 'Denys' or 'Denis', the medieval French forms of 'Dionysius'. Saint Denis was a 3rd-century missionary to Gaul who was beheaded in Paris. He is credited with converting the Gauls to Christianity and is considered the patron saint of France. This name was common in France during the Middle Ages, and it was imported by the Normans to England. It is now regularly spelled Dennis in the English-speaking world.
+*"Aldermaston" is a rural village, civil parish and electoral ward in Berkshire, South East [[England]].
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|PlayStation 2 version]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Aldermaston, Dennis}}
+[[es:Dennis Aldermaston]]
+[[pl:Dennis Aldermaston]]
+[[fr:Dennis Aldermaston]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gilderoy Lockhart's fans]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

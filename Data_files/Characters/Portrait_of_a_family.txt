@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Portrait of a family.jpg|250px]]
+|name=Portrait of a family
+|hideb=
+|born=
+|died=Before [[1991]] (possibly)
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=*Male
+*2 Females
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''portrait''', hung at [[Hogwarts Castle]] in the [[1990s]], near the [[Second-floor corridor|Second Floor Corridor]], was of a family composed of a mother, in yellow; her son, in black; and her daughter in pink.<ref name="PSf16">{{PS|F}} - Chapter 16 (''Three-Headed Sentinel'')</ref>
+
+==Appearances==
+*{{PS|F}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts second floor}}
+
+[[es:Retrato de una familia]]
+[[pl:Portret czarodziejskiej rodziny]]
+[[Category:Females]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

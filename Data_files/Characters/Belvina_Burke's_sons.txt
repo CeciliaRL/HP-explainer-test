@@ -1,0 +1,78 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Belvina Burke's sons
+|born = 
+|died = 
+|blood = [[Pure-blood]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White
+|family = *[[Belvina Black|Belvina Burke (née Black)]] (mother)
+*[[Herbert Burke]]<ref name="BFT"/> (father)
+*[[Belvina Burke's daughter|Sister]]
+*[[Sirius Black II]] (maternal uncle)
+*[[Phineas Black]] (maternal uncle)
+*[[Arcturus Black II]] (maternal uncle)
+*[[Cygnus Black II]] (maternal uncle)
+*[[Hesper Gamp]] (maternal aunt by marriage)
+*[[Lysandra Yaxley]] (maternal aunt by marriage)
+*[[Violetta Bulstrode]] (maternal aunt by marriage)
+*[[Arcturus Black III]] (cousin) †
+*[[Lycoris Black]] (cousin) †
+*[[Regulus Black I]] (cousin) †
+*[[Pollux Black]] (cousin) †
+*[[Cassiopeia Black]] (cousin) †
+*[[Marius Black]] (cousin) †
+*[[Dorea Black]] (cousin) †
+*[[Callidora Black]] (cousin) †
+*[[Cedrella Black]] (cousin) †
+*[[Charis Black]] (cousin) †
+*[[Caractacus Burke]] (possibly) †
+*[[Elizabeth Burke]] (possibly) †
+*[[Phineas Nigellus Black]] (maternal grandfather)
+*[[Ursula Flint]] (maternal grandmother)
+*[[Burke family]]
+*[[House of Black]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Burke family]]
+*[[House of Black]]
+}}
+[[Belvina Black]] married [[Herbert Burke]], and they had three children: '''two sons''' and [[Belvina Burke's daughter|one daughter]]. They were all [[pure-blood]] and related through Belvina to the [[House of Black|Black family]].
+
+These two [[Wizardkind|wizards]] were grandsons of famous [[Phineas Nigellus Black]], who was a [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]]. They likely attended the school.
+
+They had a [[Belvina Burke's daughter|sister]].<ref name="BFT">''[[House of Black|Black family tree]]''</ref>
+
+==Behind the scenes==
+It is possible that one of the sons is Caractacus Burke, yet this is unconfirmed. However, this would mean that Caractacus could not possibly be the founder of [[Borgin and Burkes]] which would suggest that it was another relative; possibly [[Herbert Burke]], that founded the shop.
+
+==Appearances==
+*{{OOTP|F}} {{Comment|Appears on Black family tapestry}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Synowie Burkesów]]
+[[Category:British individuals|Burke]]
+[[Category:Burke family]]
+[[Category:House of Black descendants]]
+[[Category:Males|Burke]]
+[[Category:Pure-bloods]]
+[[Category:Wizards|Burke]]

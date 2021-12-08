@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Albert Jorkins
+|born = before [[1981]]<ref name="age">As he was married and had children, he was presumably over 17 by the time of Griselda's birth.</ref>
+|died = 
+|blood = 
+|marital = Married<ref name="DP"/>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Primrose Jorkins]] (wife)<ref name="DP"/>
+*[[Grimwold Jorkins]] (son)<ref name="DP"/>
+*[[Granville Jorkins]] (son)<ref name="DP"/>
+*[[Griselda Jorkins]] (daughter)<ref name="DP"/>
+*[[Bertha Jorkins]] (possible)
+*[[Stamford Jorkins]] (possible)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Jorkins family]]<ref name="DP"/>
+}}
+'''Albert Jorkins''' was the husband of [[Primrose Jorkins]], and the father of [[Grimwold Jorkins|Grimwold]], [[Granville Jorkins|Granville]], and [[Griselda Jorkins|Griselda Harmonia]]. Along with his wife, he announced the birth of his youngest daughter, Griselda, in the ''[[Daily Prophet]]''.<ref name="DP">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[8 February]], [[1999]], Page 2</ref>
+
+==Etymology==
+The name "Albert" comes from the Germanic name Adalbert, which was composed of the elements adal "noble" and beraht "bright". This name was common among medieval German royalty. It was introduced by the Normans to England, where it replaced the Old English cognate Æðelbeorht. Though it became rare in England by the 17th century, it was repopularized in the 19th century by the German-born Prince Albert, the husband of Queen Victoria.
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Jorkins, Albert}}
+[[pl:Albert Jorkins]]
+[[es:Albert Jorkins]]
+[[Category:British individuals]]
+[[Category:Jorkins family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Wizards]]

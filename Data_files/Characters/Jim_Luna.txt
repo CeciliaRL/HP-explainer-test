@@ -1,0 +1,42 @@
+{{Transcribed image|File:AWizardInTheOrient.jpg}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Jim Luna
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Author
+|house=
+|loyalty=
+}}
+'''Jim Luna''' was a [[wizardkind|wizard]] who wrote the book ''[[A Wizard in the Orient]]''. This book was presumably an account of his travels in [[Asia]].<ref name="cosf">{{COS|F}} - Chapter 5 (''To Diagon Alley'') {{see image|File:AWizardInTheOrient.jpg}}</ref>
+
+==Appearances==
+*{{COS|F}} {{comment|Name on book cover}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Luna, Jim}}
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Wizards]]

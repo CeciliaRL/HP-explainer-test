@@ -1,0 +1,33 @@
+{{Individual infobox
+|image = [[File:Red.png|250px]]
+|name = Red
+|nationality = [[United States of America|American]]
+|species = [[Goblin]]
+|gender = Male
+|eyes = Black
+|skin = Light
+|job = Bellboy for the [[Magical Congress of the United States of America]]
+|loyalty = [[Magical Congress of the United States of America]]
+|theme = macusa
+}}'''Red''' was a [[goblin]] bellboy who worked for the [[Magical Congress of the United States of America]] during the [[1920s]]. He helped operate the lifts which transported passengers to any of the hundreds of floors within the [[Woolworth Building|MACUSA headquarters]].<ref>{{FB|S|10}}</ref>
+
+==Behind the scenes==
+*Red was portrayed by [[Dan Hedaya]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.<ref>{{IMDb name|nm0000445|Dan Hedaya}}</ref>
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+[[de2:Red]]
+[[es:Red]]
+[[ru:Рыжий]]
+[[pl:Rudy]]
+[[fr:Rouxi]]
+[[Category:American individuals]]
+[[Category:Black-eyed individuals]]
+[[Category:Goblins]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Males]]

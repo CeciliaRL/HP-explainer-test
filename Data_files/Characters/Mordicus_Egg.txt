@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme = portrait
+|image = MordicusEgg.jpg
+|name = Mordicus Egg
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Professor]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Dark
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Non-magic people|Muggle]] expert
+*[[Author]]
+|house = 
+|loyalty = 
+}}
+'''Professor Mordicus Egg''' (fl. [[1963]]) was a [[Wizardkind|wizard]] and an expert on [[Non-magic people|Muggles]]. He authored ''[[The Philosophy of the Mundane: Why the Muggles Prefer Not to Know]]''<ref>{{FB|R}} - ''Magical Beasts in Hiding''</ref> and ''[[Cooking the Muggle Way]]''.<ref>[http://www.hp-lexicon.org/about/films/lex-op-set-teaser2.html ''The Lexicon Visits The Magic Factory'' (part 2)]</ref> He was at [[Hogwarts School of Witchcraft and Wizardry]] in the winter of [[1993]],<ref>{{POA|F}}</ref> and his name was carved into the wall of the [[Divination Classroom]] in [[North Tower]].<ref name="HPLE">{{HPLE|G}} {{see image|File:DivinationGraffitiWall.jpg}}</ref> He may also have been appointed Headmaster of Hogwarts at some unknown point in time.
+
+==Behind the scenes==
+*It is possible that he was the [[Unidentified male Muggle Studies teacher|male Muggle Studies teacher]] replaced by [[Charity Burbage]], thus explaining both his knowledge of Muggles and his presence at Hogwarts. Another possibility is that he gained his title through his work at the [[Institute of Muggle Studies]].
+*The portrait of an older Mordicus Egg appears in the Headmaster's Office indicating that he served at Headmaster of Hogwarts at some point. Alternatively, this portrait may be of a possible relative that shares the same name as the author Mordicus Egg.
+
+==Appearances==
+[[File:MordicusEggOlder.jpg|thumb|float|Portrait of Mordicus Egg in the Headmaster's Office]]
+*{{POA|F}} {{C|Appears on the [[Marauder's Map]]}}
+*{{OOTP|F}} {{Mention}}
+*{{FB|R}} {{1st}} {{Mention}}
+*{{FB}} {{Mention}}
+*{{HPLE}} {{Portrait}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Mordicus Egg]]
+[[es:Mordicus Egg]]
+[[fr:Mordicus Leufcock]]
+[[it:Mordicus Egg]]
+[[pl:Mordicus Egg]]
+[[pt-br:Mordico Egg]]
+{{DEFAULTSORT:Egg, Mordicus}}
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggle experts]]
+[[Category:Philosophers]]
+[[Category:Portraits]]
+[[Category:Professors]]
+[[Category:Wizards]]

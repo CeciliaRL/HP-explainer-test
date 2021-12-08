@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Oliver Wiseman
+|hideb=
+|born=[[1954]]
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=Hide
+|family=
+|hidea=Hide
+|job=[[Detective Inspector]]
+|loyalty=[[Anti-Terrorism Unit]]
+|nationality = [[Great Britain|British]]}}
+{{Quote|Detective Inspector Oliver Wiseman, 42, of Westminster's Anti-Terrorism Unit, has remained tight-lipped about any theories regarding who might be responsible for the sudden explosions — at least seven, according to witness reports — that ripped the bridge apart at both ends, and split the bridge apart lengthways, and how whatever devices used were planted, unseen both prior to during, and subsequent to the attack.|[[Jamie Wolpert (in-universe)|Jamie Wolpert]], "[[Millennium Bridge|Bridge disaster]] hits London" in ''[[The Guardian]]'' (July, [[1996]]).|Harry Potter Limited Edition}}
+'''Oliver Wiseman''' (b. [[1954]]) was a [[Detective Inspector]] for the [[Westminster]] [[Anti-Terrorism Unit]]. He investigated the [[Death Eaters|collapse]] of the [[Millennium Bridge]] in [[1996]], but refused to give ''[[The Guardian]]'' any statement about it.<ref name="HPLE">{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Behind the scenes==
+*The naming is a tribute to the real-life [[Oliver Wiseman (real-world)|Oliver Wiseman]], who served as the assistant to director [[David Heyman]] in the final three films of the ''[[Harry Potter (film series)|Harry Potter]]'' series.<ref name="IMDb">[http://www.imdb.com/name/nm2567472/?ref_=fn_al_nm_1 IMDb entry on Oliver Wiseman]</ref>
+
+==Appearances==
+*{{HBP|F}} {{Mention}}
+*{{HPLE}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Wiseman, Oliver}}
+[[ru:Оливер Вайсман]]
+[[Category:1954 births]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Police officers]]

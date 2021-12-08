@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|name = Unidentified five Aurors
+|image = Unidentified five Aurors.jpg
+|born = Before [[1926]]
+|died = [[November]] or [[December]] [[1926]]<ref name="death">{{Tweet|eveneechan|1213481087235551234|A thread of Fantastic Beasts Timeline base on event in movie and mentioned dates in props/screenplay}}</ref>
+|blood = 
+|nationality = 
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]s<ref name="FBF"/>
+|gender = Males and Females<ref name="FBF">{{FB|F}}</ref>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Auror]]<ref name="FBS1">{{FB|S|1}}</ref>
+|house = 
+|loyalty =
+}}
+These five '''[[Auror]]s''' were sent to a [[Derelict château]] to find and arrest [[Gellert Grindelwald]] in late [[1926]], but were ultimately killed by him.<ref name="FBS1"/>
+
+==Biography==
+[[File:Derelict chateau.gif|250px|left|thumb|These Aurors at this mansion]]
+In [[November]] or [[December]] [[1926]], these five Aurors were sent to a [[Derelict château]] somewhere in [[Europe]] that [[Gellert Grindelwald]] used as a hideout during his [[Grindelwald Attacks|attacks]]. While there it was night-time and it was very foggy. After entering the grounds, they edged slowly towards the Château with their [[wand]]s out, illuminated with the [[Wand-Lighting Charm]]. They were then hit with an unidentified [[dark charm]] that blew them back and killed them.<ref name="FBS1"/><ref name="FBF"/>
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1926 deaths]]
+[[Category:Aurors]]
+[[Category:Females]]
+[[Category:Global wizarding war casualties]]
+[[Category:Killed by Gellert Grindelwald]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Wizards]]

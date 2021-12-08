@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mr McGonagall
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Robert McGonagall Senior's mother|Mrs McGonagall]] (wife)
+*[[Robert McGonagall Senior]] (son)
+*[[Isobel Ross|Isobel McGonagall]] (daughter-in-law)
+*[[Minerva McGonagall]] (granddaughter)
+*[[Malcolm McGonagall]] (grandson)
+*[[Robert McGonagall Junior|Robert McGonagall Jnr]] (grandson)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mr McGonagall''' was a [[Non-magic people|Muggle]] who lived in a village in [[Scotland]]. With [[Robert McGonagall's mother|his wife]], he had at least one child, [[Robert McGonagall Senior|Robert]]. When the couple's son eloped with [[Isobel Ross]], the daughter of their neighbours, the [[Ross family|Rosses]], it made them extremely angry.<ref name="pottermore">{{WW|professor-mcgonagall}}</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:McGonagall, Robert Senior's father}}
+
+[[es:Padre de Robert McGonagall sr]]
+[[pl:Ojciec Roberta McGonagalla]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:McGonagall family|McGonagall]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Scottish individuals]]

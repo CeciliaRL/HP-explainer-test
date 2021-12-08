@@ -1,0 +1,41 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Jules Egwu's parents
+|born = 
+|died = 
+|blood = 
+|marital =  
+|nationality = 
+|alias = 
+|title = 
+|species = [[Human]]s<ref name="ASIH"/>
+|gender = *Female<ref name="ASIH"/>
+*Male<ref name="ASIH"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Jules Egwu]] {{C|daughter}}<ref name="ASIH"/>
+*[[Andre Egwu]] {{C|nephew}}
+*[[Andre Egwu's sister]] {{C|niece}}
+|job = 
+|loyalty =  
+}}
+These '''individuals''' were the parents of [[Jules Egwu]]. They were [[Magizoologist]]s and travelled the globe with Jules.<ref name="ASIH">{{HM|3|A SCANDAL IN HOGSMEADE}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Egwu, Jules' parents}}
+[[Category:Females]]
+[[Category:Magizoologists]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

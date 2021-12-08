@@ -1,0 +1,85 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Evangeline Orpington
+|born = Before [[1832]]
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office)</ref>
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Nerys Orpington]] (possibly)
+*[[Orpington family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = [[Evangeline Orpington's wand|Poplar, unknown core and length]]
+|patronus = 
+|job = [[Minister for Magic]] ([[1849]] - [[1855]])
+|house = 
+|loyalty = *[[Orpington family]]
+*[[British Ministry of Magic]]
+}}
+'''Evangeline Orpington''' was a [[Great Britain|British]] [[wizardkind|witch]] and a celebrated [[Minister for Magic]], in office from [[1849]] to [[1855]]. She is remembered for being the one who first thought of creating a [[Platform Nine and Three-Quarters|concealed platform]] at [[King's Cross Station]], to house the [[Hogwarts Express]].<ref name="kingscross">{{WW|kings-cross-station}}</ref>
+
+==Biography==
+===Early life===
+Evangeline Orpington was born no later than [[1832]], into a wizarding family.<ref name="blood"/> In her younger years, she purchased [[Evangeline Orpington's wand|her wand]], made of [[poplar]] wood, from [[Ollivanders|Ollivanders Wand Shop]] in [[Diagon Alley]].<ref name="wands">{{WW|wand-woods}}</ref>
+
+[[Garrick Ollivander]], the famous [[wandmaker]], went on to write that the "tired old joke" among lesser wandmakers that no poplar [[wand]] had ever chosen a politician was utterly unsubstantiated, given that two of the most accomplished [[Minister for Magic|Ministers for Magic]] had fine, Ollivander-made poplar wands: Evangeline Orpington and [[Eldritch Diggory]].<ref name="wands"/>
+
+===Later life===
+[[File:Platform 9¾.png|265px|thumb|left|The concealed entrance to Platform 9¾]]
+Ms Orpington was appointed [[Minister for Magic]] in [[1849]].<ref name="kingscross"/>. She was elected Minister at least once.
+
+When one of her predecessors, [[Ottaline Gambol]], authorised an [[Ministry of Magic operation to acquire the Hogwarts Express|operation to acquire]] the [[Hogwarts Express]], the Ministry had seen fit to build a [[Hogsmeade station|railway station]] at [[Hogsmeade]]. The Ministry was not so keen, however, on building another station, in plain sight, in [[Non-magic people|Muggle]] [[London]], as it would be in all likelihood a serious breach of the [[International Statute of Wizarding Secrecy]].<ref name="kingscross" />
+
+[[King's Cross Station]] was opened in [[1852]],<ref name="Wikipedia">[[Wikipedia:London King's Cross railway station|"London King's Cross railway station"]] at [[Wikipedia:Main page|Wikipedia]]</ref> during Orpington's time in office. It was only after its opening that the Minister hit upon the idea of adding a concealed platform at [[King's Cross Station]] that could only be accessed by [[Wizardkind|witches and wizards]]: [[Platform Nine and Three-Quarters]].<ref name="kingscross" />
+
+Minister Orpington was also good friends with [[Victoria|Queen Victoria]], who never realised that she was a witch or Minister for Magic. She was also believed to have illegally intervened [[magic]]ally in the Crimean War.
+
+Minister Orpington left the office in [[1855]], to be regarded as one of the most accomplished Ministers in British history.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Hortensia Milliphutt]]
+|position=[[Minister for Magic]]
+|years=[[1849]]-[[1855]]
+|successor=[[Priscilla Dupont]]
+}}
+{{End box}}
+
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Orpington, Evangeline}}
+
+[[de:Evangeline Orpington]]
+[[es:Evangeline Orpington]]
+[[fr:Evangeline Orpington]]
+[[it:Evangeline Orpington]]
+[[pl:Evangeline Orpington]]
+[[pt-br:Evangeline Orpington]]
+[[ru:Эванджелина Орпингтон]]
+[[zh:伊万杰琳·奥平顿]]
+
+[[Category:British Ministers for Magic]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Orpington family]]
+[[Category:Wizards]]

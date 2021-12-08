@@ -1,0 +1,83 @@
+{{Individual infobox
+|theme=mom
+|image=[[File:Hesphaestus Gore.png]]
+|name=Hesphaestus Gore
+|hideb=
+|born=Before [[1735]]
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office.</ref>
+|alias=
+|title=[[Minister for Magic]]<ref name="PMministers" />
+|nationality=[[Great Britain|British]]<ref name="PMministers" />
+|species=[[Human]]<ref name="PMministers" />
+|gender=Male<ref name="PMministers" />
+|height=
+|hair=Grey<ref name="WBS"/>
+|eyes=
+|skin=Light<ref name="WBS"/>
+|hidef=y
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=Unknown length, wood and core<ref name="WBS"/>
+|patronus=
+|hidea=
+|job=*[[Auror]]<ref name="PMministers" />
+*[[Minister for Magic|British Minister for Magic]] ([[1752]]-[[1770]])<ref name="PMministers" />
+|house=
+|loyalty=*[[British Ministry of Magic]]<ref name="PMministers" />
+**[[Auror Office]]<ref name="PMministers" />
+*[[Gore family]]<ref name="PMministers" />
+}}
+'''Minister Hesphaestus Gore''' was one of the earliest [[Auror]]s as well as [[Minister for Magic]] from [[1752]] to [[1770]].<ref name="PMministers">{{WW|ministers-for-magic}}</ref>
+
+==Biography==
+Hesphaestus Gore was born in or before [[1735]]. He worked at the [[British Ministry of Magic|Ministry of Magic]], where he became one of the earliest [[Auror]]s there, after Minister [[Eldritch Diggory]] (in office [[1733]]-[[1747]]) first established an Auror recruitment programme.<ref name="PMministers" />
+
+He became a temporary acting [[Minister for Magic]] in [[1752]], and later was elected a regular Minister several times after his predecessor [[Basil Flack]] was forced to resign after two months, during the height of the [[Goblin Rebellions]] (the [[goblin]]s had just joined forces with the [[werewolf|werewolves]]). Gore successfully put down a number of revolts by the magical beings, although historians feel his refusal to contemplate rehabilitation programmes for werewolves ultimately led to more attacks.<ref name="PMministers" /> One such revolt took place in [[1762]], in which goblin rebel [[Vargot]] was killed in battle — a popular historical theory that may have not been proved is that Vargot was really a renegade [[house-elf]].<ref name="JKR">{{JKRS}} - [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]]</ref>
+
+[[File:Gorespell.gif|150px|thumb|left|Gore casting a [[spell]]]]
+In [[1754]], Minister Gore and the Italian [[Minister for Magic]] officiated the infamous [[Broomstick|broom]] [[broom racing|race]] from [[Aberdeen]] to [[Rome]] between the two most famous fliers in Europe, [[Torquil McTavish]] and [[Silvio Astolfi]]. The race took place overnight, to avoid the attention of [[Non-magic people|Muggle]]s. The Minister representatives and the supporters were gathered at the [[Coliseum]] to await for the racers' arrival. However, just as the pair were seen flying toward the ancient amphitheatre, a clash broke out between rival factions of fans. During the fight, an explosion was somehow set off, leaving the Coliseum in ruins. [[Orabella Nuttley]], a clerk of the [[Improper Use of Magic Office]], who had been assigned to handle luggage and arrange [[Portkey]]s, stepped forward and repaired a few columns with the [[Mending Charm]] she had invented. Amazed, Gore and the other assembled Ministers asked her to teach them how to perform it, and the damage to the Coliseum was undone by the time the [[Non-magic people|Muggle]]s that woke up to the sound of the explosion arrived at the scene. Gore later awarded Madam Nuttley the [[Order of Merlin]], First Class, for preventing a major breach of the [[International Statute of Wizarding Secrecy|Statute of Secrecy]].<ref name="WBS">{{WBS}}</ref>
+
+Minister Gore was also responsible for renovating and reinforcing the prison of [[Azkaban]].<ref name="PMministers" />
+
+Gore left office after eighteen years, in [[1770]], to be succeeded by [[Maximilian Crowdy]].<ref name="PMministers" /> He either retired or was voted out of office.
+
+==Etymology==
+Hesphaestus may be a derivative of {{wplink|Hephaestus}}, a Greek god of blacksmiths, metallurgy, and fire. ''Gore'' is an English term for blood, and is particularly used in reference to {{wplink|graphic violence}} depicted in visual media.
+
+==Appearances==
+*{{WBS}} {{1st}}
+*{{PM}} {{1st ID}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Basil Flack]]
+|position=[[Minister for Magic]]
+|years=[[1752]]-[[1770]]
+|successor=[[Maximilian Crowdy]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Gore, Hephaestus}}
+
+[[de:Hesphaestus Gore]]
+[[es:Hesphaestus Gore]]
+[[fr:Hesphaestus Gore]]
+[[pl:Hesphaestus Gore]]
+[[pt-br:Hesphaestus Gore]]
+[[ru:Гесфестус Гор]]
+[[zh:赫斯菲斯托斯·戈尔]]
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:British Ministers for Magic]]
+[[Category:Gore family]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

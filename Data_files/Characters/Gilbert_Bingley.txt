@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme = muggle
+|image = [[File:Gilbert_Bingley FB1.png|250px]]
+|name = Gilbert P. Bingley
+|born = 
+|died = 
+|nationality = [[United States of America|American]]<ref name="FB9"/>
+|blood = [[Non-magic people|No-Maj]]<ref name="FB9"/>
+|marital = Married<ref name="FB118"/>
+|title = 
+|alias = 
+|signature = 
+|species = [[Human]]<ref name="FB9"/>
+|gender = Male<ref name="FB9"/>
+|skin = 
+|hair = 
+|eyes = 
+|weight = 
+|height = 
+|family = [[Gilbert Bingley's wife|Mrs Bingley]] (wife)<ref name="FB118" />
+|romances = [[Gilbert Bingley's wife|Mrs Bingley]] (wife)<ref name="FB118" />
+|boggart = 
+|job = Loan officer at [[Steen National Bank]]<ref name="FB9" />
+|loyalty = [[Steen National Bank]][[Gilbert Bingley's wife|Mrs Bingley]] (wife)
+}}
+{{Quote|Mr Kowalski, what do you propose to offer the bank as collateral?|Mr Bingley to [[Jacob Kowalski]]|Fantastic Beasts and Where to Find Them: The Original Screenplay}}
+'''Gilbert'''<ref name="firstname">"[http://www.snitchseeker.com/harry-potter-news/fantastic-beasts-and-where-to-find-them-background-extras-actors-listed-102618/ Photos: 'Fantastic Beasts and Where to Find Them' background, extras actors listed]" from SnitchSeeker.com</ref> '''P.'''<ref name="cb46">{{CB|46}}</ref> '''Bingley''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] man who worked as a loan officer at the [[Steen National Bank]] branch in [[New York]] in the [[1920s]].<ref name="FB9">{{FB|S|9}}</ref> He was described as "imposing" and "impeccably suited."<ref name="FB9" />
+
+==Biography==
+{{Quote|Oh, so you’re gonna STEAL the money, huh?|Mr Bingley accusing Jacob Kowalski of bank robbery|Fantastic Beasts and Where to Find Them: The Original Screenplay}}
+On [[6 December]] [[1926]], Bingley conducted an in-person review of [[Jacob Kowalski]]'s application for a loan to open [[Kowalski Quality Baked Goods|a bakery]].<ref name="FB9" /><ref name="FB11">{{FB|S|11}}</ref> He summarily rejected the application when it became clear that Kowalski had insufficient income or assets to offer collateral.<ref name="FB11" />
+
+Shortly thereafter, Bingley wandered down to the basement of the bank and found Jacob standing in front of an opened vault, in which [[Newton Scamander|Newt Scamander]] was trying to recapture his escaped [[Niffler]].<ref name="FB15">{{FB|S|15}}</ref> Thinking that Jacob was trying to steal the money he needed, Bingley activated the alarm, but was swiftly paralysed with the [[Full Body-Bind Curse]] by Newt, allowing the [[wizardkind|wizard]] and his unlikely [[No-Maj]] companion to escape.<ref name="FB15" />
+
+Two days later, [[Newton Scamander|Newt Scamander]] had [[Frank]] the [[Thunderbird]] disperse [[Swooping Evil|swooping evil]] [[Swooping Evil venom|venom]] over [[New York]] by creating a [[Water|rainstorm]], in order to erase the memories of a [[Obscurial|recent magical catastrophe]] from the minds of the city's No-Maj population.<ref name="FB118">{{FB|S|118}}</ref> At the time, Bingley was taking a shower in the bathroom while [[Bingley's wife|his wife]] brushed her teeth at the sink, the [[water]] erasing his memories as it washed over him.<ref name="FB118" />
+
+He likely took a sudden retirement due to the strange activities he experienced at his bank.<ref name="FBF">{{FB|F}} {{see image|File:New York Clarion - 7 Dec - altered cover - FBF.png}}</ref>
+
+==Behind the scenes==
+*Gilbert Bingley is portrayed by [[Peter Breitmayer]] in the film ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.<ref>[http://www.imdb.com/name/nm0106998/ IMDb profile of Peter Breitmayer]</ref>
+*In the film's credits, the character is listed as simply "Mr Bingley," but his full name was given in earlier casting reports.<ref name="firstname" />
+
+==Appearances==
+{{Imagecat|Images of Gilbert Bingley}}
+[[File:Gilbert Bingley LEGO D.png|thumb|Gilbert Bingley as he appears in {{LEGO|D}}]]
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+*{{LEGO|D}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bingley, Gilbert P.}}
+[[fr:Gilbert Bingley]]
+[[de:Mr Bingley]]
+[[pl:Gilbert Bingley]]
+[[de2:Gilbert Bingley]]
+[[ru:Гилберт Бингли]]
+[[Category:American individuals]]
+[[Category:Bankers]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Steen National Bank employees]]

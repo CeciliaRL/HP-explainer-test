@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = Muggle woman.jpg
+|name = Staring Muggle
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="PSF"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PSF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSF"/>
+|gender = Female<ref name="PSF"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="PSF"/>
+|eyes = Dark<ref name="PSF"/>
+|skin = Light<ref name="PSF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''[[Non-magic people|Muggle]] woman''' rode the [[London Underground]] on [[1 August]], [[1991]].<ref name="PSF">{{PS|F}}</ref>
+
+==Biography==
+This woman chose to ride the [[London Underground]] on the [[1 August]], [[1991]]. She brought a newspaper with her to read, and had it open on her lap; however, she was so preoccupied by the vast size of [[Keeper of Keys and Grounds|Gamekeeper]] [[Rubeus Hagrid]], who was riding the train with student and friend [[Harry Potter]], that she seemed to have completely forgotten about it, instead staring at Hagrid.<ref name="PSF"/>
+
+==Physical appearance==
+The woman had straight, shoulder-length blonde hair, small dark eyes, high cheekbones and pale skin. She wore a faded yellow shirt underneath a thin, navy-blue jacket, as well as a pair of silver earrings and a golden necklace.<ref name="PSF"/>
+
+==Appearances==
+*{{PS|F}} {{1st}} {{Deleted scenes}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified Muggles]]

@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Barnaby Snell
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Chudley Cannons]]<ref name="DP"/>
+}}
+'''Barnaby Snell''' was a [[Wizardkind|wizard]] and [[Quidditch]] fan who supported the [[Chudley Cannons]].<ref name="DP">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[1 June]], [[1999]], Page 3</ref> He was quoted in the ''[[Daily Prophet]]'' as expressing disbelief after the Cannons managed to win a match against the [[Wigtown Wanderers]] after suffering through a seventeen-game losing streak.<ref name="wizards">"[http://www.hplex.info/wizards/a-z/s.html Wizards, Witches and Beings: S]" on the Harry Potter Lexicon</ref>
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Snell, Barnaby}}
+[[Category:British individuals]]
+[[Category:Chudley Cannons supporters]]
+[[Category:Males]]
+[[Category:Wizards]]

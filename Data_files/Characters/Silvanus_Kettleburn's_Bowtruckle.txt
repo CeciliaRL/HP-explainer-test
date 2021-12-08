@@ -1,0 +1,33 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:Bowtruckle2.png|thumb]]
+|name = Silvanus Kettleburn's Bowtruckle
+|born = Before [[1987]]<ref name="HM43">{{HM|4|3}}</ref>
+|species = [[Bowtruckle]]<ref name="HM43"/>
+|gender = Male<ref name="HM43"/>
+|hair = 
+|eyes = Black<ref name="HM43"/>
+|skin = Green<ref name="HM43"/>
+|family = 
+|loyalty = [[Silvanus Kettleburn]] (owner)<ref name="HM43"/>
+}}
+{{Quote|I'd consider discussing it further if you can help me with this Bowtruckle. He's peaceful for now, but he will get restless without a proper habitat. If you study Bowtruckles further, and find him a home, I'll tell you what you need to know about entering the Forbidden Forest|Professor Kettleburn to Jacob's sibling about this Bowtruckle|Harry Potter: Hogwarts Mystery}}
+This male '''[[Bowtruckle]]''' was owned by [[Professor]] [[Silvanus Kettleburn]] during the [[1980s]].<ref name="HM43"/>
+
+==Biography==
+During the [[1987–1988 school year]] at [[Hogwarts School of Witchcraft and Wizardry]], [[Jacob's sibling]] cared for this [[Bowtruckle]] in exchange for [[Professor]] [[Silvanus Kettleburn]]'s answer of the best way to go to the [[Forbidden Forest]].<ref name="HM43"/> They named him either [[Jacob (Hogwarts student)|Jacob]], [[Barnaby Lee|Barnaby]] Junior or [[Newton Scamander|Newt]], after a person of the same name.<ref name="HM44">{{HM|4|4}}</ref>
+
+Before the [[Care of Magical Creatures]] [[Ordinary Wizarding Level]] examination in [[June]] [[1989]], this Bowtruckle went loose. Kettleburn and several students searched for him, and [[Barnaby Lee]] found him near the [[Wiggentree]] with the most [[Wood louse|Wood lice]].<ref name="OWL">{{HM|5|Ordinary Wizarding Levels}}</ref>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Black-eyed individuals]]
+[[Category:Bowtruckles]]
+[[Category:Care of Magical Creatures]]
+[[Category:Males]]
+[[Category:Pets]]
+[[Category:Silvanus Kettleburn's possessions]]

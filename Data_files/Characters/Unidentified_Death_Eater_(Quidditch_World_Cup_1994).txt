@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = death-eater
+|image = LEGO Y1 DeathEater.jpg
+|name = Unidentified Death Eater
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]] (most likely)<ref name="Blood">The [[Death Eaters]] were known for their virulent opposition and hatred towards all [[Muggle-born]]s. Though rare examples of muggle-born Death Eaters existed.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="LEGOY1"/>
+|gender = Male<ref name="LEGOY1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|job = 
+|house = 
+|loyalty = *[[Tom Riddle|Lord Voldemort]]<ref name="LEGOY1"/>
+**[[Death Eaters]]<ref name="LEGOY1"/>
+}}This '''[[Death Eaters|Death Eater]]''' was a [[Dark Wizard]] and a servant of [[Tom Riddle|Lord Voldemort]].<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+
+==Biography==
+
+===Early life===
+He eventually joined the [[Death Eaters]] and probably fought in the [[First Wizarding War]]. He successfully managed to avoid imprisonment in [[Azkaban]].
+
+===1994===
+In [[1994]], he attacked the [[1994 Quidditch World Cup|Quidditch World Cup]] alongside other Death Eaters, however fled the scene when the [[Dark Mark]] was [[Morsmordre|conjured]] in the sky by [[Bartemius Crouch Junior]].<ref name="LEGOY1"/>
+
+==Appearances==
+*{{LEGO|Y1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Death Eaters]]

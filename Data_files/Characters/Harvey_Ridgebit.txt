@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:HarveyRidgebit.png|250px]]
+|name = Harvey Ridgebit
+|born = [[1881]]<ref name="JKRS"/>
+|died = [[1973]] (aged 91-92)<ref name="JKRS"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Male<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = Black<ref name="JKRS"/>
+|eyes = Green<ref name="JKRS"/>
+|skin = White<ref name="JKRS"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Dragonologist]]<ref name="JKRS"/>
+|house = 
+|loyalty = [[Romanian Dragon Sanctuary]]<ref name="JKRS"/>
+}}
+'''Harvey Ridgebit''' ([[1881]] – [[1973]]) was a [[Wizardkind|wizard]] and the first [[dragonologist]] to catch a [[Peruvian Vipertooth]]. He also established the world's largest [[Romanian Dragon Sanctuary|dragon sanctuary]] in [[Romania]], where [[Charles Weasley|Charlie Weasley]] worked and where [[Rubeus Hagrid]]'s dragon, [[Norberta]] (a.k.a. Norbert) was eventually sent to live.<ref name="JKRS">{{JKRS}}</ref>
+
+==Etymology==
+The name "Harvey" comes from the Breton given name Haerviu, which meant "battle worthy", from haer, "battle" and viu, "worthy". This was the name of a 6th-century Breton hermit, who is the patron saint of the blind. It was introduced to England by settlers from Brittany after the Norman conquest. During the later Middle Ages it became rare, but it was revived in the 19th century.
+
+==Appearances==
+{{Imagecat|Images of Harvey Ridgebit}}
+*{{JKRS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ridgebit, Harvey}}
+[[de2:Harvey Ridgebit]]
+[[de:Harvey Ridgebit]]
+[[en:Harvey Ridgebit]]
+[[es:Harvey Ridgebit]]
+[[fr:Harvey Ridgebit]]
+[[it:Harvey Ridgebit]]
+[[pl:Harvey Ridgebit]]
+[[ru:Харви Риджбит]]
+[[Category:1881 births]]
+[[Category:1973 deaths]]
+[[Category:Dragonologists]]
+[[Category:Green-eyed individuals]]
+[[Category:Males]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

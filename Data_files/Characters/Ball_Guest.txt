@@ -1,0 +1,38 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Ball Guest
+|born = Before [[1927]]
+|died = 
+|alias = 
+|title = 
+|marital = 
+|blood = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''individual''' was a [[Wizardkind|witch]] who attended [[British Ministry of Magic ball|a ball]] in [[1927]].<ref>[https://www.youtube.com/watch?v=dE1rQCwjF_Y&t=219s Crimes of Grindelwald - Deleted Scenes]</ref>
+==Behind the scenes==
+*This individual was played by [[Kirstie Shannon]] in {{COG}}.<ref>{{IMDb name|8836457|Kirstie Shannon}}</ref> 
+
+==Appearances==
+*{{COG}} {{1st}} {{Deleted scenes}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Wizards]]

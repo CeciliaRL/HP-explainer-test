@@ -1,0 +1,52 @@
+{{HogwartsMysterySpoiler}}
+{{transcribed image|File:MostePotentePotions.jpg}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Phineas Bourne
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Author
+*[[Potioneer]]
+|house = 
+|loyalty = 
+}}
+'''Phineas Bourne''' was a [[Wizardkind|wizard]] and [[potioneer]]. He wrote ''[[Moste Potente Potions]]'', a guide to making advanced, dangerous, and arcane [[potion]]s.<ref>{{MHP}} - See [[:File:MostePotentePotions.jpg|this image]].</ref>
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{Comment|Name seen on book cover}}
+*{{MHP}} {{Mention}}
+*{{HM}} {{Mention}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+
+==Notes and references==
+{{Reflist}}
+{{Potions}}
+{{DEFAULTSORT:Bourne, Phineas}}
+
+[[es:Phineas Bourne]]
+[[fr:Phineas Bourne]]
+[[pl:Fineas Bourne]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Potioneers]]
+[[Category:Wizards]]

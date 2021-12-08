@@ -1,0 +1,45 @@
+{{Transcribed image|File:EdwinBooth.jpg}}
+{{Individual infobox
+|theme = individual
+|image = [[File:EdwinBooth.jpg|250px]]
+|name = Edwin Booth
+|born = 
+|died = [[13 February]], [[1833]]<ref name="DHF1"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DHF1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF1"/>
+|gender = Male<ref name="DHF1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Edwin Booth''' (d. [[13 February]], [[1833]]) was a man buried in the churchyard of the [[St Jerome's Church|Parish Church of St. Clementine]] in [[Godric's Hollow]].<ref name="DHF1">{{DH|F1}} (see [[:File:EdwinBooth.jpg|this image]])</ref>
+
+==Appearances==
+*{{DH|F1}} {{Comment|Name seen on headstone}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Booth, Edwin}}
+
+[[fr:Edwin Booth]]
+[[pl:Edwin Booth]]
+[[Category:British individuals]]
+[[Category:Buried at Godric's Hollow graveyard]]
+[[Category:Humans]]
+[[Category:Males]]

@@ -1,0 +1,73 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Tilly Toke 2.jpg|250px]]
+|name = Tilly Toke
+|born = [[1903]]<ref name="PSG">{{PS|G}}</ref>
+|died = [[1991]] (aged 87-88)<ref name="PSG"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBR"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBR"/>
+|gender = Female<ref name="FBR"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="PSG"/>
+|eyes = Blue<ref name="PSG"/>
+|skin = White<ref name="PSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Order of Merlin]]<ref name="FBR"/>
+}}
+'''Tilly Toke''', {{OM|First}}, ([[1903]]-[[1991]]) was a [[Great Britain|British]] [[Wizardkind|witch]] who saved the lives of several [[Non-magic people|Muggles]] during the [[Ilfracombe Incident]] in [[1932]].<ref name="FBR"/>
+
+==Biography==
+===Holidaying in Ilfracombe===
+[[File:Tilly_Toke-28-chocFrogCard.png|160px|thumb|left|Tilly Toke immortalised on a bronze [[Chocolate Frog Card]]]]
+Tilly had been holidaying with her family in [[Ilfracombe]], in [[Devon]] in [[1932]]. One day, a rogue [[Common Welsh Green]] [[dragon]] swooped down upon the beach, full of sunbathing [[Non-magic people|Muggles]]. Along with her family, Tilly fended off the attack, thus preventing any fatalities. The family then proceeded to perform "the largest batch of [[Memory Charm]]s this century" on the inhabitants of Ilfracombe.<ref name="FBR">{{FB|R}} - ''Magical Beasts in Hiding''</ref>
+
+The Toke family were all awarded [[Order of Merlin]], First Class, for their heroic actions in Ilfracombe.<ref name="FBR" /> She was also immortalised on a bronze [[Chocolate Frog Card]] for her achievement.<ref name="PSG"/>
+
+===Postmortem===
+In [[1993]], a Portrait of Tilly was hung at the first-floor corridor of Hogwarts Castle, protecting a secret area. A password was needed to access it. The password to said portrait was ''Dirigible''.<ref name="POAG">{{POA|G}}</ref>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': Toke was shown to be proficient with the casting of the [[Memory Charm]], as she used it to erase the memories of numerous Muggles who witnessed a dragon at the [[Ilfracombe Incident]], which earned her an Order of Merlin first class award for her impressive work.<ref name="FBR"/>
+
+==Appearances==
+{{Imagecat|Images of Tilly Toke}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{Portrait}}
+*{{FB|R}} {{Mention}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Toke, Tilly}}
+
+{{Chocolate Frog Cards}}
+[[de:Tilly Toke]]
+[[fi:Tilly Toke]]
+[[es:Tilly Toke]]
+[[fr:Tilly Toke]]
+[[pl:Tilly Toke]]
+[[ru:Тилли Ток]]
+[[Category:1903 births]]
+[[Category:1991 deaths]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Order of Merlin recipients]]
+[[Category:Portraits]]
+[[Category:Wizard secrecy]]
+[[Category:Wizards]]

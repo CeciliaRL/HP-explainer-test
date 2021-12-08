@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Minaka Hirakata - card HBP-NDS.png]]
+|name = Minaka Hirakata
+|born = before [[1977]], [[Japan]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Japan]]ese
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Electric blue
+|eyes = 
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[Japanese National Quidditch team]]
+|house = 
+|loyalty = *[[Mahoutokoro]]<ref>{{WW|mahoutokoro}}</ref>
+*[[Japanese National Quidditch team]]
+}}
+'''Minaka Hirakata''' was a [[Japan]]ese [[Wizardkind|witch]] who played as a [[Beater]] for the [[Japanese National Quidditch team]]. She was notable for having electric blue coloured hair.<ref>{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Hirakata's [[Chocolate Frog Card]] could be won by beating [[Nerissa Brody]] at an [[Exploding Snap]] challenge.<ref>{{HBP|G}} {{c|NDS edition}}</ref>
+
+==Appearances==
+*{{QWC}}
+*{{HBP|G}} {{c|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Hirakata, Minaka}}
+
+[[es:Minaka Hirakata]]
+[[fr:Minaka Hirakata]]
+[[pl:Minaka Takahashi]]
+[[ru:Минака Хираката]]
+[[Category:20th century births]]
+[[Category:Beaters]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Japanese individuals]]
+[[Category:Mahoutokoro students]]
+[[Category:Wizards]]

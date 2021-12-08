@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Ngapo Ponika
+|hideb=
+|born=Between [[21 May]], [[1992]] and [[20 May]], [[1993]], [[New Zealand]]
+|died=
+|blood=
+|alias=
+|title=[[Seeker]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Seeker]] for the [[New Zealand National Quidditch team]]
+|house=
+|loyalty=[[New Zealand National Quidditch team]]
+}}
+'''Ngapo Ponika''' (born c. [[1993]]) was a wizard from New Zealand who was the [[Seeker]] for the [[2014]] [[New Zealand National Quidditch team]]. During the first round match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], against [[Bulgarian National Quidditch team|Bulgaria]], Ponika was beaten to the [[Golden Snitch|Snitch]] by [[Viktor Krum]].<ref name="PM">[[BULGARIA VERSUS NEW ZEALAND]] (Archived from {{PM}})</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Ponika, Ngapo}}
+[[de:Ngapo Ponika]]
+[[pl:Ngapo Ponika]]
+[[fr:Ngapo Ponika]]
+[[ru:Нгапо Поника]]
+[[Category:1990s births]]
+[[Category:Males]]
+[[Category:New Zealand individuals]]
+[[Category:Seekers]]
+[[Category:Wizards]]

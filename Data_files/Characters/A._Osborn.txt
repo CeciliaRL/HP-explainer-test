@@ -1,0 +1,49 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = A. Osborn
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]{{Ref|<ref name="Assumption">Based on the fact that the real Arthur Osborn worked in a profession separate from the Wizarding World</ref>}}
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]{{Ref|<ref name="Assumption 2">Based on the assumption that the in-universe A. Osborn was a Human male like his real world counterpart</ref>}}
+|gender = Male{{Ref|<ref name="Assumption 2" />}}
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author{{Ref|<ref name="DHF">{{DH|F1}}</ref>}}
+|house = 
+|loyalty = 
+}}
+'''A. Osborn''' was a [[Non-magic people|Muggle]] and the author of ''[[Shrubs & Trees for the Garden]]'', a book published by [[Ward Lock & Co.]], about floriculture and gardening.<ref name="DHpromo">{{DH|F1}} - see [http://galeria.potterish.com/displayimage.php?album=4714&pid=211699#top_display_media this image].</ref><ref name="AbeBooks">[http://www.abebooks.co.uk/servlet/BookDetailsPL?bi=4719561891&searchurl=an%3Da%2Bosborn%26fe%3Don%26sortby%3D3%26tn%3Dshrubs%2Band%2Btrees%2Bfor%2Bthe%2Bgarden "Shrubs and Trees for the Garden"] at [http://www.abebooks.co.uk/ AbeBooks.co.uk]</ref>
+
+==Behind the scenes==
+In real life, Arthur Osborn (fl. [[1933]]) was also head of the arboretum at the [[Wikipedia:Royal Botanic Gardens, Kew|Royal Botanic Gardens at Kew]].<ref name="AbeBooks" />
+
+==Appearances==
+*{{DH|F1}} {{Comment|Mentioned on a book cover}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Osborn, A}}
+
+[[es:Arthur Osborn]]
+[[pl:Arthur Osborn]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

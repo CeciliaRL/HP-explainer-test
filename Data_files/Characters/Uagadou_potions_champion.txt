@@ -1,0 +1,63 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = Uagadoupotioneer.png
+|name = Uagadou potions champion
+|born = Year unknown, [[Africa]]<ref name="WBP"/>
+|died = 
+|blood = 
+|nationality = 
+|alias = 
+|title = Potions Champion<ref name="WBP"/>
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="WBP"/>
+|gender = Male<ref name="WBP"/>
+|hair = Black<ref name="WBP"/>
+|eyes = Brown<ref name="WBP"/>
+|skin = Dark<ref name="WBP"/>
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|house = 
+|job = 
+|loyalty = [[Uagadou]]<ref name="WBP"/>
+}}
+This '''individual''' was an [[Africa]]n [[Wizardkind|wizard]] who attended [[Uagadou]]. He was a skilled [[potioneer]] and represented his school at the [[Wizarding Schools Potions Championship]].<ref name="WBP">{{WBP}}</ref>
+
+==Biography==
+===Uagadou===
+Like other students, the African wizard was most likely given a token by a [[Dream Messenger]] in his sleep for entrance into [[Uagadou]].<ref name="PM">{{WW|uagadou}}</ref>
+
+===Wizarding Schools Potions Championship===
+[[File:Uagadoubanshee.png|250px|thumb|right|The wizard driven to madness by a Banshee]]
+The wizard became a skilled potioneer, and at age 17 or above participated in the [[Wizarding Schools Potions Championship]], where he represented Uagadou, his school. In the championship, he came upon a [[Banshee]], who screamed and drove him to madness. Later, the [[Hogwarts potions champion]] used a [[Laughing Potion]] on the Banshee to incapacitate it.<ref name="WBP"/>
+
+==Physical appearance==
+The wizard was dark-skinned with black hair and brown eyes, and wore a white shirt.<ref name="WBP"/>
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': As a skilled [[potioneer]], this potioneer was skilled at making potions.<ref name="WBP"/>
+
+==Behind the scenes==
+*This is the first student from Uagadou introduced throughout the Harry Potter series.
+
+==Appearances==
+*{{WBP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Mistrz Eliksirów z Uagadou]]
+[[pt-br:Campeão de poções de Uagadou]]
+[[Category:African individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Males]]
+[[Category:Potions Champions]]
+[[Category:Uagadou students]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

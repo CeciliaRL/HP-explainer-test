@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Vincent Davies
+|born = 
+|died = 
+|blood = [[Muggle|No-Maj]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = Human
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Costume designer
+|house = 
+|loyalty = 
+}}
+'''Vincent Davies''' was a [[Muggle|No-Maj]] costume designer in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:Two to Tango.png}}</ref>
+
+He designed the costumes for a production of the musical ''[[Two to Tango]]'' that was staged at [[The Kingly Court]] in [[Times Square]] in [[New York]] in [[1926]].<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Davies, Vincent}}
+[[Category:Costume designers]]
+[[Category:Males]]
+[[Category:Muggles]]

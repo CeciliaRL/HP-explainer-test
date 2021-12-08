@@ -1,0 +1,55 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Samson Wiblin
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[England|English]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Duelling|Duel]]list
+|house = 
+|loyalty = 
+}}
+'''Samson Wiblin''' (fl. [[1430]]) was an [[England|English]] [[Wizardkind|wizard]] who lived in [[England]] during the [[15th century]].
+
+==Biography==
+He was the favourite to win the [[All-England Wizarding Duelling Competition]] of [[1430]], but was beaten by [[Alberta Toothill]], who hit him with a [[Blasting Curse]]. It can be assumed that Samson was an excellent duellist as Ms Toothill was immortalised on a [[Chocolate Frog Card]] just for beating him.<ref name="COSG">{{COS|G}}</ref><ref name="PM">{{PM}}</ref>
+
+==Etymology==
+The name "Samson" comes from the Hebrew name שִׁמְשׁוֹן (Shimshon) which probably meant "sun".
+
+==Appearances==
+*{{PS|G}} {{FWC mention}}
+*{{COS|G}} {{FWC mention}}
+*{{PM}} {{FWC mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Wiblin, Samson}}
+
+[[de:Samson Wiblin]]
+[[fr:Samson Wiblin]]
+[[Category:Duellists]]
+[[Category:English individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

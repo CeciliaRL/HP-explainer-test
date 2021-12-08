@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = wizard
+|name = Barry Wee Willie Winkle
+|image = 
+|born = [[14 August]], [[1236]]<ref name="PSf"/>
+|died = 
+|blood = 
+|nationality = 
+|title = 
+|alias = 
+|marital = 
+|signature = 
+|species = [[Human]]<ref name="PSf"/>
+|gender = Male<ref name="PSf"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Barry Wee Willie Winkle celebrates his 755th birthday in style tonight by throwing a huge party for all the wizards and witches he has ever known. 30 million are expected to attend tonight.|The Daily Prophet, 14 August, 1991|Harry Potter and the Philosopher's Stone (film)}}
+'''Barry Wee Willie Winkle''' (b. [[14 August]], [[1236]]) was the [[List of oldest wizards|oldest]] known [[wizardkind|wizard]] in the [[1990s]], when he reached the age of 755. To celebrate the occasion, he held a massive party, inviting every wizard and witch he had ever known, a total of thirty million people. It was one of the biggest parties in wizarding history. The scale of this party made ''[[Daily Prophet]]'' headlines in 1991.<ref name="PSf">{{PS|F}} - see [http://www.bonhams.com/auctions/19801/lot/97/ this image].</ref>
+
+==Etymology==
+The name may be a reference to "{{wplink|Wee Willie Winkie}}", a [[Scotland|Scottish]] poem about a boy who does not want to go to sleep.
+
+==Behind the scenes==
+*How Winkle attained such an advanced age (older than even [[Nicolas Flamel]], who had access to a [[Philosopher's Stone]]) is unknown. He may have possessed a Philosopher's Stone of his own, created a [[Horcrux]] or otherwise staved off ageing through some other magical means, though this is pure speculation. It is of course possible that he was of unusually good health, even for a wizard, and reached this age naturally, though such a thing would be unheard of.
+*If every wizard and witch he has ever known attended his party, it means either that there were wizards older than him or that [[ghost]]s also attended it. It can also be assumed, however, that it included only wizards and witches who were still alive.
+*Giving the ''Daily Prophet'''s habit for heavily exaggerating or fluffing up details or putting in their own biased assumptions on matters to make them more intriguing, it is unknown - perhaps even extremely unlikely - whether or not the amount of individuals attending a simple party to have actually been in the millions. It is also unlikely such a number of wizards and witches exist in the world. In addition, Barry Winkle's exact age may also be an exaggeration.
+
+==Appearances==
+*{{PS|F}} {{1st Mention}} {{C|Mentioned on a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Winkle, Barry Wee Willie}}
+[[pl:Barry Winkle]]
+[[pt-br:Barry Winkle]]
+[[ru:Барри Винкль]]
+[[Category:1236 births]]
+[[Category:Centenarians]]
+[[Category:Males]]
+[[Category:Wizards]]

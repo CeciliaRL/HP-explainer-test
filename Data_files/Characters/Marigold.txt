@@ -1,0 +1,43 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = individual
+|name = Marigold
+|image = 
+|born =
+|died = 
+|blood = 
+|title = 
+|nationality =
+|alias =
+|marital = Married<ref name="HM"/>
+|species = [[Human]]<ref name="HM"/>
+|gender = Female<ref name="HM"/>
+|skin = 
+|eyes = 
+|hair = 
+|weight = 
+|height =  
+|family=*Spouse
+*[[Tulip Karasu]] (cousin)<ref name="HM"/>
+*[[Karasu family]]
+|romances =
+|wand = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand =
+|house = 
+|job = 
+|loyalty=[[Karasu family]]<ref name="HM"/>
+}}
+{{Dialogue a-b-a|Tulip Karasu|&thinsp;''Our'' first date? You mean, ''your'' first date?|Jacob's sibling|But isn't it your first date, too, Tulip?|If taking Dennis as my guest to my cousin Marigold's wedding doesn't count… then yes.|[[Tulip Karasu]] and [[Jacob's sibling]] on their first date|Harry Potter: Hogwarts Mystery}}
+'''Marigold''' was a cousin of [[Tulip Karasu]]. She got married at some point before [[1988]] and Tulip attended her wedding with [[Dennis (toad)|Dennis]], her pet [[toad]].<ref name="HM">{{HM|4|First Date}} (information revealed if Tulip is chosen as the date)</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Married individuals]]

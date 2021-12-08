@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Cadogan's children
+|born = 
+|died = 
+|blood = [[Pure-blood]], [[half-blood]] or [[Squib]]<ref>Their father and their paternal grandparents were wizards, their mothers' blood status is unknown.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Cadogan's father|Paternal grandfather]]
+*[[Cadogan's mother|Paternal grandmother]]
+*[[Cadogan|Sir Cadogan]] (father)
+*[[Cadogan's ex-wives|Mother(s)]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+During the course of his lifetime, [[Cadogan|Sir Cadogan]] was rumoured to have fathered at least '''seventeen children''' with at least [[Cadogan's ex-wives|three different women]].<ref>{{PP|G}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{PP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Dzieci Cadogana]]
+[[Category:Historical figures]]
+[[Category:Humans]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unnamed family members]]

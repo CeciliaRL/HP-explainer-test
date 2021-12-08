@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Stephen Cornfoot
+|born = between [[1 September]] [[1979]] and [[31 August]] [[1980]]
+|died = 
+|blood = [[Pure-blood]]<ref name="blood">{{HPM}} {{See image|File:Pagenotes.jpg}}</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]] or [[Ravenclaw]]<ref name=house>[[Anthony Goldstein]] and [[Michael Corner]] (whose houses were initially into Hufflepuff) were moved to Ravenclaw, therefore two of the original Ravenclaw students (Stephen Cornfoot, [[Kevin Entwhistle]], [[Roger Malone]] and [[Oliver Rivers]]) were moved to Hufflepuff.</ref>
+|loyalty = *Cornfoot family
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Stephen Cornfoot '''(c. [[1979]]-[[1980]]) was a [[pure-blood]]<ref name="blood"/> [[wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]].<ref name="PM">{{PM}}</ref> He was in the same year as [[Harry Potter]] and was Sorted into either [[Hufflepuff]] or [[Ravenclaw]] house.
+
+==Etymology==
+The name "Stephen" is from the Greek name Στεφανος (''Stephanos'') meaning "crown". Saint Stephen was a deacon who was stoned to death, as told in Acts in the New Testament, and he is regarded as the first Christian martyr. Due to him, the name became common in the Christian world. It was popularised in England by the Normans.
+
+==Behind the scenes==
+*Stephen Cornfoot is listed as a [[Ravenclaw]] on the list of students in a page of [[J. K. Rowling]]'s notes shown on {{HPM}}. However, as two listed Hufflepuffs ([[Anthony Goldstein]] and [[Michael Corner]]) had their houses changed to Ravenclaw in the novels as published, two of those listed as Ravenclaws must have been changed to Hufflepuff. Cornfoot may be one of those whose house was changed.
+
+==Appearances==
+*{{HPM}} {{1st Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Cornfoot, Stephen}}
+
+[[de:Stephen Cornfoot]]
+[[fr:Stephen Cornfoot]]
+[[ru:Стефан Корнфут]]
+[[pl:Stephen Cornfoot]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Pure-bloods]]
+[[Category:Sorted in 1991]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

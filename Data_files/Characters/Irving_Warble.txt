@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Irving Warble
+|born = 
+|died = 
+|blood = 
+|marital = Married<ref name="Pottermore">{{WW|celestina-warbeck}}</ref>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="Pottermore"/>
+|gender = Male<ref name="Pottermore"/>
+|height = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+*[[Celestina Warbeck]] (wife)<ref name="Pottermore" />
+*[[Celestina Warbeck's son|Stepson]]<ref name="Pottermore" />
+*[[Celestina Warbeck's father|Mr Warbeck]] (father-in-law)<ref name="Pottermore" />
+*[[Celestina Warbeck's mother|Mrs Warbeck]] (mother-in-law)<ref name="Pottermore" />
+*[[Warbeck family]] (in-laws)
+|romances = [[Celestina Warbeck]] (wife)<ref name="Pottermore" />
+|animagus = 
+|boggart =  
+|wand = 
+|patronus = 
+|job = Composer<ref name="Pottermore" />
+|house = 
+|loyalty=*Warble family<ref name="Pottermore" />
+*[[Warbeck family]]<ref name="Pottermore" />
+}}
+'''Irving Warble''' was a [[wizardkind|wizarding]] composer. He married [[Celestina Warbeck]] after she left her [[Celestina Warbeck's second husband|second husband]] to be with him.<ref name="Pottermore" />
+
+==Etymology==
+*Irving is a [[Scotland|Scottish]] surname, though it is sometimes used as a first name as well. The name is derived from the {{wplink|River Irvine}}. [[Wikipedia:Irving Berlin|Irving Berlin]] is considered one of the greatest American songwriters; his most popular popular songs include such musical standards as ''[[Wikipedia:Alexander's Ragtime Band|Alexander's Ragtime Band]]'', ''[[Wikipedia:White Christmas (song)|White Christmas]]'', ''[[Wikipedia:Happy Holiday (song)|Happy Holidays]]'', ''[[Wikipedia:Cheek to Cheek|Cheek to Cheek]]'', ''[[Wikipedia:Let's Face the Music and Dance|Let's Face the Music and Dance]]'' and ''[[Wikipedia:Oh! How I Hate to Get Up in the Morning|Oh! How I Hate to Get Up in the Morning]]''.
+*Warble is an English verb meaning "to sing in a high or shaky voice" and is a word often associated with the singing of birds.
+
+==Behind the scenes==
+*The [[warble flute]] may be attributed to Irving Warble. The [[flute]] was regarded to be developmental to the [[jazz]] scene in [[New Orleans]], which Warble was likely alive to see.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Warble, Irving}}
+[[ru:Ирвин Уорбл]]
+[[pl:Irving Warble]]
+[[fr:Irving Warble]]
+[[Category:Celestina Warbeck's romantic relationships]]
+[[Category:Composers]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Wizards]]

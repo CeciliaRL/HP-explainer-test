@@ -1,0 +1,62 @@
+{{Individual infobox
+|name = Josiah Jackson
+|born = before [[1693]]<ref name="PottermoreHistory3">{{WW|macusa}}</ref>
+|died = 
+|blood = 
+|nationality = [[United States of America|American]]<ref name="PottermoreHistory3" />
+|title = President<ref name="PottermoreHistory3" />
+|alias = 
+|signature = 
+|species = [[Human]]<ref name="PottermoreHistory3" />
+|gender = Male<ref name="PottermoreHistory3" />
+|skin = 
+|eyes = 
+|hair = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|house = 
+|job = [[President of the Magical Congress of the United States of America]]<ref name="PottermoreHistory3"/>
+|loyalty = [[Magical Congress of the United States of America]]<ref name="PottermoreHistory3" />
+|theme = macusa
+}}
+'''Josiah Jackson''' was an [[United States of America|American]] [[wizardkind|wizard]] who served as the first [[President of the Magical Congress of the United States of America|President]] of the [[Magical Congress of the United States of America]].<ref name="PottermoreHistory3" />
+
+==Biography==
+Described as "warlike," Jackson was elected into office by his fellow representatives in [[1693]], as he was considered tough enough to deal with the troubles [[Wizarding world|wizarding]] America faced in the wake of the [[Salem Witch Trials]]. His top priority after taking office was the recruitment of new [[Auror]]s.<ref name="PottermoreHistory3" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=None (position created)
+|position=[[President of the Magical Congress of the United States of America|President of MACUSA]]
+|years=[[1693]] – ?
+|successor=Unknown, eventually [[Charity Wilkinson]]
+}}
+{{End box}}
+{{MACUSA|P}}
+
+{{DEFAULTSORT:Jackson, Josiah}}
+[[de:Josiah Jackson]]
+[[de2:Josiah Jackson]]
+[[es:Josiah Jackson]]
+[[fr:Josiah Jackson]]
+[[ja:ジョシア・ジャクソン]]
+[[ru:Иосия Джексон]]
+[[pl:Josiah Jackson]]
+[[Category:17th century births]]
+[[Category:American individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Presidents of the Magical Congress of the United States of America]]
+[[Category:Wizards]]

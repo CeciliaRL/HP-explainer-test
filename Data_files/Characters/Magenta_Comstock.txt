@@ -1,0 +1,71 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Comstock.png|250px]]
+|name = Magenta Comstock
+|born = [[1895]]<ref name="JKRS"/>
+|died = [[1991]] (aged 95–96)<ref name="JKRS"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Female<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = Black<ref name="JKRS"/>
+|eyes = Blue<ref name="JKRS"/>
+|skin = Light<ref name="JKRS"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Artist<ref name="JKRS"/>
+|house = 
+|loyalty = 
+}}
+'''Magenta Comstock''' ([[1895]]–[[1991]]) was a [[Wizardkind|witch]] and experimental artist, whose [[portrait]]s' eyes not only followed the viewer around the room, but also followed them home.<ref name="JKRS">{{JKRS}}</ref>
+
+==Biography==
+===Early life===
+Magenta Comstock was born in [[1895]] to parents of unknown [[blood status]].<ref name="JKRS"/>
+
+She became an artist and began experimenting with her artwork. Her portraits were known for their staring eyes which would often follow viewers home.<ref name="JKRS"/>
+
+She was on a [[Chocolate Frog Card]] by [[1988]].<ref>{{HM}} - One of the questions in [[Badeea Ali]]'s art quiz is about who is on a Chocolate Frog Card and Magenta Comstock is one of the correct answers. Badeea Ali is unlocked as friend in {{HM|5|4}}, taking place in the [[1988–1989 school year]]. Later, in {{HM|5|9}}, [[Rubeus Hagrid]] states that his birthday is soon. As Hagrid was born on [[6 December]], this means all chapters in Year 5 up to Chapter 9 must take place at some point between [[1 September]] [[1988]] and 6 December in the same year.</ref>
+
+At some time before or during the [[1988–1989 school year]], a book entitled ''[[Collected Artwork by Magenta Comstock]]'' was published.<ref name="TGHC">{{HM|5|THE GREAT HOGWARTS COOK-OFF}}</ref>
+
+===Death===
+Comstock died in [[1991]] at the age of 96.<ref name="JKRS"/>
+
+==Behind the scenes==
+*Magenta Comstock was the [[Wizard of the Month]] on {{JKRS}} in April [[2007]].
+*She died the year [[Harry Potter]] and his friends began attending [[Hogwarts School of Witchcraft and Wizardry]].
+
+==Appearances==
+{{Imagecat|Images of Magenta Comstock|Magenta Comstock}}
+*{{JKRS}} {{1st}}
+*{{HM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Comstock, Magenta}}
+[[de:Magenta Comstock]]
+[[es:Magenta Comstock]]
+[[fr:Magenta Comstock]]
+[[it:Magenta Comstock]]
+[[pl:Magenta Comstock]]
+[[ru:Магента Комсток]]
+[[Category:1895 births]]
+[[Category:1991 deaths]]
+[[Category:Artists]]
+[[Category:Blue-eyed individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

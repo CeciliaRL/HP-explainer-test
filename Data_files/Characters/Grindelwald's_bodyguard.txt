@@ -1,0 +1,49 @@
+{{SODSpoiler}}
+{{Conjecture}}
+{{Unreleased}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Grindelwald's bodyguard
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Personal bodyguard to [[Gellert Grindelwald]]
+|house = 
+|loyalty = [[Gellert Grindelwald]]
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who worked with [[Gellert Grindelwald]] as his bodyguard in the [[1930s]].<ref name="candelent">[https://www.fantasticbeastsmovies.com/2021/03/10/fb3-everything-we-know-so-far/ Paul Cadelent joins the Fantastic Beasts 3 cast as Grindelwald's bodyguard]</ref>
+<!---Leave this here till we have more content of the stunt he did or if you have a better way to word this in-universe
+
+==Biography==
+Sometime in the [[1930s]], he performed an intense jump.
+-->
+==Behind the scenes==
+*This character is portrayed by [[Paul Candelent]] in {{SOD}}.<ref name="candelent"/> In the film, he will be smartly dressed in a suit and tie.<ref>{{See image|File:Paul Candelent in costume as Grindelwalds bodyguard FB3.jpg}}</ref>
+
+==Appearances==
+*{{SOD}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Guardaespaldas de Grindelwald]]
+[[Category:Males]]
+[[Category:Wizards]]

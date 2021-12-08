@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Wayne Portchester
+|born = [[1 September]] [[1978]] - [[31 July]] [[1982]]<ref>He was at Hogwarts during the [[1993-1994 school year]] and the [[1996–1997 school year]]. [[1 September]] is the earliest birthday to not be able to go to Hogwarts that year upon turning 11. [[31 July]] is the latest birthday to be able to go to Hogwarts that year upon turning 11.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="POAG">{{POA|G}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+'''Wayne Portchester''' was a [[Wizardkind|wizard]] and [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He began school between [[1990]] and [[1993]] and studied [[Herbology]] in the [[Hogwarts greenhouses|greenhouses]] during the [[1996–1997 school year]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+The name "Wayne" is from an occupational surname meaning "wagon maker", derived from Old English wægn "wagon".
+
+==Appearances==
+*{{POA|G}} {{1st}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Portchester, Wayne}}
+[[pl:Wayne Portchester]]
+[[fr:Wayne Portchester]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Sorted in the 20th century]]
+[[Category:Wizards]]

@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Randolph Pauncefoot
+|born = [[1957]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Randolph Pauncefoot''' (b. [[1957]])<ref>https://www.hp-lexicon.org/character/randolph-pauncefoot/</ref> was a [[Quidditch]] fan who supported the [[Montrose Magpies]].<ref>[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[1 June|June 1st]], [[1999]], Page 4</ref> He did not have a problem with the team's [[Chaser]], [[Alasdair Maddock]], wanting to try out [[Non-magic people|Muggle]] sports, but stated that a person must be a little crazy to play golf.<ref>''The Lexicon'' by Steve Vander Ark, page 232</ref>
+
+==Etymology==
+The name "Randolph" is from the Germanic elements rand meaning "rim (of a shield)" and wulf meaning "wolf". 
+
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Pauncefoot, Randolph}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Montrose Magpies supporters]]
+[[Category:Wizards]]

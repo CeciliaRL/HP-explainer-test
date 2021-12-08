@@ -1,0 +1,51 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Emanuel Hurwitz
+|born = [[7 May]], [[1919]]<ref name="wikipedia">"[http://en.wikipedia.org/wiki/Emanuel_Hurwitz Emanuel Hurwitz]" on Wikipedia</ref>.<br/>[[London]]<ref name="wikipedia"></ref>
+|died = [[19 November]], [[2006]]<ref name="wikipedia" />
+|blood = [[Non-magic people|Muggle]]
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Kay Hurwitz]] (wife)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Violin]]ist
+|house = 
+|loyalty = 
+}}
+'''Emanuel Hurwitz''' ([[7 May]], [[1919]] — [[19 November]], [[2006]]) was a [[Great Britain|British]] [[Non-magic people|Muggle]] [[violin]]ist who lead several orchestras and ensembles.<ref name="wikipedia" /><ref>[http://www.independent.co.uk/news/obituaries/emanuel-hurwitz-425144.html Emanuel Hurwitz's obituary] by Margaret Campbell in ''The Independent''</ref>
+
+On Sunday, 7 May in a year prior to [[1997]], at 7:30 in the evening, Emanuel and his wife, [[Kay Hurwitz|Kay]], a [[viola|violist]], gave a performance of [[Wolfgang Amadeus Mozart|Mozart]]'s ''[[Mozart's Sinfonia Concertanti|Sinfonia Concertanti]]'' at [[St. Mary's Church Hall]].<ref name="hple">{{HPLE|G}} {{see image|File:Emanuel&KayHurwitzConcertPoster.jpg}}</ref> The performance was directed by [[Alec Webb]], and the [[Dollis Chamber Ensemble]] accompanied the couple for the first time ever.<ref name="hple" /> [[Hermione Granger]] had a poster for this concert stuck up on the bulletin board in [[Hermione Granger's bedroom|her bedroom]] in the [[Granger family]]'s [[Grangers' house|house]].<ref name="hple" /><ref name="dhp1">{{DH|F1}}</ref>
+
+==Behind the scenes==
+*In real life, Emanuel and Kay Hurwitz are, respectively, the stepgrandfather and grandmother of [[Miraphora Mina]], a graphic artist who worked on all eight [[Harry Potter films|''Harry Potter'' films]].<ref>See [[Talk:Emanuel Hurwitz]].</ref> Mina likely created the prop concert poster featured in {{DH|F1}} as a tribute to them.
+
+==Appearances==
+*{{DH|F1}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Hurwitz, Emanuel}}
+
+[[pt-br:Emanuel Hurwitz]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Musicians]]

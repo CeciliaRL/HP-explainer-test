@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Jeremiah Garnet.png|250px]]
+|name = Jeremiah Garnet
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Blond
+|eyes = Grey
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Reporter for the [[Wizarding Wireless Network]]
+|house = 
+|loyalty = [[Wizarding Wireless Network]]
+}}
+'''Jeremiah Garnet''' was a [[Great Britain|British]] [[Wizardkind|wizard]] and radio reporter for the [[Wizarding Wireless Network]].
+
+==Biography==
+He was investigating a [[fire]] at the [[Boathouse]] of [[Hogwarts School of Witchcraft and Wizardry]] and believed it to be caused by a [[dragon]]. His zealousness to develop this story led him to fake a [[Jeremiah Garnet's photograph|photograph]] of a dragon flying over Hogwarts. This forgery was discovered by [[Mathilda Grimblehawk]] and [[Mathilda Grimblehawk's partner|her partner]] during their investigation of the fire.<ref>{{FBC|7}}</ref>
+
+Garnet managed to capture the beast responsible for the fire and sent it to the [[Wizarding Wireless Network]] for an exclusive report, but Mathilda and her partner managed to rescue the beast and relocate it.
+In addition to reporting, Garnet was also working on ''[[Hogwarts Castle: A History of Cultivated Fungus]]''.
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Garnet, Jeremiah}}
+
+[[pl:Jeremiah Garnet]]
+[[fr:Jeremiah Garnet]]
+[[ru:Джеремайя Гарнет]]
+[[Category:British individuals]]
+[[Category:Broadcasters]]
+[[Category:Grey-eyed individuals]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,47 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme=dark-wizard
+|image=
+|name=Owle Bullock
+|born=Before [[1950s]]
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="name"/>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Author<ref name="name"/>
+|house=
+|loyalty=[[Dark Arts]]<ref name="name"/>
+}}
+'''Owle Bullock'''<ref name="name">[http://www.mugglenet.com/app/news/show/3550 "First look at Deathly Hallows props including 'Life and Lies', 'A History of Magic', more"] at [http://www.mugglenet.com/ MuggleNet]</ref> was a [[Dark Wizard]] or witch who authored ''[[Secrets of the Darkest Art]]'', a book that was "''full of [[Dark Arts|evil magic]]''", including detailed instructions on how to create a [[Horcrux]].<ref name="DH6">{{DH|B|6}}</ref>
+
+==Behind the scenes==
+*This character is presumably a tribute to [[Alastair Bullock]], who worked as an art director on every film from ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'' onward, and as an uncredited draughtsman on ''[[Harry Potter and the Chamber of Secrets (film)|Harry Potter and the Chamber of Secrets]]''.
+
+==Appearances==
+*{{DH|F1}} {{1st Mention}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]'' {{Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bullock, Owle}}
+[[es:Owle Bullock]]
+[[fr:Owle Bullock]]
+[[pl:Owle Bullock]]
+[[Category:Authors|Bullock, Owle]]
+[[Category:Dark wizards|Bullock, Owle]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Individuals who knew about Horcruxes]]

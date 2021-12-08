@@ -1,0 +1,70 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Belvina Burke's daughter
+|born = 
+|died = 
+|blood = [[Pure-blood]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White
+|family = *[[Belvina Black|Belvina Burke (née Black)]] (mother)
+*[[Herbert Burke]] (father)
+*[[Belvina Burke's sons|Two brothers]]
+*[[Sirius Black II]] (maternal uncle)
+*[[Phineas Black]] (maternal uncle)
+*[[Arcturus Black II]] (maternal uncle)
+*[[Cygnus Black II]] (maternal uncle)
+*[[Hesper Gamp]] (maternal aunt by marriage)
+*[[Lysandra Yaxley]] (maternal aunt by marriage)
+*[[Violetta Bulstrode]] (maternal aunt by marriage)
+*[[Arcturus Black III]] (cousin) †
+*[[Lycoris Black]] (cousin) †
+*[[Regulus Black I]] (cousin) †
+*[[Pollux Black]] (cousin) †
+*[[Cassiopeia Black]] (cousin) †
+*[[Marius Black]] (cousin) †
+*[[Dorea Black]] (cousin) †
+*[[Callidora Black]] (cousin) †
+*[[Cedrella Black]] (cousin) †
+*[[Charis Black]] (cousin) †
+*[[Caractacus Burke]] (possibly) †
+*[[Elizabeth Burke]] (possibly) †
+*[[Phineas Nigellus Black]] (maternal grandfather)
+*[[Ursula Flint]] (maternal grandmother)
+*[[Burke family]]
+*[[House of Black]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Burke family]]
+*[[House of Black]]
+}}
+[[Herbert Burke]] married [[Belvina Black]] and they had three children: [[Belvina Burke's sons|two sons]] and '''one daughter'''. They were all [[pure-blood]] and related through Belvina to the [[House of Black]].<ref name="OOTPF">{{OOTP|F}}</ref>
+
+==Appearances==
+*{{OOTP|F}} {{Comment|Appears on Black family tapestry}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Córka Burkesów]]
+[[Category:British individuals]]
+[[Category:Burke family]]
+[[Category:Females]]
+[[Category:House of Black descendants]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

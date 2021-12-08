@@ -1,0 +1,79 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:Pettigrew's victims.jpg|250px]]
+|name = Peter Pettigrew's victims
+|born = 
+|died = [[1 November]], [[1981]]<br />[[London]], [[England]]<ref name="London">The fact there was a Queen's Guard in uniform among the casualties suggest the incident happened near one of the Queen's official residences in London.</ref>
+|blood = [[Non-magic people|Muggles]]<ref name="poa3" />
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="poa3" />
+|gender = *3 males<ref name="Lego">{{LEGO|Y1}}</ref>
+*9 unknown gender<ref name="poa10">{{POA|B|10}}</ref>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Light<ref name="Lego"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *1 guitarist<ref name="Lego"/>
+*1 [[Wikipedia:Queen's Guard|Queen's Guard]]<ref name="Lego"/>
+*1 police officer<ref name="Lego"/>
+|house = 
+|loyalty = [[Elizabeth II|Queen Elizabeth]]<ref name="Lego"/>
+}}
+These '''murder victims''' were a group of twelve [[Non-magic people|Muggles]] killed by an explosion deliberately caused by [[Peter Pettigrew]] on [[1 November]], [[1981]].<ref name="POA19">{{POA|B|19}}</ref> This event was one of the most infamous massacres in recent times.<ref name="poa3" />
+
+==History==
+===Origins===
+Eventually, three of these Muggles became employed as a guard, guitarist, and officer respectively, while the others pursued unknown careers.<ref name="Lego"/>
+
+===Destroyed by Peter Pettigrew===
+After betraying the [[Potter family|Potters]], Pettigrew was pursued by [[Sirius Black]], and was eventually cornered by him on a crowded [[London]]<ref name="London"/> street. Pettigrew then loudly accused Black of betraying the Potters, cast an extremely powerful explosive [[curse]] (likely the [[Blasting Curse]]), and escaped, leaving behind a finger he had cut off to fake his [[death]]. This explosion claimed the lives of twelve Muggles, and left a deep crater in the street. Over fifty Muggle witnesses reported what Pettigrew said to [[British Ministry of Magic|Ministry of Magic]] officials. Black was imprisoned in [[Azkaban]] without trial. Before his capture, Black was found laughing like a maniac, seemingly confirming his guilt.<ref name="poa3" />
+
+[[File:Pettigrew Kills Muggles.jpg|200px|thumb|left|[[Peter Pettigrew|Pettigrew]] blows up half the street]]
+The Ministry of Magic had difficulty covering up this event given the extent of the damage and the number of Muggle casualties.<ref name="poa3">{{POA|B|3}}</ref> They [[Memory Charm|erased]] the memories of surviving Muggle witnesses<ref name="poa10"/> and disseminated the story that the explosion had been caused by a leak in a gas main.<ref name="poa3" />
+
+===Legacy===
+It was not until [[1994]] that [[Remus Lupin]] realised Black was innocent and convinced [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]] to believe the truth.<ref name="POA19"/> Nevertheless, [[Cornelius Fudge]] ignored their stories,<ref name="POA21">{{POA|B|21}}</ref> and the Ministry continued to consider Black guilty until after his murder in the [[Battle of the Department of Mysteries]] on [[18 June]], [[1996]].<ref name="OOTP36">{{OOTP|B|36}}</ref>
+
+==Victims==
+*One [[Wikipedia:Queen's Guard|Queen's Guard]]<ref name="Lego"/>
+*One guitarist<ref name="Lego"/>
+*One [[police]] officer<ref name="Lego"/>
+*Nine unknown [[Non-magic people|Muggles]]<ref name="poa10"/>
+
+==Appearances==
+*{{POA}} {{1st Mention}}
+*{{POA|F}} {{Mention}}
+*{{POA|G}} {{Mention}}
+*{{GOF}} {{Mention}}
+*{{LEGO|Y1}} {{1st}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Victimes de Peter Pettigrow]]
+[[pl:Niezidentyfikowane ofiary Petera Pettigrew]]
+[[pt-br:Vítimas não identificadas de Pedro Pettigrew]]
+[[Category:1981 deaths]]
+[[Category:British individuals]]
+[[Category:Deaths by explosion]]
+[[Category:First Wizarding War casualties]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Killed by Peter Pettigrew]]
+[[Category:Males]]
+[[Category:Military personnel]]
+[[Category:Murder victims]]
+[[Category:Musicians]]
+[[Category:Plot to murder Peter Pettigrew]]
+[[Category:Police officers]]
+[[Category:Unidentified Muggles‎]]

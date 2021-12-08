@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Mike Boon
+|born = Between [[1701]] and [[1705]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+**[[Gryffindor Quidditch team]]
+}}
+'''Mike Boon''' (b. [[1700s]]) was a [[Gryffindor]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1710s]] and [[1720s]]. He was once [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Gryffindor Quidditch team]] from [[1716]] to [[1720]].<ref>{{HPE}} {{See image|File:Gryffindor Quidditch Captains Plaque.jpg}}</ref>
+
+[[File:Gryffindor Quidditch Captains Plaque.jpg|200px|thumb|left|Mike Boon's name appearing on a plaque]]
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+*{{HPE}} {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Hugh Biggs]]
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Gryffindor Quidditch team]]
+|years=[[1716]]—[[1720]]
+|successor=[[Jason Charmer]]
+}}
+{{End box}}
+{{Hogwarts quidditch positions}}
+{{DEFAULTSORT:Boon, Mike}}
+[[pl:Mike Boon]]
+[[Category:1700s births]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Males]]
+[[Category:Sorted in the 1710s]]
+[[Category:Wizards]]

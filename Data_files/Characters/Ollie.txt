@@ -1,0 +1,46 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Ollie
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Rowan Khanna]] (nephew/niece)
+*[[Rowan Khanna's brother|Nephew]]
+*[[Rowan Khanna's mother|Possible sister]]
+*[[Rowan Khanna's father|Possible brother]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Ollie''' was an uncle of [[Rowan Khanna]]. In the [[1986–1987 school year]], Rowan promised him that they would hold a branch from their tree farm if they won the contest held by [[Rita Skeeter]].<ref>{{HM|3|Wizarding World Famous}} - mentioned if option ''"It's amazing"'' is chosen when asked about the contest.</ref>
+
+==Behind the scenes==
+*This individual's surname is unknown; as an uncle of [[Rowan Khanna]], his surname could be Khanna or a different one altogether if he is Rowan's mother's brother, or married to a sibling of either of Rowan's parents.
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Humans]]
+[[Category:Males]]

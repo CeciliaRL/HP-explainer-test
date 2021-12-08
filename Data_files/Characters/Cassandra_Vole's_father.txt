@@ -1,0 +1,49 @@
+{{MagicAwakenedSpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Cassandra Vole's father
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="MA127"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="MA127">{{MA|1|27}}</ref>
+|gender = Male<ref name="MA127"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Cassandra Vole]] (daughter)<ref name="MA127"/>
+*[[Vole family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[British Ministry of Magic]] employee<ref name="MA127"/>
+|house = 
+|loyalty = *[[Vole family]]
+*[[British Ministry of Magic]]<ref name="MA127"/>
+}}
+{{Quote|My father works for the Ministry. One [[owl]] from me and you'll be locked up in [[Azkaban]] with all the other criminals.|[[Cassandra Vole]] threatening [[Daniel Page]]|Harry Potter: Magic Awakened}}
+'''Mr Vole''' was a [[British Ministry of Magic]] employee and [[Cassandra Vole]]'s father.<ref name="MA127"/>
+
+==Appearances==
+*{{MA}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry employees of unknown Department}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Vole family]]
+[[Category:Wizards]]

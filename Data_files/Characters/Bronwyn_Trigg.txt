@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Bronwyn Trigg
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DHF1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF1"/>
+|gender = Female<ref name="DHF1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Harry Trigg]] (unknown)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Trigg family]]<ref name="DHF1"/>
+}}
+'''Bronwyn Trigg''' was a [[Wizardkind|witch]] reported missing along with her relative, [[Harry Trigg]], on the ''[[Potterwatch]]'' radio programme in [[1997]]. Her disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.<ref name="DHF1">{{DH|F1}}</ref>
+
+==Etymology==
+Bronwyn is an alternate spelling of Bronwen, a Welsh name derived from the elements ''bron'', "breast", and ''gwen'', "white, fair, blessed".<ref>"[http://www.behindthename.com/name/bronwen Bronwen]" on Behind the Name</ref>
+
+==Behind the scenes==
+*This character is presumably a tribute to a relative of Derek Trigg, a foley editor who worked on every [[Harry Potter films|''Harry Potter'' film]], with the exception of ''[[Harry Potter and the Philosopher's Stone (film)|Harry Potter and the Philosopher's Stone]]'' and ''[[Harry Potter and the Goblet of Fire (film)|Harry Potter and the Goblet of Fire]]''.<ref>[http://www.imdb.com/name/nm0872740 Derek Trigg's profile on IMDb]</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Trigg, Bronwyn}}
+
+[[fr:Bronwyn Trigg]]
+[[pl:Bronwyn Trigg]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Missing individuals]]
+[[Category:Trigg family]]
+[[Category:Wizards]]

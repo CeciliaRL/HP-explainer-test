@@ -1,0 +1,44 @@
+{{Individual infobox
+|image = PUCINE LEROY.jpg
+|name = Pucine Lestrange
+|blood = [[Pure-blood]] (most likely)
+|marital = Married
+|nationality = [[France|French]]
+|species = [[Human]]
+|gender = Female
+|family = *[[Fulcran Lestrange (I)|Fulcran Lestrange]] (husband)
+*[[Fulcran Lestrange (II)|Fulcran Lestrange]] (son)
+*[[Cyrille Lestrange (I)|Cyrille Lestrange]] (father-in-law)
+*[[Darenne Lestrange]] (mother-in-law)
+*[[Cyrille Lestrange (II)|Cyrille Lestrange]] (brother-in-law)
+*[[Balbine Lestrange (I)|Balbine Lestrange]] (co-sister-in-law/possibly sister)
+*[[Sotère Lestrange]] (daughter-in-law)
+*[[Cyrille Lestrange (III)|Cyrille Lestrange]] (nephew)
+*[[Balbine Lestrange (II)|Balbine Lestrange]] (granddaughter)
+*[[Pucine Lestrange (II)|Pucine Lestrange]] (granddaughter)
+*[[Fulcran Lestrange (III)|Fulcran Lestrange]] (grandson)
+*[[Quintilla Lestrange]] (granddaughter-in-law)
+*[[Nozéa Lestrange]] (great-granddaughter)
+*[[Leroy family]]
+*[[Lestrange family]] (in-laws)
+|loyalty = *[[Leroy family]]
+*[[Lestrange family]]
+|theme = wizard
+}}
+'''Pucine Lestrange''' (née '''Leroy''') was a [[France|French]] [[Wizardkind|witch]] and a member of the [[pure-blood]] [[Lestrange family]]. She married [[Fulcran Lestrange (I)|Fulcran Lestrange]], and had a son with him, [[Fulcran Lestrange (II)|Fulcran]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref> She might have been the sister of [[Balbine Lestrange (I)|Balbine Lestrange]].
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Lestrange, Pucine I}}
+[[fr:Pucine Leroy]]
+[[pl:Pucine Lestrange I]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Leroy family]]
+[[Category:Lestrange family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

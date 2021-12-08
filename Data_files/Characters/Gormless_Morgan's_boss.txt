@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Gormless Morgan's boss
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WBS"/>
+|gender = Male<ref name="WBS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employer of [[magic]]al [[creature]] hunters<ref name="WBS"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|Use your brain! It's a most useful organ.|This wizard's advice to Gormless Morgan, according to "[[The Rhyme of Gormless Morgan]]"|Wonderbook: Book of Spells}}
+
+The '''boss''' of the [[Wizardkind|wizard]] [[Gormless Morgan]] was based on was, presumably, someone who employed or led those who hunted [[magic]]al [[Creature]]s. He was the one who tasked Morgan with capturing the [[Gorgon]], advising him to take his time and properly plan his course of action, advice Morgan did not take. As Morgan failed in his task, it is unknown what further action, if any, this man took against the Gorgon he wanted caught.<ref name="WBS">{{WBS}}</ref>
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Morgan, Gormless's boss}}
+
+[[Category:Males]]
+[[Category:Wizards]]

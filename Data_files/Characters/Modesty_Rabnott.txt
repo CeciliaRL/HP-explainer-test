@@ -1,0 +1,67 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Modesty Rabnott
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="QTA4"/>
+|alias = 
+|title = [[Madam]]<ref name="QTA4"/>
+|signature = 
+|species = [[Human]]<ref name="QTA4"/>
+|gender = Female<ref name="QTA4"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Prudence]] (sister)<ref name="QTA4"/>
+*[[Edward Rabnott]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Rabnott family]]<ref name="QTA4"/>
+}}
+'''Madam Modesty Rabnott''' was a [[Great Britain|British]] [[Wizardkind|witch]] who lived in [[Kent]] in the [[13th century]].<ref name="QTA4">{{QTA|R|4}}</ref>
+
+==Biography==
+Rabnott attended the game of ''Cuaditch'' (''[[Quidditch]]'') in [[1269]] where Chief of the [[Wizards' Council]] [[Barberus Bragge]] released a [[Golden Snidget]] onto the pitch. Appalled by the treatment of the [[bird]], Rabnott protested to Chief Bragge, but he laughed at her. Using the [[Summoning Charm]] to call the bird to her, Madam Rabnott stuffed the Snidget down the front of her robes and fled. Although she was caught, she managed to release the Snidget into the wild. While she feared that Chief Bragge would [[Human Transfiguration|turn]] her into a [[horned toad]], she was fined only ten [[Galleon]]s instead. Not able to afford the fine, she lost her house. Fortunately, however, they did not take [[Modesty Rabnott's hippogriff|her hippogriff]], allowing her to fly to [[Aberdeen]] to stay with her sister, [[Prudence]].<ref name="QTA4"/>
+
+The [[Modesty Rabnott Snidget Reservation]] was named in her honour by [[Elfrida Clagg]] when she banned the use of the Golden Snidget in Quidditch in the following century.<ref name="QTA4"/>
+==Magical abilities and skills==
+*'''[[Charm]]s''': According to herself, Madam Rabnott was very good at aiming at targets with the [[Summoning Charm]], and during the [[1269]] Quidditch match, she was able to successfully summon the [[Golden Snidget]] used in the match, showing her proficiency in this field of [[magic]].<ref name="QTA4"/>
+*'''[[Care of Magical Creatures]]''': Madam Rabnott owned a pet [[Modesty Rabnott's hippogriff|Hippogriff]], which she used to fly to [[Aberdeen]] with to live with her sister. This means she was skilled with the handling of [[magic]]al [[creature]]s, given how the [[Hippogriff]] is a rather difficult [[beast]] to tame.<ref name="QTA4"/>
+
+==Etymology==
+The name "Modesty" comes from the English word modesty, ultimately from Latin modestus "moderate", a derivative of modus "measure".<ref name="wiki">{{Wikilink|Modesty}}</ref>
+
+==Behind the scenes==
+*Modesty Rabnott is the favourite of [[Andrew Lincoln]], who narrated the 2018 audio edition of {{QTA|R}}; he believes she deserved her own spin-off series, worthy of a docudrama.<ref>[https://www.pottermorepublishing.com/watch-andrew-lincoln-discuss-his-quidditch-through-the-ages-audiobook/ News: "Watch Andrew Lincoln discuss his Quidditch Through the Ages audiobook"] at {{PM}} - {{c|stated during 1:19-1:44 of the interview video}} {{c|video currently unavailable}}</ref>
+
+==Appearances==
+*{{QTA|R}} {{1st Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Rabnott, Modesty}}
+[[de:Modesty Rabnott]]
+[[es:Modesty Rabnott]]
+[[fr:Modesty Rabnott]]
+[[pl:Modesta Rabnott]]
+[[pt-br:Modéstia Rabnott]]
+[[ru:Модести Рэбнотт]]
+[[zh:莫迪斯·拉布诺]]
+[[Category:Activists]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Rabnott family]]
+[[Category:Wizards]]

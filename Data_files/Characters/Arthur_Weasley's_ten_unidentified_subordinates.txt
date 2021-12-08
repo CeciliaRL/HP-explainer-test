@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Arthur Weasley's ten subordinates
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBP5"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="HBP5"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects]] employees<ref name="HBP5"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="HBP5"/>
+**[[Department of Magical Law Enforcement]]<ref name="HBP5"/>
+**[[Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects]]<ref name="HBP5"/>
+}}
+{{Quote|Yes, Rufus Scrimgeour has set up several new offices in response to the present situation, and Arthur's heading the Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects. It’s a big job, he's got ten people reporting to him now!|[[Molly Weasley]] tells [[Harry Potter]] of [[Arthur Weasley]]'s promotion in [[1996]].|Harry Potter and the Half-Blood Prince}}
+These '''ten individuals''' were [[wizardkind|wizards and witches]] who worked under [[Arthur Weasley]] in the [[Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects]] at the [[British Ministry of Magic|Ministry of Magic]] in [[1996]].<ref name="HBP5">{{HBP|B|5}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Ministry Level 2 employees}}
+
+[[es:10 subordinados no identificados de Arthur Weasley]]
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects personnel]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

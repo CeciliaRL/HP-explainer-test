@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Birch
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Trevor Birch]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mrs Birch''' was a [[Wizardkind|witch]] and the mother of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] student [[Trevor Birch]]. Trevor expressed his hope that she would give him a [[broomstick]] for [[Christmas]] in [[1996]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Appearances==
+*{{HBP|G}} {{Comment|Nintendo DS version only}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[pl:Pani Birch]]
+[[Category:British individuals|Birch, Mrs]]
+[[Category:Females|Birch, Mrs]]
+[[Category:Unnamed family members|Birch's mother]]
+[[Category:Wizards|Birch's mother]]

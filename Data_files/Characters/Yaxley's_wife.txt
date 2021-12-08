@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Cut content}}
+{{Individual infobox
+|theme=wizard
+|image=Unidentified witch in Ballroom.png
+|name=Yaxley's wife
+|born=
+|died=
+|blood=[[Pure-blood]]<ref name="status">Yaxley's family are part of the pure-blood supremacy group so it is most possible that he would want his wife as the same blood status.</ref>
+|marital=Married
+|nationality=
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="scene"/>
+|gender=Female<ref name="scene"/>
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=*[[Yaxley (1920s)|Yaxley]] (husband)
+*[[Corban Yaxley]] (possible relative)
+*[[Yaxley family]] (in-laws)
+|romances=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=[[Yaxley family]]
+}}
+{{Dialogue a-b|Yaxley|Meet my wife.|Theseus Scamander|Yaxley, sorry. Nice to see you.|[[Yaxley (1920s)|Yaxley]] and [[Theseus Scamander]] greet|Fantastic Beasts: The Crimes of Grindelwald}}
+This '''witch''' was a [[Great Britain|British]] [[Wizardkind|witch]], who was married to [[Yaxley (1920s)|Yaxley]]. She attended the [[British Ministry of Magic ball|British Ministry of Magic ball]].<ref name="scene">[https://www.youtube.com/watch?v=dE1rQCwjF_Y&t=175s/ Crimes of Grindelwald - Deleted Scenes]</ref>
+
+==History==
+[[File:Theseus shaking hands with Shafiq and Yaxley.png|200px|thumb|left|This witch with Yaxley, Shafiq, and Theseus]]
+In [[1927]], she attended a [[British Ministry of Magic ball|ball]] and stood by [[Yaxley (1920s)|her husband]] and [[Shafiq (1920s)|Shafiq]]. She was at that point introduced to [[Theseus Scamander]] and shook hands with him.<ref name="scene"/>
+
+==Appearances==
+*{{COG}} {{C|Deleted scene}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Wizards]]
+[[Category:Yaxley family]]

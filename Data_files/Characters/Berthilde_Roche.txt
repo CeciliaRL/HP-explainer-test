@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme=macusa
+|image=
+|name=Berthilde Roche
+|nationality=[[United States of America|American]]<ref name="WW"/>
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]<ref name="WW"/>
+|gender=Female<ref name="WW"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Auror]]<ref name="WW"/>
+|house=
+|loyalty=[[Magical Congress of the United States of America]]<ref name="WW"/>
+}}'''Berthilde Roche''' was an [[United States of America|American]] [[Wizardkind|witch]] and one of the original twelve [[Auror]]s in the [[Magical Congress of the United States of America]].<ref name="WW">{{WW|macusa}}</ref>
+
+She died before reaching "old age."<ref name="WW"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+{{DEFAULTSORT:Roche, Berthilde}}
+
+[[de:Berthilde Roche]]
+[[pl:Berthilde Roche]]
+[[ru:Бертильда Рош]]
+[[fr:Berthilde Roche]]
+[[de2:Berthilde Roche]]
+
+[[Category:17th century births]]
+[[Category:American individuals]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Original twelve MACUSA Aurors]]
+[[Category:Wizards]]

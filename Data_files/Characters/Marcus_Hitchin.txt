@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = 
+|born = [[31 August]] [[1982]] or earlier<ref name="age">He was at least in his first year at Hogwarts during the [[1993–1994 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPG"/>
+|gender = Male<ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Marcus Hitchin's mother|Mrs Hitchin]] (mother)<ref name="HBPG"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="HBPG">{{HBP|G}}</ref>
+|loyalty = *[[Hitchin family]]<ref name="HBPG"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPG"/>
+**[[Ravenclaw]]<ref name="HBPG"/>
+}}
+{{Quote|Have you seen our new [[Quidditch]] hopefuls? They're brilliant!|Marcus talking with [[Harry Potter]]|Harry Potter and the Half-Blood Prince (video game)}}
+'''Marcus Hitchin''' was a [[Wizardkind|wizard]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+He was known to have used [[Fred and George Weasley]]'s [[Skiving Snackbox]]es. Unlike most people who considered [[Horace Slughorn|Slughorn]] a placeholder, Trevor thought that he was a good teacher. One day, Slughorn was [[duelling]] Marcus and beat him. The blow was so powerful that he needed two days in the [[Hospital Wing]] to recover. He was a fan of [[Gilderoy Lockhart]].<ref name="HBPG"/>
+
+==Etymology==
+The name "Marcus" is a Roman praenomen, or given name, which was probably derived from the name of the Roman god Mars. Famous Roman bearers of this name were Marcus Tullius Cicero (known simply as Cicero), a 1st-century BC statesman and orator, Marcus Antonius (known as Mark Antony), a 1st-century BC politician, and Marcus Aurelius, a notable 2nd-century emperor.
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|console versions]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Hitchin, Marcus}}
+[[pl:Marcus Hitchin]]
+[[fr:Marcus Hitchin]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gilderoy Lockhart's fans]]
+[[Category:Hitchin family]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

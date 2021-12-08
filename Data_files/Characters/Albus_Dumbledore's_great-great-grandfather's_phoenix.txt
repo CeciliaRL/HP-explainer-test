@@ -1,0 +1,32 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = 
+|name = Albus Dumbledore's great-great-grandfather's phoenix
+|born = 
+|died = [[Immortality|Immortal]]<ref name="COG28"/>
+|alias = 
+|title = 
+|species = [[Phoenix]]<ref name="COG28"/>
+|gender = 
+|height = 
+|hair =
+|feathers = Red and gold<ref name="FBR"/>
+|eyes = Black<ref name="FBR">{{FB|R}}</ref>
+|skin = 
+|family = 
+|loyalty = [[Albus Dumbledore's great-great-grandfather]]<ref name="COG28"/>
+}}
+{{Quote|They say my great-greatgrandfather had one, but that it took flight when he died, never to return.|[[Albus Dumbledore]] talking to [[Newton Scamander]] about phoenixes|Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay}}
+This '''phoenix''' was owned by [[Albus Dumbledore]]'s [[Albus Dumbledore's great-great-grandfather|great-great-grandfather]], but once he died, the phoenix took flight to never return again.<ref name="COG28">{{COG|S|28}}</ref>
+
+==Appearances==
+*{{COG|S}} {{1st Mention}}
+*{{COG}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Black-eyed individuals]]
+[[Category:Dumbledore family possessions]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Pets]]
+[[Category:Phoenixes]]

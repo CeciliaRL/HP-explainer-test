@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|image=
+|theme=individual
+|name=Molly Weasley's second cousin
+|hideb=
+|species=[[Human]]<ref name="PS6" />
+|gender=Male<ref name="PS6" />
+|eyes=
+|hair=
+|born=
+|died=
+|family=
+*[[Gideon Prewett]] (second cousin)
+*[[Fabian Prewett]] (second cousin)
+*[[Molly Weasley]] (second cousin)<ref name="PS6" />
+|blood=[[Squib]] (possibly)
+|title=
+|alias=
+|job=*Accountant<ref name="PS6" />
+*Stockbroker<ref name="mafalda" />
+|marital =
+}}
+{{Dialogue a-b|[[Harry Potter]]|Are all your [[Weasley family|family]] [[Wizardkind|wizards]]?|[[Ronald Weasley|Ron Weasley]]|Er — yes, I think so. I think Mum's got a second cousin who's an accountant, but we never talk about him.|Ron Weasley mentioning this individual|Harry Potter and the Philosopher's Stone}}
+A male '''second cousin''' of [[Molly Weasley]] (née [[Prewett family|Prewett]]) became an accountant and/or a stockbroker in the [[Non-magic people|Muggle]] world.<ref name="PS6">{{PS|B|6}}</ref><ref name="mafalda">"[http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=3 Mafalda (Goblet of Fire)]" at [http://www.jkrowling.com J.K. Rowling Official Site] (archived [https://web.archive.org/web/20080317115534/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=3 here] via the Internet Archive's Wayback Machine)</ref> [[Ronald Weasley|Ron Weasley]] told [[Harry Potter]] that this man was never spoken of in the [[Weasley family|Weasley household]].<ref name="PS6" />
+
+==Behind the scenes==
+*[[J. K. Rowling]] revealed on her website that in an early draft of {{GOF}}, this character was married to a [[Non-magic people|Muggle]] [[Mafalda's mother|woman]], and, against all expectation, had fathered a daughter who was a [[Wizardkind|witch]], [[Mafalda]]. Although he had previously been rude to [[Arthur Weasley|Mr]] and [[Molly Weasley|Mrs Weasley]], he and his wife were to have sought the Weasley family's help in introducing Mafalda to wizarding culture when they learned that she would be attending [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].
+*The information on Rowling's website states that Molly's second cousin was a stockbroker.<ref name="mafalda" /> This conflicts with Ron Weasley's statement in ''[[Harry Potter and the Philosopher's Stone|Philosopher's Stone]]'' that he was an accountant.<ref name="PS6" /> However, it is possible that Ron, being unfamiliar with the Muggle world, was merely incorrect.
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{JKRS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[pl:Kuzyn Molly Weasley]]
+[[Category:Accountants]]
+[[Category:British individuals|Weasley's second cousin]]
+[[Category:Humans]]
+[[Category:Males|Weasley's second cousin]]
+[[Category:Unnamed family members‎|Weasley's second cousin]]

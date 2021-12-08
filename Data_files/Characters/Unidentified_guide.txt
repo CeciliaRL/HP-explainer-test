@@ -1,0 +1,32 @@
+{{Individual infobox
+|image = Guide.jpg
+|name = Unidentified guide
+|born = Before [[1927]]
+|nationality = [[United States of America|American]]<ref name="FBF"/>
+|species = [[Human]]<ref name="FBF"/>
+|gender = Female<ref name="FBF"/>
+|eyes = Brown<ref name="FBF"/>
+|skin = Dark<ref name="FBF"/>
+|job = Tour Guide<ref name="FBF"/>
+|loyalty = [[Magical Congress of the United States of America]]<ref name="FBF"/>
+|theme = macusa
+}}This '''individual''' was an [[United States of America|American]] [[Wizardkind|witch]] who worked as a tour guide for visitors around the [[Magical Congress of the United States of America]].<ref name="FBF"/>
+
+==Biography==
+In [[1927]], the guide was giving a visitor a tour around the [[Magical Congress of the United States of America]] building when [[Porpentina Goldstein]] was taking [[Newton Scamander]] in for exposing [[Magic]] in the [[Steen National Bank]].<ref name="FBF">{{FB|F}}</ref>
+
+==Behind the scenes==
+The Guide was portrayed by [[Christy Meyer]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{MACUSA}}
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

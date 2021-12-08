@@ -1,0 +1,41 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Calvert Tillery
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|nationality=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Calvert Tillery''' was a [[Wizardkind|wizard]].
+
+In the 21st century, the [[Calamity]] transported his copy of [[A Beginner's Guide to Transfiguration]] around the world.<ref>{{WU}}</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Tillery, Calvert}}
+[[Category: Males]]
+[[Category: Wizards]]

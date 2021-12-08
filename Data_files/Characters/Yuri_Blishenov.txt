@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Yuri Blishenov
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=Reporter for ''[[The Wizard's Voice]]''
+|house=
+|loyalty=''[[The Wizard's Voice]]''
+}}
+'''Yuri Blishenov''' was a reporter for the ''[[The Wizard's Voice]]'' in [[1926]].<ref name="newspaper">{{FB|F}} {{See image|File:The Wizard's Voice - 6 Dec 1926.png}}</ref> Reporting from [[Moscow]], he wrote an article about how the [[Dark Wizard|Dark wizard]] [[Gellert Grindelwald]] was still at large, which was published in the [[6 December]] 1926 issue of the newspaper.<ref name="newspaper" />
+
+==Appearances==
+*{{FB|F}} {{C|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Blishenov, Yuri}}
+[[fr:Yuri Blishenov]]
+[[pl:Yuri Blishenov]]
+[[ru:Юрий Блишенов]]
+[[Category:American individuals]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:The Wizard's Voice staff]]
+[[Category:Wizards]]

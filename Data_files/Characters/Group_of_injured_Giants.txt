@@ -1,0 +1,40 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = giant
+|image = 
+|name = Group of injured Giants
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Giant]]s<ref name="OOTP20"/>
+|gender = Males<ref name="OOTP20"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Giant colony]] (formerly)<ref name="OOTP20"/>
+*[[Order of the Phoenix]] {{Comment|possibly}}
+}}
+These three '''individuals''' were [[giant]]s who served under [[Gurg]] [[Karkus]] in the [[Giant colony]]. One of them were able to understand [[human]] language and translated what [[Rubeus Hagrid]] and [[Olympe Maxime]] said to Karkus. When [[Golgomath]] killed Karkus and became the new Gurg, the group had to serve under him instead. When Hagrid and Maxime visited them, they wanted to kill the visitor, but when Hagrid talked to them, the translator-Giant translated to the other Giants. For the first few days, the three got along well with the two envoys, and two envoys visited other wounded, reckon six or seven of them convinced at one point. but when Golgomath ordered his subordinates to raid the caves for any traitors, due to siding with the [[Death Eaters]], and decided to hunt down Hagrid and Maxime, the giants had no more loyalty to the [[Order of the Phoenix]].<ref name="OOTP20">{{OOTP|B|20}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Giants]]
+[[Category:Males]]

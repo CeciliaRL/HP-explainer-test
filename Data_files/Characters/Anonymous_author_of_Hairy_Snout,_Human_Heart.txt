@@ -1,0 +1,48 @@
+{{DISPLAYTITLE:Anonymous author of ''Hairy Snout, Human Heart''}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Author of ''Hairy Snout, Human Heart''
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = *[[Human]] (formerly)<ref name="FBR"/>
+*[[Werewolf]]<ref name="FBR"/>
+|gender = Male<ref name="FBR"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author<ref name="FBR"/>
+|house = 
+|loyalty = 
+}}
+This '''individual''' (fl. [[1975]]) was a [[Wizardkind|wizard]] and [[werewolf]]
+who preferred to remain anonymous. He wrote a heartrending account of his struggle against [[lycanthropy]] in the [[1970s]]. ''[[Hairy Snout, Human Heart]]'', the title of his book, was a classic by the [[1990s]].<ref name="FBR">{{FB|R}} - ''An A-Z of Fantastic Beasts''</ref>
+
+==Appearances==
+*{{FB|R}} {{1st Mention}}
+*{{TBB|R}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Auteur de Gueule de loup, cœur d'homme]]
+[[pl:Autor książki "Włochaty pysk, lecz dusza ludzka"]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Werewolves]]
+[[Category:Wizards]]

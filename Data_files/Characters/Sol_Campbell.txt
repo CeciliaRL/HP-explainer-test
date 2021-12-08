@@ -1,0 +1,37 @@
+{{Real world subject}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Sol Campbell
+|hideb=hide
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Professional footballer
+|loyalty=[[England national football team]]
+}}
+'''Sulzeer Jeremiah "Sol" Campbell''' was a professional [[football]] player who played for the [[England national football team]] by [[July]] of [[1997]]. By that time, he had played seventy games for the team, culminating in a win against [[Estonia national football team|Estonia]] at [[Wembley]] Stadium. When team captain [[John Terry]] showed signs of a reoccuring knee injury, manager [[Steve McClaren]] decided to have Campbell stand in for him at an upcoming game against [[Russia national football team|Russia]]. As noted by ''[[The Guardian]]'', this would be the first time since [[January]] of that year that Campbell made two appearances in that short of a time frame.<ref name="HPLEG">{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Appearances==
+*{{HBP|F}} {{1st Mention}}
+*{{HPLE|G}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Campbell, Sol}}
+[[Category:English individuals]]
+[[Category:Footballers]]
+[[Category:Males]]
+[[Category:Muggles]]

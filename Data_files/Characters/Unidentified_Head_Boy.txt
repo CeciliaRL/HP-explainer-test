@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified Head Boy
+|born = Between [[1 September]] [[1968]] and [[31 August]] [[1969]]{{Fact}}
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title =
+|signature = 
+|species = [[Human]]<ref name="HM33"/>
+|gender = Male<ref name="HM33"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = [[Unidentified Head Girl]]<ref name="HM33"/>
+|animagus =
+|boggart =
+|wand =
+|patronus =
+|job =
+|house =
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HM33"/>
+}}
+This '''student''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the late [[20th century]]. He was appointed the [[Head Boy or Girl|Head Boy]].<ref name="HM33"/>
+
+==Biography==
+This wizard began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1980]]. In his [[seventh year]], he was appointed the [[Head Boy or Girl|Head Boy]]. He dated the [[Unidentified Head Girl|Head Girl]], which might have been an unusual event.<ref name="HM33">{{HM|3|3}}</ref>
+
+==Possessions==
+*'''[[Head Boy or Girl badge|Head Boy badge]]''': He was awarded one of these special badges when he was made [[Head Boy or Girl|Head Boy]] at Hogwarts, for which he would have worn during his formal duties.<ref name="HM33"/>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==References==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Head Boys]]
+[[Category:Males]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Marcus Minugius
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Owner and/or founder of [[Marcus Minucius Myomancer]]
+|house = 
+|loyalty = 
+}}
+'''Marcus Minucius'''<ref name="behind MMM">[https://www.youtube.com/watch?v=PDPcGdt40RU Jim Kay Illustrator - Create Expo 2016] {{c|from 29:40 to 31:21}}</ref> was a [[wizardkind|wizard]] who presumably owned and/or founded the [[Diagon Alley]] shop [[Marcus Minucius Myomancer]].<ref name="COSIE">{{COS|IE}} {{see image|File:Marcus Minucius, Myomancer.png}}</ref>
+
+==Etymology==
+In {{w|Roman naming conventions}}, "Marcus" was a common [[Latin]] ''{{w|praenomen}}''<ref name="Roman names"/> (personal name) used by the {{w|gens}} {{w|Minucia gens|Minucia}};<ref>{{wikilink|Minucia gens}}</ref> the name survived the Roman Empire and has continued to be used in modern-days, in various forms.<ref>{{wikilink|Marcus (praenomen)}}</ref><ref>{{wikilink|Marcus (name)}}</ref>
+
+"Minucius" was the ''{{w|Nomen gentilicium|nomen}}''<ref name="Roman names"/> (designated name, signifying to be a member of a specific ''gens''<!-- "gens" is the singular form; plural "gentes"; do not wrongly removed the s -->) representing the gens Minucia.<ref>{{wikilink|Minucius}}</ref>
+==Behind the scenes==
+*Illustrator [[Jim Kay]] picked "Marcus Minucius" because of the {{w|Roman consul}} {{w|Marcus Minucius Rufus}} and his political enemy.<ref name="behind MMM"/>
+**In the real-world, as Marcus was a popular ''praenomen'', historically, there are a number of individuals with names using the combination "Marcus Minucius", such as {{w|Marcus Minucius Felix}} and {{w|Marcus Minucius Augurinus}}, amongst others.
+**In those cases, {{w|Minucius}} representing {{w|Minucia gens|gens Minucia}}, was an ancient [[Rome|Roman]] family.<ref name="Roman names">{{wikilink|Roman naming conventions}}</ref>
+
+==Appearances==
+*{{COS|IE}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley North Side}}
+{{DEFAULTSORT:Minucius, Marcus}}
+
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

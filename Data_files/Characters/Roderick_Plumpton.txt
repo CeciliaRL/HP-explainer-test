@@ -1,0 +1,93 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = quidditch-player
+|image = Rodrigo Plumpton.png
+|name = Rodrick Plumpton
+|born = [[1889]]
+|died = [[1987]] (aged 97 - 98)
+|blood = 
+|marital = 
+|nationality = [[England|English]]
+|alias = 
+|title = [[Seeker]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown<ref name="PSG">{{PS|G}}</ref>
+|eyes = Blue<ref name="PSG"/>
+|skin = Light<ref name="PSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Seeker]] for the [[Tutshill Tornados]] (formerly)
+*[[Seeker]] for the [[English National Quidditch team]]
+|house = 
+|loyalty = *[[Tutshill Tornados]]
+*[[English National Quidditch team]]
+}}
+[[File:Roderick Plumpton.png|311x311px|thumb|Plumpton on the English National Quidditch team]]
+'''Roderick Plumpton''' ([[1889]]-[[1987]]) was an [[England|English]] [[wizardkind|wizard]] who was the [[Seeker]] for the [[Tutshill Tornados]] [[Quidditch]] [[Quidditch team|team]] during the early 1900s. He invented the [[Plumpton Pass]] during a match against the [[Caerphilly Catapults]] in [[1921]], where he caught the [[Golden Snitch|Snitch]] after three and a half seconds, setting the British record for the fastest capture of the Snitch during a game.<ref name="QTAR">{{QTA|R}}</ref>
+
+Plumpton was also accomplished in the arts, having painted the [[Witch and Wizard Couple]], a painting of a medieval couple, currently hanging at [[Hogwarts Castle]].<ref name="HPLE">{{HPLE|PA}}</ref>
+
+==Biography==
+Plumpton led the Tornados to five consecutive [[League Cup]]s, and played Seeker for the [[English National Quidditch team]] twenty-two times. While critics allege his 'Plumpton Pass' was an accident, and the Snitch had merely flown up his sleeve, Plumpton insisted until his death that he meant to do it.<ref name="QTAR"/>
+
+At some point before he died, he signed a souvenir programme, which later made its way into the hands of [[Sage Bragnam]].<ref>{{FBC|5}}</ref>
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': Plumpton was a highly accomplished and proficient [[broomstick]] flyer, having played as [[Seeker]] for the [[Tutshill Tornados]] and the [[English National Quidditch team]]. He famously caught the [[Golden Snitch]] three and a half-seconds into a [[Quidditch]], setting a new record and establishing himself as a legend in the sport's history.<ref name="QTAR"/>
+*'''Artist''': Plumpton was also very talented in the visual arts, having painted a [[Witch and Wizard Couple]] [[portrait]] which hung in [[Hogwarts Castle]].<ref name="HPLE"/>
+
+==Etymology==
+The name "Roderick" means "famous power" from the Germanic elements hrod "fame" and ric "power". This name was in use among the Visigoths; it was borne by their last king (also known as Rodrigo), who died fighting the Muslim invaders of Spain in the 8th century. It also had cognates in Old Norse and West Germanic, and it was introduced to England by Scandinavian settlers and the Normans, though it died out after the Middle Ages. It was revived in the English-speaking world by Sir Walter Scott's poem 'The Vision of Don Roderick' (1811).
+
+==Appearances==
+{{Imagecat|Images of Roderick Plumpton}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{QTA|R}}
+*{{FBC}} {{Mention}}
+*{{WU}} {{Mention}}
+*{{HM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=[[Seeker]] of the [[English National Quidditch team]]
+|years=?-?
+|successor=[[Blythe Parkin]]
+}}
+{{End box}}
+
+{{Quidditch positions}}
+{{Chocolate Frog Cards}}
+
+{{DEFAULTSORT:Plumpton, Roderick}}
+
+[[de:Roderick Plumpton]]
+[[fr:Roderick Plumpton]]
+[[fi:Roderick Plumpton]]
+[[es:Roderick Plumpton]]
+[[nl:Roderick Pineut]]
+[[pl:Roderick Plumpton]]
+[[ru:Родерик Пламптон]]
+[[pt-br:Rodrigo Plumpton]]
+[[Category:1889 births]]
+[[Category:1987 deaths]]
+[[Category:Artists]]
+[[Category:Blue-eyed individuals]]
+[[Category:English individuals]]
+[[Category:Gold Chocolate Frog Cards]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Wizards]]

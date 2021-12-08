@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mr Trelawney
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[half-blood]]
+|marital = Married
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Sybill Trelawney's mother|Mrs Trelawney]] (wife)
+*[[Sybill Trelawney]] (daughter)
+*[[Higglebottom]] (ex-son-in-law)
+*[[Cassandra Trelawney]] (great-grandmother)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Trelawney family]]
+}}
+'''Mr Trelawney''' was a [[wizardkind|wizard]].<ref name="PM">{{WW|sybill-trelawney}}</ref> He was the great-grandson of the famous [[Seer]] [[Cassandra Trelawney]].<ref name="PM" /> However, along with the two generations of [[Trelawney family|Trelawneys]] preceding him, he did not possess the gift of [[Divination|Second Sight]].<ref name="ootp15">{{OOTP|B|15}}</ref> He married a [[Non-magic people|Muggle]] [[Sybill Trelawney's mother|woman]], and together they had a daughter, [[Sybill Trelawney|Sybill]], who turned out to have limited Sight.<ref name="PM" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Ojciec Sybilli Trelawney]]
+{{DEFAULTSORT:Trelawney, Sybill's father}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Trelawney family|Trelawney]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

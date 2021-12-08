@@ -1,0 +1,28 @@
+{{Individual infobox
+|image = [[File:Loretta Fieldwake.jpg|250px]]
+|name = Loretta Fieldwake
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Female
+|family = *[[Fieldwake family]]
+*[[Franciscus Fieldwake]] (possibly)
+|loyalty = [[Fieldwake family]]
+|theme = wizard
+}}'''Loretta Fieldwake''' was an  [[United States of America|American]] [[wizardkind|wizarding]] criminal who operated in the [[1920s]].<ref name="cob">{{CB|119}} {{See image|File:Loretta Fieldwake - wanted poster.png}}</ref>
+
+==Biography==
+In or around [[1926]], the [[Magical Congress of the United States of America]] issued a wanted poster for Fieldwake, stating that she was wanted for [[Non-magic people|No-Maj]] & [[House-elf|Elf]] murder and "bearing wand, most menacing and extremely dangerous."<ref name="cob" /> A reward of 2500 [[Dragot]]s was offered for information leading to her capture.<ref name="cob" />
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+*{{CB}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT: Fieldwake, Loretta}}
+[[fr:Loretta Fieldwake]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Fieldwake family]]
+[[Category:Murderers]]
+[[Category:Wizards]]

@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = mom
+|image = [[File:Hector Podmore FB1.png|250px]]
+|name = Hector Podmore
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBS"/>
+|alias = 
+|title = [[Minister]]
+|signature = 
+|species = [[Human]]<ref name="FBS"/>
+|gender = Male<ref name="FBS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Podmore family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Minister in the [[British Ministry of Magic]]<ref name="FBS"/>
+*British Envoy to the [[International Confederation of Wizards]]<ref name="FBS"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="FBS"/>
+*[[International Confederation of Wizards]]<ref name="FBS"/>
+}}
+'''Hector Podmore''' was a [[Great Britain|British]] [[wizardkind|wizard]] who worked as a [[Minister]] in the [[British Ministry of Magic]].<ref name="FBS"/>
+
+==Biography==
+On [[6 December]] [[1926]], he attended an emergency meeting of the [[International Confederation of Wizards]] to discuss the [[magic]]al disturbances happening in [[New York]]. He questioned [[Newton Scamander|Newt Scamander]] about his reasons for being in New York and was sceptical of the reply that he was there to buy an [[Appaloosa Puffskein]].<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+*Hector Podmore was portrayed by [[Richard Clothier]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'', but was credited only as "British Envoy".<ref>[http://www.unitedagents.co.uk/richard-clothier United Agents - Richard Clothier]</ref><ref>{{IMDb name|nm0167134|Richard Clothier}}</ref>
+*Interestingly, the Minister for Magic during the time period was [[Hector Fawley]]; it is possible he was intented to be this character but there having been a mix-up with the names. He could also have have been just a senior Ministry official, as the title of [[Minister]] has been used elsewhere in canon to refer to high-ranking individuals within the Ministry's Departments.
+*Alternatively, the title of Minister might, in this case, indicate that Hector Podmore was a diplomat. In the real world, a Minister (in full, "[[Wikipedia:Envoy (title)|Envoy Extraordinary and Minister Plenipotentiary]]", also referred simply as "envoy") was a diplomatic head of mission of the second class (ranked below Ambassador); the position was commonplace in the time period {{FB|F}} is set, but became obsolete after the Second World War as most countries upgraded their [[Wikipedia:Diplomatic rank|diplomatic rank]] to ambassadorial.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+{{ICW}}
+{{DEFAULTSORT:Podmore, Hector}}
+[[de:Hector Podmore]]
+[[de2:Hector Podmore]]
+[[es:Héctor Podmore]]
+[[fr:Hector Podmore]]
+[[pl:Hektor Podmore]]
+[[pt-br:Hector Podmore]]
+[[ru:Гектор Подмор]]
+[[Category:British individuals]]
+[[Category:International Confederation of Wizards members]]
+[[Category:Males]]
+[[Category:Podmore family]]
+[[Category:Wizards]]

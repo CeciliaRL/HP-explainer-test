@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Unidentified Muggle man
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="POAF"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAF"/>
+|gender = Male<ref name="POAF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Right! You gonna move that bus or what?|The man to a bus driver|Harry Potter and the Prisoner of Azkaban (film)}}
+This '''[[Human|man]]''' was a [[Non-magic people|Muggle]] who was very irritated at a bus driver saying that he should move it.<ref name="POAF">{{POA|F}}</ref>
+
+==Appearances==
+*{{POA|F}} {{1st}} {{Comment|Heard}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

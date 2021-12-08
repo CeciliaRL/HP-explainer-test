@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Albert Tillyman
+|born = 
+|died = [[1875]]
+|blood = 
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Violet Tillyman]] (wife)
+*[[Violet Tillyman's mother|Mother-in-law]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Albert Tillyman''' (died [[1875]]) was [[wizardkind|wizard]] who lived in the [[19th century]]. He was described as being "suspicious" and "a bit of a bully."<ref name="PM">{{WW|the-floo-network}}</ref>
+
+==Biography==
+In [[1855]], Albert had a nasty row with his wife, [[Violet Tillyman|Violet]], leading her to [[Floo Network|jump into the living room fireplace]] in tears and declare — between sobs and hiccups — that she wanted to go to [[Violet Tillyman's mother|her mother's]] [[Violet Tillyman's mother's house|house]].<ref name="PM"/>
+
+Two weeks later, Violet had still not returned, and as a result the house had become very untidy, with no clean pots to be found in the kitchen and Albert's socks in dire need of washing. Thus, Albert decided it was time for his wife to come home, and went to see his mother-in-law. To his surprise, however, she claimed that Violet had never arrived there. After he raged and searched the house, Albert finally accepted his mother-in-law was telling the truth, and that Violet was indeed missing. In an effort to find her, posters were put up and a series of articles were run in the ''[[Daily Prophet]]'', but to no avail.<ref name="PM"/>
+
+Albert Tillyman was forced to grumpily return to his house and master [[cleaning spell|cleaning]] and [[darning spell]]s. He never used the [[Floo Network]] again out of the fear that he would vanish into thin air as his wife apparently had.<ref name="PM"/>
+
+Albert died in [[1875]], never learning that his wife had in fact accidentally emerged in the fireplace of [[Myron Otherhaus]] in [[Bury St Edmunds]], due to the incoherent way she had spoken when she had used the [[Floo Powder]]. Myron and Violet fell in love instantly, and lived in seclusion in his house for twenty years, having [[Violet Tillyman's seven children|seven children]] during that time. It was only after Violet learned of Albert's death that she decided to publicly resurface.<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Tillyman, Albert}}
+[[de:Albert Tillyman]]
+[[pl:Albert Tillyman]]
+[[Category:19th century deaths]]
+[[Category:British individuals]]
+[[Category:Bullies]]
+[[Category:Deceased individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Omar Shaw
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his first year at Hogwarts during the 1993-1994 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+'''Omar Shaw''' was a [[Wizardkind|wizard]] and [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="POAG">{{POA|G}}</ref><ref name="HBPG">{{HBP|G}}</ref>
+
+==Biography==
+He was fond of [[Weasleys' Wizard Wheezes]], and, while at school during the [[1996-1997 school year]], he traded [[Stink Pellets]], [[Fanged Frisbee]]s, and [[Ever-Bashing Boomerang]]s he had purchased at the store for various objects ([[Gobstones]], [[Chocolate Frog Card]]s, [[Wizard's Chess|chess]] pieces, and [[Butterbeer]]). He could usually be seen spending time in the [[The Quad|Paved Courtyard]].<ref name="HBPG"/>
+
+==Etymology==
+The name "Omar" means "eloquent speaker" in Hebrew and "long-lived" in Arabic.
+
+==Behind the scenes==
+*This particular student was only featured in the [[Harry Potter and the Prisoner of Azkaban (video game)|console version]] of {{POA}} and the [[Harry Potter and the Half-Blood Prince (video game)|Nintendo DS version]] of {{HBP}}.
+
+==Appearances==
+*{{POA|G}} {{1st}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Shaw, Omar}}
+[[pl:Omar Shaw]]
+[[fr:Omar Shaw]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

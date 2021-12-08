@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:KevinBletchley.png|250px]]
+|name = Kevin Bletchley
+|born = [[31 August]] [[1982]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Keeper]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="QWC"/>
+|eyes = Green<ref name="QWC"/>
+|skin = Light<ref name="QWC"/>
+|family = *[[Bletchley]] (possibly)
+*[[Bletchley (musician)|Madame Bletchley]] (possibly)
+*[[Miles Bletchley]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="QWC"/>
+|loyalty = *[[Bletchley family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+***[[Slytherin Quidditch team]]<ref name="QWC"/>
+}}
+'''Kevin Bletchley''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]]. He was [[Sorting ceremony|sorted]] into [[Slytherin]] and played as [[Keeper]] on the [[Slytherin Quidditch team]].<ref name="QWC">{{QWC}}</ref>
+
+==Etymology==
+"Kevin" is the anglicised form of the Irish name ''Caoimhín'', derived from the older Irish ''Cóemgein'', composed of the Old Irish elements ''cóem'' "kind, gentle, handsome" and ''gein'' "birth". Saint Caoimhín established a monastery in Glendalough, Ireland in the 6th century and is the patron saint of Dublin. It became popular in the English-speaking world outside of Ireland in the 20th century.
+
+Bletchley is a small Market town (now situated within Milton Keynes) in Buckinghamshire - home of Bletchley Park, the enigma code breaking machine.
+
+==Behind the scenes==
+*It is very likely that Kevin Bletchley was actually intended to be [[Miles Bletchley]], the Slytherin Keeper from the novels and films, but it is also possible that Miles does not exist in [[Harry Potter: Quidditch World Cup|this game]].
+
+==Appearances==
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Bletchley, Kevin}}
+
+[[es:Kevin Bletchley]]
+[[ru:Майлз Блетчли]]
+[[pl:Kevin Bletchley]]
+[[Category:20th century births]]
+[[Category:Bletchley family]]
+[[Category:British or Irish individuals]]
+[[Category:Green-eyed individuals]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

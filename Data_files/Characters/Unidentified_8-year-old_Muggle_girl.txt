@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = 8-year-old Muggle girl
+|born = [[1983]]
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|8-year-old [[Non-magic people|Muggle]] girl found with [[wand]].|''[[Daily Prophet]]'' headline.|Harry Potter and the Philosopher's Stone (film)}}
+This '''unidentified Muggle girl''' (b. [[1983]]) was found, in [[1991]], to have a [[wand]] in her possession. This event made the [[Daily Prophet]] headlines.<ref name="PSf">{{PS|F}} - see [[:File:DPpropPSback.jpg|this image]].</ref>
+
+==Appearances==
+*{{PS|F}} {{Comment|Mentioned on a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1983 births]]
+[[Category:British individuals]]
+[[Category:Females]]
+
+[[Category:Unidentified Muggles‎]]

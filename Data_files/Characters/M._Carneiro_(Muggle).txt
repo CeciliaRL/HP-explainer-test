@@ -1,0 +1,49 @@
+{{Youmay|[[M. Carneiro (Muggle)|the muggle]]|[[M. Carneiro (wizard)|the wizard]]}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = M. Carneiro
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Stage director
+*Production designer
+|house = 
+|loyalty = 
+}}
+'''M. Carneiro''' was a [[Non-magic people|Muggle]] [[wikipedia:theatre director|stage director]] and [[wikipedia:scenic design|production designer]]. Carneiro directed and designed the adapted production of ''[[Romeo and Juliet]]'' that was staged at the [[Regency Playhouse]] in the summer of [[1997]].<ref>{{HPLE|G}} {{see image|File:Romeo&JulietDetail.png}}</ref>
+
+==Behind the scenes==
+*This character was presumably named after Mauricio Carneiro, who worked as a costume illustrator for every [[Harry Potter films|''Harry Potter'' film]] from ''[[Harry Potter and the Goblet of Fire (film)|Goblet of Fire]]'' onward, and as a costumer for ''[[Harry Potter and the Order of the Phoenix (film)|Order of the Phoenix]]'' and ''[[Harry Potter and the Half-Blood Prince (film)|Half-Blood Prince]]''.<ref>"[http://www.imdb.com/name/nm1769188/ Mauricio Carneiro]" on IMDb</ref>
+
+==Appearances==
+*{{DH|F1}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Carneiro, M.}}
+
+[[fr:M. Carneiro (Moldu)]]
+[[de2:M. Carneiro (Muggel)]]
+[[vi:M. Carneiro (Muggle)]]
+[[Category:British individuals]]
+[[Category:Directors]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Muggles]]

@@ -1,0 +1,41 @@
+{{Transcribed image|File:DivinationGraffitiWall.jpg}}
+{{Individual infobox
+|theme=wizard
+|image=Flowerday.jpg
+|name=Fenella Flowerday
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Fenella Flowerday''' was a [[Wizardkind|witch]] whose name was carved into a wood panel on the wall of [[Sybill Trelawney|Professor Trelawney's]] [[Divination (class)|Divination]] [[Divination Classroom|classroom]].<ref>{{POA|F}} - Chapter 21 (''Professor Trelawney's Prediction'') {{see image|File:Flowerday.jpg}}</ref><ref name="HPLE">{{HPLE|G}} {{see image|File:DivinationGraffitiWall.jpg}}</ref>
+
+==Appearances==
+*{{POA|F}} {{Comment|Name seen on wood panel}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Flowerday, Fenella}}
+[[Category:Females]]
+[[Category:Wizards]]

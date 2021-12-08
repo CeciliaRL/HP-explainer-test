@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Shikoba Wolfe
+|hideb=
+|born=In or before [[1909]] (likely)<ref>{{FB|F}} {{see image|File:Wand Permit - full.png}} - He or she was likely of age by the time he or she was a recognised wandmaker in 1926.</ref>
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Wandmaker]]
+|house=
+|loyalty=
+}}'''Shikoba Wolfe''' was an [[United States of America|American]] [[wizardkind|wizard or witch]].<ref name="pottermore-1920s">{{WW|1920s-wizarding-america-en}}</ref> Wolfe, along with [[Johannes Jonker]], [[Thiago Quintana]], and [[Violetta Beauvais]], was one of the four [[wandmaker]]s who served [[North America]] during the early [[20th century]].<ref name="pottermore-1920s" />
+
+==Biography==
+Of [[Choctaw]] descent, Wolfe was best known for crafting [[wand]]s that were intricately carved. Wands made by Wolfe contained [[Thunderbird]] [[Thunderbird tail feather|tail feathers]] as [[Wand core|cores]] and were generally believed to be extremely powerful, but difficult to master. They were especially sought after by practitioners of [[Transfiguration]].<ref name="pottermore-1920s" />
+
+==History==
+Shikoba Wolfe was mentioned on a Shikoba Wolfe Fine Wands advert in [[The New York Ghost]] in [[1926]].<ref name="FBF">{{see image|File:New York Ghost - 2 December 1926.jpg}}</ref>
+
+==Behind the scenes==
+*This individual's gender is left unspecified on {{PM}}. Various official translations vary the gender. In its native language of Choctaw it is gender neutral, however historically its more often used as a female name.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{FB|F}} {{C|Mentioned on a newspaper and wand permit application}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Wolfe, Shikoba}}
+[[de:Shikoba Wolfe]]
+[[pl:Szikoba Wolfe]]
+[[fr:Shikoba Wolfe]]
+[[ru:Шикоба Вольф]]
+[[Category:American individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wandmakers]]
+[[Category:Wizards]]

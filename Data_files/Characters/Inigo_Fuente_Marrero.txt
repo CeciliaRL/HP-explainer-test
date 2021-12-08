@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Harry Potter- Quidditch World Cup 03.jpg|250px]]
+|name = 
+|born = Before [[1977]], [[Spain]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Spain|Spanish]]<ref name="QWC"/><ref name="HBPG"/>
+|alias = 
+|title = [[Seeker]]<ref name="QWC"/><ref name="HBPG"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/><ref name="HBPG"/>
+|gender = Male<ref name="QWC"/><ref name="HBPG"/>
+|height = 
+|weight = 
+|hair = Dark Brown<ref name="QWC"/><ref name="HBPG"/>
+|eyes = Brown<ref name="QWC"/><ref name="HBPG"/>
+|skin = White (Tanned)<ref name="QWC"/><ref name="HBPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] for the [[Spanish National Quidditch team]]<ref name="QWC"/><ref name="HBPG"/>
+|house = 
+|loyalty = [[Spanish National Quidditch team]]<ref name="QWC"/><ref name="HBPG"/>
+}}
+'''Inigo Fuente Marrero''' was a [[Spain|Spanish]] [[wizardkind|wizard]] who played as [[Seeker]] on the [[Spanish National Quidditch team]] in [[1994]].<ref name="QWC">{{QWC}}</ref>
+
+In the [[1996–1997 school year]], Marrero's [[Chocolate Frog Card]] could be won by beating [[Fay Dunbar]] in a [[Gobstones]] challenge.<ref name="HBPG">{{HBP|G}} {{c|NDS edition}}</ref>
+
+==Etymology==
+The name "Íñigo" is a [[Middle Ages|Medieval]] Spanish form of ''Eneko'', which means "ardent" or "fiery". Together with teammate [[Tiago Montoya]], the name may be a reference to Íñigo Montoya from the romantic comedy fantasy novel (and the [[wikipedia:The Princess Bride (film)|film]] adaptation) ''[[wikipedia:The Princess Bride|The Princess Bride]]''. It was also the birth name of Saint Ignatius of Loyola, who changed it in honour of Saint Ignatius of Antioch. As such, this name is sometimes regarded as a form of ''Ignatius''.
+
+"Fuente" means "Fountain" in Spanish, and "Marrero" is an occupational name for a stone breaker ("''marrero''"), a derivative of "marra", which means "hammer".<ref name="ancestry">[http://www.ancestry.com/name-origin?view=1&surname=marrero Ancestry]</ref>
+
+==Appearances==
+*{{HBP|G}} {{NDS only}} {{FWC}}
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Fuente Marrero, Inigo}}
+
+[[fr:Inigo Fuente Marrero]]
+[[pl:Iñigo Fuente]]
+[[ru:Иниго Фуэнте Марреро]]
+[[Category:Black-eyed individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Spanish individuals]]
+[[Category:Wizards]]

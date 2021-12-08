@@ -1,0 +1,36 @@
+{{Conjecture}} 
+{{Pet individual infobox
+|image = 
+|name = Crispin Cronk's sphinxes
+|born = Before or during the [[19th century]]
+|died = 
+|alias = 
+|title = 
+|species = [[Sphinx]]es
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Crispin Cronk]] (former owner)
+}}
+'''[[Crispin Cronk]]'s sphinxes''' were several pet [[Sphinx]]es that [[Crispin Cronk]] insisted on keeping in his backyard.<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+
+==History==
+During the [[19th century]], the domestication and private ownership of [[Sphinx]]es was illegal and, after Cronk refused to hand his sphinxes over to the [[British Ministry of Magic]], the Ministry was forced to convict Cronk and send him to [[Azkaban]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+It is unknown what happened to Cronk's sphinxes after this point, however, it is presumed that they were taken into the care of the [[Beast Division]] of the [[Department for the Regulation and Control of Magical Creatures]] and returned to their native land of [[Egypt]].
+
+==Appearances==
+*{{PS|G}} {{FWC mention}}
+*{{COS|G}} {{FWC mention}}
+*{{POA|G}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Personal possessions]]
+[[Category:Pets]]
+[[Category:Sphinxes]]

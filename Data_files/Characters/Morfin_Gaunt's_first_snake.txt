@@ -1,0 +1,33 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = Gaunt.jpg
+|name = Morfin Gaunt's first snake
+|born = 
+|died = Before [[1925]]
+|alias = 
+|title = 
+|species = [[Snake]]<ref name="HBP10"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Morfin Gaunt]] (owner)<ref name="HBP10"/>
+}}
+{{Dialogue a-b|Cecilia|Tom, I might be wrong — but has somebody nailed a snake to that door?|Tom Riddle Senior|Good lord, you’re right! That’ll be the son, I told you he’s not right in the head. Don’t look at it, Cecilia, darling.|Cecilia and Tom Riddle Senior's disgust at the sight of this dead snake|Harry Potter and the Half-Blood Prince}}
+This '''[[snake]]''' was presumably a pet of [[pure-blood]] [[Wizardkind|wizard]] [[Morfin Gaunt]], and was owned by him sometime before [[Bob Ogden]]'s visit to [[House of Gaunt|his family]]'s [[Gaunt Shack|home]] in [[1925]]. The snake had presumably done something to upset Morfin, as he killed it and nailed it to the shack's door sometime prior to this event. He would later threaten the same fate to [[Morfin Gaunt's second snake|another snake]] he owned, presumably as a replacement for the first. [[Tom Riddle Senior]] and his "darling", [[Cecilia]], would later react with shock and disgust at the sight of the dead snake on display, seeing it as further proof of the talk in [[Little Hangleton]] about Morfin's madness.<ref name="HBP10">{{HBP|B|10}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Premier serpent de Morfin Gaunt]]
+[[pt-br:Primeira Cobra de Morfino Gaunt]]
+[[Category:Deceased individuals]]
+[[Category:Gaunt family pets]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Morfin Gaunt's possessions]]
+[[Category:Snakes]]

@@ -1,0 +1,32 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:Giffard Abbott's dog.png|150px]]
+|name = Giffard Abbott's dog
+|born = 
+|died = Before [[1989]]
+|alias = 
+|title = 
+|species = [[Dog]]<ref name="OOTPG"/>
+|gender = Male<ref name="OOTPG"/>
+|height = 
+|hair = Light brown<ref name="OOTPG"/>
+|feathers = 
+|eyes = Dark<ref name="OOTPG"/>
+|skin = 
+|family = 
+|loyalty = [[Giffard Abbott]] (owner)<ref name="OOTPG"/>
+}}
+[[Giffard Abbott]] had a '''[[dog]]'''. It was included in his [[portrait]] hung at [[Hogwarts Castle]]. When one said the password to Giffard's portrait, his dog became startled and started barking loudly.<ref name="OOTPG">{{OOTP|G}}</ref>
+
+==Appearances==
+*{{OOTP|G}} {{1st}} {{portrait}}
+*{{HBP|G}} {{portrait}}
+*{{HM}} {{portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Pies Giffarda Abbotta]]
+[[Category:Individual dogs]]
+[[Category:Males]]
+[[Category:Paintings of creatures]]

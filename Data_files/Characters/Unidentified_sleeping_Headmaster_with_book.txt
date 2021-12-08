@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=hogwarts-staff
+|image= [[File:UnidentifiedSleepingHeadmasterWithBook-small.png|250px]]
+|name= Unidentified sleeping Headmaster with book
+|hideb=
+|born=
+|died= Before [[1943]]
+|blood=
+|alias=
+|title=*[[Professor]]
+*[[Headmaster]]
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=Light
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job= Headmaster of Hogwarts School
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''wizard''' was appointed [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] at some unknown time. After his death, his [[portrait]] was hung in the [[Headmaster's office]], in order to give advice to the current head. This wizard's hair is in the style of portraits painted during the reign of King Charles II of England ([[1630]] - [[1685]]).<ref>[[The Paintings of Hogwarts: Masterpieces from the School of Witchcraft and Wizardry Sets]]</ref> He was portrayed sleeping on an chair with a book in hand.
+
+==Appearances==
+*{{MHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

@@ -1,0 +1,47 @@
+{{Conjecture}} 
+{{Individual infobox
+|theme = portrait
+|image = [[File:Mad old man.jpg|250px]]
+|name = Portrait of a mad old man
+|born = 
+|died = Before [[1993]]<ref name="POAF"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAF"/>
+|gender = Male<ref name="POAF"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="POAF"/>
+|eyes = 
+|skin = White<ref name="POAF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAF"/>
+}}
+{{Dialogue a-b-a|Mad old man|Watch it there boy.|Sleeping hermit|We're trying to sleep here!|Yes we are.|This portrait and [[Portrait of a sleeping hermit|another]] to [[Harry Potter]].|Harry Potter and the Prisoner of Azkaban (film)}}
+This '''[[portrait]]''' depicted a [[Insanity|mad]] old man, and it was hung at [[Hogwarts Castle]], in the [[Lower Chambers Portrait Corridor]], next to a [[portrait of a sleeping hermit]].<ref name="POAF">{{POA|F}} - Chapter 17 (''Who's There?'')</ref>
+
+==Behind the scenes==
+*This portrait is depicted wearing an upside-down funnel as a hat. The inverted funnel has, since the Middle Ages, been used to represent the mad. It has, therefore, appeared in several artistic depictions of mad men through the centuries such as [[Wikipedia:Hieronymus Bosch|Hieronymus Bosch]]'s ''[[Wikipedia:Ship of Fools (painting)|The Ship of Fools]]'' and ''[[Wikipedia:Allegory of Gluttony and Lust|Allegory of Gluttony and Lust]]'', and, more recently and perhaps more notably, is present in many depictions of the Tin Woodman of [[Wikipedia:L. Frank Baum|L. Frank Baum]]'s classic novel ''[[Wikipedia:The Wonderful Wizard of Oz|The Wonderful Wizard of Oz]]'', although that is never specifically mentioned in the story - it stemmed from W.W. Denslow's original illustrations for the book.
+
+==Appearances==
+*{{POA|F}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts below ground floor}}
+[[es:Retrato de un anciano loco]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Eunice Cabanart
+|born = Pre [[1927]], [[France]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[France|French]]<ref name="AM"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="AM"/>
+|gender = Female<ref name="AM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employee in the [[Bureau de la Justice Magique]]<ref name="AM"/>
+|house = 
+|loyalty = *[[French Ministry of Magic]]<ref name="AM"/>
+**[[Bureau de la Justice Magique]]<ref name="AM"/>
+}}
+'''Eunice Cabanart''' was a [[France|French]] [[Wizardkind|witch]] and worked in the [[Bureau de la Justice Magique]] in the [[French Ministry of Magic]] in [[1927]].<ref name="AM">{{AM}}</ref>
+
+==Appearances==
+*{{AM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Cabanart, Eunice}}
+[[Category:Females]]
+[[Category:French Ministry of Magic employees]]
+[[Category:Wizards]]
+[[es:Eunice Cabanart]]

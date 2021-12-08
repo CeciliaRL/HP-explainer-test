@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Mrs Moody
+|born = 
+|died = Before 1997<ref>[[Alastor Moody]]'s [[:File:AlastorMoodyMinistryFile.png|ministry file]] states that he has no living family. Therefore, his parents must have both been deceased by [[1997]].</ref>
+|blood = [[Pure-blood]]<ref name="moodyfile">{{DH|F1}} {{see image|File:AlastorMoodyMinistryFile.png}}</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Alastor Moody's father|Mr Moody]] (husband) †
+*[[Alastor Moody]] (son) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Auror]]
+|house = 
+|loyalty = *[[Moody family]]
+*[[British Ministry of Magic]]
+**[[Auror Office]]
+}}
+'''Mrs Moody''' was a [[pure-blood]]<ref name="moodyfile" /> [[wizardkind|witch]] who worked as an [[Auror]].<ref name="MoodyFactFile">{{PM}} - "[https://www.pottermore.com/explore-the-story/alastor-moody Explore the Story: Alastor Moody]"</ref> She married a [[Alastor Moody's father|fellow Auror]], and together they had at least one child, a son, [[Alastor Moody|Alastor]].<ref name="moodyfile" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Moody, Mrs}}
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Moody family]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

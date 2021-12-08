@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=hogwarts-staff
+|image=File:Unidentified_Sleeping_Headmaster_with_Starmap.jpg|250px
+|name=Unidentified sleeping Headmaster with starmap
+|hideb=
+|born=
+|died=[[1990s]] or earlier<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, this headmaster must have died sometime in or before the [[1990s]], given his portrait's appearance in the [[Headmaster's office]] set at {{MHP}}.</ref>
+|blood=
+|alias=
+|title=*[[Professor]]
+*[[Headmaster]]
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=Light
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job= Headmaster of Hogwarts School
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''wizard''' was appointed [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] at some unknown time.<ref name="mohp">{{MHP}} {{See image|File:MoHP-Headmaster_with_starmaps-text.png}}</ref> After his death,<ref name="DOD" /> his [[portrait]] was hung in the [[Headmaster's office]], in order to give advice to the current head.<ref name="mohp" /> He was depicted sleeping in an chair while studying a book with a celestial globe on the table.<ref name="mohp" />
+
+==Behind the scenes==
+*This portrait was painted by artist [[Steve Mitchell]].<ref>[http://www.stevemitchellscenicartist.co.uk/photo_11369132.html Portrait page] on Steve Mitchell's official site</ref> Mitchell created several portraits for the [[Harry Potter films|''Harry Potter'' films]].<ref>[http://www.stevemitchellscenicartist.co.uk/section694708_572232.html Portrait portfolio] on Steve Mitchell's official site</ref>
+*The portrait that hangs in the Headmaster's office set at {{MHP}} contains text in the upper right corner that was not present on the original portrait by Steve Mitchell.
+
+==Appearances==
+*{{MHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

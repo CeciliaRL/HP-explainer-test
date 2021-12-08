@@ -1,0 +1,81 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Glanmore Peakes1.jpg|250px]]
+|name = Glanmore Peakes
+|born = [[1677]]<br/>[[Scotland]], [[Great Britain]]<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|died = [[1761]] (aged 83-84)<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|blood = 
+|marital = 
+|nationality = [[Scotland|Scottish]]<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|gender = Male<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|height = 
+|weight = 
+|hair = Red<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|eyes = Blue<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|skin = Light<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+|family = *[[Jimmy Peakes]] (possible relative)
+*[[Sean Peakes]] (possible relative)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Peakes family]]<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+}}
+'''Glanmore Peakes''' ([[1677]] – [[1761]]) was a [[Scotland|Scottish]] [[Wizardkind|wizard]] who was famous for having slain the [[Sea Serpent of Cromer]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>
+
+==Biography==
+[[File:Glanmore_Peakes.jpg|thumb|left|150px|Glanmore Peakes immortalised on a [[Chocolate Frog Card]]]]
+Peakes was born in 1677, in Scotland, [[Great Britain]].<ref name="PSG"/>
+
+Sometime after graduating, Peakes killed the [[Sea Serpent of Cromer]], a [[sea serpent]] that lived off the shores of [[Cromer]], [[Norfolk]]. This led to his having a [[Chocolate Frog Card|Famous Wizard Card]] fashioned depicting him.<ref name="PSG"/><ref name="COSG"/><ref name="POAG"/>
+
+There was a [[Glanmore Peakes' Corridor|corridor]] named after him on the sixth floor of [[Hogwarts Castle]], in which a portrait of him hangs. There was also a bust of Glanmore in the [[sixth-floor corridor]]. There was also a set of portraits of Peakes hiding a secret passage between the sixth-floor landing of the [[Grand Staircase]] and the [[Entrance Hall]] side room. The password to said passage was "''Sea Serpent''".<ref name="POAG PC">{{POA|G}} - PC version</ref>
+
+==Behind the scenes==
+*In the [[Harry Potter and the Prisoner of Azkaban (video game)|Console version]] of {{POA}}, Glanmore Peakes's portrait speaks in a pronounced Scottish accent.
+*Glanmore may be related to [[Jimmy Peakes]], a student who attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] from [[1994]] to [[2001]].
+*It's unknown why Glanmore was featured on a famous wizard card for killing a Sea Serpent, as Sea Serpents are harmless creatures and are not dangerous to humans, according to [[Newton Scamander|Newt Scamander]]. It is possible, however, that wizards were unaware of the fact at the time, or that the sea-monster was unwilling to move on elsewhere and had to be dispatched to prevent breaches of wizarding secrecy.
+
+==Appearances==
+{{Imagecat|Images of Glanmore Peakes}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}} {{Portrait}}
+*{{POA|G}} {{Statue}} {{Portrait}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts ground floor}}
+{{Hogwarts sixth floor}}
+{{Chocolate Frog Cards}}
+
+[[de:Glanmore Peakes]]
+[[fr:Glanmore Peakes]]
+[[it:Glanmore Peakes]]
+[[pl:Glanmore Peakes]]
+[[ru:Гленмор Пикс]]
+[[fi:Glanmore Peakes]]
+[[es:Glanmore Peakes]]
+
+{{DEFAULTSORT:Peakes, Glanmore}}
+[[Category:1677 births]]
+[[Category:1761 deaths]]
+[[Category:Blue-eyed individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Busts]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Hogwarts corridor namesakes]]
+[[Category:Males]]
+[[Category:Monster hunters]]
+[[Category:Peakes family]]
+[[Category:Portraits]]
+[[Category:Scottish individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,59 @@
+{{Youmay|the Slytherin student|[[Peter (disambiguation)|another person with the same name]]}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Peter Duelling.JPG|250px]]
+|name = Peter
+|born = between [[1 September]] [[1975]] and [[31 August]] [[1981]] (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Brown
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+**[[Duelling Club (1990s)|Duelling Club]]
+}}
+'''Peter''' was a [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]] during the [[1990s]].
+
+==Biography==
+In [[1992]], he became a member of the [[Duelling Club]] and was ranked one on the Club's top-ten duellists list. Considering that he was number one on the list then it is possible that he received the [[Duelling Trophy]] for the best duellist.<ref>{{COS|G}} - PC version</ref>
+
+==Etymology==
+The name "Peter" is derived from the Greek Πετρος (Petros) meaning "stone".
+
+==Appearances==
+*{{COS|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Duelling Club}}
+[[es:Peter]]
+[[fr:Peter]]
+[[pl:Peter]]
+
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Duelling Club members]]
+[[Category:Duelling Trophy recipients]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

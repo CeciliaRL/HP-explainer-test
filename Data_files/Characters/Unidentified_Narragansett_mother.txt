@@ -1,0 +1,56 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = ilvermorny
+|name = Unidentified Narragansett mother
+|image = 
+|born = [[17th century]]<ref name="Pottermore" />
+|died = 
+|blood = 
+|alias = 
+|title =
+|nationality = [[Native Americans|Native American]]<ref name="Pottermore" />
+|signature =
+|species = [[Human]]<ref name="Pottermore" />
+|gender = Female<ref name="Pottermore"/>
+|skin =
+|hair =
+|eyes =
+|height =
+|weight =
+|family = [[Unidentified Narragansett children|Two daughters]]<ref name="Pottermore" />
+|romances =
+|wand = Unknown length, wood and core<ref name="Pottermore" />
+|animagus =
+|boggart =
+|patronus =
+|job =
+|house = 
+|loyalty = *[[Narragansett|Narragansett tribe]]<ref name="Pottermore" />
+*[[Ilvermorny School of Witchcraft and Wizardry]]<ref name="Pottermore" />
+}}
+This '''individual''' was a [[Native Americans|Native American]] [[Wizardkind|witch]] who became one of the first students of [[Ilvermorny School of Witchcraft and Wizardry]] in the [[17th century]]. She was part of the [[Narragansett]] tribe.<ref name="Pottermore" />
+
+==Biography==
+Along with her two daughters and two other [[Native Americans|Native American]] [[Unidentified Wampanoag children|boys]] of the [[Wampanoag]] tribe, they were given [[wand]]s made by [[Isolt Sayre]] and [[James Steward]] and instructed in the use of them and in return they shared their own magical knowledge.<ref name="Pottermore">{{WW|ilvermorny}}</ref>
+
+==Behind the scenes==
+*She is the first known adult student of a wizarding school, though she may only have learned how to use a wand and was already able to use magic before. It's unknown if she was Sorted into one of the Houses and stayed at Ilvermorny as long as younger students. 
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Niezidentyfikowana czarownica z plemienia Narragansett]]
+
+[[Category:17th century births]]
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Ilvermorny students]]
+[[Category:Native Americans]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

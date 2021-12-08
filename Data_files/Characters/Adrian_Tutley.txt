@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Adrian Tutley
+|hideb=hide
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=
+|animagus=[[Gerbil]]
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[International Symposium of Animagi]]
+}}'''Adrian Tutley''' was a [[wizardkind|wizard]] and an [[Animagus]] who could transform himself into a [[gerbil]].
+
+==Biography==
+In recent times, Tutley attended the [[International Symposium of Animagi]], and, considering himself one of the far more experienced attendees, was outraged when a team of fourteen-year old students from [[Uagadou School of Magic]] led an exhibition of synchronised transforming into animals such as [[elephant]]s and [[cheetah]]s. Tutley even went on to lodge a formal complaint with the [[International Confederation of Wizards]] because of this.<ref name="PM">{{WW|uagadou}}</ref>
+
+==Magical abilities and skills==
+*'''[[Transfiguration]]''': Tutley was exceptionally proficient with the art of [[Human Transfiguration]], that he learned how to become an [[Animagus]], allowing him to transform into a [[gerbil]] at will.
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Animagi}}
+{{DEFAULTSORT:Tutley, Adrian}}
+
+
+[[es:Adrian Tutley]]
+[[de:Adrian Tutley]]
+[[de2:Adrian Tutley]]
+[[ru:Адриан Татли]]
+[[fr:Adrian Tutley]]
+[[pl:Adrian Tutley]]
+[[Category:Animagi]]
+[[Category:Males]]
+[[Category:Wizards]]

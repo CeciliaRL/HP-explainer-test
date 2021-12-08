@@ -1,0 +1,49 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Jacob's father
+|born = 
+|died = 
+|blood = 
+|marital = Married
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Jacob's mother|Wife]]
+*[[Jacob (Hogwarts student)|Jacob]] (son)
+*[[Jacob's sibling|Child]]
+|romances = [[Jacob's mother|Wife]]
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Jacob's family]]
+}}
+This '''man'''<ref>While not mentioned specifically yet, [[Jacob's sibling]] used the wording "my parents". Also, it would necessarily have to be a father, otherwise, there would be no children.</ref> was a [[Great Britain|British]] [[Wizardkind|wizard]]<ref>[[Jacob's sibling]] mentioned in conversation that they came from a wizarding family.</ref> and the father of [[Jacob (Hogwarts student)|Jacob]] and [[Jacob's sibling]]. He did not believe that the fabled [[Cursed Vaults]] really existed at [[Hogwarts School of Witchcraft and Wizardry]].
+
+He was implied to be dead or estranged from the rest of his family long before [[Jacob's sibling]] began attending Hogwarts.<ref>While Jacob's sibling often made references to their mother, they conspicuously avoided mentioning their father. For example, during "Christmas at the Burrow", Jacob's sibling mentioned not going back home because their mother was visiting relatives in America. In Year 5 Chapter 18, when [[Severus Snape]] used [[Legilimency]] on them, a variety of childhood memories they have with Jacob and their mother were revealed, but not a single mention of their father.</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Jacob's family]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

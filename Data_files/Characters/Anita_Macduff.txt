@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = 
+|born = Between [[1 September]] [[1978]] and [[31 August]] [[1980]]<ref name="age">The oldest she could have been without repeating school years, would be being in Harry's year or the one above it to have still been at Hogwarts during the [[1996-1997 school year]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="house">{{POA|G}} {{C|PS2 version}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+'''Anita Macduff''' was a [[Gryffindor]]<ref name="house" /> [[Wizardkind|student]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990]]s.<ref name="age" />
+
+==Biography==
+She competed in the school [[Exploding Snap]] tournament during the [[1996-1997 school year]].
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts Exploding Snap}}
+{{DEFAULTSORT:Macduff, Anita}}
+[[pl:Anita Macduff]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Exploding Snap players]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

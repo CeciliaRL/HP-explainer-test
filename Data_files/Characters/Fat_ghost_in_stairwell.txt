@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = spirit
+|image = [[File:Fat ghost in stairwell GOF UK backcover.png]]
+|name = 
+|born = 
+|died = Before [[1994]]
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = *[[Ghost]]<ref name="GOFfull"/>
+*[[Human]] (formerly)
+|gender = Male<ref name="GOFfull"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOFfull"/>
+}}
+This '''fat ghost''' appeared in a stairwell at [[Hogwarts School of Witchcraft and Wizardry]] likely sometime during the [[1994–1995 school year]].<ref name="GOFfull">{{GOF}} {{see image|File:Goblet of Fire Bloomsbury 1st edition full cover.jpg}}</ref><ref name="GOFback">{{GOF}} {{see image|File:GHOST.png}}</ref>
+
+==Behind the scenes==
+*This ghost's identity has been an ongoing matter of discussion for the Harry Potter community.<ref>[https://scifi.stackexchange.com/questions/11424/who-is-the-ghost-on-the-back-of-the-goblet-of-fire/217069 Who is the ghost on the back of The Goblet of Fire?] at [https://scifi.stackexchange.com/ Science Fiction & Fantasy Stackexchange] (posted 19 February 2012)</ref>
+**He may be [[Nicholas de Mimsy-Porpington]] as he wears a ruff and looks like he was of aristocratic status before his death.
+**He may also looks similar to the [[Fat Friar]], being round and jolly, but the Fat Friar wears a monk's robe, and is a monk rather than a lord.
+**Given his appearance, he may be the [[portly ghost]] that attended [[Nicholas de Mimsy-Porpington's five-hundredth Deathday Party|Sir Nick's Death Day Party]]  on [[31 October]] [[1992]].
+**He may be another unspecified ghost from the [[Harry Potter (book series)|series]] or simply invented by the illustrator [[Giles Greenfield]] for decorative purposes.
+*In earlier sketches done by illustrator for this scene, there was originally no ghost present<ref>[https://youtu.be/5jutbSnxXxs?t=236 GILES GREENFIELD'S HARRY POTTER SKETCHBOOK | GOBLET OF FIRE ILLUSTRATOR] (3m58s) from [https://www.harrypottercollector.com/ The Potter Collector]</ref>, but he was added subsequently in more finished sketches, although his depiction trended towards even more portly.<ref>{{GOF}} - back cover sketch {{see image|File:Goblet-of-fire-back-cover-sketch-giles-greenfield.jpg}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}} {{c|On Bloomsbury first edition back cover}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified ghosts]]
+[[Category:Wizards]]

@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = wizard
+|name = Leonie Tremblay
+|blood = [[Pure-blood]]<ref>She was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|marital = Married
+|species = [[Human]]
+|gender = Female
+|family = 
+* [[Falco Lestrange]] (father)
+* [[Salomé Lestrange]] (mother)
+* [[Eglantine Lestrange]] (sister)
+* [[Bernard Tremblay]] (husband)
+* [[Clarisse Lestrange|Clarisse Tremblay]] (daughter)
+* [[Falco Tremblay]] (son)
+* [[Corvus Lestrange (IV)|Corvus Lestrange]] (nephew/son-in-law)
+* [[Corvus Lestrange (II)|Corvus Lestrange]] (uncle)
+* [[Corvus Lestrange (I)|Corvus Lestrange]] (grandfather)
+* [[Heloise Lestrange]] (grandmother)
+* [[Corvus Lestrange (V)|Corvus Lestrange]] (grandson)
+*[[Lestrange family]]
+*[[Tremblay family]] (in-laws)
+|loyalty = *[[Lestrange family]]
+*[[Tremblay family]]
+}}
+'''Leonie Tremblay''' (née '''Lestrange''') was a [[Wizardkind|witch]] and a member of the [[Tremblay family]]. She was the daughter of [[Falco Lestrange]] and [[Salomé Lestrange]]. She had a sister [[Eglantine Lestrange|Eglantine]]. She married [[Bernard Tremblay]] and had two children with him, daughter [[Clarisse Lestrange|Clarisse]] and son [[Falco Tremblay|Falco]].<ref>{{COG}} {{see image|File:Lestrange family tree.png}}</ref>
+
+==Appearances==
+*{{COG}} {{C|Name appears on family tree}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Tremblay, Leonie}}
+
+[[fr:Leonie Tremblay]]
+[[pl:Leonie Tremblay]]
+[[ru:Леони Трембли]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Lestrange family]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Tremblay family]]
+[[Category:Wizards]]

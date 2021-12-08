@@ -1,0 +1,45 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Ben Copper's mother
+|born = Before [[1973]]
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ben Copper's father|Husband]]
+*[[Ben Copper]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''individual''' was a [[Non-magic people|Muggle]] and the mother of [[Wizardkind|wizard]] [[Ben Copper]]. She made [[sandwich]]es that were similar to the ones served at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].<ref>{{HM|4|12}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Copper, Ben mother}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

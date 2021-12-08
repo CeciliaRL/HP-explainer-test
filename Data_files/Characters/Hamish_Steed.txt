@@ -1,0 +1,45 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Hamish Steed
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|The victim, Hamish Steed, was under Ministry protection at the time of Flannery's murderous rampage. After several hours of interrogation, Flannery admitted that he used an ancient spell to track down his greatest desire - which happened to be the location of the late Steed|The ''[[Daily Prophet]]''|Harry Potter: Wizards Unite}}
+'''Hamish Steed''' was a [[wizardkind|wizard]] who was murdered on a murderous rampage by [[Flannery]]. Even though Steed was under the protection of the [[British Ministry of Magic|Ministry of Magic]] at the time, the ''[[Daily Prophet]]'' reported Flannery had used an ancient spell to track him down.<ref name="WU">{{WU}} (see [https://wizardsunite.gamepress.gg/guide/mysteries-chapter-1-foundables-spell this])</ref>
+
+[[Sage Bragnam]] thought this story was implausible and that the ''Daily Prophet'''s report was a product of exaggeration.<ref name="WU"/> However, it seems that [[Grim Fawley]] drew inspiration from this report to find his [[Penelope Fawley|missing wife]].
+
+==Appearances==
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Steed, Hamish}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Wizards]]

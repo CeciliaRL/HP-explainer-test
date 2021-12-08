@@ -1,0 +1,59 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = Unidentified Chaser II.jpg
+|name = Unidentified Chaser
+|born = [[31 August]] [[1975]] or earlier<ref name="age">He was at least in her [[second year]] in [[1987]], as [[Harry Potter]] was said to have been the youngest Quidditch player in about a century in [[1991]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Chaser]]<ref name="QC"/>
+|signature = 
+|species = [[Human]]<ref name="QC"/>
+|gender = Male<ref name="QC"/>
+|height = 
+|weight = 
+|hair = Black<ref name="QC"/>
+|eyes = Brown<ref name="QC"/>
+|skin = Dark<ref name="QC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="QC"/>
+}}
+This '''[[Wizardkind|wizard]]''' attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1980s]].<ref name="QC"/>
+
+==Biography==
+During his time at Hogwarts, he was [[Sorting ceremony|Sorted]] into an unknown house. At some point during his time at school, he became a reserve [[Chaser]] of an unknown Quidditch team.<ref name="QC">{{HM|4|Q3|3}}</ref>
+
+===1987–1988 school year===
+{{Quote|Glad [[Ethan Parkin]] came to train with us! I feel like part of the team!|This boy before a Quidditch match|Harry Potter: Hogwarts Mystery}}
+In the [[1987–1988 school year]], after [[Erika Rath]] injured [[Orion Amari]] in a [[Quidditch friendly]], he became a regular team's member.  As a result, he played on the team during the first Quidditch [[Inter-House Quidditch Cup|match]].<ref name="QC"/>
+
+==Behind the scenes==
+*His house is the same as that of [[Jacob's sibling]], which is chosen by the player.
+*This Chaser's appearance was initially used for [[Unidentified Chaser|another Chaser]] on the same Quidditch team.<ref>{{HM|2|Q1|12}}</ref>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+{{Character-stub}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Males]]
+[[Category:Sorted in the 20th century]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

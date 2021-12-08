@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Apothecary shopkeeper.png|250px]]
+|name = Apothecary shopkeeper
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PS5"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PS5"/>
+|gender = Male<ref name="PS5"/>
+|height = 
+|weight = 
+|hair = White<ref name="CoS">{{COS|G}} - PS1 version</ref>
+|eyes = 
+|skin = Light<ref name="CoS"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Shopkeeper of the [[Apothecary]]<ref name="PS5"/>
+|house = 
+|loyalty = [[Apothecary]]<ref name="PS5"/>
+}}
+This '''individual''' (fl. [[1991]]) was a [[Wizardkind|wizard]] who ran the [[Apothecary]] in [[Diagon Alley]], in the early [[1990s]].<ref name="PS5"/>
+
+==Biography==
+On [[31 July]], [[1991]], [[Rubeus Hagrid]] took [[Harry Potter]] to Diagon Alley for the first time to purchase school supplies for his [[first year]] at [[Hogwarts School of Witchcraft and Wizardry]]. Harry looked around the Apothecary while Hagrid dealt with the man behind the counter.<ref name="PS5">{{PS|B|5}}</ref>
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{COS|G}} {{Comment|PS1 version only}}
+*{{TCG}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Apothicaire]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

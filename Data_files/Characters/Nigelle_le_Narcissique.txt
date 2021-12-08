@@ -1,0 +1,32 @@
+{{Individual infobox
+|image = [[File:NigelleLeNarcissique.jpg]]
+|name = Nigelle le Narcissique
+|species = ''[[Homo amphibia]]'' (purportedly)
+|gender = Female<ref name="gender">"[http://www.babycenter.com/baby-names-nigelle-405005.htm Nigelle]" on Babycenter.com</ref>
+|skin = Green
+|job = Circus performer
+|loyalty = [[Circus Arcanus]]
+|theme = pet
+|hideb = y
+|hidep = 
+|hidef = 
+|hidem = hide
+|hidea = 
+}}'''Nigelle le Narcissique''' was a circus performer in the [[1920s]]. 
+
+==Biography==
+She was part of the [[Circus Arcanus]], a travelling freak show, which billed her as a "bona fide" member of the species ''[[Homo amphibia]]'', a [[human]]oid reptilian who "freakishly devour[ed]" her own tail while singing popular [[Gaelic]] folk songs.<ref name="poster">[http://store.minalima.com/shop/fantastic-beasts/limited-edition-prints/no-maj-street-posters/circus-arcanus-museum-of-human-oddities-poster/ MinaLima Store - Circus Arcanus - Museum of Human Oddities Poster] {{see image|File:Circus Arcanus.png}}</ref>
+
+==Behind the scenes==
+*While being named "Nigelle", a seemingly female name, the french article used to describe it, "le", is masculine. If Nigelle was a female, its name should be Nigelle "la" Narcissique.
+*"Narcissique" is the french for Narcissistic.
+
+==Appearances==
+*{{FB|F}} {{Drawing}}
+
+==Notes and references==
+{{Reflist}}[[fr:Nigelle le Narcissique]]
+[[Category:Amphibians]]
+[[Category:Circus performers]]
+[[Category:Females]]
+[[Category:Reptiles]]

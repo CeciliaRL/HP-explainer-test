@@ -1,0 +1,50 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Timothy Hale
+|born = 
+|died = 
+|blood = 
+|alias = 
+|marital = 
+|title =
+|nationality = [[Great Britain|British]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|patronus = 
+|wand = 
+|job = [[Records Officer]]
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Department of Magical Law Enforcement]]
+***[[Auror Office]]
+}}
+'''Timothy Hale''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who worked for the [[British Ministry of Magic]] as a [[Records Officer]].
+
+==Biography==
+[[File:London Five Missing.png|150px|thumb|The ''[[Daily Prophet]]'' reports the disappearance of Timothy Hale, among others]]
+He was one of the people who mysteriously vanished during the [[London Five]] sometime during the mid-to-late [[2010s]]. His disappearance occurred within a few hours of the other four. It was the first instance of people having gone mysteriously missing since the [[Second Wizarding War]], and hence came as a great shock to the [[Wizardkind|wizarding community]] of Great Britain at large. An investigation was launched by the [[British Ministry of Magic]] to try and locate Hale and his fellow victims. As time passed, however, the Ministry met a dead end when the trail went cold, and it was generally felt by many that the chance of finding Hale grew increasingly smaller, causing the despair of his family to increase and turn into outrage when the case was closed. As [[Gareth Greengrass]] indeed speculated, it is very likely that Hale was deceased, as of [[2018]], though there was a small chance he was still alive.<ref name="WU trailer img">{{WU}} {{See image|file:WU trailer documents ref.png}}</ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hale, Timothy}}
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:British individuals]]
+[[Category:London Five]]
+[[Category:Males]]
+[[Category:Wizards]]

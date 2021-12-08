@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gryffindor
+|image = GryffindorMalePrefect1.png
+|name = Seventh-floor corridor Gryffindor Prefect
+|born = Between [[1 September]] [[1973]] and [[31 August]] [[1975]]<ref name="age">In order to be a [[Prefect]], he had to at least in his fifth year. However, [[Percy Weasley]] was the fifth year Gryffindor Prefect in [[1991–1992 school year|1991-92]]. This student had to be in his sixth, seventh or a repeat year, and at least 16 years old.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]<ref name="PSgba"/>
+|signature = 
+|species = [[Human]]<ref name="PSgba"/>
+|gender = Male<ref name="PSgba"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="PSgba"/>
+|eyes = 
+|skin = Light<ref name="PSgba"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="PSgba"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSgba"/>
+**[[Gryffindor]]<ref name="PSgba"/>
+}}
+{{Quote|A little late to be looking for [[Neville Longbottom|Neville]]'s [[Trevor|toad]], isn't it? 3 [[House points]] from Gryffindor for being out at night.|The prefect catches [[Harry Potter]] breaking school rules.|Harry Potter and the Philosopher's Stone (video game)}} 
+This '''individual''' (born c. [[1973]]-[[1975]]) was a [[wizardkind|wizard]] who, in the early [[1990s]], was one of the [[Gryffindor]] [[Prefect]]s at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PSgba">{{PS|G}} - GBA version</ref>
+
+==Biography==
+{{Quote|Harry Potter! You know casting spells at prefects is against the rules! 3 points from Gryffindor!|This student is hit by a [[spell]]|Harry Potter and the Philosopher's Stone (video game)}}
+{{Quote|I wish I thought you were just sleepwalking. 3 House points from Gryffindor for being out at night.|The prefect catches [[Harry Potter]] breaking school rules|Harry Potter and the Philosopher's Stone (video game)}}
+He was patrolling the [[Seventh-floor corridor]] on the night of [[12 September]], [[1991]], the night when [[Draco Malfoy]] challenged [[Harry Potter]] for a [[duel|wizards' duel]] on the [[Trophy Room]] at midnight. As Harry was making his way there, he found this Prefect pacing back and forth and blocking the shortest route to the stairs.<ref name="PSgba"/>
+
+==Behind the scenes==
+*This NPC has the distinction of making its only appearance during the Midnight Duel level. Unlike the other [[Prefect]]s in night sneak missions, who are recurring and sometimes copies of sprites depicting first-year students during the day, this character makes a single appearance during the entire game.
+
+==Appearances==
+*{{PS|G}} {{1st}} {{C|GBA version}} 
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts prefects]]
+[[Category:Males]]
+[[Category:Sorted in the 1980s]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

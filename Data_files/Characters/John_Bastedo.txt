@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:John Bastedo - wanted poster.png|250px]]
+|name=John Bastedo
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=Wolf
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''John Bastedo''' (also known as '''Wolf''') was an [[United States of America|American]] [[wizardkind|wizarding]] criminal who operated in the [[1920s]].<ref name="vogue">"[http://www.vogue.com/slideshow/eddie-redmayne-fantastic-beasts-where-to-find-them-annie-leibovitz#5 ''Fantastic Beasts'' Star Eddie Redmayne Goes in Search of the Season’s Most Magical Fashions]" from ''Vogue'' {{see image|File:John Bastedo.png}}</ref>
+
+In [[1926]], the [[Magical Congress of the United States of America]] issued a wanted poster for Bastedo, stating that he was wanted for "[[house-elf|elf]] trafficking" and "[[Muggle|No-Maj]] murder in [[Europe]]."<ref name="vogue" /> A reward of 5,000 [[Dragot]]s was offered for information leading to his capture.<ref name="vogue" /> The wanted poster was hanging in [[The Blind Pig]] when [[Newton Scamander|Newt Scamander]] visited it in [[December]] 1926.<ref name="vogue" />
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Bastedo, John}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Wizards]]

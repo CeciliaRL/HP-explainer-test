@@ -1,0 +1,47 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Lucas Sparrowvale
+|born = 
+|died = 
+|blood = 
+|marital = Unmarried
+|nationality = [[Great Britain|British]]<ref name="WU"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU">{{WU}} "Brilliant Event: One Year Later Cup"</ref>
+|gender = Male<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = [[Constance Pickering]]
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[British Ministry of Magic]] employee<ref name="WU"/>
+|house = 
+|loyalty = [[British Ministry of Magic]]<ref name="WU"/>
+}}
+'''Lucas Sparrowvale''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who worked for the [[British Ministry of Magic]].<ref name="WU"/>
+
+==Biography==
+After his girlfriend, [[Constance Pickering]], suggested using banners to identify areas of high [[Foundable]] concentration, Lucas Sparrowvale spent six months travelling the world and placing them.<ref name="WU"/>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry employees of unknown Department}}
+{{DEFAULTSORT:Sparrowvale, Lucas}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Unmarried individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,64 @@
+{{Conjecture}}
+{{Youmay|the [[snake]] that [[Harry Potter]] [[Parseltongue|spoke]] to|the [[Boa constrictor|species]] in general}}
+{{Pet individual infobox
+|image = Boa Constrictor.jpg
+|name = Boa constrictor at the zoo
+|born = [[1991]] or earlier
+|died = 
+|alias = 
+|title = 
+|species = [[Boa constrictor]]<ref name="PS2" />
+|gender = Male<ref name="PS2" />
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = Brown and glistening<ref name="PS2"/>
+|family = 
+|loyalty = *[[Harry Potter]]<ref name="PS2" />
+*[[Zoo]] (formerly)<ref name="PS2" />
+*[[Brazil]]<ref name="PS2" />
+}}
+{{Quote|[[Brazil]], here I come. Thanksss, amigo.|[[Boa constrictor]] to [[Harry Potter]] in [[Parseltongue]]|Harry Potter and the Philosopher's Stone}}
+This '''boa constrictor''' was a large male brown [[snake]] that lived at the [[Zoo]]. It escaped after the glass on its enclosure [[Vanishment|vanished]].<ref name="PS2">{{PS|B|2}}</ref>
+
+==Biography==
+[[File:HarryParseltongue.png|200px|left|thumb|[[Harry Potter]] talks to the snake]]
+This snake was bred in captivity sometime before [[1991]] when it was on display. This changed in June [[1991]]. After Dudley saw the snake and became uninterested, the snake came in contact with [[Harry Potter]], a [[Parseltongue|Parselmouth]], who spoke to it. During the course of their conversation, he [[underage magic|accidentally vanished]] the glass in front of its enclosure. The snake slithered free, leading Dudley to think it was after him. The freed boa briefly thanked Harry and told him that it was going to [[Brazil]], the native range of its [[boa constrictor|species]]. From there, the snake calmly slithered out of the reptile house.<ref name="PS2" /> It is unknown if it eventually made it to Brazil or that it was possibly re-captured and put back into captivity.
+
+==Personality and traits==
+[[File:Python.png|250px|thumb|The [[snake]]]]
+Lonely and bored, the snake found it highly annoying to have zoo visitors tap on the tank's glass front every day. He had also always dreamed of living in Brazil. He also had a rather playful side, as he made a point of snapping at the heels of panicking Muggles as he left his former prison but without intent to hurt them.<ref name="PS2" />
+
+Interestingly, the snake seemed to be capable of reading; when Harry asked if it missed its family in Brazil, it pointed to a sign which read "''RAISED IN CAPTIVITY''".<ref name="PS2" />
+
+==Behind the scenes==
+[[File:PS chapter 02 JA.jpg|250px|thumb|The boa constrictor depicted in the [[chapter art]] of the [[Japanese]] edition, illustrated by [[Dan Schlesinger]]]]
+*In both the book and {{PS|FA}}, the snake winks at Harry. In real life, snakes are unable to wink, as they have no eyelids.
+*In the film, the boa constrictor was replaced by a [[Burma|Burmese]] [[python]].
+*The boa constrictor was rumoured to actually be [[Nagini]], but this has since been proven false, as Nagini is female, while the Snake at the Zoo was male. Also, Nagini is venomous while Boas (and the [[python]] from the film) are non-venomous, using {{w|Constriction}} to kill their prey. This has been confirmed by [[J. K. Rowling]] on [[Twitter]].<ref>[https://twitter.com/jk_rowling/status/1044578644604198913 Noooo... I thought I'd shot that one down! The escaped boa constrictor in Philosopher's Stone wasn't Nagini. It was never Nagini. That's an incorrect but very persistent fan theory!] - [[J. K. Rowling's Twitter account|@jk_rowling]] on Twitter</ref>
+
+==Appearances==
+
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{COS}} {{Mention}}
+*{{COS|F}} {{Mention}}
+*{{PM}}
+*{{WW}} {{Mention}}
+*{{TCG}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de2:Boa constrictor im Zoo]]
+[[fr:Boa constrictor]]
+[[it:Boa constrictor]]
+[[no:Boa constrictoren I dyrehagen]]
+[[pl:Boa dusiciel]]
+[[ru:Боа Констриктор]]
+[[vi:Boa Constrictor trong Sở thú]]
+
+[[Category:Males]]
+[[Category:Parselmouths]]
+[[Category:Snakes]]

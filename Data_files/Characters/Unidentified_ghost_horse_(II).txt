@@ -1,0 +1,23 @@
+{{Individual infobox
+|theme=spirit
+|image = [[File:HeadlessHorseman.jpg|250px]]
+|name = Unidentified ghost horse (II)
+|species = *[[Horse]] (formerly)
+*[[Ghost horse]]
+|hair = Silver-grey
+|eyes = Black
+|loyalty = [[Unidentified ghost (VII)]]
+}}This '''horse''' was a [[ghost]] that let the [[Unidentified ghost (VII)|unidentified ghost (VII)]] ride on its back.<ref>{{POA|F}}</ref><ref>{{LEGO|Y1}}</ref>
+
+==Behind the scenes==
+*This [[ghost horse]] is played by [[Stars and Stripes]].
+
+==Appearances==
+*{{POA|F}} {{1st}}
+*{{LEGO|Y1}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Horses]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified ghosts]]

@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Ministry Visitor No. 09602
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[British Ministry of Magic|Ministry of Magic]]
+}}
+This '''individual''' was a [[Wizardkind|wizard]]. At some point in the late [[1990s]] he or she went to the [[British Ministry of Magic|Ministry of Magic]] as a visitor.<ref>[http://www.flickr.com/photos/alexkorting/6990926867/ "Harry Potter Studio Tour, London"] at [http://www.flickr.com/ Flickr]</ref>
+
+==Appearances==
+*[[Harry Potter films|''Harry Potter'' films]] {{Mention}}
+*{{MHP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

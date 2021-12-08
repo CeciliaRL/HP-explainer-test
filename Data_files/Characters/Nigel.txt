@@ -1,0 +1,48 @@
+{{Youmay|the wizard who married a Muggle woman|[[Nigel (disambiguation)|other people of same name]]}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Nigel
+|born = 
+|died = 
+|blood = [[Pure-blood]] (most likely)
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Nigel's wife|Wife]]
+*[[Nigel's nephew|Nephew]]
+*[[Nigel's nephew's father|Brother or brother-in-law]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Nigel''' was the uncle of a [[Nigel's nephew|Slytherin Hogwarts student]]. In [[1992]], he married [[Nigel's wife|a Muggle woman]], which made [[Nigel's nephew's father|his brother or brother-in-law]] furious.<ref>{{COS|G}} - PC version</ref>
+
+==Etymology==
+*"Nigel" derives from "Nigellus", a medieval Latinized form of "Neil". It was commonly associated with Latin niger "black". It was revived in the 19th century, perhaps in part due to Sir Walter Scott's novel ''The Fortunes of Nigel''.
+
+==Appearances==
+*{{COS|G}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Nigel]]
+[[Category:Blood traitors]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Wizards]]

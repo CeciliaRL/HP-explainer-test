@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Fingal the Fearless
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=[[Aingingein]] Champion (allegedly)
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Aingingein]] player (allegedly)
+|house=
+|loyalty=
+}}'''Fingal the Fearless''' was a legendary [[Ireland|Irish]] [[Wizardkind|wizard]]. It was alleged that he was also an [[Aingingein]] champion.<ref name="QTAR2">{{QTA|R|2}}</ref>
+
+==Etymology==
+The name "Fingal" is from Scottish Gaelic Fionnghall meaning "white stranger", derived from fionn "white, fair" and gall "stranger". This was the name of the hero in James Macpherson's epic poem 'Fingal' (1762), which he claimed to have based on early Gaelic legends about Fionn mac Cumhail.
+
+==Appearances==
+*{{QTA|R}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Fingal der Furchtlose]]
+[[fr:Fingal l'Intrépide]]
+[[pl:Fingal Nieustraszony]]
+[[pt-br:Fingal, o Destemido]]
+[[Category:Irish individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Mother with baby.jpg|250px]]
+|name=Portrait of a mother and baby
+|hideb=
+|born=
+|died=Before [[1993]] (possibly)
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]s<ref name="POAF"/>
+|gender=*Female (mother)<ref name="POAF"/>
+*Unknown (baby)
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAF"/>
+}}
+This [[Portrait]] of a '''mother and baby''' hung beside the portrait of the [[Fat Lady]] at [[Hogwarts School of Witchcraft and Wizardry]]. The baby cried when the school found out what [[Sirius Black]] did to the portrait of the Fat Lady when he [[Sirius Black's break-in of Hogwarts Castle (1993)|broke into the castle]]. Both mother and child were also distressed by the Fat Lady's horrible singing at the beginning of the school year.<ref name="POAF">{{POA|F}} - Chapter 13 (''Flight of the Fat Lady'')</ref>
+
+==Behind the scenes==
+*The portrait of the mother and baby in {{POA|FA}} was in fact a cameo appearance. The mother was portrayed by [[Annalisa Bugliani]], and the baby by [[Tess Bu Cuarón]]. Annalisa Bugliani was married to director [[Alfonso Cuarón]] at the time the film was released, and Tess is the couple's daughter.
+
+==Appearances==
+*{{POA|F}} {{1st}}
+*{{OOTP|G}}
+*{{HBP|G}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts seventh floor}}
+
+[[es:Retrato de una madre con su bebé]]
+[[pl:Portret matki i dziecka]]
+[[Category:Females]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Parents]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

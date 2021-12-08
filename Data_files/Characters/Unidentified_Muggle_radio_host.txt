@@ -1,0 +1,39 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Unidentified radio host
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=Radio host
+|loyalty=[[FM broadcasting]]
+}}
+{{Quote|I don't know about you, it's just too hot today, isn't it? And it's going to get even worse. Temperatures in the mid-30's Celsius...that's the mid-90s Fahrenheit, tomorrow, maybe even hitting 100. So, please, remember to cover up and stay cool... with the hottest hits on your FM dial.|Radio host|Harry Potter and the Order of the Phoenix (film)}}
+
+This '''individual''' (fl. [[1995]]) was a [[Non-magic people|Muggle]] radio personality who, in the afternoon of [[2 August]], [[1995]] hosted a [[FM broadcasting|radio broadcast]], commenting on the weather, and saying to cool down with the hottest hits on the FM dial.<ref name="OPf1">{{OOTP|F}} - Chapter 1 (''Dudley Demented'')</ref>
+
+==Appearances==
+*{{OOTP|F}} {{Comment|Heard only}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Broadcasters]]
+[[Category:Males]]
+
+[[Category:Unidentified Muggles‎]]

@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = Unidentified.jpeg
+|name = Unidentified Slytherin Keeper
+|born = [[31 August]] [[1985]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Keeper]]<ref name="HBPF"/>
+|signature = 
+|species = [[Human]]<ref name="HBPF"/>
+|gender = Male<ref name="HBPF"/>
+|height = 
+|weight = 
+|hair = Black<ref name="HBPF"/>
+|eyes = 
+|skin = Light<ref name="HBPF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="HBPF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBPF"/>
+**[[Slytherin]]<ref name="HBPF"/>
+***[[Slytherin Quidditch team]]<ref name="HBPF"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He played as the [[Keeper]] for the [[Slytherin Quidditch team]] in [[1996]].<ref name="HBPF"/>
+
+==Biography==
+[[File:Quidditch gameplay.png|thumb|left|The Keeper trying to catch [[Ginevra Weasley|Ginny Weasley]]'s [[Quaffle]]]]
+In the [[Slytherin]] versus [[Gryffindor Quidditch team|Gryffindor]] Hogwarts [[Inter-House Quidditch Cup|Quidditch Cup]] match in [[1996]], he collided with another Slytherin Quidditch member and hit the hoop, when [[Ginevra Weasley|Ginny Weasley]] threw the [[Quaffle]].<ref name="HBPF">{{HBP|F}}</ref>
+
+==Appearances==
+*{{HBP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+[[es:Guardián de Slytherin no identificado]]
+[[pl:Niezidentyfikowany obrońca Slytherinu]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Sorted in the 20th century]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

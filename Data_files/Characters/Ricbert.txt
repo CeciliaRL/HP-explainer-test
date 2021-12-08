@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme = gringotts
+|image = [[File:Headgobli2.jpg|250px]]
+|name = Ricbert
+|born = 
+|died = [[1 May]], [[1998]]<br/>[[Malfoy Manor]], [[Wiltshire]], [[England]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Chief Bank Teller
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = White
+|eyes = Black
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Chief Bank Teller at [[Gringotts Wizarding Bank]]
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]
+}}
+{{Dialogue a-b-a-b-a|Hermione Granger {{comment|as Bellatrix Lestrange}}|I wish to enter my [[Lestrange Vault|vault]].|Gringotts Chief Bank Teller|Identification?|I hardly think that will be necessary.|Madam Lestrange!|I don't like to be kept waiting.|The Gringotts Chief Bank Teller talking with [[Hermione Granger]] [[Polyjuice Potion|disguised]] as [[Bellatrix Lestrange]]|Harry Potter and the Deathly Hallows: Part 2}}
+'''Ricbert'''<ref name="script">[http://pt.scribd.com/doc/163084623/HARRY-POTTER-AND-THE-DEATHLY-HALLOWS-PART-2-by-screenplay-Steve-Kloves#scribd ''Harry Potter and the Deathly Hallows - Part 2'' screenplay by Steve Kloves]</ref> (d. [[1 May]], [[1998]])<ref name="script"/> was a [[Goblin]] who worked in the capacity of Chief Bank Teller at [[Gringotts Wizarding Bank]] during the late [[1990s]].<ref name="DHpt2">{{DH|F2}}</ref>
+
+==History==
+Following [[Harry Potter]], [[Ronald Weasley]] and [[Hermione Granger]]'s [[Break-in of Gringotts Wizarding Bank (1998)|break-in]] of the Bank in [[1998]], Ricbert was in the main lobby as the [[Gringott's Dragon|security dragon]] violently erupted through it.<ref name="DHpt2"/> Despite being only a few feet from where the [[dragon]] erupted into the lobby, Ricbert managed to escape the bank, but was soon summoned, with other goblins and guards, to [[Malfoy Manor]], where he was [[Killing Curse|killed]] by [[Tom Riddle|Lord Voldemort]] in an [[Massacre at Malfoy Manor|angry rage]].<ref name="script"/>
+
+==See also==
+*[[Unidentified Goblin at Gringotts in 1998 (IV)]]
+
+==Behind the scenes==
+*This goblin is not named in {{DH|F2}}, however, the original screenplay had [[Bogrod]] referring to him as "Ricbert".<ref name="script"/>
+*[[Rusty Goffe]] portrays Ricbert in {{DH|F2}}.<ref name="rustygoffe">[http://www.rustygoffe.co.uk/ "The Rusty Goffe page"]</ref>
+*In the [[Harry Potter and the Deathly Hallows: Part 2|second part of the film adaptation]] of {{DH}}, this goblin is the one who [[Hermione Granger]] (disguised as [[Bellatrix Lestrange]]) and [[Ronald Weasley]] (disguised as "Dragomir Despard") address. He later calls for [[Bogrod]]. In the [[Harry Potter and the Deathly Hallows|novel]], [[Harry Potter and the Deathly Hallows: Part 2 (video game)|video game]] and [[LEGO Harry Potter: Years 5-7|LEGO game]], however, they approach Bogrod from the beginning.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+*{{DH|G2}} {{C|Nintendo DS version only}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+[[es:Ricbert]]
+[[fr:Ricbert]]
+[[ru:Рикберт]]
+[[Category:1998 deaths]]
+[[Category:Black-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Deaths by Killing Curse]]
+[[Category:Goblins]]
+[[Category:Gringotts employees]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Second Wizarding War casualties]]

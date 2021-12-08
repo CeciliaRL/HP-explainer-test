@@ -1,0 +1,31 @@
+{{transcribed image|File:The New York Ghost - 6 Dec 1926 - Sunrise Early Edition.png}}
+{{Individual infobox
+|name = Matheus Limusa
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|job = Reporter for ''[[The New York Ghost]]''
+|loyalty = [[The New York Ghost]]
+|theme = wizard
+|hideb = 
+|hidep = 
+|hidef = 
+|hidem = y
+|hidea = 
+}}
+'''Matheus Limusa''' was an  [[United States of America|American]] [[Wizardkind|wizard]] and reporter for ''[[The New York Ghost]]'' in the [[1920s]].<ref name="dec6sunrise">{{FB|F}} {{See image|File:The New York Ghost - 6 Dec 1926 - Sunrise Early Edition.png}}</ref>
+
+==Biography==
+He wrote an article entitled "[[Confundus Charm|Confunded]] [[Muggles|No-Majs]] Misunderstand Crucial Democratic Vote" that was published in the paper's [[6 December]] [[1926]] morning edition.<ref name="dec6sunrise" />
+
+==Appearances==
+*{{FB|F}} {{comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Limusa, Matheus}}
+[[Category:American individuals]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:The New York Ghost staff]]
+[[Category:Wizards]]

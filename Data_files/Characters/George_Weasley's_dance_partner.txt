@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=George Weasley's dance partner
+|hideb=1
+|born=Before [[1994]]
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="GOFF"/>
+|gender=Female<ref name="GOFF"/>
+|height=
+|hair=Black<ref name="GOFF"/>
+|eyes=
+|skin=Light<ref name="GOFF"/>
+|hidef=1
+|family=
+|hidem=1
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=1
+|job=
+|house=
+|loyalty=
+}}
+This '''girl''' was [[George Weasley]]'s dance partner at the [[Yule Ball]] during the [[Triwizard Tournament]] in [[1994]].<ref name="GOFF">{{GOF|F}}</ref>
+
+==Behind the scenes==
+*This individual was portrayed by [[Mala Su Mabey]].
+
+==Appearances==
+*{{GOF|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:EtiquetteTeacherPortrait.jpg|250px]]
+|name = Portrait of a female etiquette teacher
+|born = 
+|died = Prior to [[1991]]<ref name="DEATH">'''[[J. K. Rowling]] on the subject of [[portrait]]s:''' "They are all of dead people", from the Edinburgh Book Festival (transcript available [http://harrypotter.bloomsbury.com/author/interviews/individual1 here])</ref>
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Etiquette teacher<ref name="MTV">[http://www.mtv.ca/moviehead/article.jhtml?id=25349 We Take You Inside The Wizarding World Of Harry Potter] on [http://www.mtv.ca/moviehead/ MTV.ca]</ref>
+|house = [[Gryffindor]] (possibly)<ref name="Gryffindor"/>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|And I will remind you that etiquette is every bit as important once in the air as it is on the ground.|The ettiquette teacher on using [[enchanted bench]]es|The Wizarding World of Harry Potter}}
+This '''woman'''<ref name="female">[http://www.news.com.au/harry-potter-theme-park-revealed-open-june-18/story-e6frezhr-1225846327932 "Harry Potter theme park revealed, open June 18"] on [http://www.news.com.au/ News.com.au]</ref> was a [[wizardkind|witch]] who taught {{w|etiquette}}<ref name="MTV"/> to [[Wizardkind|students]] of [[Hogwarts School of Witchcraft and Wizardry]]. She had a portrait hung in [[Gryffindor Tower]] by the [[1990s]].<ref name="Gryffindor">See [http://www.flickr.com/photos/32005256@N03/4820782603/in/photostream/ this image]</ref>
+
+==Behind the scenes==
+*The subject of this portrait was portrayed by actress [[Claire Carroll]].
+*In {{WWHP}}, this portrait, along with the [[Portrait of a Professor]] and the [[portrait of a Quidditch player]], explains in magical terms how the ride portion of {{HPFJ}} will work.
+*Etiquette is not a subject known to be taught at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], but it is possible that it was sometime in history.
+
+==Appearances==
+*{{WWHP}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts towers}}
+[[Category:British or Irish individuals]]
+[[Category:Females|Etiquette teacher]]
+[[Category:Unidentified Hogwarts employees]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = muggle
+|image = [[File:Don Harrison.png|250px]]
+|name = Don Harrison
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Green
+|skin = White
+|family = [[Bethany Harrison]] (daugther)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Construction foreman
+|house = 
+|loyalty = 
+}}
+{{Quote|Oi, what are you pair doing on my site? And without hardhats, to boot!|Harrison confronting [[Mathilda Grimblehawk]] and [[Mathilda Grimblehawk's partner|her partner]]|Fantastic Beasts: Cases from the Wizarding World}}
+'''Don Harrison''' was a [[Great Britain|British]] [[Non-magic people|Muggle]] construction foreman. 
+
+==Biography==
+When beginning construction project in a forest that was home to [[magic]]al [[beast]]s, his site and workers were attacked. Six of the workers walked off the job as a result.<ref>{{FBC}} - Case 3</ref>
+
+Harrison's daughter [[Bethany Harrison|Bethany]] was at the site during the attack and made a [[Bethany Harrison's drawing|drawing]] of the beast responsible.
+
+During the subsequent [[British Ministry of Magic|Ministry of Magic]] investigation (during which [[Mathilda Grimblehawk]] and [[Mathilda Grimblehawk's partner]], of the [[Department for the Regulation and Control of Magical Creatures]], posed as Muggle inspectors from the local constabulary), his daughter [[Bethany Harrison|Bethany]] went missing. A distraught Don Harrison pledged to level the whole forest to find her, before being calmed down by Mathilda, who assured him they would find his daughter.<ref name="FBC3.2">{{FBC|3|2}}</ref>
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Harrison, Don}}
+[[pl:Don Harrison]]
+[[fr:Don Harrison]]
+[[ru:Дон Харрисон]]
+[[Category:British individuals]]
+[[Category:Foremen]]
+[[Category:Green-eyed individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

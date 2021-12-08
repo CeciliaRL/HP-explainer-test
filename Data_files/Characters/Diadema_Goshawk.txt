@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Diadema Goshawk
+|born = [[1921]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WBoS"/>
+|gender = Female<ref name="WBoS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Miranda Goshawk's mother|Mrs Goshawk]] (mother)<ref name="WBoS">{{WBS}} - see [http://www.youtube.com/watch?v=4w9eXBjHUQk& this video]</ref>
+*[[Miranda Goshawk's father|Mr Goshawk]] (father)<ref name="WBoS" />
+*[[Miranda Goshawk's aunts and uncles|Several aunts and uncles]]<ref name="WBoS" />
+*[[Romilda Goshawk]] (sister)<ref name="WBoS" />
+*[[Tangwystl Goshawk]] (sister)<ref name="WBoS" />
+*[[Miranda Goshawk]] (sister)<ref name="WBoS" />
+*[[Goshawk sisters|Five more sisters]]<ref name="WBoS" />
+*[[Miranda Goshawk's cousins|Several cousins]]<ref name="WBoS" />
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Goshawk family]]<ref name="WBoS"/>
+}}
+'''Diadema Goshawk''' was one of [[Miranda Goshawk]]'s eight sisters.<ref name="WBoS"/>
+
+When she was growing up, she once borrowed clothing from her youngest sister, [[Miranda Goshawk|Miranda]], without permission. Miranda cast a [[Bat-Bogey Hex]] on her to motivate her to give it back.<ref name="WBoS"/>
+
+==Appearances==
+*{{WBS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Goshawk, Diadema}}
+
+[[es:Diadema Goshawk]]
+[[pl:Diadema Goshawk]]
+[[pt-br:Diadema Goshawk]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Goshawk family|Diadema]]
+[[Category:Wizards]]

@@ -1,0 +1,39 @@
+{{Youmay|the Bowtruckle|[[Titus Mitcham]]}}
+{{Pet individual infobox
+|image = Bowtruckles.png
+|name = Titus
+|born = Pre [[1926]]
+|died = 
+|alias = 
+|title = 
+|species = [[Bowtruckle]]<ref name="bowtruckles">{{FB|F}}</ref>
+|gender = Male
+|height = 
+|hair = 
+|feathers = 
+|eyes = Black
+|skin = 
+|family = *[[Pickett]]<ref name="bowtruckles"/>
+*[[Finn]]<ref name="bowtruckles"/>
+*[[Poppy]]<ref name="bowtruckles"/>
+*[[Marlow]]<ref name="bowtruckles"/>
+*[[Tom]]<ref name="bowtruckles"/>
+|loyalty = [[Newton Scamander|Newt Scamander]]
+}}
+'''Titus''' was one of the [[Bowtruckle]]s that were kept by [[Newton Scamander|Newt Scamander]] as pets, together with [[Pickett]], [[Finn]], [[Poppy]], [[Marlow]], and [[Tom (Bowtruckle)|Tom]].<ref>[https://twitter.com/FantasticBeasts/status/794333143096442880 Twitter - Fantastic Beasts]</ref> Titus and the other Bowtruckles picked on [[Pickett]] due to his insecurity.<ref name="USATODAY">[http://www.usatoday.com/story/life/entertainthis/2016/09/28/your-favorite-eddie-redmayne-also-loves-pickett-bowtruckle-new-fantastic-beasts-trailer/91219768/ "Your favorite Eddie Redmayne also loves Pickett the Bowtruckle in new 'Fantastic Beasts' trailer"] at [http://www.usatoday.com/ USA Today]</ref>
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}} 
+
+==Notes and references==
+{{Reflist}}
+[[de2:Titus]]
+[[es:Titus]]
+[[fr:Titus]]
+[[ru:Тит]]
+[[pl:Tytus]]
+[[Category:Bowtruckles]]
+[[Category:Males]]
+[[Category:Newton Scamander's suitcase]]
+[[Category:Pets]]

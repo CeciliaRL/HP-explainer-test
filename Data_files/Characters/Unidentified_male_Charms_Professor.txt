@@ -1,0 +1,65 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Unidentified male Charms Professor
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="WBS"/>
+|signature = 
+|species = [[Human]]<ref name="WBS"/>
+|gender = Male<ref name="WBS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Charms Master]]<ref name="Charms"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="WBS"/>
+}}
+This '''[[Charms (class)|Charms]]'''<ref name="Charms">On the subject of the [[Unlocking Charm]], this professor says that he personally wouldn't teach it so early on in a wizard's studies, meaning that [[Charms (class)|Charms]] is his subject, as this spell is taught in [[first year]] Charms.</ref> '''[[professor]]''' was a [[Wizardkind|wizard]] who taught at [[Hogwarts School of Witchcraft and Wizardry]] some two hundred years after the publication of [[Miranda Goshawk]]'s ''[[Book of Spells]]''. He was fairly familiar with this book's contents, and once helped a Hogwarts student in navigating and learning its [[spell]]s.<ref name="WBS">{{WBS}}</ref>
+
+==History==
+===Early life===
+This individual was presumably born somewhere in [[Great Britain]]. He may have attended [[Hogwarts School of Witchcraft and Wizardry]], where he would most likely have gotten high marks in the subject of Charms. Sometime in his adult life, he took on the position of Charms Professor at Hogwarts.
+
+===Teaching with the ''Book of Spells''===
+One night, he was in the [[Restricted Section]] of the [[Hogwarts Library]] when he happened upon a young Hogwarts student. After admonishing them for being there, he promised not to take any [[house points]] and inquired as to what they were doing there. The student produced a note indicating that they were permitted to be in that section to check out a copy of ''Book of Spells''. The professor was impressed that this student got permission for such a task, and offered to guide them through the book's contents.<ref name="WBS"/>
+
+Together, the two explored the old book, the professor giving occasional advice on how to complete the book's assigned tasks and offering his own opinions on Goshawk's words, as well as awarding house points when the student achieved a particularly remarkable task. In time, the student had learned all the spells the book had to offer, and the professor expressed his pride in his student.<ref name="WBS"/>
+
+His favourite [[spell]] was the [[Bird-Conjuring Charm]].<ref> See [http://www.youtube.com/watch?v=MOoAFUUyycA&feature=BFa&list=ELtMQLA1ScYkc this video].</ref>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': As a [[Charms Master]], he was naturally learned in the [[Charms (class)|subject]]. He could easily recognise and advise on all the spells printed in ''Book of Spells'', including those that had merely been written in the margins by former students. He was also highly proficient in the casting of numerous charms, such as being capable of casting the [[Muffliato Charm]] with proper reflexes to prevent a student from harm when the ''Book of Spells'' conjured a greenhouse full of [[Mandrake]]s.<ref name="WBS"/>
+*'''[[Transfiguration]]''': He was skilled with [[conjuration]], as his favourite spell was the [[Bird-Conjuring Charm]].<ref name="WBS"/>
+*'''[[Magizoology]]''': He could identify a number of [[magic]]al [[creature]]s conjured forth by ''Book of Spells'' on sight. He was also knowledgeable in dealing with them; for instance, he knew that a [[Kelpie]] can only be subdued by bridling it.<ref name="WBS"/>
+*'''[[Herbology]]''': He could also identify magical plants that ''Book of Spells'' spawned, such as [[Mandrake]]s and [[Devil's Snare]], as well as advise on how to deal with them.<ref name="WBS"/>
+*'''Logical thinking''': This wizard possessed a great deal of logical thinking skills, a trait rare in a wizard. He was able to quickly adapt to the challenges ''Book of Spells'' provided and give sufficient advice to guide the student reading the book through them.<ref name="WBS"/>
+
+==Behind the scenes==
+*The professor was voiced by [[Rupert Degas]] in the English edition of {{WBS}}.
+*His reaction to the player's permission note depends on their [[Hogwarts Houses|House]]. For example, if the player's character is a [[Gryffindor]], he will say that he hopes they know what they are doing, and if they are a [[Slytherin]], he will assume their permission note is falsified, and that they forged the signature.
+
+==Appearances==
+*{{WBS}} {{1st}} {{C|Voice only}}
+
+==Notes and references==
+{{Reflist}}
+{{Charms}}
+[[Category:British or Irish individuals]]
+[[Category:Charms Masters at Hogwarts]]
+[[Category:Males]]
+[[Category:Unidentified Hogwarts employees]]
+[[Category:Wizards]]

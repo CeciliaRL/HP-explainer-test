@@ -1,0 +1,28 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Grawp's father
+|species = [[Giant]]<ref name="OOTP30"/>
+|gender = Male<ref name="OOTP30"/>
+|family = *[[Fridwulfa]] (wife) †<ref name="OOTP30"/>
+*[[Grawp]] (son)<ref name="OOTP30"/>
+*[[Rubeus Hagrid]] (step-son)<ref name="OOTP30"/>
+|theme = giant
+}}
+This '''[[giant]]''' was the father of [[Grawp]], stepfather of [[Rubeus Hagrid]] and husband of [[Fridwulfa]]. His height was unknown, but according to [[Hermione Granger|Hermione]], most giants were around 20 feet tall (6 meters). Grawp's height ("only" 16 feet tall) may have indicated that his father was shorter than average, or Grawp could simply be shorter than his father.<ref name="OOTP30">{{OOTP|B|30}}</ref>
+
+It's unknown if he is still alive as Hagrid never noted his presence in the [[Giant colony]] or lack-thereof. It's also unknown if he was one of the giants who joined [[Tom Riddle|Lord Voldemort]] and the [[Death Eaters]] or if he was one of the few who hid out in the surrounding caves, assuming he was still alive at that point.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Giants}}
+[[es:Padre de Grawp]] 
+[[ru:Отец Грохха]]
+[[pl:Ojciec Graupa]]
+[[Category:Giants]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

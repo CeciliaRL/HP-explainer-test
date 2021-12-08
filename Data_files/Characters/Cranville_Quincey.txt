@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Cranville Quincey
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Shop owner
+|house = 
+|loyalty = [[Cranville Quincey's Magical Junkshop]]
+}}
+'''Cranville Quincey''' is presumably the owner and/or founder of [[Cranville Quincey's Magical Junkshop]], a junkshop located next-door to [[Sugarplum's Sweets Shop]] in [[Diagon Alley]].<ref>[http://bloghogwarts.com/2010/10/06/nuevas-imagenes-promocionales-de-%e2%80%98harry-potter-film-wizardry%e2%80%99-con-promos-de-%e2%80%98las-reliquias%e2%80%99/ "Nuevas Imágenes Promocionales de ‘Harry Potter Film Wizardry’, con Promos de ‘Las Reliquias’"] at [http://bloghogwarts.com/ BlogHogwarts]</ref>
+
+==Appearances==
+*{{HPFW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Diagon Alley}}
+
+{{DEFAULTSORT:Quincey, Cranville}}
+[[es:Cranville Quincey]]
+[[fr:Cranville Quincey]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = Unidentified Portkey tout.jpg
+|name = Unidentified Portkey tout
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]] or [[Ireland|Irish]]<ref name="COGS"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COGS"/>
+|gender = Male<ref name="COGS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Portkey]] tout<ref name="COGS"/>
+|house = 
+|loyalty = 
+}}
+{{dialogue a-b-a|Portkey tout|Stir your stumps—it leaves in one minute! Fifty Galleons.|Newt Scamander|No, we said thirty.|Thirty to go to France, twenty not to tell anyone I seen Newt Scamander leaving the country illegally. Price of fame, pal.|Newt pays the tout to illegally travel by Portkey|Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay}}
+This '''individual''' was a [[Wizardkind|wizard]], who in [[1927]] helped [[Newton Scamander]] and [[Jacob Kowalski]] illegally travel to [[France]] via [[portkey]] in [[1927]].<ref name="COGS">{{COG|S|47}}</ref>
+
+==Behind the scenes==
+*The tout was portrayed by [[David Wilmot]] in {{COG}}.
+
+==Appearances==
+*{{COG|S}} {{1st}}
+*{{COG}}
+*{{AM}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Świstun spekulant]]
+[[Category:British or Irish individuals]]
+[[Category:Criminals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

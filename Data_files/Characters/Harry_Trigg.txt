@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Harry Trigg
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DHF1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHF1"/>
+|gender = Male<ref name="DHF1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Bronwyn Trigg]] (unknown)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Trigg family]]<ref name="DHF1"/>
+}}
+'''Harry Trigg''' was a [[Wizardkind|wizard]] reported missing along with his relative, [[Bronwyn Trigg|Bronwyn]], on the ''[[Potterwatch]]'' radio programme in [[1997]]. His disappearance was linked to a [[Death Eaters|Death Eater]] attack.<ref name="DHF1">{{DH|F1}}</ref>
+
+==Behind the scenes==
+*This character is presumably a tribute to a relative of Derek Trigg, a foley editor who worked on every [[Harry Potter films|''Harry Potter'' film]], excepting ''[[Harry Potter and the Philosopher's Stone (film)|Harry Potter and the Philosopher's Stone]]'' and ''[[Harry Potter and the Goblet of Fire (film)|Harry Potter and the Goblet of Fire]]''.<ref>[http://www.imdb.com/name/nm0872740 Derek Trigg's profile on IMDb]</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Trigg, Harry}}
+[[ru:Гарри Тригг]]
+[[fr:Harry Trigg]]
+[[pl:Harry Trigg]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Missing individuals]]
+[[Category:Trigg family]]
+[[Category:Wizards]]

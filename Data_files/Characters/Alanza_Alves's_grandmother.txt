@@ -1,0 +1,48 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=individual
+|image=
+|name=Alanza Alves's grandmother
+|born=Before [[1973]]
+|died=
+|blood=
+|marital=
+|nationality=[[Brazil]]ian<ref name="HM638"/>
+|alias=
+|title=
+|signature=
+|species=[[Human]]<ref name="HM638"/>
+|gender=Female<ref name="HM638"/>
+|height=
+|weight=
+|hair=
+|eyes=
+|skin=
+|family=[[Alanza Alves]] (granddaughter)<ref name="HM638"/>
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=[[Alves family]]<ref name="HM638"/>
+}}
+This '''individual''' was a woman who lived in [[20th century]] in [[Brazil]]. She had at least one granddaughter, [[Alanza Alves]].<ref name="HM638">{{HM|6|38|d}}</ref>
+
+According to Alanza, her grandmother always said arriving without an invitation was impolite.<ref name="HM638"/>
+
+==Behind the scenes==
+*She was possibly a [[Wizardkind|witch]], as Alanza said she came from a prominent wizarding family.<ref name="HM622">{{HM|6|22}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Alves, Alanza's gradmother}}
+[[Category:Alves family]]
+[[Category:Brazilian individuals]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

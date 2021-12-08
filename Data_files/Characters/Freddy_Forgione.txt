@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=
+|hideb=y
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Entertainer
+|house=
+|loyalty=
+}}
+'''Freddy Forgione''' was a [[Non-magic people|Muggle]] entertainer in the early [[20th century]]. In [[1926]], posters were put up around the port in [[New York]] advertising a one-night-only performance by Forgione, which was slated for Saturday [[4 December]].<ref name="poster-lego">{{LEGO|D}} {{See image|File:Brobeck Theatre - Freddy Forgione.png}}</ref>
+
+==Appearances==
+*{{LEGO|D}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Forgione, Freddy}}
+[[Category:Entertainers]]
+[[Category:Males]]
+[[Category:Muggles]]

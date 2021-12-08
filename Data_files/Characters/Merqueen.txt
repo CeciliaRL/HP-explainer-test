@@ -1,0 +1,47 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = individual
+|image = [[File:Merqueen HM.jpg|250px]]
+|name = 
+|born = Before [[1990]]<ref name="HM642"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Selkie]] ([[Merpeople]])<ref name="HM642"/>
+|gender = Female<ref name="HM642"/>
+|height = 
+|weight = 
+|hair = Blue<ref name="HM642"/>
+|eyes = Blue<ref name="HM642"/>
+|skin = Blue<ref name="HM642"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Queen of the [[Great Lake Merpeople colony|Black Lake Selkie Colony]]<ref name="HM642"/>
+|house = 
+|loyalty = *[[Great Lake Merpeople colony|Black Lake Selkie Colony]]<ref name="HM642"/>
+**[[Merpeople village]]<ref name="HM642"/>
+}}
+The '''Merqueen''' was a [[Merpeople|merwoman]] who was an authority of the [[Great Lake Merpeople colony]].<ref name="HM642"/>
+
+==Biography==
+In the [[1989–1990 school year]], she helped [[Jacob's sibling]] finding the [[Sunken Vault]] after they offered her several presents.<ref name="HM642">{{HM|6|42}}</ref>
+
+==Behind the scenes==
+*In the [[Harry Potter (book series)|Harry Potter books]], the leader of the Merpeople, [[Murcus]], is referred to as the [[Merchieftainess]]. It is unclear if Merqueen was an alternative title, another position in the hierarchy or a different government system used in the [[1980s]] and early [[1990s]]. It's also unclear if this individual and Murcus were the same person.
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Blue-eyed individuals]]
+[[Category:Females]]
+[[Category:Merpeople]]

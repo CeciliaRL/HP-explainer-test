@@ -1,0 +1,24 @@
+{{Notability}}
+{{Individual infobox
+|theme=mom
+|name = Unidentified Ministry witch (I)
+|nationality = [[Great Britain|British]]
+|species = [[Human]]|gender = Female
+|job = [[British Ministry of Magic]] employee
+|loyalty = [[British Ministry of Magic]]
+}}
+'''An unidentified Ministry [[Wizardkind|witch]]''' was present around the time of the [[Triwizard Tournament]], in [[1994]].<ref name="GOFF">{{GOF|F}}</ref>
+
+==Behind the scenes==
+This witch was played by actress [[Sheila Allen]] in {{GOF|FA}}.
+
+==Appearances==
+*{{GOF|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Ministry of Magic employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,59 @@
+{{Individual infobox
+|image = HambledonQuince.png
+|name = Hambledon Quince
+|born = [[1936]]<ref name="JKRS"/>
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]] (possibly)<ref name="Blood">Quice appeared to have highly contemptuous views about [[Non-magic people|Muggles]], so it seems unlikely he that could have been a [[Muggle-born]].</ref>
+|nationality = 
+|title = 
+|signature = 
+|alias = 
+|marital = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Male<ref name="JKRS"/>
+|hair = Grey<ref name="JKRS"/>
+|eyes = Blue<ref name="JKRS"/>
+|skin = White<ref name="JKRS"/>
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author and [[magic]]al [[theoretician]]<ref name="JKRS"/>
+|house = 
+|loyalty = 
+|theme = wizard
+}}
+{{Quote|Hambledon Quince (1936—present): Author of controversial theory that wizards originate from Mars, Muggles from mushrooms.|Description|J. K. Rowling's official site}}
+'''Hambledon Quince''' (b. [[1936]]) was a [[Wizardkind|wizard]], [[magic]]al [[theoretician]] and author.<ref name="JKRS"/>
+
+==Biography==
+In his lifetime, he proposed the rather [[The Evolution of Muggles From Mushrooms|controversial theory]] that [[Wizardkind|wizards]] originally originated from the planet [[Mars]], and that [[Non-magic people|Muggles]] originated from mushrooms. It is unknown if he was a [[Wizarding supremacy|Wizard supremacist]] or a [[Pure-blood supremacy|pure-blood supremacist]], however his controversial theories were readily accepted by both groups as proof of the inferiority of Muggles.<ref name="JKRS">{{JKRS}}</ref>
+
+==Behind the scenes==
+*The idea of Wizards being from Mars and Muggles being from mushrooms may be referential of the phrase "Men are from Mars, women are from Venus," which was used as the title of a best-selling relationship-advice [[Wikipedia:Men Are from Mars, Women Are from Venus|book]] by John Gray, and has since passed into popular culture. There is also a wizarding book titled ''[[Wizards Are from Neptune, Witches Are from Saturn]]''.
+
+==Appearances==
+{{Imagecat|Images of Hambledon Quince}}
+*{{JKRS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Hambledon Quince]]
+[[es:Hambledon Quince]]
+[[fr:Hambledon Quince]]
+[[it:Hambledon Quince]]
+[[pl:Hambledon Quince]]
+[[ru:Хамблдон Квинс]]
+[[zh:汉博尔敦·奎因斯]]
+{{DEFAULTSORT:Quince, Hambledon}}
+[[Category:1936 births]]
+[[Category:Authors]]
+[[Category:Blue-eyed individuals]]
+[[Category:Males]]
+[[Category:Theoreticians]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

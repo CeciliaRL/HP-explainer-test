@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = Announcer.jpg
+|name = Announcer at Henry Shaw Junior's fundraising dinner
+|born = 
+|died = 
+|blood = [[Non-magic people|No-Maj]]
+|marital = 
+|nationality = [[United States of America|American]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Announcer
+|house = 
+|loyalty = [[Henry Shaw Junior]]
+}}
+This '''individual''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who worked as an announcer for the election of [[Henry Shaw Junior]] in [[1926]].<ref name="FBS">{{FB|S}}</ref>
+
+==Biography==
+This individual was the announcer for the election of [[Henry Shaw Junior]] at his [[Fundraising Dinner for the Re-election of Senator Henry Shaw|Fundraising Dinner]] in [[December]] [[1926]]. Not long after having announced Shaw during his speech, Shaw was attacked and murdered by the rogue [[Obscurial]] form of [[Credence Barebone]], which he would have witnessed, much to the horror and shock of everyone present.<ref name="FBS"/>
+
+==Behind the scenes==
+The Announcer was portrayed by [[Todd Boyce]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles]]

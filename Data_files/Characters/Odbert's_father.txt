@@ -1,0 +1,46 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = goblin
+|image = 
+|name = Odbert's father
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HM6"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]<ref name="HM6"/>
+|gender = Male<ref name="HM6"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Odbert]] (son)<ref name="HM6"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|My father told me the story of Urgruff the Unwary when I was but a wee goblin.|[[Odbert]]|Harry Potter: Hogwarts Mystery}}
+This '''[[Goblin]]''' was the father of [[Gringotts Wizarding Bank]] employee [[Odbert]].<ref name="HM6"/>
+
+When Odbert was still young, he heard the story of [[Urgruff the Unwary]] from his father.<ref name="HM6">{{HM|6|The Dragon's Treasure|1}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Goblins]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

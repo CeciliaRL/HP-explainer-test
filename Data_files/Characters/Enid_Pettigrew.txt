@@ -1,0 +1,60 @@
+{{Cut content}}
+{{Noncanon|Character}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Enid Pettigrew
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Peter Pettigrew]] (possibly)
+*[[Peter Pettigrew's mother|Mrs Pettigrew]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Enid Pettigrew''' was a [[Wizardkind|witch]]. She may be a relative of [[Peter Pettigrew's mother|Mrs Pettigrew]] and her son, [[Peter Pettigrew|Peter]].
+
+==Behind the scenes==
+*Professor Pettigrew was one of the names which [[J. K. Rowling]] considered giving to either the [[Defence Against the Dark Arts]] [[professor]] in [[Harry Potter]]'s [[fourth year|fourth]], [[sixth year|sixth]] or [[seventh year]] or the [[Divination]] teacher during his [[third year]] when she was planning {{POA}}, although she decided on [[Sybill Trelawney]] instead.<ref>"[[:File:Early draft workingsJKR.png|''Early draft workings'']]" from {{JKRS}}</ref>
+
+==Etymology==
+The name "Enid" is derived from Welsh enaid meaning "soul" or "life". She was the wife of Geraint in Arthurian legend.
+
+==Appearances==
+*{{POA}} {{Comment|Early drafts (possibly)}}
+*{{GOF}} {{Comment|Early drafts (possibly)}}
+*{{HBP}} {{Comment|Early drafts (possibly)}}
+*{{DH}} {{Comment|Early drafts (possibly)}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pettigrew, Enid}}
+
+
+[[de2:Enid Pettigrew]]
+[[fr:Enid Pettigrow]]
+[[pl:Enid Pettigrew]]
+[[ru:Энид Петтигрю]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Non-canonical characters]]
+[[Category:Pettigrew family]]
+[[Category:Wizards]]

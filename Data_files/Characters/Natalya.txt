@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Natalya
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Dancer
+|house = 
+|loyalty = 
+}}
+'''Natalya''' was a [[Non-magic people|Muggle]] dancer in the early [[20th century]]. She was to support [[Hilda Kendrick]] with fellow dancer [[Danielle]] in a production of ''[[Oh, Rosana!]]'' slated to open at the [[Brockman Theatre]] in [[New York]] on [[4 January]] [[1927]].<ref name="rosana">{{FB|F}} {{See image|File:Oh, Rosana!.png}}</ref>
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Natalya}}
+[[Category:Dancers]]
+[[Category:Females]]
+[[Category:Muggles]]

@@ -1,0 +1,34 @@
+{{WizardsUniteSpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:Brilliant Fire-breather WU.png]]
+|name = Unidentified fire-breather
+|blood = 
+|species = [[Human]]
+|gender = Male
+|job = Fire-breather
+|loyalty = [[Circus Arcanus]]
+|theme = individual
+}}
+This '''individual''' was a fire-breather in the [[1920s]].
+
+==Biography==
+[[File:Circus Arcanus Fire-breather.gif|275px|thumb|left|The Fire-breather with the Circus]]
+He was part of the [[Circus Arcanus]], a travelling freak show.<ref name="WU"> {{WU}} "Brilliant Event: Circus Calamitous"</ref>
+
+During the [[2020s]], he appeared as a [[Foundable]] during the [[Calamity]]. Volunteer members of the [[Statute of Secrecy Task Force]] were able to free him, allowing he to return to his original time.<ref name="WU"> {{WU}} "Brilliant Event: Circus Calamitous"</ref>
+
+==Behind the scenes==
+*It is unknown if fire-breathing was an ability he was naturally born with, or something he archived through magical means, e.g. through use of the [[Fire-Breathing Potion]].
+
+==Appearances==
+{{Imagecat|Images of Unidentified fire-breather}}
+*{{COG}} {{1st}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Circus performers]]
+[[Category:Foundables]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]

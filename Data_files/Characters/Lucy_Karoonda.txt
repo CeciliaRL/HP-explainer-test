@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Lucykaroonda.JPG|250px]]
+|name = Lucy Karoonda
+|born = Before [[1977]], [[Australia]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Australia]]n<ref name="QWC"/>
+|alias = 
+|title = *[[Captain]]<ref name="QWC"/>
+*[[Seeker]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="QWC"/>
+|eyes = Brown<ref name="QWC"/>
+|skin = Light<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seeker]] and [[Captain]] for the [[Australian National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[Australian National Quidditch team]]<ref name="QWC"/>
+}}
+'''Lucy "Lucky" Karoonda''' was an [[Australia]]n [[Wizardkind|witch]] who played as [[Seeker]] on the [[Australian National Quidditch team]]. She was also this team's [[Captain]].<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Karoonda's [[Chocolate Frog Card]] could be won by beating [[Patrick Fincher]] at a [[Quidditch]] challenge.<ref name="HBPG">{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{FWC}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Karoonda, Lucy}}
+[[fr:Lucy Karoonda]]
+[[pl:Lucy Karoonda]]
+[[Category:Australian individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Quidditch Captains]]
+[[Category:Seekers]]
+[[Category:Wizards]]

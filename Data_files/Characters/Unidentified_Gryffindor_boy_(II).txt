@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:GryffindorBoy HPOP.JPG|250px]]
+|name = Unidentified Gryffindor boy
+|born = [[1980s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTPF"/>
+|gender = Male<ref name="OOTPF"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="OOTPF"/>
+|eyes = 
+|skin = Light<ref name="OOTPF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="OOTPF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTPF"/>
+**[[Gryffindor]]<ref name="OOTPF"/>
+}}
+This '''[[Wizardkind|wizard]]''' was a student at [[Hogwarts School of Witchcraft and Wizardry]] and was sorted into [[Gryffindor]].<ref name="OOTPF">{{OOTP|F}}</ref>
+
+==Biography==
+
+===Early years===
+He was born during the [[1980s]] and attended [[Hogwarts School of Witchcraft and Wizardry]], where he was sorted into [[Gryffindor]].<ref name="OOTPF"/>
+
+===Fifth year===
+In [[1995]], he and his friend were walking in the corridors when [[Dolores Umbridge]] came by. She used a [[Dolores Umbridge's neatness charm|spell]] to tidy their ties and pull their shirts into their trousers.<ref name="OOTPF"/>
+
+===Later life===
+It is unknown what became of him next during the [[Second Wizarding War]] or during the [[Battle of Hogwarts]].
+
+==Appearances==
+*{{OOTP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+,[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

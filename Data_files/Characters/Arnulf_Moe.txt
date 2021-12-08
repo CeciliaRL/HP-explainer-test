@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Arnulf Moe
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Manager of the [[Norwegian National Quidditch team]]
+|house=
+|loyalty=[[Norwegian National Quidditch team]]
+}}
+
+'''Arnulf Moe''' was a Norwegian wizard and the manager of the [[Norwegian National Quidditch team]] in [[2014]]. It was his decision to change the team mascot from performing [[troll]]s to the [[Selma]]. When questioned about the change after conflict the Selma had with the [[Fiji]]an [[Dukuwaqa]], Moe defended his choice, claiming that the Selma represented the "steely determination and ferocity of the Norwegian players".<ref name=PM>{{PM}} - [[DISASTROUS OPENING CEREMONY LEADS TO QUESTIONS ABOUT QUIDDITCH WORLD CUP SECURITY]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Moe, Arnulf}}
+
+[[ru:Арнульф Мо]]
+[[pl:Arnulf Moe]]
+[[fr:Arnulf Moe]]
+[[Category:Males]]
+[[Category:Norwegian individuals]]
+[[Category:Quidditch managers]]
+[[Category:Wizards]]

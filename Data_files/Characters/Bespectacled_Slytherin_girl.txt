@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:glassesgirl.png|250px]]
+|name = Bespectacled Slytherin
+|born = Between [[1 September]] [[1979]] and [[31 August]] [[1980]]<ref name="age">She had to be eleven to be going to Hogwarts.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSF"/>
+|gender = Female<ref name="PSF"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="PSF"/>
+|eyes = 
+|skin = White<ref name="PSF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="PSF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSF"/>
+**[[Slytherin]]<ref name="PSF"/>
+}}
+This '''[[Wizardkind|witch]]''' (born [[1979]] or [[1980]]) starting attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]].<ref name="PSF"/>
+
+==Biography==
+===Education at Hogwarts===
+She was [[Sorting ceremony|sorted]] into [[Slytherin|Slytherin House]] at the [[Start-of-Term Feast]] for the [[1991-1992 school year]], and sat by [[Draco Malfoy]] at the Slytherin table after being sorted.<ref name="PSF">{{PS|F}} - Chapter 12 (''The Sorting Hat'')</ref>
+
+==Physical description==
+She had short dark hair and wore glasses.<ref name="PSF"/>
+
+==Appearances==
+*{{PS|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowana dziewczyna w okularach ze Slytherinu]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Slytherins Sorted in 1991]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

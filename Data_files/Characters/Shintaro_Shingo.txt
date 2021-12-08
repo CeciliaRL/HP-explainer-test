@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme=quidditch-player
+|image=
+|name=Shintaro Shingo
+|hideb=y
+|born=after [[1976]], [[Japan]]
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Beater]] for the [[Japanese National Quidditch team]]
+|house=
+|loyalty=*[[Mahoutokoro]]<ref>{{WW|mahoutokoro}}</ref>
+*[[Japanese National Quidditch team]]
+|nationality = [[Japan]]ese}}
+'''Shintaro Shingo'''<ref name="LB">{{PM}} - [[PLACE YOUR BETS WITH LUDO BAGMAN]] (Archived)</ref> was a Japanese wizard who played as a [[Beater]] for the [[2014]] [[Japanese National Quidditch team]]. During the seventh round match of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], against [[Polish National Quidditch team|Poland]], Shingo, along with fellow Beater [[Masaki Hongo|Hongo]], was largely responsible for Japan's decisive victory by preventing Poland's [[Seeker]], Wladyslaw Wolfke from catching the Snitch.<ref name="PM">{{PM}} - [[JAPAN VERSUS POLAND]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Shingo, Shintaro}}
+
+[[de:Shintaro Shingo]]
+[[es:Shintaro Shingo]]
+[[fr:Shintaro Shingo]]
+[[pl:Shintarō Shingo]]
+[[ru:Синтаро Синго]]
+[[Category:20th century births]]
+[[Category:Beaters]]
+[[Category:Japanese individuals]]
+[[Category:Mahoutokoro students]]
+[[Category:Males]]
+[[Category:Wizards]]

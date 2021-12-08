@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Notability}}
+{{Individual infobox
+|theme = hufflepuff
+|image = Ernie macmillian.png
+|name = Boy in Study Hall
+|born = [[31 August]] [[1981]] or earlier<ref name="age">He must have been in at least his first year in 1992.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSF"/>
+|gender = Male<ref name="COSF"/>
+|height = 
+|weight = 
+|hair = Black<ref name="COSF"/>
+|eyes = 
+|skin = Light<ref name="COSF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="COSF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSF"/>
+**[[Hufflepuff]]<ref name="COSF"/>
+}}
+This '''boy''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]], who was a member of [[Hufflepuff]] house. In [[1992]], he was studying in the [[Study Hall]] in [[1992]] along with [[Hannah Abbott]], [[Ernest Macmillan|Ernie Macmillan]] and another [[Hufflepuff]] boy.<ref name="COSF">{{COS|F}}</ref>
+
+==Behind the scenes==
+*He was portrayed by [[Great Britain|British]] actor [[Robert Ayres]] in {{COS|FA}}.
+
+==Appearances==
+*{{PS|F}} {{c|scenes cut}}
+*{{COS|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Hufflepuffs]]
+[[Category:Wizards]]

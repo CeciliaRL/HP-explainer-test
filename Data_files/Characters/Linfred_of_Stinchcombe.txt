@@ -1,0 +1,83 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:Linfred de Stinchcombe.png|250px]]
+|name=Linfred of Stinchcombe
+|hideb=
+|born=[[12th century]]<ref name="PM"/>
+|died=
+|blood=
+|marital=
+|alias=The Potterer<ref name="PM"/> 
+|title=
+|signature=
+|hidep=
+|species=[[Human]]<ref name="PM"/>
+|gender=Male<ref name="PM"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Hardwin Potter]] (son) †<ref name="PM"/>
+*[[Hardwin Potter's siblings|Six other children]] †<ref name="PM"/>
+*[[Iolanthe Peverell]] (daughter-in-law) †<ref name="PM"/>
+*[[Potter family|Generations of Potters]] (descendants) †<ref name="PM"/>
+*[[James Potter I]] (descendant) †<ref name="PM"/>
+*[[Harry Potter]] (descendant)<ref name="PM"/>
+*[[James Potter II|James Sirius Potter]] (descendant)<ref name="PM"/>
+*[[Albus Potter|Albus Severus Potter]] (descendant)<ref name="PM"/>
+*[[Lily L. Potter|Lily Luna Potter]] (descendant)<ref name="PM"/>
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=*[[Potioneer]]<ref name="PM"/>
+*Founding patriarch of the [[Potter family]]<ref name="PM"/>
+|house=
+|loyalty=[[Potter family]]<ref name="PM"/>
+}}
+'''Linfred of Stinchcombe''', also known by the nickname '''The Potterer''',<ref name="PM"/> was a [[12th century|twelfth-century]] [[wizardkind|wizard]] and pioneering [[potioneer]], credited with inventing many medicinal [[potion]]s. He was the founding patriarch of the [[Potter family]].<ref name="PM">{{WW|the-potter-family}}</ref>
+
+==Biography==
+In the [[12th century]], Linfred lived in the village of [[Stinchcombe]], [[wikipedia:Gloucestershire|Gloucestershire]], where he had a reputation as an eccentric, absent-minded man.<ref name="PM"/> Nonetheless, his helpful nature and affability made him universally liked and his [[Non-magic people|Muggle]] neighbours often came to him seeking remedies for their ailments. He was always able to brew these [[potion]]s for them, using ingredients readily-available from his garden.<ref name="PM"/>
+
+The Muggles remained unaware that Linfred's remedies were [[magic]]al and thus continued thinking of him as just a strange, lovable man who enjoyed "pottering about in his garden with all his funny plants."<ref name="PM"/> This lead to him being given the nickname "the Potterer", which over the years was corrupted into simply "Potter."<ref name="PM"/>
+
+As his neighbours did not know he was a [[wizardkind|wizard]], Linfred was able to conduct experiments in peace, inventing a number of medicinal potions (including ones which later developed into [[Skele-Gro]] and [[Pepperup Potion]]).<ref name="PM"/> He sold these potions to fellow witches and wizards, amassing great wealth in the process.<ref name="PM"/>
+
+Linfred fathered seven children. He left each of them a significant amount of [[galleon|gold]] upon his death. His eldest son, [[Hardwin Potter|Hardwin]], married [[Iolanthe Peverell]].<ref name="PM"/>
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': Linfred was a master [[Potioneer]] and inventor in the twelfth century. He invented a number of medicinal potions that were used and manufactured long after his death.<ref name="PM"/>
+*'''[[Healing magic]]''': Linfred was also highly accomplished in healing magic, having developed several powerful healing potions, such as [[Skele-Gro]] and the [[Pepperup Potion]].<ref name="PM"/>
+*'''[[Herbology]]''': He possessed considerable skills in Herbology, as he was able to grow the plants in his garden needed for ingredients in brewing potions.<ref name="PM"/>
+
+==Behind the scenes==
+*Linfred of Stinchcombe's life story echoes that of [[The Wizard and the Hopping Pot]] from {{TBB}}, and may have been the inspiration for the story.
+
+==Appearances==
+*{{PM}} {{1st mention}}
+*{{WW}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Potions}}
+{{DEFAULTSORT:Linfred}}
+[[de2:Linfred von Stinchcombe]]
+[[de:Linfred of Stinchcombe]]
+[[es:Linfred de Stinchcombe]]
+[[fr:Linfred de Stinchcombe]]
+[[pl:Linfred ze Stinchcombe]]
+[[ru:Линфред Стинчкомбский]]
+[[Category:English individuals]]
+[[Category:Historical figures]]
+[[Category:Inventors]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Potioneers]]
+[[Category:Potter family|Linfred]]
+[[Category:Wizards]]

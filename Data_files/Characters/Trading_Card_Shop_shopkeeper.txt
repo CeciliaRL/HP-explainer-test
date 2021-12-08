@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:TradingCardShopShopkeeper.png]]
+|name = Trading Card Shop shopkeeper
+|born = Before [[1974]] (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = White
+|eyes = Green
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Shopkeeper
+|house = 
+|loyalty = [[Trading Card Shop]]
+}}
+{{Dialogue a-b|Derek|Also, there are new card combinations to use when you're in a tight spot.|Shopkeeper|Could use some new combos. I still remember the Confuse Lunch combination. Worst card combo ever.|An exchange between [[Derek (Wizard Card Collectors' Club)|Derek]], the shopkeeper, and [[Harry Potter]]|Harry Potter and the Chamber of Secrets (video game)}}
+This '''individual''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who ran the [[Trading Card Shop]] in [[Diagon Alley]], in the early [[1990s]].
+
+In the summer of [[1992]], he and [[Derek (Wizard Card Collectors' Club)|Derek]] had a brief conversation with [[Harry Potter]] regarding the new card combinations that had been put into circulation that summer.<ref>{{COS|G}} - GBC version</ref>
+
+==Appearances==
+*{{COS|G}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Diagon Alley}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

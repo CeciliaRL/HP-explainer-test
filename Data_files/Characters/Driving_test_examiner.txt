@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Driving test examiner
+|born = c. [[1996]] or earlier<ref>The examiner must have been at least 21 in 2017, when he examined Ron Weasley during his driving test.</ref>
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = *Examiner
+*Instructor
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Driving instructor and Driving test examiner
+|house = 
+|loyalty = 
+}}
+{{Dialogue a-b-a|Ron Weasley|Hermione couldn't believe I could pass a Muggle driving test, did you? She thought I'd have to confund the examiner.|Hermione Granger|No, I didn't. I had complete faith in you.|As a matter of fact, I ''did'' Confund him...|[[Harry Potter]], [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]] discuss Ron's dexterity at driving|Harry Potter and the Deathly Hallows}}
+
+This '''individual''' was a driving instructor and examiner with the British Ministry of Transport by [[2017]] and examined driving test candidate [[Ronald Weasley|Ron Weasley]] the same year. The examiner awarded Ron with a driving licence subsequent to his examination, but only after he had been [[Confundus Charm|confunded]] by his candidate, a [[Wizardkind|wizard]]. Had the examiner not had this charm performed upon him, Ron would not have been awarded his licence, as he failed to look in the wing mirror during the examination. Ron explained, however, that he did not consider this mistake important, as a [[Supersensory Charm]] could be used for the very same purpose as the mirror. Ron did not confide his use of the charm during the test to his wife, [[Hermione Granger]].
+==Trivia==
+Ron's use of the Confundus Charm on his driving instructor might constitute a breach of the [[International Statute of Wizarding Secrecy|International Statute of Secrecy]]. It is unknown if there were any repercussions from this.
+
+==Appearances==
+*{{DH}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Egzaminator Ronalda Weasleya]]
+[[fr:Examinateur du permis de conduire]]
+[[Category:British individuals]]
+[[Category:Males]]
+
+[[Category:Unidentified Muggles‎]]

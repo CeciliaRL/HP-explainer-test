@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Eustace Fawley's uncle
+|born = 
+|died = 
+|blood = [[Pure-blood]], [[Half-blood]] or [[Squib]] (possibly)<ref>If he was the uncle of a wizard in the [[Fawley family]], who were included in the [[Pure-Blood Directory]] in the [[1930s]], it would be unlikely that he was a Muggle or a Muggle-born. He would very likely a pure-blood, or at least a half-blood. It is also possible that he was a Squib.</ref>
+|marital = 
+|nationality =  
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC7" />
+|gender = Male<ref name="FBC7" />
+|height = 
+|weight = 
+|hair =  
+|eyes =  
+|skin =  
+|family = *[[Eustace Fawley's father|Brother or brother-in-law]]<ref name="FBC7" />
+*[[Eustace Fawley]] (nephew)<ref name="FBC7" />
+|romances = 
+|animagus = 
+|boggart = 
+|wand =  
+|patronus = 
+|job = 
+|house =  
+|loyalty = [[Fawley family]]
+}}
+An unidentified '''individual''' was the uncle of a [[Wizardkind|wizard]], [[Eustace Fawley]]. Eustace spoke fondly of him, and how he lived in [[Fiji]].<ref name="FBC7">{{FBC|7}}</ref>
+
+==Behind the scenes==
+*It's unknown what side of Eustace's family he belonged to. Since the [[Fawley family]] was included in the [[Pure-Blood Directory]] in the [[1930s]], it's unlikely (but not impossible) that they would marry into a Muggle family. He was likely a wizard. 
+**If he was a Fawley, he would have been part of a well-known wizarding family. 
+
+==Appearances== 
+*{{FBC}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}} 
+{{Character-stub}}
+[[Category:Fawley family]] 
+[[Category:Males]]
+[[Category:Unnamed family members]]

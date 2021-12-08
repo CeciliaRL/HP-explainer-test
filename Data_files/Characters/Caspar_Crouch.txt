@@ -1,0 +1,75 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Caspar Crouch.png|250px]]
+|name = Caspar Crouch
+|born = 
+|died = Before [[1995]]<ref name="dead">In {{GOF|B|36}}, Dumbledore refers to [[Bartemius Crouch Junior|Bartemius Crouch Jnr]] as "''the last remaining member of a pure-blood family as old as any''" meaning that all other members of the family were dead by 1995.</ref>
+|blood = [[Pure-blood]]
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Bartemius Crouch Snr's grandfather|Barty Snr's grandfather]] (possible father) †
+*[[Charis Black|Charis Crouch]] (née [[House of Black|Black]]) (wife) †
+*[[Caspar Crouch's son|Son]] †
+*[[Caspar Crouch's daughters|2 daughters]] †
+*[[Bartemius Crouch Senior|Bartemius Crouch Snr]] (possible son) †
+*[[Arcturus Black II]] (father-in-law) †
+*[[Lysandra Yaxley|Lysandra Black]] (née [[Yaxley family|Yaxley]]) (mother-in-law)
+*[[Callidora Black|Callidora Longbottom]] (née [[House of Black|Black]]) (sister-in-law)
+*[[Cedrella Black|Cedrella Weasley]] (née [[House of Black|Black]]) (sister-in-law)
+*[[Harfang Longbottom]] (brother-in-law)
+*[[Septimus Weasley]] (brother-in-law)
+*[[Harfang Longbottom's son]] (nephew)
+*[[Harfang Longbottom's daughter]] (niece)
+*[[Arthur Weasley's brothers]] (nephews)
+*[[Bilius]] (possible nephew) †
+*[[Arthur Weasley]] (nephew)
+*[[Bartemius Crouch Junior's mother|Mrs Crouch]] (possible daughter-in-law) †
+*[[Bartemius Crouch Junior|Bartemius Crouch Jnr]] (possible grandson) †
+*[[Crouch family]]
+*[[House of Black]] (in-laws)
+|romances = [[Charis Black|Charis Crouch]] (wife)
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Crouch family]]
+*[[House of Black]]
+}}
+'''Caspar Crouch''' (fl. 20th century) was a [[pure-blood]]<ref>The [[House of Black|Blacks]] were known to only have married [[Pure-blood]]s</ref> [[Wizardkind|wizard]] who married pure-blood [[Charis Black]] from the noble [[House of Black]]. The couple had three children: a [[Caspar Crouch's son|son]] and [[Caspar Crouch's daughters|two daughters]].<ref>''[[House of Black|Black family tree]]''</ref> He might be the father of [[Bartemius Crouch Senior|Bartemius Crouch Snr]], though this is unconfirmed.
+
+His name appears on the [[Black Family Tapestry|Black family tree tapestry]].
+
+==Appearances==
+*{{OOTP|F}} {{Comment|Name seen on Black family tree tapestry}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Crouch, Caspar}}
+
+[[de:Caspar Crouch]]
+[[ru:Каспер Крауч]]
+[[fr:Caspar Croupton]]
+[[pl:Caspar Crouch]]
+[[de2:Caspar Crouch]]
+[[Category:20th century deaths]]
+[[Category:British individuals]]
+[[Category:Crouch family]]
+[[Category:House of Black]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

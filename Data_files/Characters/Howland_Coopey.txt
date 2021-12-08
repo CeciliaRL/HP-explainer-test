@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Howland Coopey
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Howland Coopey''' was a [[Wizardkind|wizard]] who sent a letter to the ''[[Daily Prophet]]'s'' advice column<ref name=":0">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[1 June]], [[1999]], Problem Page</ref>. He was sick and wanted to know if the symptoms he was experiencing — a green-and-purple rash between his toes and sparks coming out of his nostrils when he sneezed — were cause for concern. In his reply, [[Helbert Spleen|Professor Spleen]] informed Coopey that he was suffering from a ''"simple case"'' of [[Dragon Pox]]<ref name=":0" />. Oddly, despite Dragon Pox being potentially fatal, Professor Spleen does not recomned he go to St Mungo's, but rather to "immerse [his] nose continually in ice cold water<ref>https://www.hp-lexicon.org/thing/problem-page/im-turning-purple/</ref>."
+==Appearances==
+*''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Coopey, Howland}}
+
+
+[[ru:Хаулэнд Коупи]]
+[[pl:Howland Coopey]]
+[[Category:British individuals|Cooper, Buckley]]
+[[Category:Males|Cooper, Buckley]]
+[[Category:Wizards|Cooper, Buckley]]

@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Madame Glossy
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Owner or operator of [[Madame Glossy's Finest Cleaning Products Ltd.]]
+*[[Potioneer]]
+|house = 
+|loyalty = [[Madame Glossy's Finest Cleaning Products Ltd.]]
+}}
+'''Madame Glossy''' was presumably the [[Wizardkind|witch]] who gave her name to [[Madame Glossy's Silver Polish]] and [[Madame Glossy's Self-Polishing Shoe Polish]], presumably being the owner or operator of [[Madame Glossy's Finest Cleaning Products Ltd.]].<ref name="POAF">{{POA|F}}</ref><ref name="GOFF">{{GOF|F}}</ref> It is unknown whether she was the inventor or simply the manufacturer of these [[Potion|products]].
+
+==Etymology==
+The name Glossy comes from the adjective glossy, meaning "having a smooth, silklike, reflective surface".<ref>''[http://en.wiktionary.org/wiki/glossy Glossy on Wiktionary]''</ref> This suggests a rather effective silver polish.
+
+==Appearances==
+*{{POA|F}} {{1st Mention}}
+*{{GOF|F}} {{Mention}}
+*{{HPWC}} — ''Label Collection'' book
+
+==Notes and references==
+{{Reflist}}
+{{Potions}}
+[[es:Madame Glossy]]
+[[pl:Glossy]]
+[[Category:Females|Glossy]]
+[[Category:Potioneers]]
+[[Category:Wizards]]

@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=L. Wakefield
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Wakefield family]]
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=*[[Numerology|Numerologist]]
+*Author
+|house=
+|loyalty=[[Wakefield family]]
+}}'''L. Wakefield''' was a [[Wizardkind|witch or wizard]], [[Numerology|numerologist]], and the author of at least one book on the subject, ''[[Numerology (book)|Numerology]]''.<ref name="MinaLima">[http://www.minalima.com/film-work/graphic-props/5/ MinaLima Design - Film work: graphic props]</ref>
+
+Wakefield also gave their name to [[L. Wakefield's Broomcare Wax]].<ref name="HBPF">{{HBP|F}} {{See image|File:BroomcareWax.jpg}}</ref> It is unknown whether Wakefield was this product's inventor or simply its manufacturer.
+
+==Behind the scenes==
+*This character was presumably named after [[Lauren Wakefield]], a graphic artist who worked on ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]'', and both parts of ''[[Harry Potter and the Deathly Hallows (film)|Harry Potter and the Deathly Hallows]]''.
+
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name seen on book cover}}
+*{{HBP|F}} {{Comment|Name seen on label}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]'' {{Comment|Name seen on label}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Wakefield, L.}}
+[[pl:L. Wakefield]]
+[[fr:L. Wakefield]]
+[[pt-br:L. Wakefield]]
+[[Category:Authors]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Numerology]]
+[[Category:Wakefield family|L.]]
+[[Category:Wizards]]

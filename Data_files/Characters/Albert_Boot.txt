@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Albert Boot
+|hideb=
+|born=Before [[1730]]
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office.</ref>
+|alias=
+|title=[[Minister for Magic]]
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Boot family]]
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Minister for Magic|British Minister for Magic]] ([[1747]] - [[1752]])
+|house=
+|loyalty=*[[Boot family]]
+*[[British Ministry of Magic]]
+}}
+
+'''Minister Albert Boot''' was [[Minister for Magic]] from [[1747]] to [[1752]]. He was considered a likeable Minister, but also an inept one. After mismanaging a [[18th century goblin rebellion|goblin rebellion]], he resigned from the post.<ref>{{WW|ministers-for-magic}}</ref>  He was first elected Minister by the Wizarding population of [[Great Britain]] and [[Ireland]] after the death of [[Eldritch Diggory]].
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Eldritch Diggory]]
+|position=[[Minister for Magic]]
+|years=[[1747]] - [[1752]]
+|successor=[[Basil Flack]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Boot, Albert}}
+[[de:Albert Boot]]
+[[es:Albert Boot]]
+[[fr:Albert Boot]]
+[[pl:Albert Boot]]
+[[pt-br:Albert Boot]]
+[[ru:Альберт Бут]]
+[[zh:艾伯特·布特]]
+[[de2:Albert Boot]]
+[[Category:Boot family|Albert]]
+[[Category:British Ministers for Magic]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

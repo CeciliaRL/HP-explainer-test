@@ -1,0 +1,46 @@
+{{Notability}}
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:Gryffindor Boy.png|250px]]
+|name = Unidentified Gryffindor boy
+|born = On or prior to [[31 August]] [[1980]]<ref>At the youngest, he was sorted in [[1991]] and must be 11 by then.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAF"/>
+|gender = Male<ref name="POAF"/>
+|height = 
+|weight = 
+|hair = Black<ref name="POAF"/>
+|eyes = Dark<ref name="POAF"/>
+|skin = Brown<ref name="POAF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="POAF"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAF"/>
+**[[Gryffindor]]<ref name="POAF"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] and a student at [[Hogwarts School of Witchcraft and Wizardry]], and was [[Sorting Hat|sorted]] into [[Gryffindor]]. He attended [[Care of Magical Creatures]] class during the [[1993–1994 school year]], and was present when [[Draco Malfoy]] was provocatively attacked by [[Buckbeak]].<ref name="POAF">{{POA|F}}</ref>
+
+==Behind the scenes==
+*The individual is portrayed by [[Ricky Sahota|Rick Sahota]] in {{POA|FA}} and is credited in the end credits as ''Boy 2''.
+
+==Appearances==
+*{{POA|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

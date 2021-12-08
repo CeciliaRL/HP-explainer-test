@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|image =
+|name = Unidentified evil sorcerer
+|born =
+|died =
+|born =
+|alias =
+|blood =
+|title =
+|signature =
+|nationality =
+|species = [[Human]]<ref name="TBBF"/>
+|gender = Male<ref name="TBBF"/>
+|skin =
+|eyes =
+|hair =
+|weight =
+|height =
+|family =
+|romances =
+|boggart =
+|animagus =
+|patronus =
+|wand = [[Altheda's wand]] (stolen)<ref name="TBBF"/>
+|house =
+|job =
+|loyalty = [[Dark Arts]]<ref name="TBBF"/>
+|theme = dark-wizard
+}}
+{{Quote|The second, by name [[Altheda]], had been robbed of her home, her gold and her [[Altheda's wand|wand]] by an evil sorcerer|Altheda's description|The Tales of Beedle the Bard}}
+An '''unidentified [[Dark Wizard|evil sorcerer]]''' robbed [[Altheda]] of her home, [[wizarding currency|money]], and [[wand]], causing her to go to [[The Fountain of Fair Fortune]] in the hope of finding relief from her powerlessness, poverty and despair.<ref name="TBBF">{{TBB|F}}</ref>
+
+==Appearances==
+*{{TBB|R}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Tales of Beedle}}
+
+[[es:Hechicero malvado (La Fuente de la Buena Fortuna)]]
+[[Category:Criminals]]
+[[Category:Dark wizards]]
+[[Category:Fictional characters]]
+[[Category:Males]]
+[[Category:The Fountain of Fair Fortune]]
+[[Category:Unidentified individuals]]

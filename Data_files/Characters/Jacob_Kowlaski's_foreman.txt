@@ -1,0 +1,25 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Jacob Kowlaski's foreman
+|blood = [[Non-magic people|No-Maj]]<ref name="FB82"/>
+|nationality = [[United States of America|American]]<ref name="FB82"/>
+|species = [[Human]]<ref name="FB82"/>
+|gender = Male<ref name="FB82"/>
+|job = Foreman at [[Moreton Dale Canning Factory]]<ref name="FB82"/>
+|loyalty = [[Moreton Dale Canning Factory]]<ref name="FB82"/>
+|theme = muggle
+}}
+This '''foreman''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] man who worked at the [[Moreton Dale Canning Factory]] during the [[1920s]] while [[Jacob Kowalski]] was employed there.<ref name="FB82"/>
+
+During a visit to [[The Blind Pig]] [[speakeasy]] in [[1926]], Jacob remarked that [[Gnarlak]] reminded him of his foreman, after [[Muggle duelling|punching]] the disreputable [[Goblin]] in the face.<ref name="FB82">{{FB|S|82}}</ref>
+
+==Appearances==
+*{{FB|S}} {{1st mention}}
+*{{FB|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Contremaître de Jacob Kowalski]]
+[[Category:American individuals]]
+[[Category:Foremen]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

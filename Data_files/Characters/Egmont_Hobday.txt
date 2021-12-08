@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Egmont Elvert Hobday
+|born = [[30 November]], [[1998]]<ref name="DP"/>
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">Both his parents were wizards, so he was not [[Muggle-born]].</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Male<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Hilliard Hobday]] (father)<ref name="DP"/>
+*[[Violetta Hobday]] (mother)<ref name="DP"/>
+*[[Oakden Hobday]](possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hobday family]]<ref name="DP"/>
+}}
+'''Egmont Elvert Hobday''' (born [[30 November]], [[1998]]) was the son of [[Hilliard Hobday|Hilliard]] and [[Violetta Hobday]]. His birth was announced in the ''[[Daily Prophet]]''.<ref name="DP">[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]: [[8 February]], [[1999]], Page 2</ref>
+
+==Etymology==
+The name Egmont is a German boys name and means ''weapon''.
+
+==Appearances==
+*{{DP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Hobday, Egmont}}
+
+[[pl:Egmont Hobday]]
+[[fr:Egmont Hobday]]
+[[Category:1998 births]]
+[[Category:British individuals]]
+[[Category:Hobday family|Egmont]]
+[[Category:Males]]
+[[Category:Wizards]]

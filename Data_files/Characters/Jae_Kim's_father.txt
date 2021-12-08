@@ -1,0 +1,36 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Jae Kim's father
+|born = 
+|died = 
+|blood = 
+|marital =  
+|nationality = 
+|alias = 
+|title = 
+|species = [[Human]]<ref name="TGHC"/>
+|gender = Male<ref name="TGHC"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family =*[[Jae Kim's mother|Wife]]<ref name="HM724">{{HM|7|24}}</ref>
+*[[Jae Kim]] {{C|son}}<ref name="TGHC"/>
+|romances=
+|job = 
+|loyalty = [[Kim family]]<ref name="TGHC"/>
+}}
+'''Mr Kim''' was the father of [[Jae Kim]]. When Jae was young, he often shared [[tteokbokki]] with his father.<ref name="TGHC">{{HM|5|THE GREAT HOGWARTS COOK-OFF}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Kim family]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

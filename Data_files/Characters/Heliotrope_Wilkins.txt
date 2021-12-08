@@ -1,0 +1,73 @@
+{{Youmay|the former Hogwarts Headmistress|[[Heliotrope Willis]] the activist and leader of the [[Troll Rights Movement]]}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Heliotrope Wilkins.jpg|250px]]
+|name = Heliotrope Wilkins
+|born = 
+|died = In or before [[1992]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, Wilkins must have died sometime in or before [[1992]], given her portrait's appearance in the [[Headmaster's office]] in {{COS|FA}}.</ref>
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]<ref name="COSF"/>
+*[[Headmaster|Headmistress]]<ref name="COSF"/>
+|signature = 
+|species = [[Human]]<ref name="COSF"/>
+|gender = Female<ref name="COSF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Light<ref name="COSF"/>
+|family = [[Ella Wilkins]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSF"/>
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="COSF"/>
+*[[Wilkins family]]<ref name="COSF"/>
+}}
+'''Professor Heliotrope Wilkins''' was a [[Wizardkind|witch]], and former [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].<ref name="COSF"/>
+
+==Biography==
+===Lifetime===
+Heliotrope served as [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]] sometime before [[Armando Dippet]].<ref name="COSF"/>
+
+===Post-mortem===
+After her [[death]], sometime before 1943, her [[portrait]] was hung in the [[Headmaster's office]], in order to give advice to the current Head.<ref name="COSF">{{COS|F}} DVD (Disc 2 - Dumbledore's Office)</ref> She also had portraits hung at the Grand Staircase.<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+
+==Behind the scenes==
+*Heliotrope Wilkins's portrait seems to be a direct reference to [http://upload.wikimedia.org/wikipedia/commons/0/0c/Allan_Ramsay_003.jpg a 1766 portrait of Jean-Jacques Rousseau], by [[Wikipedia:Allan Ramsay (artist)|Allan Ramsay]].
+
+==Etymology==
+[[Wikipedia:Heliotropium|Heliotrope]] is a term used to describe a plant, which turns to face the sun, derived from the Greek ''helios'', "sun", and ''tropein'', "to turn."<ref>"{{Wikilink|Heliotropium}}</ref> In the {{w|Language of flowers}}, heliotropes represent devotion.<ref>{{wikilink|Language_of_flowers}}" on Wikipedia</ref> Miss Heliotrope is a character in ''{{w|The Little White Horse}}'', a [[1946]] novel by {{w|Elizabeth Goudge}}, which was a childhood favourite of [[J. K. Rowling]].<ref>[http://www.accio-quote.org/articles/2001/1001-sydney-renton.htm ''Sydney Morning Herald'' article] on Accio Quote!</ref>
+
+Wilkins is an English patronymic surname based on Wilkin,<ref>"http://www.surnamedb.com/surname.aspx?name=Wilkins Wilkins]" on The Surname Database</ref> a nickname of the given names Will and William,<ref>"[http://surnames.behindthename.com/php/search.php?terms=wilkinson Wilkinson]" on Behind the Name</ref> which both derive from Wilhelm, a Germanic name made up of the elements ''wil'', "will", and ''helm'', "helmet".<ref>"http://www.behindthename.com/name/william William" on Behind the Name</ref> This was also the surname [[Hermione Granger]] chose, when she invented new identities for her parents, [[Hermione Granger's father|Mr]] and [[Hermione Granger's mother|Mrs Granger]], and sent them into hiding for safety's sake, during the [[Second Wizarding War]].
+
+==Appearances==
+*{{COS|F}} {{1st}} {{Portrait}}
+*{{LEGO|Y1}} {{Portrait}}
+*{{LEGO|Y2}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+*{{WWHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Wilkins, Heliotrope}}
+{{Hogwarts towers}}
+[[de:Heliotrope Wilkins]]
+[[es:Heliotrope Wilkins]]
+[[ru:Гелиотропа Уилкинс]]
+[[pl:Heliotrope Wilkins]]
+[[fr:Heliotrope Wilkins]]
+[[Category:British or Irish individuals]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Portraits]]
+[[Category:Wilkins family]]
+[[Category:Wizards]]

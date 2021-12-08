@@ -1,0 +1,45 @@
+{{Transcribed image|File:NewYorkGhost-6December1926.jpg}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=M. P. Nettum
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Reporter for ''[[The New York Ghost]]''
+|house=
+|loyalty=[[The New York Ghost]]
+}}
+'''M. P. Nettum''' was a reporter for ''[[The New York Ghost]]'' in the [[1920s]]. They wrote an article, published in the [[6 December]] [[1926]] issue of the newspaper, on the claims of the [[New Salem Philanthropic Society]] and the potential threat said claims posed to [[wizardkind|wizarding]] [[International Statute of Wizarding Secrecy|secrecy]].<ref name="nyghost">{{WWMM|1}} {{see image|File:NewYorkGhost-6December1926.jpg}}</ref>
+
+==Appearances==
+*{{FB|F}} {{comment|Name mentioned in newspaper}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Nettum, M. P.}}
+[[fr:M. P. Nettum]]
+[[Category:American individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Journalists]]
+[[Category:The New York Ghost staff]]
+[[Category:Wizards]]

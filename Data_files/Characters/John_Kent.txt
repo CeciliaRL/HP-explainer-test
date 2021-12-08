@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = John Kent
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="PSF"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PSF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSF"/>
+|gender = Male<ref name="PSF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Greengrocer]]<ref name="PSF"/>
+|house = 
+|loyalty = [[John Kent Fruiterers]]<ref name="PSF"/>
+}}
+'''John Kent''' was a [[Non-magic people|Muggle]] [[greengrocer]] who owned [[John Kent Fruiterers]].<ref name="PSF">{{PS|F}}</ref>
+
+==Etymology==
+The name "John" is the English form of ''Iohannes'', the Latin form of the Greek name Ιωαννης (''Ioannes''), itself derived from the Hebrew name יוֹחָנָן (''Yochanan''), meaning "Yahweh is gracious".
+
+==Appearances==
+*{{PS|F}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Kent, John}}
+[[pl:John Kent]]
+[[Category:British individuals]]
+[[Category:Greengrocers]]
+[[Category:Males]]
+[[Category:Muggles]]

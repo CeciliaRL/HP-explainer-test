@@ -1,0 +1,46 @@
+{{Individual_infobox
+|image=
+|theme=individual
+|name=Lamont
+|hideb=
+|born=before [[1955]] (most likely)
+|died=
+|blood=
+|marital=
+|alias="Stubby"
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Hector Lamont]] (son)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}'''"Stubby" Lamont''' was the father of the [[Scottish National Quidditch team|Scottish]] [[Seeker]] [[Hector Lamont]]. After their defeat in the final of the [[1990 Quidditch World Cup]], in which his son missed the [[Golden Snitch|Snitch]] by millimetres, Hector famously blamed Stubby for not giving him longer fingers, in a post-match interview.<ref name="PM">[[Quidditch World Cup 1990 - 2014]] (Archived from {{PM}})</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:Lamont]]
+[[ru:«Обрубок Ламонт»]]
+[[pl:Stubby Lamont]]
+[[fr:Stubby Lamont]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Scottish individuals]]
+[[Category:Unnamed family members]]

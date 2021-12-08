@@ -1,0 +1,51 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Unidentified first year Slytherin boy with friends.jpg]]
+|name = Unidentified first year boy
+|born = Between [[1 September]] [[1976]] and [[31 August]] [[1977]]<ref name="HM">{{HM|5|AN ENCHANTED KISS}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male<ref name="HM"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="HM"/>
+|eyes = 
+|skin = 
+|family = Mother
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+This '''[[Wizardkind|wizard]]''' was a student who attended [[Hogwarts School of Witchcraft and Wizardry]] during [[Jacob's sibling]]'s time at school.<ref name="HM"/>
+==Biography==
+{{Quote|My mum says I can't fall in love until I'm at least twenty.|This boy to his friends|Harry Potter|Hogwarts Mystery}}
+He was born somewhere in [[Great Britain]] or [[Ireland]] during the early [[1970s]]. He started attending [[Hogwarts School of Witchcraft and Wizardry]] on [[1 September]] [[1988]] and was [[Sorting ceremony|sorted]] into [[Slytherin]] house.<ref name="HM"/>
+
+==Behind the scenes==
+*It is possible that he is [[Lucian Bole]] or [[Peregrine Derrick]].
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Sorted in 1988]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Gunhilda Kneen
+|born = c. [[12th century]]<ref name="QTA3"/>
+|died = 
+|blood = 
+|marital = Married<ref name="QTA3"/>
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = [[Chaser|Catcher]]<ref name="QTA3"/>
+|signature = 
+|species = [[Human]]<ref name="QTA3"/>
+|gender = Female<ref name="QTA3"/><ref name="QTA3"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Goodwin Kneen]] (husband)<ref name="QTA3"/>
+*[[Olaf]] (cousin-in-law)<ref name="QTA3"/>
+*[[Kneen family]]<ref name="QTA3"/>
+|romances = [[Goodwin Kneen]] (husband)<ref name="QTA3"/>
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser|Catcher]]<ref name="QTA3"/> 
+|house = 
+|loyalty = [[Kneen family]]<ref name="QTA3"/>
+}}
+'''Gunhilda Kneen''' (fl. [[12th century]]) was a [[Wizardkind|witch]] who was married to [[Goodwin Kneen]]. She played ''Kwidditch'' (''[[Quidditch]]''), and was a ''Catcher'' (''[[Chaser]]''). Prior to a match against a nearby team from Ilkley, Gunhilda contracted a touch of [[Dragon Pox]], and was unable to play, forcing the team to use [[Radulf]]. After the victory, Goodwin got drunk at the local inn, and Gunhilda was not best pleased - she [[Finger-removing jinx|jinxed]] him, causing him to lose his fingers temporarily.<ref name="QTA3">{{QTA|R|3}}</ref>
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': As a "Catcher" ([[Chaser]]), she was presumably a skilled enough [[broomstick]] flyer and [[Quidditch]] player.<ref name="QTA3"/>
+*'''[[Dark Arts]]''': She once [[jinx]]ed her husband with a [[finger-removing jinx]], showing she had a level of skill with [[dark charm]]s.<ref name="QTA3"/>
+
+==Etymology==
+The name "Gunhilda" comes from the Old Norse name Gunnhildr, derived from the elements gunnr, "war" and hildr, "battle".
+
+==Appearances==
+*{{QTA|R}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Kneen, Gunhilda}}
+{{Quidditch positions}}
+[[de:Gunhilda Kneen]]
+[[es:Gunhilda Kneen]]
+[[fr:Gunhilda Kneen]]
+[[pl:Gunhilda Kneen]]
+[[ru:Гунхильда Нин]]
+[[zh:冈希尔达·尼恩]]
+[[Category:British individuals]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Kneen family]]
+[[Category:Married individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,59 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Kowalski
+|born = 
+|died = [[1914]]-[[1918]]
+|blood = [[Muggle|No-Maj]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Jacob Kowalski]] (brother)
+*[[Jacob Kowalski's grandfather|Unnamed grandfather]]
+*[[Jacob Kowalski's grandmother|Unnamed grandmother]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Serviceman in the U.S. armed forces
+|house = 
+|loyalty = *[[Kowalski family]]
+*[[United States of America]] military
+}}
+'''Mr Kowalski''' (died [[1914]]-[[1918]]) was an [[United States of America|American]] [[Muggle|No-Maj]] man who fought in the [[First World War]] and was ultimately killed during it.
+
+He had a brother, [[Jacob Kowalski|Jacob]], who also served in the war but survived. He may have been born in [[Poland]] like his brother was.<ref name="poland">''[[Fantastic Beasts and Where to Find Them: Magical Movie Handbook]]'' {{see image|File:Jacob Kowalski background - movie handbook.png}}</ref>
+
+==Media==
+<gallery width="200" position="center" spacing="small" captionalign="center" hideaddbutton="true">
+File:Jacob's brother died in the war - Fantastic Beasts and Where to Find Them -Deleted Scene-
+</gallery>
+
+==Appearances==
+*{{FB|S}} {{1st Mention}}
+*{{FB|F}} {{C|Mentioned in a deleted scene}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Kowalski, Mr}}
+[[pl:Brat Jacoba Kowalskiego]]
+[[Category:1910s deaths]]
+[[Category:American individuals]]
+[[Category:First World War casualties]]
+[[Category:First World War veterans]]
+[[Category:Kowalski family]]
+[[Category:Males]]
+[[Category:Military personnel]]
+[[Category:Muggles]]
+[[Category:Unnamed family members]]

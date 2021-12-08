@@ -1,0 +1,68 @@
+{{Individual infobox
+|theme = mom
+|image = [[File:Radford.png|250px]]
+|name = Mnemone Radford
+|born = [[1562]]<ref name="JKRS"/>
+|died = [[1649]] (aged 86–87)<ref name="JKRS"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="JKRS"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Female<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = White<ref name="JKRS"/>
+|eyes = Blue<ref name="JKRS"/>
+|skin = Light<ref name="JKRS"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Obliviator]]<ref name="JKRS"/>
+*[[Spell creation|Spell inventor]]<ref name="JKRS"/>
+|house = 
+|loyalty = [[British Ministry of Magic]]<ref name="JKRS"/>
+}}
+'''Mnemone Radford''' ([[1562]]–[[1649]]) was a [[Great Britain|British]] [[Wizardkind|witch]], who first developed [[Memory Charm|Memory Modifying Charms]]. She became the first [[British Ministry of Magic]] [[Obliviator]], due to her skill and expertise with casting the [[charm]].<ref name="JKRS">{{JKRS}}</ref>
+
+==Magical abilities and skills==
+*'''[[Spell creation]]''': Radford had succeeded in the incredibly difficult and complex [[magic]]al art of inventing new [[spell]]s, as she successfully invented [[Memory Charm|Memory-Modifying Charms]], which were particularly useful and practical charms.<ref name="JKRS"/>
+*'''[[Charm]]s''': Radford was highly accomplished with charm-work, given how she successfully invented [[Memory Charm|Memory-Modifying Charms]] and was also skilled with the casting of them, given how she was the first [[Obliviator]] who worked for the [[British Ministry of Magic]].<ref name="JKRS"/>
+
+==Behind the scenes==
+*The text on Mnemone Radford's ''[[Wizard of the Month]]'' entry credits her with the invention of "Memory Modifying Charms". It is therefore possible that she invented both the [[Memory Charm]] and the [[false memory spell|spell that creates false memories]], although the specifics of which exact spells she invented have never been confirmed outright.
+*There are a few issues with this character's chronology. Many years after her first canonical mention in {{JKRS}}, {{PM}} went on to reveal that the [[British Ministry of Magic|Ministry of Magic]] was only formally established in [[1707]], which is 58 years after Mnemone Radford died, so it is uncertain exactly how she could have worked for the Ministry. Even if one considers that the phrase "Ministry of Magic" used on ''[[Wizard of the Month]]'' is an over-simplification and refers to its predecessor, the [[Wizards' Council]], it is still left unexplained what exactly would an [[Obliviator]] do the days before the establishment of the [[International Statute of Wizarding Secrecy]] in [[1692]].
+
+==Etymology==
+Mnemone Radford is described as inventing the [[Memory Charm|Memory Modifying Charm]]. [[wikipedia:Mnemosyne|Mnemosyne]] was an ancient Greek goddess of memory. Her daughter, [[wikipedia:Mneme|Mneme]] was the [[wikipedia:Boeotian muses|muse]] of memory.
+
+==Appearances==
+{{Imagecat|Images of Mnemone Radford}}
+*{{JKRS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Charms}}
+{{Ministry Level 3 employees}}
+
+{{DEFAULTSORT:Radford, Mnemone}}
+[[de:Mnemone Radford]]
+[[fr:Mnemone Radford]]
+[[pl:Mnemone Radford]]
+[[ru:Мнемона Рэдфорд]]
+[[Category:1562 births]]
+[[Category:1649 deaths]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Obliviators]]
+[[Category:Spell inventors]]
+[[Category:Wizard of the Month]]
+[[Category:Wizard secrecy]]
+[[Category:Wizards]]

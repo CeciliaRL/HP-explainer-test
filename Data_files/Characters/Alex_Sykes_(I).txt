@@ -1,0 +1,51 @@
+{{Youmay|the [[Prefect]]|[[Alex Sykes (II)|the Slytherin student]].}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Alex Sykes
+|born = Between [[1 September]] [[1975]] and [[31 August]] [[1978]]<ref name="age">To have been a Prefect in the [[1993–1994 school year]], he would have had to have been in his fifth year or up by that point, thus putting his possible range of birth dates between [[1 September]] [[1975]] and [[31 August]] [[1978]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]<ref name="POAG"/>
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Alex Sykes (II)]] (possibly)
+*[[Jocunda Sykes]] (possibly)
+*[[Sykes family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Sykes family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAG"/>
+}}
+'''Alex Sykes''' was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] between [[1987]] and [[1989]]. By the [[1993–1994 school year]], he had been made a [[Prefect]], and was tasked with patrolling areas of the school off limits to students.<ref name="POAG">{{POA|G}}</ref>
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Sykes, Alex}}
+[[es:Alex Sykes (I)]]
+[[pl:Alex Sykes (I)]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts prefects]]
+[[Category:Males]]
+[[Category:Sorted in the 1980s]]
+[[Category:Sykes family]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Jacturus Cloke - FBC.png|250px]]
+|name = Jacturus Cloke III
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = Blue
+|skin = Pale
+|family = *[[Horatio Cloke]] (ancestor) †
+*[[Cloke family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Cloke family]]
+}}
+'''Jacturus Cloke III''' was a [[Great Britain|British]] [[wizardkind|wizard]], and the last surviving member of the old wizarding [[Cloke family]].<ref name="FBC9-1">{{FBC|9|1}}</ref>
+
+==Biography==
+He lived in the [[Cloke Mansion]] near [[Upper Flagley]] along with the [[ghost]] of his ancestor [[Horatio Cloke]].<ref name="FBC9-1"/>
+
+He attacked [[Megan Scott]] and [[Incarcerous Spell|tied her up]] when she was wandering in a nearby graveyard, but was driven off by a protective [[unicorn]]. He had to be [[Stunning Spell|Stupified]] by [[Mathilda Grimblehawk]] when she and [[Mathilda Grimblehawk's partner|her partner]] came to investigate.<ref>{{FBC|9|3}}</ref> He later revealed that he was trying to gather valuable [[unicorn hair]], [[Unicorn horn|horn]], and [[Unicorn blood|blood]] to restore the lost family fortune.<ref>{{FBC|9|4}}</ref>
+
+==Magical abilities and skills==
+*'''[[Transfiguration]]''': Cloke was capable of performing [[conjuration]], a highly advanced and difficult branch of transfiguration. He effectively conjured ropes with the [[Incarcerous Spell]] to bind [[Megan Scott]] in an [[Upper Flagley]] graveyard.<ref name="FBC9-1"/>
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Cloke, Jacturus III}}
+
+[[fr:Jacturus Cloke III]]
+[[pl:Jacturus Cloke III]]
+[[ru:Яктурус Клоук III]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Cloke family]]
+[[Category:Males]]
+[[Category:Wizards]]

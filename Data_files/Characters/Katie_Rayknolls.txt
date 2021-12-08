@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Katie.png|250px]]
+|name = Katie Rayknolls
+|born = Between [[1711]] and [[1715]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Quidditch Captain#Hogwarts Quidditch Captains|Quidditch Captain]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+**[[Slytherin Quidditch team]]
+}}
+'''Katie Rayknolls''' (b. [[1710s]]) was a [[Wizardkind|witch]] and [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1720s]]. She was [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin]] [[Quidditch]] [[Slytherin Quidditch team|team]] from [[1724]] to [[1728]].<ref>{{HPPS}}, p. 349 {{see image|File:Slytherin Captains Plaque 2.jpg}}</ref>
+
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter films]]'' {{Comment|Name appears on plaque}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]]
+|years=[[1724]]—[[1728]]
+|successor=[[Vicky Bishopper]]
+}}
+{{End box}}
+
+{{hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Rayknolls, Katie}}
+
+[[es:Katie Rayknolls]]
+[[pl:Katie Rayknolls]]
+[[pt-br:Katie Rayknolls]]
+[[ru:Кети Рэйнолс]]
+[[fr:Katie Rayknolls]]
+[[Category:1710s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Hogwarts Quidditch Captains]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1720s]]
+[[Category:Wizards]]

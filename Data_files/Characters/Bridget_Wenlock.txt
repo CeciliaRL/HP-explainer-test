@@ -1,0 +1,110 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = hufflepuff
+|image = [[File:BridgetWenlock.png]]
+|name = Bridget Wenlock
+|born = [[1202]]<br/>[[Tinworth]], [[Cornwall]],<ref name="WBoS">{{WBS}} - see [http://www.youtube.com/watch?v=QCPN3KmWEMA this video]</ref> [[England]], [[Great Britain]]
+|died = [[1285]]<ref name="died">According to {{PM}} she died in 1285 (see [http://vignette3.wikia.nocookie.net/harrypotter/images/2/28/Timeline_of_the_Wizarding_World.png/revision/latest?cb=20150904020044 image])</ref> (aged 82/83)
+|blood = 
+|marital = 
+|nationality = [[England|English]]<ref name="WBoS"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Female<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = Black<ref name="JKRS"/>
+|eyes = Blue<ref name="JKRS">{{JKRS}}</ref>
+|skin = Light<ref name="JKRS"/>
+|family = *[[Bridget Wenlock's cousin|Cousin]]<ref name="WBoS"/>
+*[[Daphne Wenlock]] (likely descendent)<ref name="WU"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Arithmancer]]<ref name="JKRS"/>
+|house = [[Hufflepuff]]<ref name="pottermore">{{PM}} introduction for Hufflepuffs (transcription available [http://lady-slytherin-forever.tumblr.com/post/9001123651/hufflepuff-spoilers here]{{Dead link}})</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="pottermore"/>
+**[[Hufflepuff]]<ref name="pottermore"/>
+}}
+{{Quote|Wenlock first scribbled down her ground-breaking theorem on the magical properties of the number seven at breakfast one day apparently on the back of an envelope, using her usual invisible ink. She then proceeded to send her cousin a letter, using what she later believed to be the very envelope concealing the theorem.|[[Miranda Goshawk]], ''[[Book of Spells]]''|Wonderbook: Book of Spells}}
+'''Bridget Wenlock''' ([[1202]] – [[1285]]) was a famous [[1200s|thirteenth-century]] [[England|English]] [[Wizardkind|witch]] and [[Arithmancer]], and the first to establish the [[magic]]al properties of the number [[seven]].<ref name="JKRS">{{JKRS}}</ref> She was mainly known for being extremely protective of her theorems, therefore writing many of her ideas down in invisible ink.
+
+==Biography==
+===Early life===
+Bridget Wenlock was born in the year [[1202]], in [[Tinworth]], [[Cornwall]].<ref name="WBoS" /> In her youth, she attended [[Hogwarts School of Witchcraft and Wizardry]] from around [[1213]] to [[1220]], where she defied the stereotype of intelligent wizards only coming from Ravenclaw by being [[Sorting ceremony|sorted]] into [[Hufflepuff]].<ref name="pottermore" /> She presumably took and studied [[Arithmancy (class)|Arithmancy class]] at Hogwarts from her [[third year]] onwards.
+
+===Adulthood===
+After her graduation from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]], Bridget Wenlock studied further into [[Arithmancy]], becoming an accomplished and celebrated [[Arithmancer]].
+
+Wenlock, like a number of other magical researchers, was very protective of her discoveries; her paranoia was so that she wrote exclusively in [[Invisible Ink]], upside-down, back-to-front and in atrocious handwriting. She was also noted for her absent-mindedness, managing to promptly lose scraps of paper in which she had scribbled invisible notes. Because of this, it was not an unusual sight to see her retracing her steps through her hometown, attempting to use the [[Revealing Charm]] on every scrap of paper she came across, in search of a lost Arithmancy calculation.<ref name="WBoS"/>
+
+[[File:BridgetWenlockWriting.png|241x241px|thumb|left|Bridget Wenlock in her house in [[Tinworth]], conducting her studies in Arithmancy]]
+It was one day, during breakfast, that Wenlock wrote the immensely famous theorem that supported the magical properties of the number [[seven]]. She wrote it down on what she thought was the back of an envelope, in the usual [[Invisible Ink]]. That same day, she posted a letter to [[Bridget Wenlock's cousin|her cousin]], using what she later realised was the envelope in which she had written the theorem. Wenlock seized her broom at once, and managed to overtake the [[owl]] carrying the letter mid-flight but the owl refused to give anyone the letter but its addressee. After several nips and scratches, Wenlock had to resort to simply following the owl to her cousin's house in [[John O'Groats]], around 600 miles away.<ref name="WBoS"/>
+
+When she finally retrieved the envelope from her cousin, a [[Revealing Charm]] revealed that it contained no more than a cake recipe. It was only when she returned to [[Tinworth]] that Wenlock found out that her calculations were scrawled on a sugar packet that was still sitting on her kitchen table.<ref name="WBoS"/> It was precisely this theorem that made her such a celebrated [[Arithmancer]] for centuries to come.
+
+At some point, Bridget presumably had children, as she had a relative by the name of [[Daphne Wenlock]] who, as of [[2020]], was working at an Inn at number seven, Aldwych Road in Tinworth.<ref name="WU">{{WU}}</ref>
+
+===Death and post-mortem===
+[[File:Bridget_Wenlock_Portrait.jpg|215x215px|thumb|right|Wenlock's portrait at [[Hogwarts Castle]]]]Ms. Wenlock died in [[1285]], aged around 83. In her honour, her [[Arithmancy]] achievement was recorded on a [[Chocolate Frog Card]].<ref name="PSg">{{PS|G}}</ref>
+
+There was also a [[portrait]] of her hung on the [[Sixth-floor corridor]] of [[Hogwarts Castle]], hiding a secret passage to the [[Portrait Room]] (the password was ''Snafflejack'').<ref name="PApc">{{POA|G}} - {{C|PC version}}</ref> There was also a bust of her on the [[Fat Lady's Corridor]], on the seventh floor of the Castle.<ref name="PA/g">{{POA|G}} - {{C|Console versions}}</ref>
+
+During his third year at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]], sometime between [[1987]] and [[1990]], [[Gabriel Truman]] got into a big trouble for duelling a [[Ravenclaw]] [[Prefect]], who insisted that Bridget Wenlock had come from his house. Instead of a week of detentions, [[Pomona Sprout|Professor Sprout]] let him off with a warning and a box of [[Pink Coconut Ice|coconut ice]].<ref name="pottermore"/>
+
+==Magical abilities and skills==
+*'''[[Arithmancy]]''': Wenlock was a highly accomplished and celebrated [[Arithmancer]], who notably discovered the [[magic]]al properties of the number [[seven]]. She devised many impressive numerical calculations throughout her career and was highly protective of her theorems that she had created.<ref name="JKRS"/> Her knowledge and experience in this field of [[magic]] warranted her inclusion on her own [[Chocolate Frog Card]].<ref name="PSg"/>
+*'''[[Charm]]s''': Wenlock was also talented with charm-work, as she was capable of casting the [[Revealing Charm]], which she used to reveal the contents of many of her own personal mathematical notes and papers written in [[Invisible Ink]].<ref name="WBoS"/>
+
+==Behind the scenes==
+*Interestingly, both Bridget Wenlock's first and last name are each seven letters long.
+*Her habit of scribbling her theories on paper scraps may be a reference to mathematician [[wikipedia:Pierre de Fermat|Pierre de Fermat]] who was infamous for writing his theories in the margins of his books. The most famous of these is [[wikipedia:Fermat's Last Theorem|Fermat's Last Theorem]], which wasn't proven until 1994, over 300 years after his death.
+
+==Appearances==
+{{Imagecat|Images of Bridget Wenlock}}
+
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{Statue}} {{Portrait}}
+*{{JKRS}} {{1st}}
+*{{PM}} {{FWC}}
+*{{WBS}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Wenlock, Bridget}}
+
+{{Arithmancy}}
+{{Hogwarts seventh floor}}
+{{Chocolate Frog Cards}}
+[[de:Bridget Wenlock]]
+[[es:Bridget Wenlock]]
+[[ru:Бриджит Венлок]]
+[[fi:Bridget Wenlock]]
+[[pl:Bridget Wenlock]]
+[[fr:Brigitte Wenlock]]
+[[it:Bridget Wenlock]]
+[[no:Bridget Wenlock]]
+[[nl:Brenda Wendekind]]
+[[zh:布里奇特·温洛克]]
+[[sv:Bridget Wenlock]]
+[[ja:ブリジット・ウェンロック]]
+[[Category:1202 births]]
+[[Category:1285 deaths]]
+[[Category:Arithmancers]]
+[[Category:Blue-eyed individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Busts]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Hufflepuffs]]
+[[Category:Portraits]]
+[[Category:Sorted in the 1210s]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

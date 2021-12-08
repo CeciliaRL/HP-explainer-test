@@ -1,0 +1,58 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hufflepuff
+|image = [[File:HufflepuffGirl2.png]]
+|name = Girl whose quill was taken by Cedric
+|born = Between [[1 September]] [[1974]]  and [[31 August]] [[1976]] (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]<ref name="PSgba" />
+|signature = 
+|species = [[Human]]<ref name="PSgba" />
+|gender = Female<ref name="PSgba" />
+|height = 
+|weight = 
+|hair = Blonde<ref name="PSgba" />
+|eyes = Dark<ref name="PSgba" />
+|skin = White<ref name="PSgba" />
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="PSgba" />
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSgba" />
+**[[Hufflepuff]]<ref name="PSgba" />
+}}
+{{Quote|Seen Cedric around anywhere? He's nicked my quill.|The student|Harry Potter and the Philosopher's Stone (video game)}}
+This '''individual''' (born c. [[1974]]-[[1976]]) was a [[wizardkind|witch]] who, in the early [[1990s]] was one of the [[Hufflepuff]] [[Prefect]]s at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PSgba">{{PS|G}} - GBA version</ref>
+
+==Biography==
+{{Quote|Potter! I'm going to report this blatant disregard for a prefect's authority. 6 points from Gryffindor!|This student is hit by a spell|Harry Potter and the Philosopher's Stone (video game)}}
+She attended breakfast in the [[Great Hall]] on the day of the [[Gryffindor Quidditch team|Gryffindor]] vs. [[Ravenclaw Quidditch team|Ravenclaw]] [[Quidditch]] match, where she commented that [[Cedric]] had taken her [[Quill|writing quill]].<ref name="PSgba" />
+{{Quote|I just want you to know that you're no less of a hero to me just because I have to take 6 House points from you for being out at night.|The prefect catches [[Harry Potter]] breaking school rules.|Harry Potter and the Philosopher's Stone (video game)}}
+She was patrolling the [[Third-floor corridor]] on the night of [[4 June]], [[1992]]. When [[Harry Potter]], [[Ronald Weasley]] and [[Hermione Granger]] passed by [[Peeves]], she heard something and went to investigate.<ref name="PSgba" />
+
+{{Quote|Wow, Harry Potter himself, violating the rules like any other student. You really have the common touch. 6 points from Gryffindor for being out at night.|The prefect catches [[Harry Potter]] breaking school rules|Harry Potter and the Philosopher's Stone (video game)}}
+She admired [[Harry Potter]] and, whenever she caught him sneaking around at night, she was surprised to find him there, breaking school rules just like "any other student" and even assuring him that the fact that she had to deduct him [[house points]] did not change the fact that she looked up to him as a hero.<ref name="PSgba" />
+
+==Behind the scenes==
+*This NPC has the distinction of being one of the only [[Prefect]]s that deducts [[House points]] whenever she is the target of a stray spell during the daytime hours — the other such Prefect is [[Percy Weasley]].
+
+==Appearances==
+*{{PS|G}} {{1st}} {{C|GBA version}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hogwarts prefects]]
+[[Category:Sorted in the 1980s]]
+[[Category:Unidentified Hufflepuffs]]
+[[Category:Wizards]]

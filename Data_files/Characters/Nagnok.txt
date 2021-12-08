@@ -1,0 +1,57 @@
+{{WizardsUniteSpoiler}}
+{{Youmay|Nagnok|[[Ragnok]]}}
+{{Individual infobox
+|theme = gringotts
+|image = [[File:Nagnok.png|thumb]]
+|name = Nagnok
+|born = 
+|died = Before [[1801]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Gringotts Wizarding Bank|Gringotts]] employee
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]
+}}
+'''Nagnok''' was a [[Gringotts Wizarding Bank|Gringotts]] [[goblin]] who was accidentally killed by an untrained [[Security Troll]] sent by the [[British Ministry of Magic|Ministry of Magic]], sometime in or before the [[18th century]].<ref name="WOMBAT">Third [[Wizards' Ordinary Magic and Basic Aptitude Test]] from {{JKRS}}.</ref> His accidental death was a catalyst to one of many [[Goblin Rebellions]] in the [[17th century|17th]] and [[18th century|18th centuries]].<ref>This piece of information comes from the third [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]] featured in {{JKRS}}. Question 2 (''Part One - Magical History'') is "Which of the following did NOT provoke one of the bloody goblin rebellions of the 17th and 18th centuries? Choose ONE.", and one of the possible answers is "''The accidental death of Nagnok, Gringotts Goblin, at the hands of an untrained security troll sent by the Ministry of Magic''". As one of the other answers is known for certain to be false ("''The imprisonment of the notoriously violent Hodrod the Horny-Handed, who had attempted to kill three wizards ''" — the ''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' reveal that [[Hodrod the Horny-Handed]] was indeed imprisoned for attempting to kill three wizards, but this happened in [[1999]], during the [[Chipping Clodbury riot]]), then all of the other answers must be true, including the one about Nagnok.</ref>
+
+==Behind the scenes==
+*In{{WWHP}}, one can see an office at [[Gringotts Wizarding Bank]] bearing Nagnok's name on the door.<ref name="DIS">[https://www.youtube.com/watch?v=dFTDXIHCDUA The DIS - "''Harry Potter and the Escape from Gringotts Queue and Dragon''"] on [https://www.youtube.com/ Youtube]</ref> While it is true that Nagnok worked at Gringotts, it is unusual that his office still bears his name, around at least 200 years after his death. Though this may be a different Goblin with the same first name.
+
+==Appearances==
+*{{JKRS}} {{1st Mention}}
+*{{WU}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Nagnok]]
+[[es:Nagnok]]
+[[pl:Nagnok]]
+[[ru:Нагнок]]
+
+[[Category:Accidental deaths]]
+[[Category:Bankers]]
+[[Category:British individuals]]
+[[Category:Deaths by creature]]
+[[Category:Deceased individuals]]
+[[Category:Goblins]]
+[[Category:Gringotts employees]]
+[[Category:Historical figures]]
+[[Category:Males]]

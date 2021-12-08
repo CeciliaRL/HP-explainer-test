@@ -1,0 +1,42 @@
+{{Imageless}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Dotty McNiven
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="FBC"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC"/>
+|gender = Female<ref name="FBC"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job =  
+|house = 
+|loyalty = 
+}}
+'''Dotty McNiven''' was a [[Great Britain|British]] [[Wizardkind|witch]]. When she was sick, she ended up involved in the case of a [[Non-magic people|Muggle]] farmer, [[Howard Chalk]] who kept losing sheep.<ref name="FBC">{{FBC|10}}</ref> 
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:McNiven, Dotty}}
+{{Character-stub}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Wizards]]

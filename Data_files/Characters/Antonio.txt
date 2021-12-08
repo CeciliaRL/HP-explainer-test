@@ -1,0 +1,42 @@
+{{Pet individual infobox
+|image = ANTONIO.jpg
+|name = Antonio
+|born = Pre [[1927]]
+|died = 
+|alias = 
+|title = 
+|species = [[Chupacabra]]<ref name="COG2">{{COG|S|2}}</ref>
+|gender = Male<ref name="COG2"/>
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = Blue and red<ref name="COG2"/>
+|family = 
+|loyalty = [[Gellert Grindelwald]] (formerly)<ref name="COG2"/>
+}}
+{{Quote|I know. Okay. I know, Antonio. So needy.|[[Gellert Grindelwald]]|Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay}}
+'''Antonio''' was a baby [[Chupacabra]] chained to [[Gellert Grindelwald]]'s chair in his cell during his brief imprisonment at the [[Magical Congress of the United States of America]] in [[1926]]-[[1927]]. Most notably, it participated in [[Gellert Grindelwald's escape]].<ref name="COG2"/>
+
+==Biography==
+Shortly before Grindelwald's attempted [[Gellert Grindelwald's escape|extradition to Europe]], under escort by several [[Auror]]s and [[Rudolph Spielman]] (the [[International Confederation of Wizards]]'s [[Head of Incarceration]]) Grindelwald managed to switch places with MACUSA official [[Abernathy]] using the [[Polyjuice Potion]]. After the [[Incarceration Carriage|high-security flying carriage]] set off from the [[Woolworth Building]], the real Grindelwald [[Apparition|Apparated]] onto the carriage, eliminated all the [[Auror]]s, and destroyed [[Rudolph Spielman]]'s [[Rudolph Spielman's wand|wand]], who - panicking - opened the box that had been handed to him supposedly containing [[Elder Wand|Grindelwald's wand]], only to have Antonio jump up from inside the opened box and sink his fangs deep into Spielman’s neck.<ref name="COG11">{{COG|S|11}}</ref>
+
+Once Grindelwald clambered inside the carriage, he grabbed Antonio from Spielman and rubbed him affectionately; but suddenly, Grindelwald looked at Antonio with distaste and judged the Chupacabra to be "''so needy''", throwing him out the door of the flying carriage.<ref name="COG15">{{COG|S|15}}</ref> It is unknown if Antonio managed to survive the fall or not.
+
+==Appearances==
+{{Imagecat|Images of Antonio}}[[File:AntonioPOP.jpg|thumb|Antonio as a [[POP! Vinyl]]]]
+*{{COG|S}} {{1st}}
+*{{COG}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Antonio, Chupacabra]]
+[[es:Antonio]]
+[[fr:Antonio]]
+[[pl:Antonio]]
+[[ru:Антонио]]
+[[Category:Chupacabras]]
+[[Category:Gellert Grindelwald's possessions]]
+[[Category:Males]]
+[[Category:Pets]]

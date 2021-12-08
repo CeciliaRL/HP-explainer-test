@@ -1,0 +1,44 @@
+{{Imageless}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Ollivander's Assistant
+|hideb=
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]<ref name="WWHP"/>
+|gender=Female<ref name="WWHP"/>
+|height=
+|hair=
+|eyes=
+|skin=Light<ref name="WWHP"/>
+|hidef=f
+|family=
+|hidem=m
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Ollivander's Wand Shop (Hogsmeade)|Ollivander's assistant]]<ref name="WWHP"/>
+|house=
+|loyalty=[[Ollivanders]]<ref name="WWHP"/>
+}}
+{{Quote|My assistant will take you into the back room.|[[Unidentified Ollivander's associate]]|The Wizarding World of Harry Potter}}
+'''Ollivander's assistant''' was a [[Wizardkind|witch]] who helped [[Garrick Ollivander]] at his [[Ollivanders|shop]]. She was known to ask the customer whether they wanted to buy the [[wand]] they were given and told them how it much would cost.<ref name="WWHP">{{WWHP}}</ref>
+
+==Appearances==
+*{{WWHP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Ollivanders employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

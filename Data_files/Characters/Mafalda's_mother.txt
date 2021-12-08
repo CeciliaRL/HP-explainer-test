@@ -1,0 +1,48 @@
+{{Cut content}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mafalda's mother
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Molly Weasley's second cousin|Husband]]
+*[[Mafalda]] (daughter)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+The '''mother''' of [[Mafalda]] was a [[Non-magic people|Muggle]] woman. She was married to an estranged [[Molly Weasley's second cousin|second cousin]] of [[Molly Weasley]].
+
+==Behind the scenes==
+*[[J. K. Rowling]] has revealed that [[Mafalda]] and her parents were characters she once planned to include in {{GOF}}. After discovering their daughter was a [[Wizardkind|witch]], Mafalda's parents were supposed to visit the [[Weasley family]], hoping that they would help introduce her to the wizarding world. However, Rowling ultimately decided to cut Mafalda out of the plot, thus calling into question the canonicity of her and her parents.<ref name="mafalda">"[http://web.archive.org/web/20110501092559/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=3 Mafalda (Goblet of Fire)]" from {{JKRS}} (archived by the Internet Archive's Wayback Machine)</ref>
+
+==Appearances==
+*{{GOF}} {{Comment|Cut from final edit}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Matka Mafaldy]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

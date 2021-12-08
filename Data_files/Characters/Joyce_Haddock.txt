@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Joyce Haddock
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = Married
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = [[File:Joyce Haddock sig.png|165px]]
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Swimming examiner at [[Smeltings Academy|Smeltings]]
+|house = 
+|loyalty = [[Smeltings Academy]]
+}}
+'''Joyce Haddock''' was a [[Non-magic people|Muggle]] woman. A swimming examiner at [[Smeltings Academy]], she presented [[Distance Award|an award]] to [[Dudley Dursley]] for swimming five metres, or one-quarter the full length of the pool in the [[1990s]].<ref name="HPPS 1">{{HPPS}}, p. 402: "There's one from 'Smeltings Academy' with a leaping salmon for swimming a quarter of the pool," McMillan laughs, "awarded by Mrs Joyce Haddock."</ref><ref name="HPPS 2">{{HPPS}}, p. 403 {{see image|File:DudleyAward4.jpg}}</ref>
+
+==Behind the scenes==
+*Her name is likely a reference to the fish [[wikipedia: Haddock|Haddock]].
+
+==Appearances==
+*{{HPPS}} {{1st Mention}} {{C|Name seen on award certificate}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Haddock, Joyce}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Smeltings employees]]

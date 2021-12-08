@@ -1,0 +1,44 @@
+{{Transcribed image|File:ReginaldHeartachus.JPG}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Bimp
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Painter
+|house = 
+|loyalty = 
+}}
+'''Bimp''' was a [[Wizardkind|wizard]] and painter. He painted the [[portrait]] of [[Reginald Heartachus]], which he signed in the lower left corner, after the subject's name.<ref name="HPLE">{{HPLE|PA}}</ref>
+
+==Appearances==
+*[[Harry Potter (film series)|''Harry Potter'' films]] {{Comment|Signature on portrait}}
+*{{HPLE}} {{Comment|Signature on portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+[[fr:Bimp]]
+[[pl:Bimp]]
+[[Category:Artists]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,56 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme=macusa
+|image=
+|name=Wilhelm Fischer
+|hideb=hide
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Auror]]
+|house=
+|loyalty=[[Magical Congress of the United States of America]]
+}}
+'''Wilhelm Fischer''' was an [[United States of America|American]] wizard and one of the twelve original [[Auror]]s for the [[Magical Congress of the United States of America]].<ref name="WW">{{WW|macusa}}</ref>
+
+He died before reaching "old age."<ref name="WW"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+{{DEFAULTSORT:Fischer, Wilhelm}}
+
+[[de:Wilhelm Fischer]]
+[[fr:Wilhelm Fischer]]
+[[pl:Wilhelm Fischer]]
+[[ru:Вильгельм Фишер]]
+[[de2:Wilhelm Fischer]]
+[[Category:American individuals]]
+[[Category:Deceased individuals]]
+[[Category:Historical figures]]
+[[Category:Original twelve MACUSA Aurors]]
+[[Category:Males]]
+[[Category:Wizards]]

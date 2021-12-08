@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:GrantPage.png|250px]]
+|name = Grant Page
+|born = In or prior to [[31 August]] [[1981]] (most likely)<ref name="age">He was most likely at least in his second year in 1993, as first years rarely joined the House Quidditch teams.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Keeper]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Red<ref name="QWC"/>
+|eyes = Hazel<ref name="QWC"/>
+|skin = White<ref name="QWC"/>
+|family = [[Page family]]<ref name="QWC"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="QWC"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="QWC"/>
+**[[Ravenclaw]]<ref name="QWC"/>
+***[[Ravenclaw Quidditch team]]<ref name="QWC"/>
+}}
+'''Grant Page''' was a [[Wizardkind|wizard]] and [[Ravenclaw]] student who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He was the [[Keeper]] for the [[Ravenclaw Quidditch team]] during the [[1993–1994 school year]].<ref name="QWC">{{QWC}}</ref>
+
+==Etymology==
+The name "Grant" comes from a Scottish surname which was derived from Norman French grand meaning "great, large".
+
+==Appearances==
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Andre Egwu]]
+|position=[[Keeper]] of the [[Ravenclaw Quidditch team]]
+|years=at least [[1993]]-[[1994]]
+|successor=Unknown
+}}
+{{End box}}
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Page, Grant}}
+[[de:Grant Page]]
+[[es:Grant Page]]
+[[fr:Grant Page]]
+[[pl:Grant Page]]
+[[ru:Грант Пейдж]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Page family]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

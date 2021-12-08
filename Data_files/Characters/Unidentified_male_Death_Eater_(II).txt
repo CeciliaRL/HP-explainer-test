@@ -1,0 +1,43 @@
+{{Notability}}
+{{Conjecture}}
+{{Individual infobox
+|theme=death-eater
+|image=[[File:Yaxleydeathlyhaloows.jpg|250px]]
+|name=Unidentified Death Eater
+|hideb=
+|born=
+|died=
+|blood=[[Pure-blood|Pure blood]] or [[Half-blood]]
+|alias=
+|title=[[Death Eaters|Death Eater]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=Brown
+|eyes=
+|skin=Light
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|hidea=
+|job=
+|house=
+|loyalty=*[[Death Eaters]]
+*[[Tom Riddle|Lord Voldemort]]
+}}
+An '''unidentified Death Eater''' stood outside [[12 Grimmauld Place]] along with [[Corban Yaxley]] to keep watch for [[Harry Potter]], [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]] in the summer of [[1997]].<ref>{{DH|F1}}</ref>
+
+==Appearances==
+*{{DH|F1}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+[[Category:British individuals]]
+[[Category:Males|Death Eater (II)]]
+[[Category:Unidentified Death Eaters|Male Death Eater (II)]]

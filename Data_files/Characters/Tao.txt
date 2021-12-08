@@ -1,0 +1,47 @@
+{{SODSpoiler}}
+{{Unreleased}}
+<!-- Infobox is currently empty. When any information becomes available, it may be uncommented.
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Tao
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+-->
+'''Tao''' was an individual listed in [[Nicolas Flamel]]'s [[Nicolas Flamel's phoenix-embossed book|phoenix-embossed book]], although Tao was not present when Nicolas needed help.<ref name="Tao">[https://twitter.com/MauraLeamy/status/1399834621995630594/ If you recall, 'Tao' was one of the names found in the pages of Flamel's Phoenix book in CoG] by [https://twitter.com/MauraLeamy FantasticBeastsMovies.com on Twitter]  {{see image|File:Tao in Flamels Phoenix book.jpg}}</ref>
+
+==Behind the scenes==
+*Based on their name, it is possible that they were Chinese or of Chinese descent, as Tao is both a first name and last name in China. 
+*Tao will be a important character in {{SOD}}, as this individual was close friends with [[Nicolas Flamel]] and has their own [[Tao's supporter|supporter]].<ref name="Tao"/>
+
+==Appearances==
+*{{COG}} {{1st Mention}} {{C|Name seen on book}}
+*{{SOD}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Creatures]]
+[[Category:Individuals of unknown or undetermined gender]]

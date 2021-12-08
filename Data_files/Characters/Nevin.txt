@@ -1,0 +1,41 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = pet
+|image = 
+|name = Nevin
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Newt]]<ref name="WU"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Constance Pickering]] (owner)<ref name="WU"/>
+}}
+'''Nevin''' was a [[newt]] owned by [[Constance Pickering]]. Constance was never quite as adept at [[Charms (class)|Charms]] as she would have liked, and she spent the time between classes practising various [[charm]]s on Nevin.<ref name="WU">{{WU}}, Brilliant Event: "First Year at Hogwarts" </ref>
+
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Constance Pickering's possessions]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Newts]]
+[[Category:Pets]]

@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Dungeon prefectII.png|250px]]
+|name = Dungeon Corridor Slytherin Prefect (II)
+|born = Between [[1 September]] [[1975]] - [[31 August]] [[1978]] (most likely)<ref name="age">He was a Prefect during the 1993 - 1994 school year, indicating he was in his fifth, sixth, seventh, or a repeat year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]<ref name="POAG"/>
+|signature = 
+|species = [[Human]]<ref name="POAG"/>
+|gender = Male<ref name="POAG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="POAG"/>
+|eyes = Brown<ref name="POAG"/>
+|skin = Dark<ref name="POAG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="POAG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POAG"/>
+**[[Slytherin]]<ref name="POAG"/>
+}}
+This '''[[Wizardkind|wizard]]''' attended [[Hogwarts School of Witchcraft and Wizardry]] and was a member of [[Slytherin|Slytherin House]]. He was made a [[Prefect]] in his [[fifth year]] and, at least during the [[1993–1994 school year]], often patrolled the [[Dungeon Corridor]] with [[Dungeon Corridor Slytherin Prefect (I)|a fellow Slytherin Prefect]].<ref name="POAG">{{POA|G}}</ref>
+
+==Appearances==
+*{{POA|G}} {{1st}} {{C|Console versions}}
+
+==Notes and references==
+{{Reflist}}
+{{Head boys and prefects}}
+[[es:Prefecto de Slytherin del Corredor de las Mazmorras (II)]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Hogwarts prefects]]
+[[Category:Males]]
+[[Category:Sorted in the 1980s]]
+[[Category:Unidentified Slytherins]]
+[[Category:Wizards]]

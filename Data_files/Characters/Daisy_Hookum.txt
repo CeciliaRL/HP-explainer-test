@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:DaisyHookum.png]]
+|name = Daisy Hookum
+|born = [[1962]]<ref name="JKRS"/>
+|died = 
+|blood = 
+|marital = Married<ref name="JKRS"/>
+|nationality = [[Great Britain|British]]<ref name="JKRS"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Female<ref name="JKRS"/>
+|height = 
+|weight = 
+|hair = Red<ref name="JKRS"/>
+|eyes = Brown<ref name="JKRS"/>
+|skin = White<ref name="JKRS"/>
+|family = [[Tilden Toots]] (husband)<ref name="JKRS"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author<ref name="JKRS"/>
+|house = 
+|loyalty = 
+}}
+'''Daisy Hookum''' (b. [[1962]]) was a [[Great Britain|British]] [[Wizardkind|witch]], who wrote a best-selling book, ''[[My Life as a Muggle]]'', after voluntarily giving up using [[magic]] for a year. She was married to celebrity [[Herbologist]], [[Potioneer]] and radio presenter [[Tilden Toots]].<ref name="JKRS">{{JKRS}}</ref>
+
+==Etymology==
+Simply from the English word for the white flower, ultimately derived from Old English dægeseage, meaning "day eye". It was first used as a given name in the 19th century, at the same time many other plant and flower names were coined.
+
+==Appearances==
+{{Imagecat|Images of Daisy Hookum}}
+*{{JKRS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hookum, Daisy}}
+[[de:Daisy Hookum]]
+[[es:Daisy Hookum]]
+[[fr:Daisy Hookum]]
+[[it:Daisy Hookum]]
+[[pt-br:Daisy Hookum]]
+[[pl:Daisy Hookum]]
+[[Category:1962 births]]
+[[Category:Biographers]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

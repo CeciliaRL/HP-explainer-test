@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|image = Unidentified Non-Magique Father in Paris.jpg
+|name = Unidentified Non-Magique father
+|died = August, [[1927]]<br/>[[Paris]], [[France]]
+|blood = [[Non-magic people|Non-Magique]]
+|marital = Married
+|nationality = [[France|French]]
+|species = [[Human]]
+|gender = Male
+|hair = Dark Brown
+|skin = Pale
+|family = *[[Unidentified Non-Magique mother|Wife]] †
+*[[Unidentified Non-Magique toddler|Child]] †
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidea = 
+}}
+This '''unidentified Non-Magique father''' was a [[France|French]] [[Non-magic people|Non-Magique]] resident of [[Paris]] in the [[1920s]].
+
+==Biography==
+Together with his [[Unidentified Non-Magique mother|wife]] and [[Unidentified Non-Magique toddler|child]], he lived in an apartment block somewhere in Paris and was murdered by [[Gellert Grindelwald's acolytes]] under the orders of Grindelwald himself. They later used the family's home as a temporary headquarters, from where he conducted a search for [[Credence Barebone]].<ref name="COGS">{{COG|S}}</ref>
+
+==Behind the scenes==
+*The father was portrayed by an unidentified extra in {{COG}}.
+
+==Appearances==
+*{{COG|S}} {{1st}}
+*{{COG}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Niezidentyfikowany mugolski ojciec]]
+[[Category:1927 deaths]]
+[[Category:Deaths by Killing Curse]]
+
+[[Category:French individuals]]
+[[Category:Global wizarding war casualties]]
+[[Category:Killed by Gellert Grindelwald]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Murder victims]]
+[[Category:Parents]]
+[[Category:Unidentified Muggles]]

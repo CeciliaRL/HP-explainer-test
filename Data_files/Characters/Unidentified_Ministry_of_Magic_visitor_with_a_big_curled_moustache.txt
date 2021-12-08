@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:Moustache Ministry of Magic visitor.jpg|250px]]
+|name=Ministry of Magic visitor with a big curled moustache
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=White
+|eyes=
+|skin=Pale
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[British Ministry of Magic|Ministry of Magic]]
+}}
+This '''individual''' (fl. [[1997]]) was a [[Wizardkind|wizard]] who was visiting the [[British Ministry of Magic|Ministry of Magic]] during the [[Infiltration of the Ministry of Magic]], on [[2 September]], [[1997]]. He wore a black cloak and hat, and had a big white curled moustache. He was rudely pushed aside by [[Corban Yaxley|Yaxley]] who was preventing [[Harry Potter]], [[Ronald Weasley]] and [[Hermione Granger]] to leave the Ministry.<ref>{{DH|F1}} - Chapter 13 (''Lifting the Locket'')</ref>
+
+==Appearances==
+*{{DH|F1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

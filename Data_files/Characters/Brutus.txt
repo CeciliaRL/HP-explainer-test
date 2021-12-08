@@ -1,0 +1,50 @@
+{{Youmay|the saint|[[Brutus (disambiguation)|another person with the same name]]}}
+{{Individual infobox
+|image=
+|theme=individual
+|name=Saint Brutus
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=[[Wikipedia:Saint|Saint]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=[[St Brutus's Secure Centre for Incurably Criminal Boys]] 
+}}
+__NOTOC__
+'''Saint Brutus''' was a [[saint]] whom [[St Brutus's Secure Centre for Incurably Criminal Boys]] was named after.
+
+==Etymology==
+*Brutus was an Ancient Roman name, meaning "''heavy''", "''slow''", "''foolish''".<ref>[http://www.behindthename.com/name/brutus "Brutus"] entry on [http://www.behindthename.com/ Behind the Name].</ref>
+
+==Behind the scenes==
+*As there is no actual Saint Brutus, it is possible [[Vernon Dursley]] made up the school as a cover school for Harry.
+
+==Appearances==
+*{{POA}} {{Mention}}
+*{{POA|F}} {{Mention}}
+*{{GOF}} {{Mention}}
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Humans|Brutus, Saint]]
+[[Category:Males|Brutus, Saint]]
+[[Category:Saints|Brutus, Saint]]

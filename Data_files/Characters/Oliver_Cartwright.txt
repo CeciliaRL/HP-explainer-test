@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Oliver Cartwright
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|signature=[[File:Oliver Cartwright sig.png|165px]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Painter
+|house=
+|loyalty=
+}}'''Oliver Cartwright'''<ref name="LE">{{HPLE}}</ref> was a [[Wizardkind|wizarding]] painter. He painted the [[portrait]] of [[Tobias Misslethorpe]] that hung at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="LE"/>
+
+==Etymology==
+"Oliver" is from ''Olivier'', a Norman French form of a Germanic name such as ''Alfher'' or an Old Norse name such as ''Áleifr''. The spelling was altered by association with Latin ''oliva'' "olive tree". In the [[Middle Ages]] the name became well-known in Western Europe because of the French epic ''La Chanson de Roland'', in which Olivier was a friend and advisor of the hero Roland.
+
+In England Oliver was a common medieval name, however it became rare after the 17th century because of the military commander Oliver Cromwell, who ruled the country following the civil war. The name was revived in the [[19th century]], perhaps in part due to the title character in [[Charles Dickens]]' novel ''Oliver Twist'' ([[1838]]).
+
+==Appearances==
+*''[[Harry Potter (film series)|Harry Potter]]'' films {{Comment|Name seen on portrait}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Cartwright, Oliver}}
+[[pl:Oliver Cartwright]]
+[[fr:Oliver Cartwright]]
+[[Category:Artists]]
+[[Category:Males]]
+[[Category:Wizards]]

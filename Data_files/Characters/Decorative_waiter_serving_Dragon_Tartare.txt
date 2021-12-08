@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:WaiteratSlugClubParty.jpg|250px]]
+|name = Waiter at the Slug Club Christmas party
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBPF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBPF"/>
+|gender = Male<ref name="HBPF"/>
+|height = 
+|weight = 
+|hair = Black<ref name="HBPF"/>
+|eyes = 
+|skin = Light<ref name="HBPF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Waiter at the [[Slug Club Christmas party]]<ref name="HBPF"/>
+|house = 
+|loyalty = [[Slug Club Christmas party]]<ref name="HBPF"/>
+}}
+{{Dialogue a-b-c|Waiter|Dragon tartare?|Hermione Granger|No, I'm fine. Thank you.|Waiter|Just as well. They give one horribly bad breath.|Waiter and Hermione Granger|Harry Potter and the Half-Blood Prince (film)}}
+This '''waiter''' served food and drinks at the [[Slug Club]] [[Christmas]] [[Slug Club Christmas party|party]] in [[1996]] along with [[Neville Longbottom]] and [[Waiter serving Dragon Tartare|another waiter]]. He was seen passing by when [[Horace Slughorn]] and [[Harry Potter]] were having their picture taken. He offered [[dragon tartare]] to [[Harry Potter]] and [[Hermione Granger]]. Both passed, and the waiter told them this choice was for the better, as the ''hors d'oeuvre'' gave one ''"terribly bad breath."'' However, upon hearing this, Hermione took the entire plate, hoping to repel the unwelcome attentions of her date, [[Cormac McLaggen]]. He was later seen decorating a plate of food.<ref name="HBPF">{{HBP|F}}</ref>
+
+==Behind the scenes==
+*This waiter is played by [[Mark Lockyer]] in {{HBP|FA}}.
+*In the book, house elves are the entirety of service staff at the party.
+
+==Appearances==
+*{{HBP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Waitstaff]]
+[[Category:Wizards]]

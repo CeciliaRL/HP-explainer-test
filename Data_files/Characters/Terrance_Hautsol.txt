@@ -1,0 +1,44 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Terrance Hautsol
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Male<ref name="WU"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Statute of Secrecy Task Force]]<ref name="WU"/>
+}}
+'''Terrance Hautsol''' was a [[Wizardkind|wizard]] who owned of several [[Greenhouse]]s across the globe in the [[2010s]]-[[2020s]].<ref name="WU">{{WU}} [[SOS Task Force Training|SOS Task Force Appraisal]]</ref>
+
+==Biography==
+At some point during the [[Calamity]], Terrance gives to [[Calamity Investigator]]s some insight into the nature of plants and growth patterns worldwide, and they immediately turned this information into an increase in the ingredients they were able to produce when using their [[Greenhouse Charm]].<ref name="WU"/>
+
+He also showed them a method of casting Greenhouse Charm directly at the planting bed in his [[London]] Greenhouse - causing an extended window of effect for the spell.<ref name="WU"/>
+==Appearances==
+*{{WU}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Hautsol, Terrance}}
+[[Category:Males]]
+[[Category:Wizards]]

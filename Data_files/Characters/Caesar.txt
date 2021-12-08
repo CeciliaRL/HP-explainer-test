@@ -1,0 +1,44 @@
+{{Cut content}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:KBCaesar128.png|250px]]
+|name = Caesar
+|born = 
+|died = Before [[1991]]<ref name="PSG"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSG"/>
+|gender = Male<ref name="PSG"/>
+|height = 
+|weight = 
+|hair = Black<ref name="PSG"/>
+|eyes = Dark<ref name="PSG"/>
+|skin = Dark<ref name="PSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSG"/>
+}}
+'''Caesar''' was a [[Wizardkind|wizard]] who had a [[portrait]] of himself hung somewhere in [[Hogwarts Castle]] by the [[1991-1992 school year]].<ref name="PSG">{{PS|G}} {{C|PC version}}</ref>
+
+==Behind the scenes==
+*This portrait was meant to appear in the PC version of the [[Harry Potter and the Philosopher's Stone (video game)|video game adaptation]] of {{PS}}. Though the portrait cannot be found in the game, its texture, identified as KB_Caesar_128.bmp, can be found in the game's files.
+
+==Appearances==
+*{{PS|G}} {{Portrait}} {{C|Cut from final version}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Caesar]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

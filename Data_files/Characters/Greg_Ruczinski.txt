@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Usabeaters.JPG|250px]]
+|name = Greg Ruczinski
+|born = In or before [[1977]] (most likely)<ref>He was on the team in Harry Potter: Quidditch World Cup. which takes place in the early 1990s, probably 1994, as Oliver Wood is still shown as the Captain, and he graduated the year before.</ref>, [[United States of America]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[United States of America|American]]<ref name="QWC"/>
+|alias = "Crash"<ref name="QWC"/>
+|title = [[Beater]]<ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="QWC"/>
+|gender = Male<ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Light Blond<ref name="QWC"/>
+|eyes = 
+|skin = White<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[American National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[American National Quidditch team]]<ref name="QWC"/>
+}}
+'''Greg "Crash" Ruczinski''' was an [[United States of America|American]] [[Wizardkind|wizard]] who played as a [[Beater]] on the [[American National Quidditch team]]. He wore a helmet with a [[brown]] [[pumpkin]] design on it.<ref name="QWC">{{QWC}}</ref> By [[1996]], he was featured on a [[Chocolate Frog Card]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Ruczinski, Greg}}
+
+[[es:Greg Ruczinski]]
+[[fr:Grégoire Ruczinski]]
+[[pl:Greg Ruczinski]]
+[[ru:Грег Ружински]]
+[[Category:American individuals]]
+[[Category:Beaters]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Males]]
+[[Category:Wizards]]

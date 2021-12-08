@@ -1,0 +1,76 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Gawain Robards
+|born = Pre [[1969]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Head of the [[Auror Office]] (formerly)<ref name="HBP16"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="HBP16"/>
+**[[Department of Magical Law Enforcement]]<ref name="HBP16"/>
+***[[Auror Office]]<ref name="HBP16"/>
+}}
+{{Quote|And of course, while you were there, you would have ample opportunity to speak to Gawain Robards, my successor as Head of the Auror office.|Rufus Scrimgeour mentioning Robards whilst trying to convince Harry Potter to join the British Ministry of Magic|Harry Potter and the Half-Blood Prince}}
+'''Gawain Robards''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who worked as an [[Auror]] for the [[Auror Office]] under the command of [[Rufus Scrimgeour]] during the [[Second Wizarding War]].<ref name="HBP16" />
+
+==Biography==
+===Second Wizarding War=== 
+Following [[Cornelius Fudge]]'s fall from power in [[1996]], [[Rufus Scrimgeour]] replaced Fudge as [[Minister for Magic]], and as such Robards was promoted to replace Scrimgeour as Head of the Auror Office. Scrimgeour, during his attempts to convince [[Harry Potter]] to become the [[British Ministry of Magic|Ministry of Magic]]'s new "poster boy", offered to set up an interview with Robards, knowing he cherished a desire to join the Auror department one day, in exchange for his cooperation, but Harry refused.<ref name="HBP16">{{HBP|B|16}}</ref>
+
+Robards was succeeded (immediately or otherwise) as Head of the [[Auror Office]] by Harry Potter himself following the end of the war. He appeared to have remained, however, working as an Auror; in response to the [[Calamity]] in the late [[2010s]], he assisted in training [[Auror]] members of the then-recently-established [[Statute of Secrecy Task Force]].<ref name="WU1">{{WU}} {{c|[https://wizardsunitehub.info/profession-skill/gawaining-experience/ Gawaining Experience - Wizards Unite Hub]}}</ref> During his lessons, he taught propsective Aurors how to cast his version of the very complicated [[Confusion Hex]].<ref name="WU2">{{WU}} {{c|[https://wizardsunitehub.info/profession-skill/the-confusion-hex/ The Confusion Hex - Wizards Unite Hub]}}</ref><ref name="WU3">{{WU}} {{c|[https://wizardsunitehub.info/profession-skill/confusion-hex-repetitions/ Confusion Hex Repetitions - Wizards Unite Hub]}}</ref>
+
+==Etymology==
+The meaning of the name "Gawain" is uncertain, from the name of a nephew of [[King Arthur]] and one of the [[knights of the Round Table]] in Arthurian legend. He was a popular hero in [[medieval]] stories such as the [[14th century]] romantic poem 'Sir Gawain and the Green Knight'. In some [[Wales|Welsh]] sources he is considered identical with the earlier Welsh hero Gwalchmei, whose name meant "hawk of May". Alternatively the name may have a different Welsh meaning or even a Germanic origin.{{fact}}
+
+The family name "Robards" means "son of Robert" also a Germanic, [[French]] and Latvian name meaning "Bright fame".{{fact}}
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Robards, Gawain}}
+{{Start box}}
+{{Succession box
+|predecessor=[[Rufus Scrimgeour]]
+|position=Head of the [[Auror Office]]
+|years=[[2 July]], [[1996]]-?
+|successor=Unknown, eventually [[Harry Potter]]
+}}
+{{End box}}
+{{Ministry Level 2 employees}}
+[[de:Gawain Robards]]
+[[de2:Gawain Robards]]
+[[es:Gawain Robards]]
+[[fi:Gawain Robards]]
+[[fr:Gawain Robards]]
+[[it:Gawain Robards]]
+[[pl:Gawain Robards]]
+[[pt-br:Gawain Robards]]
+[[ru:Гавейн Робардс]]
+[[Category:Aurors]]
+[[Category:British individuals]]
+[[Category:Heads of the Auror Office]]
+[[Category:Males]]
+[[Category:Wizards]]

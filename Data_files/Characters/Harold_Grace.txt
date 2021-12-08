@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Harold Grace
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|marital=
+|alias=
+|title=
+|hidep=
+|species=Human
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Composer and lyricist
+|house=
+|loyalty=
+}}
+'''Harold Grace''' was a [[Muggle|No-Maj]] composer and lyricist in the early [[20th century]].<ref name="poster">{{FB|F}} {{See image|File:TheNewYorkAffair.jpg}}</ref>
+
+Grace scored the musical ''[[The New York Affair]]'' in collaboration with [[Lawrence Feldman]].<ref name="poster" /> He wrote the lyrics to the play's songs on his own.<ref name="poster" />
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Grace, Harold}}
+[[Category:American individuals]]
+[[Category:Composers]]
+[[Category:Lyricists]]
+[[Category:Males]]
+[[Category:Muggles]]

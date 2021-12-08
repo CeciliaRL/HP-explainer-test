@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Unidentified frizzy-haired Wizengamot member
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Cornelius Fudge]]
+*[[Wizengamot]]
+}}
+{{Quote|In the second row, a dumpy wizard with a large black moustache leaned close to whisper in the ear of his neighbour, a frizzy-haired witch. She smirked and nodded.|Description|Harry Potter and the Order of the Phoenix}}
+This '''individual''' was a [[wizardkind|witch]] and member of the [[Wizengamot]] in the mid-[[1990s]]. She had frizzy-hair. On [[12 August]], she was present at [[Harry Potter]]'s [[Disciplinary hearing of Harry Potter|disciplinary hearing]], appearing sceptical of [[Arabella Figg]]'s testimony, smirking and nodding to [[Unidentified dumpy Wizengamot member with a large black moustache|the wizard sitting next to her]]'s whispers. She and her neighbour later voted in favour of [[Harry Potter|Harry]]'s conviction.<ref name="OP8">{{OOTP|B|8}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{OOTP|F}} {{Comment|Possible appearance}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Ministry Level 10 employees}}
+
+[[pt-br:Membro da Suprema Corte com cabelos crespos]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]
+[[Category:Wizengamot members]]

@@ -1,0 +1,61 @@
+{{Individual infobox
+|image = [[File:IdrisOakby.png]]
+|name = Idris Oakby
+|born = [[1872]]<ref name="JKRS"/>
+|died = [[1985]] (aged 112 - 113)<ref name="JKRS"/>
+|blood = 
+|title = 
+|alias =
+|signature =
+|nationality =
+|species = [[Human]]<ref name="JKRS"/>
+|gender = Female<ref name="JKRS"/>
+|hair = Grey<ref name="JKRS"/>
+|eyes = Blue<ref name="JKRS"/>
+|skin = White<ref name="JKRS"/>
+|weight =
+|height =
+|family =
+|wand =
+|animagus =
+|patronus =
+|boggart =
+|house =
+|job = Philanthropist<ref name="JKRS"/>
+|loyalty = [[Society for the Support of Squibs]]<ref name="JKRS"/>
+|theme = wizard
+}}
+'''Idris Oakby''' ([[1872]]—[[1985]]) was a [[Wizardkind|witch]], philanthropist and the founder of the [[Society for the Support of Squibs]].<ref name="JKRS">{{JKRS}}</ref>
+
+==Biography==
+
+===Early Life===
+Idris Oakby was born in [[1872]] to parents of unknown [[blood status]], in an unknown country, therefore, nothing is known of her upbringing or education. In her adult life, she set up a charitable organisation called [[Society for the Support of Squibs]] which supported Squibs and helped them live in the [[Wizarding world]].<ref name="JKRS"/> She may have been frowned upon by other wizards and witches for her charitable work, considering how poorly Squibs were generally viewed in the magical world.
+
+===Death and Post-Mortem===
+Oakby [[Death|died]] in [[1985]] at the age of 113.<ref name="JKRS"/>
+
+==Etymology==
+The name "Idris" means "ardent lord" from Welsh ''udd'', "lord, prince" combined with ''ris'', "ardent", "enthusiastic", "impulsive".
+
+==Appearances==
+{{Imagecat|Images of Idris Oakby}}
+*{{JKRS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Idris Oakby]]
+[[es:Idris Oakby]]
+[[fr:Idris Oakby]]
+[[it:Idris Oakby]]
+[[pl:Idris Oakby]]
+[[ru:Идрис Оукби]]
+{{DEFAULTSORT:Oakby, Idris}}
+[[Category:1872 births|Oakby, Idris]]
+[[Category:1985 deaths|Oakby, Idris]]
+[[Category:Blue-eyed individuals]]
+[[Category:Centenarians]]
+[[Category:Females|Oakby, Idris]]
+[[Category:Philanthropists|Oakby, Idris]]
+[[Category:Wizard of the Month|Oakby, Idris]]
+[[Category:Wizards|Oakby, Idris]]

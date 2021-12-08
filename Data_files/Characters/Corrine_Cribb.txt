@@ -1,0 +1,57 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = dark-wizard
+|image = Corrine Cribb HM.png
+|name = Corrine Cribb
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HM"/>
+|gender = Female<ref name="HM"/>
+|height = 
+|weight = 
+|hair = Black<ref name="HM"/>
+|eyes = Grey<ref name="HM"/>
+|skin = Light<ref name="HM"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Dark Arts]]<ref name="HM"/>
+}}
+{{Quote|Her name is Corrine Cribb and she's somehow nastier than she looks.|[[Rubeus Hagrid]] describing Corrine's personality|Harry Potter: Hogwarts Mystery}}
+'''Corrine Cribb''' was a [[Dark Wizard|dark witch]].<ref name="HM"/>
+
+==Biography==
+[[File:Hagrid talking to Corrine Cribb.png|left|thumb|Corrine talking to Hagrid]]
+She threatened [[Rubeus Hagrid]] that she would ask the owner of [[Chinese Fireball at the Magical Creatures Reserve|a female Chinese Fireball]] to sell the [[dragon]] to her, because she wanted to make a [[dragon-skin coat]] out of her.<ref name="HM">{{HM}}, Year ?, Side Quest "Relight the Fire"</ref>
+
+Cribb's desire to purchase the dragon failed thankfully, since [[Jacob's sibling]] and [[Penny Haywood]] managed to cure her inability to breathe [[fire]] with an altered [[Pepperup Potion]], leaving Cribb very angry that she would no longer be able to buy the dragon from its owner. She swore revenge against Hagrid, but Hagrid later told the two students that her "bark was worse than her bite", and that she would be burned if she tried to capture the dragon herself.<ref name="HM"/>
+
+==Physical appearance==
+She looked like a middle-aged woman in the late [[1980s]]. She wore all black. She had dark coloured eyes and black hair with two strands of grey hair made into a bun.<ref name="HM"/>
+
+==Personality and traits==
+According to Rubeus Hagrid, Corrine Cribb was a cruel and callous witch with an utter disregard for both people and animals, as shown with her sadistic desire to have a [[dragon]] skinned alive simply to make a coat from its skin. She also saw no problem with threatening other individuals. However, Hagrid acknowledged that her "bark was worse than her bite", meaning her threats were often empty.<ref name="HM"/>
+
+==Appearances==
+{{Imagecat|Images of Corrine Cribb}}
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Cribb, Corrine}}
+[[ru:Коррин Крибб]]
+[[Category:Bullies]]
+[[Category:Dark wizards]]
+[[Category:Grey-eyed individuals]]
+[[Category:Females]]

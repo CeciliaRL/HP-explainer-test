@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Greek man
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Greece|Greek]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Fluffy]]
+}}
+This '''unnamed [[Greece|Greek]] man''' was a [[Wizardkind|wizard]] who met [[Rubeus Hagrid]] in the [[Leaky Cauldron]] in [[1990]].
+
+==Biography==
+He sold Hagrid the [[Fluffy|three-headed dog]] he owned. Hagrid named this dog [[Fluffy]], and, the [[1991|following year]], lent him to [[Albus Dumbledore]], who used him to guard the [[Philosopher's Stone]]<ref name="PS11">{{PS|B|11}}</ref>on the [[Third-floor corridor]].
+
+==Behind the scenes==
+
+*In {{PS|FA}}, [[Rubeus Hagrid|Hagrid]] states that he bought [[Fluffy]] from "an [[Ireland|Irish]] feller", rather than "a Greek chappie," as he does in the book. This change loses [[J. K. Rowling]]'s reference to [[Wikipedia:Greek mythology|Greek mythology]], in which there was a three-head dog, [[Wikipedia:Cerberus|Cerberus]], that guarded the gates of [[Wikipedia:Hades|Hades]]. [[Steve Kloves]], the film's screenwriter, stated that he originally used "a Greek chappie," but did not know how the line got changed.<sup><ref>[http://www.hp-lexicon.org/about/books/ps/rg-ps11.html Reader's Guide to Chapter 11 of ''Philosopher's Stone''] on The Harry Potter Lexicon</ref></sup>
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{PS|G}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[pl:Grecki czarodziej]]
+[[Category:Greek individuals]]
+[[Category:Males]]
+[[Category:Plot to steal the Philosopher's Stone participants]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

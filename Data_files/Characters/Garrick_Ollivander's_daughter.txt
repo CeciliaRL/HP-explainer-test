@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Ollivander
+|born = 
+|died = [[2011]] or earlier<ref name="ollivander"/>
+|blood = [[Half-blood]] or [[Squib]]<ref>Her paternal grandmother was Muggle-born, so she is either a half-blood witch or a Squib, if born with no magical abilities.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Garrick Ollivander]] (father)
+*[[Garrick Ollivander's wife|Mother]]
+*[[Garrick Ollivander's son|Brother]]
+*[[Gervaise Ollivander]] (paternal grandfather)
+*[[Garrick Ollivander's mother|Paternal grandmother]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Ollivander family]]
+}}
+'''Ms Ollivander''' (d. [[2011]] or earlier) was the daughter of [[Garrick Ollivander]] and his [[Garrick Ollivander's wife|wife]]. She had a [[Garrick Ollivander's son|brother]], who survived her after she died in or before [[2011]].<ref name="ollivander">{{WW|mr-ollivander}} (archived copy of old version [https://web.archive.org/web/20151105145544/http://lady-slytherin-forever.tumblr.com/post/8978736031/information-about-ollivander here])</ref>
+
+==Behind the scenes==
+*This individual was only mentioned on the original version of the "Mr Ollivander" article on the old Pottermore.<ref name="ollivander"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ollivander, Garrick's daughter}}
+
+[[fr:Fille de Garrick Ollivander]]
+[[ru:Дочь Гаррика Олливандера]]
+[[pl:Córka Ollivandera]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Ollivander family]]
+[[Category:Unnamed family members]]

@@ -1,0 +1,44 @@
+{{Cut content}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Daryle128.png|250px]]
+|name=Daryle
+|hideb=
+|born=
+|died=Before [[1991]]
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="PSG"/>
+|gender=Female<ref name="PSG"/>
+|height=
+|hair=
+|eyes=
+|skin=Fair<ref name="PSG"/>
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSG"/>
+}}
+'''Daryle''' was a [[Wizardkind|witch]] who had a [[portrait]] of herself hung somewhere in [[Hogwarts Castle]] by the [[1991-1992 school year]].<ref name="PSG">{{PS|G}} {{C|PC version}}</ref>
+
+==Behind the scenes==
+*This portrait was meant to appear in the PC version of the [[Harry Potter and the Philosopher's Stone (video game)|video game adaptation]] of {{PS}}. Though the portrait cannot be found in the game, its texture, identified as daryle128.bmp, can be found in the game's files.
+
+==Appearances==
+*{{PS|G}} {{1st}} {{C|PC version}} {{Portrait}} {{C|Cut from final version}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Daryle]]
+[[Category:Females]]
+[[Category:Portraits]]
+[[Category:Wizards]]

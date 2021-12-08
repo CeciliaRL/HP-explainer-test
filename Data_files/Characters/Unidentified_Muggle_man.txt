@@ -1,0 +1,25 @@
+{{Conjecture}}
+{{Individual infobox
+|image = ChipsMan.png
+|name = Unidentified Muggle man
+|blood = [[Non-magic people|Muggle]]<ref name="COSG"/>
+|nationality = [[Great Britain|British]]<ref name="COSG"/>
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|hair = Grey<ref name="COSG"/>
+|eyes = Blue<ref name="COSG"/>
+|skin = Light<ref name="COSG"/>
+|theme = muggle
+}}
+{{Quote|I've brought my Nintendo Game Boy. This is going to be a fun trip!|The [[Non-magic people|Muggle]] gentleman|Harry Potter and the Chamber of Secrets (video game)}}
+On [[1 September]], [[1992]], a [[Non-magic people|Muggle]] '''man''' in the parking lot of [[King's Cross Station]], was waiting for his train, and commented that he was going to have an enjoyable train ride whilst playing his [[Game Boy]] during the journey. He also ate some [[chips]] before his trip which gave him indigestion and made him burp.<ref name="COSG">{{COS|G}} - GBC version</ref>
+
+==Appearances==
+*{{COS|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Males|Muggle man]]
+[[Category:Unidentified Muggles|Muggle man]]

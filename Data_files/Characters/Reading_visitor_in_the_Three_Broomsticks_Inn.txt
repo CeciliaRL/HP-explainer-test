@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified wizard
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POAF"/>
+|gender = Male<ref name="POAF"/>
+|height = 
+|weight = 
+|hair = Black<ref name="POAF"/>
+|eyes = 
+|skin = Light<ref name="POAF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Three Broomsticks Inn]]<ref name="POAF"/>
+}}
+This '''[[Wizardkind|wizard]]''' was sitting in the [[Three Broomsticks Inn]] reading a map while holding two [[candle]]s that he used to light up in [[1993]].<ref name="POAF">{{POA|F}}</ref>
+
+==Behind the scenes==
+This individual was portrayed by film director [[Alfonso Cuarón]].
+
+==Appearances==
+*{{POA|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

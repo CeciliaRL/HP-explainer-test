@@ -1,0 +1,62 @@
+{{Conjecture}}
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = daily-prophet
+|image = 
+|name = Talbott Winger's father
+|born = 
+|died = Between [[1978]]<ref>{{HM|3|Birds Of A Feather|3}} - Talbott mentioned that his father snuck a poem he wrote in a newspaper when he was six years old. As Talbott was born in [[1972]] or [[1973]], the earliest he could have turned six was [[1978]]. As such, Talbott's father was still alive in 1978.</ref> and [[1981]]
+|blood = 
+|marital = Married
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Talbott Winger's mother|Wife]] †
+*[[Talbott Winger]] (son)
+*[[Winger family]]
+|romances = [[Talbott Winger's mother|Wife]] †
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Writer for the ''[[Daily Prophet]]''
+|house = 
+|loyalty = *[[Winger family]]
+*''[[Daily Prophet]]''
+}}
+'''Talbott Winger's father''' was a [[Wizardkind|wizard]] who opposed [[Tom Riddle|Lord Voldemort]] during the [[First Wizarding War]], though neither he nor [[Talbott Winger's mother|Talbott's mother]] joined any defence organisation.
+
+==Biography==
+He wrote for the ''[[Daily Prophet]]'', and had at one point, snuck in his son [[Talbott Winger]]'s poems to be published within.<ref name="HM3B">{{HM|3|Birds Of A Feather|3}} - ([https://www.youtube.com/watch?v=iLVeSra3TJo&t=57m24s see this video])</ref>
+
+He and Talbott's mother were killed by [[Death Eaters]], though their son managed to escape by transforming into his [[animagus]] eagle form.<ref name="HM3A">{{HM|3|Become an Animagus|3}}</ref>
+
+In the [[1986–1987 school year]], [[Barnaby Lee]] made up the claim that Talbott's father was a [[vampire]].<ref name="HM3A1">{{HM|3|Become an Animagus|1}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Daily Prophet}}
+{{DEFAULTSORT:Winger, Talbott father}}
+[[de2:Talbott Wingers Vater]]
+[[Category:British individuals]]
+[[Category:Daily Prophet staff]]
+[[Category:First Wizarding War casualties]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Murder victims]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Winger family]]
+[[Category:Wizards]]

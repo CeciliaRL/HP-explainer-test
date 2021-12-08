@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=macusa
+|image=[[File:Albert V Perschky.png|250px]]
+|name=Albert Perschky
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=[[File:Albert Perschky sig.svg|125px]]
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=Bald
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=[[Apparition Examiner]]<ref name="ID">"[http://nerdist.com/new-fantastic-beasts-exhibit-opens-at-warner-bros/?gallery=463677#gallery NEW FANTASTIC BEASTS EXHIBIT OPENS AT WARNER BROS.]" from Nerdist {{see image|File:Albert V Perschky MACUSA ID.png}}</ref>
+|house=
+|loyalty=[[Magical Congress of the United States of America]]
+}}
+
+'''Albert V. Perschky''' was an American [[wizardkind|wizard]] who worked as an [[Apparition Examiner]] for the [[Magical Congress of the United States of America]] in [[1926]].<ref name= "ID" />
+
+==Appearances==
+*{{FB|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+
+{{MACUSA}}
+
+{{DEFAULTSORT:Perschky, Albert}}
+[[es:Albert Perschky]]
+[[Category:American individuals]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,62 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Mr Warbeck
+|born = Before [[1900]] (most likely)
+|died = 
+|blood = 
+|marital = Married<ref name="Pottermore">{{WW|celestina-warbeck}} on Pottermore</ref>
+|nationality = [[Wales|Welsh]]<ref name="Pottermore"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="Pottermore"/>
+|gender = Male<ref name="Pottermore"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Celestina Warbeck's mother|Mrs Warbeck]] (wife)<ref name="Pottermore"/>
+*[[Celestina Warbeck]] (daughter)<ref name="Pottermore"/>
+*[[Celestina Warbeck's first husband|First son-in-law]]<ref name="Pottermore"/>
+*[[Celestina Warbeck's second husband|Second son-in-law]]<ref name="Pottermore"/>
+*[[Irving Warble]] (third son-in-law)<ref name="Pottermore"/>
+*[[Celestina Warbeck's son|One grandson]]<ref name="Pottermore"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Minor functionary in the [[Muggle Liaison Office]]<ref name="Pottermore"/>
+|house = 
+|loyalty = *[[Warbeck family]]<ref name="Pottermore"/>
+*[[British Ministry of Magic]]<ref name="Pottermore"/>
+**[[Department of Muggle Relations]]<ref name="Pottermore"/>
+}}
+'''Mr Warbeck''' was a [[Wales|Welsh]] [[wizardkind|wizard]] who worked as a minor functionary in the [[Muggle Liaison Office]] in the early [[20th century]].<ref name="Pottermore" />
+
+==Biography==
+He met his [[Celestina Warbeck's mother|wife]], a [[Non-magic people|Muggle]] actress, when she was attacked by a [[Lethifold]] which had disguised itself as a stage curtain.<ref name="Pottermore" /> The couple had at least one child, [[Celestina Warbeck|Celestina]], who was born [[18 August]]<ref name="Pottermore" /> [[1917]].<ref name="chocolatefrog">[[Chocolate Frog Card|Famous Wizard Card]] ([[Celestina Warbeck]])</ref>
+
+Celestina proved to have an exceptional voice at a young age. She grew up to become an internationally famous wizarding singer.<ref name="Pottermore" />
+
+==Appearances==
+*{{PM}} {{1st mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Warbeck, Celestina's father}}
+
+[[fr:Père de Celestina Moldubec]]
+[[pl:Pan Warbeck]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Ministry of Magic employees]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Warbeck family]]
+[[Category:Welsh individuals]]
+[[Category:Wizards]]

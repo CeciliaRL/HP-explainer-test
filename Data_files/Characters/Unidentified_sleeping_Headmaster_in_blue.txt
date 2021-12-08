@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=hogwarts-staff
+|image= [[File:Unidentified Sleeping Headmaster in blue-2.png|250px]]
+|name= Unidentified sleeping Headmaster in blue
+|nationality={{GBorIE}}
+|born=
+|died= Before [[1943]]
+|blood=
+|alias=
+|title=*[[Professor]]<ref name="MHP">{{MHP}}</ref>
+*[[Headmaster]]<ref name="MHP"/>
+|hidep=
+|species=[[Human]]<ref name="MHP"/>
+|gender=Male<ref name="MHP"/>
+|height=
+|hair=Grey<ref name="MHP"/>
+|eyes=
+|skin=Light<ref name="MHP"/>
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job= [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]]<ref name="MHP"/>
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="MHP"/>
+}}
+This '''[[Wizardkind|wizard]]''' was appointed [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] before [[Armando Dippet|Professor Dippet]]. After his death, his [[portrait]] was hung in the [[Headmaster's office]], in order to give advice to the current head. His portrait is commonly located below that of Armando Dippet and next to the [[Sword of Gryffindor]].<ref name="COSF">{{COS|F}}</ref><ref name="GOFF">{{GOF|F}}</ref><ref name="HBPF">{{HBP|F}}</ref><ref name="DHF2">{{DH|F2}}</ref>
+
+==Appearances==
+*{{COS|F}} {{1st}} {{Portrait}}
+*{{GOF|F}} {{Portrait}}
+*{{HBP|F}} {{Portrait}}
+*{{DH|F2}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

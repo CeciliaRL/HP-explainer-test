@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Unidentified Sleeping Headmaster with Paper.png|thumb]]
+|name = Unidentified sleeping Headmaster with paper
+|born = 
+|died = Before [[1990s]]
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]<ref name="GOFF"/><ref name="MHP"/>
+*[[Headmaster]]<ref name="GOFF"/><ref name="MHP"/>
+|signature = 
+|species = [[Human]]<ref name="GOFF"/><ref name="MHP"/>
+|gender = Male<ref name="GOFF"/><ref name="MHP"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="GOFF"/><ref name="MHP"/>
+|eyes = 
+|skin = Light<ref name="GOFF"/><ref name="MHP"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOFF"/><ref name="MHP"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOFF"/><ref name="MHP"/>
+}}
+This '''[[Wizardkind|wizard]]''' was appointed [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] at some unknown time. After his death, his [[portrait]] was hung in the [[Headmaster's office]], in order to give advice to the current head.<ref name="GOFF">{{GOF|F}}</ref><ref name="MHP">{{MHP}}</ref>
+
+==Behind the scenes==
+*In {{GOF|F}}, this headmaster's portrait is found nearly at ground level to the left of the Headmaster's desk. At {{MHP}} his portrait is near the top of the wall above that of [[Fytherley Undercliffe]].
+
+==Appearances==
+*{{GOF|F}} {{1st}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

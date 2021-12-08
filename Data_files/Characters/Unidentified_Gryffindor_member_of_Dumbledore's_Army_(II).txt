@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Notability}}
+{{Individual infobox
+|image = [[File:Blonde Gryffindor girl DHF2.jpg]]
+|name = Gryffindor girl
+|born = Before [[2 May]] [[1981]] (most likely)<ref name="age">She fought in the Battle of Hogwarts, when underage students were evacuated, though some underage students participated.</ref>
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">She attended Hogwarts during the Death Eaters' control of it, so he was not [[Muggle-born]].</ref>
+|nationality = {{GBorIE}}
+|title = 
+|alias = 
+|marital 
+|signature = 
+|species = [[Human]]<ref name="DHF2"/>
+|gender = Female<ref name="DHF2"/>
+|hair = White blonde<ref name="DHF2"/>
+|skin = Light<ref name="DHF2"/>
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="DHF2"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+**[[Gryffindor]]<ref name="DHF2"/>
+**[[Dumbledore's Army]]<ref name="DHF2"/>
+|theme = gryffindor
+}}
+This '''individual''' was a [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|Sorted]] into [[Gryffindor]].<ref name="DHF2"/>
+
+==Biography==
+She was [[Sorting ceremony|sorted]] into [[Gryffindor]], possibly in [[1991]] or [[1992]]. During the [[1997–1998 school year]], she became a member of [[Dumbledore's Army]] and fought during the [[Battle of Hogwarts]] on [[2 May]], against [[Tom Riddle|Lord Voldemort]]'s [[Death Eaters]]. It is unknown if she survived the battle or not.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Dumbledore's Army}}
+[[Category:20th century births]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British or Irish individuals]]
+[[Category:Dumbledore's Army]]
+[[Category:Females]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

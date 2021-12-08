@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = 
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="CC"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="CC"/>
+|gender = Male<ref name="CC"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Nurses at [[St Oswald's Home for Old Witches and Wizards]]<ref name="CC"/>
+|house = 
+|loyalty = [[St Oswald's Home for Old Witches and Wizards]]<ref name="CC"/>
+}}
+These '''male nurses''' worked at [[St Oswald's Home for Old Witches and Wizards]] in [[Upper Flagley]], [[Yorkshire]]. As the elderly [[wizardkind|witches and wizards]] who resided there no longer had the burden of having to do [[magic]] for a reason, it would be a common sight to see these nurses being [[Dancing Feet Spell|made to dance]] the [[tango]].<ref name="CC">{{CC|B|1|13}}</ref>
+
+==Appearances==
+*{{CC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:St Oswald's]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

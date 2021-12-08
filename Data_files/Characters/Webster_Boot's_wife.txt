@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme=mom
+|name=Mrs Boot
+|image=
+|nationality=[[Scotland|Scottish]]
+|species=[[Human]]
+|gender=Female
+|eyes=
+|hair=
+|born= [[17th century]] <br/> [[Scotland]], [[Great Britain]]<ref name="Pottermore">{{WW|ilvermorny}}</ref>
+|died=
+|marital= Married
+|family=*[[Webster Boot]] (husband)
+*[[Chadwick Boot]] (brother-in-law)
+*[[Boot brothers' father|Mr Boot]] (father-in-law)
+*[[Boot brothers' mother|Mrs Boot]] (mother-in-law)
+*[[Terry Boot]] (possible descendant)
+|blood=
+|title=
+|alias=
+|hidem=
+|wand=
+|boggart=
+|patronus=
+|animagus=
+|job=[[British Ministry of Magic]] employee
+|loyalty=*[[Boot family]]
+*[[British Ministry of Magic]]
+}}'''Mrs Boot '''was a [[Scotland|Scottish]] [[wizardkind|witch]] who worked for the [[Ministry of Magic]] during the [[17th century]]. She was the wife of [[Webster Boot]], one of the founders of [[Ilvermorny School of Witchcraft and Wizardry]].
+
+==Biography==
+Mrs Boot was born in [[Scotland]] sometime in the [[17th century]]. She was likely educated at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="Pottermore" />
+
+She eventually landed an unspecified job with the [[Ministry of Magic]]. When [[Webster Boot]], as an [[Auror]] for hire, travelled to [[London]] to repatriate a fugitive British [[Dark Wizard|dark wizard]], they both fell in love. Webster then relocated to [[Great Britain|Britain]] to be with her. Their descendants, likely including [[Terry Boot]], would go on to be educated at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].<ref name="Pottermore" />
+
+==Behind the scenes==
+*She is not featured on the [[Sayre family]] tree on {{PM}}.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Boot, Mrs}}
+[[de:Mrs Boot jr]]
+[[pl:Żona Webstera Boota]]
+[[pt-br:Esposa de Webster Boot]]
+[[Category:Boot family]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Ministry of Magic employees]]
+[[Category:Scottish individuals]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

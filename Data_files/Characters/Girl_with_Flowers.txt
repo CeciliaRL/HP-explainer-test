@@ -1,0 +1,63 @@
+{{Spoiler|MA|HM}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:Girl with flowers.jpg|250px]]
+|name = Girl with Flowers
+|born = 
+|died = Before [[1991]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSF"/>
+|gender = Female<ref name="PSF"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="PSF"/>
+|eyes = 
+|skin = Light<ref name="PSF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]] (possibly)<ref name="LEGOY1"/>
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSF"/>
+}}
+A [[portrait]] of '''a girl with flowers''' hung at the [[Grand Staircase]] at [[Hogwarts Castle]], near the ground-floor landing.<ref name="PSF">{{PS|F}}</ref> Another portrait of her was hung in the Ravenclaw common room.<ref name="LEGOY1">{{LEGO|Y1}}</ref> A third portrait was hung in the [[East Towers]].<ref name="HM">{{HM}}</ref>
+
+==Behind the scenes==
+[[File:Gwf.PNG|thumb|left|The girl's portrait in {{LEGO|Y1}}]]
+*This individual depicted may have died sometime prior to [[1991]], as many portraits hung at [[Hogwarts Castle]] depict deceased individuals.
+*In the film adaptations of ''[[Harry Potter and the Philosopher's Stone (film)|Philosopher's Stone]]'', ''[[Harry Potter and the Chamber of Secrets (film)|Chamber of Secrets]]'' and ''[[Harry Potter and the Prisoner of Azkaban (film)|Prisoner of Azkaban]]'', the girl with flowers was portrayed by [[Violet Columbus]]. She is the daughter of [[Chris Columbus]], the director of the first two films, the younger sister of [[Eleanor Columbus]] and [[Brendan Columbus]], who portrayed [[Susan Bones]] and a boy in study hall in [[Harry Potter and the Chamber of Secrets (film)|Harry Potter and the Chamber of Secrets]], respectively, and the older sister of [[Isabella Columbus]], who played a girl in [[Flourish and Blotts]] in ''[[Harry Potter and the Chamber of Secrets (film)|Harry Potter and the Chamber of Secrets]]''.
+*A similar portrait (''[[Shepherdess]]'') is seen in the video game adaptations of ''[[Harry Potter and the Order of the Phoenix (video game)|Order of the Phoenix]]'' and ''[[Harry Potter and the Half-Blood Prince (video game)|Half-Blood Prince]]''.
+*In {{LEGO|Y1}} the portrait also appears in [[Madam Malkin's]].
+*In {{HM}}, a portrait appears in the [[East Towers]]. If the portrait is empty, the player can click it to free one free [[Harry Potter: Hogwarts Mystery#Energy|energy]].
+*In {{MA}}, the portrait appears in the Grand Staircase. She's asked by the player and two of their friends if she has saw [[Ivy Warrington]], but she was worrying their [[Wand]]-light was going to peel her oils. 
+
+==Appearances==
+*{{PS|F}} {{1st}}
+*{{COS|F}}
+*{{POA|F}}<ref>The portrait can be seen at the portrait gallery at the end of the "''Quest of Sir Cadogan''". It can also be seen right under a staircase when [[Ronald Weasley]] talks about [[Honeydukes]], [[Zonko's]] and the [[Shrieking Shack]].</ref>
+*{{OOTP|G}}
+*{{HBP|G}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{HM}}
+*{{MA}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts ground floor}}
+[[es:Retrato de una niña con flores]]
+[[fr:Jeune fille avec des fleurs]]
+[[pl:Dziewczyna z kwiatami]]
+[[ru:Девочка с цветами]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

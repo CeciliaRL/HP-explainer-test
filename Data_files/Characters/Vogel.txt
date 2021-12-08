@@ -1,0 +1,48 @@
+{{SODSpoiler}}
+{{Unreleased}}
+<!--- This completed infobox should have information added to it, once information about this unreleased character from FB3 is revealed, thanks.
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Vogel
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+--->
+'''Vogel''' was an individual of unknown species and origin.<ref name="Vogel">[https://www.fantasticbeastsmovies.com/movies/fantastic-beasts-3/movie-3-what-we-know// What we know about Fantastic Beasts 3]</ref> 
+
+==Etymology==
+*"Vogel" is a surname in German and Dutch-speaking countries, and it also means "[[bird]]". 
+
+==Behind the scenes==
+*There are rumours that [[Oliver Masucci]]'s role in the {{SOD}} is Vogel. Masucci is German and Vogel is a German name. There is also the fact that Vogel has a [[Vogel's bodyguard|bodyguard]] listed as an extra played by [[Paul Parker]]. It would also be reasonable to assume that such a high ranking politician as the Head of the [[International Confederation of Wizards]] would have a bodyguard.
+
+==Appearances==
+*{{SOD}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Creatures]]
+[[Category:Individuals of unknown or undetermined gender]]

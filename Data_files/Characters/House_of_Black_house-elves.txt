@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme=house-elf
+|image=[[File:12GrimmauldPlaceElfHeads.jpg|250px]]
+|name=House of Black house-elves
+|hideb=
+|born=Varied<ref name="OOTP6"/>
+|died=Varied; between [[1850]] and [[1985]]<ref name="OOTP6"/>
+|blood=
+|alias=
+|title=
+|nationality=[[Great Britain|British]]<ref name="OOTP6"/>
+|species=[[House-elf|House-elves]]<ref name="OOTP4"/><ref name="OOTP6"/>
+|gender=*Males<ref name="OOTP6"/>
+*Females<ref name="OOTP6"/>
+|height=3 feet
+|hair=
+|eyes=
+|skin=Light<ref name="OOTP6"/>
+|hidef=
+|family=*[[Kreacher's mother]] (descendant (likely)) †<ref name="OOTP6"/>
+*[[Kreacher]] (descendant (likely))<ref name="OOTP6"/>
+|hidea=
+|job=Servants of the [[House of Black]]<ref name="OOTP4"/><ref name="OOTP6"/>
+|loyalty=[[House of Black]]<ref name="OOTP4"/><ref name="OOTP6"/>
+}}
+{{Quote|... and dear Aunt Elladora... she started the family tradition of beheading house-elves when they got too old to carry tea trays...|[[Sirius Black]] regarding these House-elves|Harry Potter and the Order of the Phoenix}}
+
+These '''individuals''' were [[House-elf|House-elves]] that served as servants for the [[House of Black]] in the years between [[Elladora Black]]'s birth, in [[1850]], and [[Walburga Black]]'s death, in [[1980|1985]].<ref name="OOTP6"/>
+
+==History==
+[[Elladora Black]] started the family tradition of cutting the heads off of the house-elves when they were too old to carry [[tea]] trays.<ref name="OOTP6">{{OOTP|B|6}}</ref> Their heads were hung on plaques on the walls of [[12 Grimmauld Place|12]] [[Grimmauld Place]].<ref name="OOTP4">{{OOTP|B|4}}</ref>
+
+==Behind the scenes==
+*In {{OOTP|FA}}, the house-elves heads are not mounted on plaques, as described in the novel, but are propped up inside belljars perched in nooks by the stairs leading to the upper floors. This deviation is repeated in the video game adaptations of ''[[Harry Potter and the Order of the Phoenix (video game)|Harry Potter and the Order of the Phoenix]]'' and ''[[Harry Potter and the Deathly Hallows: Part 1 (video game)|Harry Potter and the Deathly Hallows: Part 1]]''.
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{OOTP|F}}
+*{{OOTP|G}} 
+*{{DH|G1}} 
+*{{PM}}
+*{{LEGO|Y2}}
+*{{HPV|CR}} 
+*{{HPLE}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Elfes de maison de la famille Black]]
+[[Category:Black family possessions]]
+[[Category:British individuals]]
+[[Category:Deaths by decapitation]]
+[[Category:Females]]
+[[Category:House-elves]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Shrunken Heads]]

@@ -1,0 +1,44 @@
+{{Transcribed image|File:JackJodieman.jpg}}
+{{Individual infobox
+|theme=wizard
+|image=JackJodieman.jpg
+|name=Jack Jodieman
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Jack Jodieman''' was a [[Wizardkind|wizard]] whose name was carved into a wood panel on a wall of [[Sybill Trelawney|Professor Trelawney's]] [[Divination (class)|Divination]] [[Divination Classroom|classroom]].<ref>{{POA|F}} - Chapter 21 (''Professor Trelawney's Prediction'') {{see image|File:JackJodieman.jpg}}</ref>
+
+==Behind the scenes==
+*This character was presumably named after Jody Jackman, an art department coordinator on every [[Harry Potter films|''Harry Potter'' film]], excepting ''[[Harry Potter and the Philosopher's Stone (film)|Harry Potter and the Philosopher's Stone]]''.<ref>"[http://www.imdb.com/name/nm1227854/ Jody Jackman]" on IMDb</ref>
+
+==Appearances==
+*{{POA|F}} {{Comment|Name seen on a wood panel}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Jodieman, Jack}}
+[[Category:Males]]
+[[Category:Wizards]]

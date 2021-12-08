@@ -1,0 +1,60 @@
+{{Youmay|the grandmother of [[Isobel Ross|Isobel McGonagall]]|her namesake and great-granddaughter, [[Minerva McGonagall]]}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Minerva
+|hideb=y
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+*[[Isobel Ross's father|Mr Ross]] (son or son-in-law)
+*[[Isobel Ross's mother|Mrs Ross]] (daughter or daughter-in-law)
+*[[Isobel Ross|Isobel McGonagall]] (granddaughter)
+*[[Minerva McGonagall]] (great-granddaughter)
+*[[Malcolm McGonagall]] (great-grandson)
+*[[Robert McGonagall Jr]] (great-grandson)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Minerva''' was a powerful [[wizardkind|witch]]. She was the grandmother of [[Isobel Ross|Isobel McGonagall]] (née [[Ross family|Ross]]) and the great-grandmother of: [[Minerva McGonagall|Minerva]], [[Malcolm McGonagall|Malcolm]], and [[Robert McGonagall Jr]].
+
+Isobel named her firstborn child in her grandmother's honour. She did this because she missed her family and the magical community, which she had to leave behind when she married a [[Robert McGonagall Senior|Muggle man]].<ref name="pottermore">{{WW|professor-mcgonagall}}</ref>
+
+==Magical abilities and skills==
+Minerva was an extremely powerful [[Wizardkind|witch]], just like her great-granddaughter would grow up to become. Not much is known about the true extent of her magical abilities, however. 
+*[[Magic|'''Magical''']]''' Mastery''': Although it is not known exactly how powerful Minerva was, she was widely believed to be extremely powerful and her talents were renown to her granddaughter [[Isobel Ross|Isobel]]. 
+
+==Etymology==
+Minerva is the Roman goddess of wisdom and craftsmanship. Her Greek deity is Athena, goddess of wisdom, strategy, warfare, and craftsmanship. Minerva is less honoured than Athena and the warfare is left all to Mars, god of war. 
+
+==Appearances==
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Minerva (Großmutter)]]
+[[es:Minerva]]
+[[fr:Minerva]]
+[[pl:Minerwa]]
+[[Category:Females]]
+[[Category:Wizards]]

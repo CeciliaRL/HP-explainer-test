@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Johannes Jonker
+|born = In or before [[1909]] (likely)<ref name="Age">{{FB|F}} {{see image|File:Wand Permit - full.png}} - He was likely of age by the time he was a recognised wandmaker in 1926.</ref>
+|died = 
+|blood = [[Muggle-born|No-Maj-born]]<ref name="pottermore-1920s"/>
+|marital = 
+|nationality = [[United States of America|American]]<ref name="pottermore-1920s"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="pottermore-1920s"/>
+|gender = Male<ref name="pottermore-1920s"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Johannes Jonker's father|Mr Jonker]] (father)<ref name="pottermore-1920s"/>
+*[[Jonker family]]<ref name="pottermore-1920s"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Wandmaker]]<ref name="pottermore-1920s"/>
+|house = 
+|loyalty = [[Jonker family]]<ref name="pottermore-1920s" />
+}}
+'''Johannes Jonker''' was an [[United States of America|American]] [[Muggle-born|No-Maj born]] [[wizardkind|wizard]].<ref name="pottermore-1920s">{{WW|1920s-wizarding-america-en}}</ref> He, along with [[Shikoba Wolfe]], [[Thiago Quintana]], and [[Violetta Beauvais]], was one of four [[wandmaker]]s who served [[North America]] in the early [[20th century]]<ref name="pottermore-1920s" />
+
+==Biography==
+Jonker was [[Muggle-born|born to No-Maj parents]]. His [[Johannes Jonker's father|father]] was a successful cabinet maker, which presumably gave him early experience with wood-working, and allowed him to become a skilled wandmaker in his own right.<ref name="pottermore-1920s" /> Jonker's [[wand]]s were in great demand and could be easily identified by the [[mother-of-pearl]] inlay they typically contained.<ref name="pottermore-1920s" /> Jonker experimented with several different [[wand core]]s before settling on [[Wampus cat hair|hair]] of the [[Wampus cat]] as his preferred kind.<ref name="pottermore-1920s" />
+
+By [[1926]], he was a known wandmaker and listed on the [[Magical Congress of the United States of America]]'s [[Wand permit]] form.<ref name="FBF">{{FB|F}} {{see image|File:Wand Permit - full.png}}</ref>
+
+==Magical abilities and skills==
+*'''[[Wandlore]]/[[Wandmaker|Wandmaking]]''': Jonker was an accomplished and skilled wandmaker in his time, with his [[wand]]s being highly popular in [[North America]], showing his talent in this field. He was also knowledgeable of [[Wand core]]s and experimented with several kinds of core in his wands.<ref name="pottermore-1920s"/>
+
+==Etymology==
+*The surname "Jonker" is a variation of the Netherlands title "jonkheer", meaning "young lord", and can be a honorific or occupational surname indicating an ancestor that served a jonkheer.
+
+==Behind the scenes==
+*As a [[Muggle-born|No-Maj born]], it is unknown how, or if, he was recruited to [[Ilvermorny School of Witchcraft and Wizardry]] because of [[Rappaport's Law]] restriction on the interaction of wizards with his No-Maj family.
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{FB|F}} {{c|mentioned on wand permit application}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Jonker, Johannes}}
+[[de:Johannes Jonker]]
+[[pl:Johannes Jonker]]
+[[fr:Johannes Jonker]]
+[[ru:Йоханнес Йонкер]]
+
+[[Category:American individuals]]
+[[Category:Jonker family]]
+[[Category:Males]]
+[[Category:Muggle-borns]]
+[[Category:Wandmakers]]
+[[Category:Wizards]]

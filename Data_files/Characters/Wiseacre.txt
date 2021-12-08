@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Wiseacre
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COSF"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSF"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Shop owner<ref name="COSF"/>
+|house = 
+|loyalty = [[Wiseacre's Wizarding Equipment]]<ref name="COSF"/>
+}}
+'''Wiseacre''' was a [[Wizardkind|wizard or witch]] who owned the shop [[Wiseacre's Wizarding Equipment]].<ref name="COSF">{{COS|F}}</ref>
+
+==Appearances==
+*{{COS|F}} {{Name on sign}}
+*{{HBP|F}} {{Name on sign}}
+*{{DH|F1}} {{Name on sign}}
+*{{DH|G2}} {{Name on sign}}
+*{{WWHP}} {{Name on sign}}
+*{{LEGO|Y1}} {{Name on sign}}
+*{{LEGO|Y2}} {{Name on sign}}
+*{{PM}} {{Name on sign}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Wiseacre]]
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

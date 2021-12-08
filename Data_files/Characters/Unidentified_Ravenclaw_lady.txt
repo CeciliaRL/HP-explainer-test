@@ -1,0 +1,62 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:Ravenclaw lady.jpg]]
+|name = Unidentified Ravenclaw lady
+|born = 
+|died = Before [[1991]] (possibly)
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PS" />
+|gender = Female<ref name="PS" />
+|height = 
+|weight = 
+|hair = Brown<ref name="PS" />
+|eyes = 
+|skin = White<ref name="PS" />
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="CS" />
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PS" /><ref name="CS" />
+**[[Ravenclaw]]<ref name="CS" />
+}}
+{{Dialogue a-b|Harry Potter|Wanglewort|Ravenclaw lady|Well done young man, you've got the password! At least in here, you'll be safe.|Harry and the lady|Harry Potter and the Philosopher's Stone (video game)}}
+This '''Ravenclaw lady''' was a [[Wizardkind|witch]] who had [[portrait]]s of herself hung at [[Hogwarts Castle]].<ref name="PS" /><ref name="CS" />
+
+==Biography==
+===[[1991–1992 school year]]===
+In [[Harry Potter]]'s first year at [[Hogwarts School of Witchcraft and Wizardry]], she was guarding a secret room in the [[Dungeons]], concealing a Quidditch Armour. The password required to gain entrance was "''Wanglewort''".<ref name="PS">{{PS|G}} - PS1 version</ref>
+
+===[[1992–1993 school year]]===
+A year later, her portrait had been moved, and now guarded the way to the Ravenclaw Duelling Arena.<ref name="CS">{{COS|G}} - PS1 version</ref>
+
+==Personality and traits==
+This witch was proud of her [[Ravenclaw|House]] and considered others who dare duel the Ravenclaw Duelling Champion to be "foolish".<ref name="CS" /> However, in [[1991]] she became very nervous as she sensed there was [[Quirinus Quirrell|someone]] in the castle doing something [[Dark Arts|evil]], showing she was rather observant and intuitive.<ref name="PS" />
+
+==Behind the scenes==
+*This witch may have passed away sometime prior to [[1991]], as many portraits hung at [[Hogwarts Castle]] depict deceased individuals.
+
+==Appearances==
+*{{PS|G}} {{1st}} {{C|PS1 version}} {{Portrait}}
+*{{COS|G}} {{C|PS1 version}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ravenclaw lady}}
+
+{{Hogwarts towers}}
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Unidentified portraits]]
+[[Category:Unidentified Ravenclaws]]
+[[Category:Wizards]]
+[[pl:Niezidentyfikowana dama Ravenclawu]]

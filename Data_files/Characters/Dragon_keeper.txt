@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Dragon Handler LEGOY1.png|thumb]]
+|name = Dragon keeper
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF19"/>
+|gender = Male<ref name="GOF19"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Pale<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOY1"/>
+|wand = 
+|patronus = Non-corporeal<ref name="LEGOY1"/>
+|job = [[Dragonologist]]<ref name="GOF19"/>
+|house = 
+|loyalty = [[Romanian Dragon Sanctuary]]<ref name="GOF19"/>
+}}
+This '''Dragon keeper''' was one of the [[dragonologist]]s at the [[Romanian Dragon Sanctuary]].<ref name="GOF19"/>
+
+==Biography==
+He travelled along with [[Charlie Weasley's colleagues|some of his colleagues]] to help restrain and maintain the [[dragon]]s used for the [[1994]] [[Triwizard Tournament]].<ref name="GOF19">{{GOF|B|19}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}}
+*{{LEGO|Y1}} {{1st ID}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Drachenwärter]]
+[[Category:Dragonologists]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

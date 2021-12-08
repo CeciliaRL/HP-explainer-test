@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Matilda Dukelow
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Female<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Holyhead Harpies]]<ref name="DP"/>
+}}
+'''Matilda Dukelow''' was a [[Quidditch]] fan who supported the [[Holyhead Harpies]]<ref name="DP">{{DP}}: [[1 October]], [[1999]], Page 2</ref>. She attended the match between the Harpies and [[Puddlemere United]] on [[30 September]], [[1999]]. When she witnessed [[Puddlemere United|Puddlemere]] Chaser [[Wilda Griffiths]] disappear, she came to the conclusion that Griffiths had made herself invisible, which is not allowed in Quidditch. It took a while for her to acknowledge the fact that Griffiths had been abducted.<ref name="wizardsd">"[http://www.hplex.info/wizards/a-z/d.html Wizards, Witches and Beings: D]" on the Harry Potter Lexicon</ref>
+
+==Etymology==
+The name "Matilda" is from the Germanic name ''Mahthildis'' meaning "strength in battle", from the elements ''maht'' "might, strength" and ''hild'' "battle". Saint Matilda was the wife of the 10th-century German king Henry I the Fowler. The name was brought to England by the Normans, being borne by the wife of William the Conqueror himself. It was popular until the 15th century in England, usually in the vernacular form Maud. Both forms were revived by the 19th century. This name appears in the popular Australian folk song 'Waltzing Matilda', written in 1895.
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Dukelow, Matilda}}
+
+[[pl:Matilda Dukelow]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Holyhead Harpies supporters]]
+[[Category:Wizards]]

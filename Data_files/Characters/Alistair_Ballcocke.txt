@@ -1,0 +1,54 @@
+__NOTOC__
+{{Transcribed image|File:Alistair_Ballcocke.jpg}}
+{{youmay|the wizard whose name appears in an inscription|[[Alistaire Ballcocke]]}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:Alistair Ballcocke.jpg]]
+|name=Alistair Ballcocke
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=[[Alistaire Ballcocke]] (possibly)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Alistair Ballcocke''' was a [[Wizardkind|wizard]] whose name was carved into a wood panel on the wall of Professor [[Sybill Trelawney|Trelawney's]] [[Divination (class)|Divination]] [[Divination Classroom|classroom]].<ref>{{POA|F}} - Chapter 21 (''Professor Trelawney's Prediction'') {{see image|File:Alistair Ballcocke.jpg}}</ref><ref>[http://www.the-leaky-cauldron.org/2004/5/15/los-angeles-motion-picture-arts-sciences-contemporary-set-exhibit-report ''Prisoner of Azkaban'' set report] from the Leaky Cauldron</ref>
+
+==Etymology==
+''Ballcocke'' is an alternate spelling of the English surname ''Balcock'', which derives from the diminutive suffix -''cock'' combined with either ''Bald'', a pet form of the Germanic male given name ''Baldwin'', or the Old English ''beald'' ("brave," "bold").<ref>[http://books.google.com/books?id=DDF3mn8473wC&pg=PA161 ''A Dictionary of English Surnames''] by P. H. Reaney and R. M. Wilson</ref>
+
+A ballcock is a mechanism for filling water tanks (such as in flush toilets) designed to prevent overflow and backflow.<ref>"[http://en.wikipedia.org/wiki/Ballcock Ballcock]" on Wikipedia</ref>
+
+Alistair is the anglicised form of Alasdair. Alasdair is the Scottish form of Alexander, which means "defending men".
+
+==Behind the scenes==
+*This character was presumably named after [[Alastair Bullock]], the assistant art director on {{POA|FA}}.
+
+==Appearances==
+*{{POA|F}} {{Comment|Name seen on wood panel}}
+*{{POA|F}} [[File:Ballcocke.jpg|thumb|172px|Name can be seen on the bottom of the map (see full size).]]{{Comment|Name seen on the Marauder's Map after Fred and George had shown it to Harry for the first time}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Ballcocke, Alistair}}
+[[Category:Males]]
+[[Category:Wizards]]

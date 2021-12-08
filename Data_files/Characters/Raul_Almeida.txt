@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme=quidditch-player
+|image=
+|name=Raul Almeida
+|hideb=
+|born=After [[1976]]<ref>[[Viktor Krum]], born [[1976]], was the oldest player in the [[2014 Quidditch World Cup]].</ref>, [[Brazil]] (possibly)
+|nationality=[[Brazil]]ian
+|died=
+|blood=
+|alias=
+|title=[[Keeper]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Edward Almeida Peidus]] (possibly)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Keeper]] for the [[Brazilian National Quidditch team]]
+|house=
+|loyalty=*[[Brazilian National Quidditch team]]
+*[[Castelobruxo]]
+}}'''Raul Almeida''' was a [[Brazil]]ian [[wizardkind|wizard]] and the [[Keeper]] for the [[2014]] [[Brazilian National Quidditch team]].
+
+==Biography==
+On the first match of the quarter-finals, Brazil versus [[Welsh National Quidditch team|Wales]], on [[4 June]], [[2014]], Almeida was struck to the head by a vicious [[Bludger]] by Welsh [[Beater]] [[Iefan Rice]], while the [[Quaffle]] was at the other end of the pitch. This earned Brazil a penalty.<ref name="PM">{{PM}} - [[BRAZIL VERSUS WALES|BRAZIL_VERSUS_WALES]] (Archived)</ref>
+
+==Appearances==
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Almeida, Raul}}
+
+[[es:Raul Almeida]]
+[[fr:Raul Almeida]]
+[[pl:Raul Almeida]]
+[[ru:Рауль Алмейда]]
+[[Category:Brazilian individuals]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Wizards]]

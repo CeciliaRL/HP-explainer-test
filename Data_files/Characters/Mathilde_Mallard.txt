@@ -1,0 +1,47 @@
+{{Individual infobox
+|image = [[File:Mathilde Mallard.png]]
+|name = Mathilde Mallard
+|born =
+|died =
+|blood =
+|alias =
+|signature =
+|nationality = [[France|French]]<ref name="QWC"/>
+|title = [[Chaser]]<ref name="QWC"/>
+|species = [[Human]]<ref name="QWC"/>
+|gender = Female<ref name="QWC"/>
+|hair = Black<ref name="QWC"/>
+|eyes = Blue<ref name="QWC"/>
+|skin = White<ref name="QWC"/>
+|weight =
+|height =
+|family =
+|wand =
+|animagus =
+|boggart =
+|patronus =
+|house =
+|job = [[Chaser]] for the [[French National Quidditch team]]<ref name="QWC"/>
+|loyalty = [[French National Quidditch team]]<ref name="QWC"/>
+|theme = quidditch-player
+}}
+'''Mathilde Mallard''' was a [[France|French]] [[Wizardkind|witch]] famous for being a [[Chaser]] for the [[French National Quidditch team]] during the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]].<ref name="QWC">{{QWC}}</ref>
+
+==Etymology==
+*Mathilde is an alternative name for Matilda.
+*Mallard is a common type of duck.
+
+==Appearances==
+*{{QWC}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Mallard, Mathilde}}
+[[pl:Matylda Mallard]]
+[[fr:Mathilde Mallard]]
+[[Category:Blue-eyed individuals]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Wizards]]

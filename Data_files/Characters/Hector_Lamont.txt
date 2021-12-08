@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = quidditch-player
+|name = Hector Lamont
+|image =
+|born = In or before [[1972]]<ref name="age">He had to be at least 18 to be playing professional Quidditch; 1990 minus 18 is 1972, so he was born in (or before) that year.</ref>
+|died =
+|blood = 
+|nationality = [[Scotland|Scotland]]<ref name="PM"/>
+|title = [[Seeker]]<ref name="PM"/>
+|alias = 
+|signature = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|eyes = 
+|hair = 
+|skin = 
+|height = 
+|weight = 
+|wand = 
+|animagus = 
+|patronus = 
+|boggart = 
+|family = [[Lamont|"Stubby" Lamont]]<ref name="PM"/>
+|romances = 
+|house = 
+|job = [[Seeker]] for the [[Scottish National Quidditch team|Scottish International Quidditch team]]<ref name="PM"/>
+|loyalty = [[Scottish National Quidditch team|Scottish International Quidditch team]]<ref name="PM"/>
+}}
+'''Hector Lamont''' was a [[Scotland|Scottish]] [[wizardkind|wizard]], and the [[Seeker]] for the [[Scottish National Quidditch team|Scottish International Quidditch team]].<ref name="PM">{{PM}} - [[Quidditch World Cup 1990 - 2014]] (Archived)</ref>
+
+He played in the final of the [[1990 Quidditch World Cup]] where he missed the Snitch by millimetres, leading to his team's defeat. After the game, Lamont famously lambasted his father ([[Lamont|"Stubby" Lamont]]) for not giving him longer fingers.<ref name="PM"/>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Lamont, Hector}}
+[[de:Hector Lamont]]
+[[es:Héctor Lamont]]
+[[fr:Hector Lamont]]
+[[pl:Hector Lamont]]
+[[ru:Гектор Ламонт]]
+[[Category:Males]]
+[[Category:Scottish individuals]]
+[[Category:Seekers]]
+[[Category:Wizards]]

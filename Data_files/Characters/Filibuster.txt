@@ -1,0 +1,20 @@
+{{Individual infobox
+|name = Filibuster
+|title = Doctor
+|species = [[Human]]
+|job = Inventor
+|theme = wizard
+}}
+{{Quote|Impressive, very impressive... [[Fred and George Weasley|you]]'ll put Dr Filibuster out of business, no problem.|[[Harry Potter]] on [[Weasleys' Wildfire Whiz-bangs]]|Harry Potter and the Order of the Phoenix}}
+'''Dr Filibuster''' was a [[Wizardkind|wizard or witch]] that created the [[Dr Filibuster's Fabulous Wet-Start, No-Heat Fireworks|Fabulous Wet-Start, No-Heat Fireworks]], which the [[Fred and George Weasley|Weasley twins]] were known to use, or at least purchase, from time-to-time.<ref>{{COS|B|4}}</ref> [[Harry Potter]] once predicted that the Weasley twins' [[Explosive Enterprises|line of fireworks]] would put Filibuster out of business, though whether this actually happened or not is unknown.<ref name="OOTP28">{{OOTP|B|28}}</ref>
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Filibuster]]
+[[Category:Doctors]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Inventors]][[Category:Wizards]]

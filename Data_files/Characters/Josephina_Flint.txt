@@ -1,0 +1,66 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Josephina Flint
+|born = Before [[1802]]
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">{{WW|pure-blood}} - The Flints are mentioned to have been included in the ''[[Pure-Blood Directory]]'' published in Britain in the 1930s. As Josephina was already alive by 1930, this establishes that she must not be a Muggle or Muggle-born.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="WW"/>
+|alias = 
+|title = [[Minister for Magic]]<ref name="WW"/>
+|signature = 
+|species = [[Human]]<ref name="WW"/>
+|gender = Female<ref name="WW"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Flint family]]<ref name="WW"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Minister for Magic|British Minister for Magic]] ([[1819]] - [[1827]])<ref name="WW"/>
+|house = 
+|loyalty = *[[Flint family]]<ref name="WW"/>
+*[[British Ministry of Magic]]<ref name="WW"/>
+}}
+'''Minister Josephina Flint''' was [[Minister for Magic]] from [[1819]] to [[1827]].  She was elected at least twice.<ref name="WW"/>
+
+She revealed an unhealthy anti-[[Non-magic people|Muggle]] bias in office and disliked new Muggle technology such as the [[telegraph]], which she claimed interfered with proper [[wand]] function.<ref name="WW">{{WW|ministers-for-magic}}</ref>
+
+==Appearances==
+*{{PM}} {{1st mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Grogan Stump]]
+|position=[[Minister for Magic]]
+|years=[[1819]] to [[1827]]
+|successor=[[Ottaline Gambol]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Flint, Josephina}}
+
+[[de:Josephina Flint]]
+[[es:Josephina Flint]]
+[[fr:Josephina Flint]]
+[[pl:Josephina Flint]]
+[[pt-br:Josephina Flint]]
+[[ru:Джозефина Флинт]]
+[[zh:约瑟芬娜·弗林特]]
+[[Category:British Ministers for Magic]]
+[[Category:Females]]
+[[Category:Flint family]]
+[[Category:Historical figures]]
+[[Category:Wizarding supremacists]]
+[[Category:Wizards]]

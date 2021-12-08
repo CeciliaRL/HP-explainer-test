@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme = mom
+|image = [[File:Loretta Fieldwake.png|250px]]
+|name = Loretta Fieldwake
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[half-blood]]<ref>As she was working at the Ministry during Voldemort's rule, it is highly unlikely she was Muggle-born.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Special Advisor for Elf Legislation]], [[Minister for Magic and Support Staff|Minister for Magic Support Staff]] at the [[British Ministry of Magic|Ministry of Magic]]
+|house = 
+|loyalty = [[British Ministry of Magic|Ministry of Magic]]
+}}
+'''Loretta Fieldwake''' was a [[British Ministry of Magic|Ministry of Magic]] employee, who worked as [[Special Advisor for Elf Legislation|Special Advisor]] for [[Elf Legislation]]<ref name="Twitter">[https://twitter.com/minalima/status/599605713455943683 "Our real jobs! :-)"] posted by MinaLima on Twitter on 16 May 2015</ref> for the [[Minister for Magic and Support Staff|Minister for Magic's Support Staff]].<ref name="SupportStaff">The plaque listing Loretta Fieldwake is identical in style to the other plaques on the doors to the offices of [[Minister for Magic and Support Staff|Level One]], as seen in {{DH|F1}} {{See image 2|File:MinistryLevelOne.png|File:Dolores Umbridge sign.png}}.</ref>
+
+==Etymology==
+*Loretta Fieldwake is named after [[Lauren Wakefield]], one of the graphic artists that produced many of the paper props seen in the [[Harry Potter (film series)|''Harry Potter'' films]].
+
+==Appearances==
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Minister for Magic and Support Staff}}
+{{DEFAULTSORT:Fieldwake, Loretta}}
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Fieldwake family]]
+[[Category:Minister for Magic's Support Staff]]
+[[Category:Wizards]]

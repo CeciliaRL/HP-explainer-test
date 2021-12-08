@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme = portrait
+|image = 
+|name = Portrait of people watching Quidditch
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts Castle]]
+}}
+A '''[[portrait]]''' depicting people watching Quidditch was hung in the [[Oxford Corridor]], at [[Hogwarts Castle]]. [[Swoopstikes|Professor Swoopstikes]]'s picture was close by and he often flitted in between this portrait and his.<ref name="WWHP">[http://www.mtv.ca/moviehead/article.jhtml?id=25349 We Take You Inside The Wizarding World Of Harry Potter] on [http://www.mtv.ca/moviehead/ MTV.ca]</ref>
+
+==Appearances==
+*{{WWHP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts ground floor}}
+[[Category:British individuals|People]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

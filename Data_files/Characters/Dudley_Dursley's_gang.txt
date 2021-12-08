@@ -1,0 +1,57 @@
+{{Conjecture}}
+{{Organisation infobox
+|bgcolor1 = 
+|bgcolor2 = 
+|image = [[File:Dudley Dursley's gang.png|250px]]
+|name = Dudley Dursley's gang
+|founder = [[Dudley Dursley]]<ref name="PS3"/>
+|founded = Before [[1991]]<ref name="PS3"/>
+|dissolved = Presumably sometime after [[August]] [[1995]]<ref name="dissolved">As Dudley Dursley was forced to learn the error of his ways after being [[Attack in Little Whinging|attacked]] by [[Dementor]]s, he likely disbanded the group when he learned to become a better person.</ref>
+|leader = [[Dudley Dursley]]<ref name="PS3"/><ref name="OOTP1"/>
+|members = *[[Piers Polkiss]]<ref name="PS3"/><ref name="OOTP1"/>
+*[[Dennis]]<ref name="PS3"/><ref name="OOTP1"/>
+*[[Gordon]]<ref name="PS3"/><ref name="OOTP1"/>
+*[[Malcolm]]<ref name="PS3"/><ref name="OOTP1"/>
+|headquarters = 
+|intentions = Bullying, Anti-social behaviour<ref name="PS3"/><ref name="OOTP1"/>
+|affiliation = 
+|enemies = *Anyone<ref name="OOTP1"/>
+*[[Harry Potter]]<ref name="PS3"/>
+}}
+{{Dialogue a-b-a-b-a|Harry Potter|So who’ve you been beating up tonight? Another ten-year-old? I know you did [[Mark Evans]] two nights ago - |Dudley Dursley|He was asking for it.|Oh yeah?|He cheeked me.|Yeah? Did he say you look like a [[pig]] that’s been taught to walk on its hind legs? Cause that’s not cheek, Dud, that’s true ... |Harry denouncing Dudley and his gang for their bullying behaviour| Harry Potter and the Order of the Phoenix}}
+[[Dudley Dursley]] led a '''gang''', which was a group of bullies. Dudley was in charge by virtue of being the biggest, strongest, and (according to [[Harry Potter|Harry]]) stupidest of the lot of them.<ref name="PS3">{{PS|B|3}}</ref>
+
+In [[1995]], the gang would roam the streets around [[Little Whinging]] harassing other people, such as by throwing stones at passing [[car]]s, or beating up young children.<ref name="OOTP1">{{OOTP|B|1}}</ref> They covered their actions by telling their parents they were going to another member of the gang's house for tea every night.<ref name="OOTP1"/>
+
+==Members==
+<gallery>
+Dudley DH.png|[[Dudley Dursley]] (leader)<ref name="PS3"/><ref name="OOTP1"/>
+Pierrs.jpg|[[Piers Polkiss]]<ref name="PS3"/><ref name="OOTP1"/>
+Dennis.png|[[Dennis]]<ref name="PS3"/><ref name="OOTP1"/>
+Gordon.png|[[Gordon]]<ref name="PS3"/><ref name="OOTP1"/>
+Malcolm.png|[[Malcolm]]<ref name="PS3"/><ref name="OOTP1"/>
+</gallery>
+
+==Behind the scenes==
+*In {{OOTP|FA}}, the gang were laughing at Harry who was being taunted by Dudley. They laugh even more when Harry pulls out [[Harry Potter's wand|his wand]] (as they are unaware it is [[magic]]al), and they flee in terror when the sky [[Attack in Little Whinging|becomes dark]]. Though all four of them appear in the film, only Piers and Malcolm are credited.
+*In {{OOTP|FA}}, Harry makes a snide comment about the bravery of Dudley's gang. In {{HBP}}, [[Severus Snape]] makes a similar comment about [[James Potter I|James Potter]]'s [[Marauders|gang]].
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{OOTP}} {{1st}}
+*{{OOTP|F}}
+*{{OOTP|G}} {{Voice}}
+*{{LEGO|Y2}}
+*{{PM}} {{Mention}}
+*{{TCG}}
+
+==Notes and references==
+{{Reflist}}
+{{Dudley's gang}}
+{{Stub}}
+[[es:Pandilla de Dudley Dursley]]
+[[fr:Bande de Dudley Dursley]]
+[[ru:Шайка Дадли Дурсля]]
+[[Category:Dudley Dursley's gang]]
+[[Category:Males]]
+[[Category:Muggles]]

@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Unidentified frowning Ministry of Magic wizard who murmured instructions to a quill
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">As he was working at the Ministry during Voldemort's rule, he could not have been [[Muggle-born]].</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DH13"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH13"/>
+|gender = Male<ref name="DH13"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[British Ministry of Magic]] employee<ref name="DH13"/>
+|house = 
+|loyalty = [[British Ministry of Magic]]<ref name="DH13"/>
+}}
+{{Quote| ''[Harry]'' therefore set off along the corridor again, passing nobody but a frowning wizard who was murmuring instructions to a quill that floated in front of him, scribbling on a trail of parchment.|Description.|Harry Potter and the Deathly Hallows}}
+This '''individual''' was a [[British Ministry of Magic|Ministry of Magic]] official. On [[2 September]], [[1997]], he passed by [[Harry Potter]] ([[Polyjuice Potion|disguised]] as [[Albert Runcorn]]) while under his [[Cloak of Invisibility|Invisibility Cloak]] on Level One of the Ministry of Magic. The wizard was murmuring instructions to a [[Levitation|floating]] [[quill]] scribbling on a trail of [[parchment]].<ref name="DH13">{{DH|B|13}}</ref>
+
+==Behind the scenes==
+*His quill was possibly a [[Self-Writing Quill]] or a [[Quick-Quotes Quill]].
+
+==Appearances==
+*{{DH}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Minister and support staff}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Jocelind Wadcock.jpg|250px]]
+|name = Joscelind Wadcock
+|born = [[1911]]<ref name="COSG"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COSG"/>
+|alias = 
+|title = [[Chaser]]<ref name="COSG"/>
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Female<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = Light brown<ref name="COSG"/>
+|eyes = Blue<ref name="COSG"/>
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] of [[Puddlemere United]]<ref name="COSG"/>
+|house = 
+|loyalty = [[Puddlemere United]]<ref name="COSG"/>
+}}
+{{Quote|Chaser for Puddlemere United Quidditch Team. Record for highest number of goals during British season this century (against Ballycastle Bats, 1931).|[[Chocolate Frog Card]]|Harry Potter and the Prisoner of Azkaban (video game)}}
+'''Joscelind Wadcock''' (b. [[1911]]) was a [[Great Britain|British]] [[wizardkind|witch]] who played as a [[Chaser]] for the [[Puddlemere United]] [[Quidditch]] [[Quidditch team|team]]. She holds the record for highest number of [[Quidditch]] goals in the British League during the [[20th century]], achieved during a [[1931]] match against the [[Ballycastle Bats]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref><ref name="PM">{{PM}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Joscelind Wadcock}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{Chocolate Frog Cards}}
+[[de:Joscelind Wadcock]]
+[[es:Jocelind Wadcock]]
+[[fr:Jocelyn Wadcock]]
+[[fi:Joscelind Wadcock]]
+[[pl:Jocelind Wadcock]]
+[[ru:Джоселинд Уэдкок]]
+{{DEFAULTSORT:Wadcock, Joscelind}}
+[[Category:1911 births]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizards]]

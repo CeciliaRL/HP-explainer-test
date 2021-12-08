@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = muggle
+|image = [[File:Jack & Tom Monk.png|250px]]
+|name = Tom Monk
+|born = [[20 May]], [[1995]]<ref name="20May">The prop issue of ''[[Metro]]'' in which the article about Jack and Tom's birth is featured appears in the [[London Underground|Underground]] scene in {{OOTP|FA}}, just before Harry Potter's disciplinary hearing on 12 August, 1995. The body of the article says that "''It would be twelve weeks in total before a fully recovered Tilly and I could bring our boys home for the first time.''" Twelve weeks is eighty-four days, and eighty-four days before 12 August is 20 May. The prop issue itself is dated 1 December, 2006, but this is inconsistent with the [[dating conventions|canonical timeline]] of the ''Harry Potter'' series.</ref>
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 3.5 lbs
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Dave Monk]] (father)
+*[[Tilly Monk]] (mother)
+*[[Jack Monk]] (twin brother)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Monk family]]
+}}
+'''Tom Monk''' (b. [[20 May]], [[1995]]<ref name="20May"/>) was a [[Non-magic people|Muggle]] boy, the son of [[Dave Monk|Dave]] and [[Tilly Monk]], and the twin brother of [[Jack Monk|Jack]].
+==Biography==
+In [[1995]], Tom Monk and his brother were born prematurely, delivered simultaneously as what their father described as a "bundle," and received immediate medical care from "an amazing neonatal team." The twins were quickly taken to the [[Neonatal Intensive Care Unit]], where they were kept in incubators, receiving vital fluids through intravenous lines and breathing with the help of mechanical ventilators. Five days after his birth, Tom's condition was stable enough for his mother to hold him in her arms for the first time, which gave her a "huge boost." The twins' parents were finally able to take them home after twelve weeks. By this time, Tom weighed three-and-a-half pounds, having weighed only one pound, one ounce at birth.
+
+The twins' father wrote an article about their miraculous birth, which was featured on the front page of the [[12 August]], [[1995]] issue of ''[[Metro]]'', under the title "''Miracle babies make it''".<ref name="HPLE">{{HPLE|G}} {{see image|File:Metro.png}}</ref>
+
+==Appearances==
+*{{OOTP|F}} {{Photograph}}
+*{{HPLE}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Monk, Tom}}
+[[Category:1995 births]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Monk family]]
+[[Category:Muggles]]
+[[Category:Twins]]

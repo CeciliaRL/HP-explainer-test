@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Elladora Guffy
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DP"/>
+|alias = 
+|title = [[Madam]]<ref name="DP"/>
+|signature = 
+|species = [[Human]]<ref name="DP"/>
+|gender = Female<ref name="DP"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Elladora Guffy''' was a [[Wizardkind|witch]] who lived next door to [[Ethelbard Mordaunt]]. Madam Guffy was fond of practical jokes and had been known on occasion to [[Charm|enchant]] Mordaunt's garden furniture. This infuriated Mordaunt, which he once expressed to the ''[[Daily Prophet]]'' in a letter.<ref name="DP">{{DP}}: [[31 July]], [[1998]], Page 3</ref>
+
+==Appearances==
+*{{DP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Guffy, Elladora}}
+[[pl:Elladora Guffy]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Wizards]]

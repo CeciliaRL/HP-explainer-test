@@ -1,0 +1,21 @@
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme=muggle
+|name=Unidentified Muggle man
+|hideb=
+|blood=[[Non-magic people|Muggle]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|hidef=hide
+|hidem=hide
+|hidea=hide
+|hair = Brown|skin = Light|eyes = Brown}}{{Quote|Mind where you point that stick, lad! You'll have somebody's eye out!|The Muggle man on seeing a [[wand]]|Harry Potter and the Chamber of Secrets (GBC)}}On [[September|1 September]], [[1992]], this [[Muggle-born|Muggle]] '''man''' was reading a newspaper outside of the entrance to [[King's Cross Station]] in [[London]], wanting to know the time, presumably waiting for a train. On spotting [[Harry Potter's wand]], he assumed that [[Harry Potter|he]] was playing around with an ordinary stick, and warned him to be careful where he pointed it.<ref>''[[Harry Potter and the Chamber of Secrets (GBC)]]''</ref>
+
+==Appearances==
+*{{COS|G}}
+
+==Notes and references==
+{{Reflist}}[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme=wizard
+|image=[[File:HPDH2-2492.jpg|250px]]
+|name=Unidentified witch
+|hideb=b
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DHF2"/>
+|gender=Female<ref name="DHF2"/>
+|height=
+|hair=Brown<ref name="DHF2"/>
+|eyes=
+|skin=Light<ref name="DHF2"/>
+|hidef=f
+|family=
+|hidem=m
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+}}This '''individual''' was a [[Wizardkind|witch]] who fought during the [[Battle of Hogwarts]] in [[1998]]. She was tended by a [[Bald Healer|bald teacher]].<ref name="DHF2">{{DH|F2}}</ref> It is unknown if she survived the battle.
+
+==Behind the scenes==
+*The bald teacher could be her husband.
+*She was played by an unknown actress in {{DH|F2}}.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Battle of Hogwarts participants]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

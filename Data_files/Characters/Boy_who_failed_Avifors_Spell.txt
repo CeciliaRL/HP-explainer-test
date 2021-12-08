@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Boy who failed Avifors Spell
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Boy who failed Avifors Spell's cousin|Cousin]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = Unknown
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|My cousin had trouble with Avifors. He could only turn things into eggs. He was popular at breakfast time but he nearly failed the class.|His [[Boy who failed Avifors Spell's cousin|cousin]] telling about the boy|Harry Potter and the Philosopher's Stone (video game)}}
+This '''boy''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] sometime in or before the early [[1990s]]. Once during his [[first year]] during [[Transfiguration (class)|Transfiguration]] he used the [[Avifors Spell]] but was only able to turn things into [[egg]]s. He later tried to practise during breakfast and became very popular because of his failed attempts.<ref>{{PS|G}} - GBA version</ref>
+
+==Appearances==
+*{{PS|G}} {{1st Mention}} {{C|GBA version}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

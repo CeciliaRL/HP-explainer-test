@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Joe Laurie
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+__NOTOC__
+'''Joe Laurie'''<ref>Closed captions on the DVD/Blu-ray of {{DH|F1}}</ref> was a [[Wizardkind|wizard]] who was reported missing on the ''[[Potterwatch]]'' wireless programme in [[1997]]. His disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.
+
+==Behind the scenes==
+*This character is presumably a tribute to a relative of Daniel Laurie, who worked as an ADR editor on ''[[Harry Potter and the Goblet of Fire (film)|Harry Potter and the Goblet of Fire]]'', ''[[Harry Potter and the Order of the Phoenix (film)|Harry Potter and the Order of the Phoenix]]'', and ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]'', and as an ADR supervisor on {{DH|F1}} and {{DH|F2}}.<ref>[http://www.imdb.com/name/nm0491392/ Daniel Laurie's profile on IMDb]</ref>
+
+==Appearances==
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Laurie, Joe}}
+
+[[fr:Joe Laurie]]
+[[pl:Joe Laurie]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

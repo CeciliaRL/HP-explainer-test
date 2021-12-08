@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:Ravenclaw Seeker Substitute.png|250px]]
+|name = Unidentified Ravenclaw Seeker's substitute
+|born = [[31 August]] [[1979]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Seeker]] (substitute)<ref name="PSG"/>
+|signature = 
+|species = [[Human]]<ref name="PSG"/>
+|gender = Male<ref name="PSG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="PSG"/>
+|eyes = 
+|skin = Light<ref name="PSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="PSG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSG"/>
+**[[Ravenclaw]]<ref name="PSG"/>
+**[[Ravenclaw Quidditch team]]<ref name="PSG"/>
+}}
+This '''individual''' was a [[Ravenclaw]] student at [[Hogwarts School of Witchcraft and Wizardry]] and a substitute [[Seeker]] on their [[Quidditch]] [[Ravenclaw Quidditch team|team]] in [[1991]] to [[1992]]. He was filling in when [[Unidentified Ravenclaw Seeker|the actual Seeker]] was unable to play.<ref name="PSG">{{PS|G}}</ref>
+
+==Behind the scenes==
+*In the PC versions this Seeker substitute doesn't appear, having instead been replaced by [[Unidentified Ravenclaw Seeker|another student]].
+
+==Appearances==
+*{{PS|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts quidditch positions}}
+
+[[pl:Niezidentyfikowany zastępca szukającego Ravenclawu]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Unidentified Ravenclaws]]
+[[Category:Wizards]]

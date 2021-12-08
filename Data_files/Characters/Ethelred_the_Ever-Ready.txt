@@ -1,0 +1,66 @@
+{{Individual infobox
+|theme = dark-wizard
+|image = [[File:Ethelred the Ever-Ready.jpg|250px]]
+|name = Ethelred the Ever-Ready
+|born = [[Middle Ages]]<ref name="COSG">{{COS|G}}</ref>
+|died = [[Middle Ages]]<ref name="COSG"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = White<ref name="COSG"/>
+|eyes = Brown<ref name="COSG"/>
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Ethelred the Ever-Ready''' was a [[Middle Ages|medieval]] [[Dark Wizard]], infamous for being offended for no reason and [[curse|cursing]] innocent bystanders. Eventually he was imprisoned, and subsequently [[Death|died]] in jail.<ref name="PSG">{{PS|G}}</ref><ref name="COSG"/><ref name="POAG">{{POA|G}}</ref>
+
+==Magical abilities and skills==
+*'''[[Dark Arts]]''': Ethelred was skilfull with the casting of unpleasant [[curse]]s during his lifetime, which he often inflicted on innocent individuals unprovoked, gaining him his disturbed reputation.<ref name="COSG"/>
+
+==Etymology==
+*The name [[wikipedia:Ethelred the Unready|Ethelred]] is composed from Old English elements æðele, meaning "noble", and ræd, meaning "counsel", being bombastic and common in the Royal House of Wessex.
+
+==Behind the scenes==
+*Ethelred the Ever-Ready's name was likely inspired by King [[wikipedia:Ethelred the Unready|Ethelred II of England]], who was known as ''the Unready'' after his death (from Old English ''Æþelræd Unræd).'' In that time, "unready" was probably understood pejorative as "evil counsel" (opposite to the name) or "bad plan"; the king was considered ill-advised or indecisive in his conflict with the Danes.
+
+==Appearances==
+{{Imagecat|Images of Ethelred the Ever-Ready}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+{{Chocolate Frog Cards}}
+[[de:Ingbert der Immerbereite]]
+[[es:Ethelred el Siempre Listo]]
+[[ru:Этельред Вспыльчивый]]
+[[pl:Ethelred Ever–Ready]]
+[[fr:Ethelred Toujourprêt]]
+[[fi:Ethelred the Ever-Ready]]
+[[sv:Ethelred den Någonsin-Klar]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Convicts]]
+[[Category:Dark wizards]]
+[[Category:Deceased individuals]]
+[[Category:Gold Chocolate Frog Cards]]
+[[Category:Historical figures]]
+[[Category:Males]]

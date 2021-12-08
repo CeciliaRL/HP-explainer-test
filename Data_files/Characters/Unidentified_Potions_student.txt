@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Potions student
+|born = c. between the [[1920s]] and [[1970]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|I should point out, however, only once did a student manage to brew a potion of sufficient quality to claim this prize. Nevertheless, good luck to you all.|[[Horace Slughorn]]|Harry Potter and the Half-Blood Prince (film)}}
+
+This '''student''' was a [[Wizardkind|wizard or witch]] and a student of [[Horace Slughorn]]'s during his first tenure as [[Potions Master]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] (between c. [[1920]] and [[1981]]). They were the first and only student before [[Harry Potter]] to brew a [[Draught of Living Death]] with sufficient quality to earn a small vial of [[Felix Felicis]].<ref>{{HBP|F}}</ref>
+
+==Behind the scenes==
+*This student may have been a member of the [[Slug Club]], as [[Professor]] [[Horace Slughorn|Slughorn]] accepts talented students.
+*It is possible that this student may have been [[Tom Riddle]], but is more likely it may have been [[Severus Snape]] or [[Lily J. Potter|Lily Evans]] who were both known to have had an aptitude for Potions.
+
+==Appearances==
+*{{HBP|F}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British or Irish individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

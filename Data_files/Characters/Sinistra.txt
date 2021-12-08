@@ -1,0 +1,46 @@
+{{Youmay|the apparently cut character|[[Aurora Sinistra]]}}
+{{Cut content}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Sinistra
+|hideb=hide
+|born=
+|died=
+|blood=[[Magic]]al to unknown extent<ref name="JKRS"/>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="JKRS"/>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=f
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=
+}}
+'''Sinistra''' was a [[wizardkind|wizard or witch]].<ref name="JKRS">"[[:File:Early draft workingsJKR.png|''Early draft workings'']]" from {{JKRS}}</ref>
+
+==Etymology==
+The name "Sinistra" is the name of a [[Wikipedia:Sinistra|star]] in the constellation [[Wikipedia:Ophiuchus|Ophiuchus]], which probably means that the family, like the [[House of Black]], named their children after those of stars and constellations.
+
+==Behind the scenes==
+*Professor Sinistra was apparently considered for the role of [[Defence Against the Dark Arts]] [[professor]], as the name was written next to those of [[Enid Pettigrew]] and [[Oakden Hernshaw]]. However, the name was not written with a year next to it, implying that the name may have just been considered.
+
+==Appearances==
+*{{JKRS}} {{1st Mention}} 
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

@@ -1,0 +1,50 @@
+{{MagicAwakenedSpoiler}}
+{{Individual infobox
+|theme = gryffindor
+|image = Robyn Thistlethwaite Gryffindor.png
+|name = Robyn Thistlethwaite
+|born = Between [[1 September]] [[1996]] and [[31 August]] [[1997]]{{MATimeRef}}
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="MA">{{MA}}</ref>
+|gender = Female<ref name="MA"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="MA"/>
+|eyes = Grey<ref name="MA"/>
+|skin = White<ref name="MA"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="MA"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="MA"/>
+**[[Gryffindor]]<ref name="MA"/>
+}}
+'''Robyn Thistlethwaite''' was a [[Wizardkind|witch]] who started attending [[Hogwarts School of Witchcraft and Wizardry]] in [[2008]] and was sorted into [[Gryffindor]].<ref name="MA"/>
+
+==Behind the scenes==
+*Robyn was a [[Hufflepuff]] in the first [https://en.wikipedia.org/wiki/Software_release_life_cycle#Beta beta release] of {{MA}}, but has been changed to [[Gryffindor]] in subsequent releases.
+
+==Appearances==
+*{{MA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Thistlethwaite, Robyn}}
+[[ru:Робин Тистлетвэйт]]
+[[Category:1990s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Grey-eyed individuals]]
+[[Category:Gryffindors]]
+[[Category:Sorted in 2008]]
+[[Category:Wizards]]

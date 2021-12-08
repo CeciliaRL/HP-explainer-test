@@ -1,0 +1,36 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = FairyHM.png
+|name = Fairy at the Magical Creatures Reserve
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Fairy]]<ref name="FT">{{HM}}, Year ?, Side Quest "Fairy Tale"</ref>
+|gender = Female<ref name="FT"/>
+|height = 
+|hair = Red<ref name="FT"/>
+|feathers = 
+|eyes = <!--If you can properly recognise, please add-->
+|skin = Light green<ref name="FT"/>
+|family = 
+|loyalty = [[Magical Creatures Reserve]]<ref name="FT"/>
+}}
+This female '''[[fairy]]''' lived in the [[Magical Creatures Reserve]] in the [[1980s]].<ref name="FT"/>
+
+==Biography==
+In the [[1980s]], [[Jacob's sibling]] would often bond with this [[fairy]]. They once went to the [[Potions Classroom]] together to distract [[Severus Snape]] so that they could rescue another fairy, whose [[Fairy wings|wings]] were intended to be used as a potion ingredient.<ref name="FT"/>
+
+This fairy and her friends also helped create fairy light at the [[Valentine's Day Ball]].<ref name="VDB">{{HM|5|VALENTINE'S DAY BALL}}</ref>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Creature-stub}}
+{{Magical Creatures Reserve}}
+[[Category:Fairies]]
+[[Category:Females]]
+[[Category:Magical Creatures Reserve]]

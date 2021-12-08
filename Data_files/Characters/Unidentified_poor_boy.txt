@@ -1,0 +1,29 @@
+{{Individual infobox
+|image = Poor Boy.jpg
+|name = Unidentified poor boy
+|born = Pre [[1926]]
+|blood = [[Non-magic people|No-Maj]]
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|gender = Male
+|skin = Light
+|theme = muggle
+|maritial = 
+}}This '''poor boy''' was an [[United States of America|American]] [[Non-magic people|No-Maj]] who lived in [[New York]] in the early [[20th century]].
+
+==Biography==
+In [[1926]], the boy went to the [[Second Salem Church]], where poor children were fed in exchange for distributing leaflets. While he was waiting in line for soup, the boy asked [[New Salem Philanthropic Society]] leader [[Mary Lou Barebone]] if the birthmark on [[Unidentified boy with birthmark|another boy]]'s face was a "[[Wizardkind|witch]]'s mark," to which she replied that it was not.<ref name="FBS">{{FB|S}}</ref>
+
+==Behind the scenes==
+*The poor boy was portrayed by [[Miles Roughley]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:American individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

@@ -1,0 +1,58 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = 
+|born = Before [[1970s]]
+|died = 
+|blood = 
+|marital = Married
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Mary Karasu]]
+*[[Rosa Karasu]]
+*[[Tulip Karasu's father|Husband]]
+*[[Tulip Karasu]] (daughter)
+*[[Iris]] (sister or sister-in-law)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employee of the [[Department of Magical Law Enforcement]]
+|house = 
+|loyalty = *[[Karasu family]]
+*[[British Ministry of Magic]]
+**[[Department of Magical Law Enforcement]]
+}}
+'''Mrs Karasu''' was a [[Wizardkind|witch]] who worked at the [[Department of Magical Law Enforcement]].<ref name="HM37">{{HM|3|7}}</ref>
+
+==Relationships==
+===[[Jacob's sibling]]===
+{{Quote|My parents don't like you, because you are a "troublemaker", but that's your best quality|[[Tulip Karasu]] on her parents' thoughts on Jacob's sibling|Harry Potter: Hogwarts Mystery}}
+Mrs Kurasu and her husband disliked Jacob's sibling because of their troublemaking.<ref>{{HM}}, 5th year Defence Against Dark Arts study session</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}{{DEFAULTSORT:Karasu, Tulip mother}}
+[[Category:British individuals]]
+[[Category:Department of Magical Law Enforcement personnel]]
+[[Category:Females]]
+[[Category:Karasu family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

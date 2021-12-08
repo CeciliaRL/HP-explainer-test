@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Madge Farley
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Bella Farley]] (unknown)
+*[[Charlie Farley]] (unknown)
+*[[Jake Farley]] (unknown)
+*[[Gemma Farley]](possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Farley family]]
+}}
+'''Madge Farley'''<ref>Closed captions on the DVD/Blu-ray of {{DH|F1}}</ref> was a [[Wizardkind|witch]] reported missing along with her relatives [[Bella Farley|Bella]], [[Charlie Farley|Charlie]], and [[Jake Farley|Jake]] on the ''[[Potterwatch]]'' radio programme in [[1997]]. Her disappearance was most likely linked to a [[Death Eaters|Death Eater]] attack.
+
+==Appearances==
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Farley, Madge}}
+
+[[fr:Madge Farley]]
+[[pl:Madge Farley]]
+[[Category:British individuals]]
+[[Category:Farley family]]
+[[Category:Females]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

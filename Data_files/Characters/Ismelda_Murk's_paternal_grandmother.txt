@@ -1,0 +1,46 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Ismelda Murk's paternal grandmother
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ismelda Murk's father|Son]]
+*[[Ismelda Murk's mother|Daughter-in-law]]
+*[[Ismelda Murk's sister|Granddaughter]]
+*[[Ismelda Murk]] (granddaughter)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Murk family]]
+}}
+{{Quote|Mum calls my dad's mum a Dementor because she sucks all the happiness from the room.|[[Ismelda Murk]]|Harry Potter: Hogwarts Mystery}}
+This '''individual''' was the paternal grandmother of [[Ismelda Murk]]. Her [[Ismelda Murk's mother|daughter-in-law]] called her a [[Dementor]], because of her general demeanour.<ref name="HM4CP">{{HM|4|Conjure A Patronus}}</ref>
+
+==Appearances==
+*{{HM}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Females]]
+[[Category:Murk family]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

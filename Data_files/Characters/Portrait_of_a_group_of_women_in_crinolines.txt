@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:WomenInCrinolines.png|250px]]
+|name=Portrait of a group of women in crinolines
+|hideb=
+|born=
+|died=Before [[1993]]
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="POA6"/>
+|gender=Females<ref name="POA6"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POA6"/>
+}}
+This '''group of women in crinolines''' were depicted in a picture hung at [[Hogwarts Castle]]. Their portrait hung at the bottom of the [[Divination Stairwell]] in the [[North Tower]], at the end of the [[Divination corridor]]. When [[Cadogan|Sir Cadogan]] lead [[Harry Potter]], [[Ronald Weasley]] and [[Hermione Granger]] to the Divination Classroom, they passed through this portrait, whose occupants were alarmed by Sir Cadogan's sudden appearance.<ref name="POA6">{{POA|B|6}}</ref>
+
+==Appearances==
+*{{POA}} {{1st}} {{Portrait}}
+*{{PM}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts towers}}
+[[pl:Obraz grupy kobiet w krynolinach]]
+[[Category:Females]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

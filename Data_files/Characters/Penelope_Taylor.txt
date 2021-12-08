@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Penelope Taylor
+|born = between summer [[1973]] and summer [[1974]]
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Taylor family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Taylor family]]
+}}
+{{Quote|Just before the attack, we saw these plumes of smoke in the sky. If you looked directly at them, they disappeared, but you could see them out the corner of your eye. Then it all went dark and suddenly everything was exploding. If I hadn't stopped to try to see the smoke, I'd be dead by now. I know that these were devils, punishing for our decadent Western lifestyle.|Penelope Taylor quoted by [[Jamie Wolpert (in-universe)|Jamie Wolpert]], "[[Millennium Bridge|Bridge disaster]] hits London" in ''[[The Guardian]]'' (July, [[1996]]).|Harry Potter Limited Edition}}
+'''Penelope Taylor''' (born c. [[1974]]) was a [[Non-magic people|Muggle]] woman from [[Hull]], and a survivor of the [[Millennium Bridge]] disaster in [[1996]], aged 22.
+
+She noticed "''these plumes of smoke in the sky''", just before the bridge collapsed, which were (although she did not know) a gang of [[Death Eaters]] led by [[Fenrir Greyback]]. Penelope Taylor attributed the collapse to what she believed were devils, punishing the Londoners for their "''decadent Western lifestyle''". She escaped the collapse with only a broken leg and pelvis, because she stopped to try and see the smoke, and later gave a statement to ''[[The Guardian]]''.<ref name="HPLE">{{HPLE|G}} (see [[:File:TheGuardian.png|this image]])</ref>
+
+==Behind the scenes==
+*Penelope Taylor was presumably named after [[Penelope Taylor (real-world)|Penelope Taylor]], an assistant to [[David Yates]] on ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]''.<ref>"[http://www.imdb.com/name/nm3664445/ Penelope Taylor]" on IMDb</ref>
+
+==Appearances==
+*{{HBP|F}} {{Mention}}
+*{{HPLE}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Penelopa Taylor]]
+
+{{DEFAULTSORT:Taylor, Penelope}}
+[[Category:1974 births]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Taylor family]]
+[[Category:Muggles]]

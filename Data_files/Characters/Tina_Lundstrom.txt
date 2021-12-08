@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Tina Lundstrom - card HBP-NDS.png]]
+|name = Tina Lundstrom
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = *[[Captain]]
+*[[Seeker]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Blonde
+|eyes = Brown
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Captain and [[Seeker]] for the [[Nordic National Quidditch team]]<ref name="QWC"/>
+|house = 
+|loyalty = [[Nordic National Quidditch team]]<ref name="QWC"/>
+}}
+'''Tina Lundstrom''' was a [[Wizardkind|witch]] who played as [[Seeker]] on the [[Nordic National Quidditch team]]. She was also the team's [[Captain]].<ref name="QWC">{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Lundstrom's [[Chocolate Frog Card]] could be won by beating [[Craig Dunn]] at a [[Gobstones]] challenge.<ref name="HBPG">{{HBP|G}} {{c|NDS edition}}</ref>
+
+==Etymology==
+*Lundstrøm/Lundström is a Danish and Swedish surname, possibly indicating that Tina was either [[Denmark|Danish]] or [[Sweden|Swedish]].
+
+==Appearances==
+*{{QWC}} {{1st}}
+*{{HBP|G}} {{FWC}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{DEFAULTSORT:Lundstrom, Tina}}
+[[pl:Tina Lundstrom]]
+[[ru:Тина Лундстром]]
+[[Category:Brown-eyed individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Quidditch Captains]]
+[[Category:Scandinavian individuals]]
+[[Category:Seekers]]
+[[Category:Wizards]]

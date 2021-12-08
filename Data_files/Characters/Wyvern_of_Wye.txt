@@ -1,0 +1,48 @@
+{{HogwartsMysterySpoiler}}
+{{Pet individual infobox
+|name = Wyvern of Wye
+|image = 
+|born = [[Middle Ages]]<ref name="PM"/>
+|died = [[Middle Ages]]<br> [[River Wye]], [[West Country]], [[England]], [[Great Britain]]<ref name="PM"/>
+|alias = 
+|title = 
+|species = [[Dragon]]-like creature<ref name="PM"/>
+|gender = 
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|feathers = 
+|wingspan = 
+|family 
+|loyalty = 
+}}
+The '''Wyvern of Wye''' was a [[dragon]]-like [[creature]] from [[River Wye]] that terrorised the [[West Country]] sometime during the lifetime of [[Arthur|King Arthur]].<ref name="PM"/>
+
+==Biography==
+[[Cadogan|Sir Cadogan]], one of the [[Knights of the Round Table]], bravely engaged the creature in combat. The Wyvern, however, was too strong for Cadogan, and it managed to eat Cadogan's [[horse]], break his [[Cadogan's wand|wand]], and melt his sword and visor with [[fire]] before Cadogan could escape.<ref name="PM">{{WW|sir-cadogan}}</ref>
+
+Cadogan and the Wyvern then had a second, shorter encounter after Cadogan managed to procure another mount, [[Cadogan's pony|an overweight pony]] that was grazing in a nearby meadow. The Wyvern bent its head to try to gobble up the knight and his new steed, but Cadogan's damaged, misfiring wand stabbed the Wyvern's tongue and ignited the fumes from its stomach, causing the [[beast]] to explode.<ref name="PM"/>
+
+==Etymology==
+"Wyvern" is a heraldic term for a winged two-legged dragon with a barbed tail.<ref>{{Wplink|Wyvern}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Wyvern de Wye]]
+[[fr:Vouivre de Wye]] 
+[[ja:ワイのワイバーン]]
+[[pl:Wiwern z Wye]]
+[[ru:Виверна]]
+[[Category:Articles related to dragons]]
+[[Category:Beasts]]
+[[Category:Deaths by explosion]]
+[[Category:Creatures affiliated with fire]]
+[[Category:Creatures from England]]
+[[Category:Historical figures]]
+[[Category:Individuals of unknown or undetermined gender]]

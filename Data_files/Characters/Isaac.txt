@@ -1,0 +1,47 @@
+{{Real world subject}}
+{{Individual infobox
+|image=
+|name=Isaac
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Abraham]] (father)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+'''Isaac''' was the second of the three [[Wikipedia:Patriarchs (Bible)|Patriarchs]] of the [[Bible]].<ref name="wikipedia">"[https://en.wikipedia.org/wiki/Isaac Isaac] on Wikipedia</ref> He was the son of [[Abraham]], who, in a well-known Biblical account, was called upon by [[God]] to offer him as sacrifice in order to test his faith.<ref name="PSf22">{{PS|F}} - Chapter 22 (''Cloaked in Darkness'') {{see image|File:ScreamingFaceBook.jpg}}</ref>
+
+Isaac was mentioned in a [[shrieking book|book]] that was kept in the [[Restricted Section]] of the [[Hogwarts Library|library]] at [[Hogwarts School of Witchcraft and Wizardry]] by the [[1990s]].<ref name="PSf22" />
+
+==Behind the scenes==
+*In {{PS|FA}}, the [[shrieking book]], in which Isaac is mentioned, appears to be a copy of ''[http://books.google.ca/books?id=tSs3AAAAMAAJ&printsec=frontcover#v=onepage&q=&f=false The Works of the Most Reverend Dr John Tillotson]''.
+
+==Appearances==
+*{{PS|F}} {{Comment|Mentioned in book only}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Izaak]]
+[[Category:B.C. era births]]
+[[Category:Biblical figures]]
+[[Category:Humans]]
+[[Category:Males]]

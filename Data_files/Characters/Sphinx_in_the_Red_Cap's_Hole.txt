@@ -1,0 +1,60 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:Sphinx HM.png|thumb]]
+|name = Sphinx in the Red Cap's Hole
+|born = Pre [[1990]]<ref name="RCB">{{HM|6|THE RISE OF A CURSE-BREAKER}}</ref>
+|died = 
+|alias = Madam Sphinx<ref name="RCB"/>
+|title = 
+|species = [[Sphinx]]<ref name="RCB"/>
+|gender = Female<ref name="RCB"/>
+|height = 
+|hair = Brown<ref name="RCB"/>
+|feathers = 
+|eyes = Yellow<ref name="RCB"/>
+|skin = Orange<ref name="RCB"/>
+|family = 
+|loyalty = 
+}}
+This female '''[[Sphinx]]''' resided in the [[Red Cap's Hole]] during the [[1989–1990 school year]].<ref name="RCB"/>
+
+==Biography==
+She was found by [[William Weasley|Bill Weasley]], [[Jacob's sibling]] and [[Wilfred Levi Kidd]] during one of Bill's [[Curse-Breaker|curse-breaking]] missions in the [[1989–1990 school year]]. She challenged them to solve three puzzles and find her the "Gifts of Hogwarts", which would be the answers to the puzzles, before she could give them the treasure she was guarding.<ref name="RCB"/>
+
+===First puzzle===
+<center>
+''Golden Body, Silver Wings…''<br/>
+''When I'm found, the Whistle Sings!''
+</center>
+The answer to which was a [[Golden Snitch]].<ref name="RCB"/>
+
+===Second puzzle===
+<center>
+''I have a head, but not a brain.''<br/>
+''Am full-bodied, yet have no frame.''<br/>
+''Many people believe I'm rich…''<br/>
+''but I possess not a Knut to my name.''
+</center>
+The answer to which was a rich, full-bodied glass of [[Butterbeer]].<ref name="RCB"/>
+
+===Third puzzle===
+<center>
+''Scarlet and gold, housing a creature most bold…''<br/>
+''I hang on the hearts of brave wizards, young and old.''
+</center>
+The answer to which was a [[Gryffindor]] house crest.<ref name="RCB"/>
+
+===Defeat===
+After the Sphinx received the three gifts the students had managed to obtain, she let them think about what was the common link among the gifts. Levi blurted out that the gifts were all golden, which the Sphinx deemed to be the wrong answer, and she prepared to attack them. However, she gave them a final chance when they asked for it, and recognised Levi's next answer of the objects having the ability to bring people together to be correct and unblocked the treasure.<ref name="RCB"/>
+
+==Appearances==
+*{{HM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Stub}}
+[[Category:Females]]
+[[Category:Forbidden Forest]]
+[[Category:Sphinxes]]
+[[Category:Yellow-eyed individuals]]

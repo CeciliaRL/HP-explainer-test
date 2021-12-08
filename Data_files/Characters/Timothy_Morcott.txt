@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Timothy Morcott
+|born = [[31 August]] [[1982]] or earlier<ref>He was at least in his [[first year]] at Hogwarts during the [[1993–1994 school year]] school year.</ref><br />
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="HBPG">{{HBP|G}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+{{Quote|Why are there so many Mudbloods at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]? They should've listened to [[Salazar Slytherin]] and banned them|Morcott in the [[Stone Bridge]]|Harry Potter and the Half-Blood Prince (video game)}}
+'''Timothy Morcott''' was a [[Wizardkind|wizard]] and [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Biography==
+During the [[1996–1997 school year|1996-1997 school year]], he stood in front of a door at one end of the [[Stone Bridge]], forcing [[Harry Potter]] to beat him in a [[Duelling|duel]] in order to get past. He might be the same student that stood in front of Harry in the [[Training Grounds]] to get past.<ref name="HBPG">{{HBP|G}}</ref>
+
+==Etymology==
+The name "Timothy" comes from the Greek name Τιμοθεος (Timotheos) meaning "honouring God", derived from τιμαω (timao) "to honour" and θεος (theos) "god".
+
+==Appearances==
+*{{POA|G}} {{1st}}
+*{{HBP|G}} {{Comment|NDS version only}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Morcott, Timothy}}
+[[pl:Timothy Morcott]]
+[[fr:Timothy Morcott]]
+[[Category:British or Irish individuals]]
+[[Category:Bullies]]
+[[Category:Males]]
+[[Category:Pure-blood supremacists]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

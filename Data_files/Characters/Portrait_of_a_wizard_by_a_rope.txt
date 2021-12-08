@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = portrait
+|image = [[File:Wizard by a rope.jpg|250px]]
+|name = Portrait of a wizard by a rope
+|born = 
+|died = Before [[1991]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="LEGOY1"/>
+|gender = Male<ref name="LEGOY1"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="LEGOY1"/>
+|eyes = Black<ref name="LEGOY1"/>
+|skin = Light<ref name="LEGOY1"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="LEGOY1"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] whose portrait hung at [[Hogwarts Castle]] in the early [[1990s]], at the [[Grand Staircase]]. He was depicted next to a rope that, when he pulled it, triggered the movement of a nearby set of stairs.<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+
+==Appearances==
+*{{LEGO|Y1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[de2:Portrait eines Zauberers neben einem Seil]]
+[[vi:Chân dung Phù thủy cùng một sợi dây]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified portraits]]
+[[Category:Wizards]]

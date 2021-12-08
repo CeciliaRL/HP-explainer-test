@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Lima Carneiro
+|born = Before [[1926]]<ref>{{FB|F}} - Her name appeared on a billboard in 1926</ref>
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Perfumer
+|house = 
+|loyalty = 
+}}
+'''Lima Carneiro'''<ref>[https://www.flickr.com/photos/papanotzzi/14609764781 Flickr account of PAPANOTZZI], picture taken at {{WWHP}}</ref> was a [[Non-magic people|Muggle]] perfumer who made the fragrance [[Divine Magic]].
+
+==Behind the scenes==
+*This character's name first appears on a billboard in {{HBP|FA}}.
+*This character's name is tribute to graphic artist [[Eduardo Lima]], who worked on every [[Harry Potter films|''Harry Potter'' film]] from ''[[Harry Potter and the Prisoner of Azkaban|Prisoner of Azkaban]]'' onward, as well as [[Mauricio Carneiro (real-world)|Mauricio Carneiro]], costume illustrator from ''[[Harry Potter and the Goblet of Fire (film)|Goblet of Fire]]'' onward.
+
+==Appearances==
+*{{HBP|F}} {{1st Mention}} {{C|Name appears on billboard}}
+*{{FB|F}} {{C|Name appears on billboard}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Carneiro, Lima}}
+[[fr:Lima Carneiro]]
+[[pl:Lima Carneiro]]
+[[ru:Лима Карнейру]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Muggles|Carner, Lima]]
+[[Category:Perfumers]]

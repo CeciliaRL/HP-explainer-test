@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Euphemia Rowle
+|born = 
+|died = 
+|blood = [[Pure-blood]] (likely)<ref name="Blood">{{WW|pure-blood}} - The [[Rowle family]] were a confirmed [[pure-blood]] family.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Rowle family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Rowle family]]
+}}
+{{Dialogue a-b-a|Delphini|Wizards used to believe that the Augurey's cry foretold death. When I was growing up, my guardian kept one in a cage.|Scorpius Malfoy|Your... guardian?|She used to say it was crying because it could see I was going to come to a sticky end. She didn't like me much. Euphemia Rowle... she only took me in for the gold.|[[Delphini]] explains her Augurey-shaped mark|Harry Potter and the Cursed Child}}
+'''Euphemia Rowle''' was a [[wizardkind|witch]] who raised [[Delphini]] following the end of the [[Second Wizarding War]]. According to Delphini, she did not care much for her ward, only taking her in for the [[gold]]. Rowle kept an [[augurey]] in a cage, and said that the creature kept crying because it could see Delphini was going to come to a "sticky end."<ref name="Act3Scene16">{{CC|B|3|16}}</ref>
+
+==Behind the scenes==
+*Delphini mentions Euphemia Rowle only took her in for the gold. While it is unclear who would pay Rowle to raise her, it may have been [[Rodolphus Lestrange]], Delphini's stepfather, who is known to have contacted her at least on one occasion.<ref name="Act4Scene11">{{CC|B|4|11}}</ref>
+*Euphemia Rowle shares the same first name with [[Euphemia Potter]], Harry Potter's grandmother.
+
+==Appearances==
+*{{CC}} {{1st Mention}}
+*{{CC|P}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Rowle, Euphemia}}
+[[de:Euphemia Rowle]]
+[[es:Euphemia Rowle]]
+[[ru:Юфимия Роули]]
+[[pl:Euphemia Rowle]]
+[[fr:Euphemia Rowle]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Rowle family]]
+[[Category:Wizards]]

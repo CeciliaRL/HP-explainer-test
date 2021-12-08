@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme = goblin
+|image = 
+|name = Goblin caroler
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]<ref name="POAF"/>
+|gender = Male<ref name="POAF"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = Black<ref name="POAF"/>
+|skin = Pale<ref name="POAF"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Caroler<ref name="POAF"/>
+|house = 
+|loyalty = [[Hogsmeade choir]]<ref name="POAF"/>
+}}
+This '''caroler''' was a [[goblin]] and a member of the [[Hogsmeade choir|choir]] in [[Hogsmeade]] in [[1993]] during the [[Christmas]] holidays. During the singing he was pushed rudely by an angry [[Harry Potter]] under his [[Invisibility cloak]].<ref name="POAF">{{POA|F}}</ref>
+
+==Behind the scenes==
+*This goblin was portrayed by [[Binde Johal]] in {{POA|FA}}, who also portrayed the [[tall goblin]] in {{DH|F2}}.
+
+==Appearances==
+*{{POA|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Christmas]]
+[[Category:Males]]
+[[Category:Unidentified Goblins]]

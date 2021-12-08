@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=hogwarts-staff
+|image=
+|name=Platform 9¾ Station guard
+|nationality={{GBorIE}}
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="PS17"/>
+|gender=Male<ref name="PS17"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Station guard<ref name="PS17"/>
+|house=
+|loyalty=*[[Platform Nine and Three-Quarters|Platform 9¾]]<ref name="PS17"/>
+*[[Hogwarts Express]]<ref name="PS17"/>
+}}
+This '''man''' led [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] students from [[Platform Nine and Three-Quarters|Platform 9¾]] to the [[King's Cross Station]] in the [[Non-magic people|Muggle]] World. Students were allowed to pass through the barrier in pairs or groups of three. This was intended to ensure that they did not attract too much attention after entering back into the Muggle world through the apparently solid metal ticket barrier.<ref name="PS17">{{PS|B|17}}</ref>
+
+==Appearances==
+*{{PS}} {{1st}} 
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}[[ru:Сторож на платформе номер девять и три четверти]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Express crew]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,43 @@
+{{Transcribed image|File:BrobeckTheatrePosters.jpg}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Magee
+|hideb=y
+|born=
+|died=
+|blood=[[Muggle|No-Maj]]
+|nationality=[[United States of America|American]]
+|marital=
+|alias=
+|title=[[Madam]]e
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Entertainer
+|house=
+|loyalty=
+}}
+'''Madame Magee''' was a [[Muggle|No-Maj]] entertainer in the early [[20th century]]. In [[1926]], posters were put up in an alleyway in [[New York]] to promote a one-night-only performance by Madam Magee at the [[Brobeck Theatre]], which was to be held on Saturday [[4 December]].<ref>{{FB|F}} {{See image|File:BrobeckTheatrePosters.jpg}}</ref>
+
+==Appearances==
+*{{FB|F}} {{Mentioned on a poster}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:American individuals]]
+[[Category:Entertainers]]
+[[Category:Females]]
+[[Category:Muggles]]

@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:QuintusStranger.png|250px]]
+|name = Quintus Stranger
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = *Quin<ref name="WBS"/>
+*Quintus-Of-The-Silly-Name<ref name="WBS"/>
+*Quivering Quintus<ref name="WBS"/>
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WBS"/>
+|gender = Male<ref name="WBS"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Quintus Stranger's father|Father]]<ref name="WBS"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core<ref name="WBS"/>
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|I never saw a wizard quite the same<br/>As Quintus Harcourt Ballyfumble Stranger<br/>As famous for his most unusual name<br/>As for the speed with which he fled from danger.|[[Miranda Goshawk]], "[[The Miserable Ode of Quivering Quintus]]"|Wonderbook: Book of Spells}}
+'''Quintus Harcourt Ballyfumble Stranger''' was the primary character of [[Miranda Goshawk]]'s poem "[[The Miserable Ode of Quivering Quintus]]". As with all of the characters in these poems, he was based off of a real wizard, with his name changed to protect his identity. Quintus was noted for his most unusual name, but perhaps more for his cowardice, and for the speed with which he fled from any danger.<ref name="WBS">{{WBS}}</ref>
+
+According to Goshawk's "Afterword", the traits Morgan lacked were bravery and daring.<ref name="WBS"/>
+
+==Biography==
+The wizard Quintus Stranger was based off of was cowardly and timid, and people knew him for vanishing instantly with any bang, flash, or grunt.<ref name="WBS"/>
+
+Soon he became a joke among his peers, and [[Quintus Stranger's father|his father]] told him that such nervousness could be overcome with perseverance, despite being scared was a natural thing and a feature of every man. Quintus reiterated that he was proud to flee at every danger, for it was wiser to save his own's neck than to give up his safety.<ref name="WBS"/>
+
+It was for this reason that Quintus only used his wand to shield himself from harm and, eventually, the wand lost its power ([[Miranda Goshawk]] went on to speculate that "''[[Wilting|it died of shame]]''") leaving him wandless.<ref name="WBS"/>
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Stranger, Quintus}}
+
+[[pl:Quintus Stranger]]
+[[Category:Males]]
+[[Category:Wizards]]

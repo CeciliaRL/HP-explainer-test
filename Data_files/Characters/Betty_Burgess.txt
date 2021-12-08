@@ -1,0 +1,39 @@
+{{Individual infobox
+|theme=individual
+|image=
+|name=Betty Burgess
+|born=Before [[1926]]
+|died=
+|blood=
+|marital=
+|alias=
+|nationality=[[United States of America|American]]<ref name="LEGOD"/>
+|title=
+|signature=
+|species=[[Human]]<ref name="LEGOD"/>
+|gender=Female<ref name="LEGOD"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=
+}}
+'''Betty Burgess''' was an associate of [[Modesty Barebone]] in [[New York]] in [[1926]]. According to Modesty, Betty lent her the [[Modesty Barebone's wand|wand]] that her adoptive brother [[Credence Barebone]] found under her bed on [[7 December]] [[1926]].<ref name="LEGOD">{{LEGO|D}} ([https://youtu.be/W6ZP8axYo70?t=1239 see video])</ref>
+
+==Appearances==
+*{{LEGO|D}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Burgess, Betty}}
+[[Category:American individuals]]
+[[Category:Females]]
+[[Category:Humans]]

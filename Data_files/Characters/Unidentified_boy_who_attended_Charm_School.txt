@@ -1,0 +1,59 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Charm School boy.png|250px]]
+|name = Boy who attended Charm School
+|born = Between [[1 September]] [[1979]] and [[31 August]] [[1980]]
+|died = 
+|blood = [[Half-blood]] (most likely)<ref name="bloodstatus">This individual refers to his father, a wizard, but later refers to films. This indicates that while having magical ancestry, he had some contact with the [[Non-magic people|Muggle]] world. Thus, he was most likely a [[half-blood]].</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSgbc"/>
+|gender = Male<ref name="PSgbc"/>
+|height = 
+|weight = 
+|hair = Blond<ref name="PSgbc"/>
+|eyes = Blue<ref name="PSgbc"/>
+|skin = 
+|family = [[Unidentified boy who attended Charm School's father|Father]]<ref name="PSgbc"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="PSgbc"/>
+|loyalty = *[[Charm School]]<ref name="PSgbc"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PSgbc"/>
+**[[Slytherin]]<ref name="PSgbc"/>
+}}
+{{Quote|I went to Charm School when I was younger, but it was nothing like this.|Unidentified Hogwarts student on [[Charm School]] in [[Charms (class)|Charms class]]|Harry Potter and the Philosopher's Stone (video game)}}
+
+This '''individual''' (born c. [[1980]]) attended [[Charm School]] in the [[1980s]] but later attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. During a [[Charms (class)|Charms lesson]], he compared Hogwarts to Charm School, saying that ''it was nothing like this''.<ref name="PSgbc">{{PS|G}} - GBC version</ref>
+
+==Biography==
+===Early life===
+{{Quote|I hope I get into Hufflepuff. That was my dad's house.|The boy|Harry Potter and the Philosopher's Stone (video game)}}
+This individual was born somewhere in the British Isles in around [[1979]] or [[1980]], to a [[Unidentified boy who attended Charm School's father|former Hufflepuff student at Hogwarts]]. He was apparently born into a [[half-blood]] family, as he appeared to have some contact with the [[Non-magic people|Muggle]] society.<ref name="bloodstatus"/> Sometime in his childhood, he attended [[Charm School]].<ref name="PSgbc"/>
+
+===Hogwarts years===
+{{Quote|Are they going to show a film?|The boy, while [[Hogwarts Express|en route]] to [[Hogwarts Castle]], on [[1 September]], [[1991]]|Harry Potter and the Philosopher's Stone (video game)}}
+He started at [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]], and hoped to be [[Sorting ceremony|Sorted]] into his [[Hufflepuff|father's old house]], but was Sorted in [[Slytherin]] instead. In his first week of classes, he commented that his old [[Charm School]] was nothing like [[Filius Flitwick|Professor Flitwick]]'s [[Charms (class)|Charms]] classes.<ref name="PSgbc"/>
+
+==Appearances==
+*{{PS|G}} {{1st}} {{C|GBC version}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Boy who attended Charm School}}
+[[Category:20th century births]]
+[[Category:Blue-eyed individuals]]
+[[Category:British or Irish individuals]]
+[[Category:Males|Charm School]]
+[[Category:Slytherins]]
+[[Category:Slytherins Sorted in 1991]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

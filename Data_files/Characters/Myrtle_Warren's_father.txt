@@ -1,0 +1,56 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Warren
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Myrtle Warren's mother|Wife]]
+*[[Myrtle Warren]] (daughter) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Warren family]]
+}}
+{{Quote|Come on, Rubeus. The dead girl's parents will be here tomorrow. The least Hogwarts can do is make sure that the thing that killed their daughter is slaughtered...|[[Tom Riddle]] falsely pins Myrtle's death on [[Aragog]]|Harry Potter and the Chamber of Secrets}}
+'''Mr Warren''' was a [[Non-magic people|Muggle]]<ref name="COS12">{{COS|B|12}}</ref> and the father of [[Muggle-born]] [[Wizardkind|witch]] [[Myrtle Warren|Myrtle Elizabeth Warren]], who attended [[Hogwarts School of Witchcraft and Wizardry]], and was killed by a [[Salazar Slytherin's Basilisk|Basilisk]] there on [[13 June]], [[1943]]. He planned to go to the school with his [[Myrtle Warren's mother|wife]] soon after this tragedy occurred.<ref name="COS13">{{COS|B|13}}</ref>
+
+His daughter's [[ghost]], known as Moaning Myrtle, resided in the [[Hogwarts Castle|girls' bathroom]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].
+
+==Behind the scenes==
+*According to [[Tom Riddle]], Myrtle's parents would get to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] some time after their daughter's death. However, it's unknown if this happened as Hogwarts can't be seen by Muggles. However it is likely that these spells were temporarily removed to allow them to collect their child's body, or an employee of Hogwarts escorted them in order to make the castle visible.
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+*{{COS|F}} {{Mention}}
+*{{COS|G}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Warren, Myrtle's father}}
+[[es:Padre de Myrtle la Llorona]]
+[[pl:Ojciec Marty Warren]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎]]
+[[Category:Warren family]]

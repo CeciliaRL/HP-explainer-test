@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme = macusa
+|image = [[File:Sam (Obliviator).png]]
+|name = Sam
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[United States of America|American]]<ref name="fb68" />
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="fb68" />
+|gender = Male<ref name="fb68" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = *[[Cecily]]<ref name="fb68" />
+*[[Ruby (witch)|Ruby]]<ref name="fb68" />
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Obliviator]]<ref name="fb68" />
+|house = 
+|loyalty = [[Magical Congress of the United States of America]]<ref name="fb68" />
+}}
+'''Sam''' was an [[United States of America|American]] [[Wizardkind|wizard]] who worked as an [[Obliviator]] for the [[Magical Congress of the United States of America]] in the [[1920s]].<ref name="fb68">{{FB|S|68}}</ref>
+
+==Biography==
+In [[1926]], Sam was tasked with [[Memory Charm|wiping the memory]] of the [[Non-magic people|No-Maj]] [[Jacob Kowalski]] after he entered the MACUSA headquarters, but was intercepted by [[Queenie Goldstein]].<ref name="fb68" /> Queenie, a [[Legilimency|Legilimens]], was able to read Sam's mind and see that he was in relationships with two women at the same time, fellow MACUSA employees [[Ruby (witch)|Ruby]] and [[Cecily]].<ref name="fb68" /> Queenie threatened to reveal his infidelity and was thus able to convince him not to Obliviate Jacob.<ref name="fb68" />
+
+==Physical appearance==
+Sam had brown hair and wore a navy blue blazer with the MACUSA logo on the right side and a white button-down shirt.
+
+==Behind the scenes==
+*Sam was portrayed by [[Matthew Wilson]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+[[de:Sam]]
+[[de2:Sam]]
+[[ru:Сэм]]
+[[pl:Sam]]
+[[fr:Sam]]
+[[es:Sam (Obliviador)]]
+[[Category:American individuals]]
+[[Category:Magical Congress of the United States of America Obliviators]]
+[[Category:Males]]
+[[Category:Wizards]]

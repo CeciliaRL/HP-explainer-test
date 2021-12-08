@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = goblin
+|image = [[File:Alguff the Awful.jpg|250px]]
+|name = Alguff the Awful
+|born = [[19th century]] or [[20th century]]<ref>Dungbombs were invented in the 1800s, as such, Alguff must have lived either during this time period or later.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Straw-coloured
+|eyes = Brown
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Commercialist
+|house = 
+|loyalty = 
+}}
+'''Alguff the Awful''' was a [[goblin]] who was known for being particularly foul-smelling. He was well-known throughout the goblin community for attempting to sell vials of his own sweat to a [[Dungbomb]] maker. For this, he was featured on a [[Chocolate Frog Card]].<ref>{{POA|G}}</ref>
+
+==Appearances==
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+
+[[de:Alguff der Abstoßende]]
+[[de2:Alguff der Abstoßende]]
+[[es:Alguff el Horroroso]]
+[[fr:Alguff le Fétide]]
+[[fi:Alguff the Awful]]
+[[pl:Alguff Odrażający]]
+[[Category:Brown-eyed individuals]]
+[[Category:Famous Goblins Chocolate Frog Cards]]
+[[Category:Goblins]]
+[[Category:Males]]

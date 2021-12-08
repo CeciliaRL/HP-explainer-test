@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Quiac Marinus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HPLE"/>
+|gender = Male<ref name="HPLE"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Herbologist]]<ref name="HPLE"/>
+*Author
+|house = 
+|loyalty = 
+}}
+'''Quiac Marinus''' was a [[Wizardkind|wizard]] and [[Herbologist]], who was the author of ''[[Sub-Aquatic Botanical Mysteries]], '' a [[Herbology]] book on [[magic]]al [[Water|underwater]] plants.<ref name="HPLE">{{HPLE|G}}</ref>
+
+==Appearances==
+*{{GOF|F}} {{1st Mention}}
+*{{HPLE}} {{Mention}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]'' {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Herbology}}
+{{DEFAULTSORT:Marinus, Quiac}}
+
+[[es:Quiac Marinus]]
+[[fr:Oluae Marinus]]
+[[pl:Quiac Marinus]]
+[[Category:Authors]]
+[[Category:Herbologists]]
+[[Category:Males]]
+[[Category:Wizards]]

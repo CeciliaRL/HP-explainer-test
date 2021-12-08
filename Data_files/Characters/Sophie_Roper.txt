@@ -1,0 +1,51 @@
+
+{{Cut content}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Sophie Roper
+|born = c. [[1979]]-[[1980]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]], [[Hufflepuff]], or [[Slytherin]]<ref name=house>J. K. Rowling's original list of forty students contains five males and five females from each house. As all five Ravenclaw females are known, the remaining females whose houses are unknown must be in one of the other three houses.</ref>
+|loyalty = *Roper family
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Sophie'''<ref name="pottermore">{{PM}} (transcription available [http://lady-slytherin-forever.tumblr.com/post/8979923935/the-original-forty-off-pottermore here])</ref> '''Roper''' (c. [[1979]]-1980) was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]]. She was in the same year as [[Harry Potter]] and was [[Sorting ceremony|sorted]] into either [[Gryffindor]], [[Hufflepuff]] or [[Slytherin]] house.
+
+==Appearances==
+*{{HPM}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Roper, Sophie}}
+
+[[de:Sophie Roper]]
+[[pl:Sophie Roper]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Sorted in 1991]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

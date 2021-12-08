@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Eldon Elsrickle.png|250px]]
+|name = Eldon Elsrickle
+|born = 
+|died = [[1600s]]
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = The Spectral Thief of Old London Town
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Thief
+|house = 
+|loyalty = 
+}}
+'''Eldon Elsrickle''' (fl. early [[1600s]]) was a [[wizardkind|wizard]] and a thief who was responsible for the introduction of the [[Unlocking Charm]] to [[Great Britain|Britain]], in the early [[17th century]]. Elsrickle was a famed thief, who was behind a series of mysterious robberies in [[London]], earning him the sobriquet of "The Spectral Thief of Old London Town".
+
+==Biography==
+Elsrickle had fled from his native Britain to [[Africa]], hoping to escape punishment for a series of robberies. Whilst there, he obtained two prized treasures: a [[Nundu]] cub, and a little known-charm otherwise known as "The Thief's Friend" that he learn from an [[ancient African sorcerer]]: [[Unlocking Charm|''Alohomora'']].
+
+After some time in Africa, Elsrickle returned to [[London]] heavily disguised. He used the [[Nundu]] cub to guard his house when he was not there (recurring to [[Stunning Spell]]s through the keyhole whenever he entered the house). With the knowledge of a spell that subtly unlocked doors, Elsrickle carried on with his thievery and soon he was taking home priceless treasures and antiques from all over [[London]] — making front page news on [[Non-magic people|Muggle]] and [[wizardkind|wizarding]] newspapers alike.
+
+Elsrickle was surprised a few times in the house of fellow [[wizardkind|wizards]], but whenever this happened, the thief offered to trade his Unlocking Charm for his freedom. This deal was accepted so many times, that before long, there were many "Spectral Thieves" ransacking the houses of London. Elsrickle was confident, however, that no one could rob his house, as it was guarded by his ever-growing [[Nundu]].
+
+[[Blagdon Blay]], a fellow wizard Londoner, had his house broken into nineteen times in the course of two weeks. He managed to [[spell creation|develop]] an [[Anti-Alohomora Charm]] to secure his house, and soon all the London wizards sealed their houses shut at night, and special wizard task-forces protected those of Muggles. Frustrated and angry about not having managed to rob at least one single house, Elsrickle got home one morning, but forgot to [[Stunning Spell|Stun]] his [[Nundu]] — as a result, the beast proceeded to devour him and, effectively, his last word was "''Alohomora''".<ref name="WBoS">{{WBS}} - see [http://www.youtube.com/watch?v=m9LNQV7cGIA&feature=relmfu this video]</ref>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': Eldon was particularly skilled in charms, having learned the [[Unlocking Charm]] and used it effectively to burgle houses in [[London]], as well as passing it onto many other wizards. He was powerful enough to knock out a [[Nundu]] with a single [[Stunning Spell]], and awaken it with a [[Reviving Spell]]; a considerable feat, as by standard Nundu cannot be subdued by any less than one hundred wizards working in tandem. However, Eldon had plenty of practise, having acquired the Nundu first as a cub.
+
+==Appearances==
+*{{WBS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Elsrickle, Eldon}}
+[[fr:Eldon Fricklefrac]]
+[[pl:Eldon Elsrickle]]
+[[Category:17th century deaths]]
+[[Category:British individuals]]
+[[Category:Deaths by creature]]
+[[Category:Males]]
+[[Category:Wizards]]

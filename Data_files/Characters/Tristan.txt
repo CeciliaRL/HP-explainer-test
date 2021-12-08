@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Tristan
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Ireland|Irish]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Tristan''' was an ancient [[Celts|Celtic]] hero who tried to kill the [[giant]] [[Morholt]]. He was wounded with a [[poison]]ed sword by the giant in the process.<ref name="POAG">{{POA|G}}</ref>
+
+==Behind the scenes==
+*Tristan was one of the main characters of the Celtic legend ''Tristan and Iseult''. He was a [[Knights of the Round Table|Knight of the Round Table]] and nephew of King Mark of Cornwall.<ref>[[Wikipedia:Tristan|Tristan]] at [[Wikipedia:Main Page|Wikipedia]]</ref>
+
+==Appearances==
+*{{POA|G}} {{1st Mention}} {{FWC mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Tristan]] 
+[[pl:Tristan]]
+[[Category:Deaths by poisoning]]
+[[Category:Historical figures]]
+[[Category:Humans]]
+[[Category:Irish individuals]]
+[[Category:Males]]

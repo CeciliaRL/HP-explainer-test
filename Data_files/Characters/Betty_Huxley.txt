@@ -1,0 +1,45 @@
+{{Imageless}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Betty Huxley
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]] or [[Ireland|Irish]]<ref name="FBC"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FBC"/>
+|gender = Female<ref name="FBC"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family =  
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Waitress at [[The Three Broomsticks]]<ref name="FBC"/>
+|house = 
+|loyalty = [[Three Broomsticks Inn]]<ref name="FBC"/> 
+}}
+'''Betty Huxley''' was a [[Wizardkind|witch]] and a waitress at [[The Three Broomsticks]]. She was involved in a case about a tenant of [[Agnes Nutt]], who she thought was keeping a [[magic]]al [[beast]].<ref name="FBC">{{FBC|11}}</ref>    
+
+==Appearances==
+*{{FBC}} {{1st}}
+
+==Notes and references==
+{{Reflist}} 
+{{Hogsmeade}}
+{{Character-stub}}
+{{DEFAULTSORT:Huxley, Betty}}
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Three Broomsticks Inn Employees]]
+[[Category:Waitstaff]]
+[[Category:Wizards]]

@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Transylvanian farmer
+|nationality=[[Transylvania]]n<ref name="COS10"/>
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="COS10"/>
+|gender=Male<ref name="COS10"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=Farmer<ref name="COS10"/>
+|house=
+|loyalty=
+}}
+A '''Transylvanian farmer''' was supposedly cured of a [[Babbling Curse]] by [[Gilderoy Lockhart]]. However, it is far more likely that Lockhart either fabricated the incident up or simply took credit for it.<ref name="COS16">{{COS|B|16}}</ref> In [[Harry Potter]]'s [[second year]] in [[1992]], Professor Lockhart chose Harry to help act out this incident during one of his [[Defence Against the Dark Arts]] classes.<ref name="COS10">{{COS|B|10}}</ref>
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Farmers]]
+[[Category:Males]]
+[[Category:Transylvanian individuals]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

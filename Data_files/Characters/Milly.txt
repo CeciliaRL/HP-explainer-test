@@ -1,0 +1,32 @@
+{{WizardsUniteSpoiler}}
+{{Pet individual infobox
+|image = 
+|name = Milly
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Kneazle]]
+|gender = Female
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Scamander family]]
+}}
+'''Milly''' was one of three pet [[Kneazle]]s (the other two being [[Mauler]] and [[Hoppy]]) that belonged to [[Newton Scamander|Newt]] and [[Porpentina Goldstein|Porpentina Scamander]]. Milly lived with the couple in their home in [[Dorset]].<ref name="FBR">{{FB|R}} - "About the Author"</ref>
+
+==Appearances==
+*{{FB|R}} {{1st Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Milly]]
+[[ru:Милли]][[pl:Walek]]
+[[Category:Females]]
+[[Category:Individual cats]]
+[[Category:Kneazles]]
+[[Category:Scamander family]]

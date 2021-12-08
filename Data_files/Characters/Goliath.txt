@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = giant
+|image = [[File:Goliath.png|250px]]
+|name = Goliath
+|born = Biblical times
+|died = Biblical times
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Giant]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = Yellow
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Mercenary
+|house = 
+|loyalty = Philistines
+}}
+'''Goliath''' was a mercenary [[giant]] employed by the [[Philistines]] to fight for them in the [[Israelite-Philistine war|war]] they fought with the [[Israelites]] in [[Bible|Biblical]] times. He was ultimately slain by a [[Goliath's slayer|young boy]] armed only with a [[catapult]].<ref>''{{POA|G}} (Goliath [[Chocolate Frog Card|Famous Wizard Card]])</ref>
+
+==Behind the scenes==
+*Goliath is based on the {{w|Goliath|Biblical figure of the same name}}. In the book {{w|Books of Samuel|1 Samuel}} of the {{w|Old Testament}}, as a teenager, [[David (king)|King David]] slew the giant Goliath, but the [[Chocolate Frog Card]] for Goliath only refers to the giant's slayer as a "young boy" and does not explicitly name David. It is thus possible that Goliath was not slain by David in the [[Harry Potter universe|''Harry Potter'' universe]].
+*Giants in the ''Harry Potter'' universe are said to be between twenty and twenty five feet tall. According to a common interpretation of the Bible, Goliath was about 9 feet 9 inches, making him extremely short by giant standards (but still taller than the {{w|Robert Wadlow|tallest recorded human}}), suggesting that he may have been a [[Half-giant]]. Other interpretations place his height at about 6 feet 7 inches, a more realistic height for a human who was still extremely tall by the standards of the time, making the term "Giant" descriptive.
+*Though David's weapon is sometimes depicted as a [[catapult]], historically it was more likely to have been a {{w|Sling (weapon)|sling}} weapon.
+
+==Appearances==
+
+*{{POA|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Chocolate Frog Cards}}
+{{Giants}}
+
+[[de:Goliath]]
+[[de2:Goliath]]
+[[es:Goliath]]
+[[fr:Goliath]]
+[[ru:Голиаф]]
+[[pl:Goliat]]
+[[fi:Goljat]]
+[[Category:B.C. era births]]
+[[Category:B.C. era deaths]]
+[[Category:Biblical figures]]
+[[Category:Famous Giants Chocolate Frog Cards]]
+[[Category:Giants]]
+[[Category:Males]]
+[[Category:Yellow-eyed individuals]]

@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Alex Sykes
+|born = [[31 August]] [[1985]] or earlier<ref>He must have at least been in his [[first year]] in [[1996]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Jocunda Sykes]] (possibly)
+*[[Alex Sykes (I)]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="HBPG"/>
+|loyalty = *[[Sykes family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+'''Alex Sykes''' was a [[Wizardkind|wizard]] and [[Slytherin]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]]. He blocked access to areas of the school grounds that were off limits during the [[1996–1997 school year]].<ref name="HBPG">{{HBP|G}}</ref>
+
+==Appearances==
+*{{HBP|G}} {{C|Nintendo DS version only}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Sykes, Alex}}
+[[fr:Alex Sykes]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Sykes family]]
+[[Category:Wizards]]

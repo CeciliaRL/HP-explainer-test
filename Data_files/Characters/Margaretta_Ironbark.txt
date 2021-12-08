@@ -1,0 +1,51 @@
+{{HogwartsMysterySpoiler}}
+{{Imageless}}
+{{Individual infobox
+|theme = portrait
+|image = 
+|name = Margaretta Ironbark
+|born = [[19th century]] or earlier<ref name="ADQ">{{HM|3|A DRAGON'S QUEST}}</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="ADQ"/>
+|gender = Female<ref name="ADQ"/>
+|height = 
+|weight = 
+|hair = Dark<ref name="HM5T"/>
+|eyes = 
+|skin = Light<ref name="HM5T"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="ADQ"/>
+**[[Dragon Club]] {{C|founder}}<ref name="ADQ">{{HM|3|A DRAGON'S QUEST}}</ref>
+}}
+'''Margaretta Ironbark''' was a [[Wizardkind|witch]] who founded the [[Dragon Club]] at [[Hogwarts School of Witchcraft and Wizardry]] during the [[1800s]].<ref name="ADQ"/>
+
+==Biography==
+In her youth, she received her magical education from [[Hogwarts School of Witchcraft and Wizardry]]. She was in a study group with [[Olin Oakwood]] and [[Skylar Flame]]. She was best friends with Olin. She and Flame pressured Olin to compete in the tournament with them. When Oakwood defeated them and won the Tournament, their study group fell apart and each of them formed their own clubs, each one dedicated to the areas of study that was best suited for them.<ref name="HM5T">{{HM|5|THE TOURNAMENT OF CLUBS}}</ref>
+
+==Appearances==
+*{{HM}} {{1st}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ironbark, Margaretta}}
+[[ja:マーガレッタ・アイロンバーク]]
+[[Category:British or Irish individuals]]
+[[Category:Dragon Club]]
+[[Category:Females]]
+[[Category:Historical figures]]
+[[Category:Portraits]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

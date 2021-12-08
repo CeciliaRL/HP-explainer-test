@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Gryffindor prefect
+|born = between [[1 September]]  [[1975]] and [[31 August]] [[1976]] (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Prefect]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Blonde
+|eyes = Brown
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+{{Quote|These hourglasses show the total amount of house points on any day. Gryffindor is in the lead!|The Gryffindor speaking with another student|Harry Potter and the Philosopher's Stone (video game)}}
+
+This '''wizard''' (c. [[1975]]-[[1976]]) attended [[Hogwarts School of Witchcraft and Wizardry]]. He was Sorted into [[Gryffindor|Gryffindor House]], with [[Minerva McGonagall]] as his [[Head of House]], and became a [[prefect]] in his [[fifth year]]. He often stood in the [[Entrance Hall]] near the front door, and told any who came what the house point totals were.<ref>Seen in the ''[[Harry Potter and the Philosopher's Stone (video game)|Philosopher's Stone]]'', ''[[Harry Potter and the Chamber of Secrets (video game)|Chamber of Secrets]]'' and ''[[Harry Potter and the Prisoner of Azkaban (video game)|Prisoner of Azkaban'' games]]</ref>
+
+==Behind the scenes==
+*For him to have been a [[Gryffindor]] [[Prefect]] for Harry's first three years at Hogwarts, this would seem to put him in the same year as [[Percy Weasley]], who was also a Gryffindor Prefect. As only one Prefect is chosen per gender per House per year, this creates a discrepancy. It is possible that he may have been held back a year for some reason, like [[Marcus Flint]].
+
+==Appearances==
+*{{PS|G}} {{1st}}
+*{{COS|G}}
+*{{POA|G}}
+
+==Notes and references==
+{{Reflist}}
+{{Head boys and prefects}}
+[[es:Prefecto de Gryffindor no identificado (I)]]
+[[pl:Prefekt Gryffindoru Sali Wejściowej]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts prefects]]
+[[Category:Males]]
+[[Category:Sorted in the 1980s]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

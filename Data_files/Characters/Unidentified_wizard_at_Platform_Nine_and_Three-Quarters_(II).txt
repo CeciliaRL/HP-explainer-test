@@ -1,0 +1,49 @@
+{{conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Unidentified wizard
+|hideb=
+|born=
+|died=
+|blood=
+|marital=Married (possibly)
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]<ref name="DHF2"/>
+|gender=Male<ref name="DHF2"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=Children<ref name="DHF2"/>
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DHF2"/>
+*[[Platform Nine and Three-Quarters]]<ref name="DHF2"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who stood at [[Platform Nine and Three-Quarters|Platform 9 3/4]] in [[2017]], saying goodbye to his children at the [[Hogwarts Express]] on their travel to [[Hogwarts School of Witchcraft and Wizardry]].<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*He is portrayed by [[Michael Aston]] in {{DH|F2}}.
+
+==Appearances==
+*{{DH|F2}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

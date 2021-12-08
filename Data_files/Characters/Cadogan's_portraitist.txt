@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Cadogan's portraitist
+|image = 
+|born = 
+|died = 
+|blood = 
+|nationality = 
+|signature = 
+|title = 
+|alias = 
+|signature = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|skin = 
+|hair = 
+|eyes = 
+|height = 
+|weight = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|house = 
+|job = [[Portrait]]ist<ref name="PM"/>
+|loyalty = 
+|theme = wizard
+}}
+This [[Wizardkind|wizard]] '''portraitist''' (fl. [[Middle Ages]]) was responsible for creating the [[portrait]] of [[Cadogan|Sir Cadogan]] that would eventually be hung in [[Hogwarts Castle]]. The portrait was composed of both Cadogan and [[Cadogan's pony|his pony]] on a vibrant landscape. As the portraitist interpreted Cadogan as a fairly unbalanced [[Wizardkind|wizard]], constantly looking for a fight and falling from his [[horse]], this was how the portrait acted upon its completion.<ref name="PM">{{WW|hogwarts-portraits}}</ref>
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Artists]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

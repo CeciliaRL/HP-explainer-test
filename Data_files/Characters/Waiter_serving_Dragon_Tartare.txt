@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Waiter serving Dragon Tarare
+|hideb=hide
+|born=In or before [[1985]]<ref>He had to be at least eleven years old to start at Hogwarts.</ref>
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male<ref name="FILM">{{HBP|F}}</ref>
+|height=
+|hair=Red<ref name="FILM"/>
+|eyes=Dark<ref name="FILM"/>
+|skin=Light<ref name="FILM"/>
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Waiter at [[Slug Club Christmas party]]<ref name="FILM"/>
+|house=
+|loyalty=[[Slug Club Christmas party]]
+}}
+{{Quote|Excuse me. Do you want some dragon tartare?|The waiter|Harry Potter and the Half-Blood Prince (film)}}
+This '''waiter''' served food and drinks at the [[Slug Club]] [[Christmas]] [[Slug Club Christmas party|party]] in [[1996]] along with [[Neville Longbottom]] and [[Decorative waiter serving Dragon Tartare|another waiter]]. He offered [[dragon tartare]] to some party guests, but they passed.<ref name="FILM"/>
+
+==Behind the scenes==
+*It is currently unknown whether he was a student or an adult hired specifically for the party.
+*In {{LEGO|Y2}}, Neville Longbottom was the only waiter serving food and drinks.
+
+==Appearances==
+*{{HBP|F}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Waitstaff]]
+[[Category:Wizards]]

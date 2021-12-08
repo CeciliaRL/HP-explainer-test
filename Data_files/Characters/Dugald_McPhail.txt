@@ -1,0 +1,82 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Dugald McPhail
+|born = Before [[1841]]<br/>[[Scotland]]
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">According to {{PM}}, Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office)</ref>
+|marital = 
+|nationality = [[Scotland|Scottish]]
+|alias = 
+|title = [[Minister for Magic]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Minister for Magic]] ([[1858]] - [[1865]])
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+*[[British Ministry of Magic]]
+}}
+{{Quote|Their puir wee braines couldnae cope wi' it.|Dugald McPhail on why emergency meetings between the [[Minister for Magic]] and the [[Prime Minister (title)|Muggle Prime Minister]] never take place at the [[British Ministry of Magic Headquarters|Ministry of Magic]].|Pottermore}}
+'''Minister Dugald McPhail''' was a [[wizardkind|wizard]]. A [[Hufflepuff]] in his [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] years, he rose to the office of [[Minister for Magic]], serving from [[1858]] to [[1865]].<ref name="pottermore">{{PM}}</ref>
+
+==Biography==
+===Early life===
+Dugald McPhail was born on an unknown date, no later than [[1841]],<ref>In order to have been appointed Minister for Magic in [[1858]], McPhail would have had to be out of Hogwarts and thus at least 17 at that point, placing his earliest birth year in [[1841]] — although it is unlikely someone that young would become Minister for Magic.</ref> to at least one magical parent. His surname, coupled with the fact that he spoke in a heavy Scottish brogue, implies he was from [[Scotland]], or had Scottish ancestry.
+
+In his youth, he attended [[Hogwarts School of Witchcraft and Wizardry]], where he was [[Sorting ceremony|Sorted]] into [[Hufflepuff]].<ref name="pottermore"/>
+
+===As Minister for Magic===
+McPhail was appointed [[Minister for Magic]], sometime after leaving Hogwarts, from [[1858]] to [[1865]].<ref name="pottermore"/>.  He was elected Minister at least once, perhaps twice.
+
+During his time as Minister, McPhail came up with the idea of mimicking the then-new [[Non-magic people|Muggle]] bus service to provide underage and infirm [[wizardkind|witches and wizards]] with a discreet method of transportation, leading to the introduction of the [[Knight Bus]] in [[1865]].<ref name="Knight Bus">{{WW|the-knight-bus}}</ref>
+
+His overall term in office was viewed as "successful" by [[Gabriel Truman]] in the [[1990s]].<ref name="pottermore" />
+
+===Legacy===
+On [[1 September]], [[1991]], [[Prefect]] [[Gabriel Truman]] welcomed the [[Hufflepuff]] [[first year]]s to [[Hufflepuff Basement]] with a short speech in which he mentioned former Minister Dugald McPhail as one of the many notable Hogwarts students who were [[Sorting ceremony|Sorted]], like them, into Hufflepuff.<ref name="pottermore" />
+
+==Appearances==
+*{{PM}} {{1st Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Priscilla Dupont]]
+|position=[[Minister for Magic]]
+|years=[[1858]]-[[1865]]
+|successor=[[Faris Spavin]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:McPhail, Dugald}}
+
+[[de:Dugald McPhail]]
+[[es:Dugald McPhail]]
+[[fr:Dugald McPhail]]
+[[pl:Dugald McPhail]]
+[[pt-br:Dugald McPhail]]
+[[ru:Дугалд Макфэйл]]
+[[zh:杜格德·麦克费尔]]
+
+[[Category:British Ministers for Magic]]
+[[Category:Historical figures]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Scottish individuals]]
+[[Category:Wizards]]

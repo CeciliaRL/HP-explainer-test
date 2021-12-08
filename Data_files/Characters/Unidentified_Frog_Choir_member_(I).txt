@@ -1,0 +1,57 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Unidentified Frog Choir member (I)
+|born = [[31 August]] [[1982]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+**[[Frog Choir]]
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] and was sorted into [[Hufflepuff|Hufflepuff House]]. During his school years, he performed in the [[Frog Choir]] in the 1990s.<ref name="POAF">{{POA|F}}</ref>
+
+==Biography==
+In [[1993]], after the sorting, he appeared with other members singing [[Double Trouble|Something Wicked This Way Comes]] before Dumbledore spoke.<ref name="POAF"/>
+
+In [[1997]], he was part of the group who sang [[In Noctem]] before Headmaster [[Albus Dumbledore]] was [[Battle of the Astronomy Tower|killed]] by Professor [[Severus Snape]].<ref name="HBPF">{{HBP|F}}</ref>
+
+It is unknown if he survived the [[Second Wizarding War]].
+[[File:Choir singer I.png|220x220px|thumb|The choir member, in 1997 (circled red)]]
+
+==Behind the scenes==
+*He is played by [[Phil Cross]] in in the film adaptations of {{POA}} and {{HBP}} in a deleted scene.
+
+==Appearances==
+*{{POA|F}} {{1st}}
+*{{HBP|F}} {{Deleted scenes}}
+*{{LEGO|Y1}} {{C| Appears as a generic [[Hufflepuff]] Student}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Hufflepuffs]]
+[[Category:Wizards]]

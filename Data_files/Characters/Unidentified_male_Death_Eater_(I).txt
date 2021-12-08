@@ -1,0 +1,60 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=death-eater
+|image=[[File:Unidentified Male Death Eater (I).jpg|250px]]
+|name=Unidentified Death Eater
+|hideb=
+|born=
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="Blood">The [[Death Eaters]] were known to vehemently oppose and despise all [[Muggle-born]]s and [[Non-magic people|Muggles]] in general.</ref>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DHF1"/>
+|gender=Male<ref name="DHF1"/>
+|height=
+|hair=Black<ref name="DHF1"/>
+|eyes=Dark<ref name="DHF1"/>
+|skin=Pale<ref name="DHF1"/>
+|hidef=Yes
+|family=
+|hidem=Yes
+|animagus=
+|boggart=
+|wand=
+|patronus=None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|hidea=
+|job=
+|house=
+|loyalty=*[[Tom Riddle|Lord Voldemort]]<ref name="DHF1"/>
+**[[Death Eaters]]<ref name="DHF1"/>
+}}
+The '''Unidentified male Death Eater''' was a [[Dark Wizard]] and a servant of [[Tom Riddle|Lord Voldemort]]. He was present at the meeting at [[Malfoy Manor]] in [[July]] [[1997]],<ref name="DHF1"/> and also participated in the [[Battle of Hogwarts]] during the [[Second Wizarding War]].<ref name="DHF2"/>
+
+==Biography==
+===Early life===
+It is possible that he attended [[Hogwarts School of Witchcraft and Wizardry]] around the [[1970s]], and was subsequently [[Sorting ceremony|sorted]] into [[Slytherin]] house, along with most other [[Death Eaters]]. He would later graduate and become a Death Eater, swearing allegiance to [[Tom Riddle|Lord Voldemort]].<ref name="DHF1"/>
+
+===Second Wizarding War===
+This individual was first seen during the [[Meeting at Malfoy Manor|Meeting]] at [[Malfoy Manor]] where he sat next to Lord Voldemort. He listened to [[Severus Snape]] and Voldemort speak about the [[British Ministry of Magic|Ministry of Magic]].<ref name="DHF1">{{DH|F1}}</ref>
+
+This Death Eater also fought at [[Battle of Hogwarts]] in [[1998]], during which he was seen in the [[Forbidden Forest]] when Voldemort tried to kill [[Harry Potter]]. He was later seen standing in the destroyed courtyard after Voldemort boasted about Harry's supposed death. After Harry was revealed to be alive, however, the Death Eater [[Apparition|apparated]] away from the battlefield.<ref name="DHF2">{{DH|F2}}</ref>
+
+===Later Life===
+After Voldemort was killed by Harry, this man was possibly killed during the final stages of the battle, or was imprisoned in [[Azkaban]] for his crimes as a Death Eater. It is also possible that he went on the run as an outlaw. 
+
+==Behind the scenes==
+*This [[Death Eaters|Death Eater]] was portrayed by [[Emil Hostina]] in {{DH|F1}} and ''[[Harry Potter and the Deathly Hallows: Part 2|Part 2]]''.
+*This individual may be the [[Unidentified Death Eater who engaged Arthur Weasley|unidentified]] Death Eater that duelled with [[Arthur Weasley]] or the [[Stunned Death Eater|unidentified]] Death Eater that was stunned in the [[Viaduct Courtyard]].
+
+==Appearances==
+*{{DH|F1}} {{1st}}
+*{{DH|F2}}<ref>Despite this character not actually being identified in the film, there were more than one hundred [[Death Eaters]] at the [[Battle of Hogwarts]].</ref>
+
+==Notes and references==
+{{Reflist}}[[pl:Niezidentyfikowany Śmierciożerca walczący w drugiej fazie Bitwy o Hogwart]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British individuals]]
+[[Category:Males|Death Eater (I)]]
+[[Category:Meeting at Malfoy Manor participants]]
+[[Category:Unidentified Death Eaters|Male Death Eater (I)]]

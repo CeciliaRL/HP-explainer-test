@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme=wizard
+|image=NOZÉA LESTRANGE.jpg
+|name=Nozéa Lestrange
+|born=
+|died=
+|blood=[[Pure-blood]]<ref>She was a member of the [[Sacred Twenty-Eight]] Lestrange family.</ref>
+|marital=Unmarried<ref name="Tree">{{COG}} {{see image|File:Lestrange family tree.png}}</ref>
+|alias=
+|title=
+|signature=
+|species=[[Human]]
+|gender=Female<ref name="Tree" />
+|height=
+|hair=
+|eyes=
+|skin=
+|family=*[[Quintilla Lestrange]] (mother)<ref name="Tree" />
+*[[Fulcran Lestrange (III)|Fulcran Lestrange]] (father)<ref name="Tree" />
+*[[Cyrille Lestrange (IV)|Cyrille Lestrange]] (maternal uncle)<ref name="Tree" />
+*[[Balbine Lestrange (II)|Balbine Lestrange]] (paternal aunt)<ref name="Tree" />
+*[[Pucine Lestrange (II)|Pucine Lestrange]] (paternal aunt)<ref name="Tree" />
+*[[Jodelle Lestrange]] (maternal grandmother)<ref name="Tree" />
+*[[Floxel Lestrange]] (maternal grandfather)<ref name="Tree" />
+*[[Fulcran Lestrange (II)|Fulcran Lestrange]] (paternal grandfather)<ref name="Tree" />
+*[[Sotère Lestrange|Sotére Lestrange]] (paternal grandmother)<ref name="Tree" />
+*[[Cyrille Lestrange (III)|Cyrille Lestrange]] (maternal great-grandfather)<ref name="Tree" />
+*[[Luminosa Lestrange]] (maternal great-grandmother)<ref name="Tree" />
+*[[Cyrille Lestrange (II)|Cyrille Lestrange]] (paternal great-great-grandfather)<ref name="Tree" />
+*[[Darenne Lestrange]] (paternal great-great-grandmother)<ref name="Tree" />
+*[[Fulcran Lestrange (I)|Fulcran Lestrange]] (paternal great-grandfather)<ref name="Tree" />
+*[[Pucine Lestrange (I)|Pucine Lestrange]] (paternal great-grandmother)<ref name="Tree" />
+*[[Cyrille Lestrange (I)|Cyrille Lestrange]] (paternal great-great-great-grandfather and maternal great-great-grandfather)<ref name="Tree" />
+*[[Lestrange family]]<ref name="Tree" />
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=
+|house=
+|loyalty=[[Lestrange family]]
+}}
+'''Nozéa Lestrange''' was a [[pure-blood]] [[Wizardkind|witch]] and a member of the [[pure-blood]] [[Lestrange family]]. She was the only daughter of [[Quintilla Lestrange]] and [[Fulcran Lestrange (III)|Fulcran Lestrange]]. By [[1927]], she had not been married or had any children, and represented the end of her branch of the Lestrange family.<ref name="Tree" />
+
+==Appearances==
+*{{COG}}
+*{{AM}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Lestrange, Nozéa}}
+[[fr:Nozéa Lestrange II]]
+[[pl:Nozéa Lestrange]]
+[[Category:Females]]
+[[Category:Lestrange family]]
+[[Category:Pure-bloods]]
+[[Category:Unmarried individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,73 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Orsino Thruston.jpg|250px]]
+|name = Orsino Thruston
+|born = [[1976]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOHP">{{LEGO|Y1}}</ref>
+|wand = 
+|patronus = Non-corporeal<ref name="LEGOHP"/>
+|job = Drummer for [[Weird Sisters|The Weird Sisters]]
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Weird Sisters|The Weird Sisters]]
+}}
+'''Orsino Thruston''' (born [[1976]]) was a [[Wizardkind|wizard]] and the drummer for the popular band [[Weird Sisters|The Weird Sisters]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+
+==Biography==
+On the [[25 December]] [[1994]] ([[Christmas|Christmas Day]]), Orsino with the rest of his band played at the [[Yule Ball]] at [[Hogwarts School of Witchcraft and Wizardry]] in the [[Great Hall]], for the [[Triwizard Tournament]] celebrations that were being held at that time.<ref name="GOF23">{{GOF|B|23}}</ref>
+
+==Behind the scenes==
+*[[Phil Selway]] portrayed Orsino in {{GOF|FA}}.
+*Orisno is an unlockable and playable character in {{LEGO|Y1}}, where he is unnamed but simply identified as "Drummer".<ref name="LEGOHP">{{LEGO|Y1}}</ref>
+*Orsino attended [[Hogwarts School of Witchcraft and Wizardry]] from [[1987]] to [[1994]], the same years that [[Percy Weasley]]. In {{HM}}, he was attending Hogwarts in a timed side quest set in Year 2 (the [[1985–1986 school year]]), causing an anachronism, as Orsino was only be around nine years old at the time. Similar issues have been present in other timed side quests as well, meaning it is possible the side quest actually takes place in a later year.
+
+==Etymology==
+The name "Orsino" is the Italian form of the Roman name Ursinus, itself derived from Ursus. This is the name of a character in [[William Shakespeare|Shakespeare's]] comedic play 'Twelfth Night' ([[1602]]).
+
+==Appearances==
+{{Imagecat|Images of Orsino Thruston}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{GOF}} {{Comment|unnamed}}
+*{{GOF|F}}
+*{{LEGO|Y1}} {{Comment|Appears as "Drummer"}}
+*{{HM}}
+
+==Notes and references==
+{{Reflist}}
+{{Weird Sisters}}
+{{Chocolate Frog Cards}}
+{{DEFAULTSORT:Thruston, Orsino}}
+
+[[de:Orsino Thruston]]
+[[es:Orsino Thruston]]
+[[fr:Orsino Thruston]]
+[[fi:Orsino Thruston]]
+[[it:Orsino Thruston]]
+[[pl:Orsino Thruston]]
+[[ru:Орсайно Фрастон]]
+[[Category:1976 births]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Males]]
+[[Category:Sorted in 1987]]
+[[Category:Unknown House]]
+[[Category:Weird Sisters]]
+[[Category:Wizards]]

@@ -1,0 +1,31 @@
+{{Transcribed image|File:NewYorkGhost-6December1926.jpg}}
+{{Individual infobox
+|name = E. Lambini
+|nationality = [[United States of America|American]]
+|species = [[Human]]
+|job = Sports reporter for ''[[The New York Ghost]]''
+|loyalty = [[The New York Ghost]]
+|theme = wizard
+|hideb = 
+|hidep = 
+|hidef = 
+|hidem = y
+|hidea = 
+}}
+'''E. Lambini''' was an [[United States of America|American]] [[Wizardkind|wizard]] and sports reporter for ''[[The New York Ghost]]'' in the [[1920s]].<ref name="nyghost-dec6">{{WWMM|1}} {{see image|File:NewYorkGhost-6December1926.jpg}}</ref><ref name="nyghost-dec7">{{CB}} {{see image|File:The New York Ghost - 7 Dec 1926.png}}</ref>
+
+==Biography==
+They wrote an article about [[wizardkind|wizarding]] interest in the [[Muggle|No-Maj]] game [[baseball]] that was published in the [[6 December]] [[1926]] sunset issue of the newspaper.<ref name="nyghost-dec6" /> This was followed by an article by them in [[7 December|the next day's]] sunset edition examining whether [[football|soccer]] was the No-Maj equivalent of [[Quidditch]].<ref name="nyghost-dec7" />
+
+==Appearances==
+*{{FB|F}} {{comment|Mentioned in a newspaper}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Lambini, E.}}
+[[fr:E. Lambini]]
+[[Category:American individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Journalists]]
+[[Category:The New York Ghost staff]]
+[[Category:Wizards]]

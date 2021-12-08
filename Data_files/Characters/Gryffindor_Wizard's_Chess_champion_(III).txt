@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:Gryffindor Chess Champion III.jpg|250px]]
+|name = Gryffindor Wizard's Chess champion
+|born = Between [[1 September]] [[1977]] and [[31 August]] [[1984]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTPG"/>
+|gender = Male<ref name="OOTPG"/>
+|height = 
+|weight = 
+|hair = Black<ref name="OOTPG"/>
+|eyes = Brown<ref name="OOTPG"/>
+|skin = Dark<ref name="OOTPG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="OOTPG"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+{{Quote|You'd like to play chess with me? Right now?|The Wizard's Chess champion|Harry Potter and the Order of the Phoenix (video game)}}
+The '''Gryffindor Wizard's Chess champion''', as the title suggests, refers to the [[Wizard's Chess]] Champion for [[Gryffindor|Gryffindor House]], at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="OOTPG"/>
+
+==Biography==
+The boy came to be educated at [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|sorted]] into [[Gryffindor|Gryffindor House]]. His [[Head of House]] was [[Professor]] [[Minerva McGonagall]], the [[Transfiguration]] teacher, and he shared a dormitory with four other boys in his year in [[Gryffindor Tower]]. He was skilled in [[Wizard's Chess]] and could be usually found playing on a table in a niche in the common room.<ref name="OOTPG">{{OOTP|G}}</ref>
+
+==See also==
+*[[Ravenclaw Wizard's Chess champion]]
+*[[Slytherin Wizard's Chess champion]]
+
+==Appearances==
+*{{OOTP|G}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Unidentified Gryffindors]]
+[[Category:Wizards]]

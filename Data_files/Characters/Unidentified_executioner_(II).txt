@@ -1,0 +1,37 @@
+{{Individual infobox
+|image = Executioner 3.jpg
+|name = Unidentified executioner
+|born = [[United States of America]]<ref name="FBS"/>
+|nationality = [[United States of America|American]]<ref name="FBS"/>
+|species = [[Human]]<ref name="FBS"/>
+|gender = Male<ref name="FBS"/>
+|hair = Dark<ref name="FBF">{{FB|F}}</ref>
+|skin = Light<ref name="FBF"/>
+|wand = Unknown length, wood and core<ref name="FBS"/>
+|job = [[Executioner]] at the [[Magical Congress of the United States of America]]<ref name="FBS"/>
+|loyalty = [[Magical Congress of the United States of America]]<ref name="FBS"/>
+|theme = macusa
+}}This '''individual''' was an [[United States of America|American]] [[Wizardkind|wizard]] who worked as an [[Executioner]] for [[Magical Congress of the United States of America|Magical Congress]] in [[1926]].<ref name="FBS">{{FB|S}}</ref>
+
+==Biography==
+Along with [[Bernadette]] and [[Unidentified executioner (I)|another witch]], he assisted in the execution of [[Newton Scamander]] and [[Porpentina Goldstein]] after being sentenced to [[Death]] by [[Gellert Grindelwald]] (disguised as [[Percival Graves]]) for violating the [[International Statute of Wizarding Secrecy]]. The execution was stopped when Newt and Tina were rescued by a [[Swooping Evil]].<ref name="FBS"/>
+
+During the fight, Newt knocked him out by whacking him in the face with his (Newt's) handcuffs.<ref name="FBS"/>
+
+==Behind the scenes==
+*The Executioner was portrayed by [[Cristian Solimeno]] in ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]''.
+*He was the only of the three Executioners not to be mentioned in the [[Fantastic Beasts and Where to Find Them: The Original Screenplay|original screenplay]].
+
+==Appearances==
+*{{FB|S}} {{1st}}
+*{{FB|F}}
+
+==Notes and references==
+{{Reflist}}
+{{MACUSA}}
+[[Category:American individuals]]
+[[Category:Executioners]]
+[[Category:Magical Congress of the United States of America employees]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,44 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Bethany Swordbane
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="WU"/>
+|gender = Female<ref name="WU">{{WU}} "Brilliant Event: First Year at Hogwarts"</ref>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="WU"/>
+}}
+{{Quote|Do you want a bit of scandal? I knew a girl at Hogwarts — Bethany Swordbane — who was obsessed with Goblins. She would make me go to Gringotts with her and we would stand in the lobby for hours while she ogled. It was… uncomfortable.|[[Constance Pickering]]|Harry Potter: Wizards Unite}}
+'''Bethany Swordbane''' was a [[Wizardkind|witch]] and a student at [[Hogwarts School of Witchcraft and Wizardry]] around the same time as [[Constance Pickering]]. Obsessed with [[Goblin]]s, she would make Constance go to with her to [[Gringotts Wizarding Bank]], where they would stand in the lobby for hours while she ogled at the bankers being hard at work.<ref name="WU"/>
+
+==Appearances==
+*{{WU}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Swordbane, Bethany}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

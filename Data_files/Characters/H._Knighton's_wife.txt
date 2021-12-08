@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mrs Knighton
+|born = 
+|died = 
+|blood = 
+|marital = Widowed<ref name="DHG1"/>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DHG1"/>
+|gender = Female<ref name="DHG1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[H. Knighton]] (husband) †<ref name="DHG1"/>
+*[[H. Knighton's offspring|At least one child]]<ref name="DHG1"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Knighton family]]<ref name="DHG1"/>
+}}
+{{Quote|H. Knighton. Father, husband, philosopher.|H. Knighton's epitaph|Harry Potter and the Deathly Hallows: Part 1 (video game)}}
+
+'''Mrs Knighton''' was the wife of [[H. Knighton]], a man who lived in [[Godric's Hollow]], with whom she had [[H. Knighton's offspring|at least one child]]. She and her offspring wrote a brief epitaph for Knighton's grave.<ref name="DHG1">{{DH|G1}}</ref>
+
+==Appearances==
+*{{DH|G1}} {{Indirect}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Knighton}}
+[[pl:Żona H. Knightona]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Knighton family]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Widowed individuals]]

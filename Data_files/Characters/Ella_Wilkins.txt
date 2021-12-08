@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = 
+|born = [[1 September]] [[1978]] - [[31 August]] [[1982]]<ref>She attended Hogwarts during the 1993-1994 school year and the 1996-1997 school year. 1 September is the earliest possible birthday to not be able to go to Hogwarts that year upon turning 11. 31 August is the latest possible birthday to be able to go to Hogwarts that year upon turning 11.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Heliotrope Wilkins]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="house">{{POA|G}} {{C|PS2 version}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+*[[Wilkins family]]
+}}
+'''Ella Wilkins''' was a [[Slytherin]]<ref name="house"/> student at [[Hogwarts School of Witchcraft and Wizardry]]. She attended Hogwarts in the [[1993–1994 school year]] and competed in the school [[Exploding Snap]] tournament during the [[1996–1997 school year]].
+
+==Appearances==
+*{{POA|G}} {{PS2 only}}
+*{{HBP|G}} {{NDS only}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts Exploding Snap}}
+{{DEFAULTSORT:Wilkins, Ella}}
+
+[[es:Ella Wilkins]]
+[[pl:Ella Wilkins]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Exploding Snap players]]
+[[Category:Females]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wilkins family]]
+[[Category:Wizards]]
